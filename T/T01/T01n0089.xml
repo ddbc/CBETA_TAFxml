@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">八關齋經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0089</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0913a14" ed="T"/><lb
+ n="0913a15" ed="T"/><lb
+ n="0913a16" ed="T"/><div type="jing" level="1"><lb
+ n="0913a17" ed="T"/>
+<ab type="juan" subtype="open">佛說八關齋經</ab><lb
+ n="0913a18" ed="T"/><lb
+ n="0913a19" ed="T"/><byline>宋居士沮渠京聲譯</byline><lb
+ n="0913a20" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0913a21" ed="T"/>園。爾時，世尊告諸比丘：「我今當說聖八關齋。<lb
+ n="0913a22" ed="T"/>諦聽諦聽，善思念之，我今當說。」對曰：「如是世<lb
+ n="0913a23" ed="T"/>尊！」爾時，彼比丘從佛受教。世尊告曰：「於是比<lb
+ n="0913a24" ed="T"/>丘！若信族姓子族姓女，欲知聖八關齋，便教<lb
+ n="0913a25" ed="T"/>某甲當作是說：『猶如阿羅漢，盡形壽不殺生，<lb
+ n="0913a26" ed="T"/>亦不教人殺生，無怨恨心當懷慚愧，有慈<lb
+ n="0913a27" ed="T"/>心愍一切眾生。我字某名某，為阿羅漢所教，<lb
+ n="0913a28" ed="T"/>自今日始，隨意所欲不復殺生，無怨恨心常<lb
+ n="0913a29" ed="T"/>懷慚愧，有慈心愍一切眾生。猶如阿羅漢，盡<pb n="0913b" ed="T" id="T01.0089.0913b"/><lb
+ n="0913b01" ed="T"/>形壽不盜、好施，亦不教人盜，常樂閑處。如是<lb
+ n="0913b02" ed="T"/>我字某名某，為阿羅漢所教，隨意所欲不復<lb
+ n="0913b03" ed="T"/>盜竊，常懷惠施，樂閑居處。猶如阿羅漢，盡形<lb
+ n="0913b04" ed="T"/>壽不習不淨行，常修梵行，清淨無穢而自娛<lb
+ n="0913b05" ed="T"/>樂。如是我字某名某，為阿羅漢所教，自今已<lb
+ n="0913b06" ed="T"/>後不復婬妷，清淨無穢。猶如阿羅漢，盡形壽<lb
+ n="0913b07" ed="T"/>不妄語，常行審諦，最尊最貴，諸尊長為世所<lb
+ n="0913b08" ed="T"/>貴。如是我字某名某，為彼阿羅漢所教，自今<lb
+ n="0913b09" ed="T"/>已後更不復妄語，亦不教人使習妄語，當行<lb
+ n="0913b10" ed="T"/>審諦，為世尊長不行妄語。猶如阿羅漢，亦不<lb
+ n="0913b11" ed="T"/>飲酒，如是我字某名某，自今已後隨意所欲<lb
+ n="0913b12" ed="T"/>亦不飲酒，亦不教人使飲酒。猶如阿羅漢，盡<lb
+ n="0913b13" ed="T"/>形壽不犯齋，隨時食。如是我字某名某，今<lb
+ n="0913b14" ed="T"/>一日一夜隨意所欲亦不犯齋，亦不教人使<lb
+ n="0913b15" ed="T"/>犯齋，隨時食。猶如阿羅漢，盡形壽不於高好<lb
+ n="0913b16" ed="T"/>床坐。如是我字某名某，今一日一夜不於高<lb
+ n="0913b17" ed="T"/>廣床坐，亦不教人使坐。猶如阿羅漢，盡形<lb
+ n="0913b18" ed="T"/>壽不習歌舞戲樂，亦不著紋飾香熏塗身。今<lb
+ n="0913b19" ed="T"/>一日一夜不習歌舞戲樂，亦不著紋飾香熏<lb
+ n="0913b20" ed="T"/>塗身。』「如是修行聖八關齋，於是八關齋中功<lb
+ n="0913b21" ed="T"/>德不可限量，言有爾所福、爾所功德、爾所福<lb
+ n="0913b22" ed="T"/>報，如是眾多福不可稱計。諸比丘！譬如五大<lb
+ n="0913b23" ed="T"/>流水皆同一處，所謂恒伽、謠婆奴、新頭、阿脂<lb
+ n="0913b24" ed="T"/>耶、婆提摩棄，彼水所流處不可限量，言有爾<lb
+ n="0913b25" ed="T"/>所水、有爾所瓶水，有爾所千瓶百千瓶水。如<lb
+ n="0913b26" ed="T"/>是聖八關齋福不可稱量，言有爾所福、爾所<lb
+ n="0913b27" ed="T"/>功德、爾所果報，此大福不可稱計。」爾時諸比<lb
+ n="0913b28" ed="T"/>丘聞佛所說，歡喜奉行。<lb
+ n="0913b29" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說八關齋經</ab></div>
+</body></text></TEI>

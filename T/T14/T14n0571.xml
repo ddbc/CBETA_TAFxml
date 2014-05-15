@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說婦人遇辜經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0571</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0944a" ed="T" id="T14.0571.0944a"/><lb
+ n="0944a01" ed="T"/><lb
+ n="0944a02" ed="T"/><lb
+ n="0944a03" ed="T"/>
+<ab type="juan" subtype="open">佛說婦人遇辜經</ab><lb
+ n="0944a04" ed="T"/><lb
+ n="0944a05" ed="T"/><byline>乞伏秦沙門聖堅譯</byline><lb
+ n="0944a06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨精舍，<lb
+ n="0944a07" ed="T"/>與大比丘眾千二百五十人俱。時有一人無<lb
+ n="0944a08" ed="T"/>婦，往詣舍衛國，娶婦本國，自有兩子，大子<lb
+ n="0944a09" ed="T"/>七歲，次子孩抱，母復懷軀，欲向在產。天<lb
+ n="0944a10" ed="T"/>竺禮俗，婦人臨月，歸父母國。時夫婦乘車載<lb
+ n="0944a11" ed="T"/>二子，當詣舍衛，中路食息并牧牛。時有毒<lb
+ n="0944a12" ed="T"/>蛇，纏繞牛脚，牛遂離圈，其夫取牛，欲得嚴<lb
+ n="0944a13" ed="T"/>發，見牛為毒蛇所殺，蛇復捨牛，復纏夫殺。<lb
+ n="0944a14" ed="T"/>婦遙見之，怖懼戰慄，啼哭呼天，無救護者。<lb
+ n="0944a15" ed="T"/>日遂欲冥，去道不遠，有流河水，水碓有家<lb
+ n="0944a16" ed="T"/>居，婦迫日冥，懼為賊所劫，棄車將二子到<lb
+ n="0944a17" ed="T"/>水畔，留大子著水邊，抱小子渡水。適到水<lb
+ n="0944a18" ed="T"/>半，狼食其子，子叫呼母，母時還顧見子，為<lb
+ n="0944a19" ed="T"/>狼所噉，驚惶怖懼，失抱中子，隨水墮流。母<lb
+ n="0944a20" ed="T"/>益懊惱，迷惑失志頓躓水中，墮所懷子。遂<lb
+ n="0944a21" ed="T"/>便渡水，問道行人：「我家父母，為安隱不？」行<lb
+ n="0944a22" ed="T"/>人答曰：「昨家失火，皆燒父母，悉盡無餘。」又<lb
+ n="0944a23" ed="T"/>問行人：「我夫家姑妐為安隱不？」行人答曰：<lb
+ n="0944a24" ed="T"/>「昨有劇賊，傷害其家，姑妐皆死，無完在者。」<lb
+ n="0944a25" ed="T"/>其母聞之，愁憂怖懼，心迷意惑，不識東西，<lb
+ n="0944a26" ed="T"/>脫衣裸形，迷惑狂走。道中行人，見大怪之，<lb
+ n="0944a27" ed="T"/>謂得邪病，鬼神所嬈乎，或謂愁憂迷惑失志，<lb
+ n="0944a28" ed="T"/>或有唾賤捨避之走，或有憐傷愍念哀之。<lb
+ n="0944a29" ed="T"/>時佛在舍衛祇樹給孤獨精舍。時婦馳走，而<pb n="0944b" ed="T" id="T14.0571.0944b"/><lb
+ n="0944b01" ed="T"/>往趣之，過祇樹園。爾時，世尊大會說法，<lb
+ n="0944b02" ed="T"/>四輩弟子，諸天龍神，十方一切，皆悉聽經。<lb
+ n="0944b03" ed="T"/>諸佛之法，盲者見佛，皆得眼目，聾者得聽，<lb
+ n="0944b04" ed="T"/>啞者能言，疾病除愈，尫劣強健，被毒不行，<lb
+ n="0944b05" ed="T"/>心亂得定。時婦見佛，意即得定，不復愁憂，<lb
+ n="0944b06" ed="T"/>自視裸形，慚愧伏地。佛呼阿難：「取衣與婦。」<lb
+ n="0944b07" ed="T"/>即時受教，則取衣與婦。著衣竟，稽首佛足，<lb
+ n="0944b08" ed="T"/>却坐一面。佛即說經，為現罪福：「人命無常，<lb
+ n="0944b09" ed="T"/>合會有別，生者有死，無生不終，一切本空，<lb
+ n="0944b10" ed="T"/>自作起滅，展轉五道，譬如車輪，已解本無，不<lb
+ n="0944b11" ed="T"/>復起分。」婦聞佛言，心開意解，即發無上正<lb
+ n="0944b12" ed="T"/>真道意，即時得立不退轉地，愁憂除愈，如<lb
+ n="0944b13" ed="T"/>日無雲。佛說如是，四輩歡喜，諸天龍神，稽<lb
+ n="0944b14" ed="T"/>首而退。</ab></div><lb
+ n="0944b15" ed="T"/>
+<ab type="juan" subtype="close">佛說婦人遇辜經</ab>
+</body></text></TEI>

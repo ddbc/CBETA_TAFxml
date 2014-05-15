@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">太子墓魄經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T03</biblScope>
+                    <idno type="Taisho">T03n0168</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0410a05" ed="T"/><lb
+ n="0410a06" ed="T"/><lb
+ n="0410a07" ed="T"/><lb
+ n="0410a08" ed="T"/>
+<ab type="juan" subtype="open">佛說太子墓魄經</ab><lb
+ n="0410a09" ed="T"/><lb
+ n="0410a10" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
+ n="0410a11" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，告<lb
+ n="0410a12" ed="T"/>諸比丘：「昔者有王名波羅㮈。王有一太子，<lb
+ n="0410a13" ed="T"/>字名墓魄，生有無窮之明，端正妙潔，無有<lb
+ n="0410a14" ed="T"/>雙比。父母奇之，供養瞻視，須其長大，當為立<lb
+ n="0410a15" ed="T"/>字。然太子結舌不語十有三歲，恬惔質朴，志<lb
+ n="0410a16" ed="T"/>若死灰，意如枯木；目不視色，耳不聽音，狀<lb
+ n="0410a17" ed="T"/>類瘖瘂聾盲之人。於是父母患而厭之。「王<lb
+ n="0410a18" ed="T"/>語夫人：『當奈之何？此子將為他國所笑。』夫<lb
+ n="0410a19" ed="T"/>人語王：『當召相師相之，知當語不？』王即召<lb
+ n="0410a20" ed="T"/>婆羅門師，使相太子。婆羅門言：『此子非是世<lb
+ n="0410a21" ed="T"/>間人，為是熒惑耳。外為端正，內懷不祥；危<lb
+ n="0410a22" ed="T"/>國滅宗，將至不久。不可畜養，宜當生埋，誅而<lb
+ n="0410a23" ed="T"/>殺之。不除此子，則絕國嗣。』王語夫人：『當如<lb
+ n="0410a24" ed="T"/>之何？今若不除此子，恐後無復立太子。』<lb
+ n="0410a25" ed="T"/>於是夫人隨王所為。「王即召國中大臣共議<lb
+ n="0410a26" ed="T"/>之。一臣言：『當遠徙深山無人之處。』一臣言：<lb
+ n="0410a27" ed="T"/>『當沒深水中。』一臣言：『但當隨師所語，掘作深<lb
+ n="0410a28" ed="T"/>坑而生埋之。』王即隨是一臣所語，即召外陣<lb
+ n="0410a29" ed="T"/>兵三千餘人，使掘地作藏。給世資糧，侍以<pb n="0410b" ed="T" id="T03.0168.0410b"/><lb
+ n="0410b01" ed="T"/>五僕，太子衣服、瓔珞、珠寶盡還太子。於是<lb
+ n="0410b02" ed="T"/>夫人心欲傷絕：『我獨無相，生子薄命，乃值<lb
+ n="0410b03" ed="T"/>此殃，事不得止。』涕淚哽咽，不能自勝。「於是復<lb
+ n="0410b04" ed="T"/>送太子著正殿上，五百夫人見太子端正姝<lb
+ n="0410b05" ed="T"/>好，無有雙比，皆言：『太子何以不語，而當生埋？』<lb
+ n="0410b06" ed="T"/>五百婇女見太子端正姝好，皆為太子作禮<lb
+ n="0410b07" ed="T"/>而言：『何以不語，而當生埋？』各為太子作其<lb
+ n="0410b08" ed="T"/>伎樂。太子默然，不觀不聽。「復送太子著外<lb
+ n="0410b09" ed="T"/>殿上，五百大臣見太子端正姝好，無有雙比，<lb
+ n="0410b10" ed="T"/>前白大王：『太子非是不語之人，且復宿留，<lb
+ n="0410b11" ed="T"/>語在不久。婆羅門言，不可審信。』王語大臣：<lb
+ n="0410b12" ed="T"/>『此是國事，非卿所知。』「作藏已訖，來迎太子。<lb
+ n="0410b13" ed="T"/>王語其僕：『使太子載我四望象車，令國中<lb
+ n="0410b14" ed="T"/>人民就觀，太子當語。若語者，便載來還。』於<lb
+ n="0410b15" ed="T"/>是太子乘車尋路。國中耆舊大臣皆宛轉車<lb
+ n="0410b16" ed="T"/>前而言：『太子！要當一語。若不語者，便以車輾<lb
+ n="0410b17" ed="T"/>我上過去。』遮蠡虎賁扶避使過。遂侍太子<lb
+ n="0410b18" ed="T"/>遂到藏所。時有數千萬人，皆隨太子往到藏<lb
+ n="0410b19" ed="T"/>所，皆塞藏戶，太子復不得前。遮蠡虎賁麾人<lb
+ n="0410b20" ed="T"/>便却。太子適前，飛鳥走獸復驚來前，遶<lb
+ n="0410b21" ed="T"/>藏三匝，復塞藏戶，太子復不得前。於是太<lb
+ n="0410b22" ed="T"/>子舉右手，住而言：『我正不語，而當生埋。我適<lb
+ n="0410b23" ed="T"/>欲語，恐入地獄。我所以不語者，欲安身避害，<lb
+ n="0410b24" ed="T"/>濟神離苦，是以不語。而信誑詐之言，謂我<lb
+ n="0410b25" ed="T"/>聾盲為實瘖瘂。』「是時人民聞太子語有絕妙<lb
+ n="0410b26" ed="T"/>之音，世所希聞，行者為止，坐者為之起，皆<lb
+ n="0410b27" ed="T"/>言：『太子神聖乃爾。』皆前叩頭，求恩悔過，原赦<lb
+ n="0410b28" ed="T"/>我罪。其僕聞之，歡喜踊躍，馳白大王：『太子已<lb
+ n="0410b29" ed="T"/>語，上徹蒼天，下徹黃泉。飛鳥走獸皆來伏聽<pb n="0410c" ed="T" id="T03.0168.0410c"/><lb
+ n="0410c01" ed="T"/>於太子前。』「王聞太子語，歡欣踊躍，即與夫<lb
+ n="0410c02" ed="T"/>人駕四望象車，往迎太子。太子顧視父王，<lb
+ n="0410c03" ed="T"/>下車避道，四拜而起而言：『勞屈父王遠來見<lb
+ n="0410c04" ed="T"/>迎。今日父子已生相棄捐，恩愛已乖，骨肉<lb
+ n="0410c05" ed="T"/>以離，其義甚愆，不可聽觀。』王語太子：『不可！<lb
+ n="0410c06" ed="T"/>不可！汝為智者，當原不及。共還入國，舉位與<lb
+ n="0410c07" ed="T"/>汝，我自避退。』太子答言：『我曾為國王，用行<lb
+ n="0410c08" ed="T"/>有缺漏故，下入地獄六萬餘歲，蒸煑剝裂，其<lb
+ n="0410c09" ed="T"/>痛難忍。當此之時，父母寧能知我地獄苦痛<lb
+ n="0410c10" ed="T"/>劇不？寧能分取我身上痛不？我厭畏地獄<lb
+ n="0410c11" ed="T"/>苦，是以結舌不語十有三歲，冀得免瑕，除去<lb
+ n="0410c12" ed="T"/>垢穢，出於塵埃之外，不與罪會。除憂去累，<lb
+ n="0410c13" ed="T"/>念生若寄。不可選軟，去道日遠。高翔遠逝，<lb
+ n="0410c14" ed="T"/>自濟於世。世間無常，恍惚如夢；室家歡娛，<lb
+ n="0410c15" ed="T"/>須臾間耳；歡樂暫有，憂苦延長。』「王知太子意<lb
+ n="0410c16" ed="T"/>堅志固，遂聽學道。於是太子棄國捐王，入<lb
+ n="0410c17" ed="T"/>山求道，思惟禪定。壽終即生兜術天上，畢<lb
+ n="0410c18" ed="T"/>天之壽，下生世間，為迦維羅衛王作太子，自<lb
+ n="0410c19" ed="T"/>致得佛。」佛告阿難：「爾時太子墓魄者，我身<lb
+ n="0410c20" ed="T"/>是也；是時父王者，今閱頭檀是也；是時母<lb
+ n="0410c21" ed="T"/>者，今摩耶是也；是時侍我五僕者，阿若拘<lb
+ n="0410c22" ed="T"/>隣等是也；是時婆羅門欲生埋我者，今調達<pb n="0411a" ed="T" id="T03.0168.0411a"/><lb
+ n="0411a01" ed="T"/>是也，我與調達，世世有怨。」佛說經訖，諸弟<lb
+ n="0411a02" ed="T"/>子、諸天龍、鬼神、帝王、人民皆大歡喜，為佛作<lb
+ n="0411a03" ed="T"/>禮。<lb
+ n="0411a04" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說太子墓魄經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">聖觀自在菩薩功德讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1053</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0068a14" ed="T"/><lb
+ n="0068a15" ed="T"/><lb
+ n="0068a16" ed="T"/><lb
+ n="0068a17" ed="T"/>
+<ab type="juan" subtype="open">聖觀自在菩薩功德讚</ab><lb
+ n="0068a18" ed="T"/><lb
+ n="0068a19" ed="T"/><byline>西方賢聖集</byline><lb
+ n="0068a20" ed="T"/><byline>西天譯經三藏朝奉大夫試鴻臚卿<lb
+ n="0068a21" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0068a22" ed="T"/><div type="jing" level="1"><ab type="verse">
+歸命最聖觀自在，　　滿月妙相蓮華生，　　<lb
+ n="0068a23" ed="T"/>能以無畏施有情，　　我今稱讚彼功德：　　<lb
+ n="0068a24" ed="T"/>「一切善法悉具足，　　頂戴諸佛大智冠，　　<lb
+ n="0068a25" ed="T"/>福慧莊嚴最上尊，　　是故歸命蓮華手。　　<lb
+ n="0068a26" ed="T"/>兩頰圓滿紅白色，　　鼻相脩直妙端嚴，　　<lb
+ n="0068a27" ed="T"/>齒如珂雪密復齊，　　四牙平正而具足；　　<lb
+ n="0068a28" ed="T"/>梵音清響復深妙，　　一切聞者生愛心，　　<lb
+ n="0068a29" ed="T"/>凡所宣說眾語言，　　柔和善順而甘美；　　<pb n="0068b" ed="T" id="T20.1053.0068b"/><lb
+ n="0068b01" ed="T"/>常以大悲方便力，　　救度一切苦眾生，　　<lb
+ n="0068b02" ed="T"/>自利利他眾導師，　　是故歸命蓮華手。　　<lb
+ n="0068b03" ed="T"/>雙眉同彼初生月，　　身相猶如真紫金，　　<lb
+ n="0068b04" ed="T"/>眾寶為鬘以莊嚴，　　一切見者無厭足；　　<lb
+ n="0068b05" ed="T"/>敷鹿皮衣而為座，　　最上自在眾中尊，　　<lb
+ n="0068b06" ed="T"/>身諸相分悉周圓，　　是故歸命蓮華手。　　<lb
+ n="0068b07" ed="T"/>上妙細㲲為絡腋，　　摩尼珠寶作耳環，　　<lb
+ n="0068b08" ed="T"/>世出世寶所莊嚴，　　最上自在最尊勝；　　<lb
+ n="0068b09" ed="T"/>諸善功德皆滿足，　　一切世間大法王，　　<lb
+ n="0068b10" ed="T"/>能開種種方便門，　　是故歸命蓮華手。　　<lb
+ n="0068b11" ed="T"/>罪業眾生微塵數，　　無量劫來處輪迴，　　<lb
+ n="0068b12" ed="T"/>菩薩常生方便心，　　化度悉令歸智聚；　　<lb
+ n="0068b13" ed="T"/>放慈悲光照一切，　　以最上法施眾生，　　<lb
+ n="0068b14" ed="T"/>普令有情證菩提，　　是故歸命蓮華手。　　<lb
+ n="0068b15" ed="T"/>所有阿鼻大地獄，　　菩薩慈悲往現身，　　<lb
+ n="0068b16" ed="T"/>破壞彼趣悉無餘，　　閻摩獄卒生驚怖；　　<lb
+ n="0068b17" ed="T"/>彼諸業報眾生類，　　咸皆離苦罪銷除，　　<lb
+ n="0068b18" ed="T"/>惡趣能以智火焚，　　是故歸命蓮華手。　　<lb
+ n="0068b19" ed="T"/>具足悲智行願力，　　欲色界中皆現身，　　<lb
+ n="0068b20" ed="T"/>於法自在利群生，　　閻摩眷屬悉歡喜；　　<lb
+ n="0068b21" ed="T"/>破壞一切罪業境，　　令諸苦惱不復生，　　<lb
+ n="0068b22" ed="T"/>有情離苦得清涼，　　是故歸命蓮華手。　　<lb
+ n="0068b23" ed="T"/>我今稱讚大聖者，　　最上色相無等倫，　　<lb
+ n="0068b24" ed="T"/>無礙自在三界尊，　　普施眾生無所畏；　　<lb
+ n="0068b25" ed="T"/>度脫有情出苦海，　　斷彼三毒煩惱根，　　<lb
+ n="0068b26" ed="T"/>咸令得住安樂中，　　是故歸命蓮華手。　　<lb
+ n="0068b27" ed="T"/>所有一切餓鬼眾，　　針咽大腹及臭毛，　　<lb
+ n="0068b28" ed="T"/>如是等類數甚多，　　晝夜受彼飢渴苦，　　<lb
+ n="0068b29" ed="T"/>由彼飢渴火所逼，　　互相吞噉苦惱生，　　<pb n="0068c" ed="T" id="T20.1053.0068c"/><lb
+ n="0068c01" ed="T"/>菩薩悲願力所持，　　往彼現身而救濟，　　<lb
+ n="0068c02" ed="T"/>先化種種美飲食，　　各各令飽益身胑，　　<lb
+ n="0068c03" ed="T"/>復為宣說正法門，　　一切得離諸苦惱；　　<lb
+ n="0068c04" ed="T"/>菩薩悲智方便力，　　能入一切趣類中，　　<lb
+ n="0068c05" ed="T"/>利行同事攝有情，　　是故歸命蓮華手。　　<lb
+ n="0068c06" ed="T"/>身有大摩尼珠寶，　　常出淨妙眾光明，　　<lb
+ n="0068c07" ed="T"/>普照世間諸暗暝，　　映蔽日月而不現，　　<lb
+ n="0068c08" ed="T"/>所有夜叉羅剎等，　　蒙光照者悉歸依，　　<lb
+ n="0068c09" ed="T"/>觀眾生心令斷疑，　　是故歸命蓮華手。　　<lb
+ n="0068c10" ed="T"/>大力阿修羅王眾，　　鬪諍勇猛而難調，　　<lb
+ n="0068c11" ed="T"/>菩薩亦現彼趣中，　　方便說法而化度，　　<lb
+ n="0068c12" ed="T"/>彼聞法已斷疑惑，　　各各生於慈善心，　　<lb
+ n="0068c13" ed="T"/>能施最上妙法門，　　是故歸命蓮華手。　　<lb
+ n="0068c14" ed="T"/>菩薩曾遊諸天界，　　入一妙環天子宮，　　<lb
+ n="0068c15" ed="T"/>隨順方便開化門，　　彼天悉無諸所施，　　<lb
+ n="0068c16" ed="T"/>是時天子生苦惱，　　菩薩即為現珍財，　　<lb
+ n="0068c17" ed="T"/>令彼天子滿施心，　　是故歸命蓮華手。　　<lb
+ n="0068c18" ed="T"/>所有一切貪欲者，　　常為煩惱火所燒，　　<lb
+ n="0068c19" ed="T"/>得見菩薩善威容，　　即能迴心思正法，　　<lb
+ n="0068c20" ed="T"/>世間貪瞋癡盛者，　　恭敬頂禮大聖尊，　　<lb
+ n="0068c21" ed="T"/>三毒煩惱獲銷除，　　是故歸命蓮華手。　　<lb
+ n="0068c22" ed="T"/>眾生界分無邊際，　　蜫蟲螻蟻數無窮，　　<lb
+ n="0068c23" ed="T"/>菩薩亦以慈悲心，　　處處方便而化度，　　<lb
+ n="0068c24" ed="T"/>世間或時值飢饉，　　即變所食濟群生，　　<lb
+ n="0068c25" ed="T"/>咸令息彼飢渴心，　　是故歸命蓮華手。　　<lb
+ n="0068c26" ed="T"/>若見眾生處大海，　　舡筏破壞欲漂沈，　　<lb
+ n="0068c27" ed="T"/>菩薩慈悲現馬身，　　令其攀附而得渡，　　<lb
+ n="0068c28" ed="T"/>眾生乘舡在大海，　　菩薩隨意使其風，　　<lb
+ n="0068c29" ed="T"/>若順若逆濟眾生，　　咸令遠離諸怖畏。　　<pb n="0069a" ed="T" id="T20.1053.0069a"/><lb
+ n="0069a01" ed="T"/>菩薩已離三界苦，　　圓滿三摩地法門，　　<lb
+ n="0069a02" ed="T"/>復能攝化諸有情，　　數等虛空無邊際；　　<lb
+ n="0069a03" ed="T"/>菩薩已離種種怖，　　所謂羅剎諸部多，　　<lb
+ n="0069a04" ed="T"/>必舍左及拏吉泥，　　邪迷一切惡鬼眾，　　<lb
+ n="0069a05" ed="T"/>大水大火并盜賊，　　虎狼蟲獸及刀兵，　　<lb
+ n="0069a06" ed="T"/>疾病毒藥與邪明，　　乃至王刑禁縛等；　　<lb
+ n="0069a07" ed="T"/>菩薩自得遠離已，　　而復為彼諸眾生，　　<lb
+ n="0069a08" ed="T"/>自利利他大導師，　　最上大悲無畏者；　　<lb
+ n="0069a09" ed="T"/>菩薩已具諸梵行，　　如日月分照世間，　　<lb
+ n="0069a10" ed="T"/>人天稱讚大聖尊，　　是為最上真梵行；　　<lb
+ n="0069a11" ed="T"/>菩薩常住三摩地，　　無邊功德為所依，　　<lb
+ n="0069a12" ed="T"/>隨順方便現所居，　　補陀落山為住止，　　<lb
+ n="0069a13" ed="T"/>其山高廣復殊妙，　　種種珍寶以莊嚴，　　<lb
+ n="0069a14" ed="T"/>彼有寶樹數甚多，　　低羅迦及瞻波等，　　<lb
+ n="0069a15" ed="T"/>有諸異鳥止其上，　　常出清淨妙好音，　　<lb
+ n="0069a16" ed="T"/>如是莊嚴聖所居，　　禮敬瞻仰而獲福，　　<lb
+ n="0069a17" ed="T"/>俱尾囉并嚩嚕乃，　　及彼閻摩等三天，　　<lb
+ n="0069a18" ed="T"/>乾闥婆王修羅王，　　夜叉王及諸龍主，　　<lb
+ n="0069a19" ed="T"/>乃至部多等諸類，　　若天若神一切王，　　<lb
+ n="0069a20" ed="T"/>晝夜各生恭敬心，　　歸依稱讚真聖者，　　<lb
+ n="0069a21" ed="T"/>彼等如是稱讚已，　　一切所欲皆隨心，　　<lb
+ n="0069a22" ed="T"/>大富快樂壽命長，　　勇猛精進具威德，　　<lb
+ n="0069a23" ed="T"/>息除無量諸苦惱，　　夢中怖畏亦不生，　　<lb
+ n="0069a24" ed="T"/>乃至壽命欲終時，　　菩薩現身而安慰。」　　<lb
+ n="0069a25" ed="T"/>聖觀自在功德海，　　無量無邊無有窮，　　<lb
+ n="0069a26" ed="T"/>假以百舌千劫中，　　稱揚讚歎不能盡。　　
+</ab><lb
+ n="0069a27" ed="T"/>
+<ab type="juan" subtype="close">聖觀自在菩薩功德讚</ab></div>
+</body></text></TEI>

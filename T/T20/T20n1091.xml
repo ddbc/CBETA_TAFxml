@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">七星如意輪祕密要經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1091</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<pb n="0224b" id="T20.1091.0224b" ed="T"/><lb
+ n="0224b01" ed="T"/><lb
+ n="0224b02" ed="T"/><lb
+ n="0224b03" ed="T"/>
+<ab type="juan" subtype="open">七星如意輪祕密要經</ab><lb
+ n="0224b04" ed="T"/><lb
+ n="0224b05" ed="T"/><byline>三藏不空譯</byline><lb
+ n="0224b06" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在大雪山伽王那蘭陀。與<lb
+ n="0224b07" ed="T"/>大比丘眾千二百五十人俱。其名曰大目犍<lb
+ n="0224b08" ed="T"/>連舍利弗。摩訶迦旃延波多。阿難陀摩訶迦<lb
+ n="0224b09" ed="T"/>葉。富樓那彌多羅尼子。復又菩薩萬八千。<lb
+ n="0224b10" ed="T"/>皆得不退轉陀羅尼辯才。如是等恒河沙數<lb
+ n="0224b11" ed="T"/>眾中轉大法輪。爾時迦夷城宮內使。來詣佛<lb
+ n="0224b12" ed="T"/>所頂禮佛足。而白佛言。波斯匿王使我諮量。<lb
+ n="0224b13" ed="T"/>俱尸羅大國與兵無數萬億來圍迦夷。君臣<lb
+ n="0224b14" ed="T"/>惶忙人民恐懼。唯願世尊由大智力救護我<lb
+ n="0224b15" ed="T"/>等。爾時世尊。即告神通王菩薩。往於迦夷城<lb
+ n="0224b16" ed="T"/>宮內。速建如意寶輪般多羅道場七星火壇<lb
+ n="0224b17" ed="T"/>祕密之門。所謂般多羅道場者。造於淨室。七<lb
+ n="0224b18" ed="T"/>星火壇作於露地。一日一夜如法作。其賊眾<lb
+ n="0224b19" ed="T"/>者自然退散。其法事者。先須結界然後作般<lb
+ n="0224b20" ed="T"/>多羅法門。南無如意輪王大法主。我今奉造<lb
+ n="0224b21" ed="T"/>般多羅者。有天耳眼。有神通者證明法則。即<lb
+ n="0224b22" ed="T"/>誦如意輪真言七遍。七呪水灑地。取界后為<lb
+ n="0224b23" ed="T"/>結界。所謂般多羅者。且最清淨室地平如鏡。<lb
+ n="0224b24" ed="T"/>中央造五色輪象如車輪。或十道或十二道。<lb
+ n="0224b25" ed="T"/>輪約間畫波折羅相。輪輻上亦爾。中央安如<lb
+ n="0224b26" ed="T"/>意輪王菩薩。一一輻間安七星像及訶利低<lb
+ n="0224b27" ed="T"/>母。一一像前安燈蘇香等種種供養。所為<lb
+ n="0224b28" ed="T"/>人姓名畫於本星。阿闍梨座於輪外。一一即<lb
+ n="0224b29" ed="T"/>啟法事成就。加持念誦一座一百八遍。觀念<pb n="0224c" id="T20.1091.0224c" ed="T"/><lb
+ n="0224c01" ed="T"/>不成不數其遍。所謂火壇者。於露地造火爐。<lb
+ n="0224c02" ed="T"/>或一肘或二肘。即加持一人或優婆塞優婆<lb
+ n="0224c03" ed="T"/>夷。著新淨衣。造本星食餅及蘇蜜香藥等。<lb
+ n="0224c04" ed="T"/>即向七星一拜一燒一心著本星。或動異光<lb
+ n="0224c05" ed="T"/>即得成就。若清淨阿闍梨者。若王若臣乃至<lb
+ n="0224c06" ed="T"/>人民。自作火壇求請。隨其所願即得成就。爾<lb
+ n="0224c07" ed="T"/>時神通王菩薩。即奉教勅往於迦夷大城宮<lb
+ n="0224c08" ed="T"/>內。一一作法。霹靂雷電賊徒散滅。君臣歡喜<lb
+ n="0224c09" ed="T"/>人民安樂。爾時神通王菩薩。却來佛處頂禮<lb
+ n="0224c10" ed="T"/>佛足。而白佛言奇哉世尊。不可思議祕密法<lb
+ n="0224c11" ed="T"/>門。如意寶輪王菩薩今何在。我等之輩蒙如<lb
+ n="0224c12" ed="T"/>來力。往彼世界頂禮如意輪王菩薩。佛告神<lb
+ n="0224c13" ed="T"/>通王菩薩。善哉善哉。正南方有世界名曰七<lb
+ n="0224c14" ed="T"/>寶轉輪王。於七寶輪上護法七星及諸天眾<lb
+ n="0224c15" ed="T"/>周匝。為轉法輪度脫眾生。爾時神通王菩薩。<lb
+ n="0224c16" ed="T"/>白佛言。世尊以何因緣。不但觀念如意輪王<lb
+ n="0224c17" ed="T"/>菩薩。又令禮拜本星等耶。佛言昔燃燈佛所<lb
+ n="0224c18" ed="T"/>受此法門。七星精靈天而下。訶利大神從地<lb
+ n="0224c19" ed="T"/>而出。願我等輩護此大法。若有人等奉造此<lb
+ n="0224c20" ed="T"/>法。我等先至成就法事。以此因緣兼存造法。<lb
+ n="0224c21" ed="T"/>爾時神通王菩薩。承佛大神力。往彼世界。頂<lb
+ n="0224c22" ed="T"/>禮如意輪王菩薩。而作是言。<lb
+ n="0224c23" ed="T"/></ab>
+<ab type="verse">
+我等住於娑婆界　　修學如來因地門　　<lb
+ n="0224c24" ed="T"/>救度迦夷波斯王　　以此因緣禮仁者　　<lb
+ n="0224c25" ed="T"/>七寶莊嚴寶輪王　　菩薩相好不思議　　<lb
+ n="0224c26" ed="T"/>依正二報俱勝妙　　我今敬禮如意輪　　
+</ab><lb
+ n="0224c27" ed="T"/><ab type="prose">爾時如意輪菩薩而說偈言。<lb
+ n="0224c28" ed="T"/></ab>
+<ab type="verse">
+我今所修菩薩道　　度脫眾生長夜苦　　<lb
+ n="0224c29" ed="T"/>今座莊嚴如意輪　　令諸眾生亦如是　　<pb n="0225a" id="T20.1091.0225a" ed="T"/><lb
+ n="0225a01" ed="T"/>世有眾生有所願　　今我如意寶輪王　　<lb
+ n="0225a02" ed="T"/>隨其種種所受樂　　無不從心為如意　　<lb
+ n="0225a03" ed="T"/>若有眾生在世界　　欲得通達無為道　　<lb
+ n="0225a04" ed="T"/>業障深厚不成就　　我以寶輪使開悟　　<lb
+ n="0225a05" ed="T"/>若有世界三災起　　國界人民不安樂　　<lb
+ n="0225a06" ed="T"/>其中有人造我法　　如意聖輪與大樂　　<lb
+ n="0225a07" ed="T"/>若有世界他界賊　　四方覆嬈不安寧　　<lb
+ n="0225a08" ed="T"/>國中有人造我法　　如意聖輪與安樂　　<lb
+ n="0225a09" ed="T"/>若有國內飢饉難　　一切人民不安悅　　<lb
+ n="0225a10" ed="T"/>若有造我般多法　　如意聖輪能救濟　　<lb
+ n="0225a11" ed="T"/>若有眾生在世界　　王法所加被獄囚　　<lb
+ n="0225a12" ed="T"/>造我大法般多羅　　如意聖輪能救濟　　<lb
+ n="0225a13" ed="T"/>若有眾生在嶮難　　如意聖輪能救濟　　<lb
+ n="0225a14" ed="T"/>若有眾生在世界　　盲聾跛𨄜種種病　　<lb
+ n="0225a15" ed="T"/>念我大法般多羅　　如意聖輪能救濟　　<lb
+ n="0225a16" ed="T"/>若有眾生在世界　　欲得家富求富祿　　<lb
+ n="0225a17" ed="T"/>造我大法般多羅　　如意聖輪如其願　　<lb
+ n="0225a18" ed="T"/>若有如是如意輪　　一切罪障無不除　　<lb
+ n="0225a19" ed="T"/>一切吉祥無不致　　無所不至拔濟苦　　<lb
+ n="0225a20" ed="T"/>諸天龍神及人間　　一切眾生有歸依　　<lb
+ n="0225a21" ed="T"/>不隨其心墮妄語　　是法能除一切罪　　<lb
+ n="0225a22" ed="T"/>增長一切諸功德　　自在能照於五道　　<lb
+ n="0225a23" ed="T"/>成就一切眾生願　　
+</ab><lb
+ n="0225a24" ed="T"/><ab type="prose">爾時神通王菩薩。頂禮聖輪還來本處。一心<lb
+ n="0225a25" ed="T"/>受持此不可思議摩訶般多羅祕密法門真<lb
+ n="0225a26" ed="T"/>言。<lb
+ n="0225a27" ed="T"/></ab>
+<ab type="dharani">南無阿羅姪那阿阿那南阿梨耶婆嚕吉<lb
+ n="0225a28" ed="T"/>帝沙波訶阿耶菩提薩埵婆耶摩訶迦烏<lb
+ n="0225a29" ed="T"/>尼迦耶多姪他唵折揭羅婆帝真多摩<pb n="0225b" id="T20.1091.0225b" ed="T"/><lb
+ n="0225b01" ed="T"/>尼摩訶波地迷嚕嚕帝遮揭阿沙吽唎<lb
+ n="0225b02" ed="T"/>婆訶唵波地迷真多摩尼摩訶遮揭阿<lb
+ n="0225b03" ed="T"/>吽唵波阿多波地迷吽<lb
+ n="0225b04" ed="T"/></ab>
+<ab type="prose">七星本部印　如意輪本印　長誦印　若人<lb
+ n="0225b05" ed="T"/>心有所求。或有病難延壽求祿。乃至一切心<lb
+ n="0225b06" ed="T"/>所願求。當使本星必當隨心。如來在世立大<lb
+ n="0225b07" ed="T"/>誓願。為此部中當護摩。此因緣當用七星以<lb
+ n="0225b08" ed="T"/>靈驗。是多祕密不得外傳。或為國王或為大<lb
+ n="0225b09" ed="T"/>臣造此法。不得為人民百姓淺識有情造此<lb
+ n="0225b10" ed="T"/>大法　午詖蘇古香木　未巳多伊尼<lb
+ n="0225b11" ed="T"/>波知桃木　申辰薩波波此荊木<lb
+ n="0225b12" ed="T"/>　酉卯蘇烏帝彌蘇帝違木　戌寅薩波<lb
+ n="0225b13" ed="T"/>之孫蘇烏獪　亥丑波伊蘇舟尼<lb
+ n="0225b14" ed="T"/>子薩波耶揭帝。<lb
+ n="0225b15" ed="T"/>
+</ab><ab type="juan" subtype="close">七星如意輪祕密要經</ab></div><lb
+ n="0225b16" ed="T"/><div type="w" level="2"><ab type="prose">天明五乙巳春二月十日。於洛北大報恩<lb
+ n="0225b17" ed="T"/>寺。以上品蓮臺寺藏本寫訖。此七星如意<lb
+ n="0225b18" ed="T"/>輪經。於重譽深密抄薄草子後重等證之。<lb
+ n="0225b19" ed="T"/>　智積院寓學東武　慈忍　識<lb
+ n="0225b20" ed="T"/>享和改元仲秋月。得右件之本令寫之。當<lb
+ n="0225b21" ed="T"/>嶺慈心院傳燈等挍閱。予更考訂以彫刻。<lb
+ n="0225b22" ed="T"/>　豐山總持沙門快道誌<lb
+ n="0225b23" ed="T"/>一挍加筆訖　　　　　　　　　慈順<lb
+ n="0225b24" ed="T"/>享和三年四月七日此日也雨曚曚矣。<lb
+ n="0225b25" ed="T"/>文政三年庚辰四月十五日以右傳寫之本<lb
+ n="0225b26" ed="T"/>雙挍之了　　　　　　　　　　龍肝</ab></div></div>
+</body></text></TEI>

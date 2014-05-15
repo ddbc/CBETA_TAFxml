@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">北方毘沙門天王隨軍護法儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1247</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0224c04" ed="T"/><lb
+ n="0224c05" ed="T"/><lb
+ n="0224c06" ed="T"/><lb
+ n="0224c07" ed="T"/><div type="jing" level="1"><lb
+ n="0224c08" ed="T"/>
+<ab type="juan" subtype="open">北方毘沙門天王隨軍護法儀軌</ab><lb
+ n="0224c09" ed="T"/><lb
+ n="0224c10" ed="T"/><byline>特進試鴻臚卿大興善寺三藏<lb
+ n="0224c11" ed="T"/>沙門大廣智不空奉　詔譯</byline><lb
+ n="0224c12" ed="T"/><ab type="prose">爾時那吒太子。手捧戟。以惡眼見四方白佛<lb
+ n="0224c13" ed="T"/>言。我是北方天王吠室羅摩那羅闍第三王<lb
+ n="0224c14" ed="T"/>子其第二之孫。我祖父天王。及我那吒同共<lb
+ n="0224c15" ed="T"/>每日三度。白佛言。我護持佛法。欲攝縛惡人<lb
+ n="0224c16" ed="T"/>或起不善之心。我晝夜守護國王大臣及百<lb
+ n="0224c17" ed="T"/>官僚。相與殺害打陵。如是之輩者。我等那吒<pb n="0225a" id="T21.1247.0225a" ed="T"/><lb
+ n="0225a01" ed="T"/>以金剛杖刺其眼及其心。若為比丘比丘尼<lb
+ n="0225a02" ed="T"/>優婆塞優婆夷起不善心及殺害心者。亦以<lb
+ n="0225a03" ed="T"/>金剛棒打其頭。爾時毘沙門孫那吒。白佛言<lb
+ n="0225a04" ed="T"/>世尊。我為未來諸不善眾生。降伏攝縛皆悉<lb
+ n="0225a05" ed="T"/>滅散故。亦護持國界故。說自心暴惡真言。唯<lb
+ n="0225a06" ed="T"/>願世尊聽許。我說佛言善哉善哉那吒天王。<lb
+ n="0225a07" ed="T"/>汝為降伏一切國王大臣百寮殺淩者。亦法<lb
+ n="0225a08" ed="T"/>佛相違者。為降伏故恣汝意說真言曰。<lb
+ n="0225a09" ed="T"/></ab>
+<ab type="dharani">唵地舍那吠室羅摩拏野摩賀羅惹野藥<lb
+ n="0225a10" ed="T"/>迦灑地婆哆那謨婆誐縛帝摩多羅跋馱<lb
+ n="0225a11" ed="T"/>儞娑嚩賀<lb
+ n="0225a12" ed="T"/></ab>
+<ab type="prose">若行者受持此呪者。先須書像。於彩色中並<lb
+ n="0225a13" ed="T"/>不得和膠。於白㲲上畫一毘沙門神其孫那<lb
+ n="0225a14" ed="T"/>吒天神七寶莊嚴。左手令執口齒。右手詫腰<lb
+ n="0225a15" ed="T"/>上令執三戟矟。其神足下作一藥叉女住趺<lb
+ n="0225a16" ed="T"/>坐。並作青黑色少赤加。若誦此呪時。就好地<lb
+ n="0225a17" ed="T"/>勿使有穢惡。種種花燒香供養。行者上下衣<lb
+ n="0225a18" ed="T"/>服並須一清。一廁行時當護身。黑月十五夜<lb
+ n="0225a19" ed="T"/>起首。對像前誦呪滿三十萬遍訖。然後取香<lb
+ n="0225a20" ed="T"/>泥供養尊像。若相違叛逆國王大臣百寮。有<lb
+ n="0225a21" ed="T"/>不善之心起者。以松葉護摩。七日之內。嚩日<lb
+ n="0225a22" ed="T"/>羅底瑟騣。<lb
+ n="0225a23" ed="T"/>若有人比丘比丘尼犯者。以苦練木護摩。七<lb
+ n="0225a24" ed="T"/>日內殄滅。<lb
+ n="0225a25" ed="T"/>又法犯國王人有。以佉陀羅木上設都嚧名<lb
+ n="0225a26" ed="T"/>字書。三角火中數數令出入。口誦上呪心想<lb
+ n="0225a27" ed="T"/>設都嚧。降伏。<lb
+ n="0225a28" ed="T"/>又法富單那。及一切鬼王來伺其便者。以金<lb
+ n="0225a29" ed="T"/>剛木護摩。不過七日殄滅。又不善怨賊來淩<pb n="0225b" id="T21.1247.0225b" ed="T"/><lb
+ n="0225b01" ed="T"/>殺時。以心印誦上呪一七遍自殄滅不敢來。<lb
+ n="0225b02" ed="T"/>又法欲降伏怨人暴惡之人。以苦練木護摩。<lb
+ n="0225b03" ed="T"/>又苦木之汁煮出。黃土和作設都嚧形。胸上<lb
+ n="0225b04" ed="T"/>書姓名七設都嚧。七日之中投火中。數數誦<lb
+ n="0225b05" ed="T"/>呪作印無疑滅。<lb
+ n="0225b06" ed="T"/>又法四輩人。於七珍起不善之心。或不撰父<lb
+ n="0225b07" ed="T"/>母兄弟姊妹六親眷屬。依法柏木護摩。一切<lb
+ n="0225b08" ed="T"/>珍財自來。<lb
+ n="0225b09" ed="T"/>又法妻子奴婢車乘。及六畜生依法柏木護<lb
+ n="0225b10" ed="T"/>摩。一切六畜自來。<lb
+ n="0225b11" ed="T"/>又欲勝一切諸人及惡怨人。以松木作三戟<lb
+ n="0225b12" ed="T"/>矟。數數打壇底。其壇底設都嚧之形置三。數<lb
+ n="0225b13" ed="T"/>數打數數絕。<lb
+ n="0225b14" ed="T"/>又法阿修羅窟門。當以三戟矟打。當自口開。<lb
+ n="0225b15" ed="T"/>又法以胡粉和塭護摩。領天供四萬人。必來<lb
+ n="0225b16" ed="T"/>自國兵敵。及他國兵。一時殄滅。<lb
+ n="0225b17" ed="T"/>心印者。二手內縛。二小二空出來去。<lb
+ n="0225b18" ed="T"/>昔五國大亂。有八箇月經月行多法遂無法<lb
+ n="0225b19" ed="T"/>驗。行此法降伏五國五萬軍自平安故。是名<lb
+ n="0225b20" ed="T"/>隨軍護法。<lb
+ n="0225b21" ed="T"/>
+</ab><ab type="juan" subtype="close">毘沙門天隨軍護法儀軌</ab></div>
+</body></text></TEI>

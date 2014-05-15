@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說呪齒經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1327</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0491b" id="T21.1327.0491b" ed="T"/><lb
+ n="0491b01" ed="T"/><lb
+ n="0491b02" ed="T"/><div type="jing" level="1"><lb
+ n="0491b03" ed="T"/>
+<ab type="juan" subtype="open">佛說呪齒經</ab><lb
+ n="0491b04" ed="T"/><lb
+ n="0491b05" ed="T"/><byline>東晉竺曇無蘭譯</byline><lb
+ n="0491b06" ed="T"/><ab type="prose">南無佛南無法南無比丘僧南無舍利弗大目<lb
+ n="0491b07" ed="T"/>乾連比丘。南無覺意。名聞邊北方健陀摩<lb
+ n="0491b08" ed="T"/>呵衍山。彼有虫王名差吼無。在某牙齒<lb
+ n="0491b09" ed="T"/>中止。今當遣使者無敢食某牙。及牙根中牙<lb
+ n="0491b10" ed="T"/>根中牙邊虫。不即下器中頭破作七分如鳩<lb
+ n="0491b11" ed="T"/>羅勤蟮。梵天勸是呪南無佛。令我所呪皆從<lb
+ n="0491b12" ed="T"/>如願。<lb
+ n="0491b13" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說呪齒經</ab></div>
+</body></text></TEI>

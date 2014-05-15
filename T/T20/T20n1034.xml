@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">呪五首</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1034</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<pb n="0017a" id="T20.1034.0017a" ed="T"/><lb
+ n="0017a01" ed="T"/><lb
+ n="0017a03" ed="T"/>
+<ab type="juan" subtype="open">呪五首</ab><lb
+ n="0017a04" ed="T"/><lb
+ n="0017a05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
+ n="0017a06" ed="T"/><head>能滅眾罪千轉陀羅尼呪</head><lb
+ n="0017a07" ed="T"/><ab type="dharani">納慕曷喇怛那怛喇夜耶納慕阿<lb
+ n="0017a08" ed="T"/>喇耶縛盧枳低濕筏囉耶步地<lb
+ n="0017a09" ed="T"/>薩埵耶莫訶薩埵耶莫訶迦嚧匿迦<lb
+ n="0017a10" ed="T"/>耶怛姪他闍曳闍曳闍耶縛<lb
+ n="0017a11" ed="T"/>呬儞闍逾怛唎羯囉羯囉末羅末羅<lb
+ n="0017a12" ed="T"/>折羅折羅廁尼廁尼薩縛羯摩<lb
+ n="0017a13" ed="T"/>筏喇拏儞謎薄伽伐底索訶薩羅<lb
+ n="0017a14" ed="T"/>伐喇帝薩縛佛陀縛盧枳帝<lb
+ n="0017a15" ed="T"/>斫芻室𡀔怛囉揭囉拏市吸縛迦耶末奴毘輸達尼素囉素囉<lb
+ n="0017a17" ed="T"/>鉢囉素囉鉢囉素囉薩嚩佛<lb
+ n="0017a18" ed="T"/>陀地瑟恥帝莎訶達磨馱覩揭鞞<lb
+ n="0017a19" ed="T"/>莎訶𧙃婆縛颯縛婆嚩薩縛達磨縛蒲達泥<lb
+ n="0017a21" ed="T"/>莎訶<lb
+ n="0017a22" ed="T"/><head>六字呪</head><lb
+ n="0017a23" ed="T"/>納慕阿利耶曼殊室利曳　瓮縛<lb
+ n="0017a24" ed="T"/>繫淡納莫<lb
+ n="0017a25" ed="T"/><head>七俱胝佛呪</head><lb
+ n="0017a26" ed="T"/>納莫颯多南三藐三勃陀俱胝南怛姪<lb
+ n="0017a27" ed="T"/>他　唵折麗　主麗准第莎訶<lb
+ n="0017a28" ed="T"/><head>一切如來隨心呪</head><lb
+ n="0017a29" ed="T"/>納莫薩縛　怛他阿揭多頡唎達耶阿奴<pb n="0017b" id="T20.1034.0017b" ed="T"/><lb
+ n="0017b01" ed="T"/>揭帝怛姪他瓮屈挊岐尼莎呵<lb
+ n="0017b02" ed="T"/><head>觀自在菩薩隨心呪</head><lb
+ n="0017b03" ed="T"/>南慕曷喇怛那怛邏夜耶納莫阿唎<lb
+ n="0017b04" ed="T"/>耶縛盧枳低濕筏囉耶步地<lb
+ n="0017b05" ed="T"/>薩埵耶莫訶薩埵耶莫訶迦嚧<lb
+ n="0017b06" ed="T"/>匿迦耶怛姪他瓮多囇咄多囇咄多<lb
+ n="0017b07" ed="T"/>囇　莎賀<lb
+ n="0017b08" ed="T"/>
+</ab><ab type="juan" subtype="close">呪五首</ab><lb
+ n="0017b09" ed="T"/><div type="w" level="2"><ab type="dharani">􄖩􄗭􄗽􇩋􄩞􄗲􄗱􄖩􄗰􆿆􅝩􄙖􄙒􄑂<lb
+ n="0017b10" ed="T"/>􄕝􈂫􄗾􄗱􄗕􄕽􄙺􄽚􄗱􄗥􄚩􄙺􄽚􄗱<lb
+ n="0017b11" ed="T"/>􄗥􄚩􄑁􄙂􄕍􄑁􄗱􄕗􄛼􄕤􄒶􄗷􇥗􄒶<lb
+ n="0017b12" ed="T"/>􄗱􄙖􄚪􄖫􄒶􄗹􄕗􄙀􄑀􄗽􇥗􄗥􄗽􇥗<lb
+ n="0017b13" ed="T"/>􄑼􄗽􇥗􄚶􄕍􇥗􄙺􅞣􄑀􅝞􄙖􄗽􄕋􄖫<lb
+ n="0017b14" ed="T"/>􄗫􄗚􄑘􄙖􄕙􄙺􄚨􄭵􄙖􈅜􄙺􅞣􈎭􇧺<lb
+ n="0017b15" ed="T"/>􄙖􄙒􄑂􄕝􄑼􄚴􄭢􄩞􄑙􄕋􄒸􅁰􄑁􄗱<lb
+ n="0017b16" ed="T"/>􄗥􄖭􄙘􄙦􄕻􄖫􈂼􄗽􇥗􄪼􈂼􄗽􄪼􈂼<lb
+ n="0017b17" ed="T"/>􄗽􄙺􅞣􈎭􇧺􄕽􆵍􄕝􅁥􄚩􄕻􈆺􄕼􄕛<lb
+ n="0017b18" ed="T"/>􄑘􅝗􅁥􄚩􆿅􄗙􄙖􅁤􄗙􄙖􄙺􅞣􄕻􈆺<lb
+ n="0017b19" ed="T"/>􄙖􄙞􄕻􄖯􅁥􄚩</ab></div></div>
+</body></text></TEI>

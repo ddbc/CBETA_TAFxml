@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說佛母般若波羅蜜多大明觀想儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1152</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0614a08" ed="T"/><lb
+ n="0614a09" ed="T"/><lb
+ n="0614a10" ed="T"/><lb
+ n="0614a11" ed="T"/>
+<ab type="juan" subtype="open">佛說佛母般若波羅蜜多大明觀<lb
+ n="0614a12" ed="T"/>想儀軌</ab><lb
+ n="0614a13" ed="T"/><lb
+ n="0614a14" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
+ n="0614a15" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
+ n="0614a16" ed="T"/><div type="jing" level="1"><ab type="prose">爾時世尊。普為一切修出世間最上悉地者。<lb
+ n="0614a17" ed="T"/>宣說佛母般若波羅蜜多大明觀想法。<lb
+ n="0614a18" ed="T"/>彼大明曰。<lb
+ n="0614a19" ed="T"/></ab>
+<ab type="dharani">那謨婆誐嚩帝阿哩也鉢囉倪<lb
+ n="0614a20" ed="T"/>也播囉彌多曳阿波哩彌多虞拏<lb
+ n="0614a21" ed="T"/>曳薄訖底嚩蹉邏曳薩哩嚩怛他誐多倪也那波哩布哩多曳<lb
+ n="0614a23" ed="T"/>薩埵嚩蹉邏曳怛󰍕他唵<lb
+ n="0614a24" ed="T"/>提率嚕底娑蜜哩底尾惹曳莎賀<lb
+ n="0614a26" ed="T"/></ab>
+<ab type="prose">如是大明有大功德。最上最勝不可思議。諸<lb
+ n="0614a27" ed="T"/>修瑜伽行者。若欲觀想此大明字求悉地法。<lb
+ n="0614a28" ed="T"/>先當發起大菩提心。然後依法於自心上想淨<lb
+ n="0614a29" ed="T"/>月輪。於月輪中觀想提字。從臍輪轉於心而<pb n="0614b" id="T20.1152.0614b" ed="T"/><lb
+ n="0614b01" ed="T"/>住。其字黃色是即般若波羅蜜多菩薩根本<lb
+ n="0614b02" ed="T"/>心字。如是想已。復想此字即成般若波羅蜜<lb
+ n="0614b03" ed="T"/>多菩薩。想此菩薩想身真金色有其六臂。<lb
+ n="0614b04" ed="T"/>相好圓滿種種莊嚴頂戴寶冠。最上二手結<lb
+ n="0614b05" ed="T"/>說法印。其印以二手作合掌。二中指入掌內<lb
+ n="0614b06" ed="T"/>指面相合。二大指及二頭指。各各指面相捻。<lb
+ n="0614b07" ed="T"/>餘指不動成印。餘手持般若波羅蜜多經。優<lb
+ n="0614b08" ed="T"/>鉢羅華。爍吉帝等。依法觀想如是想已。又復<lb
+ n="0614b09" ed="T"/>諦想般若波羅蜜多大明。最上甚深從無我<lb
+ n="0614b10" ed="T"/>生。由如是觀般若波羅蜜多無我生故。即一<lb
+ n="0614b11" ed="T"/>切法無我平等。以如是平等故。即從般若波<lb
+ n="0614b12" ed="T"/>羅蜜多。出生無邊諸文字相。文字相者攝一<lb
+ n="0614b13" ed="T"/>切相諸修瑜伽行者若聞。<lb
+ n="0614b14" ed="T"/></ab>
+<ab type="dharani">􈁴唵引􈇕提引<lb
+ n="0614b15" ed="T"/>　二字<lb
+ n="0614b16" ed="T"/></ab>
+<ab type="prose">當於頂上而作觀想若聞。<lb
+ n="0614b17" ed="T"/></ab>
+<ab type="dharani">􈁴唵引􄑞詣引<lb
+ n="0614b18" ed="T"/>　二字<lb
+ n="0614b19" ed="T"/></ab>
+<ab type="prose">當於舌端而作觀想若聞。<lb
+ n="0614b20" ed="T"/></ab>
+<ab type="dharani">􈁴唵引􄒼𡁠仁齊切<lb
+ n="0614b21" ed="T"/>　二字<lb
+ n="0614b22" ed="T"/></ab>
+<ab type="prose">當於二耳輪而作觀想。<lb
+ n="0614b23" ed="T"/>復次修瑜伽行者若欲觀想此佛母般若波羅<lb
+ n="0614b24" ed="T"/>蜜多大明文字應當諦誠於自心上觀想八葉<lb
+ n="0614b25" ed="T"/>大紅蓮華成曼拏羅於八葉位分布觀想大明<lb
+ n="0614b26" ed="T"/>文字是諸文字各於方位不相間雜於蓮華東<lb
+ n="0614b27" ed="T"/>葉位想安布。<lb
+ n="0614b28" ed="T"/></ab>
+<ab type="dharani">􄖩那􄗭謨引<lb
+ n="0614b29" ed="T"/>　二字<pb n="0614c" id="T20.1152.0614c" ed="T"/><lb
+ n="0614c01" ed="T"/></ab>
+<ab type="prose">於東南葉位想安布。<lb
+ n="0614c02" ed="T"/></ab>
+<ab type="dharani">􄗙婆􄑘誐􄙖嚩􄕝帝引<lb
+ n="0614c03" ed="T"/>　四字<lb
+ n="0614c04" ed="T"/></ab>
+<ab type="prose">於南葉位想安布。<lb
+ n="0614c05" ed="T"/></ab>
+<ab type="dharani">􆿅阿􇩇哩也二合􄪼鉢囉二合􈂤倪也二合引􄖵播引􄗽囉􄗧彌􄕗多引<lb
+ n="0614c06" ed="T"/><lb
+ n="0614c07" ed="T"/>􄗷曳引<lb
+ n="0614c08" ed="T"/>　九字<lb
+ n="0614c09" ed="T"/></ab>
+<ab type="prose">於西南葉位想安布。<lb
+ n="0614c10" ed="T"/></ab>
+<ab type="dharani">􆿅阿􄖵波􄗽哩􄗧彌􄕗多􄑜虞􄕋拏引􄗷曳引<lb
+ n="0614c11" ed="T"/>　八字<lb
+ n="0614c12" ed="T"/></ab>
+<ab type="prose">於西葉位想安布。<lb
+ n="0614c13" ed="T"/></ab>
+<ab type="dharani">􄗙薄􈁍訖底二合􄙖嚩􄙺蹉􄙋邏引􄗷曳引<lb
+ n="0614c14" ed="T"/>　六字<lb
+ n="0614c15" ed="T"/></ab>
+<ab type="prose">於西北葉位想安布。<lb
+ n="0614c16" ed="T"/></ab>
+<ab type="dharani">􄙺薩􅞣哩嚩二合􄕗怛􄕤他引􄑘誐􄕘多􈂤倪也二合引􄖩那􄖵波<lb
+ n="0614c17" ed="T"/><lb
+ n="0614c18" ed="T"/>􄙀哩􈁂布􄙀哩􄕗多􄗷曳引<lb
+ n="0614c19" ed="T"/>　十四字<lb
+ n="0614c20" ed="T"/></ab>
+<ab type="prose">於北葉位想安布。<lb
+ n="0614c21" ed="T"/></ab>
+<ab type="dharani">􄙺薩􄕗埵􄙖嚩􄙺蹉􄙋邏引􄗷曳<lb
+ n="0614c22" ed="T"/>　六字<lb
+ n="0614c23" ed="T"/></ab>
+<ab type="prose">於東北葉位想安布。<lb
+ n="0614c24" ed="T"/></ab>
+<ab type="dharani">􄕗怛􄟯󰍕􄕤他引<lb
+ n="0614c25" ed="T"/>　三字<lb
+ n="0614c26" ed="T"/></ab>
+<ab type="prose">此八葉位次第想已於蓮華中心當想安布。<lb
+ n="0614c27" ed="T"/></ab>
+<ab type="dharani">􈁴唵引􈇕提引<lb
+ n="0614c28" ed="T"/>二字<lb
+ n="0614c29" ed="T"/></ab>
+<ab type="prose">復於蓮華內圍想分布八位於東位想。<pb n="0615a" id="T20.1152.0615a" ed="T"/><lb
+ n="0615a01" ed="T"/></ab>
+<ab type="dharani">􄭡率嚕二合<lb
+ n="0615a02" ed="T"/>一字<lb
+ n="0615a03" ed="T"/></ab>
+<ab type="prose">東南位想。<lb
+ n="0615a04" ed="T"/></ab>
+<ab type="dharani">􄓨底<lb
+ n="0615a05" ed="T"/>一字<lb
+ n="0615a06" ed="T"/></ab>
+<ab type="prose">南位想。<lb
+ n="0615a07" ed="T"/></ab>
+<ab type="dharani">􅋎娑蜜哩三合<lb
+ n="0615a08" ed="T"/><lb
+ n="0615a09" ed="T"/></ab>
+<ab type="prose">西南位想。<lb
+ n="0615a10" ed="T"/></ab>
+<ab type="dharani">􄑾底<lb
+ n="0615a11" ed="T"/>一字<lb
+ n="0615a12" ed="T"/></ab>
+<ab type="prose">西位想。<lb
+ n="0615a13" ed="T"/></ab>
+<ab type="dharani">􄙘尾<lb
+ n="0615a14" ed="T"/>一字<lb
+ n="0615a15" ed="T"/></ab>
+<ab type="prose">西北位想。<lb
+ n="0615a16" ed="T"/></ab>
+<ab type="dharani">􄒶惹仁左切<lb
+ n="0615a17" ed="T"/>一字<lb
+ n="0615a18" ed="T"/></ab>
+<ab type="prose">北位想。<lb
+ n="0615a19" ed="T"/></ab>
+<ab type="dharani">􄗷曳引<lb
+ n="0615a20" ed="T"/>一字<lb
+ n="0615a21" ed="T"/></ab>
+<ab type="prose">東北位想。<lb
+ n="0615a22" ed="T"/></ab>
+<ab type="dharani">􇩉莎引􄚩賀引<lb
+ n="0615a23" ed="T"/>二字<lb
+ n="0615a24" ed="T"/></ab>
+<ab type="prose">如是觀想大明文字。各安布已。即當依法諦<lb
+ n="0615a25" ed="T"/>想文字真理法門。或復依法憶念持誦。於日<lb
+ n="0615a26" ed="T"/>三時依法布壇。持誦一百八遍。或一千八十<lb
+ n="0615a27" ed="T"/>遍。若一月或六月。乃至一年不間斷者。即得<lb
+ n="0615a28" ed="T"/>最上勝悉地法。又復若聞若持若誦者。是人<lb
+ n="0615a29" ed="T"/>當得聞持具足證空三摩地。如是佛母般若<pb n="0615b" id="T20.1152.0615b" ed="T"/><lb
+ n="0615b01" ed="T"/>波羅蜜多大明。最上甚深有大功德。修瑜伽<lb
+ n="0615b02" ed="T"/>者應依法如是觀想。<lb
+ n="0615b03" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說佛母般若波羅蜜多大明觀想儀軌</ab></div>
+</body></text></TEI>

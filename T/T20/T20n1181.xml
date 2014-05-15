@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大方廣菩薩藏經中文殊師利根本一字陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1181</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0780a11" ed="T"/><lb
+ n="0780a12" ed="T"/><lb
+ n="0780a13" ed="T"/><lb
+ n="0780a14" ed="T"/>
+<ab type="juan" subtype="open">大方廣菩薩藏經中文殊師利根<lb
+ n="0780a15" ed="T"/>本一字陀羅尼經</ab><lb
+ n="0780a16" ed="T"/><lb
+ n="0780a17" ed="T"/><byline>大唐北印度迦濕彌羅國<lb
+ n="0780a18" ed="T"/>三藏寶思惟譯</byline><lb
+ n="0780a19" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時佛住淨居天寶莊嚴道場中。<lb
+ n="0780a20" ed="T"/>與大菩薩及淨居諸天眾俱。爾時世尊大慈<lb
+ n="0780a21" ed="T"/>大悲。於此會中普告一切諸天眾言。汝等善<lb
+ n="0780a22" ed="T"/>聽文殊師利童子行輪呪法。為欲守護諸眾<lb
+ n="0780a23" ed="T"/>生故。一切如來所有祕密心大神呪王。我<lb
+ n="0780a24" ed="T"/>今當為汝等開示顯說。若有誦者。我記此人<lb
+ n="0780a25" ed="T"/>則為已持一切諸呪悉皆圓滿。一切所作皆<lb
+ n="0780a26" ed="T"/>得成就。更無過者。汝等應知此陀羅尼。於<lb
+ n="0780a27" ed="T"/>諸呪中是大神呪王有大神力。若善男子善<lb
+ n="0780a28" ed="T"/>女人能受持者。文殊師利童子菩薩常來擁<lb
+ n="0780a29" ed="T"/>護。或於覺時或於夢中。為現身相及諸善事。<pb n="0780b" id="T20.1181.0780b" ed="T"/><lb
+ n="0780b01" ed="T"/>能令此人生大歡喜。諸善男子此之呪王尚<lb
+ n="0780b02" ed="T"/>能攝得文殊師利童子菩薩。況餘菩薩及世<lb
+ n="0780b03" ed="T"/>出世賢聖等眾。復次善男子。此呪能消一切<lb
+ n="0780b04" ed="T"/>災障一切惡夢。一切怨敵一切五逆四重十<lb
+ n="0780b05" ed="T"/>惡罪業。一切惡邪不祥呪法。亦能成辦一切<lb
+ n="0780b06" ed="T"/>善事具大精進。當知是呪於世出世種種呪<lb
+ n="0780b07" ed="T"/>中為最殊勝。是諸佛心能令一切所願皆悉<lb
+ n="0780b08" ed="T"/>滿足。若以五色綖。結呪索繫其項上。擁護<lb
+ n="0780b09" ed="T"/>其身亦令諸願。皆得圓滿無超過者。即說呪<lb
+ n="0780b10" ed="T"/>曰。<lb
+ n="0780b11" ed="T"/></ab>
+<ab type="dharani">唵齒𡄦<lb
+ n="0780b12" ed="T"/></ab>
+<ab type="prose">諸佛子等此呪能滅一切惡邪魍魎。諸鬼是<lb
+ n="0780b13" ed="T"/>一切諸佛吉祥之法。亦能成就一切神呪。誦<lb
+ n="0780b14" ed="T"/>此呪者。能令眾生起大慈心。能令眾生起大<lb
+ n="0780b15" ed="T"/>悲心。一切障礙皆得消滅。所有諸願皆得滿<lb
+ n="0780b16" ed="T"/>足。未作法時。即能成辦如意之事。若發<lb
+ n="0780b17" ed="T"/>無上大菩提心。誦之一遍力能守護自身。若<lb
+ n="0780b18" ed="T"/>誦兩遍力能守護同伴。若誦三遍力能守護<lb
+ n="0780b19" ed="T"/>一宅中人。若誦四遍力能守護一城中人。若<lb
+ n="0780b20" ed="T"/>誦五遍力能守護一國中人。若誦六遍力能<lb
+ n="0780b21" ed="T"/>守護一天下人。若誦七遍力能守護四天下<lb
+ n="0780b22" ed="T"/>人。若以清旦誦一遍。呪水洗面能令見者歡<lb
+ n="0780b23" ed="T"/>喜。呪香熏衣亦令見者歡喜。若患齒痛。呪<lb
+ n="0780b24" ed="T"/>揩齒木嚼之。揩齒所痛即差。若有女人產<lb
+ n="0780b25" ed="T"/>難之時。取阿吒盧沙迦根或郎伽利迦根。<lb
+ n="0780b26" ed="T"/>呪之七遍。以無虫水和摩之。塗於產女臍中<lb
+ n="0780b27" ed="T"/>兒即易生。或諸男子為箭所中。鏃入筋骨拔<lb
+ n="0780b28" ed="T"/>之不出。以十年酥三兩呪一百八遍。安瘡中<lb
+ n="0780b29" ed="T"/>及食之。箭鏃即出。若婦人五年乃至二十<pb n="0780c" id="T20.1181.0780c" ed="T"/><lb
+ n="0780c01" ed="T"/>三十年不生男女者。或自有病。或男子有病。<lb
+ n="0780c02" ed="T"/>鬼魅所著種種病等。或為毒藥所中。當以十<lb
+ n="0780c03" ed="T"/>年已上酥五兩。孔雀羽一兩內於酥中呪之<lb
+ n="0780c04" ed="T"/>二十一遍。煎之擣為末。以石蜜一兩大呵梨<lb
+ n="0780c05" ed="T"/>勒三顆。去核取皮相和。呪之一百八遍。常以<lb
+ n="0780c06" ed="T"/>清旦空腹盡服之。於七日中即有男女。若患<lb
+ n="0780c07" ed="T"/>頭痛以烏翅羽呪之七遍。拂痛人頭患即除<lb
+ n="0780c08" ed="T"/>愈。若患瘧病一日二日乃至七日。或常患<lb
+ n="0780c09" ed="T"/>者。以純乳煮粥。著好酥一兩呪之一百八遍。<lb
+ n="0780c10" ed="T"/>與病人服之即得除愈。諸善男子以要言之。<lb
+ n="0780c11" ed="T"/>若欲合和一切湯藥及欲服者。先須至心誦<lb
+ n="0780c12" ed="T"/>之二十一遍速得如願。復次善男子若有一<lb
+ n="0780c13" ed="T"/>切眾生。為飛頭鬼所執。以手自摩其面。誦呪<lb
+ n="0780c14" ed="T"/>一百八遍作可畏相貌。便以左手作本生印。<lb
+ n="0780c15" ed="T"/>以大母指屈在掌中。用後四指押大母指上。<lb
+ n="0780c16" ed="T"/>急把拳。即自努目陰誦此呪。而看病者所<lb
+ n="0780c17" ed="T"/>患即除。若人患一切鬼病。以呪呪右手一百<lb
+ n="0780c18" ed="T"/>八遍。燒安息香熏之。左手作本生印。右手<lb
+ n="0780c19" ed="T"/>磨病人頭患即除愈。若有怨敵及諸惡夢。種<lb
+ n="0780c20" ed="T"/>種怖畏身心不安。以七色綖結呪索作蓮花<lb
+ n="0780c21" ed="T"/>形。或作輪形或作金剛杵形。呪之一百八遍。<lb
+ n="0780c22" ed="T"/>燒安息香熏之。於七日中繫自身項上。一切<lb
+ n="0780c23" ed="T"/>厄難悉皆消散。或以牛黃研之為墨。於淨紙<lb
+ n="0780c24" ed="T"/>上或帛練上。畫作所怖者形。於其四邊作<lb
+ n="0780c25" ed="T"/>齒𡄦字圍之。或作蓮花或作輪字。或作卍字<pb n="0781a" id="T20.1181.0781a" ed="T"/><lb
+ n="0781a01" ed="T"/>螺魚金剛鉤寶瓶等圍之。呪之七遍所怖即<lb
+ n="0781a02" ed="T"/>除。諸善男子若欲經過師子虎狼毒蛇怨賊<lb
+ n="0781a03" ed="T"/>一切險難之處。當須淨其身心。不得近諸女<lb
+ n="0781a04" ed="T"/>人及喫一切五辛酒肉芸薹胡荽。於諸眾<lb
+ n="0781a05" ed="T"/>生起大悲想。至心誦呪呪之四十九遍。而<lb
+ n="0781a06" ed="T"/>諸怨惡自然退散。縱令遇之無不歡喜。諸善<lb
+ n="0781a07" ed="T"/>男子此呪縱令一切眾生。或於一劫或無<lb
+ n="0781a08" ed="T"/>量劫。乃至名字不可得聞。何況得見。專心念<lb
+ n="0781a09" ed="T"/>誦假令七寶象馬滿閻浮提。猶是世間滅壞<lb
+ n="0781a10" ed="T"/>之法。此陀羅尼呪。能令眾生現世當來常獲<lb
+ n="0781a11" ed="T"/>安隱。與諸如來大菩薩眾常為眷屬。若為自<lb
+ n="0781a12" ed="T"/>身若為他身。所願皆得。是故慇懃生難遇<lb
+ n="0781a13" ed="T"/>想。勿得輕慢起疑惑心。<lb
+ n="0781a14" ed="T"/>
+</ab><ab type="juan" subtype="close">大方廣菩薩藏經中文殊師利根本一字陀羅<lb
+ n="0781a15" ed="T"/>尼經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛頂瑜伽降三世成就極深密門</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1209</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0039b19" ed="T"/><lb
+ n="0039b20" ed="T"/><lb
+ n="0039b21" ed="T"/><div type="jing" level="1"><lb
+ n="0039b22" ed="T"/>
+<ab type="juan" subtype="open">金剛頂瑜伽降三世成就極深<lb
+ n="0039b23" ed="T"/>密門一卷</ab><lb
+ n="0039b24" ed="T"/><lb
+ n="0039b25" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0039b26" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
+ n="0039b27" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0039b28" ed="T"/>不空奉　詔譯</byline><lb
+ n="0039b29" ed="T"/><ab type="verse">
+歸命聖主宰　　普賢金剛手　　<pb n="0039c" id="T21.1209.0039c" ed="T"/><lb
+ n="0039c01" ed="T"/>為降伏一切　　現吽迦囉身　　<lb
+ n="0039c02" ed="T"/>摧三世有毒　　令即證菩提　　<lb
+ n="0039c03" ed="T"/>是甚深祕密　　降三世瑜伽　　<lb
+ n="0039c04" ed="T"/>首依真實王　　禮淨合縛摧　　<lb
+ n="0039c05" ed="T"/>入閉普賢印　　按心稱本誓　　<lb
+ n="0039c06" ed="T"/>悅已又誦此　　
+</ab><lb
+ n="0039c07" ed="T"/><ab type="dharani">摩訶拘嚕馱薩怛嚩唅<lb
+ n="0039c08" ed="T"/></ab>
+<ab type="verse">
+發言身即同　　降三世金剛　　<lb
+ n="0039c09" ed="T"/>四印加寶灌　　鬘甲二擬繫　　<lb
+ n="0039c10" ed="T"/>拍掌同金剛　　即入三摩地　　<lb
+ n="0039c11" ed="T"/>諦觀心阿字　　成月或日輪　　<lb
+ n="0039c12" ed="T"/>中生五智杵　　次請尊及佛　　<lb
+ n="0039c13" ed="T"/>入加三昧身　　又以本教中　　<lb
+ n="0039c14" ed="T"/>四印加已滿　　五寶鬘甲拍　　<lb
+ n="0039c15" ed="T"/>陳內外供養　　讚詠已念誦　　<lb
+ n="0039c16" ed="T"/>若作圓具法　　以五相成身　　<lb
+ n="0039c17" ed="T"/>又普悅本誓　　忿四印五佛　　<lb
+ n="0039c18" ed="T"/>寶鬘甲拍等　　以吽迦囉印　　<lb
+ n="0039c19" ed="T"/>加心誦真言　　
+</ab><lb
+ n="0039c20" ed="T"/><ab type="dharani">吽薩怛嚩󰨢日哩惹嚩羅<lb
+ n="0039c21" ed="T"/>麼羅拘嚕馱吽發吒阿地底瑟<lb
+ n="0039c22" ed="T"/>咤娑嚩𤚥<lb
+ n="0039c23" ed="T"/></ab>
+<ab type="verse">
+次寶二風寶　　<lb
+ n="0039c24" ed="T"/>法以火如蓮　　業建火逼風　　<lb
+ n="0039c25" ed="T"/>額喉頂四印　　五佛大日用　　<lb
+ n="0039c26" ed="T"/>真實教王中　　金剛界自在　　<lb
+ n="0039c27" ed="T"/>誦此祕密言　　
+</ab><pb n="0040a" id="T21.1209.0040a" ed="T"/><lb
+ n="0040a01" ed="T"/><ab type="dharani">唵嚩日囉惹嚩攞鉢囉跛多<lb
+ n="0040a02" ed="T"/>羯灑也薩嚩怛他蘖多摩賀嚩<lb
+ n="0040a03" ed="T"/>日囉三麼耶吽<lb
+ n="0040a04" ed="T"/></ab>
+<ab type="verse">
+四佛同四印　　金剛佛真言　　
+</ab><lb
+ n="0040a05" ed="T"/><ab type="dharani">吽薩怛嚩󰨢日哩惹嚩邏<lb
+ n="0040a06" ed="T"/>末羅拘嚕馱吽發吒阿鼻詵<lb
+ n="0040a07" ed="T"/>左𤚥<lb
+ n="0040a08" ed="T"/></ab>
+<ab type="verse">
+寶用金剛寶　　鬘甲印准前　　
+</ab><lb
+ n="0040a09" ed="T"/><ab type="prose">鬘真言曰。<lb
+ n="0040a10" ed="T"/></ab>
+<ab type="dharani">唵󰨢日囉莽㘑儞哩茶<lb
+ n="0040a11" ed="T"/></ab>
+<ab type="prose">被甲誦此明。<lb
+ n="0040a12" ed="T"/></ab>
+<ab type="dharani">唵󰨢日囉𠸪乞叉儞哩茶<lb
+ n="0040a13" ed="T"/><lb
+ n="0040a14" ed="T"/></ab>
+<ab type="verse">
+四攝八供養　　同金剛界儀　　<lb
+ n="0040a15" ed="T"/>唯現於擬叱　　
+</ab><lb
+ n="0040a16" ed="T"/><ab type="prose">鉤真言曰。<lb
+ n="0040a17" ed="T"/></ab>
+<ab type="dharani">唵󰨢日𠻴句捨麼賀句嚕馱羯<lb
+ n="0040a18" ed="T"/>灑耶沙莽鹽吽惹<lb
+ n="0040a19" ed="T"/></ab>
+<ab type="prose">索真言曰。<lb
+ n="0040a20" ed="T"/></ab>
+<ab type="dharani">唵󰨢日囉跛捨麼賀句嚕馱羯灑<lb
+ n="0040a21" ed="T"/>耶娑莽鹽吽吽<lb
+ n="0040a22" ed="T"/></ab>
+<ab type="prose">鎖真言曰。<lb
+ n="0040a23" ed="T"/></ab>
+<ab type="dharani">唵󰨢日囉寒普吒麼賀句嚕<lb
+ n="0040a24" ed="T"/>馱羯灑耶娑莽鹽鑁<lb
+ n="0040a25" ed="T"/></ab>
+<ab type="prose">鈴真言。<lb
+ n="0040a26" ed="T"/></ab>
+<ab type="dharani">唵󰨢日囉吠捨麼賀句嚕馱羯灑<lb
+ n="0040a27" ed="T"/>耶娑莾鹽斛<lb
+ n="0040a28" ed="T"/></ab>
+<ab type="prose">嬉戲真言曰。<lb
+ n="0040a29" ed="T"/></ab>
+<ab type="dharani">唵󰨢日囉攞細麼賀句嚕馱羯灑耶<pb n="0040b" id="T21.1209.0040b" ed="T"/><lb
+ n="0040b01" ed="T"/>娑莽鹽斛<lb
+ n="0040b02" ed="T"/></ab>
+<ab type="verse">
+又前觀智身　　自心流婀字　　<lb
+ n="0040b03" ed="T"/>面前成月輪　　即出生金剛　　<lb
+ n="0040b04" ed="T"/>五峯流猛焰　　生三悅我是　　<lb
+ n="0040b05" ed="T"/>又丈於世尊　　即召滿空佛　　<lb
+ n="0040b06" ed="T"/>入金剛鎖悅　　又稱明顯言　　<lb
+ n="0040b07" ed="T"/>金剛即變成　　吽迦囉金剛　　<lb
+ n="0040b08" ed="T"/>暴怒處月輪　　身流火光聚　　<lb
+ n="0040b09" ed="T"/>遍體玄青色　　大自在天王　　<lb
+ n="0040b10" ed="T"/>妃烏摩為座　　歷然分明見　　<lb
+ n="0040b11" ed="T"/>即四印加持　　又示羯摩印　　<lb
+ n="0040b12" ed="T"/>滿月已五灌　　寶鬘甲拍等　　<lb
+ n="0040b13" ed="T"/>施內外供養　　自住薩埵身　　<lb
+ n="0040b14" ed="T"/>扭擲金剛杵　　震動大千界　　<lb
+ n="0040b15" ed="T"/>誦百八名讚　　都請諸聖賢　　<lb
+ n="0040b16" ed="T"/>鉤召索引入　　鎖止鈴悅喜　　<lb
+ n="0040b17" ed="T"/>四明召智身　　入自體無二　　<lb
+ n="0040b18" ed="T"/>又四加示誓　　滿月已五灌　　<lb
+ n="0040b19" ed="T"/>寶鬘甲拍已　　又陳內外供　　<lb
+ n="0040b20" ed="T"/>即起平身立　　舉右足左旋　　<lb
+ n="0040b21" ed="T"/>攝彼傲慢者　　大自在欲王　　<lb
+ n="0040b22" ed="T"/>撲至於地已　　定按於彼頂　　<lb
+ n="0040b23" ed="T"/>慧踐彼王妃　　烏摩乳房上　　<lb
+ n="0040b24" ed="T"/>摧彼我慢故　　以足加於頂　　<lb
+ n="0040b25" ed="T"/>被害殞此已　　灰嚴界成佛　　<lb
+ n="0040b26" ed="T"/>住是三昧時　　極力頻身蹋　　<lb
+ n="0040b27" ed="T"/>或身掉出污　　當知尊攝受　　<lb
+ n="0040b28" ed="T"/>定慧金剛拳　　二地結風背　　<lb
+ n="0040b29" ed="T"/>循身觀相好　　歷然見如前　　<pb n="0040c" id="T21.1209.0040c" ed="T"/><lb
+ n="0040c01" ed="T"/>旋時誦足鉤　　
+</ab><ab type="prose">真言曰。<lb
+ n="0040c02" ed="T"/></ab>
+<ab type="dharani">唵迦那羯哩灑庾嚩日囉吽<lb
+ n="0040c03" ed="T"/><lb
+ n="0040c04" ed="T"/></ab>
+<ab type="prose">步蹋時真言曰。<lb
+ n="0040c05" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉麼吽<lb
+ n="0040c06" ed="T"/></ab>
+<ab type="verse">
+又見自心月　　金剛具五峯　　<lb
+ n="0040c07" ed="T"/>中有所持明　　流射金剛火　　<lb
+ n="0040c08" ed="T"/>住是大三昧　　持根本真言　　<lb
+ n="0040c09" ed="T"/>或心一字明　　或業心中心　　<lb
+ n="0040c10" ed="T"/>擿枳王真言　　住定疲極已　　<lb
+ n="0040c11" ed="T"/>方坐誦讚歎　　陳供及發願　　<lb
+ n="0040c12" ed="T"/>即作解脫法　　以本法四印　　<lb
+ n="0040c13" ed="T"/>四處掣開之　　
+</ab><lb
+ n="0040c14" ed="T"/><ab type="prose">心上真言曰。<lb
+ n="0040c15" ed="T"/></ab>
+<ab type="dharani">唵薩怛嚩嚩日囉惹嚩<lb
+ n="0040c16" ed="T"/>羅麼羅矩嚕馱吽發吒目<pb n="0041a" id="T21.1209.0041a" ed="T"/><lb
+ n="0041a01" ed="T"/></ab>
+<ab type="verse">
+又以真實王　　四印掣開之　　
+</ab><lb
+ n="0041a02" ed="T"/><ab type="prose">心上真言曰。<lb
+ n="0041a03" ed="T"/></ab>
+<ab type="dharani">唵薩怛嚩嚩日哩吽<lb
+ n="0041a04" ed="T"/></ab>
+<ab type="verse">
+聖眾還宮已　　即寶鬘甲拍　　<lb
+ n="0041a05" ed="T"/>護此常恒身　　四禮五向等　　<lb
+ n="0041a06" ed="T"/>餘皆同諸教　　降三世瑜伽　　<lb
+ n="0041a07" ed="T"/>二羽印當心　　慧手持五鈷　　<lb
+ n="0041a08" ed="T"/>努臂如下擬　　次箭劍直執　　<lb
+ n="0041a09" ed="T"/>定上五鈷鉤　　次弓次執索　　<lb
+ n="0041a10" ed="T"/>皆直引臂持　　四面正青色　　<lb
+ n="0041a11" ed="T"/>右黃左綠色　　後紅咸忿怒　　<lb
+ n="0041a12" ed="T"/>自在天王妃　　為座如前說　　<lb
+ n="0041a13" ed="T"/>吽迦囉金剛　　作如是相好　　
+</ab><lb
+ n="0041a14" ed="T"/>
+<ab type="juan" subtype="close">金剛瑜伽降三世成就極深密門一卷</ab></div>
+</body></text></TEI>

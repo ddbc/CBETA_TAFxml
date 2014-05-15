@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大毘盧遮那略要速疾門五支念誦法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0858</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<pb n="0177b" id="T18.0858.0177b" ed="T"/><lb
+ n="0177b01" ed="T"/><lb
+ n="0177b02" ed="T"/><lb
+ n="0177b03" ed="T"/>
+<ab type="juan" subtype="open">大毘盧遮那略要速疾門五支念<lb
+ n="0177b04" ed="T"/>誦法</ab><lb
+ n="0177b05" ed="T"/><lb
+ n="0177b06" ed="T"/><div type="jing" level="2"><ab type="prose">三金剛真言。<lb
+ n="0177b07" ed="T"/></ab>
+<ab type="dharani">吽吽吽<lb
+ n="0177b08" ed="T"/></ab>
+<ab type="prose">三昧耶真言。<lb
+ n="0177b09" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多沒馱南阿參迷怛里參迷三摩<lb
+ n="0177b10" ed="T"/>曳娑縛賀<lb
+ n="0177b11" ed="T"/></ab>
+<ab type="prose">法界生真言。<lb
+ n="0177b12" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多沒馱南達磨馱暏娑縛婆縛句<lb
+ n="0177b13" ed="T"/>唅<lb
+ n="0177b14" ed="T"/></ab>
+<ab type="prose">轉大法輪真言。<lb
+ n="0177b15" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多縛日羅赦嚩日囉怛募句<lb
+ n="0177b16" ed="T"/>唅<lb
+ n="0177b17" ed="T"/></ab>
+<ab type="prose">金剛護身真言。<lb
+ n="0177b18" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多縛日羅赦縛日羅迦縛制<lb
+ n="0177b19" ed="T"/>吽<lb
+ n="0177b20" ed="T"/></ab>
+<ab type="prose">毘盧舍那根本真言。<lb
+ n="0177b21" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多沒馱南阿娑嚩賀<lb
+ n="0177b22" ed="T"/></ab>
+<ab type="prose">不動尊真言。<lb
+ n="0177b23" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多縛日羅赦戰拏摩訶嚕殺拏<lb
+ n="0177b24" ed="T"/>娑泮吒耶吽怛羅吒含𤚥<lb
+ n="0177b25" ed="T"/></ab>
+<ab type="prose">普供養真言。<lb
+ n="0177b26" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多沒馱南薩縛他欠蘊那蘖帝娑破<lb
+ n="0177b27" ed="T"/>囉𠰘𤚥誐誐曩釰娑縛賀<lb
+ n="0177b28" ed="T"/></ab>
+<ab type="prose">燒香真言。<lb
+ n="0177b29" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多沒馱南達磨馱都拏蘖帝娑縛<pb n="0177c" id="T18.0858.0177c" ed="T"/><lb
+ n="0177c01" ed="T"/>賀<lb
+ n="0177c02" ed="T"/></ab>
+<ab type="prose">獻閼伽真言。<lb
+ n="0177c03" ed="T"/></ab>
+<ab type="dharani">曩莫三滿多沒馱南誐誐曩三磨三磨娑縛賀<lb
+ n="0177c05" ed="T"/></ab>
+<ab type="prose">烏蒭澁摩金剛真言。<lb
+ n="0177c06" ed="T"/></ab>
+<ab type="dharani">唵俱嚕馱喃吽惹</ab></div><lb
+ n="0177c07" ed="T"/><div type="w" level="2"><ab type="prose">慈覺錄云大毘盧遮那略要速疾門五支念<lb
+ n="0177c08" ed="T"/>誦法一卷。</ab></div></div>
+</body></text></TEI>

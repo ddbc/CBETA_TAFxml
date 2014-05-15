@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">摩利支天一印法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1259</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0285c" id="T21.1259.0285c" ed="T"/><lb
+ n="0285c01" ed="T"/><lb
+ n="0285c02" ed="T"/><div type="jing" level="1"><lb
+ n="0285c03" ed="T"/>
+<ab type="juan" subtype="open">摩利支天一印法</ab><lb
+ n="0285c04" ed="T"/><lb
+ n="0285c05" ed="T"/><ab type="prose">有二印。一者身印。二者隱形印也。先作身印<lb
+ n="0285c06" ed="T"/>當心誦真言七遍。加持身五處。謂五處者。一<lb
+ n="0285c07" ed="T"/>心二額三左肩四右肩五頂是也。身印相虛<lb
+ n="0285c08" ed="T"/>心合拳。以二中指指端屈纏著二頭指端。是<lb
+ n="0285c09" ed="T"/>大金剛輪印也真言曰。<lb
+ n="0285c10" ed="T"/></ab>
+<ab type="dharani">􇩂唵引􄗦摩􄙌利􄙰支􅁥娑嚩􄚩訶<lb
+ n="0285c11" ed="T"/><lb
+ n="0285c12" ed="T"/></ab>
+<ab type="prose">次作隱形印當心念誦一百八遍。依此印真<lb
+ n="0285c13" ed="T"/>言加持力故。一切天魔惡鬼不善邪魔外道<lb
+ n="0285c14" ed="T"/>不得其便。亦無見其行者形體。雖求覓空盡<lb
+ n="0285c15" ed="T"/>邪力。不得持明行者形體。是故每七種所行<lb
+ n="0285c16" ed="T"/>時。以印真言可加持。七種所行時者。一睡眠<lb
+ n="0285c17" ed="T"/>時。二覺悟時。三沐浴時。四遠行時。五逢客<lb
+ n="0285c18" ed="T"/>時。六飲食時。七行廁時。以身印加持五處。以<lb
+ n="0285c19" ed="T"/>身印想隱入金剛堅固智拳城中。其隱形印。<lb
+ n="0285c20" ed="T"/>左手作虛掌。拳之舒右掌五輪。覆其左虛掌<lb
+ n="0285c21" ed="T"/>拳上。不令間隙。其心身。真言曰。<lb
+ n="0285c22" ed="T"/></ab>
+<ab type="dharani">􇩂唵引􆿅阿􄕱爾􄟘底也引􄗦摩􄙌利􄙰支􅁥娑嚩􄚩賀<lb
+ n="0285c23" ed="T"/><lb
+ n="0285c24" ed="T"/>
+</ab><ab type="juan" subtype="close">摩利支天一印法</ab></div>
+</body></text></TEI>

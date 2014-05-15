@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說辟除諸惡陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1407</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0922b" id="T21.1407.0922b" ed="T"/><lb
+ n="0922b01" ed="T"/><lb
+ n="0922b02" ed="T"/><div type="jing" level="1"><lb
+ n="0922b03" ed="T"/>
+<ab type="juan" subtype="open">佛說辟除諸惡陀羅尼經</ab><lb
+ n="0922b04" ed="T"/><lb
+ n="0922b05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0922b06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0922b07" ed="T"/><ab type="prose">爾時世尊告阿難言。我見世間災沴起時。遂<lb
+ n="0922b08" ed="T"/>生飛蝗及與毒蟲。乃至蚊虻虎狼處處增盛。<lb
+ n="0922b09" ed="T"/>致傷苗稼或傷菜果。遂令國內漸成飢饉。惱<lb
+ n="0922b10" ed="T"/>害眾生不得安隱。我今為汝宣說辟除諸惡<lb
+ n="0922b11" ed="T"/>陀羅尼。若有眾生志心持誦。非獨自利亦利<lb
+ n="0922b12" ed="T"/>他人。若持誦人欲作成就法者。先須潔淨齋<lb
+ n="0922b13" ed="T"/>戒發誠諦心。誦陀羅尼滿十萬遍已成精熟。<lb
+ n="0922b14" ed="T"/>然可隨處作成就法。若作法者復潔淨已。然<lb
+ n="0922b15" ed="T"/>誦諸佛菩薩名號請求加被。乃將少沙盛淨<lb
+ n="0922b16" ed="T"/>器中。誦陀羅尼八百遍加持前沙。於有毒蟲<lb
+ n="0922b17" ed="T"/>處散擲。一切毒蟲皆悉辟除即說陀羅尼曰。<lb
+ n="0922b18" ed="T"/></ab>
+<ab type="dharani">曩莫薩哩嚩沒馱󰂛地薩埵曩帝釤<lb
+ n="0922b19" ed="T"/>曩莫塞訖哩埵壹𤚥尾󰍕鉢<lb
+ n="0922b20" ed="T"/>囉踰惹夜彌壹焬尾󰍕三蜜哩<lb
+ n="0922b21" ed="T"/>迭覩彌怛󰍕他訶訶訶黎黎黎<lb
+ n="0922b22" ed="T"/>酇酇酇酇沙野呬呬詰詰蜜哩蜜<lb
+ n="0922b23" ed="T"/>哩鉢囉拏迦喃敦拏滿唐羯嚕<lb
+ n="0922b24" ed="T"/>彌娑嚩賀薩哩微釤摩舍迦<lb
+ n="0922b25" ed="T"/>喃薩哩微釤莽酤拏喃薩哩<lb
+ n="0922b26" ed="T"/>微釤鉢輸迦喃薩哩微釤遏<lb
+ n="0922b27" ed="T"/>說喃薩哩微釤謨沙迦喃<lb
+ n="0922b28" ed="T"/>薩哩微釤戍迦舍哩迦喃薩哩微<lb
+ n="0922b29" ed="T"/>釤蘇羯囉喃薩哩微釤末<pb n="0922c" id="T21.1407.0922c" ed="T"/><lb
+ n="0922c01" ed="T"/>哩羯吒喃薩哩微釤末羅曩<lb
+ n="0922c02" ed="T"/>喃薩哩微釤薩寫伽怛迦喃<lb
+ n="0922c03" ed="T"/>敦拏滿馱羯嚕彌娑嚩賀<lb
+ n="0922c04" ed="T"/></ab>
+<ab type="prose">爾時阿難。得聞世尊說是辟除諸惡陀羅尼<lb
+ n="0922c05" ed="T"/>已。歡喜信受禮佛而退。<lb
+ n="0922c06" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說辟除諸惡陀羅尼經</ab></div>
+</body></text></TEI>

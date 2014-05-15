@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說進學經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0798</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0744b05" ed="T"/><lb
+ n="0744b06" ed="T"/><lb
+ n="0744b07" ed="T"/><lb
+ n="0744b08" ed="T"/>
+<ab type="juan" subtype="open">佛說進學經</ab><lb
+ n="0744b09" ed="T"/><lb
+ n="0744b10" ed="T"/><byline>宋居士沮渠京聲譯</byline><lb
+ n="0744b11" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊舍衛祇樹之園須達精舍，<lb
+ n="0744b12" ed="T"/>大賢眾千二百五十人。佛告諸比丘：「有四雅<lb
+ n="0744b13" ed="T"/>行，智者常遵、丈夫所修、達士恒奉，不才愚夫<lb
+ n="0744b14" ed="T"/>所不好樂。何等為四？孝事父母，悅色養足；<lb
+ n="0744b15" ed="T"/>守仁行慈，終始不殺；惠施濟乏，未曾悋逆；遭<lb
+ n="0744b16" ed="T"/>值聖世，捐榮履道。是四雅行，智者所遵、丈夫<lb
+ n="0744b17" ed="T"/>所修、達士所奉，不才愚夫所不好樂。」佛時<lb
+ n="0744b18" ed="T"/>頌曰：<lb
+ n="0744b19" ed="T"/></ab>
+<ab type="verse">
+「智者稱孝，　　愍命慈活，　　放施普給，　　<lb
+ n="0744b20" ed="T"/>超俗崇寂。　　如是正業，　　明士所習，　　<lb
+ n="0744b21" ed="T"/>聖見已具，　　定至無為。」　　
+</ab><lb
+ n="0744b22" ed="T"/><ab type="prose">佛告比丘：「復有二法，若在閑宴，或處大眾，<lb
+ n="0744b23" ed="T"/>心行莫懈：一者靜寂，賢聖默定；二者博學，講<lb
+ n="0744b24" ed="T"/>論邃義。又有二施：飲食美味以安身命；敷<lb
+ n="0744b25" ed="T"/>散經典開微悅聽。食施安身，法施遷神；一<lb
+ n="0744b26" ed="T"/>事雖快，法施為最。是以比丘念演妙法，宣慧<lb
+ n="0744b27" ed="T"/>莫癡；既自洗濯，并淨塵著。如是道法永度無<lb
+ n="0744b28" ed="T"/>窮，乃名出家，具足覺了。」佛說經竟，比丘歡<lb
+ n="0744b29" ed="T"/>喜，作禮受教。</ab></div><pb n="0744c" ed="T" id="T17.0798.0744c"/><lb
+ n="0744c01" ed="T"/>
+<ab type="juan" subtype="close">佛說進學經</ab>
+</body></text></TEI>

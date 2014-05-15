@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說慈氏菩薩陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1142</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0600b" id="T20.1142.0600b" ed="T"/><lb
+ n="0600b01" ed="T"/><lb
+ n="0600b02" ed="T"/><lb
+ n="0600b03" ed="T"/>
+<ab type="juan" subtype="open">佛說慈氏菩薩陀羅尼</ab><lb
+ n="0600b04" ed="T"/><lb
+ n="0600b05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0600b06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0600b07" ed="T"/><div type="dharani" level="1"><ab type="dharani">怛󰍕他悉哩悉哩娑囉娑囉酥嚕<lb
+ n="0600b08" ed="T"/>酥嚕達囉達囉左囉左囉摩賀左囉<lb
+ n="0600b09" ed="T"/>婆囉婆囉摩賀婆囉紺波紺波摩賀<lb
+ n="0600b10" ed="T"/>紺波吽末娑囉達哩摩阿屹囉<lb
+ n="0600b11" ed="T"/>娑誐囉娑嚩賀<lb
+ n="0600b12" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說慈氏菩薩陀羅尼</ab></div>
+</body></text></TEI>

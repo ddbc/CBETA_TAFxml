@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">菩薩生地經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0533</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0814a05" ed="T"/><lb
+ n="0814a06" ed="T"/><lb
+ n="0814a07" ed="T"/><lb
+ n="0814a08" ed="T"/>
+<ab type="juan" subtype="open">菩薩生地經</ab><lb
+ n="0814a09" ed="T"/><lb
+ n="0814a10" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
+ n="0814a11" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊於迦維羅衛國釋氏精廬，<lb
+ n="0814a12" ed="T"/>尼拘類樹下坐，與五百比丘眾俱。是時，城<lb
+ n="0814a13" ed="T"/>中有釋種長者子，名差摩竭，行詣佛所，稽<lb
+ n="0814a14" ed="T"/>首畢，一面坐，叉手白佛言：「菩薩何行，疾得<lb
+ n="0814a15" ed="T"/>無上正真之道，普具三十二相，從一佛國到<lb
+ n="0814a16" ed="T"/>一佛國，臨壽終時其心不亂，所生不墮八難<lb
+ n="0814a17" ed="T"/>之處，常知去來之事，悉成諸法周滿達事，知<lb
+ n="0814a18" ed="T"/>一切法無所罣礙，信解空行，得不起法忍，恒<lb
+ n="0814a19" ed="T"/>以至心欲作沙門，未曾犯戒，不樂居處？」佛<lb
+ n="0814a20" ed="T"/>言：「大哉！差摩竭！乃問菩薩之行，忍辱為本，<lb
+ n="0814a21" ed="T"/>以立忍力乃疾得佛。忍有四事，何等為四？<lb
+ n="0814a22" ed="T"/>一曰、若罵詈者默而不報；二曰、若撾捶者受<lb
+ n="0814a23" ed="T"/>而不挍；三曰、若瞋恚者慈心向之；四曰、若<lb
+ n="0814a24" ed="T"/>輕毀者不念其惡。」佛時頌曰：<lb
+ n="0814a25" ed="T"/></ab>
+<ab type="verse">
+「撾罵不以恚，　　輕毀亦不恨，　　<lb
+ n="0814a26" ed="T"/>菩薩忍如是，　　所問悉可得；　　<lb
+ n="0814a27" ed="T"/>慎言不欺慢，　　未曾起亂意，　　<lb
+ n="0814a28" ed="T"/>不犯不有惡，　　是行得佛疾；　　<lb
+ n="0814a29" ed="T"/>開士常以忍，　　敦誠行大慈，　　<pb n="0814b" ed="T" id="T14.0533.0814b"/><lb
+ n="0814b01" ed="T"/>是用得成佛，　　三十二相明；　　<lb
+ n="0814b02" ed="T"/>從事於惡者，　　常憙加捶杖，　　<lb
+ n="0814b03" ed="T"/>害心施於人，　　是不離惡道；　　<lb
+ n="0814b04" ed="T"/>邪見自貢高，　　急憋好瞋恚，　　<lb
+ n="0814b05" ed="T"/>彼為自投冥，　　終不近菩薩；　　<lb
+ n="0814b06" ed="T"/>愚以貪強梁，　　自用無禮敬，　　<lb
+ n="0814b07" ed="T"/>不知孝父母，　　是以有獄苦；　　<lb
+ n="0814b08" ed="T"/>夫欲疾得佛，　　常修戒德本，　　<lb
+ n="0814b09" ed="T"/>依受善師教，　　等心施於人。　　
+</ab><lb
+ n="0814b10" ed="T"/><ab type="prose">「又有四事行疾得佛。何等為四？一曰、愛樂<lb
+ n="0814b11" ed="T"/>明經，好菩薩道，盡心護法，教誨於人；二曰、遠<lb
+ n="0814b12" ed="T"/>離女人，不與從事；三曰、常好布施，沙門梵志；<lb
+ n="0814b13" ed="T"/>四曰、以不睡臥，心習空行。」佛時頌曰：<lb
+ n="0814b14" ed="T"/></ab>
+<ab type="verse">
+「若以樂沙門，　　常勤護經道，　　<lb
+ n="0814b15" ed="T"/>愛法不遠師，　　如是人難得；　　<lb
+ n="0814b16" ed="T"/>深學求佛意，　　多聞廣開人，　　<lb
+ n="0814b17" ed="T"/>好施無慳心，　　是行得佛疾；　　<lb
+ n="0814b18" ed="T"/>女人不可親，　　敗德亂世間，　　<lb
+ n="0814b19" ed="T"/>從事於欲者，　　未曾近菩薩；　　<lb
+ n="0814b20" ed="T"/>是以清高士，　　常防遠女色，　　<lb
+ n="0814b21" ed="T"/>淨修菩薩道，　　大悲濟天下。」　　
+</ab><lb
+ n="0814b22" ed="T"/><ab type="prose">於是差摩竭，即解身珠寶瓔珞用散佛上，佛<lb
+ n="0814b23" ed="T"/>之威神，令其所散止於虛空，化成寶蓋，中有<lb
+ n="0814b24" ed="T"/>五百化人出，亦解身珠寶以散佛上，俱發<lb
+ n="0814b25" ed="T"/>聲言：「願發無上正真道意。」差摩竭見諸化人，<lb
+ n="0814b26" ed="T"/>踊躍歡喜，問佛言：「此化所出，從天來耶？四<lb
+ n="0814b27" ed="T"/>方四隅地中出耶？」佛報言：「是化不從十方<lb
+ n="0814b28" ed="T"/>來，亦非天，亦非龍，亦非神，亦非人，亦非地<lb
+ n="0814b29" ed="T"/>水、火、風、空，非色、痛、想、行、識，亦非意、非心、非<pb n="0814c" ed="T" id="T14.0533.0814c"/><lb
+ n="0814c01" ed="T"/>作、非往、非來，亦非今世，亦非後世，亦非生死；<lb
+ n="0814c02" ed="T"/>是人名化，字無從生，號為空，如影現於鏡中，<lb
+ n="0814c03" ed="T"/>無執、無捨、無由來、無所得，無我、無人、無命、無<lb
+ n="0814c04" ed="T"/>識；若男子女子，見知諸法如化無識，聞此<lb
+ n="0814c05" ed="T"/>好信而行應者，是即佛子，為已去冥、興世<lb
+ n="0814c06" ed="T"/>間明，為能降魔成極大德，是為沙門梵志，為<lb
+ n="0814c07" ed="T"/>清淨菩薩大人，為無從生，已得授決，為不<lb
+ n="0814c08" ed="T"/>退轉無上之人，信樂此法為如是也。」<lb
+ n="0814c09" ed="T"/>佛告差摩竭：「若聞此經，而心驚怪、誹謗、形笑，<lb
+ n="0814c10" ed="T"/>當知是輩非沙門梵志，是為外道放逸之人，<lb
+ n="0814c11" ed="T"/>為無反復惡師之人，為暗蔽無眼詐稱菩<lb
+ n="0814c12" ed="T"/>薩，是為誣罔觝突之人也。」於是弊魔來問佛<lb
+ n="0814c13" ed="T"/>言：「信此法者能有幾人？」佛報魔言：「有四百<lb
+ n="0814c14" ed="T"/>億欲天及人，皆得無所從生法樂，於中立是。」<lb
+ n="0814c15" ed="T"/>時，差摩竭得不起法忍，五百比丘及五百清<lb
+ n="0814c16" ed="T"/>信士、二十五清信女，皆得立不退轉地，壽<lb
+ n="0814c17" ed="T"/>終悉當生於西方無量壽佛清淨國，常護持<lb
+ n="0814c18" ed="T"/>無數佛法，教化成就一切人民，使不退轉，如<lb
+ n="0814c19" ed="T"/>是無極恒沙邊劫，當於此土以次作佛。魔聞<lb
+ n="0814c20" ed="T"/>佛言，稍稍却行，而謂佛言：「後可不須復說<lb
+ n="0814c21" ed="T"/>此法也！」賢者阿難白佛言：「當何名此經？以<lb
+ n="0814c22" ed="T"/>何奉持之？」佛語阿難：「是經名為『菩薩生地經<lb
+ n="0814c23" ed="T"/>差摩竭所問』，當奉持之。百劫行五度無極，而<lb
+ n="0814c24" ed="T"/>無大智無菩薩者，不如諷誦此經義以分布<lb
+ n="0814c25" ed="T"/>為人說。」佛時頌曰：<lb
+ n="0814c26" ed="T"/></ab>
+<ab type="verse">
+「若信學生地經，　　其功德無有量，　　<lb
+ n="0814c27" ed="T"/>斯已度三惡道，　　後受者福皆然。」　　
+</ab><lb
+ n="0814c28" ed="T"/><ab type="prose">佛說此已，差摩竭及四輩弟子、諸天龍神，皆<lb
+ n="0814c29" ed="T"/>歡喜受持。</ab></div><pb n="0815a" ed="T" id="T14.0533.0815a"/><lb
+ n="0815a01" ed="T"/>
+<ab type="juan" subtype="close">菩薩生地經</ab>
+</body></text></TEI>

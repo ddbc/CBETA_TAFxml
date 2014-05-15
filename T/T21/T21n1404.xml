@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說如意寶總持王經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1404</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0920c10" ed="T"/><lb
+ n="0920c11" ed="T"/><lb
+ n="0920c12" ed="T"/><div type="jing" level="1"><lb
+ n="0920c13" ed="T"/>
+<ab type="juan" subtype="open">佛說如意寶總持王經</ab><lb
+ n="0920c14" ed="T"/><lb
+ n="0920c15" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
+ n="0920c16" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0920c17" ed="T"/><ab type="prose">如是我聞。一時佛在覩史多天宮中。與妙住<lb
+ n="0920c18" ed="T"/>等無數千菩薩摩訶薩俱。是諸菩薩摩訶薩。<lb
+ n="0920c19" ed="T"/>皆得具足諸法轉不退輪。一生當得無上正<lb
+ n="0920c20" ed="T"/>等正覺。是時復有無量天眾并諸營從亦來<lb
+ n="0920c21" ed="T"/>集會。<lb
+ n="0920c22" ed="T"/>爾時世尊在大眾中處大寶座顧視眾會欲說<lb
+ n="0920c23" ed="T"/>妙法。時妙住菩薩摩訶薩。從座而起詣世尊<lb
+ n="0920c24" ed="T"/>前。五輪著地禮已白言。世尊有彼善男子。得<lb
+ n="0920c25" ed="T"/>此如意寶總持章句一心受持於過去見在<lb
+ n="0920c26" ed="T"/>未來世尊。不見不聞亦不值遇者。是事云何<lb
+ n="0920c27" ed="T"/>當有何因。唯願如來普為我等一一開說。乃<lb
+ n="0920c28" ed="T"/>至未來一切眾生使無疑惑。說是語已顒然<lb
+ n="0920c29" ed="T"/>而住。爾時世尊告妙住菩薩言。汝大方便能<pb n="0921a" id="T21.1404.0921a" ed="T"/><lb
+ n="0921a01" ed="T"/>問斯事。汝當諦聽為汝宣說。<lb
+ n="0921a02" ed="T"/>佛言妙住彼善男子。受持此如意寶總持章<lb
+ n="0921a03" ed="T"/>句者。而於過去見在及彼未來。雖行利益常<lb
+ n="0921a04" ed="T"/>住福業。又復於此總持章句疑未斷故。妙住<lb
+ n="0921a05" ed="T"/>此雖受持而非受持。所以者何此人住有為<lb
+ n="0921a06" ed="T"/>心。無善巧智無方便故。若彼善男子於此總<lb
+ n="0921a07" ed="T"/>持章句。心無疑惑決定專注。是則名為真受<lb
+ n="0921a08" ed="T"/>持者。是則名為知過去未來及以見在說法<lb
+ n="0921a09" ed="T"/>師名。是則名為見過去未來及以見在說法<lb
+ n="0921a10" ed="T"/>師相。亦復得見過去未來及以見在正遍知<lb
+ n="0921a11" ed="T"/>者。何以故妙住是人於總持門而妙解故。又<lb
+ n="0921a12" ed="T"/>復於信不信而不住故。又復了知無去無來。<lb
+ n="0921a13" ed="T"/>不生不滅。非空非不空。無瑞相非無瑞相。無<lb
+ n="0921a14" ed="T"/>願求非無願求。亦復於如是法無取著故。妙<lb
+ n="0921a15" ed="T"/>住彼善男子。能如是積行住無所住。是則名<lb
+ n="0921a16" ed="T"/>住是得涅盤。是名受持供養此如意寶總持<lb
+ n="0921a17" ed="T"/>章句。是名得無趣無壞之義。是名得無疑<lb
+ n="0921a18" ed="T"/>力。是名得尸羅清淨。是名得一切法平等究<lb
+ n="0921a19" ed="T"/>竟成佛見所說法。無自無他非和合非不和<lb
+ n="0921a20" ed="T"/>合。妙住彼善男子。若恒修是行即得自無染。<lb
+ n="0921a21" ed="T"/>若得無染亦得無縛。若自無縛令他無縛。若<lb
+ n="0921a22" ed="T"/>自他無縛亦不住解脫。妙住若彼不染不縛<lb
+ n="0921a23" ed="T"/>不住解脫。是則名為得如意寶總持。又於如<lb
+ n="0921a24" ed="T"/>來族名知過去佛最上之明。亦名知未來佛<lb
+ n="0921a25" ed="T"/>最上之明。亦名知見在佛最上之明。妙住此<lb
+ n="0921a26" ed="T"/>如意寶總持章句。乃是過去未來見在佛母。<lb
+ n="0921a27" ed="T"/>何因緣故為住過去未來見在得利益故。妙<lb
+ n="0921a28" ed="T"/>住若菩薩摩訶薩。受持此如意寶總持章句<lb
+ n="0921a29" ed="T"/>者。當知得名供養稱讚無數諸佛。亦復得名<pb n="0921b" id="T21.1404.0921b" ed="T"/><lb
+ n="0921b01" ed="T"/>於無數佛聞無上法。又復得無數佛稱讚護<lb
+ n="0921b02" ed="T"/>念。亦得佛無量福智生故。妙住若受持此如<lb
+ n="0921b03" ed="T"/>意寶總持章句者。凡有所求無不獲得。求聰<lb
+ n="0921b04" ed="T"/>明得聰明。求總持得總持。求七寶得七寶。妙<lb
+ n="0921b05" ed="T"/>住若善男子於如是事有人求者。當須於半<lb
+ n="0921b06" ed="T"/>月中。清淨志心以乳為食。於我佛族作大供<lb
+ n="0921b07" ed="T"/>養。然持誦此如意寶總持章句。一心專注而<lb
+ n="0921b08" ed="T"/>無間斷。凡所求事無不獲得。妙住若有受持<lb
+ n="0921b09" ed="T"/>如是總持章句者。以此總持章句威德之力。<lb
+ n="0921b10" ed="T"/>設使有恒河沙數世界之中。所有天龍阿修<lb
+ n="0921b11" ed="T"/>羅迦樓羅緊曩羅摩睺羅伽鳩槃茶乃至人<lb
+ n="0921b12" ed="T"/>非人等。如是之眾有極惡之心無能惱亂。以<lb
+ n="0921b13" ed="T"/>至星宿及尾也拏等亦不能惱害。何以<lb
+ n="0921b14" ed="T"/>故以法力所加護故。又有賢愛菩薩大金剛<lb
+ n="0921b15" ed="T"/>手菩薩等而擁護故。而此菩薩於此知足天。<lb
+ n="0921b16" ed="T"/>乃至色究竟天而常擁護。何況於人間持誦<lb
+ n="0921b17" ed="T"/>之者。妙住非唯此菩薩等。諸佛之心亦恒護<lb
+ n="0921b18" ed="T"/>念。何以故為受持此如意寶總持章句故。<lb
+ n="0921b19" ed="T"/>爾時世尊說是法已。妙住菩薩及會中無數<lb
+ n="0921b20" ed="T"/>千菩薩。及天眾并諸營從等。得聞法已歡喜<lb
+ n="0921b21" ed="T"/>踊躍禮佛而退。<lb
+ n="0921b22" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說如意寶總持王經</ab></div>
+</body></text></TEI>

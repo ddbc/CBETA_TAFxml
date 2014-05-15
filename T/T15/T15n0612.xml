@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">身觀經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T15</biblScope>
+                    <idno type="Taisho">T15n0612</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0242a22" ed="T"/><lb
+ n="0242a23" ed="T"/><lb
+ n="0242a24" ed="T"/><lb
+ n="0242a25" ed="T"/>
+<ab type="juan" subtype="open">身觀經</ab><lb
+ n="0242a26" ed="T"/><lb
+ n="0242a27" ed="T"/><byline>西晉月支國三藏竺法護譯</byline><lb
+ n="0242a28" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。是<lb
+ n="0242a29" ed="T"/>時佛告諸比丘：「是身有肌膚髓血肉，含滿<pb n="0242b" ed="T" id="T15.0612.0242b"/><lb
+ n="0242b01" ed="T"/>𡱁溺，自視身見何等好？常有九孔惡病；常不<lb
+ n="0242b02" ed="T"/>淨常流，可足慚。常與冤家合，為至老死；亦<lb
+ n="0242b03" ed="T"/>與病俱，何以不惡？身會當墮、會當敗，以棄屍<lb
+ n="0242b04" ed="T"/>地中不復用，為狐狼所噉，何以見是不慚？誰<lb
+ n="0242b05" ed="T"/>說貪婬？如佛言：少可多罪，自心觀是。如屠<lb
+ n="0242b06" ed="T"/>杆屠机為骨聚；如然熾火；如毒藥痛為旋，<lb
+ n="0242b07" ed="T"/>癡人喜，為喜不自知。何以不畏羅網？貪婬為<lb
+ n="0242b08" ed="T"/>癡，財錢穀金銀牛馬奴婢，人為命故求。命在<lb
+ n="0242b09" ed="T"/>呼吸，本命亦自少，極壽百餘歲；亦苦合會。觀<lb
+ n="0242b10" ed="T"/>是，誰為可者？「如時過去，便命稍少，命日俱盡；<lb
+ n="0242b11" ed="T"/>如疾河水，如日月盡，命疾是過去，人命去不<lb
+ n="0242b12" ed="T"/>復還，如是為不可得。人死時命去，設使若干<lb
+ n="0242b13" ed="T"/>財，索天下奇物亦一切有，死時對來亦不<lb
+ n="0242b14" ed="T"/>樂；亦不可厭；亦不可樂；亦不可自樂無餘。但<lb
+ n="0242b15" ed="T"/>可自作善。所自作善，所應自然。若以知會當<lb
+ n="0242b16" ed="T"/>死，當有何等樂？「人可墮貪婬，設使久壽；設使<lb
+ n="0242b17" ed="T"/>亡去會當死。何以意愛俱樂？何以故？不念自<lb
+ n="0242b18" ed="T"/>靜，極意受悅。兒已死啼哭，不過十日，過<lb
+ n="0242b19" ed="T"/>十日已後，便稍忘之。愛兒婦亦爾！為家室<lb
+ n="0242b20" ed="T"/>親屬知識亦爾！「以勤苦治生致財物，自愛身<lb
+ n="0242b21" ed="T"/>命綺好，人死時皆棄所有，身僵在地，下入<lb
+ n="0242b22" ed="T"/>於土，但為陰去，生隨行受形人；譬如樹果實<lb
+ n="0242b23" ed="T"/>已見，如是為有人意墮有中，天下一切果<lb
+ n="0242b24" ed="T"/>物，一人得不自足，若得一分，當那得自厭無<lb
+ n="0242b25" ed="T"/>有數？三十五樂自樂遍之，當為有何等益？「人<lb
+ n="0242b26" ed="T"/>已逢苦索受罪人意，為是所好，謂有所益，不<lb
+ n="0242b27" ed="T"/>欲受靜索為毒𧈭自身，如少多亦爾！如多少<lb
+ n="0242b28" ed="T"/>亦爾！如病為大小亦苦；譬如骨無有肉，狗得<lb
+ n="0242b29" ed="T"/>齩之不厭。如是欲狗習，是亦難得，已得當多<pb n="0242c" ed="T" id="T15.0612.0242c"/><lb
+ n="0242c01" ed="T"/>畏之。是習所不久，人亦墮惡。如人見夢，已寤<lb
+ n="0242c02" ed="T"/>不復得，貪婬亦如是。劇夢如夢為有樂，如黑<lb
+ n="0242c03" ed="T"/>𧈭如鈎餌肉；如樹果實，實少味多，亡為增<lb
+ n="0242c04" ed="T"/>結，為惡作本，道家常不用。「是人在天上舍樂，<lb
+ n="0242c05" ed="T"/>亦天上色樹；亦在端正好苑園；亦得天上玉<lb
+ n="0242c06" ed="T"/>女。已得天人，不厭天上五樂，今當那得厭天<lb
+ n="0242c07" ed="T"/>下樂耶？「為取二百日骨，骨百二十段為筋纏；<lb
+ n="0242c08" ed="T"/>為九孔常漏；為六十三種；為百病極；為肉血<lb
+ n="0242c09" ed="T"/>和；為生革肌；為中寒熱風；為屎溺為千蟲，<lb
+ n="0242c10" ed="T"/>皆從身起，中亦有千孔。亦有劇，為親已壞他，<lb
+ n="0242c11" ed="T"/>為從是不淨出；從鼻中涕出；從口㵪唾出；<lb
+ n="0242c12" ed="T"/>從腋下汗流出；從下孔處屎溺出，如是皆<lb
+ n="0242c13" ed="T"/>從身出劇。塜間死人，誠可惡劇。舍後可惡處，<lb
+ n="0242c14" ed="T"/>身所有不淨如是，為不淨種，為從是本來如金<lb
+ n="0242c15" ed="T"/>塗餘物，為衣故香粉脂澤赤絮紺黛；為癡人<lb
+ n="0242c16" ed="T"/>見是為是意亂。如畫瓶赤如坑覆草，人所抱<lb
+ n="0242c17" ed="T"/>愛後會悔。」比丘聞經跪拜受，道教如是。</ab></div><lb
+ n="0242c18" ed="T"/>
+<ab type="juan" subtype="close">身觀經</ab>
+</body></text></TEI>

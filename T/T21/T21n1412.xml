@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說寶生陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1412</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0926c" id="T21.1412.0926c" ed="T"/><lb
+ n="0926c01" ed="T"/><lb
+ n="0926c02" ed="T"/><div type="dharani" level="1"><lb
+ n="0926c03" ed="T"/>
+<ab type="juan" subtype="open">佛說寶生陀羅尼經</ab><lb
+ n="0926c04" ed="T"/><lb
+ n="0926c05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
+ n="0926c06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0926c07" ed="T"/><ab type="dharani">曩謨囉怛曩囉濕彌贊捺囉鉢<lb
+ n="0926c08" ed="T"/>囉底曼尼哆尾儞焰帝惹具世濕嚩<lb
+ n="0926c09" ed="T"/>囉羅惹野怛他誐哆野囉賀<lb
+ n="0926c10" ed="T"/>帝三藐三沒馱野怛儞也他囉怛儞<lb
+ n="0926c11" ed="T"/>囉怛儞囉怛曩吉囉尼囉怛曩<lb
+ n="0926c12" ed="T"/>鉢囉底曼膩帝囉怛曩三婆尼囉怛<lb
+ n="0926c13" ed="T"/>曩鉢囉鼻囉怛努訥誐帝<lb
+ n="0926c14" ed="T"/>娑嚩賀<lb
+ n="0926c15" ed="T"/></ab>
+<ab type="prose">若有眾生。於此如來陀羅尼名號受持供養。<lb
+ n="0926c16" ed="T"/>彼人生生得轉輪位。成就梵行具大神通。獲<lb
+ n="0926c17" ed="T"/>十種陀羅尼。復值恒河沙等諸佛如來而無<lb
+ n="0926c18" ed="T"/>虛妄。經俱胝劫不入輪迴路。不斷菩提種不<lb
+ n="0926c19" ed="T"/>失菩提心。永滅一切罪得報身如來。若人持<lb
+ n="0926c20" ed="T"/>誦滿一七日。是人當得天眼清淨。若人耳聞<lb
+ n="0926c21" ed="T"/>恒復憶念。是人決定當得菩提。於過去世所<lb
+ n="0926c22" ed="T"/>作善根亦得現前。若傳一人所有無間罪業。<lb
+ n="0926c23" ed="T"/>悉得除滅永斷輪迴。是人不被水火盜賊之<lb
+ n="0926c24" ed="T"/>所侵害。而復諸根不缺眾病不生鬼魅不著。<lb
+ n="0926c25" ed="T"/>眾所愛敬於當來世受持如來微妙之法供養<lb
+ n="0926c26" ed="T"/>諸佛。若人聞已心喜禮拜讚歎。是人功德無<lb
+ n="0926c27" ed="T"/>量無邊。於生生中口出妙香廣一由旬。身毛<lb
+ n="0926c28" ed="T"/>孔中恒有光明常自照曜。常作如來勝利之<lb
+ n="0926c29" ed="T"/>事如阿難陀。具如是不可思議功德。<pb n="0927a" id="T21.1412.0927a" ed="T"/><lb
+ n="0927a01" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說寶生陀羅尼經</ab></div>
+</body></text></TEI>

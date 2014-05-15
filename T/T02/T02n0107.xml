@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說不自守意經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0107</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0502b07" ed="T"/><lb
+ n="0502b08" ed="T"/><lb
+ n="0502b09" ed="T"/><div type="jing" level="1"><lb
+ n="0502b10" ed="T"/>
+<ab type="juan" subtype="open">佛說不自守意經</ab><lb
+ n="0502b11" ed="T"/><lb
+ n="0502b12" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
+ n="0502b13" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，佛<lb
+ n="0502b14" ed="T"/>告諸比丘，比丘應：「唯然。」佛言：「聽說自守亦<lb
+ n="0502b15" ed="T"/>不自守。」比丘便叉手從佛聽。佛告比丘：「幾<lb
+ n="0502b16" ed="T"/>因緣不自守？若眼根不閉守，若眼墮色識意<lb
+ n="0502b17" ed="T"/>便泆，已意泆便更苦，已更苦便不得定意，已<lb
+ n="0502b18" ed="T"/>不得定意便不知至誠，如有已不知便不見<lb
+ n="0502b19" ed="T"/>如有，已不知已不見如有，便不捨結亦不度<lb
+ n="0502b20" ed="T"/>疑，已不捨結不度疑，便屬他因緣，異知已異<lb
+ n="0502b21" ed="T"/>知，便苦不安隱。如是說，耳亦爾、鼻亦爾、口亦<lb
+ n="0502b22" ed="T"/>爾、身亦爾、意亦爾，如是行名為不自守。」<lb
+ n="0502b23" ed="T"/>佛復告比丘：「幾因緣自守？若眼根自守，止眼<lb
+ n="0502b24" ed="T"/>識不墮色意便不泆，已意不泆便更樂，已更<lb
+ n="0502b25" ed="T"/>樂便得定意，已得定意便諦，如有知諦如有<lb
+ n="0502b26" ed="T"/>見，已諦如知諦如見，便捨結亦度疑，便不<lb
+ n="0502b27" ed="T"/>信不至誠，便慧智，便意樂安隱，六根亦如<lb
+ n="0502b28" ed="T"/>是說，如是名為自守。所說自守不自守如是。」<lb
+ n="0502b29" ed="T"/>佛說如是。皆歡喜受。<pb n="0502c" ed="T" id="T02.0107.0502c"/><lb
+ n="0502c01" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說不自守意經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">般若波羅蜜多理趣經大樂不空三昧真實金剛薩埵菩薩等一十七聖大曼荼羅義述</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n1004</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0617b05" ed="T"/><lb
+ n="0617b06" ed="T"/><lb
+ n="0617b07" ed="T"/><div type="jing" level="1"><lb
+ n="0617b08" ed="T"/>
+<ab type="juan" subtype="open">般若波羅蜜多理趣經大樂不空<lb
+ n="0617b09" ed="T"/>三昧真實金剛薩埵菩薩等一十<lb
+ n="0617b10" ed="T"/>七聖大曼茶羅義述一卷</ab><lb
+ n="0617b11" ed="T"/><lb
+ n="0617b12" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
+ n="0617b13" ed="T"/>肅國公食邑三千戶賜紫贈司<lb
+ n="0617b14" ed="T"/>空諡大鑒正號大廣智大興<lb
+ n="0617b15" ed="T"/>善寺三藏沙門不空奉　詔譯<lb
+ n="0617b16" ed="T"/></byline><lb
+ n="0617b17" ed="T"/><ab type="prose">爾時毘盧遮那如來。於他化自在天王宮。為<lb
+ n="0617b18" ed="T"/>諸大菩薩等。說此般若波羅蜜甚深理趣十<lb
+ n="0617b19" ed="T"/>七清淨句門。蓋是十七大菩薩三摩地之句<lb
+ n="0617b20" ed="T"/>義也。為令能住持者疾至菩提故。遂演此十<lb
+ n="0617b21" ed="T"/>七聖位大曼茶羅如來與諸大士等所說密<lb
+ n="0617b22" ed="T"/>語。依此修行速疾成就。何者為一十七聖。其<lb
+ n="0617b23" ed="T"/>一所謂大樂不空三昧真實金剛菩薩。蓋表<lb
+ n="0617b24" ed="T"/>諸佛普賢之身。周遍器世間及有情世間。以<lb
+ n="0617b25" ed="T"/>其無邊自在理常體寂不妄不壞故有是名<lb
+ n="0617b26" ed="T"/>也。左持金剛鈴是適悅義。置腰之左表大我<lb
+ n="0617b27" ed="T"/>焉。右持五股金剛杵是五智義。轉拳向外<lb
+ n="0617b28" ed="T"/>示眾生也。於曼茶羅據其中位。而總其眾<lb
+ n="0617b29" ed="T"/>相。除是而有一十六位焉。蓋正覺之徑路。<pb n="0617c" id="T19.1004.0617c" ed="T"/><lb
+ n="0617c01" ed="T"/>其二所謂意生金剛菩薩。以大悲欲箭。害二<lb
+ n="0617c02" ed="T"/>乘心。所以手持是箭。而現其欲離俱幻平等<lb
+ n="0617c03" ed="T"/>智身。<lb
+ n="0617c04" ed="T"/>其三所謂髻利吉羅金剛菩薩。於中國之言<lb
+ n="0617c05" ed="T"/>名觸。以不捨眾生必令解脫故。欲明觸性即<lb
+ n="0617c06" ed="T"/>菩提故。所以住抱持相。而現其觸淨俱幻平<lb
+ n="0617c07" ed="T"/>等智身。<lb
+ n="0617c08" ed="T"/>其四所謂悲愍金剛菩薩。以悲愍故。以愛念<lb
+ n="0617c09" ed="T"/>繩。普縛眾生未至菩提。終不放捨。亦如摩竭<lb
+ n="0617c10" ed="T"/>大魚吞啗所遇。一入口已更無免者。所以持<lb
+ n="0617c11" ed="T"/>此摩竭魚幢。而現其愛縛捨離俱幻平等智<lb
+ n="0617c12" ed="T"/>身。<lb
+ n="0617c13" ed="T"/>其五所謂金剛慢菩薩。以無過上智。令一切<lb
+ n="0617c14" ed="T"/>眾生悉證毘盧遮那如來體。於世出世間皆<lb
+ n="0617c15" ed="T"/>得自在。所以住傲誕威儀。而現其我無我俱<lb
+ n="0617c16" ed="T"/>幻平等智身。<lb
+ n="0617c17" ed="T"/>其六所謂金剛見菩薩。以寂照大慧之眼。於<lb
+ n="0617c18" ed="T"/>雜染界妙淨土乃至真諦俗諦。唯見一切法<lb
+ n="0617c19" ed="T"/>勝義真實之諦。不散不動。所以持意生之契。<lb
+ n="0617c20" ed="T"/>而現其三昧之身。<lb
+ n="0617c21" ed="T"/>其七所謂金剛適悅菩薩。於身塵而得適悅<lb
+ n="0617c22" ed="T"/>清淨。於生死解脫不厭不住。所以持觸金剛<lb
+ n="0617c23" ed="T"/>相。而現其三昧之身。<lb
+ n="0617c24" ed="T"/>其八所謂金剛貪菩薩。即貪愛而得清淨故。<lb
+ n="0617c25" ed="T"/>遂能以貪而積集一切功德智慧。疾證菩<lb
+ n="0617c26" ed="T"/>提。由住貪愛性故。所以持悲愍之契。而現其<lb
+ n="0617c27" ed="T"/>三昧之身。<lb
+ n="0617c28" ed="T"/>其九所謂金剛自在菩薩。出入三界自在無<lb
+ n="0617c29" ed="T"/>畏。於生死涅槃而得大我之體。所以住金剛<pb n="0618a" id="T19.1004.0618a" ed="T"/><lb
+ n="0618a01" ed="T"/>慢相。而現其三昧之身。<lb
+ n="0618a02" ed="T"/>其十所謂金剛春菩薩。能以菩提覺花起供<lb
+ n="0618a03" ed="T"/>養雲海。亦以方便授與眾生作功德利。以花<lb
+ n="0618a04" ed="T"/>是春事。遂以名之。故亦持花以為其契。<lb
+ n="0618a05" ed="T"/>其十一所謂金剛雲菩薩。能以法澤慈雲。滋<lb
+ n="0618a06" ed="T"/>潤含識。亦以方便授諸身心使無始無明臭<lb
+ n="0618a07" ed="T"/>穢不善。化成無量供養香雲。以鑪煙像雲。遂<lb
+ n="0618a08" ed="T"/>以為號。故持焚香之器以為契焉。<lb
+ n="0618a09" ed="T"/>其十二所謂金剛秋菩薩。常以智燈破諸黑<lb
+ n="0618a10" ed="T"/>暗。亦以方便授與眾生。起無量光明供養雲<lb
+ n="0618a11" ed="T"/>海。以其空色清爽莫如秋時。欲表智光之<lb
+ n="0618a12" ed="T"/>體。遂以名之。故執燈明以為其契。<lb
+ n="0618a13" ed="T"/>其十三所謂金剛霜雪菩薩。能以五無漏蘊<lb
+ n="0618a14" ed="T"/>香。塗眾生心體。滅煩惱之穢熱。成五分法<lb
+ n="0618a15" ed="T"/>身之香。亦以方便授與眾生。起塗香供養雲<lb
+ n="0618a16" ed="T"/>海。以栴檀塗香解諸毒熱有似霜雪。遂以名<lb
+ n="0618a17" ed="T"/>之。故執塗香以為其契。<lb
+ n="0618a18" ed="T"/>其十四所謂金剛色菩薩。以色清淨智。於淨<lb
+ n="0618a19" ed="T"/>妙界起受用色身。於雜染界起變化色身。而<lb
+ n="0618a20" ed="T"/>為攝來之事。故以持鉤為契。<lb
+ n="0618a21" ed="T"/>其十五所謂金剛聲菩薩。以聲清淨智。能表<lb
+ n="0618a22" ed="T"/>六十四種梵音。普周法界而為引入之事。故<lb
+ n="0618a23" ed="T"/>持索以為契。<lb
+ n="0618a24" ed="T"/>其十六所謂金剛香菩薩。以香清淨智。發金<lb
+ n="0618a25" ed="T"/>剛界自然名稱之香。入一切散動心以為止<lb
+ n="0618a26" ed="T"/>留之事。故以持鎖為契。<lb
+ n="0618a27" ed="T"/>其十七所謂金剛味菩薩。以味清淨智。持瑜<lb
+ n="0618a28" ed="T"/>伽三摩地無上法味。以為歡樂之事。故持鈴<lb
+ n="0618a29" ed="T"/>為契。<pb n="0618b" id="T19.1004.0618b" ed="T"/><lb
+ n="0618b01" ed="T"/>如是等大菩薩十七清淨三摩地智。依文廣<lb
+ n="0618b02" ed="T"/>述。有無量名義體用理事成證之門。今但粗<lb
+ n="0618b03" ed="T"/>舉綱目而已。出金剛頂經第十三會大三昧<lb
+ n="0618b04" ed="T"/>耶真實瑜伽略鈔大意。<lb
+ n="0618b05" ed="T"/>
+</ab><ab type="juan" subtype="close">般若波羅蜜多理趣經大安樂不空三昧真實<lb
+ n="0618b06" ed="T"/>金剛菩薩等一十七聖大曼茶羅義述一卷</ab></div>
+</body></text></TEI>

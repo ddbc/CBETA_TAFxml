@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">三歸五戒慈心厭離功德經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0072</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0878c" ed="T" id="T01.0072.0878c"/><lb
+ n="0878c01" ed="T"/><lb
+ n="0878c02" ed="T"/><lb
+ n="0878c03" ed="T"/><lb
+ n="0878c04" ed="T"/><lb
+ n="0878c05" ed="T"/><div type="jing" level="1"><lb
+ n="0878c07" ed="T"/>
+<ab type="juan" subtype="open">佛說三歸五戒慈心厭離功德經</ab><lb
+ n="0878c08" ed="T"/><lb
+ n="0878c09" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
+ n="0878c10" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
+ n="0878c11" ed="T"/>為阿那邠邸長者說：「過去久遠，有梵志名毗羅<lb
+ n="0878c12" ed="T"/>摩，饒財多寶。若布施時，用八萬四千金鉢盛<lb
+ n="0878c13" ed="T"/>滿碎銀，八萬四千銀鉢盛滿碎金，復以八萬<lb
+ n="0878c14" ed="T"/>四千金銀澡罐，復以八萬四千牛皆以金銀<lb
+ n="0878c15" ed="T"/>覆角，復以八萬四千玉女莊嚴具足，復以八<lb
+ n="0878c16" ed="T"/>萬四千臥具眾綵自覆，復以八萬四千衣裳，<lb
+ n="0878c17" ed="T"/>復以八萬四千象馬皆以金銀鞍勒，復以八<lb
+ n="0878c18" ed="T"/>萬四千房舍布施；復於四城門中布施，隨其<lb
+ n="0878c19" ed="T"/>所欲皆悉與之；復以一房舍施招提僧。如上<lb
+ n="0878c20" ed="T"/>施福，不如受三自歸。所以然者，受三歸者，施<lb
+ n="0878c21" ed="T"/>一切眾生無畏。是故歸佛、法、僧，其福不可計<lb
+ n="0878c22" ed="T"/>量也。「如上布施及受三歸福，復不如受五戒<lb
+ n="0878c23" ed="T"/>福。受五戒者，功德滿具，其福勝也。如上布施<lb
+ n="0878c24" ed="T"/>及受三歸、五戒福，復不如彈指頃慈念眾生<lb
+ n="0878c25" ed="T"/>福也。如上布施，及受三歸、五戒，慈念眾生福，<lb
+ n="0878c26" ed="T"/>復不如起一切世間不可樂想福。所以然者，<lb
+ n="0878c27" ed="T"/>起一切世間不可樂想福，能令行者滅生死<lb
+ n="0878c28" ed="T"/>苦，終成佛道，故其福最勝也。」爾時長者聞佛<pb n="0879a" ed="T" id="T01.0072.0879a"/><lb
+ n="0879a01" ed="T"/>所說，歡喜奉行。<lb
+ n="0879a02" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說三歸五戒慈心厭離功德經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">修習般若波羅蜜菩薩觀行念誦儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1151</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0610c03" ed="T"/><lb
+ n="0610c04" ed="T"/><lb
+ n="0610c05" ed="T"/><lb
+ n="0610c06" ed="T"/>
+<ab type="juan" subtype="open">修習般若波羅蜜菩薩觀行念誦<lb
+ n="0610c07" ed="T"/>儀軌一卷</ab><lb
+ n="0610c08" ed="T"/><lb
+ n="0610c09" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0610c10" ed="T"/>公食邑三千戶賜紫贈司空諡大鑑<lb
+ n="0610c11" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0610c12" ed="T"/>不空奉　詔譯</byline><lb
+ n="0610c13" ed="T"/><div type="jing" level="1"><ab type="verse">
+歸命般若母　　清淨妙法身　　<lb
+ n="0610c14" ed="T"/>我今依瑜伽　　演說觀行法　　<lb
+ n="0610c15" ed="T"/>運心遍法界　　一切佛剎海　　<lb
+ n="0610c16" ed="T"/>想身周圍遶　　由是得解脫　　<lb
+ n="0610c17" ed="T"/>想身遶諸佛　　一一諸佛前　　<lb
+ n="0610c18" ed="T"/>菩薩眾圍遶　　持妙供養具　　<lb
+ n="0610c19" ed="T"/>三世諸如來　　及大菩薩眾　　<lb
+ n="0610c20" ed="T"/>緣覺與聲聞　　一切正法藏　　<lb
+ n="0610c21" ed="T"/>皆悉盡無餘　　遍想於己身　　<lb
+ n="0610c22" ed="T"/>一切乃眾前　　分明如對目　　<lb
+ n="0610c23" ed="T"/>皆從淨心生　　廣多供養具　　<lb
+ n="0610c24" ed="T"/>作無量供養　　無間恒作禮　　<lb
+ n="0610c25" ed="T"/>宮殿妙拂蓋　　無數眾樓閣　　<lb
+ n="0610c26" ed="T"/>花鬘末塗香　　種種寶莊嚴　　<lb
+ n="0610c27" ed="T"/>彼諸供養儀　　遍滿虛空界　　<lb
+ n="0610c28" ed="T"/>殷勤心加持　　奉獻諸如來　　<lb
+ n="0610c29" ed="T"/>如空剎土爾　　如剎佛亦然　　<pb n="0611a" id="T20.1151.0611a" ed="T"/><lb
+ n="0611a01" ed="T"/>如佛法亦然　　如法供養然　　<lb
+ n="0611a02" ed="T"/>一切皆無量　　十方無邊剎　　<lb
+ n="0611a03" ed="T"/>知已作是言　　敬禮諸如來　　
+</ab><lb
+ n="0611a04" ed="T"/><ab type="prose">遍禮一切如來真言曰。<lb
+ n="0611a05" ed="T"/></ab>
+<ab type="dharani">唵薩嚩怛他蘖多播那滿曩喃迦<lb
+ n="0611a06" ed="T"/>嚕弭<lb
+ n="0611a07" ed="T"/></ab>
+<ab type="verse">
+種種勝無量　　大乘經所說　　<lb
+ n="0611a08" ed="T"/>陀羅尼佛心　　殷勤應稱誦　　<lb
+ n="0611a09" ed="T"/>當生淨信心　　專注於一境　　<lb
+ n="0611a10" ed="T"/>為諸有情類　　觀察勝菩提　　<lb
+ n="0611a11" ed="T"/>即當作偏袒　　右膝而著地　　<lb
+ n="0611a12" ed="T"/>誠心合掌住　　應作如是言　　<lb
+ n="0611a13" ed="T"/>自作教他作　　或自他隨喜　　<lb
+ n="0611a14" ed="T"/>由身口意罪　　願諸佛哀愍　　<lb
+ n="0611a15" ed="T"/>今生一億罪　　乃至無始世　　<lb
+ n="0611a16" ed="T"/>及當坐菩提　　不復更違犯　　<lb
+ n="0611a17" ed="T"/>如是勝懺悔　　真實觀察故　　<lb
+ n="0611a18" ed="T"/>以佛願智火　　焚盡無有餘　　<lb
+ n="0611a19" ed="T"/>能取及所取　　一切皆唯心　　<lb
+ n="0611a20" ed="T"/>佛剎等供養　　能取所取意　　<lb
+ n="0611a21" ed="T"/>菩薩住等引　　見心如影像　　<lb
+ n="0611a22" ed="T"/>能取想分別　　安住於空性　　<lb
+ n="0611a23" ed="T"/>二性無性相　　是名為空相　　<lb
+ n="0611a24" ed="T"/>無性非無性　　不離於一性　　<lb
+ n="0611a25" ed="T"/>能所及供養　　三種離分別　　<lb
+ n="0611a26" ed="T"/>由無分別故　　此供養為勝　　<lb
+ n="0611a27" ed="T"/>如是勝供養　　及以旋遶法　　<lb
+ n="0611a28" ed="T"/>一切重罪咎　　除滅皆無餘　　<lb
+ n="0611a29" ed="T"/>貪性知無貪　　即入貪性空　　<pb n="0611b" id="T20.1151.0611b" ed="T"/><lb
+ n="0611b01" ed="T"/>瞋性知無瞋　　即入瞋性空　　<lb
+ n="0611b02" ed="T"/>癡性知無癡　　即入癡性空　　<lb
+ n="0611b03" ed="T"/>如是於諸惑　　觀察實相理　　<lb
+ n="0611b04" ed="T"/>有此智慧者　　由空無分別　　<lb
+ n="0611b05" ed="T"/>如蓮華處水　　不著諸罪咎　　
+</ab><lb
+ n="0611b06" ed="T"/><ab type="prose">修行者作如是觀照。淨身心已即結三昧耶<lb
+ n="0611b07" ed="T"/>印。<lb
+ n="0611b08" ed="T"/></ab>
+<ab type="verse">
+二羽相交合　　當安於心上　　<lb
+ n="0611b09" ed="T"/>遍觀虛空佛　　誦真言三遍　　
+</ab><lb
+ n="0611b10" ed="T"/><ab type="prose">真言曰。<lb
+ n="0611b11" ed="T"/></ab>
+<ab type="dharani">唵嚩日𠻴惹禮<lb
+ n="0611b12" ed="T"/></ab>
+<ab type="prose">次結金剛縛。十度外相叉。密縛成印相。金剛<lb
+ n="0611b13" ed="T"/>縛真言。真言曰。<lb
+ n="0611b14" ed="T"/></ab>
+<ab type="dharani">嚩日囉滿馱<lb
+ n="0611b15" ed="T"/></ab>
+<ab type="verse">
+如前金剛縛　　掣擊於心上　　<lb
+ n="0611b16" ed="T"/>能滅諸結使　　開顯解脫宮　　
+</ab><lb
+ n="0611b17" ed="T"/><ab type="prose">即當誦開心真言曰。<lb
+ n="0611b18" ed="T"/></ab>
+<ab type="dharani">嚩日囉滿馱怛囉吒<lb
+ n="0611b19" ed="T"/></ab>
+<ab type="verse">
+次結發智印　　如前金剛縛　　<lb
+ n="0611b20" ed="T"/>定慧入於掌　　召入圓寂智　　<lb
+ n="0611b21" ed="T"/>召入於種智　　
+</ab><lb
+ n="0611b22" ed="T"/><ab type="prose">真言曰。<lb
+ n="0611b23" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉吠舍惡<lb
+ n="0611b24" ed="T"/></ab>
+<ab type="verse">
+次結金剛拳　　進力跓禪智　　<lb
+ n="0611b25" ed="T"/>金剛身語意　　密合不傾動　　
+</ab><lb
+ n="0611b26" ed="T"/><ab type="prose">誦金剛拳真言曰。<lb
+ n="0611b27" ed="T"/></ab>
+<ab type="dharani">嚩日囉畝瑟置𤚥<lb
+ n="0611b28" ed="T"/></ab>
+<ab type="verse">
+即結三昧耶　　自成普賢故　　<lb
+ n="0611b29" ed="T"/>結已竪忍願　　身處於月輪　　
+</ab><pb n="0611c" id="T20.1151.0611c" ed="T"/><lb
+ n="0611c01" ed="T"/><ab type="prose">即誦三昧耶真言曰。<lb
+ n="0611c02" ed="T"/></ab>
+<ab type="dharani">唵三麼野薩怛鑁<lb
+ n="0611c03" ed="T"/></ab>
+<ab type="verse">
+次結大真誓　　忍願反入縛　　<lb
+ n="0611c04" ed="T"/>檀慧定智竪　　二度三觸心　　<lb
+ n="0611c05" ed="T"/>藏識厭離種　　能除悲增長　　
+</ab><lb
+ n="0611c06" ed="T"/><ab type="prose">復當誦真言曰。<lb
+ n="0611c07" ed="T"/></ab>
+<ab type="dharani">唵三麼野護素囉多薩怛鑁<lb
+ n="0611c08" ed="T"/></ab>
+<ab type="verse">
+次應作辟除　　結金剛藥叉　　<lb
+ n="0611c09" ed="T"/>二羽金剛拳　　檀慧進力屈　　<lb
+ n="0611c10" ed="T"/>置於口兩頰　　想身同彼尊　　<lb
+ n="0611c11" ed="T"/>厲聲誦真言　　左右而顧視　　
+</ab><lb
+ n="0611c12" ed="T"/><ab type="prose">金剛藥叉真言曰。<lb
+ n="0611c13" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉藥乞叉𤙖<lb
+ n="0611c14" ed="T"/></ab>
+<ab type="verse">
+所有諸障者　　悉皆四馳散　　<lb
+ n="0611c15" ed="T"/>二目想麼吒　　轉如日月輪　　<lb
+ n="0611c16" ed="T"/>止觀金剛拳　　各安於二𦜮　　<lb
+ n="0611c17" ed="T"/>隨日作旋視　　以成十方界　　
+</ab><lb
+ n="0611c18" ed="T"/><ab type="prose">誦金剛眼真言曰。<lb
+ n="0611c19" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉涅哩瑟知麼吒<lb
+ n="0611c20" ed="T"/></ab>
+<ab type="verse">
+當入三摩地　　縛印相如前　　<lb
+ n="0611c21" ed="T"/>仰安結跏上　　端身須正直　　<lb
+ n="0611c22" ed="T"/>閉目入正定　　遍觀虛空佛　　<lb
+ n="0611c23" ed="T"/>盡滿如胡麻　　彼一切如來　　<lb
+ n="0611c24" ed="T"/>憶昔誓願故　　異口同音聲　　<lb
+ n="0611c25" ed="T"/>教授說真言　　專注實相理　　
+</ab><lb
+ n="0611c26" ed="T"/><ab type="dharani">唵薩嚩喻誐質多沒答跛那野弭<lb
+ n="0611c27" ed="T"/></ab>
+<ab type="verse">
+專注實相理　　頻誦此真言　　<lb
+ n="0611c28" ed="T"/>安心內觀察　　漸令周法界　　<lb
+ n="0611c29" ed="T"/>一切虛空相　　虛空亦無相　　<pb n="0612a" id="T20.1151.0612a" ed="T"/><lb
+ n="0612a01" ed="T"/>虛空瑜伽故　　舒遍於十方　　
+</ab><lb
+ n="0612a02" ed="T"/><ab type="prose">行者既入。般若波羅蜜甚深體性三摩地。則<lb
+ n="0612a03" ed="T"/>於真實性中證大月輪量同法界。光明普照<lb
+ n="0612a04" ed="T"/>寂然清涼。起大悲愍一切有情三界熾然。如<lb
+ n="0612a05" ed="T"/>一子想深生拔濟。而作是念我今云何。令未<lb
+ n="0612a06" ed="T"/>得度而令得度。未解脫者令得解脫。未安慰<lb
+ n="0612a07" ed="T"/>者令得安慰。未涅槃者令得涅槃。則入本尊<lb
+ n="0612a08" ed="T"/>瑜伽三摩地。觀身為般若波羅蜜佛母。戴五<lb
+ n="0612a09" ed="T"/>佛冠天衣瓔珞。金色光明遍毛孔中。流出無<lb
+ n="0612a10" ed="T"/>量諸佛。又作是念。我身與般若波羅蜜菩薩<lb
+ n="0612a11" ed="T"/>無二無別。即以金剛護菩薩加持四處。<lb
+ n="0612a12" ed="T"/></ab>
+<ab type="verse">
+二羽金剛縛　　進力竪如針　　<lb
+ n="0612a13" ed="T"/>印心頞喉頂　　成本尊瑜伽　　
+</ab><lb
+ n="0612a14" ed="T"/><ab type="prose">即誦真言曰。<lb
+ n="0612a15" ed="T"/></ab>
+<ab type="dharani">嚩日囉囉乞叉憾<lb
+ n="0612a16" ed="T"/></ab>
+<ab type="verse">
+次結五佛冠　　二手金剛縛　　<lb
+ n="0612a17" ed="T"/>忍願形如刀　　進力附上節　　<lb
+ n="0612a18" ed="T"/>置頂次四方　　二拳額前遶　　<lb
+ n="0612a19" ed="T"/>如鬘頂後繫　　垂下勢如帶　　
+</ab><lb
+ n="0612a20" ed="T"/><ab type="prose">一切如來寶冠真言曰。<lb
+ n="0612a21" ed="T"/></ab>
+<ab type="dharani">唵部欠<lb
+ n="0612a22" ed="T"/></ab>
+<ab type="prose">次誦金剛部真言曰。<lb
+ n="0612a23" ed="T"/></ab>
+<ab type="dharani">嚩日囉薩怛嚩<lb
+ n="0612a24" ed="T"/></ab>
+<ab type="prose">次誦寶部真言曰。<lb
+ n="0612a25" ed="T"/></ab>
+<ab type="dharani">嚩日囉囉怛娜<lb
+ n="0612a26" ed="T"/></ab>
+<ab type="prose">次誦蓮華部真言曰。<lb
+ n="0612a27" ed="T"/></ab>
+<ab type="dharani">嚩日囉達囉摩<lb
+ n="0612a28" ed="T"/></ab>
+<ab type="prose">次誦事業部真言曰。<lb
+ n="0612a29" ed="T"/></ab>
+<ab type="dharani">嚩日囉羯囉磨<pb n="0612b" id="T20.1151.0612b" ed="T"/><lb
+ n="0612b01" ed="T"/></ab>
+<ab type="prose">次誦金剛鬘灌頂真言曰。<lb
+ n="0612b02" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉麼邏避詵者滿𤚥<lb
+ n="0612b03" ed="T"/></ab>
+<ab type="prose">次結甲冑印。二羽金剛印。擐甲及自他。頭指<lb
+ n="0612b04" ed="T"/>相繞結。恒成於大護。即誦甲冑真言曰。<lb
+ n="0612b05" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉迦嚩左嚩日𠼝句嚕嚩日<lb
+ n="0612b06" ed="T"/>囉唅<lb
+ n="0612b07" ed="T"/></ab>
+<ab type="prose">以此甲冑印及誦真言而被甲。即得金剛性<lb
+ n="0612b08" ed="T"/>身。及獲金剛壽命。盡形得大加護。於一切處<lb
+ n="0612b09" ed="T"/>無能沮壞。被甲已齊。掌拍令歡喜。<lb
+ n="0612b10" ed="T"/>次誦金剛歡喜真言曰。<lb
+ n="0612b11" ed="T"/></ab>
+<ab type="dharani">嚩日囉都使野斛<lb
+ n="0612b12" ed="T"/></ab>
+<ab type="verse">
+由此心真言　　解縛得歡喜　　<lb
+ n="0612b13" ed="T"/>獲得金剛體　　如金剛薩埵　　<lb
+ n="0612b14" ed="T"/>遍入金剛已　　大印如儀則　　<lb
+ n="0612b15" ed="T"/>身前應當結　　思惟大薩埵　　<lb
+ n="0612b16" ed="T"/>見彼智薩埵　　應觀於自身　　<lb
+ n="0612b17" ed="T"/>鉤召引入縛　　令喜作成就　　
+</ab><lb
+ n="0612b18" ed="T"/><ab type="prose">即誦般若波羅蜜遍入真言曰。<lb
+ n="0612b19" ed="T"/></ab>
+<ab type="dharani">唵達麼嚩日囉惡<lb
+ n="0612b20" ed="T"/></ab>
+<ab type="prose">次誦般若波羅蜜觀念心真言曰。<lb
+ n="0612b21" ed="T"/></ab>
+<ab type="dharani">唵達麼嚩日㘑涅哩捨野弱吽鑁<lb
+ n="0612b22" ed="T"/>斛<lb
+ n="0612b23" ed="T"/></ab>
+<ab type="prose">此是大薩埵鉤召引入縛令心喜悅誦三昧<lb
+ n="0612b24" ed="T"/>耶薩怛鑁遍入背後而月輪。於中應觀<lb
+ n="0612b25" ed="T"/>後面薩埵。我三昧耶薩怛鑁隨彼印薩<lb
+ n="0612b26" ed="T"/>埵。修習觀自身。金剛語已成。能成就諸印。行<lb
+ n="0612b27" ed="T"/>者即於壇中本尊像前。想七寶樓閣而開四<lb
+ n="0612b28" ed="T"/>門。於其殿中觀地字門。成般若波羅蜜佛母。<lb
+ n="0612b29" ed="T"/>以十波羅蜜圍遶。及八供養四門鉤鎖并八<pb n="0612c" id="T20.1151.0612c" ed="T"/><lb
+ n="0612c01" ed="T"/>方天眾。皆以本種子字觀想而成。復想己身<lb
+ n="0612c02" ed="T"/>在於色界阿迦尼吒天。即當作請印。<lb
+ n="0612c03" ed="T"/></ab>
+<ab type="verse">
+召集作彈指　　應請一切佛　　<lb
+ n="0612c04" ed="T"/>剎那頃諸佛　　并金剛菩薩　　<lb
+ n="0612c05" ed="T"/>應滿一切壇　　集會曼茶羅　　<lb
+ n="0612c06" ed="T"/>即速疾大印　　觀金剛薩埵　　<lb
+ n="0612c07" ed="T"/>一遍稱百八　　由結集印喜　　<lb
+ n="0612c08" ed="T"/>如來皆堅固　　金剛薩自成　　<lb
+ n="0612c09" ed="T"/>慈友而安住　　諸門一切處　　<lb
+ n="0612c10" ed="T"/>鉤等而作業　　以大羯磨印　　
+</ab><lb
+ n="0612c11" ed="T"/><ab type="prose">召集真言曰。<lb
+ n="0612c12" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉三麼野惹弱<lb
+ n="0612c13" ed="T"/></ab>
+<ab type="verse">
+次當結四攝　　二羽金剛拳　　<lb
+ n="0612c14" ed="T"/>交腕結檀慧　　頭指如大鉤　　<lb
+ n="0612c15" ed="T"/>如索亦如鎖　　手背而相逼　　
+</ab><lb
+ n="0612c16" ed="T"/><ab type="prose">金剛鉤真言曰。<lb
+ n="0612c17" ed="T"/></ab>
+<ab type="dharani">嚩日𠻴矩勢弱<lb
+ n="0612c18" ed="T"/></ab>
+<ab type="prose">金剛索真言曰。<lb
+ n="0612c19" ed="T"/></ab>
+<ab type="dharani">嚩日囉播勢𤙖<lb
+ n="0612c20" ed="T"/></ab>
+<ab type="prose">金剛鎖真言曰。<lb
+ n="0612c21" ed="T"/></ab>
+<ab type="dharani">嚩日囉餉迦麗𤚥<lb
+ n="0612c22" ed="T"/></ab>
+<ab type="prose">金剛鈴真言曰。<lb
+ n="0612c23" ed="T"/></ab>
+<ab type="dharani">嚩日囉巘滯斛<lb
+ n="0612c24" ed="T"/></ab>
+<ab type="verse">
+由金剛鉤召　　能作諸事業　　<lb
+ n="0612c25" ed="T"/>由金剛索儀　　能一切引入　　<lb
+ n="0612c26" ed="T"/>金剛鎖相應　　堪任一切縛　　<lb
+ n="0612c27" ed="T"/>由金剛入縛　　能成諸遍入　　
+</ab><lb
+ n="0612c28" ed="T"/><ab type="prose">即捧閼伽器。誦百字明而奉獻之。<lb
+ n="0612c29" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉薩怛嚩三麼野摩努<pb n="0613a" id="T20.1151.0613a" ed="T"/><lb
+ n="0613a01" ed="T"/>播攞野嚩日囉薩怛嚩底吠<lb
+ n="0613a02" ed="T"/>怒跛底瑟吒捏哩濁冥婆<lb
+ n="0613a03" ed="T"/>嚩蘇妬使喻銘婆嚩阿弩<lb
+ n="0613a04" ed="T"/>囉訖妬銘婆嚩蘇報使喻<lb
+ n="0613a05" ed="T"/>銘婆嚩薩嚩悉朕銘鉢囉野<lb
+ n="0613a06" ed="T"/>縒薩嚩羯摩蘇者銘質跢室唎<lb
+ n="0613a07" ed="T"/>藥矩嚕吽訶訶訶訶穀婆誐鑁薩嚩怛<lb
+ n="0613a08" ed="T"/>他誐跢嚩日囉莽銘悶者嚩日哩婆嚩摩訶三麼耶薩怛<lb
+ n="0613a10" ed="T"/>嚩惡<lb
+ n="0613a11" ed="T"/></ab>
+<ab type="prose">由以百字真言奉閼伽水故。所有願求速得<lb
+ n="0613a12" ed="T"/>成就。<lb
+ n="0613a13" ed="T"/>次誦金剛嬉戲真言曰。<lb
+ n="0613a14" ed="T"/></ab>
+<ab type="dharani">系囉底嚩日囉尾邏賜儞怛囉吒<lb
+ n="0613a16" ed="T"/></ab>
+<ab type="prose">次金剛鬘真言曰。<lb
+ n="0613a17" ed="T"/></ab>
+<ab type="dharani">系囉底嚩日囉賀細訶訶<lb
+ n="0613a18" ed="T"/></ab>
+<ab type="prose">次金剛歌真言曰。<lb
+ n="0613a19" ed="T"/></ab>
+<ab type="dharani">系囉底嚩日囉擬諦諦諦<lb
+ n="0613a20" ed="T"/></ab>
+<ab type="prose">次金剛舞真言曰。<lb
+ n="0613a21" ed="T"/></ab>
+<ab type="dharani">系囉底嚩日囉儞哩底曳吠波吠<lb
+ n="0613a22" ed="T"/>波<lb
+ n="0613a23" ed="T"/></ab>
+<ab type="prose">復作外四供養而奉獻之。<lb
+ n="0613a24" ed="T"/>次金剛花鬘真言曰。<lb
+ n="0613a25" ed="T"/></ab>
+<ab type="dharani">系嚩日囉囉底<lb
+ n="0613a26" ed="T"/></ab>
+<ab type="prose">次金剛香真言曰。<lb
+ n="0613a27" ed="T"/></ab>
+<ab type="dharani">摩訶囉多嚩日哩斛<lb
+ n="0613a28" ed="T"/></ab>
+<ab type="prose">次金剛燈真言曰。<lb
+ n="0613a29" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉路者寧<pb n="0613b" id="T20.1151.0613b" ed="T"/><lb
+ n="0613b01" ed="T"/></ab>
+<ab type="prose">次金剛塗香真言曰。<lb
+ n="0613b02" ed="T"/></ab>
+<ab type="dharani">摩訶室唎嚩日哩呬<lb
+ n="0613b03" ed="T"/></ab>
+<ab type="prose">修行者纔住是八供養菩薩三摩地。即能出<lb
+ n="0613b04" ed="T"/>生盡十方界一切佛剎廣大雲海供養儀式。<lb
+ n="0613b05" ed="T"/>次即結本尊三昧耶印。二羽金剛合掌。以大<lb
+ n="0613b06" ed="T"/>指各捻二頭指側誦本尊真言七遍。<lb
+ n="0613b07" ed="T"/>真言曰。<lb
+ n="0613b08" ed="T"/></ab>
+<ab type="dharani">娜謨婆誐嚩怛曳鉢囉枳孃播<lb
+ n="0613b09" ed="T"/>囉弭跢曳唵紇唎地室哩<lb
+ n="0613b10" ed="T"/>󰡊嚕底尾惹曳娑嚩賀</ab>
+<ab type="prose">誦真言已頂上散印。<lb
+ n="0613b11" ed="T"/>次當誦念珠真言曰。<lb
+ n="0613b12" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉愚呬耶惹跛三麼曳吽<lb
+ n="0613b13" ed="T"/></ab>
+<ab type="prose">由誦此真言加持念珠七遍故。念誦一遍則<lb
+ n="0613b14" ed="T"/>成千遍。如是加持畢已。四時三時乃至二時。<lb
+ n="0613b15" ed="T"/>或一百八遍或一千遍。凡時分遍數一則常<lb
+ n="0613b16" ed="T"/>定。時誦數滿如前頂戴。即入般若波羅蜜<lb
+ n="0613b17" ed="T"/>三摩地。復於心中想圓滿月輪量周法界。於<lb
+ n="0613b18" ed="T"/>中觀地字門。了了分明色如珂雪專注而住。<lb
+ n="0613b19" ed="T"/>即名為奢摩他。攝諸散動心既定已。即與慧<lb
+ n="0613b20" ed="T"/>相應。思地字義一切法性相如法界不可得<lb
+ n="0613b21" ed="T"/>故。即名為毘鉢舍那。或與定相應或與慧相<lb
+ n="0613b22" ed="T"/>應。久已純熟定慧雙運。能觀所觀平等平等。<lb
+ n="0613b23" ed="T"/>能取所取悉應遠離。常作如是觀照。現生得<lb
+ n="0613b24" ed="T"/>入初地。後十六大生成普賢菩薩。復結本尊<lb
+ n="0613b25" ed="T"/>印誦百字真言。重結八供養印捧閼伽水。以<lb
+ n="0613b26" ed="T"/>金剛眼左視解界。即結法波羅蜜印奉送聖<lb
+ n="0613b27" ed="T"/>眾誦金剛解脫真言曰。<lb
+ n="0613b28" ed="T"/></ab>
+<ab type="dharani">唵訖哩覩嚩薩嚩薩怛嚩囉他<lb
+ n="0613b29" ed="T"/>悉地囉娜多野他弩誐蘖蹉<pb n="0613c" id="T20.1151.0613c" ed="T"/><lb
+ n="0613c01" ed="T"/>特鑁沒馱尾灑焰布曩囉誐麼曩<lb
+ n="0613c02" ed="T"/>野覩唵嚩日囉渴誐薩怛嚩穆<lb
+ n="0613c03" ed="T"/></ab>
+<ab type="prose">復以金剛寶印。灌頂被甲禮五方佛。即出道<lb
+ n="0613c04" ed="T"/>場隨意經行讀大乘經典。以此殊勝福迴向<lb
+ n="0613c05" ed="T"/>一切有情。速證般若波羅蜜無上正等菩提。<lb
+ n="0613c06" ed="T"/>次後便說功能頗殊妙矣。<lb
+ n="0613c07" ed="T"/>般若波羅蜜多根本真言曰。<lb
+ n="0613c08" ed="T"/></ab>
+<ab type="dharani">曩謨婆誐嚩戴鉢囉枳孃播囉<lb
+ n="0613c09" ed="T"/>弭跢曳唵紇哩地室哩戍嚕<lb
+ n="0613c10" ed="T"/>底尾惹曳娑嚩訶</ab>
+<ab type="prose">佛言此陀羅尼印有<lb
+ n="0613c11" ed="T"/>四種名。一名般若無盡藏。二名般若眼。三名<lb
+ n="0613c12" ed="T"/>般若根本。四名金剛般若心。此陀羅尼印有<lb
+ n="0613c13" ed="T"/>大功德。若能至心如法受持。隨誦一遍出生<lb
+ n="0613c14" ed="T"/>一萬八千修多羅藏。又彼一一修多羅中。各<lb
+ n="0613c15" ed="T"/>各出生二萬五千修多羅藏。又彼一一修多<lb
+ n="0613c16" ed="T"/>羅中。出生百萬修多羅藏。又彼一一修多羅<lb
+ n="0613c17" ed="T"/>藏中。出生無量百千萬億那由他阿僧祇修<lb
+ n="0613c18" ed="T"/>多羅藏。如是乃至展轉。出世無量無盡修多<lb
+ n="0613c19" ed="T"/>羅藏。所出經題名句義味。各各不同而不重<lb
+ n="0613c20" ed="T"/>出。如是念念出生無盡。是故名為無盡藏陀<lb
+ n="0613c21" ed="T"/>羅尼印。此陀羅尼印。即是十方三世諸佛宗<lb
+ n="0613c22" ed="T"/>祖。亦是十方三世諸佛無盡法藏。一切般若<lb
+ n="0613c23" ed="T"/>波羅蜜母。過現未來諸佛菩薩常所供養恭<lb
+ n="0613c24" ed="T"/>敬讚歎。若善男子善女人等。以至誠心書寫<lb
+ n="0613c25" ed="T"/>讀誦如說修行。是人所有百千萬億恒河沙<lb
+ n="0613c26" ed="T"/>劫生死重罪。於須臾頃悉滅無餘。此陀羅尼<lb
+ n="0613c27" ed="T"/>印所有功德。我若住於百千萬億阿僧祇劫。<lb
+ n="0613c28" ed="T"/>歎猶不盡。何況餘人歎之能盡。若欲修行般<lb
+ n="0613c29" ed="T"/>若法者。一食齋戒香湯洗浴。著新淨衣入於<pb n="0614a" id="T20.1151.0614a" ed="T"/><lb
+ n="0614a01" ed="T"/>道場。要當先誦此陀羅尼并作此印滿百萬<lb
+ n="0614a02" ed="T"/>遍然後修行餘般若法決定成就。是故名為<lb
+ n="0614a03" ed="T"/>般若根本。此陀羅尼印。悉能照了一切般若<lb
+ n="0614a04" ed="T"/>波羅蜜法。故名般若波羅蜜眼。此陀羅尼印。<lb
+ n="0614a05" ed="T"/>悉能摧滅一切障礙。悉能住持一切諸佛菩<lb
+ n="0614a06" ed="T"/>薩功德。故名金剛般若心也。<lb
+ n="0614a07" ed="T"/>
+</ab><ab type="juan" subtype="close">修習般若波羅蜜菩薩觀行念誦儀軌一卷</ab></div>
+</body></text></TEI>

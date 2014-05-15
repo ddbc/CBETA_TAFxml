@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說勝義空經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T15</biblScope>
+                    <idno type="Taisho">T15n0655</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0806c20" ed="T"/><lb
+ n="0806c21" ed="T"/><lb
+ n="0806c22" ed="T"/><lb
+ n="0806c23" ed="T"/>
+<ab type="juan" subtype="open">佛說勝義空經</ab><lb
+ n="0806c24" ed="T"/><lb
+ n="0806c25" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
+ n="0806c26" ed="T"/>傳法大師賜紫沙門臣施護等奉　詔譯</byline><lb
+ n="0806c27" ed="T"/><div type="jing" level="1"><ab type="prose">佛世尊一時在俱盧數國，與苾芻眾俱。<lb
+ n="0806c28" ed="T"/>佛告諸苾芻言：「諸有法門，我如前說；復有正<lb
+ n="0806c29" ed="T"/>法，名勝義空，汝等諦聽，極善作意，今為汝<pb n="0807a" ed="T" id="T15.0655.0807a"/><lb
+ n="0807a01" ed="T"/>說。「諸苾芻！此中云何名勝義空？謂：眼生時<lb
+ n="0807a02" ed="T"/>而無少法有所從來；又眼滅時亦無少法離<lb
+ n="0807a03" ed="T"/>散可去。「諸苾芻！其眼無實，離於實法。以要而<lb
+ n="0807a04" ed="T"/>言：有業有報，作者不可得，此蘊既終，復他蘊<lb
+ n="0807a05" ed="T"/>攝；別法合集，因緣所生。耳、鼻、舌、身、意亦復如<lb
+ n="0807a06" ed="T"/>是。彼意生時，而無少法有所從來；又意滅時，<lb
+ n="0807a07" ed="T"/>亦無少法離散可去。「諸苾芻！彼意無實，離於<lb
+ n="0807a08" ed="T"/>實法，亦如前說，別法合集。此合集法，無實可<lb
+ n="0807a09" ed="T"/>得，因緣所生。此緣生者，所謂：無明緣行、行<lb
+ n="0807a10" ed="T"/>緣識、識緣名色、名色緣六處、六處緣觸、觸<lb
+ n="0807a11" ed="T"/>緣受、受緣愛、愛緣取、取緣有、有緣生、生緣<lb
+ n="0807a12" ed="T"/>老死憂悲苦惱，如是即一大苦蘊生。此所生<lb
+ n="0807a13" ed="T"/>法，無實可得，生已即滅。由是無明滅即行<lb
+ n="0807a14" ed="T"/>滅、行滅即識滅、識滅即名色滅、名色滅即<lb
+ n="0807a15" ed="T"/>六處滅、六處滅即觸滅、觸滅即受滅、受滅即<lb
+ n="0807a16" ed="T"/>愛滅、愛滅即取滅、取滅即有滅、有滅即生<lb
+ n="0807a17" ed="T"/>滅、生滅即老死憂悲苦惱滅，如是即一大<lb
+ n="0807a18" ed="T"/>苦蘊滅。如是等所說，是為勝義空。「諸苾芻！諸<lb
+ n="0807a19" ed="T"/>有法門，如前已說，今此正法，汝等當學。」</ab></div><lb
+ n="0807a20" ed="T"/>
+<ab type="juan" subtype="close">佛說勝義空經</ab>
+</body></text></TEI>

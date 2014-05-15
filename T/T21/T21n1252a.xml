@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說大吉祥天女十二名號經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1252a</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0252b03" ed="T"/><lb
+ n="0252b04" ed="T"/><lb
+ n="0252b05" ed="T"/><div type="jing" level="1"><lb
+ n="0252b06" ed="T"/>
+<ab type="juan" subtype="open">佛說大吉祥天女十二名號經</ab><lb
+ n="0252b07" ed="T"/><lb
+ n="0252b08" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0252b09" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
+ n="0252b10" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0252b11" ed="T"/>不空奉　詔譯</byline><lb
+ n="0252b12" ed="T"/><ab type="prose">如是我聞。一時薄伽梵。在安樂世界。爾時觀<lb
+ n="0252b13" ed="T"/>自在菩薩。來詣佛所頭面禮佛足退坐一面。<lb
+ n="0252b14" ed="T"/>爾時大吉祥天女菩薩摩訶薩。亦往佛所稽<lb
+ n="0252b15" ed="T"/>首佛足退坐一面。<lb
+ n="0252b16" ed="T"/>爾時世尊。為欲利益薄福貧窮諸有情故。見<lb
+ n="0252b17" ed="T"/>吉祥天女。告觀自在菩薩言。若有苾芻苾芻<lb
+ n="0252b18" ed="T"/>尼近事男近事女。及彼一切有情之類。知此<lb
+ n="0252b19" ed="T"/>大吉祥天女十二名號。受持讀誦修習供養<lb
+ n="0252b20" ed="T"/>為他宣說。能除一切貧窮業障。獲得豐饒財<lb
+ n="0252b21" ed="T"/>寶富貴。爾時會中一切天龍八部。異口同音<lb
+ n="0252b22" ed="T"/>咸作是言。世尊所說真實不虛。我等願聞十<lb
+ n="0252b23" ed="T"/>二名號。唯願世尊大悲演說。佛言汝當善聽。<lb
+ n="0252b24" ed="T"/>今為汝說所謂。<lb
+ n="0252b25" ed="T"/>吉慶　吉祥　蓮華　嚴飾　具財　白色<lb
+ n="0252b26" ed="T"/>　大名稱　大光曜　施食者　施飲者　寶<lb
+ n="0252b27" ed="T"/>光　大吉<lb
+ n="0252b28" ed="T"/>是十二名號。汝當受持。我今復說是吉祥言<lb
+ n="0252b29" ed="T"/>曰。<pb n="0252c" id="T21.1252a.0252c" ed="T"/><lb
+ n="0252c01" ed="T"/></ab>
+<ab type="dharani">怛儞也他室哩抳室哩抳薩嚩<lb
+ n="0252c02" ed="T"/>迦哩野婆馱𩕳悉𩕳悉𩕳𩕳𩕳𩕳𩕳阿落乞史<lb
+ n="0252c03" ed="T"/>茗　曩捨野　娑嚩訶<lb
+ n="0252c04" ed="T"/></ab>
+<ab type="prose">爾時世尊說是陀羅尼已。告觀自在菩薩言。<lb
+ n="0252c05" ed="T"/>此大吉祥陀羅尼及十二名號。能除貧窮一<lb
+ n="0252c06" ed="T"/>切不祥。所有願求。皆得圓滿。若能晝夜三時<lb
+ n="0252c07" ed="T"/>讀誦此經。每時三遍。或常受持不間。作饒益<lb
+ n="0252c08" ed="T"/>心隨力虔誠供養大吉祥天女菩薩。速獲一<lb
+ n="0252c09" ed="T"/>切財寶豐樂吉祥。時觀自在菩薩及諸大眾<lb
+ n="0252c10" ed="T"/>天龍八部。從佛聞說十二名號及真言。歎未<lb
+ n="0252c11" ed="T"/>曾有。皆大歡喜。信受奉行。<lb
+ n="0252c12" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說大吉祥天女十二名號經</ab></div>
+</body></text></TEI>

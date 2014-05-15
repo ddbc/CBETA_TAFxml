@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">于瑟抳沙毘左野陀囉尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0979</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0410a" id="T19.0979.0410a" ed="T"/><lb
+ n="0410a01" ed="T"/><lb
+ n="0410a02" ed="T"/><lb
+ n="0410a03" ed="T"/>
+<ab type="juan" subtype="open">于瑟抳沙毘左野陀囉尼</ab><lb
+ n="0410a04" ed="T"/><lb
+ n="0410a05" ed="T"/><byline>西天嗣祖禪師指空譯</byline><lb
+ n="0410a06" ed="T"/><div type="dharani" level="1"><ab type="dharani">唵部嘍應莎賀那謨跛伽縛地薩縛怛哩路伽<lb
+ n="0410a07" ed="T"/>也鉢囉地毘沙瑟吒野富陀野帝那摩多怛<lb
+ n="0410a08" ed="T"/>也他唵部嘍應部嘍應素陀野素陀野毘素<lb
+ n="0410a09" ed="T"/>陀野毘素陀野阿沙摩沙曼多阿縛跛沙阿沙<lb
+ n="0410a10" ed="T"/>跛囉拏迦地迦迦那莎跛縛毘素諦阿毘枲讚<lb
+ n="0410a11" ed="T"/>杜望薩嚩多他迦多臾迦多瓦囉嚩左曩阿哩<lb
+ n="0410a12" ed="T"/>哆阿披細佉囉麼麼摩賀舞怛囉曼怛囉嚩<lb
+ n="0410a13" ed="T"/>地阿賀囉阿賀囉麼麼啊喻囉僧陀囉抳素陀<lb
+ n="0410a14" ed="T"/>野素陀野毘素陀野毘素陀野迦迦那莎跛<lb
+ n="0410a15" ed="T"/>縛毘素諦于瑟抳沙毘惹野縛哩叟諦沙訶<lb
+ n="0410a16" ed="T"/>沙囉瑟尾僧祖地帝薩嚩多他迦多阿縛<lb
+ n="0410a17" ed="T"/>路枳抳沙吒縛囉尾哆縛哩富囉抳薩嚩哆他<lb
+ n="0410a18" ed="T"/>迦多麼帝多寫簿尾鉢囉地瑟耻帝薩嚩<lb
+ n="0410a19" ed="T"/>多他迦多訖哩哆野阿致瑟吒那阿致瑟<lb
+ n="0410a20" ed="T"/>耻帝　唵　舞怛隷　舞怛㘑　摩賀舞怛㘑　縛日㘑嚩<lb
+ n="0410a21" ed="T"/>日㘑　摩訶縛日㘑縛日囉加野僧訶多耶　縛哩<lb
+ n="0410a22" ed="T"/>叟諦薩嚩竭摩阿臥囉那毘叟諦鉢囉地那日<lb
+ n="0410a23" ed="T"/>多野　摩摩啊喻囉毘叟諦　薩嚩多他迦多　沙摩<lb
+ n="0410a24" ed="T"/>野阿致瑟吒那阿致瑟耻諦　唵　舞抳舞抳　摩賀<lb
+ n="0410a25" ed="T"/>舞抳　毘舞抳毘舞抳　摩賀毘舞抳　摩地摩地　摩<lb
+ n="0410a26" ed="T"/>賀麼地摩摩地叟摩地多怛也他　簿哆固󰭡縛<lb
+ n="0410a27" ed="T"/>哩叟諦毘沙富多富陀叟陀醯　唵　醯醯惹野惹<lb
+ n="0410a28" ed="T"/>野　毘惹野毘惹野　娑囉娑囉　娑摩囉娑摩囉　阿<lb
+ n="0410a29" ed="T"/>瑟跛囉　阿瑟跛囉　阿瑟跛囉野　阿瑟跛囉野　薩<pb n="0410b" id="T19.0979.0410b" ed="T"/><lb
+ n="0410b01" ed="T"/>嚩富陀　阿致瑟吒那阿致瑟耻　唵　叟諦叟諦　富<lb
+ n="0410b02" ed="T"/>諦富諦　縛日㘑縛日隷　摩賀縛日㘑叟縛日㘑<lb
+ n="0410b03" ed="T"/>　縛日囉竭吠惹夜竭吠毘惹夜竭吠縛日囉<lb
+ n="0410b04" ed="T"/>惹耶羅竭吠縛日囉多跛吠縛日囉僧竭吠縛<lb
+ n="0410b05" ed="T"/>日㘑縛日囉抳縛日凌跛縛杜摩摩沙哩凌<lb
+ n="0410b06" ed="T"/>薩嚩娑埵曩左迦野縛哩叟癡跋縛杜麼麼薩<lb
+ n="0410b07" ed="T"/>嚩哆薩縛迦地縛哩叟癡沙左薩嚩多他迦哆<lb
+ n="0410b08" ed="T"/>瑟吒望沙曼沙沙野隱杜　枲陀也枲陀也　富<lb
+ n="0410b09" ed="T"/>陀也富陀也　普陀也普陀也　毘普陀也毘普陀<lb
+ n="0410b10" ed="T"/>也　謨佐野謨佐野　毘謨佐野毘謨佐野　素陀野<lb
+ n="0410b11" ed="T"/>素陀野　毘素陀野毘素陀野　沙曼哆多謨佐野<lb
+ n="0410b12" ed="T"/>　沙曼多囉瑟尾縛哩叟諦　薩嚩哆他迦哆訖哩<lb
+ n="0410b13" ed="T"/>多野　阿致瑟吒　那阿致瑟耻帝　唵　舞怛㘑舞怛<lb
+ n="0410b14" ed="T"/>㘑　麼賀舞怛㘑　麼賀舞怛囉曼怛囉嚩地莎賀<lb
+ n="0410b15" ed="T"/>　唵　部嘍應莎賀阿尾哆喻多諦莎賀曳也<lb
+ n="0410b16" ed="T"/>阿哩夜于瑟抳沙毘惹野那摩陀囉尼沙摩<lb
+ n="0410b17" ed="T"/>嚩哆</ab></div>
+</body></text></TEI>

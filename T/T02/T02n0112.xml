@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說八正道經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0112</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0504c23" ed="T"/><lb
+ n="0504c24" ed="T"/><lb
+ n="0504c25" ed="T"/><div type="jing" level="1"><lb
+ n="0504c26" ed="T"/>
+<ab type="juan" subtype="open">佛說八正道經</ab><lb
+ n="0504c27" ed="T"/><lb
+ n="0504c28" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
+ n="0504c29" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<pb n="0505a" ed="T" id="T02.0112.0505a"/><lb
+ n="0505a01" ed="T"/>告諸弟子：「聽我說邪道亦說正道。何等為邪<lb
+ n="0505a02" ed="T"/>道？不諦見、不諦念、不諦語、不諦治、不諦求、不諦<lb
+ n="0505a03" ed="T"/>行、不諦意、不諦定。是為道八邪行。<lb
+ n="0505a04" ed="T"/>「何等為道八正行？一者諦見。諦見為何等？信<lb
+ n="0505a05" ed="T"/>布施、信禮、信祠、信善惡行自然福、信父母、信天<lb
+ n="0505a06" ed="T"/>下道人、信求道、信諦行、信諦受。今世後世，自<lb
+ n="0505a07" ed="T"/>黠得證自成。便相告說是為諦見。<lb
+ n="0505a08" ed="T"/>「第二諦念為何等？所意棄欲、棄家、不瞋恚怒、<lb
+ n="0505a09" ed="T"/>不相侵，是為諦念。<lb
+ n="0505a10" ed="T"/>「第三諦語為何等？不兩舌、不傳語、不惡罵、不<lb
+ n="0505a11" ed="T"/>妄語，是為諦語。<lb
+ n="0505a12" ed="T"/>「第四諦行為何等？不殺盜婬，是為諦行。<lb
+ n="0505a13" ed="T"/>「第五諦受為何等？是聞有道弟子法求，不可<lb
+ n="0505a14" ed="T"/>非法，飯食、床臥、病瘦正法求，不可非法，是為<lb
+ n="0505a15" ed="T"/>諦受。<lb
+ n="0505a16" ed="T"/>「第六諦治為何等？生死意共合行，所精進行，<lb
+ n="0505a17" ed="T"/>出力因緣行，乃精進不厭意持，是為諦治。<lb
+ n="0505a18" ed="T"/>「第七諦意為何等？生死行合意念、向意念，不<lb
+ n="0505a19" ed="T"/>妄不共意求，是名為諦意。<lb
+ n="0505a20" ed="T"/>「第八諦定為何等？生死意合，念止、相止、護已<lb
+ n="0505a21" ed="T"/>止、聚止。不可為、不作所有罪，不墮中庭。是<lb
+ n="0505a22" ed="T"/>名為諦定。<lb
+ n="0505a23" ed="T"/>「比丘！所有道弟子，當受是八種行諦道，如說<lb
+ n="0505a24" ed="T"/>行可得道八行覺。諦見者信布施，後世得具<lb
+ n="0505a25" ed="T"/>福，信禮者見沙門道人作禮福，信祠者懸繒<lb
+ n="0505a26" ed="T"/>燒香散花然燈，信所行十善是為自然得福，<lb
+ n="0505a27" ed="T"/>信父母者信孝順，信天下道人者喜受經，信<lb
+ n="0505a28" ed="T"/>求道者為行道。信諦行者斷惡意，信諦受者<lb
+ n="0505a29" ed="T"/>不犯戒。今世後世，自黠為得黠，能教人得證，<pb n="0505b" ed="T" id="T02.0112.0505b"/><lb
+ n="0505b01" ed="T"/>自成者能成人。能成他人，便相告說，是名為<lb
+ n="0505b02" ed="T"/>諦見知。如是便自脫亦脫他人。<lb
+ n="0505b03" ed="T"/>「第二諦念所意起者為失意，欲棄家者為念<lb
+ n="0505b04" ed="T"/>道，不瞋恚怒者為忍辱，不相侵者當正意。<lb
+ n="0505b05" ed="T"/>「第三諦語者，不惡罵不犯口四過，但說至誠<lb
+ n="0505b06" ed="T"/>道品諦要。<lb
+ n="0505b07" ed="T"/>「第四諦行者，不殺盜婬而行誠信。<lb
+ n="0505b08" ed="T"/>「第五諦不墮貪者，但求一衣一食為賤醫。<lb
+ n="0505b09" ed="T"/>「第六諦治者為向三十七品經。<lb
+ n="0505b10" ed="T"/>「第七諦意者日增三十七品經，不離意。<lb
+ n="0505b11" ed="T"/>「第八諦止者不忘因緣，止者常還意護，已<lb
+ n="0505b12" ed="T"/>止者一切無所犯，聚止者得福道。」佛說如是。<lb
+ n="0505b13" ed="T"/>皆歡喜受。<lb
+ n="0505b14" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說八正道經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說天王太子辟羅經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T15</biblScope>
+                    <idno type="Taisho">T15n0596</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0130b19" ed="T"/><lb
+ n="0130b20" ed="T"/><lb
+ n="0130b21" ed="T"/><lb
+ n="0130b22" ed="T"/>
+<ab type="juan" subtype="open">佛說天王太子辟羅經</ab><lb
+ n="0130b23" ed="T"/><lb
+ n="0130b24" ed="T"/><byline>僧祐錄云關中異經今附秦錄</byline><lb
+ n="0130b25" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在舍衛國祇樹給孤獨園。天<lb
+ n="0130b26" ed="T"/>王太子，名曰辟羅，飛從天來，下至佛所，五<lb
+ n="0130b27" ed="T"/>體投地，稽首足下，却叉手住，問佛言：「普世<lb
+ n="0130b28" ed="T"/>之人，皆求衣食，七寶諸樂，官爵國土，寧有<lb
+ n="0130b29" ed="T"/>寶行求人不乎？」世尊歎曰：「大哉問也！亦有<pb n="0130c" ed="T" id="T15.0596.0130c"/><lb
+ n="0130c01" ed="T"/>國土珍寶，諸欲行求索人。」辟羅又曰：「可意<lb
+ n="0130c02" ed="T"/>之願行求人者，其義云何？」世尊即曰：「凡有<lb
+ n="0130c03" ed="T"/>二行：行善有福，行惡有殃，殃福追人，猶影<lb
+ n="0130c04" ed="T"/>隨形。」辟羅言：「善哉善哉！實如佛教。惟我前<lb
+ n="0130c05" ed="T"/>世，處世為王，念命無常，意欲布施，群臣普<lb
+ n="0130c06" ed="T"/>會，王曰：『吾欲作大鼓，令其音震聞百里，能有<lb
+ n="0130c07" ed="T"/>為之者乎？』眾臣僉曰：『臣等無能為者。』有一<lb
+ n="0130c08" ed="T"/>臣名曰匡上，常忠於上，慈濟國民，前對曰：<lb
+ n="0130c09" ed="T"/>『臣能為之，當須資費。』王曰：『大善。』即開藏付<lb
+ n="0130c10" ed="T"/>之。因輦寶於王宮門，鳴鼓令之：『今天仁之王<lb
+ n="0130c11" ed="T"/>施無蓋慈，欲濟黎民之窮乏，供道士之衣<lb
+ n="0130c12" ed="T"/>食，若有乏者，悉詣宮門。』四國乏者襁負相<lb
+ n="0130c13" ed="T"/>扶，填國塞路，仰天歎曰：『人民窮者，今得活<lb
+ n="0130c14" ed="T"/>哉。』「一歲之後，王有詔曰：『鼓成未乎？』對曰：『已<lb
+ n="0130c15" ed="T"/>成。』王言：『何故不聞其聲？』臣白言：『願明王勞<lb
+ n="0130c16" ed="T"/>屈聖體，出臨國內，聽佛法鼓，聲震十方。』王<lb
+ n="0130c17" ed="T"/>即嚴駕，出行國中。其民比肩，王曰：『民多乎！』<lb
+ n="0130c18" ed="T"/>對曰：『王前勅臣，令作大鼓，使聞百里，欲以<lb
+ n="0130c19" ed="T"/>揚德聲于四遠。臣念枯木死皮，不能揚王之<lb
+ n="0130c20" ed="T"/>德譽，臣所受寶，供沙門梵志之衣食，以濟<lb
+ n="0130c21" ed="T"/>國民之窮乏也。布告之來，四隣歸潤，猶飢<lb
+ n="0130c22" ed="T"/>子之慕慈母。』王問民曰：『爾從來乎？』民稽首曰：<lb
+ n="0130c23" ed="T"/>『百里來者，二百里、萬里外來者。』咸曰：『明王<lb
+ n="0130c24" ed="T"/>大潤四國欣澤，是以去舊土之所生，慕潤<lb
+ n="0130c25" ed="T"/>澤以自濟也。』王曰：『善哉！吾著矣。國之不安，<lb
+ n="0130c26" ed="T"/>猶身有病，吾救之以藥，臣飼之以糜粥。』王<lb
+ n="0130c27" ed="T"/>曰：『黎民所求恣之，無啟聞矣。』「王後壽終，魂<lb
+ n="0130c28" ed="T"/>靈上生天上，作天妙王。天上壽盡，下生世<lb
+ n="0130c29" ed="T"/>間，位為飛行皇帝，安所出入，七寶飛行，導<pb n="0131a" ed="T" id="T15.0596.0131a"/><lb
+ n="0131a01" ed="T"/>從前後。今復上天為天王太子。所以然者，<lb
+ n="0131a02" ed="T"/>自身持戒，覆濟眾生之所致也。奉佛教戒，<lb
+ n="0131a03" ed="T"/>正身心行，無不獲其福者矣。」佛告辟羅：「凡人<lb
+ n="0131a04" ed="T"/>作行，譬若影之隨身，響之應聲，無不報答矣。」<lb
+ n="0131a05" ed="T"/>辟羅歡喜，作禮而去。</ab></div><lb
+ n="0131a06" ed="T"/>
+<ab type="juan" subtype="close">佛說天王太子辟羅經</ab>
+</body></text></TEI>

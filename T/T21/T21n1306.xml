@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">北斗七星護摩祕要儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1306</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0424b04" ed="T"/><lb
+ n="0424b05" ed="T"/><lb
+ n="0424b06" ed="T"/><div type="jing" level="1"><lb
+ n="0424b07" ed="T"/>
+<ab type="juan" subtype="open">北斗七星護摩祕要儀軌</ab><lb
+ n="0424b08" ed="T"/><lb
+ n="0424b09" ed="T"/><byline>大興善寺翻經院灌頂阿闍梨述</byline><lb
+ n="0424b10" ed="T"/><ab type="prose">我今為末世薄福眾生故。說是北極七星供<lb
+ n="0424b11" ed="T"/>養護摩次第儀則。於靜室中作一水壇。或<lb
+ n="0424b12" ed="T"/>方或圓各足一肘。以茅香甘松熏陸龍腦<lb
+ n="0424b13" ed="T"/>白檀五味和合泥塗之。其壇場內安著圓爐。<lb
+ n="0424b14" ed="T"/>飲食果子分別置之。燒食謂飯食果餅<lb
+ n="0424b15" ed="T"/>酥蜜等。但五穀并乳木。隨人命星相撿<lb
+ n="0424b16" ed="T"/>用之。<lb
+ n="0424b17" ed="T"/>先啟詞曰　至心奉啟北極七明娜羅貪<lb
+ n="0424b18" ed="T"/>狼巨門祿存文曲廉貞武曲破軍尊星。為<lb
+ n="0424b19" ed="T"/>陀主某甲。災厄解脫壽命延長得見百秋。<lb
+ n="0424b20" ed="T"/>今作曼荼羅。唯願垂哀降臨此處。納受護<lb
+ n="0424b21" ed="T"/>摩。擁護施主某甲。災難解脫壽命增長所願<lb
+ n="0424b22" ed="T"/>從心。<lb
+ n="0424b23" ed="T"/>次結其印。虛心合掌。以二大指。捻二無名<lb
+ n="0424b24" ed="T"/>指甲。二中指二小指如蓮葉。二頭指小開<lb
+ n="0424b25" ed="T"/>屈來去。<lb
+ n="0424b26" ed="T"/>次誦一字頂輪王真言。并召北斗七星真言。<lb
+ n="0424b27" ed="T"/>頂輪真言曰。<lb
+ n="0424b28" ed="T"/></ab>
+<ab type="dharani">􄖩曩􄗭慕􄙺三􄗥曼􆩖多􄕯那􄗽羅􄕯􄗽那羅􄖵跛􄑼左<lb
+ n="0424b29" ed="T"/><pb n="0424c" id="T21.1306.0424c" ed="T"/><lb
+ n="0424c01" ed="T"/>􄗽囉􈅼吽<lb
+ n="0424c02" ed="T"/><lb
+ n="0424c03" ed="T"/></ab>
+<ab type="prose">召北斗真言曰。<lb
+ n="0424c04" ed="T"/></ab>
+<ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􄕯那􄗽羅􄖩曩􆿏翳􈂯醯􄚪呬􄖵頗<lb
+ n="0424c05" ed="T"/><lb
+ n="0424c06" ed="T"/>􆿇伊􄚨賀􆿇伊􄕯那􆿇伊􄑀迦􆿇伊􄗽囉􆿇伊􄫴謨囉二合<lb
+ n="0424c07" ed="T"/><lb
+ n="0424c08" ed="T"/>􄕗哆􄗽囉􄑤伽􄗽囉􄚲唅􇩉娑嚩􄚩訶<lb
+ n="0424c09" ed="T"/><lb
+ n="0424c10" ed="T"/></ab>
+<ab type="prose">以手取木及穀并酥蜜油等。擲之於爐內<lb
+ n="0424c11" ed="T"/>火燒之。自專視其本命之星。若動搖變色。<lb
+ n="0424c12" ed="T"/>光照通爍光貌黃白者。即應願如來依<lb
+ n="0424c13" ed="T"/>前法七日夜而為之。必應如事不即其星藏<lb
+ n="0424c14" ed="T"/>沒不見謂北斗七星者日月五星之精<pb n="0425a" id="T21.1306.0425a" ed="T"/><lb
+ n="0425a01" ed="T"/>也。曩括七曜照臨八方上曜於天神下直于<lb
+ n="0425a02" ed="T"/>人間。以司善惡而分禍福。群星所朝宗萬靈<lb
+ n="0425a03" ed="T"/>所俯仰。若有人能禮拜供養長壽福貴。不信<lb
+ n="0425a04" ed="T"/>敬者運命不久。是以祿命書云。世有司命神<lb
+ n="0425a05" ed="T"/>每至庚申日。上向天帝陳說眾人之罪惡。<lb
+ n="0425a06" ed="T"/>重罪者則徹算。輕罪者則去紀。算書紀告<lb
+ n="0425a07" ed="T"/>即主命已者。是故如來為末世薄福短命夭<lb
+ n="0425a08" ed="T"/>死眾生故。說是一字頂輪王召北斗七星供<lb
+ n="0425a09" ed="T"/>養護摩之儀則。為供養者。令其屬命星數削<lb
+ n="0425a10" ed="T"/>死籍還付生籍。若諸國王於自宮中作曼茶<lb
+ n="0425a11" ed="T"/>羅。如法護摩禮拜供養。北斗歡喜為擁護故。<lb
+ n="0425a12" ed="T"/>久居勝位恒受安穩。后妃夫人後宮綵女。王<lb
+ n="0425a13" ed="T"/>子群臣三公百官。上下和穆不行非法。人民<lb
+ n="0425a14" ed="T"/>熾盛稼穡豐饒國土安寧。無有災難不現怪<lb
+ n="0425a15" ed="T"/>異。疫病死亡不起。境內怨敵群賊自然退<lb
+ n="0425a16" ed="T"/>散。故以是法甚為祕要。<lb
+ n="0425a17" ed="T"/>
+</ab><ab type="juan" subtype="close">北斗七星祕要儀軌</ab></div>
+</body></text></TEI>

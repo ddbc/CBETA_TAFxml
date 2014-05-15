@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">禪行法想經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T15</biblScope>
+                    <idno type="Taisho">T15n0605</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0181b14" ed="T"/><lb
+ n="0181b15" ed="T"/><lb
+ n="0181b16" ed="T"/><lb
+ n="0181b17" ed="T"/>
+<ab type="juan" subtype="open">禪行法想經</ab><lb
+ n="0181b18" ed="T"/><lb
+ n="0181b19" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
+ n="0181b20" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊於舍衛祇樹給孤獨園。佛<lb
+ n="0181b21" ed="T"/>告：「諸比丘！」比丘受教，從佛而聽。佛言：「諸比丘！<lb
+ n="0181b22" ed="T"/>若以彈指間，思惟死想，念有身皆死，是為精<lb
+ n="0181b23" ed="T"/>進行禪，為如佛教，不是愚癡食國人施也，何<lb
+ n="0181b24" ed="T"/>況多行者！取要言之，若念不淨想、穢食想、一<lb
+ n="0181b25" ed="T"/>切世間無有樂想、無常想、無常為苦想、苦<lb
+ n="0181b26" ed="T"/>為非身想、非身為空想、棄離想、却婬想、滅盡<lb
+ n="0181b27" ed="T"/>想、無我想；身死為蟲食想、血流想、膖脹想、<lb
+ n="0181b28" ed="T"/>青腐想、糜爛腥臭想、髮落肉盡想、一切縛解<lb
+ n="0181b29" ed="T"/>想、骨節分散想、骨變赤白枯黑亦如鳩色想、<pb n="0181c" ed="T" id="T15.0605.0181c"/><lb
+ n="0181c01" ed="T"/>骨糜為灰想、世間無所歸想、世間無牢固想、<lb
+ n="0181c02" ed="T"/>世間為別離想、世間闇冥想、世間難忍想、世<lb
+ n="0181c03" ed="T"/>為費耗不中用想、世為災變可患厭想、一切<lb
+ n="0181c04" ed="T"/>世間歸泥洹想。「諸比丘，若以彈指間念此諸<lb
+ n="0181c05" ed="T"/>想之事，皆為精進行，為奉佛教，不是愚癡食<lb
+ n="0181c06" ed="T"/>人施也，何況能多行！是故可念行法想。」佛說<lb
+ n="0181c07" ed="T"/>是已，皆歡喜受。</ab></div><lb
+ n="0181c08" ed="T"/>
+<ab type="juan" subtype="close">禪行法想經</ab>
+</body></text></TEI>

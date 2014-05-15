@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說耶祇經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0542</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0829a03" ed="T"/><lb
+ n="0829a04" ed="T"/><lb
+ n="0829a05" ed="T"/><lb
+ n="0829a06" ed="T"/>
+<ab type="juan" subtype="open">佛說耶祇經</ab><lb
+ n="0829a07" ed="T"/><lb
+ n="0829a08" ed="T"/><byline>宋居士沮渠京聲譯</byline><lb
+ n="0829a09" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在迦奈國。國中有婆羅門大<lb
+ n="0829a10" ed="T"/>富，姓名耶祇，本事九十六種外道，以求福祐。<lb
+ n="0829a11" ed="T"/>聞人事佛，得富貴長壽安隱，度脫生死受福，<lb
+ n="0829a12" ed="T"/>不入三惡道中，不更勤苦。耶祇自念：「我不<lb
+ n="0829a13" ed="T"/>如捨置外道，當奉事佛。」因詣佛所，以頭面<lb
+ n="0829a14" ed="T"/>著地，為佛作禮，長跪白佛言：「我本愚癡，無<lb
+ n="0829a15" ed="T"/>所識知，竊聞佛道恢弘大慈普濟，佛天上<lb
+ n="0829a16" ed="T"/>天下人中之尊，無不安隱者。我今欲捨置所<lb
+ n="0829a17" ed="T"/>事外道，歸命於佛，願佛哀我，當受教誡。」佛<lb
+ n="0829a18" ed="T"/>言：「若今所言大善，熟自思之而止惡為善<lb
+ n="0829a19" ed="T"/>者，何憂不得安隱？」耶祇白佛言：「今以我所<lb
+ n="0829a20" ed="T"/>事非真故，歸命於佛，當哀愍我曹，去濁穢之<lb
+ n="0829a21" ed="T"/>行，受佛清淨決言，若審爾者大善。」耶祇便<lb
+ n="0829a22" ed="T"/>前受五戒：一、不殺生；二者、不盜；三者、不婬；<lb
+ n="0829a23" ed="T"/>四者、不兩舌惡口妄言綺語；五不、飲酒。三自<lb
+ n="0829a24" ed="T"/>歸已，起繞佛三匝，持齋七日而去。自是之<lb
+ n="0829a25" ed="T"/>後，行到他國，見人殺生射獵，盜人財物，耶<lb
+ n="0829a26" ed="T"/>祇便欲隨之；見好色女人，心意貪之；見人<lb
+ n="0829a27" ed="T"/>是不是，便論道之；見人飲酒醉亂，便欲追<lb
+ n="0829a28" ed="T"/>之，心不安定，更欲悔之，自念：「我不能事是<lb
+ n="0829a29" ed="T"/>佛法，終當還佛五戒。」即詣佛所，叩頭白佛<pb n="0829b" ed="T" id="T14.0542.0829b"/><lb
+ n="0829b01" ed="T"/>言：「我前從佛受五戒，多所禁害，不得從我<lb
+ n="0829b02" ed="T"/>本意，今自思惟欲罷，不能事佛。佛法尊重，<lb
+ n="0829b03" ed="T"/>非我所能奉事，當可得還五戒不？於佛意當<lb
+ n="0829b04" ed="T"/>可爾不？」佛默然不應，言未絕口中，便有自然<lb
+ n="0829b05" ed="T"/>鬼神，持鐵椎，擊耶祇頭破之；復有鬼神，<lb
+ n="0829b06" ed="T"/>解脫其衣；復有鬼神，以鐵鈎就口中，移取<lb
+ n="0829b07" ed="T"/>其舌。有婬女鬼神，以刀深割其陰；有鬼神，<lb
+ n="0829b08" ed="T"/>洋銅沃其口中；前後左右，皆諸鬼神，競來<lb
+ n="0829b09" ed="T"/>分裂其肉。如是耶祇，眼目臭咤，面如土色，<lb
+ n="0829b10" ed="T"/>自然之火燒其身，求生不得，求死不得，鬼<lb
+ n="0829b11" ed="T"/>神持之甚急。佛見之如是，哀愍念之，因問耶<lb
+ n="0829b12" ed="T"/>祇：「汝今者當云何？」耶祇口噤不能復語，但<lb
+ n="0829b13" ed="T"/>舉手自搏，從佛求哀。佛便放威神，鬼神皆<lb
+ n="0829b14" ed="T"/>怖而走。耶祇便得穌息，更起叩頭，前白佛<lb
+ n="0829b15" ed="T"/>言：「我心中有是五賊，牽我入惡罪中，出是<lb
+ n="0829b16" ed="T"/>惡言，今受其罪。自我所為違負佛言，願佛<lb
+ n="0829b17" ed="T"/>哀我。」佛言：「自汝心口所為，當咎阿誰？」耶祇<lb
+ n="0829b18" ed="T"/>白佛言：「從今日以往，當自改更奉持五戒，歲<lb
+ n="0829b19" ed="T"/>三齋、月六齋，燒香燃燈，供事三尊，身口意<lb
+ n="0829b20" ed="T"/>不敢復犯。」佛言：「如是，大善！自若眼目所見，身<lb
+ n="0829b21" ed="T"/>體所更，自作自得，作善得善，心念不善得<lb
+ n="0829b22" ed="T"/>不善。佛者法中之師，教人去惡為善，後長<lb
+ n="0829b23" ed="T"/>得度脫，諸天及人民，愚癡者，皆使智慧，不<lb
+ n="0829b24" ed="T"/>更勤苦。從今已往，改更修善，莫得聽心意<lb
+ n="0829b25" ed="T"/>所為誤人之本。」佛說經已，耶祇心意開解，<lb
+ n="0829b26" ed="T"/>即得須陀洹道，歡喜而去。耶祇歸家，即勅<lb
+ n="0829b27" ed="T"/>舍中，大小皆詣佛所受五戒，歲三齋、月六齋。<lb
+ n="0829b28" ed="T"/>耶祇便捨家，剃頭鬚被袈裟，從佛作沙門，遂<lb
+ n="0829b29" ed="T"/>得阿羅漢道。</ab></div><pb n="0829c" ed="T" id="T14.0542.0829c"/><lb
+ n="0829c01" ed="T"/>
+<ab type="juan" subtype="close">佛說耶祇經</ab>
+</body></text></TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說老母女六英經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0560</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0912b15" ed="T"/><lb
+ n="0912b16" ed="T"/><lb
+ n="0912b17" ed="T"/><lb
+ n="0912b18" ed="T"/>
+<ab type="juan" subtype="open">佛說老母女六英經</ab><lb
+ n="0912b19" ed="T"/><lb
+ n="0912b20" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
+ n="0912b21" ed="T"/><div type="jing" level="1"><ab type="prose">佛為世尊，功德巍巍，愍念眾生，為之傷悲。<lb
+ n="0912b22" ed="T"/>時與弟子、大士相追，止處樂音，廣有所開。有<lb
+ n="0912b23" ed="T"/>一母人，貧老傴僂，長跪問佛：「五陰、六衰會<lb
+ n="0912b24" ed="T"/>合我身，悉為是誰？來何所從？去何所歸？惟<lb
+ n="0912b25" ed="T"/>願世尊為我思惟！」佛言：「善哉！宜識其幾。<lb
+ n="0912b26" ed="T"/>諸法因緣，識之者希。譬如鑽火，兩木相揩。火<lb
+ n="0912b27" ed="T"/>不從鑽，亦不從燧。火出其間，赫赫甚輝，還<lb
+ n="0912b28" ed="T"/>燒其木，木盡消微。亦如搥鼓，其音哀摧。聲<lb
+ n="0912b29" ed="T"/>不從革，亦不從搥。諸法如是，因緣相推。亦<pb n="0912c" ed="T" id="T14.0560.0912c"/><lb
+ n="0912c01" ed="T"/>如天雨，風雲、雷電合會作雨，不獨龍威。諸<lb
+ n="0912c02" ed="T"/>法如是，文亦如是。譬如畫師，調和彩色，因<lb
+ n="0912c03" ed="T"/>素加畫，無形不即，皆須緣合，非獨一力。」母<lb
+ n="0912c04" ed="T"/>人聞經，歡喜傾側，即得法忍，身不疲極。阿<lb
+ n="0912c05" ed="T"/>難啟陳：「此何母人？問佛諸法生死所從，心<lb
+ n="0912c06" ed="T"/>開意解，即得道真？」<lb
+ n="0912c07" ed="T"/>佛語阿難：「聽我所言。前過去佛，名曰拘樓<lb
+ n="0912c08" ed="T"/>秦。爾時此母是我之親。我行學道，戀閉我<lb
+ n="0912c09" ed="T"/>身，憂思不食一日之間。緣此恩愛，五百<lb
+ n="0912c10" ed="T"/>世貧。今我得佛，萬福皆臻，眾生無量，清淨佛<lb
+ n="0912c11" ed="T"/>前。過六十億劫當得作佛，號薩婆，國名多<lb
+ n="0912c12" ed="T"/>華，劫名禮禪。時人衣食如忉利天，各壽一<lb
+ n="0912c13" ed="T"/>劫無有苦勤。」爾時母人、天、龍、夜叉聞佛說法，<lb
+ n="0912c14" ed="T"/>皆大歡喜。八萬七千人皆得正真道意，禮<lb
+ n="0912c15" ed="T"/>佛而去。</ab></div><lb
+ n="0912c16" ed="T"/>
+<ab type="juan" subtype="close">佛說老母女六英經</ab>
+</body></text></TEI>

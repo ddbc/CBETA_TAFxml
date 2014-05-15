@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">讚揚聖德多羅菩薩一百八名經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1106</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0474b18" ed="T"/><lb
+ n="0474b19" ed="T"/><lb
+ n="0474b20" ed="T"/><lb
+ n="0474b21" ed="T"/>
+<ab type="juan" subtype="open">讚揚聖德多羅菩薩一百八名經</ab><lb
+ n="0474b22" ed="T"/><lb
+ n="0474b23" ed="T"/><byline>西天中印度惹爛馱囉國密林寺<lb
+ n="0474b24" ed="T"/>三藏明教大師賜紫沙門臣天息災<lb
+ n="0474b25" ed="T"/>奉　詔譯</byline><lb
+ n="0474b26" ed="T"/><div type="jing" level="1"><ab type="verse">
+一心歸命禮　　適悅最吉祥　　<lb
+ n="0474b27" ed="T"/>補多羅迦山　　其界以種種　　<lb
+ n="0474b28" ed="T"/>珍寶所嚴飾　　種種寶林樹　　<lb
+ n="0474b29" ed="T"/>枝蔓密垂布　　有種種成就　　<pb n="0474c" id="T20.1106.0474c" ed="T"/><lb
+ n="0474c01" ed="T"/>俱蘇摩妙花　　其華光普照　　<lb
+ n="0474c02" ed="T"/>有種種池沼　　泉流種種聲　　<lb
+ n="0474c03" ed="T"/>亦有種種色　　香象及鹿王　　<lb
+ n="0474c04" ed="T"/>蜂王妙歌音　　緊那女美曲　　<lb
+ n="0474c05" ed="T"/>犍闥婆奏樂　　聖天及人民　　<lb
+ n="0474c06" ed="T"/>牟尼離欲眾　　恒集於其中　　<lb
+ n="0474c07" ed="T"/>并餘菩薩眾　　及十地自在　　<lb
+ n="0474c08" ed="T"/>聖多羅菩薩　　與千明妃等　　<lb
+ n="0474c09" ed="T"/>忿怒大明王　　馬首等圍繞　　<lb
+ n="0474c10" ed="T"/>于時聖具德　　觀自在菩薩　　<lb
+ n="0474c11" ed="T"/>為利諸有情　　修大行已具　　<lb
+ n="0474c12" ed="T"/>慈悲喜捨者　　處彼胎藏生　　<lb
+ n="0474c13" ed="T"/>吉祥蓮華座　　安詳而端坐　　<lb
+ n="0474c14" ed="T"/>與人天大眾　　而為說妙法　　<lb
+ n="0474c15" ed="T"/>爾時金剛手　　大力忿怒王　　<lb
+ n="0474c16" ed="T"/>為悲愍他故　　而問觀自在　　<lb
+ n="0474c17" ed="T"/>師子象虎蛇　　水火賊枷鎖　　<lb
+ n="0474c18" ed="T"/>如是等八難　　懈怠劣有情　　<lb
+ n="0474c19" ed="T"/>云何得免離　　長處輪迴海　　<lb
+ n="0474c20" ed="T"/>貪欲瞋癡等　　輪迴縛所纏　　<lb
+ n="0474c21" ed="T"/>若令得解脫　　我說彼能仁　　<lb
+ n="0474c22" ed="T"/>為世所尊重　　彼時觀自在　　<lb
+ n="0474c23" ed="T"/>出美妙言音　　警覺金剛手　　<lb
+ n="0474c24" ed="T"/>祕密主諦聽　　我從無重壽　　<lb
+ n="0474c25" ed="T"/>誓願之所生　　為諸世間母　　<lb
+ n="0474c26" ed="T"/>手執優鉢華　　放光照此界　　<lb
+ n="0474c27" ed="T"/>人間及天上　　驚動是世界　　<lb
+ n="0474c28" ed="T"/>藥叉羅剎等　　告言勿驚怖　　<lb
+ n="0474c29" ed="T"/>我從佛變化　　為護於世間　　<pb n="0475a" id="T20.1106.0475a" ed="T"/><lb
+ n="0475a01" ed="T"/>種種嶮難怖　　刀兵及飢饉　　<lb
+ n="0475a02" ed="T"/>輪迴種種怖　　我救有情故　　<lb
+ n="0475a03" ed="T"/>世稱為哆囉　　說為佛之子　　<lb
+ n="0475a04" ed="T"/>善哉應尊敬　　言已便合掌　　<lb
+ n="0475a05" ed="T"/>即踊空中住　　身光焰熾盛　　<lb
+ n="0475a06" ed="T"/>乃宣此語言　　此一百八名　　<lb
+ n="0475a07" ed="T"/>是先佛所說　　十地自在等　　<lb
+ n="0475a08" ed="T"/>無量諸菩薩　　聞之生歡喜　　<lb
+ n="0475a09" ed="T"/>若有人受持　　諸罪悉消除　　<lb
+ n="0475a10" ed="T"/>福增名稱廣　　資財多吉祥　　<lb
+ n="0475a11" ed="T"/>諸病皆殄散　　安祥住福田　　<lb
+ n="0475a12" ed="T"/>長壽乃安樂　　興慈度有情　　<lb
+ n="0475a13" ed="T"/>彼名大牟尼　　具德如是說　　<lb
+ n="0475a14" ed="T"/>觀自在微笑　　乃觀於十方　　<lb
+ n="0475a15" ed="T"/>變化運慈心　　即申其右手　　<lb
+ n="0475a16" ed="T"/>福相莊嚴臂　　告彼大智言　　<lb
+ n="0475a17" ed="T"/>善哉金剛手　　今聽大福德　　<lb
+ n="0475a18" ed="T"/>是妙寂靜名　　正直為人說　　<lb
+ n="0475a19" ed="T"/>若聞得安樂　　豐財兼自在　　<lb
+ n="0475a20" ed="T"/>諸病得解脫　　具足諸功德　　<lb
+ n="0475a21" ed="T"/>息除於中夭　　後終生極樂　　<lb
+ n="0475a22" ed="T"/>諸天等當知　　諦聽我今說　　<lb
+ n="0475a23" ed="T"/>汝等深隨喜　　一百八名曰　　
+</ab><lb
+ n="0475a24" ed="T"/><ab type="dharani">唵室哩迦理也抳麼賀帝惹<lb
+ n="0475a25" ed="T"/>路迦馱怛哩摩賀野<lb
+ n="0475a26" ed="T"/>捨薩囉娑嚩底尾娑洛乞<lb
+ n="0475a27" ed="T"/>史鉢囉枳穰室哩沒地嚩<lb
+ n="0475a28" ed="T"/>哩達寧地哩底那補<pb n="0475b" id="T20.1106.0475b" ed="T"/><lb
+ n="0475b01" ed="T"/>瑟致那娑嚩賀唵迦囉迦麼嚕弭抳薩嚩<lb
+ n="0475b03" ed="T"/>薩怛嚩呬姤儞喻訖哆僧<lb
+ n="0475b04" ed="T"/>㜸囉謨多囉抳惹野鉢<lb
+ n="0475b05" ed="T"/>囉枳穰播囉蜜哆禰尾曳<lb
+ n="0475b06" ed="T"/>阿哩野哆囉麼努囉麼<lb
+ n="0475b07" ed="T"/>嫰努鼻商企儞布囉拏尾<lb
+ n="0475b08" ed="T"/>儞也囉倪以跛哩琰嚩那<lb
+ n="0475b09" ed="T"/>贊捺囉曩曩麼賀矯哩<lb
+ n="0475b10" ed="T"/>阿爾哆比哆嚩薩娑麼賀麼<lb
+ n="0475b11" ed="T"/>野麼賀濕吠哆麼賀末攞<lb
+ n="0475b12" ed="T"/>跛囉訖囉麼麼賀嚕捺囉麼賀贊拏訥瑟吒薩怛嚩儞<lb
+ n="0475b14" ed="T"/>素那儞鉢囉散哆散哆<lb
+ n="0475b15" ed="T"/>嚕播左尾惹野入嚩攞曩鉢<lb
+ n="0475b16" ed="T"/>囉婆尾儞喻囉麼理特<lb
+ n="0475b17" ed="T"/>嚩𠰒商企伽匿藝作訖<lb
+ n="0475b18" ed="T"/>哩達弩囉達囉染婆儞薩<lb
+ n="0475b19" ed="T"/>檐婆儞迦理迦攞囉怛<lb
+ n="0475b20" ed="T"/>哩儞捨拶哩囉乞灑枲<lb
+ n="0475b21" ed="T"/>謨賀儞散底建哆哩<lb
+ n="0475b22" ed="T"/>捺囉尾膩戍婆沒囉憾麼<lb
+ n="0475b23" ed="T"/>抳吠那麼哆左噳呬攞噳<lb
+ n="0475b24" ed="T"/>賀嚩悉儞蟒㜸理也商迦哩<lb
+ n="0475b25" ed="T"/>燥弭也惹哆吠那麼<lb
+ n="0475b26" ed="T"/>努惹嚩迦播理儞麼賀<pb n="0475c" id="T20.1106.0475c" ed="T"/><lb
+ n="0475c01" ed="T"/>禰尾散地野薩怛野跛囉<lb
+ n="0475c02" ed="T"/>𠰒哆娑囉他嚩賀訖哩播尾瑟吒曩瑟吒麼囉誐<lb
+ n="0475c04" ed="T"/>鉢囉那哩捨儞嚩囉那捨薩<lb
+ n="0475c05" ed="T"/>儞捨悉怛哩悉怛哩嚕<lb
+ n="0475c06" ed="T"/>播蜜哩哆尾訖囉麼奢嚩哩<lb
+ n="0475c07" ed="T"/>喻藝儞悉馱贊拏理<lb
+ n="0475c08" ed="T"/>阿弭哆度嚕嚩歎抳也奔<lb
+ n="0475c09" ed="T"/>抳也麼賀婆誐素婆誐<lb
+ n="0475c10" ed="T"/>畢哩野捺哩捨曩訖哩怛<lb
+ n="0475c11" ed="T"/>哆怛囉薩儞擗麼塢㜸囉<lb
+ n="0475c12" ed="T"/>塢㜸囉麼賀哆播惹誐禰迦<lb
+ n="0475c13" ed="T"/>呬姤禰喻訖哆薩囉抳也<lb
+ n="0475c14" ed="T"/>婆訖底嚩怛娑攞嚩藝濕嚩哩失嚩素乞瑟麼儞<lb
+ n="0475c16" ed="T"/>底也薩嚩怛囉惹努惹薩嚩囉他娑達寧跋捺囉噳<lb
+ n="0475c18" ed="T"/>悉怛哩馱怛哩達難那娜阿婆野矯哆弭奔抳也室哩𤚥路計濕嚩囉麼<lb
+ n="0475c21" ed="T"/>祖底<lb
+ n="0475c22" ed="T"/></ab>
+<ab type="verse">
+以說此百八　　寂靜祕密名　　<lb
+ n="0475c23" ed="T"/>能利諸有情　　希有祕福田　　<lb
+ n="0475c24" ed="T"/>天上及人間　　亦甚難逢遇　　<lb
+ n="0475c25" ed="T"/>令一切有情　　瞻視得安樂　　<lb
+ n="0475c26" ed="T"/>智者應一心　　澡浴淨其身　　<pb n="0476a" id="T20.1106.0476a" ed="T"/><lb
+ n="0476a01" ed="T"/>三時專念誦　　時彼人不久　　<lb
+ n="0476a02" ed="T"/>得王所愛敬　　離苦得安樂　　<lb
+ n="0476a03" ed="T"/>貧者獲財寶　　愚得大智慧　　<lb
+ n="0476a04" ed="T"/>聰睿不復疑　　枷鎖得解脫　　<lb
+ n="0476a05" ed="T"/>不勝還得勝　　冤返為善友　　<lb
+ n="0476a06" ed="T"/>鋒牙及利角　　鬪諍并嶮難　　<lb
+ n="0476a07" ed="T"/>種種怖畏等　　憶念此名者　　<lb
+ n="0476a08" ed="T"/>能救是諸怖　　止息中天命　　<lb
+ n="0476a09" ed="T"/>名稱得廣布　　恒生善貴族　　<lb
+ n="0476a10" ed="T"/>彼惟獨一身　　或因行坐臥　　<lb
+ n="0476a11" ed="T"/>當獲人稱譽　　壽命得時長　　<lb
+ n="0476a12" ed="T"/>人間受快樂　　天龍及藥叉　　<lb
+ n="0476a13" ed="T"/>羅剎犍闥嚩　　臭神食穢神　　<lb
+ n="0476a14" ed="T"/>惡心摩怛嚕　　女魅拏明努　　<lb
+ n="0476a15" ed="T"/>塢娑怛羅等　　癲癎及膊行　　<lb
+ n="0476a16" ed="T"/>吠怛拏大鬼　　拏枳儞等神　　<lb
+ n="0476a17" ed="T"/>及餘惡心者　　不敢越其影　　<lb
+ n="0476a18" ed="T"/>何況鬪戰處　　暴惡之有情　　<lb
+ n="0476a19" ed="T"/>禁呪及幻術　　悉不能侵害　　<lb
+ n="0476a20" ed="T"/>自在有威德　　子孫及財產　　<lb
+ n="0476a21" ed="T"/>增長無有量　　獲宿命智通　　<lb
+ n="0476a22" ed="T"/>上族見皆喜　　無礙大辯才　　<lb
+ n="0476a23" ed="T"/>了達諸論義　　得遇善知識　　<lb
+ n="0476a24" ed="T"/>莊嚴菩提心　　於生生世世　　<lb
+ n="0476a25" ed="T"/>恒親近諸佛　　
+</ab><lb
+ n="0476a26" ed="T"/>
+<ab type="juan" subtype="close">讚揚聖德多羅菩薩一百八名經</ab></div>
+</body></text></TEI>

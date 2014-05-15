@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">能斷金剛般若波羅蜜多經論頌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T25</biblScope>
+                    <idno type="Taisho">T25n1514</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0885a" id="T25.1514.0885a" ed="T"/><lb
+ n="0885a01" ed="T"/><lb
+ n="0885a02" ed="T"/><lb
+ n="0885a03" ed="T"/>
+<ab type="juan" subtype="open">能斷金剛般若波羅蜜多經論頌<lb
+ n="0885a04" ed="T"/>一卷</ab><lb
+ n="0885a05" ed="T"/><lb
+ n="0885a06" ed="T"/><byline>無著菩薩造</byline><lb
+ n="0885a07" ed="T"/><byline>唐三藏法師義淨奉　制譯</byline><lb
+ n="0885a08" ed="T"/><div type="jing" level="1"><ab type="verse">
+勝利益應知　　於身并屬者　　<lb
+ n="0885a09" ed="T"/>得未得不退　　謂最勝付囑　　<lb
+ n="0885a10" ed="T"/>於心廣最勝　　至極無顛倒　　<lb
+ n="0885a11" ed="T"/>利益意樂處　　此乘功德滿　　<lb
+ n="0885a12" ed="T"/>六度皆名施　　由財無畏法　　<lb
+ n="0885a13" ed="T"/>此中一二三　　名修行不住　　<lb
+ n="0885a14" ed="T"/>為自身報恩　　果報皆不著　　<lb
+ n="0885a15" ed="T"/>為離於不起　　及離為餘行　　<lb
+ n="0885a16" ed="T"/>攝伏在三輪　　於相心除遣　　<lb
+ n="0885a17" ed="T"/>後後諸疑惑　　隨生皆悉除　　<lb
+ n="0885a18" ed="T"/>若將為集造　　妙相非勝相　　<lb
+ n="0885a19" ed="T"/>三相遷異故　　無此謂如來　　<lb
+ n="0885a20" ed="T"/>因與果甚深　　於彼惡時說　　<lb
+ n="0885a21" ed="T"/>此非無利益　　由三菩薩殊　　<lb
+ n="0885a22" ed="T"/>由於先佛所　　奉持於戒學　　<lb
+ n="0885a23" ed="T"/>并植善根故　　名具戒具德　　<lb
+ n="0885a24" ed="T"/>能斷於我想　　及以法想故　　<lb
+ n="0885a25" ed="T"/>此名為具慧　　二四殊成八　　<lb
+ n="0885a26" ed="T"/>別體相續起　　至壽盡而住　　<lb
+ n="0885a27" ed="T"/>更求於餘趣　　我想有四種　　<lb
+ n="0885a28" ed="T"/>皆無故非有　　有故不可說　　<lb
+ n="0885a29" ed="T"/>是言說因故　　法想有四種　　<pb n="0885b" id="T25.1514.0885b" ed="T"/><lb
+ n="0885b01" ed="T"/>由彼信解力　　信故生實想　　<lb
+ n="0885b02" ed="T"/>不如言取故　　取為正說故　　<lb
+ n="0885b03" ed="T"/>佛了果非比　　由願智故知　　<lb
+ n="0885b04" ed="T"/>為求利敬者　　遮其自說故　　<lb
+ n="0885b05" ed="T"/>證不住於法　　為是隨順故　　<lb
+ n="0885b06" ed="T"/>猶如捨其筏　　是密意應知　　<lb
+ n="0885b07" ed="T"/>化體非真佛　　亦非說法者　　<lb
+ n="0885b08" ed="T"/>說法非二取　　所說離言詮　　<lb
+ n="0885b09" ed="T"/>自受為他說　　非無益集福　　<lb
+ n="0885b10" ed="T"/>福不持菩提　　彼二能持故　　<lb
+ n="0885b11" ed="T"/>得自性因故　　此餘者是生　　<lb
+ n="0885b12" ed="T"/>唯是佛法故　　能成最勝福　　<lb
+ n="0885b13" ed="T"/>不取自果故　　非可取可說　　<lb
+ n="0885b14" ed="T"/>解脫二障故　　說妙生無諍　　<lb
+ n="0885b15" ed="T"/>在然燈佛所　　言不取證法　　<lb
+ n="0885b16" ed="T"/>由斯證法成　　非所取所說　　<lb
+ n="0885b17" ed="T"/>智流唯識性　　國土非所執　　<lb
+ n="0885b18" ed="T"/>無形故勝故　　非嚴許嚴性　　<lb
+ n="0885b19" ed="T"/>譬如妙高山　　於受用無取　　<lb
+ n="0885b20" ed="T"/>非有漏性故　　亦非是因造　　<lb
+ n="0885b21" ed="T"/>為顯多差別　　及以成殊勝　　<lb
+ n="0885b22" ed="T"/>前後福不同　　更陳其喻說　　<lb
+ n="0885b23" ed="T"/>兩成尊重故　　由等流殊勝　　<lb
+ n="0885b24" ed="T"/>煩惱因性故　　由劣亦勝故　　<lb
+ n="0885b25" ed="T"/>彼果勝苦故　　難逢勝事故　　<lb
+ n="0885b26" ed="T"/>境岸非知故　　於餘不共故　　<lb
+ n="0885b27" ed="T"/>是甚深性故　　勝餘略詮故　　<lb
+ n="0885b28" ed="T"/>冑族高勝故　　望福福殊勝　　<lb
+ n="0885b29" ed="T"/>彼行堪忍時　　雖苦行善故　　<pb n="0885c" id="T25.1514.0885c" ed="T"/><lb
+ n="0885c01" ed="T"/>彼德難量故　　由斯名勝事　　<lb
+ n="0885c02" ed="T"/>由無恚怒情　　不名為苦性　　<lb
+ n="0885c03" ed="T"/>有安樂大悲　　行時非苦果　　<lb
+ n="0885c04" ed="T"/>生心因不捨　　是故應堅求　　<lb
+ n="0885c05" ed="T"/>謂是得忍邊　　及此心方便　　<lb
+ n="0885c06" ed="T"/>應知正行者　　是利生因故　　<lb
+ n="0885c07" ed="T"/>於有情事相　　應知遍除遣　　<lb
+ n="0885c08" ed="T"/>彼事謂名聚　　最勝除其想　　<lb
+ n="0885c09" ed="T"/>諸世尊無比　　由真見相應　　<lb
+ n="0885c10" ed="T"/>果不住因位　　是得彼果因　　<lb
+ n="0885c11" ed="T"/>世尊實語故　　應知有四種　　<lb
+ n="0885c12" ed="T"/>立要說下乘　　及說大乘義　　<lb
+ n="0885c13" ed="T"/>由諸授記事　　皆無有差別　　<lb
+ n="0885c14" ed="T"/>不得彼順故　　是非實非妄　　<lb
+ n="0885c15" ed="T"/>如言而執者　　對彼故宣說　　<lb
+ n="0885c16" ed="T"/>常時諸處有　　於真性不獲　　<lb
+ n="0885c17" ed="T"/>由無知有住　　智無住得真　　<lb
+ n="0885c18" ed="T"/>無智猶如闇　　當閑智若明　　<lb
+ n="0885c19" ed="T"/>能對及所治　　得失現前故　　<lb
+ n="0885c20" ed="T"/>由如是正行　　獲如是福量　　<lb
+ n="0885c21" ed="T"/>於法正行者　　業用今當說　　<lb
+ n="0885c22" ed="T"/>於人有三種　　受持聞廣說　　<lb
+ n="0885c23" ed="T"/>義得由從他　　及已聞思故　　<lb
+ n="0885c24" ed="T"/>此謂熟內已　　餘成他有情　　<lb
+ n="0885c25" ed="T"/>由事時大性　　望福福殊勝　　<lb
+ n="0885c26" ed="T"/>非境性獨性　　能依是大人　　<lb
+ n="0885c27" ed="T"/>及難可得聞　　無上因增長　　<lb
+ n="0885c28" ed="T"/>若但持正法　　所依處成器　　<lb
+ n="0885c29" ed="T"/>蠲除諸業障　　速獲智通性　　<pb n="0886a" id="T25.1514.0886a" ed="T"/><lb
+ n="0886a01" ed="T"/>世妙事圓滿　　異熟極尊貴　　<lb
+ n="0886a02" ed="T"/>於此法修行　　應知獲斯業　　<lb
+ n="0886a03" ed="T"/>由自身行時　　將已為菩薩　　<lb
+ n="0886a04" ed="T"/>說名為心障　　違於無住心　　<lb
+ n="0886a05" ed="T"/>授後時記故　　然燈行非勝　　<lb
+ n="0886a06" ed="T"/>菩薩彼行同　　非實由因造　　<lb
+ n="0886a07" ed="T"/>無彼相為相　　故顯非是妄　　<lb
+ n="0886a08" ed="T"/>由法是佛法　　皆非有為相　　<lb
+ n="0886a09" ed="T"/>謂以法身佛　　應知喻丈夫　　<lb
+ n="0886a10" ed="T"/>無障圓具身　　是遍滿性故　　<lb
+ n="0886a11" ed="T"/>及德體大故　　亦名為大身　　<lb
+ n="0886a12" ed="T"/>非有身是有　　說彼作非身　　<lb
+ n="0886a13" ed="T"/>不了於法界　　作度有情心　　<lb
+ n="0886a14" ed="T"/>及清淨土田　　此名為誑妄　　<lb
+ n="0886a15" ed="T"/>於菩薩眾生　　諸法無自性　　<lb
+ n="0886a16" ed="T"/>若解雖非聖　　名聖慧應知　　<lb
+ n="0886a17" ed="T"/>雖不見諸法　　此非無有眼　　<lb
+ n="0886a18" ed="T"/>佛能具五種　　由境虛妄故　　<lb
+ n="0886a19" ed="T"/>種種心流轉　　離於念處故　　<lb
+ n="0886a20" ed="T"/>彼無持常轉　　故說為虛妄　　<lb
+ n="0886a21" ed="T"/>應知是智持　　福乃非虛妄　　<lb
+ n="0886a22" ed="T"/>顯此福因故　　重陳共喻言　　<lb
+ n="0886a23" ed="T"/>謂於真法身　　無隨好圓滿　　<lb
+ n="0886a24" ed="T"/>亦非是具相　　非身性應知　　<lb
+ n="0886a25" ed="T"/>於法身無別　　非如來無二　　<lb
+ n="0886a26" ed="T"/>重言其具相　　由二體皆無　　<lb
+ n="0886a27" ed="T"/>如佛說亦無　　說二是所執　　<lb
+ n="0886a28" ed="T"/>由不離法界　　說亦無自性　　<lb
+ n="0886a29" ed="T"/>能說所說雖甚深　　然亦非無敬信者　　<pb n="0886b" id="T25.1514.0886b" ed="T"/><lb
+ n="0886b01" ed="T"/>由非眾生非非生　　非聖聖性相應故　　<lb
+ n="0886b02" ed="T"/>少法無有故　　無上覺應知　　<lb
+ n="0886b03" ed="T"/>由法界不增　　清淨平等性　　<lb
+ n="0886b04" ed="T"/>及方便無上　　由漏性非法　　<lb
+ n="0886b05" ed="T"/>是故非善法　　由此名為善　　<lb
+ n="0886b06" ed="T"/>說法雖無記　　非不得應知　　<lb
+ n="0886b07" ed="T"/>由斯一法寶　　勝彼寶無量　　<lb
+ n="0886b08" ed="T"/>於諸算勢類　　因亦有差殊　　<lb
+ n="0886b09" ed="T"/>尋思於世間　　喻所不能及　　<lb
+ n="0886b10" ed="T"/>法界平等故　　佛不度眾生　　<lb
+ n="0886b11" ed="T"/>於諸名共聚　　不在法界外　　<lb
+ n="0886b12" ed="T"/>若起於法執　　與我執過同　　<lb
+ n="0886b13" ed="T"/>定執脫有情　　是無執妄執　　<lb
+ n="0886b14" ed="T"/>不應以色體　　唯如來法身　　<lb
+ n="0886b15" ed="T"/>勿彼轉輪王　　與如來齊等　　<lb
+ n="0886b16" ed="T"/>即具相果報　　圓滿福不許　　<lb
+ n="0886b17" ed="T"/>能招於法身　　由方便異性　　<lb
+ n="0886b18" ed="T"/>唯見色聞聲　　是人不知佛　　<lb
+ n="0886b19" ed="T"/>此真如法身　　非是識境界　　<lb
+ n="0886b20" ed="T"/>其福不失亡　　果報不斷絕　　<lb
+ n="0886b21" ed="T"/>得忍亦不斷　　以獲無垢故　　<lb
+ n="0886b22" ed="T"/>更論於福因　　為此陳其喻　　<lb
+ n="0886b23" ed="T"/>彼福無報故　　正取非越取　　<lb
+ n="0886b24" ed="T"/>彼福招化果　　作利有情事　　<lb
+ n="0886b25" ed="T"/>彼事由任運　　成佛現諸方　　<lb
+ n="0886b26" ed="T"/>去來等是化　　正覺常不動　　<lb
+ n="0886b27" ed="T"/>彼於法界處　　非一異應知　　<lb
+ n="0886b28" ed="T"/>微塵將作墨　　喻顯於法界　　<lb
+ n="0886b29" ed="T"/>此論造墨事　　為彰煩惱盡　　<pb n="0886c" id="T25.1514.0886c" ed="T"/><lb
+ n="0886c01" ed="T"/>非聚非集性　　顯是非一性　　<lb
+ n="0886c02" ed="T"/>於彼總集性　　明其非異性　　<lb
+ n="0886c03" ed="T"/>不了但俗言　　諸凡愚妄執　　<lb
+ n="0886c04" ed="T"/>斷我法二種　　非證覺無故　　<lb
+ n="0886c05" ed="T"/>是故見無見　　無境虛妄執　　<lb
+ n="0886c06" ed="T"/>由此是細障　　如是知故斷　　<lb
+ n="0886c07" ed="T"/>由得二種智　　及定彼方除　　<lb
+ n="0886c08" ed="T"/>陳福明化身　　非無無盡福　　<lb
+ n="0886c09" ed="T"/>諸佛說法時　　不言身是化　　<lb
+ n="0886c10" ed="T"/>由不自言故　　是其真實說　　<lb
+ n="0886c11" ed="T"/>如來涅槃證　　非造亦不殊　　<lb
+ n="0886c12" ed="T"/>此集造有九　　以正智觀故　　<lb
+ n="0886c13" ed="T"/>見相及與識　　居處身受用　　<lb
+ n="0886c14" ed="T"/>過去并現存　　未至詳觀察　　<lb
+ n="0886c15" ed="T"/>由觀察相故　　受用及遷流　　<lb
+ n="0886c16" ed="T"/>於有為事中　　獲無垢自在　　
+</ab></div><lb
+ n="0886c17" ed="T"/>
+<ab type="juan" subtype="close">能斷金剛般若波羅蜜多經論頌</ab>
+</body></text></TEI>

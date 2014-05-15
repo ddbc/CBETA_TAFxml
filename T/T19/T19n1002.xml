@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">不空羂索毘盧遮那佛大灌頂光真言</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n1002</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0606b" id="T19.1002.0606b" ed="T"/><lb
+ n="0606b01" ed="T"/><lb
+ n="0606b02" ed="T"/><div type="jing" level="1"><lb
+ n="0606b03" ed="T"/>
+<ab type="juan" subtype="open">不空羂索毘盧遮那佛大灌頂光<lb
+ n="0606b04" ed="T"/>真言一卷</ab><lb
+ n="0606b05" ed="T"/><ab type="prose">　　　<lb
+ n="0606b06" ed="T"/><lb
+ n="0606b07" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
+ n="0606b08" ed="T"/>肅國公食邑三千戶賜紫贈司<lb
+ n="0606b09" ed="T"/>空諡大鑒正號大廣智大興善<lb
+ n="0606b10" ed="T"/>寺三藏沙門不空奉　詔譯</byline><lb
+ n="0606b11" ed="T"/></ab>
+<ab type="dharani">􈁴唵􆿅阿􄗭謨􄑤伽􄙝尾􄙆嚧􄑼左􄖩曩􄗥摩􄚩賀􄫄母捺<lb
+ n="0606b12" ed="T"/><lb
+ n="0606b13" ed="T"/>囉二合􄗥麼􄕍抳􄖵鉢􈉃納麼二合􈁊入嚩二合􄙊攞<lb
+ n="0606b14" ed="T"/><lb
+ n="0606b15" ed="T"/>􄪼鉢囉二合􄙖韈􅛈哆􄗱野􈅼吽<lb
+ n="0606b16" ed="T"/><lb
+ n="0606b17" ed="T"/></ab>
+<ab type="prose">毘盧遮那如來。為授母陀羅尼印三昧耶神<lb
+ n="0606b18" ed="T"/>通法品。而最為第一。若有過去一切十惡五<lb
+ n="0606b19" ed="T"/>逆四重諸罪。燼然除滅。若有眾生。隨處得<lb
+ n="0606b20" ed="T"/>聞此大灌頂光真言。二三七遍經耳根者。<lb
+ n="0606b21" ed="T"/>即得除滅一切罪障。若諸眾生具造十惡五<lb
+ n="0606b22" ed="T"/>逆四重諸罪。猶如微塵滿斯世界。身壞命終<lb
+ n="0606b23" ed="T"/>墮諸惡道。以是真言加持土沙一百八遍。尸<lb
+ n="0606b24" ed="T"/>陀林中散亡者尸骸上。或散墓上。遇皆散<lb
+ n="0606b25" ed="T"/>之。彼所亡者。若地獄中若餓鬼中。若修羅中<lb
+ n="0606b26" ed="T"/>若傍生中。以一切不空如來不空毘盧遮那<lb
+ n="0606b27" ed="T"/>如來真實本願大灌頂光真言神通威力加<lb
+ n="0606b28" ed="T"/>持沙土之力。應時即得光明及身除諸罪<lb
+ n="0606b29" ed="T"/>報捨所苦身。往於西方極樂國土。蓮華化生<pb n="0606c" id="T19.1002.0606c" ed="T"/><lb
+ n="0606c01" ed="T"/>乃至菩提更不墮落。復有眾生連年累月。痿<lb
+ n="0606c02" ed="T"/>黃疾惱苦楚萬端。是病人者先世業報。以是<lb
+ n="0606c03" ed="T"/>真言於病者前。一二三日每日高聲誦此真<lb
+ n="0606c04" ed="T"/>言一千八十遍。則得除滅宿業病障。若為鬼<lb
+ n="0606c05" ed="T"/>嬈魂識悶亂失音不語。持真言者加持手一<lb
+ n="0606c06" ed="T"/>百八遍。摩捫頭面。以手按於心上額上。加持<lb
+ n="0606c07" ed="T"/>一千八十遍。則得除差。摩訶迦羅神作病惱<lb
+ n="0606c08" ed="T"/>者。亦能治遣。若諸鬼神魍魎之病。加持五色<lb
+ n="0606c09" ed="T"/>線索。一百八結。繫其病者腰臂項上。則便<lb
+ n="0606c10" ed="T"/>除差。若諸瘧病。加持白線索一百八結。繫頭<lb
+ n="0606c11" ed="T"/>項上。及加持衣著。即令除差。若加持石菖<lb
+ n="0606c12" ed="T"/>蒲一千八十遍。含之與他相對談論。則勝他<lb
+ n="0606c13" ed="T"/>伏。若以胡椒多誐囉香。青木香小柏檀黃。<lb
+ n="0606c14" ed="T"/>囉娑惹娜等數末。治水丸如棗。加持<lb
+ n="0606c15" ed="T"/>十萬遍。便當陰乾。若患一切鬼神病種種瘧<lb
+ n="0606c16" ed="T"/>病。或毒藥中或失音者。當以藥和水研之。<lb
+ n="0606c17" ed="T"/>加持一百八遍。數點兩眼額上心上。當怒加<lb
+ n="0606c18" ed="T"/>持。則便除差。作病鬼神若不放捨。即當頭<lb
+ n="0606c19" ed="T"/>破如阿梨樹枝。若諸毒蟲蛇蝎螫者。以藥塗<lb
+ n="0606c20" ed="T"/>眼即便除差。<lb
+ n="0606c21" ed="T"/>又法以新米𡅄羅。澡浴清淨著淨衣服已。以<lb
+ n="0606c22" ed="T"/>藥和水研。加持一百八遍點米𡅄羅眼中。奮<lb
+ n="0606c23" ed="T"/>怒加持一千八十遍。則便起坐所問皆答。<pb n="0607a" id="T19.1002.0607a" ed="T"/><lb
+ n="0607a01" ed="T"/>欲放者。加持白芥子水二十一遍。散米𡅄羅<lb
+ n="0607a02" ed="T"/>上。即便如舊。若為貴人相請喚者。以藥點眼<lb
+ n="0607a03" ed="T"/>當往見之。則相賓敬。<lb
+ n="0607a04" ed="T"/>
+</ab><ab type="juan" subtype="close">不空羂索毘盧遮那佛大灌頂光真言一卷</ab></div>
+</body></text></TEI>

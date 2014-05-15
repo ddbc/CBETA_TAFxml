@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說摩利支天經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1255b</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0260b" id="T21.1255b.0260b" ed="T"/><lb
+ n="0260b01" ed="T"/><lb
+ n="0260b02" ed="T"/>
+<ab type="juan" subtype="open">佛說摩利支天經</ab><lb
+ n="0260b03" ed="T"/><lb
+ n="0260b04" ed="T"/><byline>唐三藏沙門大廣智<lb
+ n="0260b05" ed="T"/>不空奉　詔譯</byline><lb
+ n="0260b06" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時薄伽梵。在室羅筏城逝多<lb
+ n="0260b07" ed="T"/>林給孤獨園。爾時世尊告諸苾芻有天女<lb
+ n="0260b08" ed="T"/>名摩利支。有大神通自在之力。常行日月<lb
+ n="0260b09" ed="T"/>天前。日天月天不能見彼。彼能見日。無<lb
+ n="0260b10" ed="T"/>人能見無人能知。無人能捉無人能縛。無<lb
+ n="0260b11" ed="T"/>人能害無人能欺誑。無人能債其財物。無<lb
+ n="0260b12" ed="T"/>人能責罰。不為怨家能得其便。佛告諸苾<lb
+ n="0260b13" ed="T"/>芻。若有知彼摩利支天名常憶念者。彼人<lb
+ n="0260b14" ed="T"/>亦不可見亦不可知。亦不可捉亦不可縛。<lb
+ n="0260b15" ed="T"/>亦不可害亦不可欺誑。亦不為人債其財<lb
+ n="0260b16" ed="T"/>物。亦不為人之所責罰。亦不為怨家能得<lb
+ n="0260b17" ed="T"/>其便。若有善男子善女人。知彼摩利支天<lb
+ n="0260b18" ed="T"/>名求加護者。應作是言。我知摩利支天<lb
+ n="0260b19" ed="T"/>母有大神力。我今歸命願護我身。無人能<lb
+ n="0260b20" ed="T"/>見我。無人能知我。無人能捉我。無人能縛<lb
+ n="0260b21" ed="T"/>我。無人能害我。無人能欺誑我。無人能債<lb
+ n="0260b22" ed="T"/>我財物。無人能責罰我。亦不為怨家能得<lb
+ n="0260b23" ed="T"/>其便。爾時世尊說陀羅尼曰。<lb
+ n="0260b24" ed="T"/></ab>
+<ab type="dharani">曩謨囉怛曩怛囉夜野怛儞也<lb
+ n="0260b25" ed="T"/>他遏迦麼枲沫迦麼枲<lb
+ n="0260b26" ed="T"/>阿度麼枲紫鉢囉麼枲摩<lb
+ n="0260b27" ed="T"/>訶紫鉢囉麼枲頞怛馱曩麼枲麼哩紫野麼枲曩謨娑覩帝囉<lb
+ n="0260b29" ed="T"/>乞灑囉乞灑𤚥薩嚩薩怛嚩<pb n="0260c" id="T21.1255b.0260c" ed="T"/><lb
+ n="0260c01" ed="T"/>難左薩嚩怛囉薩嚩婆<lb
+ n="0260c02" ed="T"/>喻鉢捺囉吠毘藥娑嚩賀<lb
+ n="0260c04" ed="T"/></ab>
+<ab type="prose">心真言曰。<lb
+ n="0260c05" ed="T"/></ab>
+<ab type="dharani">娜莫三滿多沒馱南唵摩哩<lb
+ n="0260c06" ed="T"/>唧娑嚩賀<lb
+ n="0260c07" ed="T"/></ab>
+<ab type="prose">爾時世尊說此陀羅尼已。告諸苾芻。若有<lb
+ n="0260c08" ed="T"/>受持此經法者。應作是願。王難中護我賊<lb
+ n="0260c09" ed="T"/>難中護我。行路難中護我於失道曠野中<lb
+ n="0260c10" ed="T"/>護我。水火難中護我刀兵軍陣難中護我。<lb
+ n="0260c11" ed="T"/>鬼神難中護我毒藥難中護我。惡獸難中<lb
+ n="0260c12" ed="T"/>護我毒蟲難中護我。一切怨家惡人難中<lb
+ n="0260c13" ed="T"/>護我。佛實語護我法實語護我僧實語護<lb
+ n="0260c14" ed="T"/>我。天實語護我仙人實語護我。一切處一<lb
+ n="0260c15" ed="T"/>切時。願常護我弟子莎嚩賀。<lb
+ n="0260c16" ed="T"/>佛告諸苾芻若善男子善女人苾芻苾芻<lb
+ n="0260c17" ed="T"/>尼。鄔波索迦鄔波斯迦。國王大臣一切人<lb
+ n="0260c18" ed="T"/>等有諸難時。但當至心誦此摩利支陀羅<lb
+ n="0260c19" ed="T"/>尼。不待加功隨誦隨成。遠離諸難除不至<lb
+ n="0260c20" ed="T"/>心。持誦之時并結本印。以香塗手先結三<lb
+ n="0260c21" ed="T"/>部心印。二手內相叉為拳並竪二大拇指。<lb
+ n="0260c22" ed="T"/>是一切如來心印真言曰。<lb
+ n="0260c23" ed="T"/></ab>
+<ab type="dharani">唵爾曩爾迦<lb
+ n="0260c24" ed="T"/></ab>
+<ab type="prose">次結蓮部心印。即前印以左大拇指屈入<lb
+ n="0260c25" ed="T"/>掌。直竪右大拇指真言曰。<lb
+ n="0260c26" ed="T"/></ab>
+<ab type="dharani">唵阿嚕力迦<lb
+ n="0260c27" ed="T"/></ab>
+<ab type="prose">次結金剛部心印。即前印以右大拇指屈<lb
+ n="0260c28" ed="T"/>入掌直竪左大拇指真言曰。<lb
+ n="0260c29" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉地力迦<pb n="0261a" id="T21.1255b.0261a" ed="T"/><lb
+ n="0261a01" ed="T"/></ab>
+<ab type="prose">次結護身如來拳印。以右手屈大拇指橫<lb
+ n="0261a02" ed="T"/>於掌中。便以四指握大拇指為拳。以此拳<lb
+ n="0261a03" ed="T"/>印加持自身五處。先額右肩左肩心喉每<lb
+ n="0261a04" ed="T"/>處各誦真言一遍真言曰。<lb
+ n="0261a05" ed="T"/></ab>
+<ab type="dharani">唵僕入嚩羅吽<lb
+ n="0261a06" ed="T"/></ab>
+<ab type="prose">次結摩利支菩薩根本印。二小指二無名<lb
+ n="0261a07" ed="T"/>指。右押左內相叉。直竪二頭指相捻。以<lb
+ n="0261a08" ed="T"/>二中指各繳頭指背。向前頭相拄。二大指<lb
+ n="0261a09" ed="T"/>並竪即成。結印當心。誦前摩利支身陀羅<lb
+ n="0261a10" ed="T"/>尼及心各七遍。每遍屈二大拇指招之。亦<lb
+ n="0261a11" ed="T"/>名迎請印。兼以此印加持身五處。頂上散<lb
+ n="0261a12" ed="T"/>印。<lb
+ n="0261a13" ed="T"/>次結大三昧耶印。辟除結界。以右手大指<lb
+ n="0261a14" ed="T"/>捻小指甲上。餘三指直竪如三股杵形。左<lb
+ n="0261a15" ed="T"/>手作金剛拳按於心上。隨誦真言以右手<lb
+ n="0261a16" ed="T"/>印於頂上。左轉三匝辟除一切作障難者。<lb
+ n="0261a17" ed="T"/>便右旋三匝并揮上下。即成結十方界。一<lb
+ n="0261a18" ed="T"/>切天龍人非人等不能附近真言曰。<lb
+ n="0261a19" ed="T"/></ab>
+<ab type="dharani">唵商迦㘑摩訶三麼琰娑<lb
+ n="0261a20" ed="T"/>嚩賀<lb
+ n="0261a21" ed="T"/></ab>
+<ab type="prose">次結摩利支安怛袒那印以左手虛掌<lb
+ n="0261a22" ed="T"/>作拳。大指微捻頭指甲如環。已下三指握<lb
+ n="0261a23" ed="T"/>拳令密。又令掌中作孔。安自心前。想自身<lb
+ n="0261a24" ed="T"/>入此印孔中藏。以右手平掌。右旋摩此印<lb
+ n="0261a25" ed="T"/>便蓋孔上。想此印即是摩利支天菩薩身。<lb
+ n="0261a26" ed="T"/>我自身隱藏於摩利支天菩薩心中。一心<lb
+ n="0261a27" ed="T"/>專注不間斷。誦前根本及心真言。不限遍<lb
+ n="0261a28" ed="T"/>數但虔誠至心。必獲菩薩威神加護。一切<lb
+ n="0261a29" ed="T"/>怨家惡人悉不能見。一切災難皆得解脫。<pb n="0261b" id="T21.1255b.0261b" ed="T"/><lb
+ n="0261b01" ed="T"/>若欲供養摩利支菩薩者。應用金或銀或<lb
+ n="0261b02" ed="T"/>赤銅。或白檀香木或紫檀木等。刻作摩利<lb
+ n="0261b03" ed="T"/>支菩薩像。如天女形可長半寸。或一寸二<lb
+ n="0261b04" ed="T"/>寸已下。於蓮花上或立或坐。頭冠瓔珞種<lb
+ n="0261b05" ed="T"/>種莊嚴極令端正。左手把天扇。其扇如維<lb
+ n="0261b06" ed="T"/>摩詰前天女扇。右手垂下揚掌向外。展五<lb
+ n="0261b07" ed="T"/>指作與願勢。有二天女各執白拂侍立左<lb
+ n="0261b08" ed="T"/>右。作此像成。戴於頂上或戴臂上或置<lb
+ n="0261b09" ed="T"/>衣中。以菩薩威神之力不逢災難。於怨家<lb
+ n="0261b10" ed="T"/>處決定得勝。鬼神惡人無得便。若欲成驗<lb
+ n="0261b11" ed="T"/>願見摩利支天真身求勝願者。誦此陀羅<lb
+ n="0261b12" ed="T"/>尼滿十萬遍。依法建立曼荼羅。畫摩利支<lb
+ n="0261b13" ed="T"/>菩薩像。安置壇中種種供養。并作護摩火<lb
+ n="0261b14" ed="T"/>壇。摩利支天女必現其身。所求勝願決定<lb
+ n="0261b15" ed="T"/>成就除不至心。佛告諸苾芻。我為當來惡<lb
+ n="0261b16" ed="T"/>世苦難恐怖有情。略說摩利支天法。此菩<lb
+ n="0261b17" ed="T"/>薩有大悲願。常於苦難恐怖之處。護諸有<lb
+ n="0261b18" ed="T"/>情不令天龍鬼神人及非人怨家惡獸所能<lb
+ n="0261b19" ed="T"/>為害。汝當受持廣宣流布饒益。有情諸苾<lb
+ n="0261b20" ed="T"/>芻等及天龍。八部一切大眾聞佛所說。皆<lb
+ n="0261b21" ed="T"/>大歡喜信受奉行。<lb
+ n="0261b22" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說摩利支天經</ab></div>
+</body></text></TEI>

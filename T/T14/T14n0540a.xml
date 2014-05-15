@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說樹提伽經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0540a</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0825a16" ed="T"/><lb
+ n="0825a17" ed="T"/><lb
+ n="0825a18" ed="T"/><lb
+ n="0825a19" ed="T"/>
+<ab type="juan" subtype="open">佛說樹提伽經</ab><lb
+ n="0825a20" ed="T"/><lb
+ n="0825a21" ed="T"/><byline>宋于闐國三藏求那跋陀羅譯</byline><lb
+ n="0825a22" ed="T"/><div type="jing" level="1"><ab type="prose">佛言：昔有一大富長者名樹提伽，倉庫盈實<lb
+ n="0825a23" ed="T"/>金銀具足，奴婢成行無所乏少。有一白㲲手<lb
+ n="0825a24" ed="T"/>巾挂著池邊，遇天風起吹王殿前。王即大會<lb
+ n="0825a25" ed="T"/>群臣坐共參論，羅列卜問怪其所以，諸臣皆<lb
+ n="0825a26" ed="T"/>言：「國將欲大興，天賜白㲲。」唯樹提伽默然無<lb
+ n="0825a27" ed="T"/>言。王問樹提伽：「諸臣皆喜，卿何以無言？」提<lb
+ n="0825a28" ed="T"/>伽答言：「不敢欺王！是臣家拭體之巾，挂著<lb
+ n="0825a29" ed="T"/>池邊，遇天風起吹王殿前。以是之故，默然無<pb n="0825b" ed="T" id="T14.0540a.0825b"/><lb
+ n="0825b01" ed="T"/>言。」却後數日，有一九色金華大如車輪，遇天<lb
+ n="0825b02" ed="T"/>風起吹王殿前。王即大會群臣坐共參論，羅<lb
+ n="0825b03" ed="T"/>列卜問怪其所以。諸臣皆言：「國將欲大興，天<lb
+ n="0825b04" ed="T"/>賜金華。」臣樹提伽默然無言。王問樹提伽：「諸<lb
+ n="0825b05" ed="T"/>臣皆喜，卿何以無言？」提伽答言：「不敢欺王！是<lb
+ n="0825b06" ed="T"/>臣家後園中萎落之華，遇天風起吹王殿前。<lb
+ n="0825b07" ed="T"/>以是之故，默然無言。」王問提伽：「卿家乃爾。速<lb
+ n="0825b08" ed="T"/>作調度，吾欲將領二十萬眾到卿家看望。」樹<lb
+ n="0825b09" ed="T"/>提伽答言：「願王相隨至臣之家，臣有自然床<lb
+ n="0825b10" ed="T"/>席不須人布，自然飲食不須人作，自然擎來<lb
+ n="0825b11" ed="T"/>不須喚呼，自然擎去不須反顧。」<lb
+ n="0825b12" ed="T"/>王即將領二十萬眾，到樹提伽家遊看。南門<lb
+ n="0825b13" ed="T"/>直入，門中有一童子，顏容端正，肉色瑤悅，甚<lb
+ n="0825b14" ed="T"/>復可愛。王問樹提伽：「是卿家兒孫耶？」提伽答<lb
+ n="0825b15" ed="T"/>言：「不敢欺王！是臣家守門之奴。」小復前進<lb
+ n="0825b16" ed="T"/>到其中門，有一童女，顏容端正，肉色瑤悅，甚<lb
+ n="0825b17" ed="T"/>復可愛。王問樹提伽：「是卿家婦女耶？」提伽<lb
+ n="0825b18" ed="T"/>答言：「不敢欺王！是臣家守閤之婢。」小復前<lb
+ n="0825b19" ed="T"/>進到其戶內，白銀為壁，水精為地，王呼水流<lb
+ n="0825b20" ed="T"/>疑不得進，樹提伽即導王前而入，黃金為床，<lb
+ n="0825b21" ed="T"/>白玉為机，樹提伽婦有百二十重金銀幃帳。<lb
+ n="0825b22" ed="T"/>樹提伽婦端正無雙，為王作禮眼中淚出。王<lb
+ n="0825b23" ed="T"/>問提伽：「卿婦見我，有何不󰬶，眼中淚出？」提伽<lb
+ n="0825b24" ed="T"/>答言：「不敢欺王！聞王煙氣，以是之故，眼中<lb
+ n="0825b25" ed="T"/>淚出。」王言：「庶人然脂，諸侯然蠟，天子然漆，<lb
+ n="0825b26" ed="T"/>亦無煙也，何得淚出？」提伽答言：「不敢欺王！是<lb
+ n="0825b27" ed="T"/>臣之家有一明月神珠挂著殿堂，晝夜無異，<lb
+ n="0825b28" ed="T"/>不須火光，王是煙中之王，是故聞氣耳。」<lb
+ n="0825b29" ed="T"/>樹提伽家堂前有十二重高樓，將王上頭，視<pb n="0825c" ed="T" id="T14.0540a.0825c"/><lb
+ n="0825c01" ed="T"/>東忘西，視南忘北，奄奄忽忽以經一月。大<lb
+ n="0825c02" ed="T"/>臣白言：「國計事大，事須還歸，斷理人民。」王<lb
+ n="0825c03" ed="T"/>謂：「須臾，小復可忍。」樹提伽將王後園中遊看，<lb
+ n="0825c04" ed="T"/>流泉浴池中沐浴，食果自適，甘美無比，甚復<lb
+ n="0825c05" ed="T"/>可愛，以至一月。大臣白王：「可須還國，國計<lb
+ n="0825c06" ed="T"/>事大，斷理人民。」王謂：「吁！須臾，小復可忍。」樹提<lb
+ n="0825c07" ed="T"/>伽即布施金銀珍寶、綾羅繒綵，二十萬眾人<lb
+ n="0825c08" ed="T"/>馬車乘一時俱重還國。王即會群臣坐共參<lb
+ n="0825c09" ed="T"/>論，羅列卜問怪其所以：「樹提伽是我之臣，婦<lb
+ n="0825c10" ed="T"/>女舍宅過甚於我。我欲伐之，可取與不？」諸<lb
+ n="0825c11" ed="T"/>臣皆言：「宜可取之。」王即興四十萬眾，搥鐘鳴<lb
+ n="0825c12" ed="T"/>鼓，往圍樹提伽舍數百餘重。樹提伽家門中，<lb
+ n="0825c13" ed="T"/>有一力士，手捉金杖一擬，四十萬眾一時俱<lb
+ n="0825c14" ed="T"/>倒，手脚繚戾，尻髖妸婆，狀似醉容，搖頭頗𩒰，臥<lb
+ n="0825c15" ed="T"/>地不起。樹提伽乘飛雲輪，車在虛空中問諸<lb
+ n="0825c16" ed="T"/>人等：「來時何意，臥地不起？」諸人答樹提伽言：<lb
+ n="0825c17" ed="T"/>「國王遣我來，欲伐長者。長者門中有一力士，<lb
+ n="0825c18" ed="T"/>手捉金杖一擬我等，四十萬眾一時俱倒，臥<lb
+ n="0825c19" ed="T"/>地不能起。」樹提伽問之曰：「欲得起不？」諸人<lb
+ n="0825c20" ed="T"/>皆言：「我欲得起。」樹提伽放大神目一視，四<lb
+ n="0825c21" ed="T"/>十萬眾一時俱起，還其本國。<lb
+ n="0825c22" ed="T"/>王即遣使者喚樹提伽，樹提伽與王同車，而<lb
+ n="0825c23" ed="T"/>共載之，往至佛所，問言：「世尊！樹提伽是我<lb
+ n="0825c24" ed="T"/>之臣，前身有何功德，婦女舍宅過甚於我？」佛<lb
+ n="0825c25" ed="T"/>言：「樹提伽布施功德，現天上受樂。昔五百<lb
+ n="0825c26" ed="T"/>商主將諸商人，齎持重寶經過險路，奔空山<lb
+ n="0825c27" ed="T"/>中，走逢一病道人，給其草屋厚敷床褥，給其<lb
+ n="0825c28" ed="T"/>水漿鎢錥米糧，給其燈燭，于時乞願天堂之<lb
+ n="0825c29" ed="T"/>報，今得果報。」佛言：「是時布施者，今樹提伽<pb n="0826a" ed="T" id="T14.0540a.0826a"/><lb
+ n="0826a01" ed="T"/>夫婦是也；于時病道人者，今我身是也；五<lb
+ n="0826a02" ed="T"/>百商主及商人者，皆得阿羅漢道。」</ab></div><lb
+ n="0826a03" ed="T"/>
+<ab type="juan" subtype="close">佛說樹提伽經</ab>
+</body></text></TEI>

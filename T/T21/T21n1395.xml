@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">拔濟苦難陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1395</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0912b10" ed="T"/><lb
+ n="0912b11" ed="T"/><lb
+ n="0912b12" ed="T"/><div type="jing" level="1"><lb
+ n="0912b13" ed="T"/>
+<ab type="juan" subtype="open">拔濟苦難陀羅尼經</ab><lb
+ n="0912b14" ed="T"/><lb
+ n="0912b15" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
+ n="0912b16" ed="T"/><ab type="prose">如是我聞。一時薄伽梵在室羅筏。住誓多林<lb
+ n="0912b17" ed="T"/>給孤獨園。與無央數聲聞菩薩摩訶薩俱。及<lb
+ n="0912b18" ed="T"/>諸天人阿素洛等。無量大眾前後圍繞。<lb
+ n="0912b19" ed="T"/>爾時眾中有一菩薩。名不可說功德莊嚴。從<lb
+ n="0912b20" ed="T"/>座而起頂禮佛足。合掌恭敬白佛言。世尊今<lb
+ n="0912b21" ed="T"/>此世界無量有情。煩惱因緣造諸惡業。當墮<lb
+ n="0912b22" ed="T"/>地獄餓鬼傍生。或天人中受諸劇苦。唯願哀<lb
+ n="0912b23" ed="T"/>愍方便拔濟。<lb
+ n="0912b24" ed="T"/>佛言善男子善哉善哉。汝能哀愍一切有情<lb
+ n="0912b25" ed="T"/>作如是請。諦聽諦聽。吾今為汝略說拔濟眾<lb
+ n="0912b26" ed="T"/>苦方便。善男子有佛世尊。名為不動如來應<lb
+ n="0912b27" ed="T"/>正等覺。為欲利樂諸有情故。說陀羅尼令眾<lb
+ n="0912b28" ed="T"/>誦念。陀羅尼曰。<lb
+ n="0912b29" ed="T"/></ab>
+<ab type="dharani">羯羯尼羯羯尼　魯折尼魯折尼　咄盧磔尼<pb n="0912c" id="T21.1395.0912c" ed="T"/><lb
+ n="0912c01" ed="T"/>咄盧磔尼　怛邏薩尼怛羅薩尼　般刺底喝<lb
+ n="0912c02" ed="T"/>那般刺底喝那　薩縛羯莫般藍般邏般謎<lb
+ n="0912c03" ed="T"/>　莎訶<lb
+ n="0912c04" ed="T"/></ab>
+<ab type="prose">若有善男子善女人。至誠敬禮不動如來應<lb
+ n="0912c05" ed="T"/>正等覺受持此呪。先所造作五無間業四重<lb
+ n="0912c06" ed="T"/>十惡。毀諸聖賢謗正法罪皆悉除滅。臨命終<lb
+ n="0912c07" ed="T"/>時。彼不動佛與諸菩薩來現其前。讚歎慰喻<lb
+ n="0912c08" ed="T"/>令其歡喜。復告之言。今來迎汝應隨我往所<lb
+ n="0912c09" ed="T"/>從佛國。彼命終已。決定往生不動如來清淨<lb
+ n="0912c10" ed="T"/>佛土。善男子復有世尊。名滅惡趣王如來<lb
+ n="0912c11" ed="T"/>應正等覺。為欲利樂諸有情故。說陀羅尼令<lb
+ n="0912c12" ed="T"/>眾誦念。陀羅尼曰。<lb
+ n="0912c13" ed="T"/></ab>
+<ab type="dharani">輸達泥輸達泥　薩縛播波毘輸達泥　戍睇<lb
+ n="0912c14" ed="T"/>毘戍睇　薩縛羯莫毘戍睇　莎訶<lb
+ n="0912c15" ed="T"/></ab>
+<ab type="prose">若有善男子善女人。至誠禮敬滅惡趣王如<lb
+ n="0912c16" ed="T"/>來應正等覺受持此呪。萬四千劫常憶宿命。<lb
+ n="0912c17" ed="T"/>所在生處得丈夫身。具足諸根深信因果。善<lb
+ n="0912c18" ed="T"/>諸技術妙解諸論。好行惠施厭捨諸欲。不造<lb
+ n="0912c19" ed="T"/>惡業離諸危怖。具正命慧眾所愛重。常近善<lb
+ n="0912c20" ed="T"/>友恒聞正法。求菩提心曾無暫捨。以諸功德<lb
+ n="0912c21" ed="T"/>而自莊嚴。具善律儀怖諸惡業。恒無匱乏調<lb
+ n="0912c22" ed="T"/>柔樂靜。於天人中常受快樂。速證無上正等<lb
+ n="0912c23" ed="T"/>菩提。終不退於十到彼岸。常願利樂一切有<lb
+ n="0912c24" ed="T"/>情。諸所修行非專自利。在所生處常得見佛。<lb
+ n="0912c25" ed="T"/>護持正法預賢聖眾。<lb
+ n="0912c26" ed="T"/>時薄伽梵說此經已。聲聞菩薩及諸天人阿<lb
+ n="0912c27" ed="T"/>素洛等。聞佛所說。皆大歡喜。信受奉行。<lb
+ n="0912c28" ed="T"/>
+</ab><ab type="juan" subtype="close">拔濟苦難陀羅尼經</ab></div>
+</body></text></TEI>

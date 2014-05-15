@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">毘盧遮那五字真言修習儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0861</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0188a13" ed="T"/><lb
+ n="0188a14" ed="T"/><lb
+ n="0188a15" ed="T"/><div type="jing" level="2"><lb
+ n="0188a16" ed="T"/>
+<ab type="juan" subtype="open">毘盧遮那五字真言修習儀軌</ab><lb
+ n="0188a17" ed="T"/><lb
+ n="0188a18" ed="T"/><byline>三藏不空金剛　詔譯</byline><lb
+ n="0188a19" ed="T"/><ab type="prose">夫修習成就毘盧遮那佛法，先應於閑淨處<lb
+ n="0188a20" ed="T"/>以瞿摩夷塗地，香水散灑，燒種種名香，散種<lb
+ n="0188a21" ed="T"/>種時花，當於寂靜辦喧鬧，清淨澡浴著新<lb
+ n="0188a22" ed="T"/>淨衣結跏趺坐。或依類而坐：息災吉祥坐<lb
+ n="0188a23" ed="T"/>面向北；增益蓮花坐面向東；敬愛金剛坐<lb
+ n="0188a24" ed="T"/>面向西；降伏蹲踞坐以脚押脚面向南。隨所<lb
+ n="0188a25" ed="T"/>愛樂依方而坐，即以香泥塗手，於頂上合掌<lb
+ n="0188a26" ed="T"/>禮敬一切諸佛。然於下方從風輪起想「嚩」字，<lb
+ n="0188a27" ed="T"/>以二點嚴飾，如金形放熾盛光，威猛赫奕；金<lb
+ n="0188a28" ed="T"/>剛火焰壞破大地，上衝流出，則想此金剛火<lb
+ n="0188a29" ed="T"/>焰焚燒自身，乃至灰謝隨四種法色；想灰成<pb n="0188b" ed="T" id="T18.0861.0188b"/><lb
+ n="0188b01" ed="T"/>曼拏羅，即於曼荼羅中想一蓮花；於蓮花中<lb
+ n="0188b02" ed="T"/>想「嚩」字轉成金剛形；想己身為金剛所成。<lb
+ n="0188b03" ed="T"/>即結三昧耶印：二手作三普吒掌，竪二大<lb
+ n="0188b04" ed="T"/>指加持於五處。真言曰：<lb
+ n="0188b05" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　阿三迷　怛哩三迷　三<lb
+ n="0188b06" ed="T"/>摩曳　莎縛訶」<lb
+ n="0188b07" ed="T"/></ab>
+<ab type="prose">次結法界印：二手作拳，二大指在掌中竪<lb
+ n="0188b08" ed="T"/>二頭指；想囉字於頂上，思惟真實義，一切<lb
+ n="0188b09" ed="T"/>法塵不可得。真言曰：<lb
+ n="0188b10" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　達摩馱都　娑嚩婆嚩<lb
+ n="0188b11" ed="T"/>俱𤙖」<lb
+ n="0188b12" ed="T"/></ab>
+<ab type="prose">次結次輪印：二手反相叉，二大指在右手<lb
+ n="0188b13" ed="T"/>掌中相著；觀自身為金剛薩埵，合以加持。真<lb
+ n="0188b14" ed="T"/>言曰：<lb
+ n="0188b15" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多　嚩日囉　喃　嚩日囉<lb
+ n="0188b16" ed="T"/>　怛摩　俱唅」<lb
+ n="0188b17" ed="T"/></ab>
+<ab type="prose">次結甲冑印：二手三普吒掌，二頭指屈拄<lb
+ n="0188b18" ed="T"/>中指背上節，二大指並竪合在掌印五處。真<lb
+ n="0188b19" ed="T"/>言曰：<lb
+ n="0188b20" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多　嚩日囉　喃　嚩日羅迦　嚩遮<lb
+ n="0188b21" ed="T"/>　吽」<lb
+ n="0188b22" ed="T"/></ab>
+<ab type="prose">則於自身前想大蓮華王，於蓮華中想金色<lb
+ n="0188b23" ed="T"/>「佉」字，其「佉」字轉成婆伽梵大勤勇尊，住之三<lb
+ n="0188b24" ed="T"/>摩地，結劍印。即結如來鉤印奉請本尊：二內<lb
+ n="0188b25" ed="T"/>相叉作拳，竪右頭指如鉤向身招之。真言曰：<lb
+ n="0188b26" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　噁娑囉嚩怛囉　鉢羅<lb
+ n="0188b27" ed="T"/>底訶多　怛多蘖俱舍　󰂛地者哩耶　鉢哩布囉<lb
+ n="0188b28" ed="T"/>迦　娑嚩訶」<lb
+ n="0188b29" ed="T"/></ab>
+<ab type="prose">聖眾來已，即奉閼伽，二手捧當額想浴聖<pb n="0188c" ed="T" id="T18.0861.0188c"/><lb
+ n="0188c01" ed="T"/>眾。真言曰：<lb
+ n="0188c02" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　哦哦那　三摩三摩　娑嚩<lb
+ n="0188c03" ed="T"/>訶」<lb
+ n="0188c04" ed="T"/></ab>
+<ab type="prose">次獻敷座印：二手虛心合掌，散舒屈六指<lb
+ n="0188c05" ed="T"/>如蓮花形。真言曰：<lb
+ n="0188c06" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　噁」<lb
+ n="0188c07" ed="T"/></ab>
+<ab type="prose">次結聖不動尊印：二手各作拳，各竪頭中<lb
+ n="0188c08" ed="T"/>指，各以二大指押無名指、小指，左手為鞘，右<lb
+ n="0188c09" ed="T"/>手為刀，以刀左旋轉辟除諸魔障，右旋轉及<lb
+ n="0188c10" ed="T"/>上下成方隅界。真言曰：<lb
+ n="0188c11" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多　嚩日羅　𧹞戰拏　摩訶嚧灑拏<lb
+ n="0188c12" ed="T"/>　薩叵吒耶　吽　怛囉吒　𤙖　𤚥」<lb
+ n="0188c13" ed="T"/></ab>
+<ab type="prose">復以刀印觸香花求無垢令淨，以成加護置<lb
+ n="0188c14" ed="T"/>於鞘中。<lb
+ n="0188c15" ed="T"/>次結毘盧遮那五字劍印：二手合掌屈二頭，<lb
+ n="0188c16" ed="T"/>指相著如劍形。真言曰：<lb
+ n="0188c17" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　阿尾囉　吽　欠」<lb
+ n="0188c18" ed="T"/></ab>
+<ab type="prose">次結塗香印：右手掌向外，以左手握右手<lb
+ n="0188c19" ed="T"/>腕如環。真言曰：<lb
+ n="0188c20" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　尾󰡊駄巘塗納婆吠　娑<lb
+ n="0188c21" ed="T"/>嚩訶」<lb
+ n="0188c22" ed="T"/></ab>
+<ab type="prose">次結花印：二手內相叉，仰掌頭指著，二大<lb
+ n="0188c23" ed="T"/>指安頭指下節。真言曰：<lb
+ n="0188c24" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　摩訶每怛哩耶　毘愈<lb
+ n="0188c25" ed="T"/>娜蘖底　娑嚩訶」<lb
+ n="0188c26" ed="T"/></ab>
+<ab type="prose">次結燒香印：二手中指、無名指、小指背合<lb
+ n="0188c27" ed="T"/>竪，頭指直竪傾相合，大指在頭指下節。真言<lb
+ n="0188c28" ed="T"/>曰：<lb
+ n="0188c29" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　達摩駄覩嚩娜蘖帝<pb n="0189a" ed="T" id="T18.0861.0189a"/><lb
+ n="0189a01" ed="T"/>　莎嚩訶」<lb
+ n="0189a02" ed="T"/></ab>
+<ab type="prose">次結飲食真言印：當合定惠掌，五輪互相<lb
+ n="0189a03" ed="T"/>叉，是則持眾物，普通供養印。<lb
+ n="0189a04" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　阿囉囉迦囉囉末<lb
+ n="0189a05" ed="T"/>　隣捺那迷　娑嚩訶」<lb
+ n="0189a06" ed="T"/></ab>
+<ab type="prose">次結燈印：右手作拳，中指直竪，頭指屈大<lb
+ n="0189a07" ed="T"/>捻，指博附中指。真言曰：<lb
+ n="0189a08" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　多他蘖多　哩紙　薩叵囉<lb
+ n="0189a09" ed="T"/>拏嚩婆娑那　哦哦那　烏馱哩耶　娑嚩訶<lb
+ n="0189a10" ed="T"/>」<lb
+ n="0189a11" ed="T"/></ab>
+<ab type="prose">所獻塗香、花鬘、燒香、飲食、燈明，隨四種法色<lb
+ n="0189a12" ed="T"/>而以供養，由五種供養印，成於聖眾集會普<lb
+ n="0189a13" ed="T"/>遍香花等雲海供養。<lb
+ n="0189a14" ed="T"/>次結圓滿印：二手虛心合掌安於頂上。真<lb
+ n="0189a15" ed="T"/>言曰：<lb
+ n="0189a16" ed="T"/></ab>
+<ab type="dharani">「那謨　三曼多沒馱喃　噁尾　娑摩曳　娑叵囉　呬<lb
+ n="0189a17" ed="T"/>𤚥　哦哦那　劍達　摩馱怛嚩迦舍　三摩多耶　娑<lb
+ n="0189a18" ed="T"/>嚩　怛他蘖　跛哩剎　曼荼羅　摩摩本惹末<lb
+ n="0189a19" ed="T"/>禮拏　怛他蘖多　地瑟姹　那末禮那遮迷　娑嚩<lb
+ n="0189a20" ed="T"/>訶」<lb
+ n="0189a21" ed="T"/></ab>
+<ab type="prose">由此真言印、香花等雲海供養，如實無，即用<lb
+ n="0189a22" ed="T"/>五字從下體布至頂，地、水、火、風、空，即想自身<lb
+ n="0189a23" ed="T"/>如金色毘盧遮那佛，遍光明頭冠瓔珞身著<lb
+ n="0189a24" ed="T"/>紗縠衣。即結劍印：安於當心住三摩地，二手<lb
+ n="0189a25" ed="T"/>持珠，合於掌中誦真言七遍，加持安於頂<lb
+ n="0189a26" ed="T"/>上。真言曰：<lb
+ n="0189a27" ed="T"/></ab>
+<ab type="dharani">「唵　吠盧者那　摩羅　娑嚩訶」<lb
+ n="0189a28" ed="T"/></ab>
+<ab type="prose">然後二手當心，持珠念誦本尊言遍數。畢<lb
+ n="0189a29" ed="T"/>已安珠於掌中，頂上合掌迴向發願：「以此<pb n="0189b" ed="T" id="T18.0861.0189b"/><lb
+ n="0189b01" ed="T"/>功德，當願眾生速證毘盧遮那佛！」放念珠已，<lb
+ n="0189b02" ed="T"/>然後結定印，端身正坐於頂中想白色「闇」字；<lb
+ n="0189b03" ed="T"/>於二目瞳人上想「覽」字，即微屈頭注心於胸<lb
+ n="0189b04" ed="T"/>臆閒想圓滿月輪，於月輪上布列五字；想「阿」<lb
+ n="0189b05" ed="T"/>字在中央如黃金色，餘四字右旋而安。<lb
+ n="0189b06" ed="T"/>五字真實義者：<lb
+ n="0189b07" ed="T"/>「阿」字一切法本不生故；「尾」字思義一切法言<lb
+ n="0189b08" ed="T"/>說不可得故；「囉」字一切法離塵故；「訶」字一<lb
+ n="0189b09" ed="T"/>切法因不可得故；「佉」字一切如虛空不可<lb
+ n="0189b10" ed="T"/>得故。名為心念誦。<lb
+ n="0189b11" ed="T"/>即結劍印，誦七遍頂上散；復結五供養印，獻<lb
+ n="0189b12" ed="T"/>閼伽讚歎；結不動劍印，左旋解界；結三昧<lb
+ n="0189b13" ed="T"/>印安於頂上誦三遍，想奉送聖眾。禮佛而起，<lb
+ n="0189b14" ed="T"/>隨意經行，讀誦大乘方廣經典，以福迴施一<lb
+ n="0189b15" ed="T"/>切眾生，願速圓滿心所求，世閒、出世閒悉地<lb
+ n="0189b16" ed="T"/>成就也。<lb
+ n="0189b17" ed="T"/>
+</ab><ab type="juan" subtype="close">毘盧遮那念誦一卷</ab></div><lb
+ n="0189b18" ed="T"/><div type="w" level="2"><ab type="prose">延享改元，夏，用亡弟僧尊隆遺財而刻是軌，<lb
+ n="0189b19" ed="T"/>以遂其宿志，伏祈法乳永潤法界云　藤原<lb
+ n="0189b20" ed="T"/>常香謹誌。<lb
+ n="0189b21" ed="T"/>時延享元甲子秋八月，念三豐山無等讐挍<lb
+ n="0189b22" ed="T"/>焉。</ab></div></div>
+</body></text></TEI>

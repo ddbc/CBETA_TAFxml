@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說普賢菩薩陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1127</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0541c20" ed="T"/><lb
+ n="0541c21" ed="T"/><lb
+ n="0541c22" ed="T"/><lb
+ n="0541c23" ed="T"/>
+<ab type="juan" subtype="open">佛說普賢菩薩陀羅尼經</ab><lb
+ n="0541c24" ed="T"/><lb
+ n="0541c25" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
+ n="0541c26" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
+ n="0541c27" ed="T"/><div type="jing" level="1"><ab type="verse">
+歸依普遍虛空界　　三世清淨平等因　　<lb
+ n="0541c28" ed="T"/>性等法光正覺道　　變化人天利樂身　　<lb
+ n="0541c29" ed="T"/>示居十地自在位　　行大施願度眾生　　<pb n="0542a" id="T20.1127.0542a" ed="T"/><lb
+ n="0542a01" ed="T"/>功德相嚴名普賢　　今說真言祕密教　　
+</ab><lb
+ n="0542a02" ed="T"/><ab type="prose">爾時普賢菩薩摩訶薩。欲現廣大變化而入<lb
+ n="0542a03" ed="T"/>三摩地。名三界大自在。入此三摩地已。從清<lb
+ n="0542a04" ed="T"/>淨虛空界。現無數身猶如塵沙。普遍大千一<lb
+ n="0542a05" ed="T"/>切世界。<lb
+ n="0542a06" ed="T"/>爾時一切佛剎所有一切如來。舒其右手摩<lb
+ n="0542a07" ed="T"/>普賢菩薩摩訶薩頂。讚言善哉善哉佛子。汝<lb
+ n="0542a08" ed="T"/>今當說一切佛母最上陀羅尼法。爾時普賢<lb
+ n="0542a09" ed="T"/>菩薩。身放千光普照十方。一切佛剎悉皆震<lb
+ n="0542a10" ed="T"/>動。即說陀羅尼。<lb
+ n="0542a11" ed="T"/></ab>
+<ab type="dharani">怛儞也他唵曩謨曩摩娑怛嚩<lb
+ n="0542a12" ed="T"/>部嚩儞濕嚩囉摩賀部誐野阿三<lb
+ n="0542a13" ed="T"/>摩三摩阿彌哆娑摩阿難陀娑摩誐誐曩娑摩<lb
+ n="0542a14" ed="T"/>怛里婆嚩娑摩尾沙娑摩波囉摩囉<lb
+ n="0542a15" ed="T"/>他娑摩娑嚩婆嚩娑摩怛他誐哆<lb
+ n="0542a16" ed="T"/>娑摩阿囉惹娑摩輸弟娑摩沒馱娑摩達里<lb
+ n="0542a17" ed="T"/>摩怛他誐哆娑摩僧賀尾沙摩娑摩曀<lb
+ n="0542a18" ed="T"/>迦曩野娑誐囉尾輸馱路迦呬呬羅沒<lb
+ n="0542a19" ed="T"/>馱羅沒馱尾惹野尾惹野暗鉢囉設訖哆曩野曩野憾唧囉地瑟吒曩三部誐暗娑曩羅野羅野達里摩誐囉馱囉馱囉惹野惹野吽吽馱摩馱<lb
+ n="0542a23" ed="T"/>摩娑嚩賀<lb
+ n="0542a24" ed="T"/></ab>
+<ab type="prose">爾時普賢菩薩摩訶薩。說此陀羅尼已。佛即<lb
+ n="0542a25" ed="T"/>觀彼菩薩之身。是過去先佛。為悲慜一切眾<lb
+ n="0542a26" ed="T"/>生現變化身。滿於三界諸世間中。爾時諸大<lb
+ n="0542a27" ed="T"/>菩薩。及天人阿修羅等。從一切金剛峰起。離<lb
+ n="0542a28" ed="T"/>自金寶莊嚴大富貴座。來菩薩前而自唱言。<lb
+ n="0542a29" ed="T"/>南無大慈大悲無邊大功德海最上成佛大陀<pb n="0542b" id="T20.1127.0542b" ed="T"/><lb
+ n="0542b01" ed="T"/>羅尼法。善能饒益過去未來現在三界無數<lb
+ n="0542b02" ed="T"/>眾生。令得安住大法之位。佛言若人聞此大<lb
+ n="0542b03" ed="T"/>陀羅尼法。經無邊劫所作之罪皆悉除滅。亦<lb
+ n="0542b04" ed="T"/>能枯竭煩惱大海。摧壞我見高山。譬如有人<lb
+ n="0542b05" ed="T"/>見百千佛。經無邊劫所作善根。亦不能及此<lb
+ n="0542b06" ed="T"/>真言功德。此大陀羅尼是一切如來心圓滿<lb
+ n="0542b07" ed="T"/>大功德海。而能出生菩提智種。成就一切智<lb
+ n="0542b08" ed="T"/>地。而諸佛法皆不能及。此大陀羅尼名號。假<lb
+ n="0542b09" ed="T"/>使百千那由他俱胝劫亦難得聞。若有人於此<lb
+ n="0542b10" ed="T"/>經典。受持讀誦恭敬供養。彼等眾生善解總<lb
+ n="0542b11" ed="T"/>持。能活慧命住如來位。成就一切功德。若有<lb
+ n="0542b12" ed="T"/>人讀誦此經。一遍二遍乃至三遍。彼人得最<lb
+ n="0542b13" ed="T"/>上功德。能滅一切罪能斷一切煩惱。復得值<lb
+ n="0542b14" ed="T"/>遇諸佛如來。不受一切憂愁苦惱。若於寂靜<lb
+ n="0542b15" ed="T"/>之處獨樹之下。一心持誦。彼人獲得一切成<lb
+ n="0542b16" ed="T"/>就之法眾所愛敬。若有人於大林野結跏趺<lb
+ n="0542b17" ed="T"/>坐。誦此經典滿於七邊。彼人不久得大禪定。<lb
+ n="0542b18" ed="T"/>斷一切煩惱。復得普賢菩薩結跏趺坐而現<lb
+ n="0542b19" ed="T"/>於前。若人隨自力分以香華供養誦此陀羅<lb
+ n="0542b20" ed="T"/>尼。乃至困臥睡眠。於其夢中見普賢菩薩。舒<lb
+ n="0542b21" ed="T"/>其右手放法光明。灌照身心作如是言。善哉<lb
+ n="0542b22" ed="T"/>善哉佛子。如來大曼拏羅轉身。而得大菩薩<lb
+ n="0542b23" ed="T"/>位。身心安樂。具大福德智慧。常得見於普賢<lb
+ n="0542b24" ed="T"/>菩薩摩訶薩。若人以慈悲心。為一切眾生讀<lb
+ n="0542b25" ed="T"/>誦此經。彼人得十波羅蜜圓滿。滅除一切煩<lb
+ n="0542b26" ed="T"/>惱罪垢。復得天人衛護如來讚言。佛子汝若<lb
+ n="0542b27" ed="T"/>依行。不久當入普賢之地。<lb
+ n="0542b28" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說普賢菩薩陀羅尼經</ab></div>
+</body></text></TEI>

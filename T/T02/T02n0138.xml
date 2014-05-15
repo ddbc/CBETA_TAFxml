@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說十一想思念如來經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0138</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0861a08" ed="T"/><lb
+ n="0861a09" ed="T"/><lb
+ n="0861a10" ed="T"/><div type="jing" level="1"><lb
+ n="0861a11" ed="T"/>
+<ab type="juan" subtype="open">佛說十一想思念如來經</ab><lb
+ n="0861a12" ed="T"/><lb
+ n="0861a13" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
+ n="0861a14" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在羅閱城耆闍崛山中，<lb
+ n="0861a15" ed="T"/>與大比丘眾二百五十人俱。爾時，世尊告諸<lb
+ n="0861a16" ed="T"/>比丘：「當以十一想思念如來，已思念當發慈<lb
+ n="0861a17" ed="T"/>心於如來所。云何為十一？戒意清淨。威儀<lb
+ n="0861a18" ed="T"/>具足。諸根不錯。信意不亂。常有勇健意<lb
+ n="0861a19" ed="T"/>。若更苦樂不以為憂。意不忘失。止觀現<lb
+ n="0861a20" ed="T"/>在前。三昧意無休息。智慧意無量。觀佛<lb
+ n="0861a21" ed="T"/>無厭足。如是比丘當以此十一想思念如<lb
+ n="0861a22" ed="T"/>來，已思念如來，當發慈心於如來所，是謂比<lb
+ n="0861a23" ed="T"/>丘於比丘中修行念佛。彼比丘已修行念佛，<lb
+ n="0861a24" ed="T"/>於二果當求一果，於現法中得自在，成無餘<lb
+ n="0861a25" ed="T"/>阿那含。」爾時，諸比丘聞佛所說，歡喜奉行。<lb
+ n="0861a26" ed="T"/>聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0861a27" ed="T"/>園。是時，世尊告諸比丘：「若慈心解脫，親近廣<lb
+ n="0861a28" ed="T"/>布，修行以辦，獲使起善具足，便當有十一報、<lb
+ n="0861a29" ed="T"/>十一果。云何為十一？臥安、覺安、不見惡夢、<pb n="0861b" ed="T" id="T02.0138.0861b"/><lb
+ n="0861b01" ed="T"/>天護、人愛、非人所敬、不毒、不兵、水火不喪、<lb
+ n="0861b02" ed="T"/>亦不加刑、身壞命終生善處梵天上。於諸善<lb
+ n="0861b03" ed="T"/>法速得捷疾，智能盡有漏行。比丘！慈心解<lb
+ n="0861b04" ed="T"/>脫，親近廣布，修行以辦，以獲便起善具足，<lb
+ n="0861b05" ed="T"/>當有此十一法。是故，諸比丘！當求方便慈心<lb
+ n="0861b06" ed="T"/>解脫，如是諸比丘當作是學。」爾時，諸比丘聞<lb
+ n="0861b07" ed="T"/>佛所說，歡喜奉行。<lb
+ n="0861b08" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說十一想思念如來經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">五陰譬喻經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0105</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0501a" ed="T" id="T02.0105.0501a"/><lb
+ n="0501a01" ed="T"/><lb
+ n="0501a02" ed="T"/><lb
+ n="0501a03" ed="T"/><div type="jing" level="1"><lb
+ n="0501a04" ed="T"/>
+<ab type="juan" subtype="open">五陰譬喻經</ab><lb
+ n="0501a05" ed="T"/><lb
+ n="0501a06" ed="T"/><byline>後漢安息三藏安世高譯</byline><lb
+ n="0501a07" ed="T"/><ab type="prose">聞如是：一時，佛遊於靡勝國，度河津見中大<lb
+ n="0501a08" ed="T"/>沫聚隨水流，即告比丘言：「諸比丘！譬如此<lb
+ n="0501a09" ed="T"/>大沫聚隨水流，目士見之觀視省察，即知非<lb
+ n="0501a10" ed="T"/>有、虛無、不實、速消、歸盡。所以者何？沫無強故。<lb
+ n="0501a11" ed="T"/>如是，比丘！一切所色去來現在，內外麁細好<lb
+ n="0501a12" ed="T"/>醜遠近，比丘見此當熟省視觀，其不有虛<lb
+ n="0501a13" ed="T"/>無不實，但病但結但瘡但偽，非真非常，為苦<lb
+ n="0501a14" ed="T"/>為空為非身為消盡。所以者何？色之性無有<lb
+ n="0501a15" ed="T"/>強。譬如，比丘！天雨渧水，一泡適起一泡即滅，<lb
+ n="0501a16" ed="T"/>目士見之觀視省察，即知非有、虛無、不實、速<lb
+ n="0501a17" ed="T"/>消、歸盡。所以者何？泡無強故。如是，比丘！一<lb
+ n="0501a18" ed="T"/>切所痛去來現在，內外麁細好醜遠近，比丘<lb
+ n="0501a19" ed="T"/>見知，當熟省視，觀其不有虛無不實，但病但<lb
+ n="0501a20" ed="T"/>結但偽但瘡，非真非常，為苦為空為非身為<lb
+ n="0501a21" ed="T"/>消盡。所以者何？痛之性無有強故。<lb
+ n="0501a22" ed="T"/>「譬如，比丘！季夏盛熱日中之炎，目士見之觀<lb
+ n="0501a23" ed="T"/>視省察，即知非有、虛無、不實、速消、歸盡。所以<lb
+ n="0501a24" ed="T"/>者何？炎無強故。如是，比丘！一切所想去來<lb
+ n="0501a25" ed="T"/>現在，內外麁細好醜遠近，比丘見是當熟省<lb
+ n="0501a26" ed="T"/>視觀，其不有虛無不實，但婬但結但瘡但偽，<lb
+ n="0501a27" ed="T"/>非真非常，為苦為空為非身為消盡。所以者<lb
+ n="0501a28" ed="T"/>何？想之性無有強。<lb
+ n="0501a29" ed="T"/>「譬如，比丘！人求良材擔斧入林，見大芭蕉鴻<pb n="0501b" ed="T" id="T02.0105.0501b"/><lb
+ n="0501b01" ed="T"/>直不曲，因斷其本、斬其末、劈其葉，理分分<lb
+ n="0501b02" ed="T"/>㓟而解之，中了無心何有牢固？目士見之<lb
+ n="0501b03" ed="T"/>觀視省察，即知非有、虛無、不實、速消、歸盡。所<lb
+ n="0501b04" ed="T"/>以者何？彼芭蕉無強故。如是，比丘！一切所行<lb
+ n="0501b05" ed="T"/>去來現在，內外麁細好醜遠近，比丘見此當<lb
+ n="0501b06" ed="T"/>熟省視知，其不有虛無不實，但婬但結但瘡<lb
+ n="0501b07" ed="T"/>但偽，非真非常，為苦為空為非身為消盡。所<lb
+ n="0501b08" ed="T"/>以者何？行之性無有強。<lb
+ n="0501b09" ed="T"/>「譬如，比丘！幻師與幻弟子於四衢道大人眾<lb
+ n="0501b10" ed="T"/>中，現若干幻，化作群象群馬車乘步從。目士<lb
+ n="0501b11" ed="T"/>見之觀視省察，即知不有、虛無、不實、無形、化、<lb
+ n="0501b12" ed="T"/>盡。所以者何？幻無強故。如是，比丘！一切<lb
+ n="0501b13" ed="T"/>所識去來現在，內外麁細好醜遠近，比丘見<lb
+ n="0501b14" ed="T"/>此當熟省視觀，其不有虛無不實，但婬但結<lb
+ n="0501b15" ed="T"/>但瘡但偽，非真非常，為苦為空為非身為消<lb
+ n="0501b16" ed="T"/>盡。所以者何？識之性無有強。」於是佛說偈<lb
+ n="0501b17" ed="T"/>言：<lb
+ n="0501b18" ed="T"/></ab>
+<ab type="verse">
+「沫聚喻於色，　　痛如水中泡，　　<lb
+ n="0501b19" ed="T"/>想譬熱時炎，　　行為若芭蕉，　　<lb
+ n="0501b20" ed="T"/>夫幻喻如識，　　諸佛說若此，　　<lb
+ n="0501b21" ed="T"/>當為觀是要，　　熟省而思惟。　　<lb
+ n="0501b22" ed="T"/>空虛之為審，　　不覩其有常，　　<lb
+ n="0501b23" ed="T"/>欲見陰當爾，　　真智說皆然。　　<lb
+ n="0501b24" ed="T"/>三事斷絕時，　　知身無所直，　　<lb
+ n="0501b25" ed="T"/>命氣溫燸識，　　捨身而轉逝。　　<lb
+ n="0501b26" ed="T"/>當其死臥地，　　猶草無所知，　　<lb
+ n="0501b27" ed="T"/>觀其狀如是，　　但幻而愚貪。　　<lb
+ n="0501b28" ed="T"/>心心為無安，　　亦無有牢強，　　<lb
+ n="0501b29" ed="T"/>知五陰如此，　　比丘宜精勤。　　<pb n="0501c" ed="T" id="T02.0105.0501c"/><lb
+ n="0501c01" ed="T"/>是以當晝夜，　　自覺念正智，　　<lb
+ n="0501c02" ed="T"/>受行寂滅道，　　行除最安樂。」　　
+</ab><lb
+ n="0501c03" ed="T"/><ab type="prose">佛說如是。比丘聞，皆歡喜。<lb
+ n="0501c04" ed="T"/>
+</ab><ab type="juan" subtype="close">五陰譬喻經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說金色迦那鉢底陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1269</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0303a04" ed="T"/><lb
+ n="0303a05" ed="T"/><lb
+ n="0303a06" ed="T"/><div type="jing" level="1"><lb
+ n="0303a07" ed="T"/>
+<ab type="juan" subtype="open">佛說金色迦那鉢底陀羅尼經</ab><lb
+ n="0303a08" ed="T"/><lb
+ n="0303a09" ed="T"/><byline>三藏金剛智奉　詔譯</byline><lb
+ n="0303a10" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國迦蘭竹林園。<lb
+ n="0303a11" ed="T"/>大說法愍念一切眾生。說此陀羅尼。屬金<lb
+ n="0303a12" ed="T"/>色迦那鉢底。爾時世尊即說真言曰。<lb
+ n="0303a13" ed="T"/></ab>
+<ab type="dharani">曩謨率都底迦吒迦吒底吒摩吒<lb
+ n="0303a14" ed="T"/>起哩亹拏起哩亹拏畔惹<lb
+ n="0303a15" ed="T"/>畔惹曩謨率都帝護嚕捺跛惹尼<lb
+ n="0303a16" ed="T"/>曳娑縛賀阿部多浪拏乞懺質<lb
+ n="0303a17" ed="T"/>多曷羅娑摩誐磋底摩訶野<lb
+ n="0303a18" ed="T"/>摩賀悉底諾乞曩鉢羅句跛野弭矩嚕矩嚕祖嚕祖嚕<lb
+ n="0303a20" ed="T"/>謨嚕謨嚕曩謨曩謨<lb
+ n="0303a21" ed="T"/></ab>
+<ab type="prose">佛告舍利弗。此是金色迦那鉢底除障難真<lb
+ n="0303a22" ed="T"/>言。若眾生受持真言者。所作諸法無不成。<lb
+ n="0303a23" ed="T"/>大驗當知。定有障難。即於白月若黑月二日<lb
+ n="0303a24" ed="T"/>八日十五日。牛糞塗地作壇種種供養所作<lb
+ n="0303a25" ed="T"/>成就。金色迦那鉢底白佛言。我當擁護持此<lb
+ n="0303a26" ed="T"/>真言者。若有眾生持此真言者。某人所須<lb
+ n="0303a27" ed="T"/>資財臥具衣服飲食金銀珍寶奴婢從不<lb
+ n="0303a28" ed="T"/>舊乏少。一切真言法速令成所。作就如意。<lb
+ n="0303a29" ed="T"/>其像形人身象頭六臂。於白㲲上畫之。刻<pb n="0303b" id="T21.1269.0303b" ed="T"/><lb
+ n="0303b01" ed="T"/>作用得。白檀紫檀苦練木通用。餘木不得。<lb
+ n="0303b02" ed="T"/>若綵色勿用皮膠。須用香汁及有汁木。其<lb
+ n="0303b03" ed="T"/>身正立。鼻向右曲。左上手把刀。次手把歡<lb
+ n="0303b04" ed="T"/>喜團。下手把劍棒。次手把縛折羅。下手把<lb
+ n="0303b05" ed="T"/>索。身作金色。脚蹈金山。頭上五色雲。雲內有<lb
+ n="0303b06" ed="T"/>四天王及諸仙散華。左邊有俱摩羅淨軍。<lb
+ n="0303b07" ed="T"/>右邊有阿吒薄俱元率大將。向下左畫美<lb
+ n="0303b08" ed="T"/>女。音樂供養立。右畫四大藥叉。各執器仗<lb
+ n="0303b09" ed="T"/>一半頭一猪頭一象頭一馬頭。皆著虎皮<lb
+ n="0303b10" ed="T"/>褌。作像之時莫令見雜人等。書畢。<lb
+ n="0303b11" ed="T"/>燒香清淨不食五辛。於淨室中安置其壇。方<lb
+ n="0303b12" ed="T"/>圓大小隨意作之。壇中燒安悉香白膠沈水<lb
+ n="0303b13" ed="T"/>香等。用隨餅乳粥歡喜團蘇蜜菓子種種供<lb
+ n="0303b14" ed="T"/>養。所作隨心。若鬼神難調伏者。搓白線呪<lb
+ n="0303b15" ed="T"/>之。一遍一結滿四十九結。繫左臂。一切<lb
+ n="0303b16" ed="T"/>鬼悉皆被縛一受持人。不須邪婬妄語作<lb
+ n="0303b17" ed="T"/>誑。其禁食已止芸薹葫荽五辛。不得食。故<lb
+ n="0303b18" ed="T"/>入色孝家生產處。印法并通用。諸毘那翼<lb
+ n="0303b19" ed="T"/>迦法通用。勿親惡人。同行者施之無妨。<lb
+ n="0303b20" ed="T"/>
+</ab><ab type="juan" subtype="close">金色迦那鉢底經</ab></div>
+</body></text></TEI>

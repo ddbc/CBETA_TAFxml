@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">番大悲神呪</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1063</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0114c" id="T20.1063.0114c" ed="T"/><lb
+ n="0114c01" ed="T"/><lb
+ n="0114c03" ed="T"/>
+<ab type="juan" subtype="open">番大悲神呪</ab><lb
+ n="0114c04" ed="T"/><lb
+ n="0114c05" ed="T"/><div type="dharani" level="1"><ab type="dharani">捺麼囉得捺得囉牙牙󰋂麼阿㗚牙<lb
+ n="0114c06" ed="T"/>啞斡盧雞帝說囉牙布提薩咄牙麼曷<lb
+ n="0114c07" ed="T"/>薩咄牙麼曷葛嚕禰葛牙怛爹塔唵<lb
+ n="0114c08" ed="T"/>薩㗚斡板塔捺妻達納葛囉牙薩㗚斡巴鈸薩麼度嚕束攝納葛囉牙薩㗚<lb
+ n="0114c10" ed="T"/>斡月提不囉攝麻捺葛囉牙薩<lb
+ n="0114c11" ed="T"/>㗚斡咿帝烏巴特囉斡月捺攝捺葛<lb
+ n="0114c12" ed="T"/>囉牙薩㗚斡杷宜熟得囉󰋂牙怛薛捺麻思屹哩擔咿擔啞㗚牙啞斡魯結帝說囉怛斡禰辣竿剎󰋂<lb
+ n="0114c15" ed="T"/>麻紇哩達巖啞斡㗚怛葉沙咩薩<lb
+ n="0114c16" ed="T"/>㗚斡啞㗚塔薩塔納束婆疾怛捺<lb
+ n="0114c17" ed="T"/>薩哩斡薩哆喃巴鉢麻㗚葛月束塔<lb
+ n="0114c18" ed="T"/>葛怛爹塔啞斡魯吉魯葛麻疊魯葛葛爹伊<lb
+ n="0114c19" ed="T"/>奚歇麻曷布提薩咄兮布提薩咄兮麻曷布提<lb
+ n="0114c20" ed="T"/>薩埵兮不哩牙布提薩埵兮葛魯禰葛<lb
+ n="0114c21" ed="T"/>思麻囉𠶹哩達巖伊兮歇啞㗚牙啞斡嚕結帝說囉巴囉麻埋得哩即<lb
+ n="0114c23" ed="T"/>怛葛嚕禰葛孤嚕孤嚕葛㗚末薩塔<lb
+ n="0114c24" ed="T"/>牙薩塔牙微店帝兮帝兮迷啞曩葛莽葛末月<lb
+ n="0114c25" ed="T"/>㰠葛末席塔由吉說囉哆呼哆呼尾㗚顏帝<lb
+ n="0114c26" ed="T"/>麻曷尾㗚顏帝塔囉塔囉塔囉禰說囉󰷅<lb
+ n="0114c27" ed="T"/>辣󰷅辣尾麻辣啞麻辣摩㗚帝啞㗚牙啞斡<lb
+ n="0114c28" ed="T"/>嚕結帝說囉屹哩室󰋂唧󰋂拶劄麻孤<lb
+ n="0114c29" ed="T"/>劄啞郎屹哩怛攝哩囉嵐鉢不囉嵐鉢月<pb n="0115a" id="T20.1063.0115a" ed="T"/><lb
+ n="0115a01" ed="T"/>嵐鉢麻曷席塔熟塔塔囉巴辣巴辣麻曷巴<lb
+ n="0115a02" ed="T"/>辣末辣麻辣麻曷末辣󰷅辣󰷅辣麻曷辣󰷅屹<lb
+ n="0115a03" ed="T"/>哩室捺巴徹屹哩室捺<lb
+ n="0115a04" ed="T"/>斡㗚納屹哩室納巴賒聶㗚渴<lb
+ n="0115a05" ed="T"/>怛納兮巴得末曷思達拶牙葛囉禰攝<lb
+ n="0115a06" ed="T"/>拶哩說囉屹哩室納薩㗚巴屹<lb
+ n="0115a07" ed="T"/>哩怛牙𡩶巴尾怛伊兮歇咓囉曷<lb
+ n="0115a08" ed="T"/>麻渴得哩布囉達曷禰說囉󰋂囉牙捺<lb
+ n="0115a09" ed="T"/>巴辣嚕鉢微攝塔哩兮禰辣竿剎兮麻曷<lb
+ n="0115a10" ed="T"/>曷辣曷辣月攝禰㗚唧怛盧葛薛囉<lb
+ n="0115a11" ed="T"/>葛微攝納攝納堆攝微攝納攝納模曷<lb
+ n="0115a12" ed="T"/>微攝捺攝捺儞哩木克徹納呼盧呼盧<lb
+ n="0115a13" ed="T"/>門拶門拶摩呼盧摩呼盧曷辣曷辣麻曷巴<lb
+ n="0115a14" ed="T"/>特麻捺潑薩囉薩囉席哩席哩蘇嚧蘇<lb
+ n="0115a15" ed="T"/>嚧勃鐵勃鐵布塔牙布塔牙布塔牙咩怛斡禰<lb
+ n="0115a16" ed="T"/>辣竿剎夷兮歇禰辣竿剎夷兮歇咓麻<lb
+ n="0115a17" ed="T"/>思貼怛辛曷麻渴曷薩曷薩門拶門拶麻<lb
+ n="0115a18" ed="T"/>曷劄劄哈薩禰㗚捺爹儞伊兮歇蒲蒲麻曷<lb
+ n="0115a19" ed="T"/>悉塔由吉說囉班塔班塔咓咱薩塔牙薩塔<lb
+ n="0115a20" ed="T"/>牙微店思麻囉思麻囉󰺿兮杷葛頑嚕葛<lb
+ n="0115a21" ed="T"/>月魯葛思端怛塔葛達怛達歇迷怛哩賒<lb
+ n="0115a22" ed="T"/>喃不囉薩塔牙迷莎訶席塔牙莎訶麻曷席塔<lb
+ n="0115a23" ed="T"/>牙莎訶席塔由吉說囉牙莎訶禰辣竿剎牙<lb
+ n="0115a24" ed="T"/>莎曷咓囉曷摩渴牙莎曷辛曷摩渴牙莎曷<lb
+ n="0115a25" ed="T"/>麻曷捺囉辛曷摩渴牙莎曷席塔微<lb
+ n="0115a26" ed="T"/>疊塔囉牙莎曷巴特麻曷思塔牙<lb
+ n="0115a27" ed="T"/>莎曷麻曷巴特麻曷思塔牙莎<lb
+ n="0115a28" ed="T"/>曷斡𠷌囉曷思怛牙莎曷麻曷<lb
+ n="0115a29" ed="T"/>斡𠷌囉曷思怛牙莎曷屹哩<pb n="0115b" id="T20.1063.0115b" ed="T"/><lb
+ n="0115b01" ed="T"/>室納薩㗚巴吃哩怛牙𡩶巴尾<lb
+ n="0115b02" ed="T"/>怛牙莎曷麻曷葛辣麻孤劄塔囉牙莎<lb
+ n="0115b03" ed="T"/>曷拶屹囉由塔塔囉牙莎曷商渴<lb
+ n="0115b04" ed="T"/>攝鈸達禰㗚捺怛捺葛囉牙莎曷<lb
+ n="0115b05" ed="T"/>布塔捺葛囉牙莎曷咓末思竿塔低<lb
+ n="0115b06" ed="T"/>攝思鐵怛屹哩室捺啞唧捺牙莎<lb
+ n="0115b07" ed="T"/>曷咓末訶思怛月仡囉拶㗚麻禰<lb
+ n="0115b08" ed="T"/>斡薩捺牙莎曷盧雞說囉牙莎曷<lb
+ n="0115b09" ed="T"/>麻曷盧雞說囉牙莎曷薩里斡席梯說囉<lb
+ n="0115b10" ed="T"/>牙莎曷囉克徹囉克徹慢莎曷孤<lb
+ n="0115b11" ed="T"/>嚕孤嚕囉克徹麼㗚帝喃莎曷捺麼發<lb
+ n="0115b12" ed="T"/>葛咓諦呵哩牙啞斡盧吉帝說囉牙布提<lb
+ n="0115b13" ed="T"/>薩埵牙麻曷薩埵牙麻曷葛嚕禰葛牙席<lb
+ n="0115b14" ed="T"/>甸都迷滿特囉巴達禰莎曷<lb
+ n="0115b15" ed="T"/>
+</ab><ab type="juan" subtype="close">番大悲神呪</ab></div>
+</body></text></TEI>

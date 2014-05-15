@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">速疾立驗魔醯首羅天說阿尾奢法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1277</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0329b" id="T21.1277.0329b" ed="T"/><lb
+ n="0329b01" ed="T"/><lb
+ n="0329b02" ed="T"/><div type="jing" level="1"><lb
+ n="0329b03" ed="T"/>
+<ab type="juan" subtype="open">速疾立驗魔醯首羅天說阿尾<lb
+ n="0329b04" ed="T"/>奢法一卷</ab><lb
+ n="0329b05" ed="T"/><lb
+ n="0329b06" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0329b07" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
+ n="0329b08" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0329b09" ed="T"/>不空奉　詔譯</byline><lb
+ n="0329b10" ed="T"/><ab type="prose">爾時那羅延天。在於香醉山頂。請魔醯首羅<lb
+ n="0329b11" ed="T"/>於自在宮中。供養頭面禮足。白魔醯首羅<lb
+ n="0329b12" ed="T"/>言。我所乘迦樓羅使者。能成辦世間所求事<lb
+ n="0329b13" ed="T"/>要。且不能速疾。唯願大天為未來有情。說<lb
+ n="0329b14" ed="T"/>速疾立驗阿尾奢法。<lb
+ n="0329b15" ed="T"/>時魔醯首羅告那羅延言。汝當諦聽。我為汝<lb
+ n="0329b16" ed="T"/>宣說速疾成辦使者之法。能作息災增益降<lb
+ n="0329b17" ed="T"/>伏敬愛。亦能於夜摩界往來使役。能知未<lb
+ n="0329b18" ed="T"/>來善惡吉凶成敗。旱澇不調隣國侵擾。惡人<lb
+ n="0329b19" ed="T"/>叛亂種種災祥。若欲知未來事者。當簡擇四<lb
+ n="0329b20" ed="T"/>五童男或童女。可年七八歲。身上無瘢痕󰢺<lb
+ n="0329b21" ed="T"/>記。聰慧靈利。先令一七日服素食或三日食。<lb
+ n="0329b22" ed="T"/>凡欲作法。要須吉日或鬼宿或歲宿直。甘露<lb
+ n="0329b23" ed="T"/>直直日最勝。沐浴遍身塗香。著淨衣口含<lb
+ n="0329b24" ed="T"/>龍腦豆䓻。持誦者面向東坐。身前以白檀香<lb
+ n="0329b25" ed="T"/>塗一小壇。可一肘量。令童女等立於壇上。散<lb
+ n="0329b26" ed="T"/>花於童女前。置一閼伽爐取安息香。以大<lb
+ n="0329b27" ed="T"/>印真言加持七遍。燒令童女熏手。又取赤花<lb
+ n="0329b28" ed="T"/>加持七遍。安童女掌中。便以手掩面。則持誦<lb
+ n="0329b29" ed="T"/>者結大印。二手合掌外相交。左押右虛其掌<pb n="0329c" id="T21.1277.0329c" ed="T"/><lb
+ n="0329c01" ed="T"/>即成。以此印加持自身五處。所謂額右肩左<lb
+ n="0329c02" ed="T"/>肩心喉。頂上散印即誦真言曰。<lb
+ n="0329c03" ed="T"/></ab>
+<ab type="dharani">曩謨婆誐嚩底摩賀母捺㘈迦吒<lb
+ n="0329c04" ed="T"/>攞施棄底哩施㘈底哩路左儞伊<lb
+ n="0329c05" ed="T"/>捨儞跛輸跛帝娑嚩賀<lb
+ n="0329c06" ed="T"/></ab>
+<ab type="prose">則以此印按其童女頂。則想於頭上。三角赤<lb
+ n="0329c07" ed="T"/>色熾盛火輪。光誦真言七遍。火輪真言曰。<lb
+ n="0329c08" ed="T"/></ab>
+<ab type="dharani">唵阿儗儞施棄娑嚩賀<lb
+ n="0329c09" ed="T"/></ab>
+<ab type="prose">則以此印按童女口上。於彼口中想水輪。白<lb
+ n="0329c10" ed="T"/>色半月形。誦真言七遍。真言曰。<lb
+ n="0329c11" ed="T"/></ab>
+<ab type="dharani">唵惹攞祖哩拏摩抳娑嚩賀<lb
+ n="0329c12" ed="T"/></ab>
+<ab type="prose">次應移印按彼心中。想地輪形方黃色。誦七<lb
+ n="0329c13" ed="T"/>遍真言曰。<lb
+ n="0329c14" ed="T"/></ab>
+<ab type="dharani">唵摩賀麼攞跛囉訖囉摩娑嚩<lb
+ n="0329c15" ed="T"/>賀<lb
+ n="0329c16" ed="T"/></ab>
+<ab type="prose">次應移印按彼臍中。想風輪其形圓黑色。誦<lb
+ n="0329c17" ed="T"/>七遍真言曰。<lb
+ n="0329c18" ed="T"/></ab>
+<ab type="dharani">唵尾曩多句攞曩那娑嚩賀<lb
+ n="0329c19" ed="T"/></ab>
+<ab type="prose">次應以大印加持彼兩脚。想迦樓羅誦真言<lb
+ n="0329c20" ed="T"/>曰。<lb
+ n="0329c21" ed="T"/></ab>
+<ab type="dharani">唵跛乞史囉惹跛那娑嚩賀<lb
+ n="0329c22" ed="T"/></ab>
+<ab type="prose">次應以大印誦甲冑真言。加持童女遍身旋<pb n="0330a" id="T21.1277.0330a" ed="T"/><lb
+ n="0330a01" ed="T"/>轉。真言曰。<lb
+ n="0330a02" ed="T"/></ab>
+<ab type="dharani">唵迦嚩左摩部多地跛帝娑嚩<lb
+ n="0330a03" ed="T"/>賀<lb
+ n="0330a04" ed="T"/></ab>
+<ab type="prose">行者次應自身為魔醯首羅天。三目頭冠瓔<lb
+ n="0330a05" ed="T"/>珞莊嚴。頭冠上有佛半月。項上青。十八臂。<lb
+ n="0330a06" ed="T"/>手持種種器仗。以龍為紳線。角絡繫。又彼<lb
+ n="0330a07" ed="T"/>塗血寫及。須臾頃觀自身已。次應以大印護<lb
+ n="0330a08" ed="T"/>彼童女一百八命節。真言曰。<lb
+ n="0330a09" ed="T"/></ab>
+<ab type="dharani">唵蜜哩體尾野吒多惹縛<lb
+ n="0330a10" ed="T"/>揄囉迦苫<lb
+ n="0330a11" ed="T"/></ab>
+<ab type="prose">結其大印及誦真言。遍身旋繞加持。則護一<lb
+ n="0330a12" ed="T"/>百八種命節。<lb
+ n="0330a13" ed="T"/>次又以大印。真言加持花香及閼伽等。<lb
+ n="0330a14" ed="T"/>次又以大印真言結十方界。則應對此童女<lb
+ n="0330a15" ed="T"/>前。誦魔醯首羅使者真言曰。<lb
+ n="0330a16" ed="T"/></ab>
+<ab type="dharani">唎躋吒迦麼多那誐尾灑娜跛拏薩<lb
+ n="0330a17" ed="T"/>摩那誐囉尾訖囉摩尾羅薩誐底<lb
+ n="0330a18" ed="T"/>𠼝濟吒迦布囉哩跛擔囕左羅<lb
+ n="0330a19" ed="T"/>左羅左里左里跛拏跛拏跛尼<lb
+ n="0330a20" ed="T"/>跛尼伴爾伴爾羯恥羯恥阿<lb
+ n="0330a21" ed="T"/>尾捨阿尾捨𠼝躋吒迦嚕奴噌<lb
+ n="0330a22" ed="T"/>抧孃跋野底娑嚩賀<lb
+ n="0330a23" ed="T"/></ab>
+<ab type="prose">此真言應誦七遍。則彼童女戰動。當知聖者<lb
+ n="0330a24" ed="T"/>入身。則更彈指誦真言。若無現驗。次誦摧<lb
+ n="0330a25" ed="T"/>迫使者真言曰。<lb
+ n="0330a26" ed="T"/></ab>
+<ab type="dharani">𠼝𠼝耶摩魯呬多素囉素囉布<lb
+ n="0330a27" ed="T"/>爾多賀那賀那波囉憾麼那尼<lb
+ n="0330a28" ed="T"/>那覩嚕尼都嚕尼謨尼謨尼<lb
+ n="0330a29" ed="T"/>伴爾伴爾羯恥羯恥阿尾捨阿尾<pb n="0330b" id="T21.1277.0330b" ed="T"/><lb
+ n="0330b01" ed="T"/>捨𠼝躋吒迦嚕奴噌枳孃跛<lb
+ n="0330b02" ed="T"/>野帝娑嚩訶<lb
+ n="0330b03" ed="T"/></ab>
+<ab type="prose">誦此真言必速應驗。問未來善惡一切災祥。<lb
+ n="0330b04" ed="T"/>若不語或語遲。則結棒印。<lb
+ n="0330b05" ed="T"/>二手合掌。二無名指外支。二中指並立。二<lb
+ n="0330b06" ed="T"/>頭指各鉤無名指頭。二大指各令押中交。誦<lb
+ n="0330b07" ed="T"/>真言曰。<lb
+ n="0330b08" ed="T"/></ab>
+<ab type="dharani">唵母那誐囉都嚕都嚕娑嚩賀<lb
+ n="0330b09" ed="T"/><lb
+ n="0330b10" ed="T"/></ab>
+<ab type="prose">結此棒印。則語問種種事已。以大印真言加<lb
+ n="0330b11" ed="T"/>持閼伽。三灑童女面。即結解。此使者真言<lb
+ n="0330b12" ed="T"/>先應誦一萬遍則法成。則見身來。須獻閼伽<lb
+ n="0330b13" ed="T"/>乞願。願聖者一切處一切時使用皆辦。則隱<lb
+ n="0330b14" ed="T"/>不現。已後欲使。塗一小壇著香花飲食。誦真<lb
+ n="0330b15" ed="T"/>言一百八遍。則現身。則言龍宮中取長年藥<lb
+ n="0330b16" ed="T"/>如意寶珠。或使夜摩王處。延命增益壽命。或<lb
+ n="0330b17" ed="T"/>使上取妙甘露。或使他國問其善惡。亦能助<lb
+ n="0330b18" ed="T"/>軍陣摧破他敵。種種使用悉能成辦。此法一<lb
+ n="0330b19" ed="T"/>切迦樓羅法中最殊勝。祕密難得。汝當揀擇<lb
+ n="0330b20" ed="T"/>法器堪傳授者而傳與。非人器人即損他。已<lb
+ n="0330b21" ed="T"/>後此法不成。是故應極祕密勿妄傳受之。大<lb
+ n="0330b22" ed="T"/>自在天迦樓羅陀羅尼曰。<lb
+ n="0330b23" ed="T"/></ab>
+<ab type="dharani">那謨婆伽嚩底嚕馱囉野瞋那劫波囉野<lb
+ n="0330b24" ed="T"/>薩嚩微那延迦囉野薩嚩羯摩莎馱那<lb
+ n="0330b25" ed="T"/>野薩嚩嚩尸迦羅拏野薩嚩設覩嚕<lb
+ n="0330b26" ed="T"/>尾那捨那野唵迦波羅質擔瞋那迦<lb
+ n="0330b27" ed="T"/>波羅部擔嚕訥嚕枳孃跛野帝<lb
+ n="0330b28" ed="T"/>娑嚩賀<lb
+ n="0330b29" ed="T"/></ab>
+<ab type="prose">此陀羅尼。調伏人取赤芭蕉葉畫彼人。心上<pb n="0330c" id="T21.1277.0330c" ed="T"/><lb
+ n="0330c01" ed="T"/>書名字。誦陀羅尼一百八遍。即埋牛糞中即<lb
+ n="0330c02" ed="T"/>調伏。欲令竪子對相憎。多羅葉畫彼男女形。<lb
+ n="0330c03" ed="T"/>書名相背。取線纏。取鼠狼毛山鷄毛蛇退皮<lb
+ n="0330c04" ed="T"/>燒熏。誦陀羅尼一百八遍。安劫波羅中。即於<lb
+ n="0330c05" ed="T"/>屍林中埋著。便相憎。除却依舊。若令相憐者。<lb
+ n="0330c06" ed="T"/>還於多羅葉上畫彼夫形。書名相合。取白線<lb
+ n="0330c07" ed="T"/>繫。取雀兒毛蛇皮燒熏。誦陀羅尼一百八遍。<lb
+ n="0330c08" ed="T"/>即相憐。<lb
+ n="0330c09" ed="T"/>又法欲令人相打。於大虫皮或於牛皮。畫二<lb
+ n="0330c10" ed="T"/>人相把頭髻。書名著。取線纏著。於火上重。<lb
+ n="0330c11" ed="T"/>埋碓臼下。即得日日相打。除劫止。<lb
+ n="0330c12" ed="T"/>又法若欲調伏人者。取貝多葉上畫人形。書<lb
+ n="0330c13" ed="T"/>名誦陀羅尼一百八遍。即於床下埋。即得調<lb
+ n="0330c14" ed="T"/>伏。<lb
+ n="0330c15" ed="T"/>又法令尿血者。取多羅葉畫彼人。書姓名。取<lb
+ n="0330c16" ed="T"/>釘誦陀羅尼一百八遍。釘上七七日。即得除<lb
+ n="0330c17" ed="T"/>去。<lb
+ n="0330c18" ed="T"/>次說眼藥法。若調伏竪子者。取蛇頭竭羅安<lb
+ n="0330c19" ed="T"/>善那青木香寫甲蜂二介。於黑月十四日<lb
+ n="0330c20" ed="T"/>擣作抹。和肉點眼角。一切竪子隨逐。天上<lb
+ n="0330c21" ed="T"/>亦來非但人間也。<pb n="0331a" id="T21.1277.0331a" ed="T"/><lb
+ n="0331a01" ed="T"/>
+</ab><ab type="juan" subtype="close">速疾立驗魔醯首羅天說迦婁羅阿尾奢法<lb
+ n="0331a02" ed="T"/>一卷</ab></div>
+</body></text></TEI>

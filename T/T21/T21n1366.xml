@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說祕密八名陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1366</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0884b" id="T21.1366.0884b" ed="T"/><lb
+ n="0884b01" ed="T"/><lb
+ n="0884b02" ed="T"/><div type="jing" level="1"><lb
+ n="0884b03" ed="T"/>
+<ab type="juan" subtype="open">佛說祕密八名陀羅尼經</ab><lb
+ n="0884b04" ed="T"/><lb
+ n="0884b05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0884b06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0884b07" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0884b08" ed="T"/>與大比丘眾千二百五十人俱。復有諸菩薩<lb
+ n="0884b09" ed="T"/>摩訶薩眾。金剛手而為上首。<lb
+ n="0884b10" ed="T"/>爾時世尊告金剛手菩薩大祕密主言。如汝<lb
+ n="0884b11" ed="T"/>本部號金剛部。於持明藏中最上甚深祕密<lb
+ n="0884b12" ed="T"/>之法。眾生淺識根器狹劣。於祕密義難信難<lb
+ n="0884b13" ed="T"/>解。汝已先說難信解法。汝不依法非曰聖人。<lb
+ n="0884b14" ed="T"/>得名不善亦曰難調。金剛手我今於汝金剛<lb
+ n="0884b15" ed="T"/>部中。略說汝之祕密八名及陀羅尼。是陀羅<lb
+ n="0884b16" ed="T"/>尼若持誦者。於諸所求易得成就。若人聞此<lb
+ n="0884b17" ed="T"/>陀羅尼經。發至誠心受持讀誦者。是人所有<lb
+ n="0884b18" ed="T"/>無間罪業悉皆消滅。持是經時法威力故。所<lb
+ n="0884b19" ed="T"/>有八萬四千俱胝那由他諸惡魔眾。退散馳<lb
+ n="0884b20" ed="T"/>走十方世界。若人聞此陀羅尼歡喜願樂者。<lb
+ n="0884b21" ed="T"/>是人不持戒者得戒完具。非梵行者得成梵<lb
+ n="0884b22" ed="T"/>行。非寂靜者得成寂靜。乃至得見諸佛菩薩<lb
+ n="0884b23" ed="T"/>歡喜安慰。施所求願令得成就。<lb
+ n="0884b24" ed="T"/>爾時金剛手菩薩蒙佛誨責。頭面作禮白言<lb
+ n="0884b25" ed="T"/>世尊。我先所說誠如聖旨。唯願世尊不捨大<lb
+ n="0884b26" ed="T"/>悲。普為現在及與未來一切眾生。宣說於我<lb
+ n="0884b27" ed="T"/>八種祕密名字及陀羅尼。令諸眾生獲大利<lb
+ n="0884b28" ed="T"/>益。<lb
+ n="0884b29" ed="T"/>佛告金剛手言。諦聽諦聽。我於最勝持明藏<pb n="0884c" id="T21.1366.0884c" ed="T"/><lb
+ n="0884c01" ed="T"/>金剛部中。說汝祕密八名。一名象耳。二名妙<lb
+ n="0884c02" ed="T"/>莊嚴。三名功德寶海。四名無動。五名真實<lb
+ n="0884c03" ed="T"/>雲。六名可愛色相。七名焰光。八名妙色。金<lb
+ n="0884c04" ed="T"/>剛手此即是汝祕密八名。即說陀羅尼曰。<lb
+ n="0884c05" ed="T"/></ab>
+<ab type="dharani">那謨沒馱野那謨達哩摩野那<lb
+ n="0884c06" ed="T"/>謨僧伽野那謨嚩日囉播拏野<lb
+ n="0884c07" ed="T"/>怛󰍕他遏致渴囉致蘇摩目<lb
+ n="0884c08" ed="T"/>契薩哩囉哥哩也尼娑達野呬<lb
+ n="0884c09" ed="T"/>哩彌哩咥尼悉殿覩滿怛囉鉢<lb
+ n="0884c10" ed="T"/>那莎賀<lb
+ n="0884c11" ed="T"/></ab>
+<ab type="prose">佛告金剛手菩薩言。如是祕密名及陀羅尼。<lb
+ n="0884c12" ed="T"/>若復有人受持讀誦者。是人於七俱胝那由<lb
+ n="0884c13" ed="T"/>他百千劫不墮地獄臨命終時諸佛菩薩。現<lb
+ n="0884c14" ed="T"/>身面前安慰說法。命終之後生兜率陀天。<lb
+ n="0884c15" ed="T"/>佛說是經已。金剛手菩薩等諸菩薩。及一切<lb
+ n="0884c16" ed="T"/>世間天人阿脩羅乾闥婆人非人等。聞佛所<lb
+ n="0884c17" ed="T"/>說皆大歡喜信受奉行。<lb
+ n="0884c18" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說祕密八名陀羅尼經</ab></div>
+</body></text></TEI>

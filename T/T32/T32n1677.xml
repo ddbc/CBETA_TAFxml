@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">三身梵讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T32</biblScope>
+                    <idno type="Taisho">T32n1677</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0757a04" ed="T"/><lb
+ n="0757a05" ed="T"/><div type="jing" level="1"><lb
+ n="0757a06" ed="T"/>
+<ab type="juan" subtype="open">三身梵讚</ab><lb
+ n="0757a07" ed="T"/><lb
+ n="0757a08" ed="T"/><byline>西天譯經三藏朝散大夫試光祿<lb
+ n="0757a09" ed="T"/>卿明教大師臣法賢奉　詔譯</byline><lb
+ n="0757a10" ed="T"/><ab type="dharani">踰乃酤那鼈泥哥莎波羅呬多<lb
+ n="0757a11" ed="T"/>摩賀三鉢那陀囉部都乃嚩婆<lb
+ n="0757a12" ed="T"/>巫那婆嚩朅彌嚩三摩囉蘇訥哩尾<lb
+ n="0757a13" ed="T"/>婆嚩莎婆嚩儞哩梨邦儞哩尾哥<lb
+ n="0757a14" ed="T"/>囕始嚩末三摩三莾咩必曩𡫸鉢囉半<lb
+ n="0757a15" ed="T"/>左滿禰鉢囉爹咄摩味捺焬怛<lb
+ n="0757a16" ed="T"/>摩喝摩耨波莾達哩摩哥野𡁠那喃<lb
+ n="0757a17" ed="T"/>路哥帝多末進爹速訖哩多三摩<lb
+ n="0757a18" ed="T"/>發朗摩咄摩努踰尾部鼎波哩殺<lb
+ n="0757a19" ed="T"/>努末提尾唧怛囕薩多鉢野底摩<lb
+ n="0757a20" ed="T"/>賀底提末當必麗底係都沒馱<lb
+ n="0757a21" ed="T"/>喃薩哩嚩路哥鉢囉室哩多末<lb
+ n="0757a22" ed="T"/>尾囉都那囉薩達哩摩具爽滿禰<lb
+ n="0757a23" ed="T"/>三菩誐哥焬怛摩喝禰喝摩賀達哩摩<lb
+ n="0757a24" ed="T"/>囉𡁠焬鉢囉底瑟吒薩埵喃播<lb
+ n="0757a25" ed="T"/>哥係都聒唧那曩羅以嚩婆底踰<lb
+ n="0757a26" ed="T"/>禰鼈摩那三冐桃達哩摩作訖麗<lb
+ n="0757a27" ed="T"/>聒唧捺必左補那囉捺哩設帝󰱺鉢囉<lb
+ n="0757a28" ed="T"/>扇當乃哥哥囉鉢囉沒哩當帝<lb
+ n="0757a29" ed="T"/>哩婆嚩跋野喝囕尾說嚕閉嚕播󰱺滿禰儞哩嚩拏哥野捺舍禰誐<lb
+ n="0757b02" ed="T"/>耨誐當當摩賀哩湯牟泥那薩埵<lb
+ n="0757b03" ed="T"/>哩台哥訖哩播拏末波哩彌多摩賀<lb
+ n="0757b04" ed="T"/>倪也那奔女捺夜曩哥夜曩<lb
+ n="0757b05" ed="T"/>蘇誐多曩鉢囉底尾誐多末努嚩<lb
+ n="0757b06" ed="T"/>酤鉢他曩怛囉夜𧹞訖哩埵<lb
+ n="0757b07" ed="T"/>薄訖爹鉢囉拏莾酤舍羅母波唧<lb
+ n="0757b08" ed="T"/>當󰱺拏摩夜冒提味惹帝哩哥夜<lb
+ n="0757b09" ed="T"/>悉帝那臘沒陀若誐禰那末企朗<lb
+ n="0757b10" ed="T"/>冐提摩哩詣𡫸喻惹帝哩哥野薩<lb
+ n="0757b11" ed="T"/>怛嚩三摩鉢多<lb
+ n="0757b12" ed="T"/>
+</ab><ab type="juan" subtype="close">三身梵讚</ab></div>
+</body></text></TEI>

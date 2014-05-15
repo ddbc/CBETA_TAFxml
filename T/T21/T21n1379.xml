@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說大愛陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1379</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0902b17" ed="T"/><lb
+ n="0902b18" ed="T"/><lb
+ n="0902b19" ed="T"/><div type="jing" level="1"><lb
+ n="0902b20" ed="T"/>
+<ab type="juan" subtype="open">佛說大愛陀羅尼經</ab><lb
+ n="0902b21" ed="T"/><lb
+ n="0902b22" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0902b23" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0902b24" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0902b25" ed="T"/>時有海神名曰大愛。來詣佛所到佛所已。頭<lb
+ n="0902b26" ed="T"/>面著地禮佛雙足。却住一面而白佛言。世尊<lb
+ n="0902b27" ed="T"/>我有所願利益眾生。惟佛哀愍許我宣說。<lb
+ n="0902b28" ed="T"/>爾時世尊知大愛心有大利益。而告之曰善<lb
+ n="0902b29" ed="T"/>哉善哉。汝為利益隨汝意說。<pb n="0902c" id="T21.1379.0902c" ed="T"/><lb
+ n="0902c01" ed="T"/>爾時大愛蒙佛聽許。而白佛言。我與眷屬住<lb
+ n="0902c02" ed="T"/>於大海。多見眾生陷於海難。愍念此等欲說<lb
+ n="0902c03" ed="T"/>陀羅尼。令彼海難無能為害。世尊若有善<lb
+ n="0902c04" ed="T"/>男子善女人乃至苾芻苾芻尼優婆塞優婆夷<lb
+ n="0902c05" ed="T"/>等。聞此陀羅尼讀誦受持。及得聞我與眷屬<lb
+ n="0902c06" ed="T"/>等名者。所有大海一切危難悉皆解脫。爾時<lb
+ n="0902c07" ed="T"/>大愛承佛威力。即說陀羅尼曰。<lb
+ n="0902c08" ed="T"/></ab>
+<ab type="dharani">怛󰍕他祖嚕祖嚕吐蘭達哩摩<lb
+ n="0902c09" ed="T"/>賀謗哥悉體帝酤儞瑟哥儞<lb
+ n="0902c10" ed="T"/>瑟計阿那護拶鉢黎祖嚕祖嚕三<lb
+ n="0902c11" ed="T"/>滿多跋󰋂哩阿屹儞作訖哩作訖<lb
+ n="0902c12" ed="T"/>囉多朗補囉儗儞娑嚩賀<lb
+ n="0902c13" ed="T"/></ab>
+<ab type="prose">爾時大愛海神承佛聖旨。說此陀羅尼已。歡<lb
+ n="0902c14" ed="T"/>喜踊躍禮佛而退。<lb
+ n="0902c15" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說大愛陀羅尼經</ab></div>
+</body></text></TEI>

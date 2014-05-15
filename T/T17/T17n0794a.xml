@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說時非時經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0794a</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0738b08" ed="T"/><lb
+ n="0738b09" ed="T"/><lb
+ n="0738b10" ed="T"/><lb
+ n="0738b11" ed="T"/>
+<ab type="juan" subtype="open">佛說時非時經</ab><lb
+ n="0738b12" ed="T"/><lb
+ n="0738b13" ed="T"/><byline>天竺三藏若羅嚴譯</byline><lb
+ n="0738b14" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛在王舍城鵲封竹園。是時，<lb
+ n="0738b15" ed="T"/>佛告諸比丘：「我當為汝說：時與非時。善思念<lb
+ n="0738b16" ed="T"/>之！」諸比丘言：「如是。世尊！當受教聽。」佛告諸比<lb
+ n="0738b17" ed="T"/>丘：「是中何者為時？何者為非時？比丘當知：<lb
+ n="0738b18" ed="T"/>「冬分八月十六日至三十日七脚為時，五脚<lb
+ n="0738b19" ed="T"/>半非時。九月一日至十五日八脚為時，六脚<lb
+ n="0738b20" ed="T"/>八指為非時。九月十六日至三十日九脚為<lb
+ n="0738b21" ed="T"/>時，七脚六指為非時。十月一日至十五日十<lb
+ n="0738b22" ed="T"/>脚為時，八脚三指為非時。十月十六日至三<lb
+ n="0738b23" ed="T"/>十日十一脚為時，九脚三指為非時。十一月<lb
+ n="0738b24" ed="T"/>一日至十五日十二脚為時，十脚六指為非<lb
+ n="0738b25" ed="T"/>時。十一月十六日至三十日十一脚半為時，<lb
+ n="0738b26" ed="T"/>十脚一指為非時。十二月一日至十五日十<lb
+ n="0738b27" ed="T"/>一脚為時，九脚四指為非時。<lb
+ n="0738b28" ed="T"/>「春分十二月十六日至三十日十脚為時，八<lb
+ n="0738b29" ed="T"/>脚少一指為非時。正月一日至十五日九脚<pb n="0738c" ed="T" id="T17.0794a.0738c"/><lb
+ n="0738c01" ed="T"/>半為時，七脚少三指為非時。正月十六日至<lb
+ n="0738c02" ed="T"/>三十日九脚為時，六脚少三指為非時。二月<lb
+ n="0738c03" ed="T"/>一日至十五日八脚為時，五脚為非時。二月<lb
+ n="0738c04" ed="T"/>十六日至三十日七脚為時，四脚少三指為<lb
+ n="0738c05" ed="T"/>非時。三月一日至十五日六脚為時，三脚少<lb
+ n="0738c06" ed="T"/>四指為非時。三月十六日至三十日五脚為<lb
+ n="0738c07" ed="T"/>時，三脚少六指為非時。四月一日至十五日<lb
+ n="0738c08" ed="T"/>四脚為時，二脚少一指為非時。<lb
+ n="0738c09" ed="T"/>「夏分四月十六日至三十日三脚為時，二脚<lb
+ n="0738c10" ed="T"/>少四指為非時。五月一日至十五日二脚為<lb
+ n="0738c11" ed="T"/>時，少三指為非時。五月十六日至三十日二<lb
+ n="0738c12" ed="T"/>脚半為時，一脚少為非時。六月一日至十五<lb
+ n="0738c13" ed="T"/>日四脚為時，二脚少二指為非時。六月十六<lb
+ n="0738c14" ed="T"/>日至三十日四脚半為時，二脚半為非時。七<lb
+ n="0738c15" ed="T"/>月一日至十五日五脚為時，三脚少為非時。<lb
+ n="0738c16" ed="T"/>七月十六日至三十日五脚半為時，三脚少<lb
+ n="0738c17" ed="T"/>為非時。八月一日至十五日六脚為時，四脚<lb
+ n="0738c18" ed="T"/>少為非時。八月十六日至三十日六脚半為<lb
+ n="0738c19" ed="T"/>時，四脚半少為非時。<lb
+ n="0738c20" ed="T"/>「如是，諸比丘！我已說十二月時與非時。為諸<lb
+ n="0738c21" ed="T"/>聲聞之所應作，憐愍利益故說。我所應作已<lb
+ n="0738c22" ed="T"/>竟，汝等當行。若樹下空處，露坐思惟。諸比丘！<lb
+ n="0738c23" ed="T"/>莫為放逸，後為悔恨。是我所教誡。」佛說經竟。<lb
+ n="0738c24" ed="T"/>時諸比丘皆大歡喜，勸助受持：<lb
+ n="0738c25" ed="T"/></ab>
+<ab type="verse">
+「因緣輕慢故，　　命終墮惡道，　　<lb
+ n="0738c26" ed="T"/>因緣修善者，　　於此生天上，　　<lb
+ n="0738c27" ed="T"/>緣斯修善業，　　離惡得解脫，　　<lb
+ n="0738c28" ed="T"/>不善觀因緣，　　身壞入惡道。」　　
+</ab><lb
+ n="0738c29" ed="T"/><ab type="prose">外國法師若羅嚴，手執胡本，口自宣譯。涼州<pb n="0739a" ed="T" id="T17.0794a.0739a"/><lb
+ n="0739a01" ed="T"/>道人，干填城中寫訖。<lb
+ n="0739a02" ed="T"/>被褐懷玉，深智作愚；外如夷人，內懷明珠；千<lb
+ n="0739a03" ed="T"/>億萬劫，與道同體。</ab></div><lb
+ n="0739a04" ed="T"/>
+<ab type="juan" subtype="close">佛說時非時經</ab>
+</body></text></TEI>

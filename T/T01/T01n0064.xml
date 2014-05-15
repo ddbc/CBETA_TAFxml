@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">瞻婆比丘經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0064</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0862b02" ed="T"/><lb
+ n="0862b03" ed="T"/><lb
+ n="0862b04" ed="T"/><div type="jing" level="1"><lb
+ n="0862b05" ed="T"/>
+<ab type="juan" subtype="open">佛說瞻婆比丘經</ab><lb
+ n="0862b06" ed="T"/><lb
+ n="0862b07" ed="T"/><byline>西晉三藏法師法炬譯</byline><lb
+ n="0862b08" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在瞻婆恒伽上法賴池<lb
+ n="0862b09" ed="T"/>水上。彼時，世尊十五日說戒，在比丘僧前坐。<lb
+ n="0862b10" ed="T"/>世尊坐已，觀諸比丘意之所念。觀諸比丘意<lb
+ n="0862b11" ed="T"/>之所念已，夜初一分時坐默然住。於是，有異<lb
+ n="0862b12" ed="T"/>比丘從坐起，一向著衣，叉手向世尊，白世尊<lb
+ n="0862b13" ed="T"/>曰：「唯，世尊！夜一時已過，世尊及比丘僧坐已<lb
+ n="0862b14" ed="T"/>久，唯願世尊，當說戒。」彼時，世尊默然住。世<lb
+ n="0862b15" ed="T"/>尊至夜半默然坐住，彼比丘再叉手向世尊，<lb
+ n="0862b16" ed="T"/>白世尊曰：「唯，世尊！夜已過初時，夜已過半。<lb
+ n="0862b17" ed="T"/>世尊！比丘僧坐已久，唯願世尊，當說戒。」彼<lb
+ n="0862b18" ed="T"/>時世尊亦默然住。彼時世尊於夜半後坐默<lb
+ n="0862b19" ed="T"/>然住，彼比丘三叉手向世尊，白世尊曰：「唯<lb
+ n="0862b20" ed="T"/>願世尊，夜已過初時，夜已過半，夜已過半<lb
+ n="0862b21" ed="T"/>後明星欲出，不久當明星出。世尊！比丘僧坐<lb
+ n="0862b22" ed="T"/>已久，唯願世尊，當說戒。」彼時，世尊告此比<lb
+ n="0862b23" ed="T"/>丘曰：「我比丘眾中有不淨者。」彼時尊者大目<lb
+ n="0862b24" ed="T"/>乾連亦在眾中會，眾中會已，於是尊者大目<lb
+ n="0862b25" ed="T"/>乾連作是念：「世尊為說何比丘？言眾中有不<lb
+ n="0862b26" ed="T"/>淨。我寧可作如其像三昧正受，以三昧意，<lb
+ n="0862b27" ed="T"/>觀諸比丘意之所念。」於是尊者大目乾連，即<lb
+ n="0862b28" ed="T"/>如其像三昧正受，以三昧意觀諸比丘意之<lb
+ n="0862b29" ed="T"/>所念。尊者大目乾連即便知之，世尊所為比<pb n="0862c" ed="T" id="T01.0064.0862c"/><lb
+ n="0862c01" ed="T"/>丘。於是尊者大目乾連從三昧起，便至彼比<lb
+ n="0862c02" ed="T"/>丘所，到已牽彼比丘臂將出門外：「汝愚人去！<lb
+ n="0862c03" ed="T"/>汝不應在此宿，無有比丘共汝住者，汝今<lb
+ n="0862c04" ed="T"/>為比丘外。」於是尊者大目乾連牽彼比丘<lb
+ n="0862c05" ed="T"/>臂將出門外，反閉門，閉門已，至世尊所，<lb
+ n="0862c06" ed="T"/>到已禮世尊足，却坐一面。尊者大目乾連<lb
+ n="0862c07" ed="T"/>却一面已，白世尊曰：「世尊！所說比丘者，言<lb
+ n="0862c08" ed="T"/>眾中有不淨，我已牽彼比丘臂將出門外。『汝<lb
+ n="0862c09" ed="T"/>愚人去，汝不應在此宿，無有比丘共住汝，今<lb
+ n="0862c10" ed="T"/>比丘為是外。』唯世尊！已過夜初分，已過夜<lb
+ n="0862c11" ed="T"/>半，已過夜半後，夜已欲曉明星出時，明星<lb
+ n="0862c12" ed="T"/>不久當出。世尊！比丘僧坐已久，願世尊，<lb
+ n="0862c13" ed="T"/>當說戒。」「汝目乾連！彼愚癡人為多受罪，<lb
+ n="0862c14" ed="T"/>而觸嬈世尊及比丘僧。若目乾連！眾中有<lb
+ n="0862c15" ed="T"/>不淨比丘，如來說戒者，彼愚人頭當破為七<lb
+ n="0862c16" ed="T"/>分。是故汝，目乾連！從今日始，汝等當共說<lb
+ n="0862c17" ed="T"/>戒，如來不復來說戒。何以故？目乾連！此<lb
+ n="0862c18" ed="T"/>一愚人如是過已，過觀而觀屈申卷舒，持<lb
+ n="0862c19" ed="T"/>僧伽梨衣鉢，而於他梵行者自言是梵行。<lb
+ n="0862c20" ed="T"/>此目乾連！若人言是梵行者，若人作是念：<lb
+ n="0862c21" ed="T"/>『沙門為幻，沙門為麤，沙門為刺，沙門非言。』如<lb
+ n="0862c22" ed="T"/>是知已，便棄著外。何以故？恐壞餘淨比丘故。<lb
+ n="0862c23" ed="T"/>猶若，目乾連！成就稻田麥田，若中有惡草<lb
+ n="0862c24" ed="T"/>生，彼草根如麥根，枝節葉實亦如是，未成其<lb
+ n="0862c25" ed="T"/>子當棄之。目乾連！若成子已，彼田居士便<lb
+ n="0862c26" ed="T"/>作是念：『此為是壞麥子之草，麥之刺、麥之麤。』<lb
+ n="0862c27" ed="T"/>彼便拔，棄著外。何以故？恐壞餘淨麥故。如是，<lb
+ n="0862c28" ed="T"/>目乾連！若有一愚人作是念過已，過觀而觀<lb
+ n="0862c29" ed="T"/>屈申卷舒，持僧伽梨衣鉢，而於餘梵行者自<pb n="0863a" ed="T" id="T01.0064.0863a"/><lb
+ n="0863a01" ed="T"/>言是梵行者。若，目乾連！他稱言是梵行者，<lb
+ n="0863a02" ed="T"/>彼若作是念：『此沙門壞，此沙門刺，此沙門麤，<lb
+ n="0863a03" ed="T"/>此沙門非言。』彼知已，便棄著外。何以故？恐壞<lb
+ n="0863a04" ed="T"/>餘淨比丘故。猶若，目乾連！彼田居士，於冬<lb
+ n="0863a05" ed="T"/>月時治大穀積，若彼穀所有堅固住者，一向<lb
+ n="0863a06" ed="T"/>皆離去，謂所有若草若葉，彼揚著風中一向<lb
+ n="0863a07" ed="T"/>吹去，彼田居士，執掃󰆠在中是。目乾連！若<lb
+ n="0863a08" ed="T"/>愚人作是行過已，過觀穀故。如是，目乾連！若<lb
+ n="0863a09" ed="T"/>一愚人，作是行過已，過觀而觀屈申卷舒，持<lb
+ n="0863a10" ed="T"/>僧伽梨衣鉢，而於他梵行者，自言是梵行者。<lb
+ n="0863a11" ed="T"/>若，目乾連！他稱是梵行者，他作是念：『此沙門<lb
+ n="0863a12" ed="T"/>壞，此沙門麤，此沙門刺。』彼知已，棄著外。何以<lb
+ n="0863a13" ed="T"/>故？恐壞餘比丘故。猶，目乾連！彼田居士，彼<lb
+ n="0863a14" ed="T"/>求水欲通水，執極利斧入於林中，彼執斧㭬<lb
+ n="0863a15" ed="T"/>樹，謂彼所有樹堅固住而不可入。謂所有枯<lb
+ n="0863a16" ed="T"/>樹打已斧則陷入。田居士截其根，截根已通<lb
+ n="0863a17" ed="T"/>其中，通其中已便作木筧凾通水。如是。目乾<lb
+ n="0863a18" ed="T"/>連！或一愚人作如是行過已，過觀而觀屈申<lb
+ n="0863a19" ed="T"/>卷舒。持僧伽梨衣鉢，而於他梵行者，自言是<lb
+ n="0863a20" ed="T"/>梵行者。若。目乾連！他稱言是梵行者，彼<lb
+ n="0863a21" ed="T"/>作是念：『沙門壞，沙門麤，沙門刺，沙門非。』<lb
+ n="0863a22" ed="T"/>彼知已，棄著外。何以故？恐壞餘淨比丘故。說<lb
+ n="0863a23" ed="T"/>偈曰：<lb
+ n="0863a24" ed="T"/></ab>
+<ab type="verse">
+「共止及當知，　　惡求及瞋恚，　　<lb
+ n="0863a25" ed="T"/>恚恨不捨貪，　　不棄幻諛諂。　　<lb
+ n="0863a26" ed="T"/>莊人詐言息，　　自說是沙門，　　<lb
+ n="0863a27" ed="T"/>自作諸惡行，　　惡見非是樂。　　<lb
+ n="0863a28" ed="T"/>多作諸妄言，　　如是知彼已，　　<lb
+ n="0863a29" ed="T"/>悉皆不與會，　　擯棄不共止。　　<pb n="0863b" ed="T" id="T01.0064.0863b"/><lb
+ n="0863b01" ed="T"/>知時具淨行，　　分別誰言已，　　<lb
+ n="0863b02" ed="T"/>非息言沙門，　　惡行擯棄已。　　<lb
+ n="0863b03" ed="T"/>不與惡共止，　　數數及日日，　　<lb
+ n="0863b04" ed="T"/>悉皆共集會，　　當棄此苦際。」　　
+</ab><lb
+ n="0863b05" ed="T"/><ab type="prose">佛如是說，彼諸比丘聞世尊所說，歡喜而樂。<lb
+ n="0863b06" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說瞻婆比丘經</ab></div>
+</body></text></TEI>

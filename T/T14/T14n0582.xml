@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說孫多耶致經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0582</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0966b" ed="T" id="T14.0582.0966b"/><lb
+ n="0966b01" ed="T"/><lb
+ n="0966b02" ed="T"/><lb
+ n="0966b03" ed="T"/>
+<ab type="juan" subtype="open">佛說孫多耶致經</ab><lb
+ n="0966b04" ed="T"/><lb
+ n="0966b05" ed="T"/><byline>吳月支國居士支謙譯</byline><lb
+ n="0966b06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在舍衛國，行在祇樹給孤獨<lb
+ n="0966b07" ed="T"/>園，除饉甚眾，佛為說經。時有梵志，名孫多<lb
+ n="0966b08" ed="T"/>耶致，望見佛，即住拄杖，吐舌念曰：「吾日<lb
+ n="0966b09" ed="T"/>三浴，啖果，飲水，不受人施。吾行勝沙門行。<lb
+ n="0966b10" ed="T"/>子曹甘食、好衣、溫蓐，訛賢非真，不如吾道也。」<lb
+ n="0966b11" ed="T"/>佛知梵志心之所存，告諸沙門曰：「夫人為行，<lb
+ n="0966b12" ed="T"/>有二十一惡，不得美食、好衣：志在婬泆；志<lb
+ n="0966b13" ed="T"/>在瞋恚；志在愚癡；志在睡臥；志在凝結，<lb
+ n="0966b14" ed="T"/>謂無應儀；志在貢高；志在憍慢；志在嫉妬；<lb
+ n="0966b15" ed="T"/>志在慳貪；志在兇虐，無惻隱心；志在虛偽，<lb
+ n="0966b16" ed="T"/>內外相違；志在不慚，內無愧心；志在穢行，<lb
+ n="0966b17" ed="T"/>不自羞鄙；志在彼惡而不自見；志在婬泆，<lb
+ n="0966b18" ed="T"/>言不歎貞；志在交話，讒成二惡；志在會鬪，<lb
+ n="0966b19" ed="T"/>不釋兩諍；志在無禮，自可不謙；志在遂非，<lb
+ n="0966b20" ed="T"/>不受賢諫；志在不孝，滅慈好逆；志好邪道，<lb
+ n="0966b21" ed="T"/>供奉妖蠱，家財虛竭，令親困窮，不覺非常，<lb
+ n="0966b22" ed="T"/>不歸三尊，美食、好衣從欲奢華。以斯二十<lb
+ n="0966b23" ed="T"/>一惡，穢亂其心。猶潔污垢，染之為色，萬無<lb
+ n="0966b24" ed="T"/>一益。懷斯眾惡，死入地獄、餓鬼、畜生，其<lb
+ n="0966b25" ed="T"/>痛難量。「沙門覩佛明戒，棄故自新，練情滅<lb
+ n="0966b26" ed="T"/>欲，內外清淨。又如淨潔，染即成色，為眾所<lb
+ n="0966b27" ed="T"/>觀。沙門覩明，行高智足。天下供奉衣、食、殿<lb
+ n="0966b28" ed="T"/>舍，受之無尤，施者福大。進行禪定，獲溝港、<lb
+ n="0966b29" ed="T"/>頻來、不還、應儀，人亦聞之。沙門雖未得道，<pb n="0966c" ed="T" id="T14.0582.0966c"/><lb
+ n="0966c01" ed="T"/>明佛經義，執心端正，孝順經教，弘慈普育，<lb
+ n="0966c02" ed="T"/>潤逮群生，恕己安彼，視怨若子。見女人來，<lb
+ n="0966c03" ed="T"/>待之以妹。若覩窮苦，當念地獄、餓鬼、畜生，<lb
+ n="0966c04" ed="T"/>願令群生身安意喜，得逢三寶，垢除冥滅，<lb
+ n="0966c05" ed="T"/>心淨見明，還於本無，永康無極。志行如斯，<lb
+ n="0966c06" ed="T"/>美食、好衣終始無罪。群生本性，貪婬、瞋恚、<lb
+ n="0966c07" ed="T"/>愚癡、嫉妬，濁中之濁、冥中之冥者。沙門心開<lb
+ n="0966c08" ed="T"/>受明，癡垢都寂。雖處穢世，猶蓮華居夫泥中，<lb
+ n="0966c09" ed="T"/>泥不能染華，受施無罪。夫懷三毒、十惡不<lb
+ n="0966c10" ed="T"/>除，恣心從欲，諂欺求潤，不奉佛戒，寧吞熱鐵，<lb
+ n="0966c11" ed="T"/>飲洋銅。斯死須臾穢濁受施，死入太山，飲<lb
+ n="0966c12" ed="T"/>銅，食炭，其年難計矣。」梵志前白佛言：「吾欲<lb
+ n="0966c13" ed="T"/>去浴，有溪名好首。夫入中浴者，意之穢垢，<lb
+ n="0966c14" ed="T"/>隨水流漂。自聞父教，吾日三浴。」佛告梵志：<lb
+ n="0966c15" ed="T"/>「斯土多溪，人入中浴可得獲度苦乎？千浴<lb
+ n="0966c16" ed="T"/>之人可除身垢，奈心垢何？吾諸沙門斷求<lb
+ n="0966c17" ed="T"/>念空，不願三界，心垢寂滅，以得淨道。汝從<lb
+ n="0966c18" ed="T"/>何師？受法水浴，去心垢乎？」對曰：「吾父云爾。」<lb
+ n="0966c19" ed="T"/>佛言：「若父得道不？」對曰：「不也。」佛言：「吾道從<lb
+ n="0966c20" ed="T"/>心出，心端，志淨，乃得道耳。」梵志長跪陳白：<lb
+ n="0966c21" ed="T"/>「吾向拄杖吐舌，但為狂愚耳。今聞佛經，心<lb
+ n="0966c22" ed="T"/>始醒寤。猶冥中有燈火，始今有目矣。乞為<lb
+ n="0966c23" ed="T"/>沙門，願佛哀納！」佛言：「若有親，報之。」對曰：<lb
+ n="0966c24" ed="T"/>「無親。」佛言：「沙門來。」即成沙門已，於樹下<lb
+ n="0966c25" ed="T"/>坐，惟二十一事，去諸欲念，霍然無想，即<lb
+ n="0966c26" ed="T"/>得應儀道，赴至佛所，以頭面著佛足言：「今<lb
+ n="0966c27" ed="T"/>盲者得視，狂病得愈。」佛言：「斯道佳耶？汝道<lb
+ n="0966c28" ed="T"/>佳乎？」對曰：「眾道皆邪，唯佛道正。」佛告諸沙<lb
+ n="0966c29" ed="T"/>門：「熟惟二十一事，道可得矣。」諸沙門聞經<pb n="0967a" ed="T" id="T14.0582.0967a"/><lb
+ n="0967a01" ed="T"/>歡喜，作禮而退。</ab></div><lb
+ n="0967a02" ed="T"/>
+<ab type="juan" subtype="close">佛說孫多耶致經</ab>
+</body></text></TEI>

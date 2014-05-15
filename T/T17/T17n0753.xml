@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">十二品生死經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0753</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0575a19" ed="T"/><lb
+ n="0575a20" ed="T"/><lb
+ n="0575a21" ed="T"/><lb
+ n="0575a22" ed="T"/>
+<ab type="juan" subtype="open">十二品生死經</ab><lb
+ n="0575a23" ed="T"/><lb
+ n="0575a24" ed="T"/><byline>宋于闐國三藏求那跋陀羅譯</byline><lb
+ n="0575a25" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊舍衛祇樹給孤獨精舍，爾<lb
+ n="0575a26" ed="T"/>時佛告諸比丘：「我為汝說經。」比丘應：「唯然世<lb
+ n="0575a27" ed="T"/>尊！願受教勅。」<lb
+ n="0575a28" ed="T"/>佛言：「人死有十二品，何等十二？一曰無餘死<lb
+ n="0575a29" ed="T"/>者，謂羅漢無所著也。二曰度於死者，謂阿那<pb n="0575b" ed="T" id="T17.0753.0575b"/><lb
+ n="0575b01" ed="T"/>含不復還也。三曰有餘死者，謂斯陀含往而<lb
+ n="0575b02" ed="T"/>還也。四曰學度死者，謂須陀洹見道迹也。五<lb
+ n="0575b03" ed="T"/>曰無欺死者，謂八等人也。六曰歡喜死者，謂<lb
+ n="0575b04" ed="T"/>行一心也。七曰數數死者，謂惡戒人也。八曰<lb
+ n="0575b05" ed="T"/>悔死者，謂凡夫也。九曰橫死者，謂孤獨苦也。<lb
+ n="0575b06" ed="T"/>十曰縛著死者，謂畜生也。十一曰燒爛死<lb
+ n="0575b07" ed="T"/>者，謂地獄也。十二曰飢渴死者，謂餓鬼也。「比<lb
+ n="0575b08" ed="T"/>丘當曉知是，當作是學勿為放逸，勿起婬色，<lb
+ n="0575b09" ed="T"/>遠離諸橫，以清淨心，所未得證常令成就。所<lb
+ n="0575b10" ed="T"/>以者何？數數死者甚苦，悔死亦苦，橫死甚<lb
+ n="0575b11" ed="T"/>劇，縛著死亦劇，燒爛死甚痛，飢渴死亦痛。<lb
+ n="0575b12" ed="T"/>如是比丘！當作是學，習在閑居，若處樹下，學<lb
+ n="0575b13" ed="T"/>禪一心無得輕戲，無得後悔。是為佛教，是佛<lb
+ n="0575b14" ed="T"/>法則。」佛說如是，比丘歡喜稽首而退。</ab></div><lb
+ n="0575b15" ed="T"/>
+<ab type="juan" subtype="close">十二品生死經</ab>
+</body></text></TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說消除一切災障寶髻陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1400</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0916a07" ed="T"/><lb
+ n="0916a08" ed="T"/><lb
+ n="0916a09" ed="T"/><div type="jing" level="1"><lb
+ n="0916a10" ed="T"/>
+<ab type="juan" subtype="open">佛說消除一切災障寶髻陀羅<lb
+ n="0916a11" ed="T"/>尼經</ab><lb
+ n="0916a12" ed="T"/><lb
+ n="0916a13" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0916a14" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0916a15" ed="T"/><ab type="prose">爾時世尊告阿難言。有陀羅尼名曰寶髻。能<lb
+ n="0916a16" ed="T"/>與眾生作大利益。能滅眾生極重罪業。阿難<lb
+ n="0916a17" ed="T"/>往昔帝釋與脩羅戰時。天帝釋退敗奔走怖<lb
+ n="0916a18" ed="T"/>畏無量。於是疾速來詣佛所。哀告我言。世尊<lb
+ n="0916a19" ed="T"/>大慈願垂愍察。我怖脩羅不能安住。惟願大<lb
+ n="0916a20" ed="T"/>慈賜我安隱。阿難我聞帝釋作是語已。即告<lb
+ n="0916a21" ed="T"/>之言汝當勿怖施汝擁護。天主過去劫時。有<lb
+ n="0916a22" ed="T"/>佛世界名曰觀照。彼土有佛名觀自在如來。<lb
+ n="0916a23" ed="T"/>彼佛授我寶髻陀羅尼。是陀羅尼一俱胝佛<lb
+ n="0916a24" ed="T"/>異口同說。有大威力能降吉祥。若復有人書<lb
+ n="0916a25" ed="T"/>寫頂戴讀誦受持。我知是人滅一切罪增無<lb
+ n="0916a26" ed="T"/>量福。常自擁護及能利他。天主汝常憶念書<lb
+ n="0916a27" ed="T"/>寫頂戴。令汝所作一切隨心。此陀羅尼王亦<lb
+ n="0916a28" ed="T"/>名隨求。能與眾生最上善利。彼阿脩羅當自<lb
+ n="0916a29" ed="T"/>息心。設來鬪戰退敗降伏。我即為說寶髻陀<pb n="0916b" id="T21.1400.0916b" ed="T"/><lb
+ n="0916b01" ed="T"/>羅尼曰。<lb
+ n="0916b02" ed="T"/></ab>
+<ab type="dharani">那謨沒馱野那謨達哩摩野那<lb
+ n="0916b03" ed="T"/>莫僧伽野那莫颯鉢多曩三藐訖三<lb
+ n="0916b04" ed="T"/>沒馱曩薩室囉嚩哥僧伽曩<lb
+ n="0916b05" ed="T"/>薩哩嚩沒馱冒提薩埵難左怛<lb
+ n="0916b06" ed="T"/>󰍕他唵惹野割哩沒度跢囉尼<lb
+ n="0916b07" ed="T"/>鉢尾怛囉目詰薩哩嚩莽誐羅馱囉<lb
+ n="0916b08" ed="T"/>左𡁠暮帝那那朗哥囉尾<lb
+ n="0916b09" ed="T"/>部始帝薩賀薩囉部𡁠薩賀薩<lb
+ n="0916b10" ed="T"/>囉儞底哩薩賀薩囉室哩<lb
+ n="0916b11" ed="T"/>摩尼崐拏隷散那賀散捺提尾唧怛<lb
+ n="0916b12" ed="T"/>囉󰂛梨達哩贊捺囉素哩也<lb
+ n="0916b13" ed="T"/>阿底哩計阿哥舍誐誐那左哩尼<lb
+ n="0916b14" ed="T"/>莽誐羅室囉𡁠暮帝鉢尾怛囉<lb
+ n="0916b15" ed="T"/>訖哩多莽誐隷部哩彌馱羯<lb
+ n="0916b16" ed="T"/>囉尼祖嚕祖嚕稅多鉢致彌<lb
+ n="0916b17" ed="T"/>嚕彌嚕稅多嚩那提虎嚕虎嚕<lb
+ n="0916b18" ed="T"/>鉢尾怛囉目詰酤嚕酤嚕贊<lb
+ n="0916b19" ed="T"/>捺囉目詰阿儞爹嚩舍嚩哩底<lb
+ n="0916b20" ed="T"/>儞󰩯婆儞莽誐囉馱囉尼<lb
+ n="0916b21" ed="T"/>塞擔婆儞薩哩嚩尾󰍕達囉摩<lb
+ n="0916b22" ed="T"/>帝謨賀儞阿謨伽播舍賀悉帝<lb
+ n="0916b23" ed="T"/>薩哩嚩跋野尾謨左儞囉惹<lb
+ n="0916b24" ed="T"/>陬囉儗儞尾疎那哥跋野鉢囉<lb
+ n="0916b25" ed="T"/>設摩儞哥枯哩那儞嚩囉尼<lb
+ n="0916b26" ed="T"/>唵呬哩呬哩惹野哥哩嚩羅<lb
+ n="0916b27" ed="T"/>哥哩達那哥哩帝惹塞哥哩<lb
+ n="0916b28" ed="T"/>尾嚩那鉢囉設摩儞沒馱儞嚩囉<pb n="0916c" id="T21.1400.0916c" ed="T"/><lb
+ n="0916c01" ed="T"/>尼鉢囉作訖囉鉢囉設摩儞<lb
+ n="0916c02" ed="T"/>鉢囉賽󰍕儞嚩囉尼沒度跢囉尼鉢囉部多吠邏摩尼摩尼摩賀<lb
+ n="0916c04" ed="T"/>摩尼摩尼滿馱儞底哩路哥<lb
+ n="0916c05" ed="T"/>路哥割哩底哩補囉那誐囉尾特<lb
+ n="0916c06" ed="T"/>網娑儞鉢囉賽󰍕尾捺囉鉢尼薩哩嚩訖哩爹哥哩摩儞素捺<lb
+ n="0916c08" ed="T"/>儞咩提曩鉢囉設摩儞唵唧<lb
+ n="0916c09" ed="T"/>隷蜜隷尾隷娑嚩賀唧里<lb
+ n="0916c10" ed="T"/>蜜里娑嚩賀左詰里左詰里娑嚩<lb
+ n="0916c11" ed="T"/>賀贊拏里彌致儞娑嚩賀<lb
+ n="0916c12" ed="T"/>烏哩馱計室氷誐隷氷誐邏嗤<lb
+ n="0916c13" ed="T"/>捺提目詰娑嚩賀娑囉娑囉悉<lb
+ n="0916c14" ed="T"/>哩悉哩蘇嚕蘇嚕捫左捫左捫左<lb
+ n="0916c15" ed="T"/>鉢野鉢囉設摩野沒度多囉<lb
+ n="0916c16" ed="T"/>尼發吒唧多儞哩摩羅哥囉尼發吒<lb
+ n="0916c17" ed="T"/>阿蘇囉儞哩伽怛儞發吒惹野<lb
+ n="0916c18" ed="T"/>羯哩發吒室哩羯哩發吒薩賀<lb
+ n="0916c19" ed="T"/>薩囉室哩發吒薩賀薩囉㪍𡁠<lb
+ n="0916c20" ed="T"/>發吒薩賀薩囉泥底哩發<lb
+ n="0916c21" ed="T"/>吒薩哩嚩尾󰍕達囉那莫塞訖哩<lb
+ n="0916c22" ed="T"/>帶發吒薩哩嚩設咄嚕那<lb
+ n="0916c23" ed="T"/>設儞發吒薩哩嚩跋野尾謨叉尼發<lb
+ n="0916c24" ed="T"/>吒鉢哩作訖囉儞嚩囉尼發吒鉢囉賽󰍕尾捺囉鉢尼發吒薩<lb
+ n="0916c26" ed="T"/>哩嚩咩提鉢囉設摩儞發吒薩<lb
+ n="0916c27" ed="T"/>哩嚩屹囉呼蹉捺儞發吒犖<pb n="0917a" id="T21.1400.0917a" ed="T"/><lb
+ n="0917a01" ed="T"/>叉犖叉摩摩薩哩嚩沒馱冒地薩埵曩<lb
+ n="0917a02" ed="T"/>帝惹娑薩摩多必底哩𧹞<lb
+ n="0917a03" ed="T"/>薩訥呬底哩𧹞素鉢娑他以哥<lb
+ n="0917a04" ed="T"/>曩薩波哩嚩囉𧹞帝惹娑薩哩<lb
+ n="0917a05" ed="T"/>嚩咩提曩薩哩嚩設哩囕<lb
+ n="0917a06" ed="T"/>薩哩嚩跋踰鉢捺囉吠毘藥<lb
+ n="0917a07" ed="T"/>薩哩嚩欲提毘藥薩哩嚩咩<lb
+ n="0917a08" ed="T"/>提毘藥薩哩嚩訥訖哩帝毘藥<lb
+ n="0917a09" ed="T"/>薩哩嚩訖哩爹哥枯禰毘<lb
+ n="0917a10" ed="T"/>藥娑嚩賀薩哩嚩尾試毘藥<lb
+ n="0917a11" ed="T"/>薩哩嚩哥野唧多閉拏毘藥<lb
+ n="0917a12" ed="T"/>室左犖叉犖叉摩摩娑嚩賀<lb
+ n="0917a13" ed="T"/></ab>
+<ab type="prose">時天帝釋得此陀羅尼已。歡喜頂戴憶念受<lb
+ n="0917a14" ed="T"/>持。常與眷屬安樂而住。阿難此陀羅尼威力<lb
+ n="0917a15" ed="T"/>廣大。不獨降伏阿脩羅王。乃至一切天龍夜<lb
+ n="0917a16" ed="T"/>叉乾闥婆迦樓羅緊那羅。及部多吠多拏等。<lb
+ n="0917a17" ed="T"/>惱亂眾生者。以陀羅尼威力擁護不能為害。<lb
+ n="0917a18" ed="T"/>又復能除飢饉疾疫毒藥夭歿。夢寐不祥惡<lb
+ n="0917a19" ed="T"/>魔驚恐。或復有人為求財寶。或求子息。持誦<lb
+ n="0917a20" ed="T"/>此陀羅尼者。悉得隨意財富無量眷屬增盛。<lb
+ n="0917a21" ed="T"/>阿難此陀羅尼功德殊勝。我若具說不可窮<lb
+ n="0917a22" ed="T"/>盡。<lb
+ n="0917a23" ed="T"/>爾時阿難聞佛說此陀羅尼已。志心受持禮<lb
+ n="0917a24" ed="T"/>佛而退。<lb
+ n="0917a25" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說消除一切災障寶髻陀羅尼經</ab></div>
+</body></text></TEI>

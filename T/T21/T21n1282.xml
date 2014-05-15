@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">寶藏天女陀羅尼法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1282</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0342c15" ed="T"/><lb
+ n="0342c16" ed="T"/><lb
+ n="0342c17" ed="T"/><div type="jing" level="1"><lb
+ n="0342c18" ed="T"/>
+<ab type="juan" subtype="open">寶藏天女陀羅尼法</ab><lb
+ n="0342c19" ed="T"/><lb
+ n="0342c20" ed="T"/><ab type="prose">爾時三十三天主摩醯首羅天王。共諸天女<lb
+ n="0342c21" ed="T"/>眾讚寶藏天王名吒羅佉。有大威德色力無<lb
+ n="0342c22" ed="T"/>比能於世間行殊勝事。迴天動地傾山覆海。<lb
+ n="0342c23" ed="T"/>兵戈勝負志意而成。財帛金寶積如山岳。世<lb
+ n="0342c24" ed="T"/>間受用。即說呪曰。<lb
+ n="0342c25" ed="T"/></ab>
+<ab type="dharani">唵吒羅佉吒羅佉毘多羅儞莎嚩訶<lb
+ n="0342c26" ed="T"/></ab>
+<ab type="prose">若欲受持此法。先畫一天女形。泥檀法五月<lb
+ n="0342c27" ed="T"/>五日前七日。喫希粥長齋。意欲去處須淨潔<lb
+ n="0342c28" ed="T"/>也。凡行此法天女不喚自來。然須思存用表<lb
+ n="0342c29" ed="T"/>至誠。此法必須五月五日夜受持即果成就。<pb n="0343a" id="T21.1282.0343a" ed="T"/><lb
+ n="0343a01" ed="T"/>五月五日夜。注想思存換換誦呪一千八遍。<lb
+ n="0343a02" ed="T"/>不得急。至三更即心昏似睡。天女使諸女來<lb
+ n="0343a03" ed="T"/>令相試弄。必莫共語。至第二遍。其天女吒<lb
+ n="0343a04" ed="T"/>羅佉自來相見。其作法人不得赴。便䠒跪合<lb
+ n="0343a05" ed="T"/>掌頂禮兩拜。即相問之有何所須。其作法<lb
+ n="0343a06" ed="T"/>人隨口答之。乞好藥長生不死通靈。世間萬<lb
+ n="0343a07" ed="T"/>事之情。終身奉事。天女意生欲為夫妻。天女<lb
+ n="0343a08" ed="T"/>聞已甚大歡喜。當夜便與交諸願如意。若欲<lb
+ n="0343a09" ed="T"/>作姊妹。於事必須分明勿生狐疑。其壇法二<lb
+ n="0343a10" ed="T"/>肘半量用牛糞泥地。更以香泥塗地。五色彩<lb
+ n="0343a11" ed="T"/>畫又五色綵各二尺一寸。在壇內安天女座。<lb
+ n="0343a12" ed="T"/>酥密乳等菓子各一盤。五色花餅各五枚。已<lb
+ n="0343a13" ed="T"/>雜栗麥燒花隨意供養。其畫像法天女身長<lb
+ n="0343a14" ed="T"/>二尺五寸。頭作花冠所點花極妙端正。身著<lb
+ n="0343a15" ed="T"/>紫袍金帶烏靴。右手把蓮花。左手把如意寶<lb
+ n="0343a16" ed="T"/>珠。其天女端正光明。世間畫師無能畫者。必<lb
+ n="0343a17" ed="T"/>須好手不得論價。應時通靈心神自在。財帛<lb
+ n="0343a18" ed="T"/>盈溢官位高遷。中一切禍福了達。貴賤男女<lb
+ n="0343a19" ed="T"/>皆悉歡喜。凡有所動一切鬼神皆來迎待如<lb
+ n="0343a20" ed="T"/>敬天官。悚懼瞻仰便得無礙。乃至世間好妙<lb
+ n="0343a21" ed="T"/>藝隨意而成。有惡來相害者。便呼賊各皆得<lb
+ n="0343a22" ed="T"/>自縛自打。言放即放世間走失死亡如驗。目<lb
+ n="0343a23" ed="T"/>前萬病舉意持之皆差。又八真言各須清淨<lb
+ n="0343a24" ed="T"/>沐浴著新淨衣。於佛前形像前各誦三七遍。<lb
+ n="0343a25" ed="T"/>然後作法。<lb
+ n="0343a26" ed="T"/>第一真言<lb
+ n="0343a27" ed="T"/></ab>
+<ab type="dharani">唵興婆羅帝吒急急娑嚩賀<lb
+ n="0343a28" ed="T"/></ab>
+<ab type="prose">第二真言<lb
+ n="0343a29" ed="T"/></ab>
+<ab type="dharani">唵拔羅帝吒唎摩那羅娑嚩賀<pb n="0343b" id="T21.1282.0343b" ed="T"/><lb
+ n="0343b01" ed="T"/></ab>
+<ab type="prose">第三真言<lb
+ n="0343b02" ed="T"/></ab>
+<ab type="dharani">唵勒叉那帝吒娑吒娑嚩賀<lb
+ n="0343b03" ed="T"/></ab>
+<ab type="prose">第四真言<lb
+ n="0343b04" ed="T"/></ab>
+<ab type="dharani">唵婆婆隷若帝吒娑嚩賀<lb
+ n="0343b05" ed="T"/></ab>
+<ab type="prose">第五真言<lb
+ n="0343b06" ed="T"/></ab>
+<ab type="dharani">唵勃惹羅帝吒娑嚩賀<lb
+ n="0343b07" ed="T"/></ab>
+<ab type="prose">第六真言<lb
+ n="0343b08" ed="T"/></ab>
+<ab type="dharani">唵藥叉藥叉底那婆娑嚩賀<lb
+ n="0343b09" ed="T"/></ab>
+<ab type="prose">第七真言<lb
+ n="0343b10" ed="T"/></ab>
+<ab type="dharani">唵遮帝毘折曳吽泮吒娑嚩賀<lb
+ n="0343b11" ed="T"/></ab>
+<ab type="prose">第八真言<lb
+ n="0343b12" ed="T"/></ab>
+<ab type="dharani">唵折勒那耶利婆帝吒娑嚩賀<lb
+ n="0343b13" ed="T"/></ab>
+<ab type="prose">以中指無名指屈。以大母指押二指甲。舒頭<lb
+ n="0343b14" ed="T"/>指及小指安心上。右手把數珠念真言。此名<lb
+ n="0343b15" ed="T"/>玉環印。<lb
+ n="0343b16" ed="T"/>
+</ab><ab type="juan" subtype="close">寶藏天女法竟</ab></div>
+</body></text></TEI>

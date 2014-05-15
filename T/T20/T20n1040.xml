@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛頂降三世大儀軌法王教中觀自在菩薩心真言一切如來蓮華大曼荼羅品</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1040</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0030c10" ed="T"/><lb
+ n="0030c11" ed="T"/><lb
+ n="0030c12" ed="T"/><lb
+ n="0030c13" ed="T"/><lb
+ n="0030c14" ed="T"/>
+<ab type="juan" subtype="open">金剛頂降三世大儀軌法王教中<lb
+ n="0030c15" ed="T"/>觀自在菩薩心真言一切如來蓮<lb
+ n="0030c16" ed="T"/>花大曼拏攞品一卷</ab><lb
+ n="0030c17" ed="T"/><lb
+ n="0030c18" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0030c19" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
+ n="0030c20" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0030c21" ed="T"/>不空奉　詔譯</byline><lb
+ n="0030c22" ed="T"/><div type="jing" level="2"><ab type="prose">爾時觀自在菩薩摩訶薩。白佛言。世尊我欲<lb
+ n="0030c23" ed="T"/>於此降三世儀軌法王會中說自心真言。世<lb
+ n="0030c24" ed="T"/>尊若纔稱說一切如來。三昧現前一切怖畏<lb
+ n="0030c25" ed="T"/>厄難災障。及諸病惱皆得消滅。<lb
+ n="0030c26" ed="T"/>爾時薄伽梵。告觀自在菩薩言。善哉善哉汝<lb
+ n="0030c27" ed="T"/>應善說。時觀自在菩薩摩訶薩。承佛聖旨即<lb
+ n="0030c28" ed="T"/>說自心真言曰。<lb
+ n="0030c29" ed="T"/></ab>
+<ab type="dharani">阿嚕禮迦娑嚩賀<pb n="0031a" id="T20.1040.0031a" ed="T"/><lb
+ n="0031a01" ed="T"/></ab>
+<ab type="prose">適說此心真言時。一切如來從本剎土。雲集<lb
+ n="0031a02" ed="T"/>蘇迷盧頂毘盧遮那大會之中。圍遶觀自在<lb
+ n="0031a03" ed="T"/>菩薩摩訶薩復說自心真言大曼拏攞。<lb
+ n="0031a04" ed="T"/></ab>
+<ab type="verse">
+院位擘方設　　內四角四門　　<lb
+ n="0031a05" ed="T"/>善度最中央　　井形拼四道　　<lb
+ n="0031a06" ed="T"/>顯成於八位　　分為八葉花　　<lb
+ n="0031a07" ed="T"/>是色應用朱　　中臺觀自在　　<lb
+ n="0031a08" ed="T"/>於彼一一葉　　圖畫大覺形　　<lb
+ n="0031a09" ed="T"/>中院不為門　　內外八線道　　<lb
+ n="0031a10" ed="T"/>微妙建立已　　阿闍梨當入　　<lb
+ n="0031a11" ed="T"/>應對曼拏攞　　結大蓮花契　　<lb
+ n="0031a12" ed="T"/>端身定支節　　住於三摩地　　<lb
+ n="0031a13" ed="T"/>次結盎俱施　　奉請於聖者　　<lb
+ n="0031a14" ed="T"/>若一切有情　　入此曼拏攞　　<lb
+ n="0031a15" ed="T"/>雖處於凡位　　貪嗔罪垢滅　　<lb
+ n="0031a16" ed="T"/>猶如於蓮花　　不為水所著　　<lb
+ n="0031a17" ed="T"/>勝生亦如是　　不為欲所染　　
+</ab><lb
+ n="0031a18" ed="T"/><ab type="prose">阿闍梨即以大蓮花印。屈進力度如鉤。請觀<lb
+ n="0031a19" ed="T"/>自在菩薩。蓮花鉤真言曰。<lb
+ n="0031a20" ed="T"/></ab>
+<ab type="dharani">唵摩訶跛娜摩吽惹<lb
+ n="0031a21" ed="T"/></ab>
+<ab type="prose">即時觀自在菩薩便至道場現微妙色身。或<lb
+ n="0031a22" ed="T"/>放光明。阿闍梨次當如法引弟子入。是諸弟<lb
+ n="0031a23" ed="T"/>子應著白衣。復以白繒掩覆其服。又以淨<lb
+ n="0031a24" ed="T"/>帛纏繫其頭。既引入已而說偈言。<lb
+ n="0031a25" ed="T"/></ab>
+<ab type="verse">
+猶如於蓮花　　不為水所著　　<lb
+ n="0031a26" ed="T"/>勝生亦如是　　不為諸欲染　　
+</ab><lb
+ n="0031a27" ed="T"/><ab type="prose">即應左手授與弟子蓮花。右手授與念珠。又<lb
+ n="0031a28" ed="T"/>說偈言。<lb
+ n="0031a29" ed="T"/></ab>
+<ab type="verse">
+諸佛大蓮花　　於諸曼拏攞　　<pb n="0031b" id="T20.1040.0031b" ed="T"/><lb
+ n="0031b01" ed="T"/>最為其上首　　常須分別思　　<lb
+ n="0031b02" ed="T"/>身奉觀自在　　
+</ab><lb
+ n="0031b03" ed="T"/><ab type="prose">然後教印及三摩地門。</ab></div><lb
+ n="0031b04" ed="T"/><div type="pin" level="2"><head>心真言蓮花曼拏攞品</head><lb
+ n="0031b05" ed="T"/><ab type="prose">復次如前建立曼拏攞。行者應坐中臺之<lb
+ n="0031b06" ed="T"/>上。入一切如來開敷蓮花三摩地。誦一洛叉<lb
+ n="0031b07" ed="T"/>即得觀自在身。</ab></div><lb
+ n="0031b08" ed="T"/><div type="pin" level="2"><head>心真言三昧耶曼拏攞品</head><lb
+ n="0031b09" ed="T"/><ab type="prose">復以如前建立曼拏攞。應取一千蓮花。一花<lb
+ n="0031b10" ed="T"/>一誦安中臺以為奉獻。然後引弟子入告三<lb
+ n="0031b11" ed="T"/>昧耶言。</ab></div><lb
+ n="0031b12" ed="T"/><div type="pin" level="2"><head>羯磨曼拏攞品</head><lb
+ n="0031b13" ed="T"/><ab type="prose">復次如前建立曼拏攞。以四種供養。復次成<lb
+ n="0031b14" ed="T"/>就像法。於清淨絹㲲上。畫觀自在菩薩。坐蘇<lb
+ n="0031b15" ed="T"/>彌盧頂八佛圍遶。起白月一日於此像前。一<lb
+ n="0031b16" ed="T"/>切時無間斷入三摩地念誦。乃至畫像放光。<lb
+ n="0031b17" ed="T"/>於光明中流出觀自在菩薩及諸如來。入行<lb
+ n="0031b18" ed="T"/>者眉間灌頂之處。堅固而住。即時行者體同<lb
+ n="0031b19" ed="T"/>觀自在。剎那頃便見極樂世界。一切眾生皆<lb
+ n="0031b20" ed="T"/>見去時壽命無量。<lb
+ n="0031b21" ed="T"/>我今又說成就之法。誦一洛叉。一切蓋障皆<lb
+ n="0031b22" ed="T"/>得清淨。誦二洛叉。所有五無間等一切諸罪<lb
+ n="0031b23" ed="T"/>盡滅無餘。誦三洛叉。一切福德來集。一切<lb
+ n="0031b24" ed="T"/>如來等備具。一切成智現前。<lb
+ n="0031b25" ed="T"/>復次若結大印誦洛叉數。經夜無限<lb
+ n="0031b26" ed="T"/>念誦。比至晨朝一切如來入行者心。即體同<lb
+ n="0031b27" ed="T"/>如來。若入於口即體同觀自在。<lb
+ n="0031b28" ed="T"/>復次成就事業。誦一遍護身。兩遍護他及城<lb
+ n="0031b29" ed="T"/>邑聚落。三遍即能成辦一切事業。若阿尾捨<pb n="0031c" id="T20.1040.0031c" ed="T"/><lb
+ n="0031c01" ed="T"/>應燒檀香若息諸鬼魅者。加呬<lb
+ n="0031c02" ed="T"/>唎字誦之。令一切有情順。加持金剛花<lb
+ n="0031c03" ed="T"/>與之令惡心不動。以白土止息之<lb
+ n="0031c05" ed="T"/>令悉底利敬愛。加持蘇末那花。與之伏從。又<lb
+ n="0031c06" ed="T"/>欲令一切禽獸隨處不動轉白芥子令一切禽<lb
+ n="0031c07" ed="T"/>獸不能動。加持白芥子遙向擲之。欲有所示<lb
+ n="0031c08" ed="T"/>現。加持孔雀尾遙轉。欲夢中知一切事。三<lb
+ n="0031c09" ed="T"/>念誦其夜見之。又欲除惡夢者。以油麻護<lb
+ n="0031c10" ed="T"/>摩。又欲止息口舌取雞翅翎護摩。若處子婆<lb
+ n="0031c11" ed="T"/>誐蘂淫女月帛護摩。悉嚩始迦羅拏。若求一<lb
+ n="0031c12" ed="T"/>切事應廣供養觀自在。八日一日夜不食念<lb
+ n="0031c13" ed="T"/>誦滿一切願。又於觀自在菩薩前。三時時別<lb
+ n="0031c14" ed="T"/>誦三遍。滿三月菩薩滿其所願。又於佛像前<lb
+ n="0031c15" ed="T"/>三時時別誦三遍。滿三月佛滿其願。</ab></div><lb
+ n="0031c16" ed="T"/><div type="pin" level="2"><head>印品</head><lb
+ n="0031c17" ed="T"/><ab type="prose">合掌以二水二風交地空各開竪。二火相合<lb
+ n="0031c18" ed="T"/>是根本印。芙蓉合掌是為大蓮花印。不易大<lb
+ n="0031c19" ed="T"/>蓮花開竪地空。是禳奪諸罪印。又外叉金剛<lb
+ n="0031c20" ed="T"/>縛。合二風如蓮花葉。二空竪相逼是三昧印。<lb
+ n="0031c21" ed="T"/>又分二手作蓮花拳。便以慧拳旋繞定拳。作<lb
+ n="0031c22" ed="T"/>開八葉勢是羯磨印呬唎字觀於心<lb
+ n="0031c23" ed="T"/>月蓮。是法印。觀諸法如蓮花不著於水。諸法<lb
+ n="0031c24" ed="T"/>亦然不染欲等。是智印。蓮花阿闍梨。欲授弟<lb
+ n="0031c25" ed="T"/>子阿闍梨位。以蓮花授與弟子二掌中。又加<lb
+ n="0031c26" ed="T"/>持蓮花鬘一千八遍。繫弟子頭上。加持。<lb
+ n="0031c27" ed="T"/>真言曰。<lb
+ n="0031c28" ed="T"/></ab>
+<ab type="dharani">唵跛娜麼麼攞鼻詵左路計<lb
+ n="0031c29" ed="T"/>濕嚩囉數索<pb n="0032a" id="T20.1040.0032a" ed="T"/><lb
+ n="0032a01" ed="T"/></ab>
+<ab type="prose">由是得為蓮花部中阿闍梨。我今說蓮花部<lb
+ n="0032a02" ed="T"/>修行禁戒儀。則先供養觀自在菩薩。應服一<lb
+ n="0032a03" ed="T"/>掬遇牟怛囉若少分摩夷。即一切清淨。然觀<lb
+ n="0032a04" ed="T"/>自身作觀自在菩薩。日誦一千遍乃至七日。<lb
+ n="0032a05" ed="T"/>禁戒得成就。從此已後一切食一切處作。皆<lb
+ n="0032a06" ed="T"/>不為污染。我今說普通一切供養儀。則二手<lb
+ n="0032a07" ed="T"/>為金剛拳。各安於腰側。向左小低頭。是為恭<lb
+ n="0032a08" ed="T"/>敬禮。又二手從額分向後繫鬘勢。歷度下垂<lb
+ n="0032a09" ed="T"/>帶。是為獻花鬘。又二手從於臍漸上至口<lb
+ n="0032a10" ed="T"/>寫。是為獻歌詠。又二手從口檀慧歷展相<lb
+ n="0032a11" ed="T"/>旋遶上頂虛合掌。是獻金剛舞。由是供養如<lb
+ n="0032a12" ed="T"/>來位尚不難得。況餘悉地。何以故。一切樂不<lb
+ n="0032a13" ed="T"/>如此金剛薩埵故。<lb
+ n="0032a14" ed="T"/>
+</ab><ab type="juan" subtype="close">金剛頂經降三世大儀軌法王教中觀自<lb
+ n="0032a15" ed="T"/>在菩薩心真言一切如來蓮花大曼拏攞品一<lb
+ n="0032a16" ed="T"/>卷</ab></div></div>
+</body></text></TEI>

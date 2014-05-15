@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大乘二十頌論</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T30</biblScope>
+                    <idno type="Taisho">T30n1576</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0256a13" ed="T"/><lb
+ n="0256a14" ed="T"/><lb
+ n="0256a15" ed="T"/><lb
+ n="0256a16" ed="T"/><lb
+ n="0256a17" ed="T"/>
+<ab type="juan" subtype="open">大乘二十頌論</ab><lb
+ n="0256a18" ed="T"/><lb
+ n="0256a19" ed="T"/><byline>龍樹菩薩造</byline><lb
+ n="0256a20" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
+ n="0256a21" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
+ n="0256a22" ed="T"/><div type="jing" level="1"><ab type="verse">
+歸命不可思議性　　諸佛無著真實智　　<lb
+ n="0256a23" ed="T"/>諸法非言非無言　　佛悲愍故善宣說　　
+</ab><lb
+ n="0256a24" ed="T"/><ab type="verse">
+第一義無生　　隨轉而無性　　<lb
+ n="0256a25" ed="T"/>佛眾生一相　　如虛空平等　　<lb
+ n="0256a26" ed="T"/>此彼岸無生　　自性緣所生　　<lb
+ n="0256a27" ed="T"/>彼諸行皆空　　一切智智行　　<lb
+ n="0256a28" ed="T"/>無染真如性　　無二等寂靜　　<lb
+ n="0256a29" ed="T"/>諸法性自性　　如影像無異　　<pb n="0256b" id="T30.1576.0256b" ed="T"/><lb
+ n="0256b01" ed="T"/>凡夫分別心　　無實我計我　　<lb
+ n="0256b02" ed="T"/>故起諸煩性　　及苦樂捨等　　<lb
+ n="0256b03" ed="T"/>世間老病死　　為苦不可愛　　<lb
+ n="0256b04" ed="T"/>隨諸業墜墮　　此實無有樂　　<lb
+ n="0256b05" ed="T"/>天趣勝妙樂　　地獄極大苦　　<lb
+ n="0256b06" ed="T"/>皆不實境界　　六趣常輪轉　　<lb
+ n="0256b07" ed="T"/>眾生妄分別　　煩惱火燒燃　　<lb
+ n="0256b08" ed="T"/>墮地獄等趣　　如野火燒林　　<lb
+ n="0256b09" ed="T"/>眾生本如幻　　復取幻境界　　<lb
+ n="0256b10" ed="T"/>履幻所成道　　不了從緣生　　<lb
+ n="0256b11" ed="T"/>如世間畫師　　畫作夜叉相　　<lb
+ n="0256b12" ed="T"/>自畫己自怖　　此名無智者　　<lb
+ n="0256b13" ed="T"/>眾生自起染　　造彼輪迴因　　<lb
+ n="0256b14" ed="T"/>造已怖墜墮　　無智不解脫　　<lb
+ n="0256b15" ed="T"/>眾生虛妄心　　起疑惑垢染　　<lb
+ n="0256b16" ed="T"/>無性計有性　　受苦中極苦　　<lb
+ n="0256b17" ed="T"/>佛見彼無救　　乃起悲愍意　　<lb
+ n="0256b18" ed="T"/>故發菩提心　　廣修菩提行　　<lb
+ n="0256b19" ed="T"/>得無上智果　　即觀察世間　　<lb
+ n="0256b20" ed="T"/>分別所纏縛　　故為作利益　　<lb
+ n="0256b21" ed="T"/>從生及生已　　悉示正真義　　<lb
+ n="0256b22" ed="T"/>後觀世間空　　離初中後際　　<lb
+ n="0256b23" ed="T"/>觀生死涅盤　　是二俱無我　　<lb
+ n="0256b24" ed="T"/>無染亦無壞　　本清淨常寂　　<lb
+ n="0256b25" ed="T"/>夢中諸境界　　覺已悉無見　　<lb
+ n="0256b26" ed="T"/>智者寤癡睡　　亦不見生死　　<lb
+ n="0256b27" ed="T"/>愚癡闇蔽者　　墜墮生死海　　<lb
+ n="0256b28" ed="T"/>無生計有生　　起世間分別　　<lb
+ n="0256b29" ed="T"/>若分別有生　　眾生不如理　　<pb n="0256c" id="T30.1576.0256c" ed="T"/><lb
+ n="0256c01" ed="T"/>於生死法中　　起常樂我想　　<lb
+ n="0256c02" ed="T"/>此一切唯心　　安立幻化相　　<lb
+ n="0256c03" ed="T"/>作善不善業　　感善不善生　　<lb
+ n="0256c04" ed="T"/>若滅於心輪　　即滅一切法　　<lb
+ n="0256c05" ed="T"/>是諸法無我　　諸法悉清淨　　
+</ab><lb
+ n="0256c06" ed="T"/><ab type="verse">
+佛廣宣說世間法　　當知即是無明緣　　<lb
+ n="0256c07" ed="T"/>若能不起分別心　　一切眾生何所生　　<lb
+ n="0256c08" ed="T"/>於彼諸法法性中　　實求少法不可得　　<lb
+ n="0256c09" ed="T"/>如世幻師作幻事　　智者應當如是知　　<lb
+ n="0256c10" ed="T"/>生死輪迴大海中　　眾生煩惱水充滿　　<lb
+ n="0256c11" ed="T"/>若不運載以大乘　　畢竟何能到彼岸　　
+</ab></div><lb
+ n="0256c12" ed="T"/>
+<ab type="juan" subtype="close">大乘二十頌論</ab>
+</body></text></TEI>

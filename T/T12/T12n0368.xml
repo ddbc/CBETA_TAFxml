@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">拔一切業障根本得生淨土神呪</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T12</biblScope>
+                    <idno type="Taisho">T12n0368</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<pb n="0351c" id="T12.0368.0351c" ed="T"/><lb
+ n="0351c01" ed="T"/><lb
+ n="0351c02" ed="T"/><lb
+ n="0351c03" ed="T"/>
+<ab type="juan" subtype="open">拔一切業障根本得生淨土神呪<lb
+ n="0351c04" ed="T"/></ab><lb
+ n="0351c05" ed="T"/><lb
+ n="0351c06" ed="T"/><byline>劉宋天竺三藏求那跋陀羅<lb
+ n="0351c07" ed="T"/>奉　詔重譯</byline><lb
+ n="0351c08" ed="T"/><div type="jing" level="2"><ab type="dharani">南無阿彌多婆夜哆　他伽哆　夜<lb
+ n="0351c09" ed="T"/>哆地　夜他阿彌利　都婆毘　阿彌利<lb
+ n="0351c10" ed="T"/>哆　悉眈婆毘　阿彌利哆　毘迦蘭諦　阿<lb
+ n="0351c11" ed="T"/>彌利哆　毘迦蘭哆　伽彌膩　伽伽那　枳<lb
+ n="0351c12" ed="T"/>多迦隷　莎婆訶<lb
+ n="0351c13" ed="T"/></ab>
+<ab type="prose">若有善男子善女人能誦此呪者，阿彌陀佛<lb
+ n="0351c14" ed="T"/>常住其頂，日夜擁護，無令怨家而得其便，現<lb
+ n="0351c15" ed="T"/>世常得安隱，臨命終時任運往生。</ab></div><lb
+ n="0351c16" ed="T"/><div type="w" level="2"><head>阿彌陀經不思議神力傳：</head><lb
+ n="0351c17" ed="T"/><ab type="prose">昔長安僧叡法師、慧崇、僧顯、慧通，近至後<lb
+ n="0351c18" ed="T"/>周實禪師、景禪師、西河鸞法師等數百餘人，<lb
+ n="0351c19" ed="T"/>並生西方。西河綽禪師等，因見鸞法師得生<lb
+ n="0351c20" ed="T"/>淨土，各率有緣，專修淨土之業；綽師又撰西<lb
+ n="0351c21" ed="T"/>方記驗，名《安樂集》流行。又晉朝遠法師，入盧<lb
+ n="0351c22" ed="T"/>山三十年不出，乃命同志白黑有一百二十<lb
+ n="0351c23" ed="T"/>三人，立誓期於西方，鑿山銘願。至陳天嘉年，<lb
+ n="0351c24" ed="T"/>盧山珍禪師，於坐時見有數百餘人，共乘七<lb
+ n="0351c25" ed="T"/>寶華舫往西方，珍禪師遂求附載。其船上人<lb
+ n="0351c26" ed="T"/>報云：「法師雖講得《涅槃經》，亦大不可思議緣，<lb
+ n="0351c27" ed="T"/>法師未誦得《阿彌陀經》及呪，所以不得同去。」<lb
+ n="0351c28" ed="T"/>法師遂廢講業，日夜專誦《彌陀經》及呪，計<lb
+ n="0351c29" ed="T"/>應滿二萬遍。未終四七日前，夜向四更，有神<pb n="0352a" id="T12.0368.0352a" ed="T"/><lb
+ n="0352a01" ed="T"/>人從西方送一白銀臺來空中，明過於日，告<lb
+ n="0352a02" ed="T"/>云：「法師壽終，當乘此臺往生阿彌陀國，故來<lb
+ n="0352a03" ed="T"/>相示，令知定生。」終時白黑咸聞，空中如奏音<lb
+ n="0352a04" ed="T"/>樂，并聞異香，數月聞香氣不歇。其夜峯頂寺<lb
+ n="0352a05" ed="T"/>僧眾，咸見一谷內有數十炬火大如車輪。尋<lb
+ n="0352a06" ed="T"/>驗古今，得生安樂世界者非一，多見化佛徒<lb
+ n="0352a07" ed="T"/>眾來迎靈瑞，如傳廣明，不可繁錄。因珍禪師<lb
+ n="0352a08" ed="T"/>於此經有驗，故略述此一條以悟來哲，助成<lb
+ n="0352a09" ed="T"/>往生之志。拔一切業障根本得生淨土神呪<lb
+ n="0352a10" ed="T"/>者，乃宋元嘉末年，求那跋陀重奉制譯，合<lb
+ n="0352a11" ed="T"/>計五十九字，一十五句。龍樹菩薩願生安養，<lb
+ n="0352a12" ed="T"/>夢感此咒。耶舍三藏誦此呪，天平寺銹法<lb
+ n="0352a13" ed="T"/>師從耶舍三藏口受此呪，其人云：「經本外國<lb
+ n="0352a14" ed="T"/>不來，若欲受持呪法，嚼楊枝、澡豆，漱口、然香，<lb
+ n="0352a15" ed="T"/>於佛像前胡跪合掌，日夜六時各誦三七遍，<lb
+ n="0352a16" ed="T"/>即滅四重、五逆、十惡、謗方等罪，悉得滅除。現<lb
+ n="0352a17" ed="T"/>世所求皆得，不為惡鬼神所惑亂。若數滿二<lb
+ n="0352a18" ed="T"/>十萬遍，即感得菩提牙生，若至三十萬遍即<lb
+ n="0352a19" ed="T"/>面見阿彌陀佛。」</ab></div></div>
+</body></text></TEI>

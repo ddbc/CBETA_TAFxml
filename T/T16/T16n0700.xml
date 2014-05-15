@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">右繞佛塔功德經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T16</biblScope>
+                    <idno type="Taisho">T16n0700</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0801b19" ed="T"/><lb
+ n="0801b20" ed="T"/><lb
+ n="0801b21" ed="T"/><lb
+ n="0801b22" ed="T"/>
+<ab type="juan" subtype="open">右繞佛塔功德經</ab><lb
+ n="0801b23" ed="T"/><lb
+ n="0801b24" ed="T"/><byline>大周于闐國三藏沙門<lb
+ n="0801b25" ed="T"/>實叉難陀等奉　制譯</byline><lb
+ n="0801b26" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
+ n="0801b27" ed="T"/>與大比丘僧及餘無量眾俱，前後圍遶。爾時<lb
+ n="0801b28" ed="T"/>長老舍利弗即從坐起，偏袒右肩，右膝著地，<lb
+ n="0801b29" ed="T"/>合掌向佛，以偈請曰：<pb n="0801c" ed="T" id="T16.0700.0801c"/><lb
+ n="0801c01" ed="T"/></ab>
+<ab type="verse">
+「大威德世尊，　　願為我等說，　　<lb
+ n="0801c02" ed="T"/>右遶於佛塔，　　所得之果報。」　　
+</ab><lb
+ n="0801c03" ed="T"/><ab type="prose">爾時世尊以偈答曰：<lb
+ n="0801c04" ed="T"/></ab>
+<ab type="verse">
+「右繞於佛塔，　　所得諸功德，　　<lb
+ n="0801c05" ed="T"/>我今說少分，　　汝等咸善聽。　　<lb
+ n="0801c06" ed="T"/>一切諸天龍，　　夜叉鬼神等，　　<lb
+ n="0801c07" ed="T"/>皆親近供養，　　斯由右繞塔。　　<lb
+ n="0801c08" ed="T"/>在在所生處，　　遠離於八難，　　<lb
+ n="0801c09" ed="T"/>常生無難處，　　斯由右繞塔。　　<lb
+ n="0801c10" ed="T"/>於一切生處，　　念慧常無失，　　<lb
+ n="0801c11" ed="T"/>具足妙色相，　　斯由右繞塔。　　<lb
+ n="0801c12" ed="T"/>往來天人中，　　福命悉長遠，　　<lb
+ n="0801c13" ed="T"/>常獲大名稱，　　斯由右繞塔。　　<lb
+ n="0801c14" ed="T"/>在於閻浮提，　　常生最尊勝，　　<lb
+ n="0801c15" ed="T"/>清淨種姓中，　　斯由右繞塔。　　<lb
+ n="0801c16" ed="T"/>儀貌常端正，　　富貴多財寶，　　<lb
+ n="0801c17" ed="T"/>恒食大封邑，　　斯由右繞塔。　　<lb
+ n="0801c18" ed="T"/>財寶常盈積，　　而無慳悋心，　　<lb
+ n="0801c19" ed="T"/>勇猛廣惠施，　　斯由右繞塔。　　<lb
+ n="0801c20" ed="T"/>色相淨微妙，　　見者皆欣仰，　　<lb
+ n="0801c21" ed="T"/>所住常安樂，　　斯由右繞塔。　　<lb
+ n="0801c22" ed="T"/>或為忉利王，　　妻子悉具足，　　<lb
+ n="0801c23" ed="T"/>威勢力自在，　　斯由右繞塔。　　<lb
+ n="0801c24" ed="T"/>或作婆羅門，　　持戒善通達，　　<lb
+ n="0801c25" ed="T"/>呪術圍陀典，　　斯由右繞塔。　　<lb
+ n="0801c26" ed="T"/>或作大長者，　　豪貴多財產，　　<lb
+ n="0801c27" ed="T"/>倉廩常豐足，　　斯由右繞塔。　　<lb
+ n="0801c28" ed="T"/>或作正法王，　　自在王閻浮，　　<lb
+ n="0801c29" ed="T"/>率土咸歸化，　　斯由右繞塔。　　<pb n="0802a" ed="T" id="T16.0700.0802a"/><lb
+ n="0802a01" ed="T"/>或為具七寶，　　大勢轉輪王，　　<lb
+ n="0802a02" ed="T"/>十善御群生，　　斯由右繞塔。　　<lb
+ n="0802a03" ed="T"/>從此生天上，　　常有大威德，　　<lb
+ n="0802a04" ed="T"/>淨信於佛法，　　斯由右繞塔。　　<lb
+ n="0802a05" ed="T"/>淨信速成已，　　於法無迷惑，　　<lb
+ n="0802a06" ed="T"/>見諸行皆空，　　斯由右繞塔。　　<lb
+ n="0802a07" ed="T"/>從天上捨命，　　下生於人中，　　<lb
+ n="0802a08" ed="T"/>入胎不迷亂，　　斯由右繞塔。　　<lb
+ n="0802a09" ed="T"/>在於母胎中，　　垢穢所不染，　　<lb
+ n="0802a10" ed="T"/>如淨摩尼珠，　　斯由右繞塔。　　<lb
+ n="0802a11" ed="T"/>在胎及生時，　　令母常安樂，　　<lb
+ n="0802a12" ed="T"/>飲乳亦復然，　　斯由右繞塔。　　<lb
+ n="0802a13" ed="T"/>父母及親戚，　　一切共鞠養，　　<lb
+ n="0802a14" ed="T"/>乳母常不離，　　斯由右繞塔。　　<lb
+ n="0802a15" ed="T"/>眷屬皆愛念，　　超過於父母，　　<lb
+ n="0802a16" ed="T"/>資財自增長，　　斯由右繞塔。　　<lb
+ n="0802a17" ed="T"/>夜叉諸惡鬼，　　不能暫驚怖，　　<lb
+ n="0802a18" ed="T"/>所須自然得，　　斯由右繞塔。　　<lb
+ n="0802a19" ed="T"/>經於百千劫，　　其身轉清淨，　　<lb
+ n="0802a20" ed="T"/>妙色相成滿，　　斯由右繞塔。　　<lb
+ n="0802a21" ed="T"/>淨眼修且廣，　　猶如青蓮花，　　<lb
+ n="0802a22" ed="T"/>兼得淨天眼，　　斯由右繞塔。　　<lb
+ n="0802a23" ed="T"/>妙色常圓滿，　　諸相自莊嚴，　　<lb
+ n="0802a24" ed="T"/>成就大勢力，　　斯由右繞塔。　　<lb
+ n="0802a25" ed="T"/>或生帝釋宮，　　大威勢自在，　　<lb
+ n="0802a26" ed="T"/>忉利天中尊，　　斯由右繞塔。　　<lb
+ n="0802a27" ed="T"/>或生須夜摩，　　兜率陀天宮，　　<lb
+ n="0802a28" ed="T"/>化樂及他化，　　斯由右繞塔。　　<lb
+ n="0802a29" ed="T"/>或復生梵天，　　梵世最自在，　　<pb n="0802b" ed="T" id="T16.0700.0802b"/><lb
+ n="0802b01" ed="T"/>諸天常供養，　　斯由右繞塔。　　<lb
+ n="0802b02" ed="T"/>億那由他劫，　　常為諸智人，　　<lb
+ n="0802b03" ed="T"/>恭敬而供養，　　斯由右繞塔。　　<lb
+ n="0802b04" ed="T"/>其身及衣服，　　億劫常無垢，　　<lb
+ n="0802b05" ed="T"/>具足白淨法，　　斯由右繞塔。　　<lb
+ n="0802b06" ed="T"/>具大精進力，　　勤修種種行，　　<lb
+ n="0802b07" ed="T"/>未嘗有疲懈，　　斯由右繞塔。　　<lb
+ n="0802b08" ed="T"/>勇猛常精進，　　堅固不可壞，　　<lb
+ n="0802b09" ed="T"/>所作速成就，　　斯由右繞塔。　　<lb
+ n="0802b10" ed="T"/>深遠微妙音，　　聞者皆歡喜，　　<lb
+ n="0802b11" ed="T"/>安樂常無病，　　斯由右繞塔。　　<lb
+ n="0802b12" ed="T"/>如我所演說，　　厭捨三有苦，　　<lb
+ n="0802b13" ed="T"/>成就出世智，　　斯由右繞塔。　　<lb
+ n="0802b14" ed="T"/>常在四念處，　　及以四正勤，　　<lb
+ n="0802b15" ed="T"/>四如意神足，　　斯由右繞塔。　　<lb
+ n="0802b16" ed="T"/>了達四真諦，　　根力七覺分，　　<lb
+ n="0802b17" ed="T"/>正道及聖果，　　斯由右繞塔。　　<lb
+ n="0802b18" ed="T"/>滅一切煩惱，　　具足大威德，　　<lb
+ n="0802b19" ed="T"/>無漏六神通，　　斯由右繞塔。　　<lb
+ n="0802b20" ed="T"/>永離貪恚癡，　　及一切障礙，　　<lb
+ n="0802b21" ed="T"/>證獨覺菩提，　　斯由右繞塔。　　<lb
+ n="0802b22" ed="T"/>得妙紫金色，　　相好莊嚴身，　　<lb
+ n="0802b23" ed="T"/>現作天人師，　　斯由右繞塔。　　<lb
+ n="0802b24" ed="T"/>皆由以身業，　　及語業讚歎，　　<lb
+ n="0802b25" ed="T"/>右繞於佛塔，　　獲此大利益。　　<lb
+ n="0802b26" ed="T"/>右繞諸佛塔，　　所得諸功德，　　<lb
+ n="0802b27" ed="T"/>我今隨所聞，　　略說詎能盡。」　　
+</ab><lb
+ n="0802b28" ed="T"/><ab type="prose">爾時世尊說此偈已，舍利弗等一切眾會，皆<lb
+ n="0802b29" ed="T"/>大歡喜，信受奉行。</ab></div><pb n="0802c" ed="T" id="T16.0700.0802c"/><lb
+ n="0802c01" ed="T"/>
+<ab type="juan" subtype="close">右繞佛塔功德經</ab>
+</body></text></TEI>

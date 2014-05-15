@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說三十五佛名禮懺文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T12</biblScope>
+                    <idno type="Taisho">T12n0326</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0042c11" ed="T"/><lb
+ n="0042c12" ed="T"/><lb
+ n="0042c13" ed="T"/><lb
+ n="0042c14" ed="T"/>
+<ab type="juan" subtype="open">佛說三十五佛名禮懺文一卷</ab><lb
+ n="0042c16" ed="T"/><lb
+ n="0042c17" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
+ n="0042c18" ed="T"/>肅國公食邑三千戶賜紫贈司空<lb
+ n="0042c19" ed="T"/>諡大鑒正號大廣智大興善寺<lb
+ n="0042c20" ed="T"/>三藏沙門不空奉　詔譯</byline><lb
+ n="0042c21" ed="T"/><div type="jing" level="1"><ab type="prose">「娜謨釋迦牟尼佛、娜謨金剛堅固能摧佛、<lb
+ n="0042c22" ed="T"/>娜謨寶焰佛、娜謨龍自在王佛、娜謨勤勇<lb
+ n="0042c23" ed="T"/>軍佛、娜謨勤勇喜佛、娜謨寶火佛、娜謨<lb
+ n="0042c24" ed="T"/>寶月光佛、娜謨不空見佛、娜謨寶月佛、<lb
+ n="0042c25" ed="T"/>娜謨無垢佛、娜謨離垢佛、娜謨勇施佛、<lb
+ n="0042c26" ed="T"/>娜謨淨行佛、娜謨梵施佛、娜謨水王佛、<lb
+ n="0042c27" ed="T"/>娜謨水天佛、娜謨賢吉祥佛、娜謨無量威<lb
+ n="0042c28" ed="T"/>德佛、娜謨栴檀吉祥佛、娜謨光吉祥佛、<lb
+ n="0042c29" ed="T"/>娜謨無憂吉祥佛、娜謨那羅延吉祥佛、娜<pb n="0043a" id="T12.0326.0043a" ed="T"/><lb
+ n="0043a01" ed="T"/>謨花吉祥佛、娜謨蓮花光遊戲神通佛、娜<lb
+ n="0043a02" ed="T"/>謨財吉祥佛、娜謨念吉祥佛、娜謨善稱<lb
+ n="0043a03" ed="T"/>名號吉祥佛、娜謨帝幢幡王佛、娜謨鬪戰<lb
+ n="0043a04" ed="T"/>勝佛、娜謨勇健吉祥佛、娜謨勇健進佛、<lb
+ n="0043a05" ed="T"/>娜謨普遍照曜莊嚴吉祥佛、娜謨寶蓮花遊<lb
+ n="0043a06" ed="T"/>步佛、娜謨寶蓮花妙住山王佛<lb
+ n="0043a07" ed="T"/>「如是等十方一切世界中諸佛世尊，出現世<lb
+ n="0043a08" ed="T"/>間住持遊行，願皆觀察哀愍於我。我或今生、<lb
+ n="0043a09" ed="T"/>或於餘生，無始時來廣作眾罪，或自作、或隨<lb
+ n="0043a10" ed="T"/>喜作、或教他作；或偷盜佛物四方僧物，或自<lb
+ n="0043a11" ed="T"/>作、或隨喜作、或教他作；或造五無間罪、十不<lb
+ n="0043a12" ed="T"/>善業道，或自作、或隨喜作、或教他作。由此<lb
+ n="0043a13" ed="T"/>業障，覆蔽身心，生於八難，或墮地獄、傍生、鬼<lb
+ n="0043a14" ed="T"/>趣，或生邊地及彌戾車，或生長壽天，設得人<lb
+ n="0043a15" ed="T"/>身諸根不具，或起邪見撥無因果，或厭諸佛<lb
+ n="0043a16" ed="T"/>出興于世。如是一切業障，我今對一切諸佛<lb
+ n="0043a17" ed="T"/>世尊，具一切智者、具五眼者、證實際者、稱量<lb
+ n="0043a18" ed="T"/>者、知者、見者前，我今誠心悉皆懺悔，不敢覆<lb
+ n="0043a19" ed="T"/>藏，願我尸羅律儀復得如故。復願諸佛世尊<lb
+ n="0043a20" ed="T"/>攝受護念證明於我，若我今生或復餘生，無<lb
+ n="0043a21" ed="T"/>始時來於流轉生死，或曾捨施傍生一團之<lb
+ n="0043a22" ed="T"/>食、或曾持一淨戒、或曾修梵行善根、或曾<lb
+ n="0043a23" ed="T"/>修少分無上智善根，悉皆合集計校籌量。如<lb
+ n="0043a24" ed="T"/>三世一切諸佛於最勝無上迴向願中，願皆<lb
+ n="0043a25" ed="T"/>迴向無上正等菩提。<lb
+ n="0043a26" ed="T"/></ab>
+<ab type="verse">
+「一切罪懺悔，　　諸福皆隨喜，　　<lb
+ n="0043a27" ed="T"/>及勸請諸佛，　　願證無上智，　　<lb
+ n="0043a28" ed="T"/>過去及未來，　　現在人中尊，　　<lb
+ n="0043a29" ed="T"/>無量功德海，　　我今稽首禮。」　　
+</ab><pb n="0043b" id="T12.0326.0043b" ed="T"/><lb
+ n="0043b01" ed="T"/><ab type="prose"></ab></div><lb
+ n="0043b06" ed="T"/>
+<ab type="juan" subtype="close">佛說三十五佛名禮懺文</ab>
+</body></text></TEI>

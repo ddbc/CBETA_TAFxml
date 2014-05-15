@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說大普賢陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1367</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0884c19" ed="T"/><lb
+ n="0884c20" ed="T"/><lb
+ n="0884c21" ed="T"/><div type="jing" level="1"><lb
+ n="0884c22" ed="T"/>
+<ab type="juan" subtype="open">佛說大普賢陀羅尼經</ab><lb
+ n="0884c23" ed="T"/><lb
+ n="0884c24" ed="T"/><byline>失譯人名今附梁錄</byline><lb
+ n="0884c25" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0884c26" ed="T"/>時佛告阿難。吾今說大普賢呪。汝當受持。<lb
+ n="0884c27" ed="T"/></ab>
+<ab type="dharani">多擲多　阿咤　那咤　茶彌茶　遮居梨<lb
+ n="0884c28" ed="T"/>　居梨茶也　居梨茶也拔坻　思提　思<lb
+ n="0884c29" ed="T"/>陀　婆夢坻</ab>
+<ab type="prose">阿難此大普賢呪。遮滅一切<pb n="0885a" id="T21.1367.0885a" ed="T"/><lb
+ n="0885a01" ed="T"/>兵刃。除一切怨仇。除一切夜叉羅剎復多等<lb
+ n="0885a02" ed="T"/>畏。除一切不得食下鬼名。<lb
+ n="0885a03" ed="T"/>胡摩兜烏奢睺睺胡摩兜阿㝹羯卑胡摩<lb
+ n="0885a04" ed="T"/>兜破波羅胡摩兜莎呵。<lb
+ n="0885a05" ed="T"/>呪水七遍與病人飲之。<lb
+ n="0885a06" ed="T"/>腰脚痛鬼名<lb
+ n="0885a07" ed="T"/>呼盧兜波吒羅呼盧兜毘魔羅呼盧兜<lb
+ n="0885a08" ed="T"/>彌梨耆梨卑呼盧兜莎呵。<lb
+ n="0885a09" ed="T"/>呪三色縷青黃綠。結作七結。繫脚腕次繫髀<lb
+ n="0885a10" ed="T"/>後繫腰。<lb
+ n="0885a11" ed="T"/>頭痛鬼名<lb
+ n="0885a12" ed="T"/>胡摩兜摩呵迦吒羅毘摩迦吒羅呼呼羅<lb
+ n="0885a13" ed="T"/>迦吒羅伊呼迦吒羅伊未迦知迦吒羅<lb
+ n="0885a14" ed="T"/>莎呵。<lb
+ n="0885a15" ed="T"/>七遍呪楊枝打二七下。<lb
+ n="0885a16" ed="T"/>闇鈍鬼名<lb
+ n="0885a17" ed="T"/>哹吒吒浮律置浮吒吒阿支拏呼吒吒<lb
+ n="0885a18" ed="T"/>浮律置支呼吒吒伊呼破羅支呼吒吒私<lb
+ n="0885a19" ed="T"/>蜜兜伊呼支破羅莎呵。<lb
+ n="0885a20" ed="T"/>三七遍呪七日日三遍。<lb
+ n="0885a21" ed="T"/>耳痛鬼名<lb
+ n="0885a22" ed="T"/>比膩波阿制置毘膩波呼膩置毘膩波<lb
+ n="0885a23" ed="T"/>伊呼支膩置膩波耆摩膩毘膩波莎呵<lb
+ n="0885a24" ed="T"/>。<lb
+ n="0885a25" ed="T"/>於月生一日。設使左耳痛南向坐。右耳痛北<lb
+ n="0885a26" ed="T"/>向坐。東向門病人門內坐呪師門外坐。水亦<lb
+ n="0885a27" ed="T"/>門外二七遍三𠹀之。<lb
+ n="0885a28" ed="T"/>淋鬼名<lb
+ n="0885a29" ed="T"/>破波羅浮梨浮梨置破波羅車慕那破波<pb n="0885b" id="T21.1367.0885b" ed="T"/><lb
+ n="0885b01" ed="T"/>羅呼呼羅車波羅。<lb
+ n="0885b02" ed="T"/>熱病鬼神病。方道蠱毒呪術。毘多茶富多<lb
+ n="0885b03" ed="T"/>那等。善男子善女人所至之處。若行道中若<lb
+ n="0885b04" ed="T"/>水道中若急難處應念此呪。無有夜叉復多<lb
+ n="0885b05" ed="T"/>毘舍遮拘槃茶迦吒富多那羅剎毘多茶<lb
+ n="0885b06" ed="T"/>等畏。又無水火刀杖兵凶毒藥衰害呪術方<lb
+ n="0885b07" ed="T"/>道一切諸惡人非人等如是諸畏。阿難若有<lb
+ n="0885b08" ed="T"/>恐怖急難。應誦念此呪。無能作衰惱者。復次<lb
+ n="0885b09" ed="T"/>阿難若有受持讀誦此呪。如上天龍鬼神二<lb
+ n="0885b10" ed="T"/>十八部人非人等。不能越犯此呪。鐵輪金剛<lb
+ n="0885b11" ed="T"/>輪當為作苦患。令頭破作七分。四方四維上<lb
+ n="0885b12" ed="T"/>下若。有於此人起惡心者。悉皆繫其毒心令<lb
+ n="0885b13" ed="T"/>不發起。是善男子善女人。應善讀誦執持奉<lb
+ n="0885b14" ed="T"/>行。<lb
+ n="0885b15" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說大普賢陀羅尼經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說水沫所漂經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0106</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0501c05" ed="T"/><lb
+ n="0501c06" ed="T"/><lb
+ n="0501c07" ed="T"/><div type="jing" level="1"><lb
+ n="0501c08" ed="T"/>
+<ab type="juan" subtype="open">佛說水沫所漂經</ab><lb
+ n="0501c09" ed="T"/><lb
+ n="0501c10" ed="T"/><byline>東晉西域沙門竺曇無蘭譯</byline><lb
+ n="0501c11" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在阿迎闍恒水<lb
+ n="0501c12" ed="T"/>側，與大比丘眾五百人俱。時，有大聚沫為水<lb
+ n="0501c13" ed="T"/>所漂。世尊見已告諸比丘：「汝等頗見此沫聚<lb
+ n="0501c14" ed="T"/>為恒水所漂不？」諸比丘對曰：「如是。世尊！」世尊<lb
+ n="0501c15" ed="T"/>告曰：「此沫聚，若有目士，諦觀察之思惟分別，<lb
+ n="0501c16" ed="T"/>彼人見已諦觀察之思惟分別，空無所有，<lb
+ n="0501c17" ed="T"/>無來無往，亦不堅固。此水聚沫何可依怙？如<lb
+ n="0501c18" ed="T"/>是諸所有色，過去、當來、現在，若麁、若細、若遠、<lb
+ n="0501c19" ed="T"/>若近，彼有目士諦觀察之思惟分別。彼人見<lb
+ n="0501c20" ed="T"/>已諦觀察之思惟分別，空無所有，無來無往，<lb
+ n="0501c21" ed="T"/>空無所有，亦不堅固，此色陰有何堅固？譬如<lb
+ n="0501c22" ed="T"/>夏雨有泡現，或有生者，或有滅者，彼有目<lb
+ n="0501c23" ed="T"/>士諦觀察之思惟分別。彼人已見諦觀察之<lb
+ n="0501c24" ed="T"/>思惟分別，空無所有，無來無往，亦不堅固，<lb
+ n="0501c25" ed="T"/>猶如此水沫有何堅固？如是，此身中痛，當來<lb
+ n="0501c26" ed="T"/>過去現在，若麁、若細、若好、若醜、若遠、若近，彼<lb
+ n="0501c27" ed="T"/>有目士諦觀察之思惟分別。彼已觀察思惟<lb
+ n="0501c28" ed="T"/>分別，覺知空無所有，無來無往，亦不堅固，此<lb
+ n="0501c29" ed="T"/>痛陰中有何堅固？譬若夏後日日正中，無<pb n="0502a" ed="T" id="T02.0106.0502a"/><lb
+ n="0502a01" ed="T"/>有雲曀，野馬熾盛，彼有目士而觀察之思惟<lb
+ n="0502a02" ed="T"/>分別。彼已觀察思惟分別，則覺知空無所有，<lb
+ n="0502a03" ed="T"/>無來無往，亦不堅固，此野馬有何堅固？如是，<lb
+ n="0502a04" ed="T"/>諸所有想，過去、當來、現在，若麁、若細、若好、若<lb
+ n="0502a05" ed="T"/>醜、若遠、若近，彼有目士而觀察之思惟分別。<lb
+ n="0502a06" ed="T"/>彼已觀察思惟分別，空無所有，無來無往，亦<lb
+ n="0502a07" ed="T"/>無堅固，此想陰中有何堅固？譬如有人從城<lb
+ n="0502a08" ed="T"/>郭村落出，求堅固彼器，便往大叢樹中，若<lb
+ n="0502a09" ed="T"/>見芭蕉樹生茂盛好，人見者歡喜，獨生無枝<lb
+ n="0502a10" ed="T"/>葉，若斷其根作三四段，在處皮處皮剝却，欲<lb
+ n="0502a11" ed="T"/>求實不可得，況欲得堅固？彼有目士諦觀察<lb
+ n="0502a12" ed="T"/>思惟分別。彼已觀察思惟分別，空無所有，無<lb
+ n="0502a13" ed="T"/>來無往，亦不堅固，此芭蕉樹有何堅固？如是，<lb
+ n="0502a14" ed="T"/>諸所有行，過去、當來、現在，若麁、若細、若好、若<lb
+ n="0502a15" ed="T"/>醜、若遠、若近，彼有目士而觀察之思惟分別。<lb
+ n="0502a16" ed="T"/>彼已觀察思惟分別，覺知空無所有，無來無<lb
+ n="0502a17" ed="T"/>往，亦不堅固，此行陰有何堅固？譬如黠慧幻<lb
+ n="0502a18" ed="T"/>師及幻師弟子，在眾人前自現幻術，若有目<lb
+ n="0502a19" ed="T"/>士諦觀察思惟分別。彼已觀察思惟分別，空<lb
+ n="0502a20" ed="T"/>無所有，無來無往，亦不堅固，此幻術有何堅<lb
+ n="0502a21" ed="T"/>固？如是，諸所有識，過去、當來、現在，若麁、若細、<lb
+ n="0502a22" ed="T"/>若好、若醜、若遠、若近，彼有目士而諦觀察思<lb
+ n="0502a23" ed="T"/>惟分別。彼已觀察思惟分別，空無所有，無來<lb
+ n="0502a24" ed="T"/>無往，亦不堅固，此識陰有何堅固？」爾時，世尊<lb
+ n="0502a25" ed="T"/>便說偈言：<lb
+ n="0502a26" ed="T"/></ab>
+<ab type="verse">
+「色如彼聚沫，　　痛如彼水泡，　　<lb
+ n="0502a27" ed="T"/>想如夏野馬，　　行如芭蕉樹，　　<lb
+ n="0502a28" ed="T"/>識如彼幻術，　　最勝之所說。　　<lb
+ n="0502a29" ed="T"/>若能諦觀察，　　思惟而分別，　　<pb n="0502b" ed="T" id="T02.0106.0502b"/><lb
+ n="0502b01" ed="T"/>空亦無所有。　　若能作是觀，　　<lb
+ n="0502b02" ed="T"/>諦察此身中，　　大智之所說，　　<lb
+ n="0502b03" ed="T"/>當滅此三法，　　能捨除去色，　　<lb
+ n="0502b04" ed="T"/>此行亦如是，　　幻師不真術。」　　
+</ab><lb
+ n="0502b05" ed="T"/><ab type="prose">爾時，諸比丘聞佛所說，歡喜奉行。<lb
+ n="0502b06" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說水沫所漂經</ab></div>
+</body></text></TEI>

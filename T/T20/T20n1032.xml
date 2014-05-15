@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">瑜伽蓮華部念誦法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1032</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0006c" id="T20.1032.0006c" ed="T"/><lb
+ n="0006c01" ed="T"/><lb
+ n="0006c02" ed="T"/><lb
+ n="0006c03" ed="T"/>
+<ab type="juan" subtype="open">瑜伽蓮華部念誦法一卷</ab><lb
+ n="0006c04" ed="T"/><lb
+ n="0006c05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0006c06" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
+ n="0006c07" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0006c08" ed="T"/>不空奉　詔譯</byline><lb
+ n="0006c09" ed="T"/><div type="jing" level="1"><ab type="prose">初入道場。至心頂禮懺悔發願回向等已。<lb
+ n="0006c10" ed="T"/>即結蓮華合掌印　兩手指虛其掌。似未開<lb
+ n="0006c11" ed="T"/>芙蓉。誦一切法清淨真言。印心額喉頂上各<lb
+ n="0006c12" ed="T"/>一遍。即得清淨。真言曰。<lb
+ n="0006c13" ed="T"/></ab>
+<ab type="dharani">唵薩嚩婆嚩󰡊馱薩嚩達摩娑嚩<lb
+ n="0006c14" ed="T"/>婆嚩戍度唅<lb
+ n="0006c15" ed="T"/></ab>
+<ab type="prose">然後右膝著地。蓮華合掌置於頂上。誦真言<lb
+ n="0006c16" ed="T"/>想禮一切諸佛菩薩本尊足。真言曰。<lb
+ n="0006c17" ed="T"/></ab>
+<ab type="dharani">唵鉢娜麼勿<lb
+ n="0006c18" ed="T"/></ab>
+<ab type="prose">作此法已。即於一切諸佛菩薩。禮事供養皆<lb
+ n="0006c19" ed="T"/>悉成就。然後結加趺坐或半加坐。即結蓮<lb
+ n="0006c20" ed="T"/>華三昧耶印。兩手外相叉合掌。竪二大指二<pb n="0007a" id="T20.1032.0007a" ed="T"/><lb
+ n="0007a01" ed="T"/>小指相並。呈示一切諸佛菩薩本尊。即憶本<lb
+ n="0007a02" ed="T"/>誓願加持攝受。真言曰。<lb
+ n="0007a03" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉鉢娜麼三摩耶薩怛鑁<lb
+ n="0007a04" ed="T"/><lb
+ n="0007a05" ed="T"/></ab>
+<ab type="prose">次結極喜印。准前手勢。但以二中指。垂<lb
+ n="0007a06" ed="T"/>下於掌中。以指面相合。真言曰。<lb
+ n="0007a07" ed="T"/></ab>
+<ab type="dharani">唵三摩耶斛素囉多薩怛鑁<lb
+ n="0007a08" ed="T"/></ab>
+<ab type="prose">次結開心印。觀二乳上。右怛囉左吒<lb
+ n="0007a09" ed="T"/>字。如戶樞。以金剛縛三掣開。以開自心猶如<lb
+ n="0007a10" ed="T"/>啟扇。真言曰。<lb
+ n="0007a11" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉滿馱怛囉吒<lb
+ n="0007a12" ed="T"/></ab>
+<ab type="prose">次結入智印。准前金剛縛。但以二大拇指屈<lb
+ n="0007a13" ed="T"/>入掌中。觀一肘前有白蓮花。上置惡字字<lb
+ n="0007a14" ed="T"/>有白光。流入心中住白蓮花上。真言曰。<lb
+ n="0007a15" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉微舍惡<lb
+ n="0007a16" ed="T"/></ab>
+<ab type="prose">次結閉心門印。准前縛。但以二頭指並拄<lb
+ n="0007a17" ed="T"/>二大拇指節。以其印觸心。真言曰。<lb
+ n="0007a18" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉母瑟知𤚥<lb
+ n="0007a19" ed="T"/></ab>
+<ab type="prose">次結定印。兩手相叉仰安臍下。以二大拇指<lb
+ n="0007a20" ed="T"/>向上相捻。即誦入三摩地真言曰。<lb
+ n="0007a21" ed="T"/></ab>
+<ab type="dharani">唵三摩地鉢娜彌紇唎<lb
+ n="0007a22" ed="T"/></ab>
+<ab type="prose">次應端身正念入三摩地。舌拄上腭止諸攀<lb
+ n="0007a23" ed="T"/>緣。觀內外一切法皆無所有。若妄念多者應<lb
+ n="0007a24" ed="T"/>先數息。數息法從一息至七息。又從一至七<lb
+ n="0007a25" ed="T"/>相續不絕。心無攀緣即不須數息。深入清淨<lb
+ n="0007a26" ed="T"/>無所有處。即觀諸佛遍滿虛空。其身大小猶<lb
+ n="0007a27" ed="T"/>如胡麻具諸相好。告行者言。善男子汝觀自<lb
+ n="0007a28" ed="T"/>心。又觀己身遍禮佛足。白佛言世尊云何觀<lb
+ n="0007a29" ed="T"/>心。心何相貌。諸佛告言。善男子心相難可測<pb n="0007b" id="T20.1032.0007b" ed="T"/><lb
+ n="0007b01" ed="T"/>量。授與真言密誦觀察。真言曰。<lb
+ n="0007b02" ed="T"/></ab>
+<ab type="dharani">唵質多鉢囉底微鄧迦嚕弭<lb
+ n="0007b03" ed="T"/></ab>
+<ab type="prose">行者密誦諦觀己心猶如淨月。諸佛告言。善<lb
+ n="0007b04" ed="T"/>男子汝心本如是。但客塵所翳。當知此即是<lb
+ n="0007b05" ed="T"/>菩提心。又授真言曰。<lb
+ n="0007b06" ed="T"/></ab>
+<ab type="dharani">唵冒地質多　畝怛波娜夜弭<lb
+ n="0007b07" ed="T"/></ab>
+<ab type="prose">誦此真言。諦觀心月轉更分明淨無瑕翳。即<lb
+ n="0007b08" ed="T"/>於月輪中觀紇唎字。成一八葉白蓮花<lb
+ n="0007b09" ed="T"/>光明顯照。真言曰。<lb
+ n="0007b10" ed="T"/></ab>
+<ab type="dharani">唵底瑟姹嚩日囉鉢娜麼<lb
+ n="0007b11" ed="T"/></ab>
+<ab type="prose">次又觀此白蓮華遍周法界量同虛空。真言<lb
+ n="0007b12" ed="T"/>曰。<lb
+ n="0007b13" ed="T"/></ab>
+<ab type="dharani">唵薩癹囉嚩日囉鉢娜摩<lb
+ n="0007b14" ed="T"/></ab>
+<ab type="prose">次觀白蓮華漸漸收斂。虛空諸佛悉入其中<lb
+ n="0007b15" ed="T"/>量等己身。真言曰。<lb
+ n="0007b16" ed="T"/></ab>
+<ab type="dharani">唵僧訶囉嚩日囉鉢娜摩<lb
+ n="0007b17" ed="T"/></ab>
+<ab type="prose">即變蓮華成觀自在菩薩。寶冠瓔珞相好莊嚴。<lb
+ n="0007b18" ed="T"/>放大光明遍周法界。冠上有無量壽佛本尊<lb
+ n="0007b19" ed="T"/>左手執白蓮花。右手作擘開蓮華勢。真言曰。<lb
+ n="0007b20" ed="T"/></ab>
+<ab type="dharani">唵三摩喻含摩訶三摩喻含薩婆怛他孽<lb
+ n="0007b21" ed="T"/>多毘三冒地嚩日囉鉢娜摩阿怛<lb
+ n="0007b22" ed="T"/>摩句含<lb
+ n="0007b23" ed="T"/></ab>
+<ab type="prose">入是三昧者。一切天龍八部。見行者身與觀<lb
+ n="0007b24" ed="T"/>自在等無差別。能除行者無量億劫生死重<lb
+ n="0007b25" ed="T"/>罪。一切勝願無不悉地。現得圓滿金剛法<lb
+ n="0007b26" ed="T"/>身。即觀此身便成正覺。<lb
+ n="0007b27" ed="T"/>次結加持印。外相叉金剛縛結已。即變屈二<lb
+ n="0007b28" ed="T"/>頭指。捻二大拇指。印心額喉頂各誦一遍。真<lb
+ n="0007b29" ed="T"/>言曰。<pb n="0007c" id="T20.1032.0007c" ed="T"/><lb
+ n="0007c01" ed="T"/></ab>
+<ab type="dharani">唵紇唎薩婆迦哩阿地瑟姹薩嚩𤚥<lb
+ n="0007c03" ed="T"/></ab>
+<ab type="prose">次結灌頂印。合掌已。竪二大拇指。偃蹙八<lb
+ n="0007c04" ed="T"/>指如寶形。置於頂上誦真言三遍。想五如來<lb
+ n="0007c05" ed="T"/>冠以冠其首。真言曰。<lb
+ n="0007c06" ed="T"/></ab>
+<ab type="dharani">唵紇唎摩抳鉢娜摩阿毘詵者薩嚩<lb
+ n="0007c07" ed="T"/>𤚥怛𡀔紇唎<lb
+ n="0007c08" ed="T"/></ab>
+<ab type="prose">次結繫鬘印誦真言。以前冠頂印。從額分<lb
+ n="0007c09" ed="T"/>二手。於腦後三相繞如繫鬘。便向前耳邊下。<lb
+ n="0007c10" ed="T"/>從小指散垂如鬘帶勢。真言曰。<lb
+ n="0007c11" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉鉢娜摩磨隸𤚥紇唎<lb
+ n="0007c12" ed="T"/></ab>
+<ab type="prose">次結甲冑印。結金剛拳如小兒握固。以二頭<lb
+ n="0007c13" ed="T"/>指各拄二大拇指節。當心已。即伸二頭指相<lb
+ n="0007c14" ed="T"/>掩一節許。仍以右指左指上。觀右頭指面有<lb
+ n="0007c15" ed="T"/>唵字。左頭指面有跕字。口中仍誦此兩字真<lb
+ n="0007c16" ed="T"/>言不斷絕。想其字並放綠色光。如抽藕絲光<lb
+ n="0007c17" ed="T"/>不斷絕。心前三繞。背上三繞。又至臍又至<lb
+ n="0007c18" ed="T"/>兩膝。又至腰又當心。次右肩左肩次至額上。<lb
+ n="0007c19" ed="T"/>又於腦後各三繞已。却結金剛拳印從小指<lb
+ n="0007c20" ed="T"/>散如垂天衣。<lb
+ n="0007c21" ed="T"/>即以二縛不得解。但以掌三相拍。真言曰。<lb
+ n="0007c22" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉鉢娜摩覩史也斛<lb
+ n="0007c23" ed="T"/></ab>
+<ab type="prose">次於壇中觀阿字成月輪。於月輪中觀紇<lb
+ n="0007c24" ed="T"/>唎字成本尊身。放大光明。無量眷屬普<lb
+ n="0007c25" ed="T"/>現於圓光內。<lb
+ n="0007c26" ed="T"/>即結鉤印。金剛縛舉右頭指。如鉤三招。一誦<lb
+ n="0007c27" ed="T"/>一招。真言曰。<lb
+ n="0007c28" ed="T"/></ab>
+<ab type="dharani">唵阿夜係弱<lb
+ n="0007c29" ed="T"/></ab>
+<ab type="prose">次以索印。如前縛以二頭指相拄如環。引<pb n="0008a" id="T20.1032.0008a" ed="T"/><lb
+ n="0008a01" ed="T"/>本尊入所觀智身。真言曰。<lb
+ n="0008a02" ed="T"/></ab>
+<ab type="dharani">唵阿係吽吽<lb
+ n="0008a03" ed="T"/></ab>
+<ab type="prose">次結鎖印。准前縛以二頭指及二大指。相串<lb
+ n="0008a04" ed="T"/>各相捻如聯鎖。令本尊止住。真言曰。<lb
+ n="0008a05" ed="T"/></ab>
+<ab type="dharani">唵係薩普吒𤚥<lb
+ n="0008a06" ed="T"/></ab>
+<ab type="prose">次結鈴印。准前縛屈二大拇指入掌中。三撼<lb
+ n="0008a07" ed="T"/>手如搖鈴。令本尊歡喜。真言曰。<lb
+ n="0008a08" ed="T"/></ab>
+<ab type="dharani">唵尾舍耶斛<lb
+ n="0008a09" ed="T"/></ab>
+<ab type="prose">次結獻遏伽香水印。誦百字真言或餘讚歎。<lb
+ n="0008a10" ed="T"/>兩手外相叉擘開掌。以二中指頭相合。以二<lb
+ n="0008a11" ed="T"/>頭指微屈。去中指背一麥許不相著。狀如<lb
+ n="0008a12" ed="T"/>三鈷杵頭。二大拇指博著二頭指下側。即想<lb
+ n="0008a13" ed="T"/>香水滿掬。誦真言向前寫灌洗本尊足。真言<lb
+ n="0008a14" ed="T"/>曰。<lb
+ n="0008a15" ed="T"/></ab>
+<ab type="dharani">唵嚩日𡀔娜迦坼<lb
+ n="0008a16" ed="T"/></ab>
+<ab type="prose">本尊既至次結羯摩印。左手金剛拳當心著。<lb
+ n="0008a17" ed="T"/>想把白蓮華。右手亦金剛拳於上轉。想撥開<lb
+ n="0008a18" ed="T"/>蓮葉即身。同本尊事業真言曰。<lb
+ n="0008a19" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉達摩紇唎<lb
+ n="0008a20" ed="T"/></ab>
+<ab type="prose">次結三昧耶印。金剛縛屈二頭指。以二大拇<lb
+ n="0008a21" ed="T"/>指押。同已上加持印。令本尊憶本誓願加持<lb
+ n="0008a22" ed="T"/>攝護。真言曰。<lb
+ n="0008a23" ed="T"/></ab>
+<ab type="dharani">唵薩嚩迦里<lb
+ n="0008a24" ed="T"/></ab>
+<ab type="prose">然後結金剛嬉戲內供養印。金剛縛伸二大<lb
+ n="0008a25" ed="T"/>拇指。偃向身相並當心。真言曰。<lb
+ n="0008a26" ed="T"/></ab>
+<ab type="dharani">唵摩訶囉底<lb
+ n="0008a27" ed="T"/></ab>
+<ab type="prose">次結鬘。准前印更不改。但以二臂相並直<lb
+ n="0008a28" ed="T"/>伸。向前當額。真言曰。<lb
+ n="0008a29" ed="T"/></ab>
+<ab type="dharani">唵𡀔波輸陛<pb n="0008b" id="T20.1032.0008b" ed="T"/><lb
+ n="0008b01" ed="T"/></ab>
+<ab type="prose">次結歌印。不改前印。從前至口解散。向前垂<lb
+ n="0008b02" ed="T"/>二手下。如發歌音。真言曰。<lb
+ n="0008b03" ed="T"/></ab>
+<ab type="dharani">唵󰡊嚧怛囉燥溪<lb
+ n="0008b04" ed="T"/></ab>
+<ab type="prose">次結舞印。以二金剛拳相旋繞。各從小指散。<lb
+ n="0008b05" ed="T"/>便金剛合掌置於頂上真<lb
+ n="0008b06" ed="T"/>言曰。<lb
+ n="0008b07" ed="T"/></ab>
+<ab type="dharani">唵薩嚩布而　已上內四供養<lb
+ n="0008b08" ed="T"/></ab>
+<ab type="prose">次結焚香印。以金剛縛向下解散。如焚香。<lb
+ n="0008b09" ed="T"/>真言曰。<lb
+ n="0008b10" ed="T"/></ab>
+<ab type="dharani">唵鉢囉訶囉儞寧<lb
+ n="0008b11" ed="T"/></ab>
+<ab type="prose">次結華印。以金剛縛向上解散。如散華。真言<lb
+ n="0008b12" ed="T"/>曰。<lb
+ n="0008b13" ed="T"/></ab>
+<ab type="dharani">唵頗攞誐弭<lb
+ n="0008b14" ed="T"/></ab>
+<ab type="prose">次結燈印。准前嬉戲。但以二大拇指。頭屈前<lb
+ n="0008b15" ed="T"/>相逼。亦不得相著指。真言曰。<lb
+ n="0008b16" ed="T"/></ab>
+<ab type="dharani">唵素帝惹仡哩<lb
+ n="0008b17" ed="T"/></ab>
+<ab type="prose">次結塗香印。以金剛縛解散。摩胸上如塗香<lb
+ n="0008b18" ed="T"/>勢真言曰。<lb
+ n="0008b19" ed="T"/></ab>
+<ab type="dharani">唵素巘蕩儗　已上外四供養<lb
+ n="0008b20" ed="T"/></ab>
+<ab type="prose">次結部心根本印。合掌以二無名指二頭指。<lb
+ n="0008b21" ed="T"/>初分相交。其二小指二大拇指擘開。誦百字<lb
+ n="0008b22" ed="T"/>真言三遍。三字半七遍已於頂上散。然後<lb
+ n="0008b23" ed="T"/>執念珠念誦。二手把珠當心念誦。諦觀本<lb
+ n="0008b24" ed="T"/>尊放淨光明。流注已頂照於心月。月有白<lb
+ n="0008b25" ed="T"/>蓮華。身與本尊色相無二。如於明鏡自觀<lb
+ n="0008b26" ed="T"/>己身。與本尊互成影像。遍數終訖懺悔發<lb
+ n="0008b27" ed="T"/>願。重獻三昧耶重結八供養。然後發遣聖者<lb
+ n="0008b28" ed="T"/>復還本宮。發遣者用前三昧耶印當口解。真<pb n="0008c" id="T20.1032.0008c" ed="T"/><lb
+ n="0008c01" ed="T"/>言曰。<lb
+ n="0008c02" ed="T"/></ab>
+<ab type="dharani">唵鉢娜摩薩怛縛穆<lb
+ n="0008c03" ed="T"/></ab>
+<ab type="prose">然後復結加持灌頂甲冑拍印等。然後出道<lb
+ n="0008c04" ed="T"/>場。或讀大乘經。或印佛作塔。於一切時本尊<lb
+ n="0008c05" ed="T"/>三摩地不令間斷。若觸穢處當觀頂上有法<lb
+ n="0008c06" ed="T"/>界生字。放赤色光。所謂㘕字。於所食物皆<lb
+ n="0008c07" ed="T"/>加持此字。即不成穢觸於一切供養香華。皆<lb
+ n="0008c08" ed="T"/>加持此字放白色光。即無穢觸。所供養物<lb
+ n="0008c09" ed="T"/>皆遍法界。<lb
+ n="0008c10" ed="T"/>蓮華部百字真言曰。<lb
+ n="0008c11" ed="T"/></ab>
+<ab type="dharani">唵鉢娜摩薩怛嚩三摩耶摩<lb
+ n="0008c12" ed="T"/>努播羅耶鉢娜麼薩怛嚩怛尾弩<lb
+ n="0008c13" ed="T"/>波底瑟姹涅哩住銘婆嚩素覩<lb
+ n="0008c14" ed="T"/>使諭寐婆嚩阿弩囉訖覩寐婆嚩<lb
+ n="0008c15" ed="T"/>素補使諭寐婆嚩薩嚩悉地寐鉢囉也瑳薩嚩羯磨素者寐質多室唎藥句𡀔吽呵呵呵呵穀薄伽<lb
+ n="0008c18" ed="T"/>梵薩嚩怛他孽多鉢娜麼麼寐<lb
+ n="0008c19" ed="T"/>悶者鉢娜寐婆嚩摩訶三摩耶薩<lb
+ n="0008c20" ed="T"/>怛嚩紇唎<lb
+ n="0008c21" ed="T"/>
+</ab><ab type="juan" subtype="close">瑜伽蓮華部念誦法一卷</ab></div>
+</body></text></TEI>

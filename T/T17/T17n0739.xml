@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說慢法經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0739</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0542c10" ed="T"/><lb
+ n="0542c11" ed="T"/><lb
+ n="0542c12" ed="T"/><lb
+ n="0542c13" ed="T"/>
+<ab type="juan" subtype="open">佛說慢法經</ab><lb
+ n="0542c14" ed="T"/><lb
+ n="0542c15" ed="T"/><byline>西晉沙門法炬譯</byline><lb
+ n="0542c16" ed="T"/><div type="jing" level="1"><ab type="prose">佛告阿難：「有人事佛以後便富貴；有人事<lb
+ n="0542c17" ed="T"/>佛以後衰喪不利者。」阿難問佛：「云何俱事<lb
+ n="0542c18" ed="T"/>佛，衰、利不同？何故得爾？」佛語阿難：「有人事<lb
+ n="0542c19" ed="T"/>佛，當求明師；得了了者，從受戒法。為除諸<lb
+ n="0542c20" ed="T"/>想，與經相應；精進奉行，不失其教。受者不<lb
+ n="0542c21" ed="T"/>犯，如毛髮者，是人不犯道禁，常為諸天、善神<lb
+ n="0542c22" ed="T"/>侍衛擁護，所向諧偶，財利百倍，眾人所敬，<lb
+ n="0542c23" ed="T"/>後當得佛，何況富利！如是人輩事佛，為真<lb
+ n="0542c24" ed="T"/>佛弟子。「又復有人事佛，不值明師，亦無經<lb
+ n="0542c25" ed="T"/>像，又復不禮敬。不知不解，強教人受法戒，<lb
+ n="0542c26" ed="T"/>無有至信。受戒之後，故復犯眾戒。心意蒙<lb
+ n="0542c27" ed="T"/>冥、猶豫，不肯讀經、行道、作福，乍信、乍不信。<lb
+ n="0542c28" ed="T"/>復不能念齋日、燒香、燃燈作禮。故復瞋恚、嚾<lb
+ n="0542c29" ed="T"/>呼、罵詈，出入呪咀，口初不合，心懷憎嫉，使<pb n="0543a" ed="T" id="T17.0739.0543a"/><lb
+ n="0543a01" ed="T"/>人殺生。眼見經像，無有禮敬之心。若其有<lb
+ n="0543a02" ed="T"/>經，趣掛著壁，或擲床席之上，或著故衣被弊<lb
+ n="0543a03" ed="T"/>筐器中，或以妻子、小兒不淨手弄之；烟熏屋<lb
+ n="0543a04" ed="T"/>漏，不復瞻視；亦不燒香、燃燈向之作禮，與<lb
+ n="0543a05" ed="T"/>外經書無異。善神離之，惡鬼得其便，隨逐<lb
+ n="0543a06" ed="T"/>不置，因衰病之。適得疾病，恐怖猶豫，自念<lb
+ n="0543a07" ed="T"/>言：『我初事佛，云何故復疾病也？』不能自信，<lb
+ n="0543a08" ed="T"/>呼使至醫師。醫師卜問、解除、鎮厭無益，遂便<lb
+ n="0543a09" ed="T"/>禱賽邪神，眾過遂增。妖魅惡鬼，屯守其門，遂<lb
+ n="0543a10" ed="T"/>便喪衰、死亡，不離門戶。財產衰耗，家室病<lb
+ n="0543a11" ed="T"/>疾，更相注續，不離床席。命終罪辜，墮埿犁<lb
+ n="0543a12" ed="T"/>中，當被考治讁罰，無有歲數。是人但坐，不能<lb
+ n="0543a13" ed="T"/>專一，志意猶豫，無所專據，不信佛法，故得其<lb
+ n="0543a14" ed="T"/>罪殃，衰耗如是。「世間人不知佛法者，謂呼<lb
+ n="0543a15" ed="T"/>事佛令得殃衰，不知其人行自不正，違犯佛<lb
+ n="0543a16" ed="T"/>經戒。心專行惡，眾態具足，身自招之，無有<lb
+ n="0543a17" ed="T"/>與者。」阿難聞之，便頭面著地，為佛作禮，歡<lb
+ n="0543a18" ed="T"/>喜奉行。</ab></div><lb
+ n="0543a19" ed="T"/>
+<ab type="juan" subtype="close">佛說慢法經</ab>
+</body></text></TEI>

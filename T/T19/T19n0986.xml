@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大金色孔雀王呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0986</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0477c" id="T19.0986.0477c" ed="T"/><lb
+ n="0477c01" ed="T"/><lb
+ n="0477c02" ed="T"/><div type="jing" level="1"><lb
+ n="0477c03" ed="T"/>
+<ab type="juan" subtype="open">大金色孔雀王呪經一卷</ab><lb
+ n="0477c04" ed="T"/><lb
+ n="0477c05" ed="T"/><byline>失譯人名今附秦錄</byline><lb
+ n="0477c06" ed="T"/><ab type="prose">佛告阿難。往昔於雪山王南。有一金色孔雀<lb
+ n="0477c07" ed="T"/>王。佛住其中。彼以此大孔雀王呪經。朝說<lb
+ n="0477c08" ed="T"/>自護晝則平安。暮說自護夜則安隱。即說呪<lb
+ n="0477c09" ed="T"/>曰。<lb
+ n="0477c10" ed="T"/></ab>
+<ab type="dharani">吼吼吼吼吼吼吼吼吼吼梨梨梨梨曇婆<lb
+ n="0477c11" ed="T"/>梨梨梨毘摩梨梨暉夜暉夜毘闍毘闍瑜<lb
+ n="0477c12" ed="T"/>𡾄求漏伊羅　彌羅　伊利彌羅　知梨彌<lb
+ n="0477c13" ed="T"/>羅　伊梨彌帝梨　醯利知利　彌帝黎　曇<lb
+ n="0477c14" ed="T"/>德修曇德妬修妬　衢羅支羅　遮娑羅<lb
+ n="0477c15" ed="T"/>　毘羅遮伊知梨　毘知梨知梨<lb
+ n="0477c16" ed="T"/></ab>
+<ab type="prose">阿難我今為汝。說大孔雀王呪王心。即說呪<lb
+ n="0477c17" ed="T"/>曰。<lb
+ n="0477c18" ed="T"/></ab>
+<ab type="dharani">伊致　知利　畢利　彌利　彌利　知弭<lb
+ n="0477c19" ed="T"/>　𡾄曇柄　耽柄　脂利吉　脂利吉賜夜毘<lb
+ n="0477c20" ed="T"/>羅那彌稚　南無一切諸佛指吉賜　波多牟<lb
+ n="0477c21" ed="T"/>黎　伊致訶羅　盧醯帶　牟羅帶牟羅兜娑<lb
+ n="0477c22" ed="T"/>菴婆　鳩致鳩那致　鳩鳩那知羅鳩闍那致<lb
+ n="0477c23" ed="T"/>　阿茶婆多夜　那婆魔娑陀賒魔賜帝　伊<lb
+ n="0477c24" ed="T"/>利彌利　吉利彌利　翅羅羅彌　離翅斗<lb
+ n="0477c25" ed="T"/>牟隸　頭頭摩薩頭彌緻　他離彌薩斗婆<lb
+ n="0477c26" ed="T"/>帝　牟薩帝　浮薩羅　浮薩羅　浮薩羅<lb
+ n="0477c27" ed="T"/>　浮薩羅　伊那婆悉哆婆翅　那迦羅　那羅<lb
+ n="0477c28" ed="T"/>摩林彌　蝎羅　佉羅　摩詰隸　伊帝薩闍<lb
+ n="0477c29" ed="T"/>隸耽億　阿那帝波那帝阿那那那帝<pb n="0478a" id="T19.0986.0478a" ed="T"/><lb
+ n="0478a01" ed="T"/></ab>
+<ab type="prose">天速降雨　周匝結界七遍讀誦。即說呪曰。<lb
+ n="0478a02" ed="T"/></ab>
+<ab type="dharani">那羅延波那延　阿梨多利　鳩多利伊利彌<lb
+ n="0478a03" ed="T"/>悉帝　吉帝利　彌悉帝　彌悉伊利彌呪曰<lb
+ n="0478a04" ed="T"/>成就吉<lb
+ n="0478a05" ed="T"/></ab>
+<ab type="prose">阿難此大孔雀呪王。彌勒菩薩隨順所說。即<lb
+ n="0478a06" ed="T"/>說呪曰。<lb
+ n="0478a07" ed="T"/></ab>
+<ab type="dharani">尸利　尸利　尸利　尸利　婆陀　樹樹<lb
+ n="0478a08" ed="T"/>　知婆帝隸　訶隸訶隸　訶利膩檀帝　賒<lb
+ n="0478a09" ed="T"/>婆隸尸德　收羅婆膩　收羅婆膩　菩提<lb
+ n="0478a10" ed="T"/>　菩提　菩提　菩提　菩提　薩斗婆　菩提<lb
+ n="0478a11" ed="T"/>婆利　遮羅尼裔　悉波訶<lb
+ n="0478a12" ed="T"/></ab>
+<ab type="prose">阿難此大孔雀呪王。娑婆世界主梵天王隨<lb
+ n="0478a13" ed="T"/>順所說。即說呪曰。<lb
+ n="0478a14" ed="T"/></ab>
+<ab type="dharani">醯隸　醯隸　訶隸　彌利　摩利膩　波居<lb
+ n="0478a15" ed="T"/>利　吉利　吉利　吉利　吉利底　梵魔裔<lb
+ n="0478a16" ed="T"/>　鳩蘭茶翅　毘圖訶　浮賜　浮數　浮數<lb
+ n="0478a17" ed="T"/>　浮數　浮數　浮數　悉波訶<lb
+ n="0478a18" ed="T"/></ab>
+<ab type="prose">阿難是大孔雀呪王。天帝釋隨順所說。即說<lb
+ n="0478a19" ed="T"/>呪曰。<lb
+ n="0478a20" ed="T"/></ab>
+<ab type="dharani">陀羅　禪頭隸　摩羅　禪兜隸　遮󰽪致禪<lb
+ n="0478a21" ed="T"/>頭兜隸　摩他膩　迦多膩　伽婆膩　醯利<lb
+ n="0478a22" ed="T"/>　尸利稠底　尸利多柳　那肆　訶訶訶訶<lb
+ n="0478a23" ed="T"/>訶訶　私醯　脂底　毘絺帝　鳩柳婆羅誓<lb
+ n="0478a24" ed="T"/>　兜吒兜吒肆　波吒　波吒肆　私利私利<lb
+ n="0478a25" ed="T"/>　劫卑隸劫卑羅　至隸　訶醯吼<lb
+ n="0478a26" ed="T"/></ab>
+<ab type="prose">令一切凶惡皆悉降伏攝其手足支節莫令得<lb
+ n="0478a27" ed="T"/>動乃至三十三天。</ab>
+<ab type="dharani">憂致者利　修羅波帝<lb
+ n="0478a28" ed="T"/>　波帝　波視羅　波視羅　波視羅　波視羅<lb
+ n="0478a29" ed="T"/>　波視羅　波視羅　波帝　悉婆訶<pb n="0478b" id="T19.0986.0478b" ed="T"/><lb
+ n="0478b01" ed="T"/></ab>
+<ab type="prose">阿難汝受是先出神仙名號。終吉成就志念<lb
+ n="0478b02" ed="T"/>成就呪術成就常修苦行住止山林。勢力自<lb
+ n="0478b03" ed="T"/>在感變速疾。五通如意遊步虛空。吾今說其<lb
+ n="0478b04" ed="T"/>名號。所謂名八脫大仙名左大仙。左天大仙<lb
+ n="0478b05" ed="T"/>波梨大仙。日施大仙善及大仙。覆住大仙迦<lb
+ n="0478b06" ed="T"/>葉大仙。老迦葉大仙皺眉大仙。支山大仙分<lb
+ n="0478b07" ed="T"/>樂大仙。名是大仙名前大仙。鹿頭大仙闍羅<lb
+ n="0478b08" ed="T"/>大仙。二熟大仙黑二熟大仙。採清大仙乎<lb
+ n="0478b09" ed="T"/>山大仙。忍辱大仙名稱大仙。名師子大仙名<lb
+ n="0478b10" ed="T"/>舡大仙。名鴿大仙名馬大仙。名雪大仙赤<lb
+ n="0478b11" ed="T"/>目大仙。難事大仙毘若波耶大仙名鎧大仙。<lb
+ n="0478b12" ed="T"/>名秋大仙。太白大仙名歲大仙。無諍大仙諍<lb
+ n="0478b13" ed="T"/>夜步大仙。名覺大仙縛指火大仙。持香大仙<lb
+ n="0478b14" ed="T"/>一角大仙。仙角大仙揭瞿大仙。單茶耶那大<lb
+ n="0478b15" ed="T"/>仙名頭大仙。分界大仙劫畢羅大仙。瞿曇大<lb
+ n="0478b16" ed="T"/>仙赤馬大仙毛聚大仙無樂大仙。吉膩盧大<lb
+ n="0478b17" ed="T"/>仙。阿難斯等是先出大仙。造四圍陀所為如<lb
+ n="0478b18" ed="T"/>意。苦行嚴迅有大威勢。所作悉辦。斯等亦<lb
+ n="0478b19" ed="T"/>以此大孔雀王呪經。擁護某甲令受百歲得<lb
+ n="0478b20" ed="T"/>見百秋。即說呪曰。<lb
+ n="0478b21" ed="T"/></ab>
+<ab type="dharani">訶利　訶利　訶利　絺利　彌利　修利<lb
+ n="0478b22" ed="T"/>　修利　醯利　醯利　彌利　彌利　陀覆陀<lb
+ n="0478b23" ed="T"/>茶覆伽婆膩　摩他膩　他訶膩　陀訶膩<lb
+ n="0478b24" ed="T"/>簸遮膩　簸遮膩　簸多膩阿那膩　他羅<lb
+ n="0478b25" ed="T"/>　遮羅遮羅膩　簸吒膩　摸訶膩　擔婆膩<lb
+ n="0478b26" ed="T"/>　閻婆膩　悉波訶<lb
+ n="0478b27" ed="T"/></ab>
+<ab type="prose">四天王及諸大鬼神王。亦以孔雀呪王。擁護<lb
+ n="0478b28" ed="T"/>某甲令壽百歲得見百耿。即說呪曰。<lb
+ n="0478b29" ed="T"/></ab>
+<ab type="dharani">何迦帝毘迦帝　󰶾羅膩　󰶾羅膩　阿<pb n="0478c" id="T19.0986.0478c" ed="T"/><lb
+ n="0478c01" ed="T"/>羅尼　吼翅吼翅　負翅負翅　訶奈訶奈<lb
+ n="0478c02" ed="T"/>訶奈訶奈訶奈訶奈訶奈訶奈<lb
+ n="0478c03" ed="T"/>訶奈<lb
+ n="0478c04" ed="T"/></ab>
+<ab type="prose">除其怨家。<lb
+ n="0478c05" ed="T"/></ab>
+<ab type="dharani">陀訶陀訶陀訶陀訶陀訶陀訶陀訶陀訶<lb
+ n="0478c06" ed="T"/>陀訶陀訶<lb
+ n="0478c07" ed="T"/></ab>
+<ab type="prose">其有向某生惡念者皆悉治之。<lb
+ n="0478c08" ed="T"/></ab>
+<ab type="dharani">鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘鉢柘<lb
+ n="0478c09" ed="T"/>鉢柘<lb
+ n="0478c10" ed="T"/></ab>
+<ab type="prose">若有向某伺求便者皆治之。<lb
+ n="0478c11" ed="T"/></ab>
+<ab type="dharani">豆豆豆豆豆豆豆　滅某怨惡<lb
+ n="0478c12" ed="T"/>訶訶訶訶訶訶訶訶　闍帝闍帝　闍帝<lb
+ n="0478c13" ed="T"/>闍帝　闍帝　闍帝　闍帝　闍帝　闍帝<lb
+ n="0478c14" ed="T"/>　滅其怨惡<lb
+ n="0478c15" ed="T"/>周婁　周婁　周婁　周婁　周婁　周婁<lb
+ n="0478c16" ed="T"/>周婁　周婁　周婁　周婁　醯利　醯利<lb
+ n="0478c17" ed="T"/>　醯利　醯利　醯利　醯利　醯利　醯利<lb
+ n="0478c18" ed="T"/>　醯利　醯利　彌利　彌利　彌利　彌利<lb
+ n="0478c19" ed="T"/>　彌利　彌利　彌利　彌利　彌利　彌利<lb
+ n="0478c20" ed="T"/>　睺漏　睺漏　睺漏　睺漏　睺漏　睺漏<lb
+ n="0478c21" ed="T"/>　睺漏　睺漏　睺漏　睺漏　脂致　脂致<lb
+ n="0478c22" ed="T"/>　脂致　脂致　脂致　脂致　脂致　脂致<lb
+ n="0478c23" ed="T"/>　脂致　脂致　醯翅　醯翅　支翅　魔翅<lb
+ n="0478c24" ed="T"/></ab>
+<ab type="prose">得賢吉祥　普賢成一切事　無垢　淨妙<lb
+ n="0478c25" ed="T"/>　月賢　日愛　曇德杜　曇德　毘蠅<lb
+ n="0478c26" ed="T"/>　加隸　擁護某甲令得壽百歲得見百秋　摩<lb
+ n="0478c27" ed="T"/>尼羅亶經　摩訶乾陀比丘　救病苦厄孔雀<lb
+ n="0478c28" ed="T"/>王呪　除其怨家<lb
+ n="0478c29" ed="T"/>
+</ab><ab type="juan" subtype="close">大金色孔雀王呪經一卷</ab></div>
+</body></text></TEI>

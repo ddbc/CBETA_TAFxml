@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">六字大陀羅尼呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1046</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0043c02" ed="T"/><lb
+ n="0043c03" ed="T"/><lb
+ n="0043c04" ed="T"/><lb
+ n="0043c05" ed="T"/>
+<ab type="juan" subtype="open">六字大陀羅尼呪經</ab><lb
+ n="0043c06" ed="T"/><lb
+ n="0043c07" ed="T"/><byline>失譯人名今附梁錄</byline><lb
+ n="0043c08" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時婆伽婆。住王舍城耆闍崛山<lb
+ n="0043c09" ed="T"/>中。與大比丘眾五百人俱。爾時長老阿難。為<lb
+ n="0043c10" ed="T"/>旃陀梨女呪術所收爾時長老阿難。白佛言<lb
+ n="0043c11" ed="T"/>世尊。我今強為他收去。婆伽婆我今強為他<lb
+ n="0043c12" ed="T"/>收去修伽陀。<lb
+ n="0043c13" ed="T"/>爾時婆伽婆告長老阿難言。汝來阿難汝莫<lb
+ n="0043c14" ed="T"/>驚怖。阿難汝當受持六字大陀羅尼呪。為令<lb
+ n="0043c15" ed="T"/>四眾利益安隱安樂吉祥行故。而說呪曰。<lb
+ n="0043c16" ed="T"/></ab>
+<ab type="dharani">斯地梯曇安茶隸般茶隸葛羅馳稽由隷<lb
+ n="0043c18" ed="T"/>　薩帝　婆帝　耶󰽎婆帝　底闍婆帝　頻頭<lb
+ n="0043c19" ed="T"/>摩帝<lb
+ n="0043c20" ed="T"/></ab>
+<ab type="prose">阿難是呪。能令宿食不消尋得消化。能除吐<lb
+ n="0043c21" ed="T"/>下等病。能除風病。熱病冷病雜病。能滅一切<lb
+ n="0043c22" ed="T"/>諸邪呪術。能滅起屍。能滅一切形像厭蠱。阿<lb
+ n="0043c23" ed="T"/>難若有人知此神呪姓名者。彼則不怖畏王<lb
+ n="0043c24" ed="T"/>難。不怖畏怨敵難不怖畏賊難。不怖畏火難<lb
+ n="0043c25" ed="T"/>不怖畏水難。若於城邑聚落及在曠野悉無<lb
+ n="0043c26" ed="T"/>所畏。亦不為他人伺求其過無過可說。若食<lb
+ n="0043c27" ed="T"/>毒藥毒不能害轉為利益。<lb
+ n="0043c28" ed="T"/>阿難此六字大陀羅尼呪乃是七三藐三佛陀<lb
+ n="0043c29" ed="T"/>所說。亦是梵王娑婆主說。釋提桓因四大<pb n="0044a" id="T20.1046.0044a" ed="T"/><lb
+ n="0044a01" ed="T"/>天王所說。亦皆隨喜破諸呪術消伏起屍。一<lb
+ n="0044a02" ed="T"/>切形像厭蠱皆悉破壞斷滅。長老阿難聞佛<lb
+ n="0044a03" ed="T"/>所說歡喜奉行。<lb
+ n="0044a04" ed="T"/>
+</ab><ab type="juan" subtype="close">六字大陀羅尼呪經</ab></div>
+</body></text></TEI>

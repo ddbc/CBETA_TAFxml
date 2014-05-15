@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說花積樓閣陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1359</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0877a" id="T21.1359.0877a" ed="T"/><lb
+ n="0877a01" ed="T"/><lb
+ n="0877a02" ed="T"/><div type="jing" level="1"><lb
+ n="0877a03" ed="T"/>
+<ab type="juan" subtype="open">佛說花積樓閣陀羅尼經</ab><lb
+ n="0877a04" ed="T"/><lb
+ n="0877a05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
+ n="0877a06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0877a07" ed="T"/><ab type="prose">如是我聞。一時世尊在阿耨達池無熱惱龍<lb
+ n="0877a08" ed="T"/>王宮。與大比丘眾四百五十人俱。復有師子<lb
+ n="0877a09" ed="T"/>遊戲菩薩等大菩薩眾具足千人。一切皆得<lb
+ n="0877a10" ed="T"/>陀羅尼十地圓滿。得灌頂已位居補處。被大<lb
+ n="0877a11" ed="T"/>甲冑趣諸佛德。心不退轉名稱普聞。如是等<lb
+ n="0877a12" ed="T"/>菩薩摩訶薩。悉從他方而來集會。<lb
+ n="0877a13" ed="T"/>爾時師子遊戲菩薩摩訶薩。從座而起偏袒<lb
+ n="0877a14" ed="T"/>右肩。詣世尊前右膝著地。合掌恭肅而白佛<lb
+ n="0877a15" ed="T"/>言。世尊如佛福蘊當云何得。又於如來作供<lb
+ n="0877a16" ed="T"/>養者。云何因果無量無邊。唯願如來慈悲開<lb
+ n="0877a17" ed="T"/>示。作是說已凝心而住。<lb
+ n="0877a18" ed="T"/>爾時佛告師子遊戲菩薩摩訶薩言。善哉善<lb
+ n="0877a19" ed="T"/>哉善男子。汝今問我如來福蘊云何而得。又<lb
+ n="0877a20" ed="T"/>於如來作供養者。云何因果無量無邊。汝當<lb
+ n="0877a21" ed="T"/>諦聽今為汝說。<lb
+ n="0877a22" ed="T"/>佛言善男子。如來有五法具足功德無量無<lb
+ n="0877a23" ed="T"/>邊。云何五法。所謂戒定慧解脫解脫知見。善<lb
+ n="0877a24" ed="T"/>男子如來具足如是五法無量功德。是故獲<lb
+ n="0877a25" ed="T"/>得福蘊無量無邊。善男子若於如來作供養<lb
+ n="0877a26" ed="T"/>者。當得涅槃若彼三乘隨其發心。各各所見<lb
+ n="0877a27" ed="T"/>而得涅槃。善男子若見如來應正等覺。以清<lb
+ n="0877a28" ed="T"/>淨心諦信歸命尊重稱讚。又以衣服臥具病<lb
+ n="0877a29" ed="T"/>緣醫藥。一切所須而供養者。所獲果報無量<pb n="0877b" id="T21.1359.0877b" ed="T"/><lb
+ n="0877b01" ed="T"/>無邊。善男子若復如來般涅槃後。有得如來<lb
+ n="0877b02" ed="T"/>舍利如芥子等而供養者。所獲果報於一切<lb
+ n="0877b03" ed="T"/>中最。又復作種種福。若於如來舍利作供養<lb
+ n="0877b04" ed="T"/>者。其福最上。師子遊戲。若復有人持於寶聚<lb
+ n="0877b05" ed="T"/>如妙高山等。布施供養聲聞及辟支佛。所獲<lb
+ n="0877b06" ed="T"/>果報。不如在家及出家菩薩發無上正等覺<lb
+ n="0877b07" ed="T"/>心。以一金錢布施供養。如來應正覺。以前方<lb
+ n="0877b08" ed="T"/>便善根。於後方便善根。百分不及一。千分不<lb
+ n="0877b09" ed="T"/>及一。百千分不及一。乃至算分數分譬喻分<lb
+ n="0877b10" ed="T"/>譬喻轉分。乃至算數譬喻所不能及。善男子<lb
+ n="0877b11" ed="T"/>又復如來住世百年千年。乃至百千年應化<lb
+ n="0877b12" ed="T"/>畢已。般涅槃後以佛舍利而起妙塔。若復有<lb
+ n="0877b13" ed="T"/>人於此塔所。以香泥塗地作曼拏羅。施設花<lb
+ n="0877b14" ed="T"/>鬘塗香燒香然燈志心供養。乃至持一花一<lb
+ n="0877b15" ed="T"/>燈以為供養。或持帚拂除去塵坌。或以一掬<lb
+ n="0877b16" ed="T"/>水用為灑淨。如是之人以志心故獲福無量。<lb
+ n="0877b17" ed="T"/>是人先世所有罪業當墮阿鼻地獄。以於塔<lb
+ n="0877b18" ed="T"/>所作供養故。先世罪報皆悉除滅。善男子若<lb
+ n="0877b19" ed="T"/>復有人。發一念心歸命於佛。又不中退復不<lb
+ n="0877b20" ed="T"/>輕慢。是人當來於百劫千劫乃至百千劫中。<lb
+ n="0877b21" ed="T"/>常感勝福生於人天不復墮落一切惡趣。<lb
+ n="0877b22" ed="T"/>善男子我今說此花積樓閣陀羅尼經。為欲<lb
+ n="0877b23" ed="T"/>利益安樂天上人間一切眾生故。善男子若<lb
+ n="0877b24" ed="T"/>復有人得此花積樓閣陀羅尼經。志心受持<lb
+ n="0877b25" ed="T"/>讀誦供養。又復演彼真實義趣廣為人說。是<lb
+ n="0877b26" ed="T"/>人永不墮一切惡趣。亦不生卑下種族。常生<lb
+ n="0877b27" ed="T"/>人天殊勝之處。諸根圓滿獲宿命通。具足種<lb
+ n="0877b28" ed="T"/>種甚深辯才。恒得值遇佛法僧寶。又得如來<lb
+ n="0877b29" ed="T"/>憶念覆護。得菩提心永不退轉。<pb n="0877c" id="T21.1359.0877c" ed="T"/><lb
+ n="0877c01" ed="T"/>爾時世尊即說陀羅尼曰。<lb
+ n="0877c02" ed="T"/></ab>
+<ab type="dharani">怛儞也他馱囉尼馱囉尼母儞鉢<lb
+ n="0877c03" ed="T"/>囉婆娑嚩哩悉地贊捺哩<lb
+ n="0877c04" ed="T"/>曩他唧儞哩賀哩阿嚕誐也<lb
+ n="0877c05" ed="T"/>嚩底沒馱縛底尾哩烏迦致囉祖波誐<lb
+ n="0877c06" ed="T"/>帝帝祖嚩底尾捨羅沒地達哩麼嚩婆細阿乞叉野羯臘閉羯<lb
+ n="0877c08" ed="T"/>臘波嚩底阿蜜哩哆羯臘閉<lb
+ n="0877c09" ed="T"/>護哆舍儞帝祖嚩底儞怛也三摩<lb
+ n="0877c10" ed="T"/>呬帝帝祖嚩底底乞叉𧹞捺哩<lb
+ n="0877c11" ed="T"/>野沒地娑嚩賀<lb
+ n="0877c12" ed="T"/></ab>
+<ab type="prose">善男子此陀羅尼。乃是十方無量無邊諸佛<lb
+ n="0877c13" ed="T"/>如來同共宣說。若復有人聞此陀羅尼經名<lb
+ n="0877c14" ed="T"/>字。發至誠心恭信供養。是人當來獲得無量<lb
+ n="0877c15" ed="T"/>無邊功德。又復若人持此陀羅尼。成先行已。<lb
+ n="0877c16" ed="T"/>於二月三月或八月。取白月八日起首。發至<lb
+ n="0877c17" ed="T"/>誠心於一晝夜中六時。念此陀羅尼及憶念<lb
+ n="0877c18" ed="T"/>諸佛如來。心不散亂。復以塗香妙花燒香然<lb
+ n="0877c19" ed="T"/>燈。種種供養心不間斷至十五日決定得見<lb
+ n="0877c20" ed="T"/>世尊。坐蓮華藏座說陀羅尼法。持誦之人應<lb
+ n="0877c21" ed="T"/>時獲得意願圓滿。心垢悉除證宿命通。得諸<lb
+ n="0877c22" ed="T"/>禪定住四聖諦。解諸法義論及工巧事業。乃<lb
+ n="0877c23" ed="T"/>至臨命終時耳根不壞。悉能了別一切勝事。<lb
+ n="0877c24" ed="T"/>乃至或聞如來為說四聖諦等無漏。<lb
+ n="0877c25" ed="T"/>爾時世尊說是陀羅尼經已。師子遊戲菩薩<lb
+ n="0877c26" ed="T"/>摩訶薩。及諸大菩薩大比丘眾。天人阿修羅<lb
+ n="0877c27" ed="T"/>乾闥婆等。聞佛所說。皆大歡喜禮佛而退。<lb
+ n="0877c28" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說花積樓閣陀羅尼經</ab></div>
+</body></text></TEI>

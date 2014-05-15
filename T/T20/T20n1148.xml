@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說虛空藏菩薩陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1148</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0607a06" ed="T"/><lb
+ n="0607a07" ed="T"/><lb
+ n="0607a08" ed="T"/><lb
+ n="0607a09" ed="T"/>
+<ab type="juan" subtype="open">佛說虛空藏菩薩陀羅尼</ab><lb
+ n="0607a10" ed="T"/><lb
+ n="0607a11" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0607a12" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0607a13" ed="T"/><div type="dharani" level="1"><ab type="dharani">那謨尾補羅那曩鉢囉娑哩多那<lb
+ n="0607a14" ed="T"/>野那嚩婆娑酥囉僻叉多誐誐那曼拏<lb
+ n="0607a15" ed="T"/>羅拽寫阿哥舍誐哩婆野誐誐<lb
+ n="0607a16" ed="T"/>那悟左囉野薩哥羅部嚩拏曼拏羅<lb
+ n="0607a17" ed="T"/>嚩舍拽帝黎唵莎悉帝末邏叱尾<lb
+ n="0607a18" ed="T"/>補囉三婆嚩達哩摩馱覩悟左囉<lb
+ n="0607a19" ed="T"/>娑嚩賀<lb
+ n="0607a20" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說虛空藏菩薩陀羅尼</ab></div>
+</body></text></TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說摩達國王經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0519</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0792c" ed="T" id="T14.0519.0792c"/><lb
+ n="0792c01" ed="T"/><lb
+ n="0792c02" ed="T"/><lb
+ n="0792c03" ed="T"/>
+<ab type="juan" subtype="open">佛說摩達國王經</ab><lb
+ n="0792c04" ed="T"/><lb
+ n="0792c05" ed="T"/><byline>宋居士沮渠京聲譯</byline><lb
+ n="0792c06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在羅閱祇竹園中，與千二百<lb
+ n="0792c07" ed="T"/>五十比丘俱。時有國王，號名摩達王，時當<lb
+ n="0792c08" ed="T"/>出軍征討，選國中人民，數百萬人，皆應赴<lb
+ n="0792c09" ed="T"/>從。時有比丘，已得羅漢道，到其國分衛，並<lb
+ n="0792c10" ed="T"/>見錄，將詣王宮門。王有馬監，令比丘養視<lb
+ n="0792c11" ed="T"/>官馬，勤苦七日。王後身自臨視軍陣，比丘<lb
+ n="0792c12" ed="T"/>見王，即於其前，輕舉飛翔，上住空中，現其<lb
+ n="0792c13" ed="T"/>威神。王便恐怖，叩頭悔過：「我實愚癡，不別<lb
+ n="0792c14" ed="T"/>真偽，推問國內，誰令神人為是者，今當有<lb
+ n="0792c15" ed="T"/>所治殺。」比丘告王言：「非王及國人過也，自<lb
+ n="0792c16" ed="T"/>我宿命，行道常供養師，我時為師設飯，師<lb
+ n="0792c17" ed="T"/>謂我言：『且先澡手已乃當飯。』我愚癡，心念言：<lb
+ n="0792c18" ed="T"/>『師亦不養官馬，何故不預澡手？』師即謂我言：<lb
+ n="0792c19" ed="T"/>『汝今念此輕耳，後重如何？』我聞是語，便愁憂。<lb
+ n="0792c20" ed="T"/>師知其意，便念言：『我會當泥洹，何故令人惱<lb
+ n="0792c21" ed="T"/>耶？』即以其夜三更時般泥洹。從來久遠，各<lb
+ n="0792c22" ed="T"/>更生死，今用是故，受其宿殃，養馬七日。夫<lb
+ n="0792c23" ed="T"/>善惡行，輒有殃福，如影隨形。」王聞比丘說<lb
+ n="0792c24" ed="T"/>罪福，意解歡喜，乞得歸命於神人。比丘告<lb
+ n="0792c25" ed="T"/>言：「卿當自歸於佛，佛為三界師。」王及國人<lb
+ n="0792c26" ed="T"/>民，皆隨比丘到佛所，稽首為佛作禮，受五戒<lb
+ n="0792c27" ed="T"/>作優婆塞。佛便為王及人民，現相好威神，光<lb
+ n="0792c28" ed="T"/>曜天地，復為說無常苦空。王於是便得須<lb
+ n="0792c29" ed="T"/>陀洹道，國中人民，皆受五戒十善，歸命三<pb n="0793a" ed="T" id="T14.0519.0793a"/><lb
+ n="0793a01" ed="T"/>尊，月日齋戒，以為常法。阿難整衣服，作禮<lb
+ n="0793a02" ed="T"/>白佛言：「是王及國中人民，見佛聞經即解。何<lb
+ n="0793a03" ed="T"/>以故？」佛言：「及昔摩父佛時，是比丘作沙<lb
+ n="0793a04" ed="T"/>門，王時為優婆塞，淨意供養三日，令我所<lb
+ n="0793a05" ed="T"/>在處常得其福，今已得度世之道，今來會此，<lb
+ n="0793a06" ed="T"/>聞經便得須陀洹道。」四輩弟子、天龍鬼神，<lb
+ n="0793a07" ed="T"/>聞經歡喜，前為佛作禮而去。</ab></div><lb
+ n="0793a08" ed="T"/>
+<ab type="juan" subtype="close">佛說摩達國王經</ab>
+</body></text></TEI>

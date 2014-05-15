@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說八種長養功德經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T24</biblScope>
+                    <idno type="Taisho">T24n1498</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="1104b11" ed="T"/><lb
+ n="1104b12" ed="T"/><lb
+ n="1104b13" ed="T"/><lb
+ n="1104b14" ed="T"/>
+<ab type="juan" subtype="open">佛說八種長養功德經</ab><lb
+ n="1104b15" ed="T"/><lb
+ n="1104b16" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
+ n="1104b17" ed="T"/>傳梵大師賜紫沙門臣法護等奉詔譯</byline><lb
+ n="1104b18" ed="T"/><div type="jing" level="1"><ab type="prose">歸命一切佛！惟願一切佛、菩薩眾攝受於我！<lb
+ n="1104b19" ed="T"/>即說伽陀頌曰：<lb
+ n="1104b20" ed="T"/></ab>
+<ab type="verse">
+「我今歸命勝菩提，　　最上清淨佛法眾，　　<lb
+ n="1104b21" ed="T"/>我發廣大菩提心，　　自他利益皆成就。　　<lb
+ n="1104b22" ed="T"/>懺除一切不善業，　　隨喜無邊眾福蘊，　　<lb
+ n="1104b23" ed="T"/>先當不食一日中，　　後修八眾長養法。」　　
+</ab><lb
+ n="1104b24" ed="T"/><ab type="prose">當知八種長養法者，所謂八戒，弟子應於阿<lb
+ n="1104b25" ed="T"/>闍梨前二三重復。說是伽陀已，次復當稱己<lb
+ n="1104b26" ed="T"/>之名字：「我名某甲，惟願阿闍梨攝受於我。我<lb
+ n="1104b27" ed="T"/>從今時發淨信心，乃至坐菩提場，成等正覺。<lb
+ n="1104b28" ed="T"/>誓歸依佛，二足勝尊；誓歸依法，離欲勝尊；誓<lb
+ n="1104b29" ed="T"/>歸依僧，調伏勝尊。如是三寶是所歸趣。我某<pb n="1104c" id="T24.1498.1104c" ed="T"/><lb
+ n="1104c01" ed="T"/>甲淨信優婆塞，惟願阿闍梨憶持護念我。<lb
+ n="1104c02" ed="T"/>從今日今時發起淨心，乃至過是夜分，訖<lb
+ n="1104c03" ed="T"/>於明旦日初出時，於其中間奉持八戒。所謂：<lb
+ n="1104c04" ed="T"/>一、不殺生，二、不偷盜，三、不非梵行，四、不妄<lb
+ n="1104c05" ed="T"/>語，五、不飲酒，六、不非時食，七、不花鬘莊嚴其<lb
+ n="1104c06" ed="T"/>身及歌舞戲等，八、不坐臥高廣大床。我今捨<lb
+ n="1104c07" ed="T"/>離如是等事，誓願不捨清淨禁戒八種功德。」<lb
+ n="1104c08" ed="T"/>二三重復作如是說。又言：「我持戒行，莊嚴其<lb
+ n="1104c09" ed="T"/>心，令心喜悅，廣修一切相應勝行，求成佛果，<lb
+ n="1104c10" ed="T"/>究竟圓滿。」又說伽陀曰：<lb
+ n="1104c11" ed="T"/></ab>
+<ab type="verse">
+「我發無二最上心，　　為諸眾生不請友，　　<lb
+ n="1104c12" ed="T"/>勝菩提行善所行，　　成佛世間廣利益。　　<lb
+ n="1104c13" ed="T"/>願我乘是善業故，　　此世不久成正覺，　　<lb
+ n="1104c14" ed="T"/>說法饒益於世間，　　解說眾生三有苦。」　　
+</ab></div><lb
+ n="1104c15" ed="T"/>
+<ab type="juan" subtype="close">佛說八種長養功德經</ab>
+</body></text></TEI>

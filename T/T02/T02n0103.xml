@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說聖法印經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0103</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<pb n="0500a" ed="T" id="T02.0103.0500a"/><lb
+ n="0500a01" ed="T"/><lb
+ n="0500a02" ed="T"/><lb
+ n="0500a03" ed="T"/><div type="jing" level="2"><lb
+ n="0500a04" ed="T"/>
+<ab type="juan" subtype="open">佛說聖法印經</ab><lb
+ n="0500a05" ed="T"/><lb
+ n="0500a06" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
+ n="0500a07" ed="T"/><ab type="prose">聞如是：一時佛在舍衛國祇樹給孤獨園。是<lb
+ n="0500a08" ed="T"/>時佛告諸比丘：「聽！」諸比丘：「唯諾受教。」佛言：<lb
+ n="0500a09" ed="T"/>「當為汝說聖法印，所應威儀，現清淨行。諦<lb
+ n="0500a10" ed="T"/>聽，善思念之。」佛言：「比丘！假使有人，說不求<lb
+ n="0500a11" ed="T"/>空，不用無想，欲使興發至不自大禪定之業，<lb
+ n="0500a12" ed="T"/>未之有也。設使有人，慕樂空法，志在無想，<lb
+ n="0500a13" ed="T"/>興發至要，消除自大憍慢之心，禪定之業此<lb
+ n="0500a14" ed="T"/>可致矣，輒如道願，普有所見。所以者何？慕<lb
+ n="0500a15" ed="T"/>樂於空，欲得無想，無慢自大見，於慧業皆<lb
+ n="0500a16" ed="T"/>可致矣。何謂比丘聖法印者？其聖法印，所可<lb
+ n="0500a17" ed="T"/>更習，至清淨見。假使比丘，處於閑居，若坐<lb
+ n="0500a18" ed="T"/>樹下空閑之處，解色無常，見色本無，已解<lb
+ n="0500a19" ed="T"/>無常，解至空無，皆為怳惚，無我、無欲心則<lb
+ n="0500a20" ed="T"/>休息，自然清淨而得解脫，是名曰空，尚未<lb
+ n="0500a21" ed="T"/>得捨憍慢自大，禪定清淨所見業也。雖爾得<lb
+ n="0500a22" ed="T"/>致柔順之定，即時輒見除諸色想、聲想、香想，<lb
+ n="0500a23" ed="T"/>以故謂言至於無想，故曰無欲，尚未得消自<lb
+ n="0500a24" ed="T"/>大憍慢，至於禪定清淨見也。其心續存柔順<lb
+ n="0500a25" ed="T"/>之定，彼則見除所有貪婬瞋恚愚癡，是故名<lb
+ n="0500a26" ed="T"/>曰無欲之定，尚未得除自大憍慢，至於禪定<lb
+ n="0500a27" ed="T"/>清淨見也。心自念言：『吾我起滅，從何所興？』<lb
+ n="0500a28" ed="T"/>思惟解知：『其吾我者，所因習味分別諸識，皆<lb
+ n="0500a29" ed="T"/>從因緣而致此業，從是因緣致有神識。』復自<pb n="0500b" ed="T" id="T02.0103.0500b"/><lb
+ n="0500b01" ed="T"/>念言：『此諸因緣，為有常乎為無常耶？』復自念<lb
+ n="0500b02" ed="T"/>言：『因緣所合致神識者，此皆無常，無有根<lb
+ n="0500b03" ed="T"/>本。此神識者，依猗無常而有妄想，故有緣<lb
+ n="0500b04" ed="T"/>起十二因也，皆歸於盡、無常、苦、空、毀壞、別離、<lb
+ n="0500b05" ed="T"/>離欲、滅盡。』曉了是者，乃知無本，得至降伏，<lb
+ n="0500b06" ed="T"/>消一切起，得入道行，是乃逮致除於自大無<lb
+ n="0500b07" ed="T"/>慢放逸，禪定之業，現清淨行。是則名曰由<lb
+ n="0500b08" ed="T"/>聖法印，清淨之業，從始至終，究竟本末。」佛<lb
+ n="0500b09" ed="T"/>說如是。諸比丘聞莫不歡喜，作禮而去。<lb
+ n="0500b10" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說聖法印經</ab></div><lb
+ n="0500b11" ed="T"/><div type="w" level="2"><ab type="prose">元康四年十二月二十五日，月支菩薩沙<lb
+ n="0500b12" ed="T"/>門曇法護，於酒泉演出此經，弟子竺法首<lb
+ n="0500b13" ed="T"/>筆受，令此深法普流十方大乘常光。</ab></div></div>
+</body></text></TEI>

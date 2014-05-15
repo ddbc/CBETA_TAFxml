@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說無畏陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1388</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0906c" id="T21.1388.0906c" ed="T"/><lb
+ n="0906c01" ed="T"/><lb
+ n="0906c02" ed="T"/><div type="jing" level="1"><lb
+ n="0906c03" ed="T"/>
+<ab type="juan" subtype="open">佛說無畏陀羅尼經</ab><lb
+ n="0906c04" ed="T"/><lb
+ n="0906c05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0906c06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0906c07" ed="T"/><ab type="prose">爾時佛告諸苾芻。汝等諦聽我今宣說無畏<lb
+ n="0906c08" ed="T"/>陀羅尼。是陀羅尼能與眾生息除諸難。苾芻<lb
+ n="0906c09" ed="T"/>若人得聞及受持者。是人所獲功德無量無<lb
+ n="0906c10" ed="T"/>邊。即說陀羅尼曰。<lb
+ n="0906c11" ed="T"/></ab>
+<ab type="dharani">唵那莫阿哩也嚩路吉帝說囉<lb
+ n="0906c12" ed="T"/>野󰂛地薩埵野摩賀薩埵野<lb
+ n="0906c13" ed="T"/>摩賀迦嚕尼迦野怛󰍕他唵<lb
+ n="0906c14" ed="T"/>目訖帝蘇目訖帝砌那儞尾砌<lb
+ n="0906c15" ed="T"/>那儞儞哩摩梨莽誐梨蘇莽<lb
+ n="0906c16" ed="T"/>誐梨蘇目契尾目契薩哩嚩<lb
+ n="0906c17" ed="T"/>跋野尾謨叉尼薩哩嚩跋踰鉢<lb
+ n="0906c18" ed="T"/>捺囉吠毘藥尾謨叉尼囉惹<lb
+ n="0906c19" ed="T"/>跋煬陬囉跋煬摩囉拏跋煬阿必<lb
+ n="0906c20" ed="T"/>哩野跋煬設薩怛囉跋煬阿<lb
+ n="0906c21" ed="T"/>屹儞跋煬烏那哥跋煬尾沙跋煬<lb
+ n="0906c22" ed="T"/>波囉作訖囉跋煬賽󰍕跋煬<lb
+ n="0906c23" ed="T"/>設咄嚕跋煬阿設儞跋煬賽那末<lb
+ n="0906c24" ed="T"/>󰇄誐都嚩陬囉末󰇄誐都嚩星<lb
+ n="0906c25" ed="T"/>賀末󰇄誐都嚩咩竭囉末󰇄誐都<lb
+ n="0906c26" ed="T"/>嚩藥叉末󰇄誐都嚩捺微波<lb
+ n="0906c27" ed="T"/>末󰇄誐都嚩贊拏末󰇄誐都嚩<lb
+ n="0906c28" ed="T"/>訖哩瑟拏薩哩波末󰇄誐都嚩<pb n="0907a" id="T21.1388.0907a" ed="T"/><lb
+ n="0907a01" ed="T"/>阿惹哥囉末󰇄誐都嚩喝悉底<lb
+ n="0907a02" ed="T"/>末󰇄誐都嚩三母捺囉末󰇄誐<lb
+ n="0907a03" ed="T"/>都嚩哥羅播設末󰇄誐都嚩<lb
+ n="0907a04" ed="T"/>儞誐拏滿馱都嚩哥瑟吒滿馱都<lb
+ n="0907a05" ed="T"/>嚩拶哩摩滿馱都嚩尾沙訖<lb
+ n="0907a06" ed="T"/>囉蜜都嚩訥哩僻叉都嚩儞誐拏滿馱都嚩波囉設娑怛囉<lb
+ n="0907a08" ed="T"/>都嚩薩哩嚩󰍕乃嚩跋曳數<lb
+ n="0907a09" ed="T"/>薩哩巫鉢捺囉微數沒節帝<lb
+ n="0907a10" ed="T"/>薩哩嚩跋野沒節帝𡁆叉𡁆叉摩摩<lb
+ n="0907a11" ed="T"/>薩哩嚩薩埵喃阿喻囉嚕倪室哩煬嚩哩馱底阿哩也嚩路吉帝說囉寫渴帝尾喝帝<lb
+ n="0907a14" ed="T"/>喝麗尾喝麗薩哩微鉢囉<lb
+ n="0907a15" ed="T"/>爹哩體哥謨左儞謨叉尼<lb
+ n="0907a16" ed="T"/>尾哩也尼唵那莫莎賀<lb
+ n="0907a17" ed="T"/></ab>
+<ab type="prose">爾時世尊說是陀羅尼已。復告諸苾芻言。若<lb
+ n="0907a18" ed="T"/>善男子善女人。聞此陀羅尼發志誠心。恭信<lb
+ n="0907a19" ed="T"/>供養讀誦受持。若自手書若使人書。及為他<lb
+ n="0907a20" ed="T"/>說廣宣流布。是人不為王難水火難。刀兵難<lb
+ n="0907a21" ed="T"/>冤賊難之所傷害。又復不為夜叉難禁縛難。<lb
+ n="0907a22" ed="T"/>雷雹難閃電難。大海漂沒難蟒蛇毒螫難。師<lb
+ n="0907a23" ed="T"/>子狂象難猛虎惡獸難飢饉疾疫難。如是諸<lb
+ n="0907a24" ed="T"/>難皆不為害乃至怖畏悉皆解脫。<lb
+ n="0907a25" ed="T"/>爾時諸苾芻眾聞佛所說。歡喜信受作禮而<lb
+ n="0907a26" ed="T"/>退。<lb
+ n="0907a27" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說無畏陀羅尼經</ab></div>
+</body></text></TEI>

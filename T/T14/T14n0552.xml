@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說摩登女解形中六事經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0552</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0895c15" ed="T"/><lb
+ n="0895c16" ed="T"/><lb
+ n="0895c17" ed="T"/><lb
+ n="0895c18" ed="T"/>
+<ab type="juan" subtype="open">佛說摩登女解形中六事經</ab><lb
+ n="0895c19" ed="T"/><lb
+ n="0895c20" ed="T"/><byline>失譯附東晉錄</byline><lb
+ n="0895c21" ed="T"/><div type="jing" level="1"><ab type="prose">佛在舍衛祗阿難邠坻阿藍。時阿難持鉢行<lb
+ n="0895c22" ed="T"/>乞食，以隨水行，見一女人在水邊持水去，<lb
+ n="0895c23" ed="T"/>阿難從乞水，女則與之。女便隨阿難，至居<lb
+ n="0895c24" ed="T"/>所處。女歸告其母，母名摩登。女於家委臥<lb
+ n="0895c25" ed="T"/>而啼，母問女何為啼？女言：「母欲嫁我者，莫<lb
+ n="0895c26" ed="T"/>與他人。我於水邊，見一沙門，從我乞水，我<lb
+ n="0895c27" ed="T"/>隨問，名為阿難；我得阿難者乃嫁，不得阿難<lb
+ n="0895c28" ed="T"/>不嫁。」母即行問阿難，阿難者承事佛。母即<lb
+ n="0895c29" ed="T"/>知之，還告女言：「阿難事佛道，不肯為汝作<pb n="0896a" ed="T" id="T14.0552.0896a"/><lb
+ n="0896a01" ed="T"/>夫。」女即啼不飯食：「母知蠱道，何不導之？」母<lb
+ n="0896a02" ed="T"/>出請阿難歸飯，女大喜。母語阿難：「我女欲<lb
+ n="0896a03" ed="T"/>為卿作妻。」阿難言：「我持佛戒，不得畜妻。」母<lb
+ n="0896a04" ed="T"/>復言：「我女不得卿作夫者，便自殺。」阿難言：<lb
+ n="0896a05" ed="T"/>「我師事佛，不得與女人交通。」母即入，語女言：<lb
+ n="0896a06" ed="T"/>「阿難不肯為汝作夫，其有經道者，不得畜婦。」<lb
+ n="0896a07" ed="T"/>女對母啼言：「母道所在。」母言：「天下道，無能過<lb
+ n="0896a08" ed="T"/>佛道及阿羅漢。」女復言：「但為我閉門戶，無令<lb
+ n="0896a09" ed="T"/>出，暮自為我作夫。」母即閉門，以蠱道縛阿<lb
+ n="0896a10" ed="T"/>難。至日晡時，母為布席臥處，女大喜，便莊<lb
+ n="0896a11" ed="T"/>飾，阿難不肯就臥處，母便然火，前牽阿難衣，<lb
+ n="0896a12" ed="T"/>語阿難言：「汝不為我女作夫者，我便擲汝火<lb
+ n="0896a13" ed="T"/>中。」阿難自鄙作沙門，今日反在中，不能得<lb
+ n="0896a14" ed="T"/>出，即叉手呼佛。佛即知之，使神脫阿難。阿<lb
+ n="0896a15" ed="T"/>難至佛所言：「昨日行乞食，於水邊見一女人，<lb
+ n="0896a16" ed="T"/>我從乞水。明日有人名摩登，請我歸飯，我出<lb
+ n="0896a17" ed="T"/>便牽我，欲持女與我為婦；我持佛戒，不得畜<lb
+ n="0896a18" ed="T"/>妻。」女見阿難得脫去，於家啼哭，母言：「其有<lb
+ n="0896a19" ed="T"/>事佛者，我道不能勝，我本不語汝耶！」女啼<lb
+ n="0896a20" ed="T"/>不止，續念阿難。女明日自行來索阿難，復<lb
+ n="0896a21" ed="T"/>見阿難行乞食，隨阿難背後，視阿難足，視<lb
+ n="0896a22" ed="T"/>阿難面。阿難羞慚，低頭不視而避之，女復<lb
+ n="0896a23" ed="T"/>隨不止。阿難還歸佛所，女復守門，阿難不<lb
+ n="0896a24" ed="T"/>出，女啼去歸。阿難前白佛言：「摩登女今日<lb
+ n="0896a25" ed="T"/>復隨，明日復來。」佛即呼女見之。佛言：「汝追<lb
+ n="0896a26" ed="T"/>阿難，何等索？」女言：「我聞阿難無婦，我亦無<lb
+ n="0896a27" ed="T"/>夫，我欲為阿難作妻。」佛言：「阿難沙門無髮，<lb
+ n="0896a28" ed="T"/>汝寧剃頭髮？我使阿難為汝作夫。」女言：「敢剃<lb
+ n="0896a29" ed="T"/>頭髮。」佛言：「汝歸報母剃頭來。」女歸到母所，<pb n="0896b" ed="T" id="T14.0552.0896b"/><lb
+ n="0896b01" ed="T"/>言：「母不能致阿難，我自行消息問佛。佛言：<lb
+ n="0896b02" ed="T"/>『剃頭髮來，我使阿難為汝作夫。』」母言：「我生<lb
+ n="0896b03" ed="T"/>護汝頭髮，汝何為與沙門作婦？國中有大富<lb
+ n="0896b04" ed="T"/>豪，我自能嫁汝與之。」女言：「我死生當與阿<lb
+ n="0896b05" ed="T"/>難作婦。」母言：「汝何為辱汝種？」女言：「母愛<lb
+ n="0896b06" ed="T"/>我者，當隨我心所喜。」母即垂淚下刀，剃女頭<lb
+ n="0896b07" ed="T"/>髮。女還到佛所言：「我已剃頭髮。」佛言：「汝愛<lb
+ n="0896b08" ed="T"/>阿難何等？」女言：「我愛阿難眼、愛阿難鼻、愛<lb
+ n="0896b09" ed="T"/>阿難口、愛阿難聲、愛阿難行步。」佛言：「眼中<lb
+ n="0896b10" ed="T"/>有淚，鼻中有涕，口中有唾，耳中有垢，身<lb
+ n="0896b11" ed="T"/>中有屎尿皆臭處。其作夫妻者，便有惡處<lb
+ n="0896b12" ed="T"/>中便生子，有子便有死亡，死亡有哭㴃，此<lb
+ n="0896b13" ed="T"/>於身有何等益？」女即自思惟，惡露形中，所<lb
+ n="0896b14" ed="T"/>有正心，則得阿羅漢道，以得阿羅漢。佛語<lb
+ n="0896b15" ed="T"/>女：「起至阿難所。」女慚愧低頭，長跪於佛前言：<lb
+ n="0896b16" ed="T"/>「實愚癡故逐阿難，今我心已開，如冥中有燈<lb
+ n="0896b17" ed="T"/>火；如乘船船壞得岸；如盲人得扶；老人得<lb
+ n="0896b18" ed="T"/>持杖行，今佛與我道，我心中開如是。」諸沙<lb
+ n="0896b19" ed="T"/>門俱問佛言：「是女母為蠱道，何緣得阿羅漢<lb
+ n="0896b20" ed="T"/>道？」佛言：「諸沙門欲聞知是女不？」諸沙門言：<lb
+ n="0896b21" ed="T"/>「我曹當受教。」佛言：「是摩登女，先時已五百<lb
+ n="0896b22" ed="T"/>世，為阿難作婦。五百世中，相敬重，相貪愛，<lb
+ n="0896b23" ed="T"/>於今同於經戒道中得道，於今夫妻相見如<lb
+ n="0896b24" ed="T"/>兄弟狀，是經令諸沙門知女意如是。」諸沙<lb
+ n="0896b25" ed="T"/>門則起前，為佛作禮。</ab></div><lb
+ n="0896b26" ed="T"/>
+<ab type="juan" subtype="close">佛說摩登女解形中六事經</ab>
+</body></text></TEI>

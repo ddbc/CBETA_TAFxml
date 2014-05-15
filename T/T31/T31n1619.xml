@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">無相思塵論</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T31</biblScope>
+                    <idno type="Taisho">T31n1619</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0882c" id="T31.1619.0882c" ed="T"/><lb
+ n="0882c01" ed="T"/><lb
+ n="0882c02" ed="T"/><lb
+ n="0882c03" ed="T"/>
+<ab type="juan" subtype="open">無相思塵論</ab><lb
+ n="0882c04" ed="T"/><lb
+ n="0882c05" ed="T"/><byline>陳那菩薩造</byline><lb
+ n="0882c06" ed="T"/><byline>陳西印度三藏法師真諦譯</byline><lb
+ n="0882c07" ed="T"/><div type="jing" level="1"><ab type="verse">
+若說隣虛　　是根本因　　不似起故　　<lb
+ n="0882c08" ed="T"/>非境如根　　識似聚起　　不從彼生　　<lb
+ n="0882c09" ed="T"/>聚無有體　　譬如二月　　由此二義　　<lb
+ n="0882c10" ed="T"/>外物非塵　　有說隣虛　　聚成萬物　　<lb
+ n="0882c11" ed="T"/>識似彼起　　故立為塵　　隣虛體相　　<lb
+ n="0882c12" ed="T"/>若是實有　　識不似故　　非境如塵　　<lb
+ n="0882c13" ed="T"/>隣虛若塵　　則識無別　　若言相異　　<lb
+ n="0882c14" ed="T"/>則識不同　　異相在假　　故體非真　　<lb
+ n="0882c15" ed="T"/>隣虛體量　　眾處無別　　若除隣虛　　<lb
+ n="0882c16" ed="T"/>萬識不起　　是故萬物　　悉是假名　　<lb
+ n="0882c17" ed="T"/>於內塵相　　如外而顯　　立為識塵　　<lb
+ n="0882c18" ed="T"/>識似現故　　是識緣緣　　隨生決定　　<lb
+ n="0882c19" ed="T"/>共立功能　　令次第起　　二根共生　　<lb
+ n="0882c20" ed="T"/>勝能為根　　於識無礙　　更互為因　　<lb
+ n="0882c21" ed="T"/>勝能為塵　　互生無始　　
+</ab><lb
+ n="0882c22" ed="T"/><ab type="prose">若有人執眼等六識。緣外境起。是人或分別<lb
+ n="0882c23" ed="T"/>隣虛為境。是識因故。或分別隣虛聚為境。似<lb
+ n="0882c24" ed="T"/>聚識起故塵者何相。若識能了別其體相。<lb
+ n="0882c25" ed="T"/>如其體相識起。是故說此名塵。隣虛無此事。<lb
+ n="0882c26" ed="T"/>若隣虛實是識因譬如五根。是故隣虛非塵。<lb
+ n="0882c27" ed="T"/>若爾隣虛聚應是境。如聚識起故。雖復如此<lb
+ n="0882c28" ed="T"/>如其相起。識不從此生。是故聚亦非塵。何以<lb
+ n="0882c29" ed="T"/>故。若塵能生識。似其體相可信為塵。何以故。<pb n="0883a" id="T31.1619.0883a" ed="T"/><lb
+ n="0883a01" ed="T"/>可說此塵為識生緣故。聚者則不如此。非實<lb
+ n="0883a02" ed="T"/>有故。譬如二月由眼根亂。識似二月起二月<lb
+ n="0883a03" ed="T"/>非。識境界實無有故。聚亦如此。離隣虛無有<lb
+ n="0883a04" ed="T"/>實體故。聚非識境界。是故外塵。由此二義非<lb
+ n="0883a05" ed="T"/>識境界。一一分不具故。有諸師說。是隣虛<lb
+ n="0883a06" ed="T"/>聚集成萬物。有多種相具足。立此為境界。<lb
+ n="0883a07" ed="T"/>何以故。有別相能生證智。非但隣虛及隣虛<lb
+ n="0883a08" ed="T"/>聚。是故於隣虛及隣虛聚中。有相為六識作<lb
+ n="0883a09" ed="T"/>境隣虛相者非塵。譬如堅等。隣虛中有堅濕<lb
+ n="0883a10" ed="T"/>熱動觸。此物實有非眼識境界。眼識不如其<lb
+ n="0883a11" ed="T"/>起故。隣虛中萬物亦如此。何以故。隣虛者於<lb
+ n="0883a12" ed="T"/>萬物中若生識。是識則無差別。以萬物中隣<lb
+ n="0883a13" ed="T"/>虛無有異故。若汝言由相差別故生識異。瓶<lb
+ n="0883a14" ed="T"/>等諸物相貌不同。緣此相故起識有異。是義<lb
+ n="0883a15" ed="T"/>不然。何以故。如此相貌差別。於瓶等假名物<lb
+ n="0883a16" ed="T"/>中。不無於隣虛。實物中則無隣虛。體量不<lb
+ n="0883a17" ed="T"/>異故。於萬物中隣虛體量。所謂圓細無有差<lb
+ n="0883a18" ed="T"/>別。是故萬物相貌非是實有。是假名有。是假<lb
+ n="0883a19" ed="T"/>名相者。謂瓶等諸物。若除隣虛。似瓶等識不<lb
+ n="0883a20" ed="T"/>生故。實物者。若析相應法似實物識不滅。如<lb
+ n="0883a21" ed="T"/>未析時。於瓶中五塵識生。析竟五塵識亦不<lb
+ n="0883a22" ed="T"/>滅故。五塵等是實有由此隣虛及聚。萬物不<lb
+ n="0883a23" ed="T"/>能生識。是故外塵非識境界。若爾何法名塵。<lb
+ n="0883a24" ed="T"/>於內塵相如外顯現。是名識塵外塵實無所<lb
+ n="0883a25" ed="T"/>有。於內識中眾生亂心分別故。起六塵分別。<lb
+ n="0883a26" ed="T"/>此分別如在於外。如此顯現。是四緣中名識<lb
+ n="0883a27" ed="T"/>緣緣。以是識體相故由此識生故。所以者何。<lb
+ n="0883a28" ed="T"/>是識作內塵相。從內塵生。具二法故。是故內<lb
+ n="0883a29" ed="T"/>塵名境界。問曰。如塵起識是亦可然。內塵是<pb n="0883b" id="T31.1619.0883b" ed="T"/><lb
+ n="0883b01" ed="T"/>識一分共一時起。云何得作緣緣。答曰。立緣<lb
+ n="0883b02" ed="T"/>緣者。識緣此生無有二故。緣者或一時共起。<lb
+ n="0883b03" ed="T"/>能成餘法從他生。決定隨逐生不生故。問若<lb
+ n="0883b04" ed="T"/>次第生所緣能緣相云何。答曰。若因在前<lb
+ n="0883b05" ed="T"/>果在後。果隨因因不隨果。若因有果必有。若<lb
+ n="0883b06" ed="T"/>因無果必無。果隨因或有或無。是名因果相。<lb
+ n="0883b07" ed="T"/>復次為安置功能次第故。立所緣能緣。是似<lb
+ n="0883b08" ed="T"/>塵識次第起為生。似果起功能生識相續。問<lb
+ n="0883b09" ed="T"/>曰。若內塵是識。緣緣是緣生。經當云何釋經<lb
+ n="0883b10" ed="T"/>言依根緣色眼識得生。廣說如經。答曰。功能<lb
+ n="0883b11" ed="T"/>體相能共造果。說名為根。問根者體用云<lb
+ n="0883b12" ed="T"/>何答勝能為體。此體因何法可比度知。有<lb
+ n="0883b13" ed="T"/>由生自果故。是其勝能可得了別。非有四大<lb
+ n="0883b14" ed="T"/>色此功能於識中無有妨礙。此功能在識中<lb
+ n="0883b15" ed="T"/>離識。其體不可顯示。如我所立根與汝所立<lb
+ n="0883b16" ed="T"/>根。同功能為體。此有何異。如此功能及似塵<lb
+ n="0883b17" ed="T"/>相。更互為因。如此功能及似塵相生從無始<lb
+ n="0883b18" ed="T"/>來悉爾。依功能說名根緣內塵相名境。是亂<lb
+ n="0883b19" ed="T"/>識不可言其相。得生此法更互為因亦無有<lb
+ n="0883b20" ed="T"/>始。何以故。或功能成熟故起似塵識。或似塵<lb
+ n="0883b21" ed="T"/>識故功能得成。識者或異二或不異二或不<lb
+ n="0883b22" ed="T"/>可說。如此內塵具二法故可為識境。<lb
+ n="0883b23" ed="T"/>
+</ab><ab type="juan" subtype="close">無相思塵論</ab></div>
+</body></text></TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">施八方天儀則</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1294</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0378c23" ed="T"/><lb
+ n="0378c24" ed="T"/><lb
+ n="0378c25" ed="T"/><div type="jing" level="1"><lb
+ n="0378c26" ed="T"/>
+<ab type="juan" subtype="open">施八方天儀則一卷</ab><lb
+ n="0378c27" ed="T"/><lb
+ n="0378c28" ed="T"/><byline>大興善寺翻經院灌頂阿闍梨述</byline><lb
+ n="0378c29" ed="T"/><ab type="prose">凡施八方天先辦所施飲食。五味雜粥稠煮<pb n="0379a" id="T21.1294.0379a" ed="T"/><lb
+ n="0379a01" ed="T"/>勿令稀。五味者粳米菉豆油麻牛乳蘇。各量<lb
+ n="0379a02" ed="T"/>多少。以意令其有味。著少許鹽切須護淨。盛<lb
+ n="0379a03" ed="T"/>於瓷盆。小蠟燭十二枚磨白檀香。時華清水<lb
+ n="0379a04" ed="T"/>於所施處。八方各各塗一小壇。小壇上先置<lb
+ n="0379a05" ed="T"/>淨椀。其粥香華各各令人擎隨念誦人後。念<lb
+ n="0379a06" ed="T"/>誦人先當至心啟請八方天王并其眷屬令赴<lb
+ n="0379a07" ed="T"/>道場各依本位先東方誦帝釋真言。先洗清<lb
+ n="0379a08" ed="T"/>水少許即下塗香。次下時華次下粥次蠟燭<lb
+ n="0379a09" ed="T"/>插於粥上次以燒香三度奉獻。口誦真言兼<lb
+ n="0379a10" ed="T"/>求擁護。乞天王歡喜道場主福祐。次東南方<lb
+ n="0379a11" ed="T"/>火天方亦爾。各誦本天真言次第而施。次南<lb
+ n="0379a12" ed="T"/>方焰魔天。次西南方羅剎天。次西方水天。次<lb
+ n="0379a13" ed="T"/>西北方風天。次北方多聞天。次東北方伊舍<lb
+ n="0379a14" ed="T"/>那天末後留少許。餘粥多著清水。於粥中著<lb
+ n="0379a15" ed="T"/>少餅子菓子塗香時華。總著了。誦甘露真言。<lb
+ n="0379a16" ed="T"/>以手印加持。令人擎送淨處瀉於地上施與<lb
+ n="0379a17" ed="T"/>諸惡鬼神。願擁護施主歡喜。更莫迴顧便須<lb
+ n="0379a18" ed="T"/>往還。<lb
+ n="0379a19" ed="T"/>東方帝釋天真言<lb
+ n="0379a20" ed="T"/>此真言總須加歸命。<lb
+ n="0379a21" ed="T"/></ab>
+<ab type="dharani">􇩂唵􆿈印􈁋捺囉二合􄗱野􅁥娑嚩二合􄚩賀<lb
+ n="0379a22" ed="T"/><lb
+ n="0379a23" ed="T"/></ab>
+<ab type="prose">東南方火天真言<lb
+ n="0379a24" ed="T"/></ab>
+<ab type="dharani">􇩂唵􆿅阿􅍉疙曩二合􄗷曳􅁥娑嚩二合􄚩賀<lb
+ n="0379a25" ed="T"/><lb
+ n="0379a26" ed="T"/></ab>
+<ab type="prose">南方焰摩天真言<lb
+ n="0379a27" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄗻焰􄗥摩􄗱野􅁥娑嚩二合􄚩賀<lb
+ n="0379a28" ed="T"/><lb
+ n="0379a29" ed="T"/></ab>
+<ab type="prose">西南方羅剎天真言<pb n="0379b" id="T21.1294.0379b" ed="T"/><lb
+ n="0379b01" ed="T"/></ab>
+<ab type="dharani">􇩂唵􆯳乃理􄟝底曳二合􅁥娑嚩二合􄚩賀<lb
+ n="0379b02" ed="T"/><lb
+ n="0379b03" ed="T"/></ab>
+<ab type="prose">西方水天真言<lb
+ n="0379b04" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄙖嚩􄙂嚕􄕋拏􄗱野􅁥娑嚩二合􄚩賀<lb
+ n="0379b05" ed="T"/><lb
+ n="0379b06" ed="T"/></ab>
+<ab type="prose">西北方風天真言<lb
+ n="0379b07" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄙖嚩􄗱野􄙜吠微閉反􅁥娑嚩二合􄚩賀<lb
+ n="0379b08" ed="T"/><lb
+ n="0379b09" ed="T"/></ab>
+<ab type="prose">北方多聞天真言<lb
+ n="0379b10" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄙝吠無背反􈃡室囉二合􄗥摩􄕋拏􄗱野􅁥娑嚩二合􄚩賀<lb
+ n="0379b11" ed="T"/><lb
+ n="0379b12" ed="T"/></ab>
+<ab type="prose">東北方伊舍那天真言<lb
+ n="0379b13" ed="T"/></ab>
+<ab type="dharani">􇩂唵􆿈伊􄙢舍􄖩那􄗱野􅁥娑嚩二合􄚩賀<lb
+ n="0379b14" ed="T"/><lb
+ n="0379b15" ed="T"/></ab>
+<ab type="prose">一一位各誦本真言。分明記下物次第。先水<lb
+ n="0379b16" ed="T"/>次塗香次華次粥次燭次燒香諸位遍已。即<lb
+ n="0379b17" ed="T"/>誦須彌王真言。加持三七五七遍。真言曰。<lb
+ n="0379b18" ed="T"/></ab>
+<ab type="dharani">􇩂唵􈂼蘇􄗫迷􄙂嚕􄑀羯􅛬蠟波二合􄗱野􇩂唵􈂼素􄙂嚕<lb
+ n="0379b19" ed="T"/><lb
+ n="0379b20" ed="T"/>􈂼􄙂素嚕􄪼鉢囉二合􈂼素􄙂嚕􄪼鉢囉二合􈂼素􄙂嚕<lb
+ n="0379b21" ed="T"/><lb
+ n="0379b22" ed="T"/>􅁥娑嚩二合􄚩賀<lb
+ n="0379b23" ed="T"/><lb
+ n="0379b24" ed="T"/></ab>
+<ab type="prose">總施了然後洗手。又施道場中發遣奉送聖<lb
+ n="0379b25" ed="T"/>眾。收却供養物。然後塗壇。<lb
+ n="0379b26" ed="T"/>上方梵天真言<lb
+ n="0379b27" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄭑沒囉二合􈃋憾摩二合􄖯寧寧頂反􅁥娑嚩二合􄚩賀<lb
+ n="0379b28" ed="T"/><lb
+ n="0379b29" ed="T"/></ab>
+<ab type="prose">下方地天真言<pb n="0379c" id="T21.1294.0379c" ed="T"/><lb
+ n="0379c01" ed="T"/></ab>
+<ab type="dharani">􇩂唵􆱘必哩二合􄕥體地以反􄣅尾曳二合􅁥娑嚩二合􄚩賀<lb
+ n="0379c02" ed="T"/><lb
+ n="0379c03" ed="T"/></ab>
+<ab type="prose">水等六物各令一人手擎隨施者後。施了者<lb
+ n="0379c04" ed="T"/>令於未施位處立。如是次第切須取之。燭須<lb
+ n="0379c05" ed="T"/>在意。未施遍已來不得令滅矣。<lb
+ n="0379c06" ed="T"/>日天真言<lb
+ n="0379c07" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄙺娑􄚨賀􄭵薩囉二合􄑆計􄗽囉􄖳難􈅼吽􄕛都<lb
+ n="0379c08" ed="T"/><lb
+ n="0379c09" ed="T"/>􄙐隷􅁥娑嚩二合􄚩賀<lb
+ n="0379c10" ed="T"/><lb
+ n="0379c11" ed="T"/></ab>
+<ab type="prose">月天真言<lb
+ n="0379c12" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄭵素􄗥麼􄪼鉢囉二合􄗟陛􈅼吽􅁥娑嚩二合<lb
+ n="0379c13" ed="T"/><lb
+ n="0379c14" ed="T"/>􄚩賀<lb
+ n="0379c15" ed="T"/><lb
+ n="0379c16" ed="T"/></ab>
+<ab type="prose">甘露真言<lb
+ n="0379c17" ed="T"/></ab>
+<ab type="dharani">􄖩曩􄗭謨􈂼蘇􄙃嚕􄖵跛􄗱野􄕗怛􄕤他引􄑘蘖􄕘多引<lb
+ n="0379c18" ed="T"/><lb
+ n="0379c19" ed="T"/>􄗱野􄕗怛􇩊儞也二合􄕤他􇩂唵􈂼蘇􄙂嚕􄪼鉢囉二合<lb
+ n="0379c20" ed="T"/><lb
+ n="0379c21" ed="T"/>􈂼蘇􄙂嚕􈂼􄙂蘇嚕􅁥娑嚩二合􄚩賀<lb
+ n="0379c22" ed="T"/><lb
+ n="0379c23" ed="T"/></ab>
+<ab type="prose">施飲食真言<lb
+ n="0379c24" ed="T"/></ab>
+<ab type="dharani">􄖩曩􄗭謨􄙺薩􅞣嚩􄕗怛􄕤他引􄑘蘖􄕘多引􄙖嚩􄙒路􄑂枳<lb
+ n="0379c25" ed="T"/><lb
+ n="0379c26" ed="T"/>􄕝帝􇩂唵􄗙婆􄗽囉􄗙􄗽婆囉􄚦三􄗙婆􄗽囉􄚦􄗙􄗽三婆囉􈅼吽<lb
+ n="0379c27" ed="T"/><lb
+ n="0379c28" ed="T"/></ab>
+<ab type="prose">若人求一切吉祥之事。所建道場修畢之日<lb
+ n="0379c29" ed="T"/>初夜分。皆須先施八方天王及梵天地天諸<pb n="0380a" id="T21.1294.0380a" ed="T"/><lb
+ n="0380a01" ed="T"/>宿曜鬼神等。然後發遣聖眾。始廢道場如是<lb
+ n="0380a02" ed="T"/>依法作者。一切聖賢盡皆歡喜令得福祐。所<lb
+ n="0380a03" ed="T"/>獲吉祥。<lb
+ n="0380a04" ed="T"/>
+</ab><ab type="juan" subtype="close">施八方天儀則</ab></div>
+</body></text></TEI>

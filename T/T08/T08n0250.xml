@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">摩訶般若波羅蜜大明呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T08</biblScope>
+                    <idno type="Taisho">T08n0250</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0847c04" ed="T"/><lb
+ n="0847c05" ed="T"/><lb
+ n="0847c06" ed="T"/><lb
+ n="0847c07" ed="T"/>
+<ab type="juan" subtype="open">摩訶般若波羅蜜大明呪經</ab><lb
+ n="0847c08" ed="T"/><lb
+ n="0847c09" ed="T"/><byline>姚秦天竺三藏鳩摩羅什譯</byline><lb
+ n="0847c10" ed="T"/><div type="jing" level="1"><ab type="prose">觀世音菩薩，行深般若波羅蜜時，照見五陰<lb
+ n="0847c11" ed="T"/>空，度一切苦厄。「舍利弗！色空故無惱壞相，受<lb
+ n="0847c12" ed="T"/>空故無受相，想空故無知相，行空故無作相，<lb
+ n="0847c13" ed="T"/>識空故無覺相。何以故？舍利弗！非色異空，非<lb
+ n="0847c14" ed="T"/>空異色。色即是空，空即是色。受、想、行、識亦<lb
+ n="0847c15" ed="T"/>如是。「舍利弗！是諸法空相，不生不滅，不垢不<lb
+ n="0847c16" ed="T"/>淨，不增不減。是空法，非過去、非未來、非現在。<lb
+ n="0847c17" ed="T"/>是故空中無色，無受、想、行、識，無眼、耳、鼻、舌、身、<lb
+ n="0847c18" ed="T"/>意，無色、聲、香、味、觸、法，無眼界乃至無意識界，<lb
+ n="0847c19" ed="T"/>無無明亦無無明盡，乃至無老死無老死盡，<lb
+ n="0847c20" ed="T"/>無苦、集、滅、道，無智亦無得。「以無所得故，菩薩<lb
+ n="0847c21" ed="T"/>依般若波羅蜜故，心無罣礙。無罣礙故，無有<lb
+ n="0847c22" ed="T"/>恐怖，離一切顛倒夢想苦惱，究竟涅槃。三世<lb
+ n="0847c23" ed="T"/>諸佛依般若波羅蜜故，得阿耨多羅三藐三<lb
+ n="0847c24" ed="T"/>菩提。「故知般若波羅蜜是大明呪，無上明呪，<lb
+ n="0847c25" ed="T"/>無等等明呪，能除一切苦，真實不虛。故說般<lb
+ n="0847c26" ed="T"/>若波羅蜜呪。」即說呪曰：<lb
+ n="0847c27" ed="T"/></ab>
+<ab type="dharani">「竭帝　竭帝　波羅竭帝　波羅僧竭帝　菩提<lb
+ n="0847c28" ed="T"/>　僧莎呵」</ab></div><lb
+ n="0847c29" ed="T"/>
+<ab type="juan" subtype="close">摩訶般若波羅蜜大明呪經</ab>
+</body></text></TEI>

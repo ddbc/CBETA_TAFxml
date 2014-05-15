@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說如意摩尼陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1403</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0919c" id="T21.1403.0919c" ed="T"/><lb
+ n="0919c01" ed="T"/><lb
+ n="0919c02" ed="T"/><div type="jing" level="1"><lb
+ n="0919c03" ed="T"/>
+<ab type="juan" subtype="open">佛說如意摩尼陀羅尼經</ab><lb
+ n="0919c04" ed="T"/><lb
+ n="0919c05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
+ n="0919c06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0919c07" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國迦利哩城。爾時<lb
+ n="0919c08" ed="T"/>世尊告尊者阿難。今有陀羅尼能除一切暴<lb
+ n="0919c09" ed="T"/>惡雷電。汝當受持。此隨求如意寶經。過去如<lb
+ n="0919c10" ed="T"/>來應正等覺親所宣說。我今亦說。於其世間<lb
+ n="0919c11" ed="T"/>行大悲愍。利益安樂天上人間一切有情。阿<lb
+ n="0919c12" ed="T"/>難白言唯然世尊。願樂欲聞我今受持。佛告<lb
+ n="0919c13" ed="T"/>阿難汝等。當知東方有雷電名曰阿伽。南方<lb
+ n="0919c14" ed="T"/>有雷電名曰設帝嚕。西方有雷電名曰哆鉢<lb
+ n="0919c15" ed="T"/>囉婆。北方有雷電名曰掃那摩儞。阿難若<lb
+ n="0919c16" ed="T"/>有善男子善女人。知此雷電名號及住處方<lb
+ n="0919c17" ed="T"/>位。一切雷電不怖彼人。若所在之處書寫此<lb
+ n="0919c18" ed="T"/>雷電名號。受持供養。一切雷電而不能傷。爾<lb
+ n="0919c19" ed="T"/>時世尊說此擁護真言章句。<lb
+ n="0919c20" ed="T"/></ab>
+<ab type="dharani">怛儞也他儞彌儞彌儞彌孕馱哩<lb
+ n="0919c21" ed="T"/>怛哩路迦路吉儞輸羅播尼儞囉乞<lb
+ n="0919c22" ed="T"/>叉𤚥薩哩嚩尾儞用婆曳毘<lb
+ n="0919c23" ed="T"/>藥娑嚩賀<lb
+ n="0919c24" ed="T"/></ab>
+<ab type="prose">爾時聖觀自在菩薩摩訶薩在大眾中。即從<lb
+ n="0919c25" ed="T"/>座起合掌向佛。白佛言世尊。我於此正法。亦<lb
+ n="0919c26" ed="T"/>說擁護真言章句。<lb
+ n="0919c27" ed="T"/></ab>
+<ab type="dharani">怛儞也他尾曩舍鉢囉怛也<lb
+ n="0919c28" ed="T"/>體迦鉢囉怛也彌怛哩輸弟目訖<lb
+ n="0919c29" ed="T"/>帝尾摩隷鉢囉婆娑迦哩桉<pb n="0920a" id="T21.1403.0920a" ed="T"/><lb
+ n="0920a01" ed="T"/>拏哩半拏哩濕尾帝半拏囉嚩悉<lb
+ n="0920a02" ed="T"/>儞麼帝迦囉羅迦閉羅賓誐羅乞史<lb
+ n="0920a03" ed="T"/>那地目乞史囉乞史囉乞史<lb
+ n="0920a04" ed="T"/>𤚥薩哩嚩迦羅沒哩底喻婆<lb
+ n="0920a05" ed="T"/>曳毘藥麼彌鉢舍滿覩薩哩嚩<lb
+ n="0920a06" ed="T"/>迦羅沒哩怛也嚩阿哩也<lb
+ n="0920a07" ed="T"/>嚩路吉帝濕嚩囉帝惹娑娑<lb
+ n="0920a08" ed="T"/>嚩賀<lb
+ n="0920a09" ed="T"/></ab>
+<ab type="prose">爾時祕密主金剛手菩薩。往詣佛前合掌頂<lb
+ n="0920a10" ed="T"/>禮。白佛言世尊。我今於此正法之中。亦說陀<lb
+ n="0920a11" ed="T"/>羅尼真言章句。<lb
+ n="0920a12" ed="T"/></ab>
+<ab type="dharani">怛儞也他母儞母儞母儞摩帝母儞摩<lb
+ n="0920a13" ed="T"/>帝蘇摩帝摩賀摩帝賀賀賀賀摩帶<lb
+ n="0920a14" ed="T"/>哩曩悉底帝播半嚩日囉<lb
+ n="0920a15" ed="T"/>播尼囉憾涅哩茶娑嚩賀<lb
+ n="0920a16" ed="T"/></ab>
+<ab type="prose">世尊我此陀羅尼。名無能勝擁護有情。若人<lb
+ n="0920a17" ed="T"/>書寫憶念。所有一切恐怖及其中夭悉令解<lb
+ n="0920a18" ed="T"/>脫。<lb
+ n="0920a19" ed="T"/>爾時大梵天王索訶世界主。白佛言世尊。我<lb
+ n="0920a20" ed="T"/>為利益一切眾生。於此正法亦說陀羅尼真<lb
+ n="0920a21" ed="T"/>言章句。<lb
+ n="0920a22" ed="T"/></ab>
+<ab type="dharani">怛儞也他呬隷彌隷唧隷娑嚩賀<lb
+ n="0920a23" ed="T"/>沒囉憾摩布哩摩賀沒囉憾摩<lb
+ n="0920a24" ed="T"/>尼沒囉憾摩誐哩鼻補瑟波<lb
+ n="0920a25" ed="T"/>設娑哆哩娑嚩賀<lb
+ n="0920a26" ed="T"/></ab>
+<ab type="prose">世尊我此陀羅尼名梵天杖。擁護一切有情。<lb
+ n="0920a27" ed="T"/>遠離中夭不生恐怖亦能除滅一切罪業。爾<lb
+ n="0920a28" ed="T"/>時帝釋天主。詣佛前立合掌頂禮。白佛言世<lb
+ n="0920a29" ed="T"/>尊。我今於此正法。亦說陀羅尼真言章句。<pb n="0920b" id="T21.1403.0920b" ed="T"/><lb
+ n="0920b01" ed="T"/></ab>
+<ab type="dharani">怛儞也他沒馱麼旦膩麼儞儞憍<lb
+ n="0920b02" ed="T"/>哩巘馱哩贊拏隷摩鄧詣布訖嚩<lb
+ n="0920b03" ed="T"/>悉娑羅沒囉帝呬曩末馱用哆羅<lb
+ n="0920b04" ed="T"/>尼滿覩隷儞計作迦囉嚩枳舍嚩<lb
+ n="0920b05" ed="T"/>哩舍嚩哩娑嚩賀<lb
+ n="0920b06" ed="T"/></ab>
+<ab type="prose">世尊我此陀羅尼名金剛座。解脫一切怖畏。<lb
+ n="0920b07" ed="T"/>遠離一切中夭。<lb
+ n="0920b08" ed="T"/>爾時持國天王增長天王廣目天王多聞天王<lb
+ n="0920b09" ed="T"/>俱詣佛前合掌頂禮。白佛言世尊。我等於此<lb
+ n="0920b10" ed="T"/>正法。亦說陀羅尼真言章句。<lb
+ n="0920b11" ed="T"/></ab>
+<ab type="dharani">怛儞也他補瑟閉蘇補瑟閉度波<lb
+ n="0920b12" ed="T"/>波哩賀哩阿哩也鉢囉設悉帝<lb
+ n="0920b13" ed="T"/>扇帝儞哩目訖帝夢誐隷曳呬囉拏也誐哩鼻娑覩帝娑<lb
+ n="0920b15" ed="T"/>哆尾帝娑嚩賀<lb
+ n="0920b16" ed="T"/></ab>
+<ab type="prose">世尊我等四大天王作說陀羅尼名為無怖。<lb
+ n="0920b17" ed="T"/>於其恐怖能施無畏。遠離中夭增延壽命。<lb
+ n="0920b18" ed="T"/>爾時復有大海龍王。所謂大意龍王雷光龍<lb
+ n="0920b19" ed="T"/>王。無熱惱龍王電舌龍王百光龍王。俱詣佛<lb
+ n="0920b20" ed="T"/>所合掌頂禮白佛言世尊。我有陀羅尼名如<lb
+ n="0920b21" ed="T"/>意寶。擁護有情。若人書寫讀誦。能除一切雷<lb
+ n="0920b22" ed="T"/>電怖畏。一切中夭一切諸毒一切惡病。及不<lb
+ n="0920b23" ed="T"/>吉祥鬼神亦不得便。世尊若持此真言。我等<lb
+ n="0920b24" ed="T"/>龍類悉皆悲愍不生嫉妬。於意云何龍趣之<lb
+ n="0920b25" ed="T"/>類行嫉妬心。若聞此法而無嫉妬。陀羅尼曰。<lb
+ n="0920b26" ed="T"/></ab>
+<ab type="dharani">怛儞也他阿惹哩摩摩哩阿蜜哩帝阿訖叉曳阿尾也曳奔尼<lb
+ n="0920b28" ed="T"/>也鉢哩也曳薩哩嚩播波鉢<lb
+ n="0920b29" ed="T"/>囉舍摩儞娑嚩賀阿哩也奔拏<pb n="0920c" id="T21.1403.0920c" ed="T"/><lb
+ n="0920c01" ed="T"/>燥播枳曳娑嚩賀印捺囉舍儞<lb
+ n="0920c02" ed="T"/>曳娑嚩賀彌伽舍儞曳娑嚩<lb
+ n="0920c03" ed="T"/>賀<lb
+ n="0920c04" ed="T"/></ab>
+<ab type="prose">爾時世尊聞彼大梵天王天帝釋護世四天王<lb
+ n="0920c05" ed="T"/>及大龍王等說此陀羅尼。讚言善哉善哉。能<lb
+ n="0920c06" ed="T"/>令多人得大安藥。汝等護持流行正法。佛說<lb
+ n="0920c07" ed="T"/>此經已。一切大眾天龍阿修羅乾達婆等。皆<lb
+ n="0920c08" ed="T"/>大歡喜信受奉行。<lb
+ n="0920c09" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說如意摩尼陀羅尼經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">聖金剛手菩薩一百八名梵讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1131</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0569c05" ed="T"/><lb
+ n="0569c06" ed="T"/><lb
+ n="0569c07" ed="T"/><lb
+ n="0569c08" ed="T"/>
+<ab type="juan" subtype="open">聖金剛手菩薩一百八名梵讚</ab><lb
+ n="0569c09" ed="T"/><lb
+ n="0569c10" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0569c11" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0569c12" ed="T"/><div type="hui" level="2"><head>第一會</head><ab type="dharani">嚩日囉薩埵摩賀薩埵嚩日<lb
+ n="0569c13" ed="T"/>囉囉怛那摩賀末羅嚩日囉達<lb
+ n="0569c14" ed="T"/>哩摩摩賀󰡊馱嚩日囉阿羯哩沙<lb
+ n="0569c15" ed="T"/>那謨窣覩帝</ab></div><lb
+ n="0569c16" ed="T"/><div type="hui" level="2"><head>第二會</head><ab type="dharani">嚩日囉泥怛囉摩賀作<lb
+ n="0569c17" ed="T"/>芻嚩日囉梅底哩摩賀捺哩茶<lb
+ n="0569c18" ed="T"/>嚩日囉藥叉摩賀帝沒囉嚩日<lb
+ n="0569c19" ed="T"/>囉囉叉那謨窣覩帝</ab></div><lb
+ n="0569c20" ed="T"/><div type="hui" level="2"><head>第三會</head><ab type="dharani">嚩日囉母瑟致摩賀母瑟<lb
+ n="0569c21" ed="T"/>致嚩日囉母瑟致摩賀蘇珂嚩<lb
+ n="0569c22" ed="T"/>日囉賀娑摩賀賀娑嚩日囉婆<lb
+ n="0569c23" ed="T"/>沙那謨窣覩帝</ab></div><lb
+ n="0569c24" ed="T"/><div type="hui" level="2"><head>第四會</head><ab type="dharani">󰂛地唧當摩賀󰂛提沒馱薩哩<lb
+ n="0569c25" ed="T"/>嚩怛他誐多嚩日囉夜那摩賀<lb
+ n="0569c26" ed="T"/>夜那嚩日囉倪也那那謨窣覩<lb
+ n="0569c27" ed="T"/>帝</ab></div><lb
+ n="0569c28" ed="T"/><div type="hui" level="2"><head>第五會</head><ab type="dharani">薩埵哩他薩哩嚩薩埵<lb
+ n="0569c29" ed="T"/>哩他摩賀薩埵哩湯薩沒哩底<pb n="0570a" id="T20.1131.0570a" ed="T"/><lb
+ n="0570a01" ed="T"/>薩哩嚩倪也薩哩嚩薩哩舞<lb
+ n="0570a02" ed="T"/>訖多薩哩嚩悉提那謨窣覩帝<lb
+ n="0570a03" ed="T"/></ab></div><lb
+ n="0570a04" ed="T"/><div type="hui" level="2"><head>第六會</head><ab type="dharani">嚩日囉怛摩哥蘇嚩日囉仡量嚩日囉微囉蘇嚩日羅特哩酤摩賀三摩野怛埵哩他<lb
+ n="0570a07" ed="T"/>摩賀薩爹那謨窣帝</ab></div><lb
+ n="0570a08" ed="T"/><div type="hui" level="2"><head>第七會</head><ab type="dharani">嚩日囉酤舍摩賀入嚩邏<lb
+ n="0570a09" ed="T"/>嚩日囉入嚩邏摩賀鉢囉<lb
+ n="0570a10" ed="T"/>婆嚩日囉鉢囉婆鉢囉菩捺<lb
+ n="0570a11" ed="T"/>踰多沒馱鉢囉婆那謨窣覩帝<lb
+ n="0570a12" ed="T"/></ab></div><lb
+ n="0570a13" ed="T"/><div type="hui" level="2"><head>第八會</head><ab type="dharani">嚩日囉囉惹仡囉也<lb
+ n="0570a14" ed="T"/>嚩日囉仡囉也每󰍕仡囉也<lb
+ n="0570a15" ed="T"/>仡囉也那嚕怛摩嚩日嚕怛摩摩賀<lb
+ n="0570a16" ed="T"/>仡囉也仡量嚩日嚕怛摩那謨<lb
+ n="0570a17" ed="T"/>窣覩帝</ab></div><lb
+ n="0570a18" ed="T"/><div type="hui" level="2"><head>第九會</head><ab type="dharani">嚩日囉馱覩摩賀玉呬焬嚩日囉玉呬野蘇玉呬野特哩<lb
+ n="0570a20" ed="T"/>酤倪也那嚩日囉摩賀嚩<lb
+ n="0570a21" ed="T"/>日朗嚩日囉羯哩沙那謨窣覩帝</ab></div><lb
+ n="0570a23" ed="T"/><div type="hui" level="2"><head>第十會</head><ab type="dharani">沒馱仡囉也沒馱嚩日囉<lb
+ n="0570a24" ed="T"/>仡囉也󰂛提沒馱摩賀沒達嚩日囉<lb
+ n="0570a25" ed="T"/>沒馱野沒馱野󰂛提沒馱那謨窣<lb
+ n="0570a26" ed="T"/>覩帝</ab></div><lb
+ n="0570a27" ed="T"/><div type="hui" level="2"><head>第十一會</head><ab type="dharani">沒馱布惹摩賀布惹薩埵<lb
+ n="0570a28" ed="T"/>布惹蘇布惹哥遏呼播野摩賀<pb n="0570b" id="T20.1131.0570b" ed="T"/><lb
+ n="0570b01" ed="T"/>鉢囉倪也摩賀悉駄那謨窣覩<lb
+ n="0570b02" ed="T"/>帝</ab></div><lb
+ n="0570b03" ed="T"/><div type="hui" level="2"><head>第十二會</head><ab type="dharani">怛他誐多摩賀哥野怛他<lb
+ n="0570b04" ed="T"/>誐多娑囉莎帝怛他誐多摩賀唧多<lb
+ n="0570b05" ed="T"/>嚩日囉嚩日囉那謨窣覩帝</ab></div><lb
+ n="0570b07" ed="T"/><div type="hui" level="2"><head>第十三會</head><ab type="dharani">怛他誐多摩賀怛埵部多<lb
+ n="0570b08" ed="T"/>酤致摩賀那野薩哩嚩鉢囉摩怛<lb
+ n="0570b09" ed="T"/>埵倪也鉢囉摩哩他哥那謨窣覩<lb
+ n="0570b10" ed="T"/>帝</ab></div><lb
+ n="0570b11" ed="T"/><div type="hui" level="2"><head>第十四會</head><ab type="dharani">三滿多跋捺囉囉惹仡囉<lb
+ n="0570b12" ed="T"/>也摩囉摩囉鉢囉摩哩那哥<lb
+ n="0570b13" ed="T"/>薩哩嚩仡囉也三滿多倪也那<lb
+ n="0570b14" ed="T"/>薩哩嚩怛囉哥那謨窣覩帝</ab></div><lb
+ n="0570b16" ed="T"/><div type="hui" level="2"><head>第十五會</head><ab type="dharani">沒馱吽哥囉吽哥囉嚩<lb
+ n="0570b17" ed="T"/>日囉吽哥囉那野哥嚩日羅嚩<lb
+ n="0570b18" ed="T"/>日朗誐嚩日朗誐嚩日囉<lb
+ n="0570b19" ed="T"/>播尼那謨窣覩帝</ab></div><lb
+ n="0570b20" ed="T"/><div type="hui" level="2"><head>第十六會</head><ab type="dharani">嚩日囉播尼娑多摩<lb
+ n="0570b21" ed="T"/>󰍕娑多薩得哥哩多咩怛他誐<lb
+ n="0570b22" ed="T"/>帶拽悉銘薩哩嚩倪也多唧<lb
+ n="0570b23" ed="T"/>多󰂛提唧多薩怛徒節帝</ab></div><lb
+ n="0570b24" ed="T"/><div type="hui" level="2"><head>第十七會</head><ab type="dharani">訖哩多提哥囉呬三<lb
+ n="0570b25" ed="T"/>沒馱彌怛塞怛鑁薩哩嚩捺哩<lb
+ n="0570b26" ed="T"/>沙儺三部多三婆微扇底怛<lb
+ n="0570b27" ed="T"/>網摩娑󰍕怛他誐多</ab></div><lb
+ n="0570b28" ed="T"/><div type="hui" level="2"><head>第十八會</head><ab type="dharani">薩哩嚩哥囉倪也多<lb
+ n="0570b29" ed="T"/>薩埵捺哩馳婆嚩怛他誐帝嚩<pb n="0570c" id="T20.1131.0570c" ed="T"/><lb
+ n="0570c01" ed="T"/>日囉薩埵薩母尾瑟鵮紇哩那野<lb
+ n="0570c02" ed="T"/>薩哩嚩禰呬曩</ab></div><lb
+ n="0570c03" ed="T"/><div type="hui" level="2"><head>第十九會</head><ab type="dharani">壹帝焬室囉馱帝室囉<lb
+ n="0570c04" ed="T"/>馱蘇嚩捺曳焬薩怛他誐帶薩哩嚩沒馱蜜唐窣覩怛囕室<lb
+ n="0570c06" ed="T"/>哩夜󰍕率嚕努薩得訖哩當</ab></div><lb
+ n="0570c07" ed="T"/><div type="hui" level="2"><head>第二十會</head><ab type="dharani">薩哩嚩播波尾󰡊馱怛摩<lb
+ n="0570c08" ed="T"/>薩哩嚩󰂛提薩謨訥婆微遏<lb
+ n="0570c09" ed="T"/>泥拏窣都怛囉囉𡁠那拶<lb
+ n="0570c10" ed="T"/>覩索訖多酥薄訖多哥<lb
+ n="0570c11" ed="T"/>
+</ab><ab type="juan" subtype="close">聖金剛手菩薩一百八名梵讚</ab></div></div>
+</body></text></TEI>

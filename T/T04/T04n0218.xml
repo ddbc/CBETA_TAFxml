@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">灌頂王喻經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T04</biblScope>
+                    <idno type="Taisho">T04n0218</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0801c12" ed="T"/><lb
+ n="0801c13" ed="T"/><lb
+ n="0801c14" ed="T"/>
+<ab type="juan" subtype="open">佛說灌頂王喻經</ab><lb
+ n="0801c15" ed="T"/><lb
+ n="0801c16" ed="T"/><byline>西天譯經三藏朝奉大夫<lb
+ n="0801c17" ed="T"/>試光祿卿傳法大師賜紫<lb
+ n="0801c18" ed="T"/>臣施護等奉　詔譯</byline><lb
+ n="0801c19" ed="T"/><div type="jing" level="1"><ab type="prose">爾時世尊，在舍衛國，以因緣故，告諸苾芻言：<lb
+ n="0801c20" ed="T"/>「汝等當知，有三剎帝利王，於三時中，在於某<lb
+ n="0801c21" ed="T"/>方，受王灌頂；而彼三王，乃至盡壽，常所思<lb
+ n="0801c22" ed="T"/>念。何等為三？謂第一王，年方少盛，依灌頂法，<lb
+ n="0801c23" ed="T"/>在於某方，受王灌頂；得灌頂已，乃至盡壽，<lb
+ n="0801c24" ed="T"/>常所思念。又第二王，功力漸大，依灌頂法，<lb
+ n="0801c25" ed="T"/>在於某方，受王灌頂；得灌頂已，乃至盡壽，<lb
+ n="0801c26" ed="T"/>常所思念。又第三王，有大威力，戰勇最勝，<lb
+ n="0801c27" ed="T"/>一切對敵，而悉信伏；以最勝故，得勝安住，<lb
+ n="0801c28" ed="T"/>依灌頂法，在於某方，受王灌頂；得灌頂已，<lb
+ n="0801c29" ed="T"/>乃至盡壽，常所思念。「汝諸苾芻，亦復如是，<pb n="0802a" ed="T" id="T04.0218.0802a"/><lb
+ n="0802a01" ed="T"/>於三時中，在於某方，作修證事，乃至盡壽，<lb
+ n="0802a02" ed="T"/>常所思念。何等為三？謂有苾芻，發正信心，<lb
+ n="0802a03" ed="T"/>捨家出家，剃除鬚髮，被袈裟衣；此為第一，<lb
+ n="0802a04" ed="T"/>在於某方修苾芻事，乃至盡壽，常所思念。又<lb
+ n="0802a05" ed="T"/>有苾芻，修諸勝行，為證滅故，斷諸集法；如<lb
+ n="0802a06" ed="T"/>是知已，遠塵離垢，於諸法中，得法眼淨；此<lb
+ n="0802a07" ed="T"/>為第二，在於某方修苾芻事，乃至盡壽，常<lb
+ n="0802a08" ed="T"/>所思念。又有苾芻，諸漏已盡，非漏隨增，心<lb
+ n="0802a09" ed="T"/>善解脫，慧善解脫，自智所證，已得成就：我<lb
+ n="0802a10" ed="T"/>生已盡，梵行已立，所作已辦，不受後有；此<lb
+ n="0802a11" ed="T"/>為第三，在於某方證聖果事，乃至盡壽，常<lb
+ n="0802a12" ed="T"/>所思念。」<lb
+ n="0802a13" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說灌頂王喻經</ab></div>
+</body></text></TEI>

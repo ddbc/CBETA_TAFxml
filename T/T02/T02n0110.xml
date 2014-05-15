@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說三轉法輪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0110</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0504a" ed="T" id="T02.0110.0504a"/><lb
+ n="0504a01" ed="T"/><lb
+ n="0504a02" ed="T"/><lb
+ n="0504a03" ed="T"/><div type="jing" level="1"><lb
+ n="0504a04" ed="T"/>
+<ab type="juan" subtype="open">佛說三轉法輪經</ab><lb
+ n="0504a05" ed="T"/><lb
+ n="0504a06" ed="T"/><byline>三藏法師義淨奉　制譯</byline><lb
+ n="0504a07" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在婆羅痆斯仙人墮<lb
+ n="0504a08" ed="T"/>處施鹿林中。爾時，世尊告五苾芻曰：「汝等苾<lb
+ n="0504a09" ed="T"/>芻！此苦聖諦，於所聞法如理作意，能生眼智<lb
+ n="0504a10" ed="T"/>明覺，汝等苾芻！此苦集、苦滅、順苦滅道聖諦<lb
+ n="0504a11" ed="T"/>之法，如理作意，能生眼智明覺。<lb
+ n="0504a12" ed="T"/>「汝等苾芻！此苦聖諦是所了法，如是應知，於<lb
+ n="0504a13" ed="T"/>所聞法如理作意，能生眼智明覺。<lb
+ n="0504a14" ed="T"/>「汝等苾芻！此苦集聖諦是所了法，如是應斷，<lb
+ n="0504a15" ed="T"/>於所聞法如理作意，能生眼智明覺。<lb
+ n="0504a16" ed="T"/>「汝等苾芻！此苦滅聖諦是所了法，如是應證，<lb
+ n="0504a17" ed="T"/>於所聞法如理作意，能生眼智明覺。「汝等苾<lb
+ n="0504a18" ed="T"/>芻！此順苦滅道聖諦是所了法，如是應修，<lb
+ n="0504a19" ed="T"/>於所聞法如理作意，能生眼智明覺。<lb
+ n="0504a20" ed="T"/>「汝等苾芻！此苦聖諦是所了法，如是已知，於<lb
+ n="0504a21" ed="T"/>所聞法如理作意，能生眼智明覺。<lb
+ n="0504a22" ed="T"/>「汝等苾芻！此苦集聖諦是所了法，如是已斷，<lb
+ n="0504a23" ed="T"/>於所聞法如理作意，能生眼智明覺。<lb
+ n="0504a24" ed="T"/>「汝等苾芻！此苦滅聖諦是所了法，如是已證，<lb
+ n="0504a25" ed="T"/>於所聞法如理作意，能生眼智明覺。<lb
+ n="0504a26" ed="T"/>「汝等苾芻！此順苦滅道聖諦是所了法，如是<lb
+ n="0504a27" ed="T"/>已修，於所聞法如理作意，能生眼智明覺。<lb
+ n="0504a28" ed="T"/>「汝等苾芻！若我於此四聖諦法未了三轉十<lb
+ n="0504a29" ed="T"/>二相者，眼智明覺皆不得生，我則不於諸天<pb n="0504b" ed="T" id="T02.0110.0504b"/><lb
+ n="0504b01" ed="T"/>魔梵、沙門婆羅門一切世間，捨離煩惱心得<lb
+ n="0504b02" ed="T"/>解脫，不能證得無上菩提。<lb
+ n="0504b03" ed="T"/>「汝等苾芻！由我於此四聖諦法解了三轉十<lb
+ n="0504b04" ed="T"/>二相故，眼智明覺皆悉得生，乃於諸天魔梵、<lb
+ n="0504b05" ed="T"/>沙門婆羅門一切世間，捨離煩惱心得解脫，<lb
+ n="0504b06" ed="T"/>便能證得無上菩提。」<lb
+ n="0504b07" ed="T"/>爾時世尊說是法時，具壽憍陳如及八萬諸<lb
+ n="0504b08" ed="T"/>天，遠塵離垢得法眼淨。佛告憍陳如：「汝解此<lb
+ n="0504b09" ed="T"/>法不？」答言：「已解。世尊！」「汝解此法不？」答言：「已解。<lb
+ n="0504b10" ed="T"/>善逝！」由憍陳如解了法故，因此即名阿若憍<lb
+ n="0504b11" ed="T"/>陳如。<lb
+ n="0504b12" ed="T"/>是時地居藥叉聞佛說已，出大音聲，告人天<lb
+ n="0504b13" ed="T"/>曰：「仁等當知，佛在婆羅痆斯仙人墮處施鹿<lb
+ n="0504b14" ed="T"/>林中，廣說三轉十二行相法輪，由此能於天<lb
+ n="0504b15" ed="T"/>人魔梵、沙門婆羅門一切世間，為大饒益，令<lb
+ n="0504b16" ed="T"/>同梵行者速至安隱涅槃之處，人天增盛阿<lb
+ n="0504b17" ed="T"/>蘇羅減少。」由彼藥叉作如是告，虛空諸天四<lb
+ n="0504b18" ed="T"/>大王眾皆悉聞知。如是展轉於剎那頃盡六<lb
+ n="0504b19" ed="T"/>欲天，須臾之間乃至梵天普聞其響，梵眾聞<lb
+ n="0504b20" ed="T"/>已復皆遍告廣說如前，因名此經為三轉法<lb
+ n="0504b21" ed="T"/>輪。時五苾芻及人天等，聞佛說已，歡喜奉行。<lb
+ n="0504b22" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說三轉法輪經</ab></div>
+</body></text></TEI>

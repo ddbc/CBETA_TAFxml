@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大日經略攝念誦隨行法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0857</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0176a07" ed="T"/><lb
+ n="0176a08" ed="T"/><lb
+ n="0176a09" ed="T"/><div type="jing" level="1"><lb
+ n="0176a10" ed="T"/>
+<ab type="juan" subtype="open">大日經略攝念誦隨行法</ab><lb
+ n="0176a12" ed="T"/><lb
+ n="0176a13" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅<lb
+ n="0176a14" ed="T"/>國公食邑三千戶賜紫贈司空諡<lb
+ n="0176a15" ed="T"/>大鑒正號大廣智大興善寺三藏<lb
+ n="0176a16" ed="T"/>沙門不空奉　詔譯</byline><lb
+ n="0176a17" ed="T"/><ab type="verse">
+稽首無礙智　　密教意生子　　<lb
+ n="0176a18" ed="T"/>依彼蘇多羅　　攝此隨行法　　<lb
+ n="0176a19" ed="T"/>真言行菩薩　　先住平等誓　　<lb
+ n="0176a20" ed="T"/>語密身密俱　　後作相應行　　
+</ab><lb
+ n="0176a21" ed="T"/><ab type="prose">三昧耶真言曰。<lb
+ n="0176a22" ed="T"/></ab>
+<ab type="dharani">曩莫三曼多勃馱難唵阿三謎底哩三<lb
+ n="0176a23" ed="T"/>謎三摩曳娑嚩訶<lb
+ n="0176a24" ed="T"/></ab>
+<ab type="verse">
+契謂齊輪合　　並建於二空　　<lb
+ n="0176a25" ed="T"/>五處頂肩心　　最後加咽位　　<lb
+ n="0176a26" ed="T"/>次以不動聖　　辟障及除垢　　<lb
+ n="0176a27" ed="T"/>而能淨眾事　　結護隨相應　　
+</ab><lb
+ n="0176a28" ed="T"/><ab type="prose">不動尊真言曰。<lb
+ n="0176a29" ed="T"/></ab>
+<ab type="dharani">曩莫三曼多嚩日囉𧹞戰拏摩賀<pb n="0176b" id="T18.0857.0176b" ed="T"/><lb
+ n="0176b01" ed="T"/>嚧曬拏娑頗吒野吽怛羅<lb
+ n="0176b02" ed="T"/>吒憾𤚥<lb
+ n="0176b03" ed="T"/></ab>
+<ab type="verse">
+定空加地水　　風火竪於心　　<lb
+ n="0176b04" ed="T"/>慧劍亦如是　　出鞘能成辦　　<lb
+ n="0176b05" ed="T"/>次說如來鉤　　用請於本尊　　<lb
+ n="0176b06" ed="T"/>一切眾聖主　　依本誓而來　　
+</ab><lb
+ n="0176b07" ed="T"/><ab type="prose">如來鉤真言曰。<lb
+ n="0176b08" ed="T"/></ab>
+<ab type="dharani">曩莫三曼多勃馱南阿薩嚩怛囉<lb
+ n="0176b09" ed="T"/>阿鉢囉底賀多怛他薩儻矩奢<lb
+ n="0176b10" ed="T"/>冒地拶哩耶波唎布囉迦<lb
+ n="0176b11" ed="T"/>娑嚩訶<lb
+ n="0176b12" ed="T"/></ab>
+<ab type="verse">
+止觀內相叉　　堅合智風竪　　<lb
+ n="0176b13" ed="T"/>纔屈於初分　　餘輪狀若環　　<lb
+ n="0176b14" ed="T"/>聖天悲願力　　隨請咸來降　　<lb
+ n="0176b15" ed="T"/>奉現三昧耶　　明契如前說　　<lb
+ n="0176b16" ed="T"/>既呈本誓已　　發喜而無謬　　<lb
+ n="0176b17" ed="T"/>次當隨力分　　供養表誠心　　<lb
+ n="0176b18" ed="T"/>閼伽香食燈　　下至一花水　　<lb
+ n="0176b19" ed="T"/>或但心運想　　殊勝最難量　　<lb
+ n="0176b20" ed="T"/>當以普通印　　密語共加之　　<lb
+ n="0176b21" ed="T"/>有表無表俱　　一時皆成就　　
+</ab><lb
+ n="0176b22" ed="T"/><ab type="prose">普通真言曰。<lb
+ n="0176b23" ed="T"/></ab>
+<ab type="dharani">曩莫三曼多勃馱南薩嚩他欠嗢<lb
+ n="0176b24" ed="T"/>娜孽諦薩頗囉係呬𤚥伽伽那<lb
+ n="0176b25" ed="T"/>劍娑嚩訶<lb
+ n="0176b26" ed="T"/></ab>
+<ab type="verse">
+禪智互相叉　　齊輪頂上合　　<lb
+ n="0176b27" ed="T"/>運心普周遍　　所念皆現前　　<lb
+ n="0176b28" ed="T"/>既施供養已　　修常作持誦　　<pb n="0176c" id="T18.0857.0176c" ed="T"/><lb
+ n="0176c01" ed="T"/>先擐金剛鎧　　結護事相應　　
+</ab><lb
+ n="0176c02" ed="T"/><ab type="prose">金剛甲冑真言。<lb
+ n="0176c03" ed="T"/></ab>
+<ab type="dharani">曩莫三曼多嚩囉𧹞嚩日囉迦<lb
+ n="0176c04" ed="T"/>嚩者吽<lb
+ n="0176c05" ed="T"/></ab>
+<ab type="verse">
+先作虛心合　　風輪糺持火　　<lb
+ n="0176c06" ed="T"/>大空依火本　　遍觸後居心　　<lb
+ n="0176c07" ed="T"/>次結方隅界　　如前不動尊　　<lb
+ n="0176c08" ed="T"/>左轉成辟除　　右旋及上下　　<lb
+ n="0176c09" ed="T"/>備觸身支分　　結護悉堅牢　　<lb
+ n="0176c10" ed="T"/>真言及本契　　如前已分別　　<lb
+ n="0176c11" ed="T"/>既為嚴備訖　　當示根本契　　<lb
+ n="0176c12" ed="T"/>還加五位處　　七轉或再三　　<lb
+ n="0176c13" ed="T"/>散印頂上開　　半跏正身意　　<lb
+ n="0176c14" ed="T"/>或作相應坐　　隨方如教說　　<pb n="0177a" id="T18.0857.0177a" ed="T"/><lb
+ n="0177a01" ed="T"/>正面住身前　　覩一圓明像　　<lb
+ n="0177a02" ed="T"/>清淨無瑕玷　　猶如滿月輪　　<lb
+ n="0177a03" ed="T"/>中有本尊形　　如色超三界　　<lb
+ n="0177a04" ed="T"/>妙縠嚴身服　　寶冠紺髮垂　　<lb
+ n="0177a05" ed="T"/>寂然三摩地　　輝焰過眾電　　<lb
+ n="0177a06" ed="T"/>猶如淨鏡內　　幽邃現真容　　<lb
+ n="0177a07" ed="T"/>喜怒顯顏色　　操持與願等　　<lb
+ n="0177a08" ed="T"/>正受相應身　　明了心無亂　　<lb
+ n="0177a09" ed="T"/>無相淨法體　　應願濟群生　　<lb
+ n="0177a10" ed="T"/>專注而念持　　限數既終畢　　<lb
+ n="0177a11" ed="T"/>懈極後方已　　復結普通印　　<lb
+ n="0177a12" ed="T"/>虔誠啟願等　　慇重禮聖尊　　<lb
+ n="0177a13" ed="T"/>左轉無動力　　解前所結護　　<lb
+ n="0177a14" ed="T"/>還呈本尊契　　頂上散開之　　<lb
+ n="0177a15" ed="T"/>心送於聖天　　五輪投地禮　　<lb
+ n="0177a16" ed="T"/>然起隨眾善　　後會復如初　　<lb
+ n="0177a17" ed="T"/>一時與二三　　或四皆如此　　<lb
+ n="0177a18" ed="T"/>餘分旋繞塔　　浴像讚方廣　　<lb
+ n="0177a19" ed="T"/>塗飾曼荼羅　　布花讚佛德　　<lb
+ n="0177a20" ed="T"/>或復無雜念　　專注於等引　　<lb
+ n="0177a21" ed="T"/>以此淨三業　　悉地速現前　　<lb
+ n="0177a22" ed="T"/>聖力所加持　　行願相應故　　<lb
+ n="0177a23" ed="T"/>諸有樂修習　　隨師而受學　　<lb
+ n="0177a24" ed="T"/>持明傳本教　　無越三昧耶　　<lb
+ n="0177a25" ed="T"/>勤策無間斷　　離蓋及熏醉　　<lb
+ n="0177a26" ed="T"/>順行於學處　　悉地隨力成　　<lb
+ n="0177a27" ed="T"/>我依大日教　　略示瑜伽行　　<lb
+ n="0177a28" ed="T"/>修證殊勝福　　普潤諸有情　　
+</ab><lb
+ n="0177a29" ed="T"/>
+<ab type="juan" subtype="close">大日經略攝念誦隨行法一卷</ab></div>
+</body></text></TEI>

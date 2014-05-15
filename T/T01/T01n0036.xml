@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">本相猗致經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0036</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0819c16" ed="T"/><lb
+ n="0819c17" ed="T"/><lb
+ n="0819c18" ed="T"/><div type="jing" level="1"><lb
+ n="0819c19" ed="T"/>
+<ab type="juan" subtype="open">佛說本相猗致經</ab><lb
+ n="0819c20" ed="T"/><lb
+ n="0819c21" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
+ n="0819c22" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
+ n="0819c23" ed="T"/>便告比丘：「本有愛不見不了，今見有從有愛，<lb
+ n="0819c24" ed="T"/>設是本有愛無有今為有，今見分明。從是本<lb
+ n="0819c25" ed="T"/>因緣，令致有愛，有愛，比丘！從致有本，不為無<lb
+ n="0819c26" ed="T"/>有本。何等為，比丘！從有愛致本？謂為癡。<lb
+ n="0819c27" ed="T"/>「癡亦，比丘！有從致本，不為無有本。何等為，<lb
+ n="0819c28" ed="T"/>比丘！癡有本從致？謂為五蓋。<lb
+ n="0819c29" ed="T"/>「五蓋，比丘！亦從有本致，不為無有本。何等為，<pb n="0820a" ed="T" id="T01.0036.0820a"/><lb
+ n="0820a01" ed="T"/>比丘！五蓋從有致？謂為三惡行。「三惡行，比丘！<lb
+ n="0820a02" ed="T"/>亦有本從致，不為無有本。何等為，比丘！三惡<lb
+ n="0820a03" ed="T"/>行本從致？謂為不攝根。<lb
+ n="0820a04" ed="T"/>「不攝根，比丘！亦有本從致，不為無有本。何等<lb
+ n="0820a05" ed="T"/>為，比丘！不攝根從致？謂非本念故。<lb
+ n="0820a06" ed="T"/>「非本念，比丘！亦有本從致，不為無有本。何等<lb
+ n="0820a07" ed="T"/>為，比丘！非本念從致？謂不信故。<lb
+ n="0820a08" ed="T"/>「不信，比丘！亦有本從致，不為無有本。何等為，<lb
+ n="0820a09" ed="T"/>比丘！不信本從致？謂惡非法聞故。<lb
+ n="0820a10" ed="T"/>「非法聞，比丘！亦有本從致，不為無有本。何等<lb
+ n="0820a11" ed="T"/>為，比丘！非法聞本從致？謂非賢者人事。<lb
+ n="0820a12" ed="T"/>「非賢者亦有本從致，不為無有本。何等為，比<lb
+ n="0820a13" ed="T"/>丘！非賢者從致？謂非賢者人共會樂。<lb
+ n="0820a14" ed="T"/>「如是，比丘，已不賢者聚會滿，令不賢者事滿；<lb
+ n="0820a15" ed="T"/>已不賢者事滿，令非法滿；已非法滿，令不<lb
+ n="0820a16" ed="T"/>信滿；已不信滿，令非本念滿；已非本念滿，<lb
+ n="0820a17" ed="T"/>令不攝根滿；已不攝根滿，令三惡行犯法<lb
+ n="0820a18" ed="T"/>滿；已三惡行犯法滿，令五蓋滿；已五蓋滿，<lb
+ n="0820a19" ed="T"/>令癡滿；已癡滿，令有世間愛滿。如是愛樂<lb
+ n="0820a20" ed="T"/>滿，稍轉稍轉猗增有。<lb
+ n="0820a21" ed="T"/>「度世智慧解脫亦有本，不為無有本。何等為<lb
+ n="0820a22" ed="T"/>度世智慧解脫本？謂七覺意為本。<lb
+ n="0820a23" ed="T"/>「七覺意從有本，不為無有本。何等為七覺意<lb
+ n="0820a24" ed="T"/>從有本？謂為四意止。<lb
+ n="0820a25" ed="T"/>「四意止從有本，不為無有本。何等為，比丘！四<lb
+ n="0820a26" ed="T"/>意止從有本？謂三清淨行。<lb
+ n="0820a27" ed="T"/>「三清淨，比丘！亦有本從行，不為無有本。何等<lb
+ n="0820a28" ed="T"/>為，比丘！三清淨有本？謂為守攝根。<lb
+ n="0820a29" ed="T"/>「守攝根亦有本，不為無有本。何等為，比丘！守<pb n="0820b" ed="T" id="T01.0036.0820b"/><lb
+ n="0820b01" ed="T"/>攝根有本？謂為本念故。<lb
+ n="0820b02" ed="T"/>「本念，比丘！亦有本，不為無有本。何等為，比丘！<lb
+ n="0820b03" ed="T"/>本念本？謂為信本。<lb
+ n="0820b04" ed="T"/>「信本，比丘！亦有本，不為無有本。何等為，比丘！<lb
+ n="0820b05" ed="T"/>信本有本？謂聞法經本。<lb
+ n="0820b06" ed="T"/>「聞法經亦有本，不為無有本。何等為聞法經<lb
+ n="0820b07" ed="T"/>本？謂事賢者本。<lb
+ n="0820b08" ed="T"/>「事賢者亦有本，不為無有本。何等為事賢者<lb
+ n="0820b09" ed="T"/>有本？謂賢者聚本。<lb
+ n="0820b10" ed="T"/>「如是，比丘！聚賢者能得事賢者；已事賢者，<lb
+ n="0820b11" ed="T"/>便聞法言；已聞法言，便致信本；已致信本，<lb
+ n="0820b12" ed="T"/>便得念本；已得念本，便攝守根；已攝守根，<lb
+ n="0820b13" ed="T"/>便得三清淨；已有三清淨，便得四意止；已<lb
+ n="0820b14" ed="T"/>得四意止本，便有七覺意；已有七覺意，便<lb
+ n="0820b15" ed="T"/>有無為解脫得度世。如是解脫度世，轉轉<lb
+ n="0820b16" ed="T"/>本，令得度世。」佛說如是，弟子受行。<lb
+ n="0820b17" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說本相猗致經</ab></div>
+</body></text></TEI>

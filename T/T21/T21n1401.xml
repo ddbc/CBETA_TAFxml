@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說大金剛香陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1401</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0917b" id="T21.1401.0917b" ed="T"/><lb
+ n="0917b01" ed="T"/><lb
+ n="0917b02" ed="T"/><div type="jing" level="1"><lb
+ n="0917b03" ed="T"/>
+<ab type="juan" subtype="open">佛說大金剛香陀羅尼經</ab><lb
+ n="0917b04" ed="T"/><lb
+ n="0917b05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
+ n="0917b06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0917b07" ed="T"/><ab type="prose">爾時世尊。說此大明。能降伏諸天宿曜。此金<lb
+ n="0917b08" ed="T"/>剛香。大力最勝如金剛寶。有大利用能破諸<lb
+ n="0917b09" ed="T"/>山。若有最上星曜而不降伏但念此金剛香<lb
+ n="0917b10" ed="T"/>真言。天等星曜驚怖戰悚而自降伏。如風吹<lb
+ n="0917b11" ed="T"/>樹枝隨風低仆。即說陀羅尼曰。<lb
+ n="0917b12" ed="T"/></ab>
+<ab type="dharani">曩謨囉怛曩怛囉夜野曩莫室戰<lb
+ n="0917b13" ed="T"/>拏嚩日囉播拏曳摩賀藥乞叉<lb
+ n="0917b14" ed="T"/>細曩鉢多曳唵曩謨婆誐嚩帝曳<lb
+ n="0917b15" ed="T"/>阿哩也嚩日囉巘馱哩曳阿<lb
+ n="0917b16" ed="T"/>儞迦囉濕彌設哆娑賀娑囉鉢囉<lb
+ n="0917b17" ed="T"/>入嚩隷哆帝惹娑曳烏誐囉鼻<lb
+ n="0917b18" ed="T"/>摩婆夜曩迦曳尾迦囉羅曳贊拏<lb
+ n="0917b19" ed="T"/>曳左波羅曳摩賀喻詣濕嚩<lb
+ n="0917b20" ed="T"/>哩曳鼻瑟摩婆夜曩迦曳沙吒目<lb
+ n="0917b21" ed="T"/>佉曳播嚩那舍部惹曳捺嚩<lb
+ n="0917b22" ed="T"/>那舍儞怛囉曳尾枳囉拏計舍<lb
+ n="0917b23" ed="T"/>曳阿儞迦嚕波尾尾馱尾唧怛囉吠沙<lb
+ n="0917b24" ed="T"/>馱囉尾曳噎呬曳呬婆誐嚩底摩賀<lb
+ n="0917b25" ed="T"/>嚩日囉巘馱哩怛囉夜𧹞囉怛<lb
+ n="0917b26" ed="T"/>曩薩帝曳曩怛儞也他唵阿<lb
+ n="0917b27" ed="T"/>迦茶阿迦茶末羅禰嚩摩呬濕嚩囕<lb
+ n="0917b28" ed="T"/>誐嚕瑟噥俱摩囕沒囉憾摩𧹞<lb
+ n="0917b29" ed="T"/>印捺囕贊捺囕阿禰底焰藥羼囉<pb n="0917c" id="T21.1401.0917c" ed="T"/><lb
+ n="0917c01" ed="T"/>叉散沒囉憾摩囉叉散阿儗儞<lb
+ n="0917c02" ed="T"/>夜曼嚩嚕𧹞嚩庾俱吠囕馱曩難馱哩<lb
+ n="0917c03" ed="T"/>底囉瑟吒囕尾嚕茶劍尾嚕播羼吠室<lb
+ n="0917c04" ed="T"/>囉摩𧹞商俱迦囉𧹞虞迦囉𧹞尾迦囉<lb
+ n="0917c05" ed="T"/>𧹞沒哩賀迦囉𧹞健吒迦囉𧹞訥嚕拏<lb
+ n="0917c06" ed="T"/>迦囉𧹞娑度羅迦囉𧹞摩賀迦覽喃<lb
+ n="0917c07" ed="T"/>禰枳濕嚩囕部凌儗哩致孕曩<lb
+ n="0917c08" ed="T"/>野劍尾曩野劍半唧劍那摩劍路賀<lb
+ n="0917c09" ed="T"/>劍謨賀劍沙瑟致哩禰嚩俱致也<lb
+ n="0917c10" ed="T"/>儗哩劍唵迦哩努哩誐迦哩怛<lb
+ n="0917c11" ed="T"/>也曳儞摩賀迦哩怛也曳儞贊拏<lb
+ n="0917c12" ed="T"/>迦哩怛也曳儞野舍悉尾儞迺哩<lb
+ n="0917c13" ed="T"/>底炎伊舍儞也迦陵摩賀迦<lb
+ n="0917c14" ed="T"/>陵嚩日囉迦陵商佉迦陵阿迦陵婆<lb
+ n="0917c15" ed="T"/>捺囉迦陵芻捺囉迦陵祖羅迦<lb
+ n="0917c16" ed="T"/>陵阿儗儞焰夜曼嚩野尾焰<lb
+ n="0917c17" ed="T"/>設隷迦嚩哩底焰囉怛陵扇<lb
+ n="0917c18" ed="T"/>底孕設訖底孕設多叉孕摩賀<lb
+ n="0917c19" ed="T"/>設哆叉孕娑賀娑囉叉孕印捺<lb
+ n="0917c20" ed="T"/>囉尼孕沒囉憾摩尼孕<lb
+ n="0917c21" ed="T"/>憍摩哩孕摩呬濕嚩哩孕吠<lb
+ n="0917c22" ed="T"/>瑟拏尾孕倪里劍蘇婆巘左捫<lb
+ n="0917c23" ed="T"/>拏陵涅陵嚩囉呬孕曳左儞曳<lb
+ n="0917c24" ed="T"/>三摩曳曩底瑟站底旦薩哩嚩<lb
+ n="0917c25" ed="T"/>阿嚩賀曳瑟也彌始伽覽誐哩<lb
+ n="0917c26" ed="T"/>恨拏誐哩恨拏誐哩恨拏<lb
+ n="0917c27" ed="T"/>播野誐哩恨拏播野唵護嚕護嚕<lb
+ n="0917c28" ed="T"/>羅羅羅羅遇嚕遇嚕租嚕租嚕母嚕母嚕杜母<lb
+ n="0917c29" ed="T"/>杜母馱摩馱摩馱囉馱囉摩囉摩囉野囉野囉<pb n="0918a" id="T21.1401.0918a" ed="T"/><lb
+ n="0918a01" ed="T"/>摩囉摩羅覽誐覽誐覽誐波野覽誐波野惹<lb
+ n="0918a02" ed="T"/>羅波惹羅波播野惹羅波播野<lb
+ n="0918a03" ed="T"/>布囉野布囉野羅具羅具阿尾舍野阿<lb
+ n="0918a04" ed="T"/>尾舍野唵曩謨婆誐嚩底阿哩也<lb
+ n="0918a05" ed="T"/>摩賀嚩日囉巘馱哩悉馱室戰<lb
+ n="0918a06" ed="T"/>拏嚩日囉播尼囉惹拏波野底唵<lb
+ n="0918a07" ed="T"/>呬曳呬呬哩呬賀賀賀賀訶<lb
+ n="0918a08" ed="T"/>訶訶訶囉囉囉囉護吽吽𠷑吒娑嚩賀<lb
+ n="0918a09" ed="T"/>唵曩謨婆誐嚩底阿哩也摩賀嚩<lb
+ n="0918a10" ed="T"/>日囉巘馱哩阿儞迦囉濕彌設<lb
+ n="0918a11" ed="T"/>哆娑賀娑囉鉢囉底滿尼哆舍哩哩<lb
+ n="0918a12" ed="T"/>悉馱室戰拏嚩日囉播尼囉惹拏<lb
+ n="0918a13" ed="T"/>波野底唵呬呬哩呬賀賀賀賀<lb
+ n="0918a14" ed="T"/>護護護護憾賀吽吽吽吽𠷑吒𠷑吒囉<lb
+ n="0918a15" ed="T"/>囉囉囉吽賀娑嚩賀唵惹敢婆儞娑<lb
+ n="0918a16" ed="T"/>檐婆儞曳娑嚩賀薩哩嚩嚕<lb
+ n="0918a17" ed="T"/>沙鉢囉舍摩儞曳娑嚩賀唵呬哩<lb
+ n="0918a18" ed="T"/>賀呬護吽𠷑吒娑嚩賀唵呬哩<lb
+ n="0918a19" ed="T"/>阿迦里沙尼曳娑嚩賀唵<lb
+ n="0918a20" ed="T"/>阿隷娑嚩賀唵盎誐羅盎誐羅呬哩<lb
+ n="0918a21" ed="T"/>娑嚩賀唵惹羅波惹羅波波野<lb
+ n="0918a22" ed="T"/>惹羅波波野娑嚩賀唵璨璨迦哩<lb
+ n="0918a23" ed="T"/>拏涅哩怛也波野娑嚩賀唵惹<lb
+ n="0918a24" ed="T"/>敢惹敢惹敢婆儞曳娑嚩賀<lb
+ n="0918a25" ed="T"/>唵娑檐娑檐儞曳娑嚩賀<lb
+ n="0918a26" ed="T"/>唵阿吒吒賀細捫左摩賀憾賀唵度曩<lb
+ n="0918a27" ed="T"/>度曩部嚕唵菩敢惹野護僧僧僧僧賀<lb
+ n="0918a28" ed="T"/>囉護摩哩那摩哩那部嚕唵部<lb
+ n="0918a29" ed="T"/>嚕唵部嚕唵呬哩部嚕唵鑁吽<pb n="0918b" id="T21.1401.0918b" ed="T"/><lb
+ n="0918b01" ed="T"/>怛吒怛吒賀囉賀囉唵尾囉尾囉佉佉佉呬<lb
+ n="0918b02" ed="T"/>佉呬輸沙野扇底扇底布瑟致布<lb
+ n="0918b03" ed="T"/>瑟致馱哩底馱哩底必哩拏野<lb
+ n="0918b04" ed="T"/>必哩拏野必哩底必哩底悉體<lb
+ n="0918b05" ed="T"/>囉悉體囉賀呬護吽𧹞娑嚩賀<lb
+ n="0918b06" ed="T"/></ab>
+<ab type="prose">此陀羅尼令如來族降伏三界。護持佛法作<lb
+ n="0918b07" ed="T"/>大吉祥。<lb
+ n="0918b08" ed="T"/>
+</ab><ab type="juan" subtype="close">大金剛香陀羅尼經</ab></div>
+</body></text></TEI>

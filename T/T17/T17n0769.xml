@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說四輩經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0769</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0705b05" ed="T"/><lb
+ n="0705b06" ed="T"/><lb
+ n="0705b07" ed="T"/><lb
+ n="0705b08" ed="T"/>
+<ab type="juan" subtype="open">佛說四輩經</ab><lb
+ n="0705b09" ed="T"/><lb
+ n="0705b10" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
+ n="0705b11" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在舍衛國祇樹給孤獨園。爾<lb
+ n="0705b12" ed="T"/>時諸四輩弟子、天帝、龍、鬼神、質諒神，皆詣祇<lb
+ n="0705b13" ed="T"/>樹，稽首佛足，却就常位坐。佛告諸弟子：「吾今<lb
+ n="0705b14" ed="T"/>所出經法，所可教誡，皆自各守其意念。末<lb
+ n="0705b15" ed="T"/>世毒然之時，四輩弟子，若出家、若居家修<lb
+ n="0705b16" ed="T"/>道，皆狂醉眾色，不復承用佛經法，專愚自<lb
+ n="0705b17" ed="T"/>用，便使吾道薄淡，令世人謗訕吾道，信是<lb
+ n="0705b18" ed="T"/>弟子慠慢所致！」鶖鷺子整衣服，叉手，一心<lb
+ n="0705b19" ed="T"/>聽佛說《四輩經》如是。<lb
+ n="0705b20" ed="T"/>佛言：「若末世男子能出家，除剃頭髮為道者，<lb
+ n="0705b21" ed="T"/>第一去離愛欲，志存大乘，常當慈悲喜護為<lb
+ n="0705b22" ed="T"/>主，去想行，普念一切蜎飛蠕動之類，視之如<lb
+ n="0705b23" ed="T"/>身無異，不得妄起恚怒。深入明度，常以明<lb
+ n="0705b24" ed="T"/>度權便，誘致曚冥，使入無極，以戒德除心穢<lb
+ n="0705b25" ed="T"/>病，不得為世間之業。能行此者，便可出家，<lb
+ n="0705b26" ed="T"/>名曰道士。不可依恃吾法，自以出家為信，不<lb
+ n="0705b27" ed="T"/>專念道。或能有下賤之人，倚道自活，無益<lb
+ n="0705b28" ed="T"/>一切，而但出意說。為人師主，輕薄戲調，不自<lb
+ n="0705b29" ed="T"/>撿察，使尊法薄淡，世人不信，非吾出家弟子<pb n="0705c" ed="T" id="T17.0769.0705c"/><lb
+ n="0705c01" ed="T"/>之法也！」<lb
+ n="0705c02" ed="T"/>佛言：「若有女人出家，除髮為道，以去愛欲，當<lb
+ n="0705c03" ed="T"/>專精靜處，不得與出家男子同廟止。若行<lb
+ n="0705c04" ed="T"/>師受，當有等類，不得獨往稟受。常當晚出早<lb
+ n="0705c05" ed="T"/>還，不得妄出廟宿止。但得教授女人，不得教<lb
+ n="0705c06" ed="T"/>授男子。所著衣服，不得刻繒帛綵色苾芬。<lb
+ n="0705c07" ed="T"/>不得輕言戲語，不得貪財寶物，戒行清淨，名<lb
+ n="0705c08" ed="T"/>曰出家道人。若輕言戲調，未語預笑，心志<lb
+ n="0705c09" ed="T"/>不寂，意行穢濁，惡口罵詈，輕言不節，不能<lb
+ n="0705c10" ed="T"/>靜處，憍慢自大，不自撿勅者，雖復出家，故<lb
+ n="0705c11" ed="T"/>是賤人，非出家弟子也！」<lb
+ n="0705c12" ed="T"/>佛言：「若有男子心志繫道，不能出家者，在於<lb
+ n="0705c13" ed="T"/>愛欲之中，當受持五戒、月六齋。第一孝順父<lb
+ n="0705c14" ed="T"/>母，治家養子；朝暮燒香、然燈，稽首三尊，悔過<lb
+ n="0705c15" ed="T"/>十方，恭敬四輩；不得慢輕自大，去離慳貪；<lb
+ n="0705c16" ed="T"/>常以至誠，不得欺殆世人；不得與世間人妻<lb
+ n="0705c17" ed="T"/>婦坐起同席、住行相隨、同室異床。除去四事，<lb
+ n="0705c18" ed="T"/>以四等心普視一切，老者，若父、若母；少者，<lb
+ n="0705c19" ed="T"/>若弟、若子。恒以明度法藥洗除眾病，不得妄<lb
+ n="0705c20" ed="T"/>瞋恚、罵詈。常以無極方便誘解世人，使入<lb
+ n="0705c21" ed="T"/>大乘；不得為新學者說深經、奧妙之義，當為<lb
+ n="0705c22" ed="T"/>除想識無罣礙者；不得綺飾衣服，不得與世<lb
+ n="0705c23" ed="T"/>間妻女戲調言語、往來報答。以致因緣，如<lb
+ n="0705c24" ed="T"/>是者為清淨道人。若行不清淨，貪利財色；或<lb
+ n="0705c25" ed="T"/>於世俗綺飾衣服，互相翹舉，但結非惡，眄睞<lb
+ n="0705c26" ed="T"/>所欲；輕言戲調，未語預笑；託己同法，口說<lb
+ n="0705c27" ed="T"/>妙言；外似清虛，內懷貪惑；心存財帛，以自供<lb
+ n="0705c28" ed="T"/>給，活於妻子；慢佛，尊經不復修學，反習外<lb
+ n="0705c29" ed="T"/>道之術——世藥解奏、符呪厭說、療治眾病因<pb n="0706a" ed="T" id="T17.0769.0706a"/><lb
+ n="0706a01" ed="T"/>緣、外道解奏之術，或於財帛勾束上下，賊<lb
+ n="0706a02" ed="T"/>意欲得，因解奏之術，不持吾法，當來者却皆<lb
+ n="0706a03" ed="T"/>由斯輩，是故非吾法學弟子也！」<lb
+ n="0706a04" ed="T"/>佛言：「若有女人不能出家，在於愛欲之中心<lb
+ n="0706a05" ed="T"/>樂道者，當持五戒、月六齋。孝順父母、姑嫜、叔<lb
+ n="0706a06" ed="T"/>妹、夫婿；不得撾罵兒子、婢使；不得輕行，來宿<lb
+ n="0706a07" ed="T"/>止他家；不得與世間男子語言，調弄譺笑；不<lb
+ n="0706a08" ed="T"/>得妄瞋恚、罵詈、惡口；不得證說他人惡，不得<lb
+ n="0706a09" ed="T"/>陷人兒子、妻妾、奴婢過惡；恒當專精念道為<lb
+ n="0706a10" ed="T"/>上首；不得與世間凡人說法顏貌；不得與人<lb
+ n="0706a11" ed="T"/>男子相斥，不得教他人男子；不得說世間<lb
+ n="0706a12" ed="T"/>吉凶、善惡、災變之相；不得憍慢自大；晝夜三<lb
+ n="0706a13" ed="T"/>時燒香，稽首三尊，悔過十方，稟受經行，言數<lb
+ n="0706a14" ed="T"/>自勸；不得希望供養、貪利、財帛；不得嫉妬<lb
+ n="0706a15" ed="T"/>夫主，當自賤女人身，願為男子轉身受福，<lb
+ n="0706a16" ed="T"/>可得上天宮觀自然。是清信女人學道之法。<lb
+ n="0706a17" ed="T"/>若不孝順，憍慢姑嫜，嫉妬夫主，撾罵奴婢，<lb
+ n="0706a18" ed="T"/>造惡自是，怨恨、恚怒、毒意向人，行者如是，是<lb
+ n="0706a19" ed="T"/>為非法學女人弟子也！」<lb
+ n="0706a20" ed="T"/>佛告諸弟子：「清慎汝心，守護身口，恒以四等<lb
+ n="0706a21" ed="T"/>濟眾生已，道寶之慧恩施一切，如佛教誡，<lb
+ n="0706a22" ed="T"/>必得度世！」弟子諸來會者，聞佛說經，歡喜奉<lb
+ n="0706a23" ed="T"/>行，作禮而去。</ab></div><lb
+ n="0706a24" ed="T"/>
+<ab type="juan" subtype="close">佛說四輩經</ab>
+</body></text></TEI>

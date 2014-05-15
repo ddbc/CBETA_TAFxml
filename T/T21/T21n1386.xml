@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說妙色陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1386</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0905c14" ed="T"/><lb
+ n="0905c15" ed="T"/><lb
+ n="0905c16" ed="T"/><div type="jing" level="1"><lb
+ n="0905c17" ed="T"/>
+<ab type="juan" subtype="open">佛說妙色陀羅尼經</ab><lb
+ n="0905c18" ed="T"/><lb
+ n="0905c19" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0905c20" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0905c21" ed="T"/><ab type="prose">爾時佛告阿難言。有陀羅尼名曰妙色。乃是<lb
+ n="0905c22" ed="T"/>三世諸佛同共宣說能與眾生作大利益。若<lb
+ n="0905c23" ed="T"/>復有人聞是陀羅尼。生難遭想發勇猛心。讀<lb
+ n="0905c24" ed="T"/>誦受持供養恭敬。是人理世獲大福聚。晝夜<lb
+ n="0905c25" ed="T"/>安隱。又復有人以大悲心。於寂靜處持種種<lb
+ n="0905c26" ed="T"/>飲食而為出生。誦此陀羅尼七遍。加持已作<lb
+ n="0905c27" ed="T"/>如是言。我今出生祭於世間一切惡趣諸鬼。<lb
+ n="0905c28" ed="T"/>願食此生者速離惡趣。說是言時即三彈指。<lb
+ n="0905c29" ed="T"/>想彼諸鬼得此食者各各飽滿。變妙色身發<pb n="0906a" id="T21.1386.0906a" ed="T"/><lb
+ n="0906a01" ed="T"/>菩提心。乃至當來漸成佛果。即說陀羅尼曰。<lb
+ n="0906a02" ed="T"/></ab>
+<ab type="dharani">那謨婆誐嚩帝蘇嚕播野怛他<lb
+ n="0906a03" ed="T"/>誐多野阿囉曷帝三藐訖三沒<lb
+ n="0906a04" ed="T"/>馱野怛󰍕他唵蘇嚕蘇嚕鉢<lb
+ n="0906a05" ed="T"/>囉蘇嚕鉢囉蘇嚕三摩囉三摩<lb
+ n="0906a06" ed="T"/>囉婆囉婆囉三婆囉三婆囉薩哩嚩<lb
+ n="0906a07" ed="T"/>必隷多必舍左曩阿賀囕<lb
+ n="0906a08" ed="T"/>捺那彌娑嚩賀<lb
+ n="0906a09" ed="T"/></ab>
+<ab type="prose">爾時阿難聞佛說已。歡喜信受作禮而退。<lb
+ n="0906a10" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說妙色陀羅尼經</ab></div>
+</body></text></TEI>

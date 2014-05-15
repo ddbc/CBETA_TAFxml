@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說老女人經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0559</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0911c19" ed="T"/><lb
+ n="0911c20" ed="T"/><lb
+ n="0911c21" ed="T"/><lb
+ n="0911c22" ed="T"/>
+<ab type="juan" subtype="open">佛說老女人經</ab><lb
+ n="0911c23" ed="T"/><lb
+ n="0911c24" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
+ n="0911c25" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在墮舍羅，所止處名樂音。<lb
+ n="0911c26" ed="T"/>時有八百比丘、菩薩萬人俱。時有貧窮老女<lb
+ n="0911c27" ed="T"/>人來到佛所，以頭面著地，為佛作禮，白佛言：<lb
+ n="0911c28" ed="T"/>「願欲有所問。」佛言：「善哉！當問。」老女人言：<lb
+ n="0911c29" ed="T"/>「生從何所來，去至何所？老從何所來，去至何<pb n="0912a" ed="T" id="T14.0559.0912a"/><lb
+ n="0912a01" ed="T"/>所？病從何所來，去至何所？死從何所來，去至<lb
+ n="0912a02" ed="T"/>何所？色、痛痒、思想、生死、識從何所來，去至何<lb
+ n="0912a03" ed="T"/>所？眼、耳、鼻、口、身、心從何所來，去至何所？地、<lb
+ n="0912a04" ed="T"/>水、火、風、空從何所來，去至何所？」佛言：「善哉！<lb
+ n="0912a05" ed="T"/>問是大快。生無所從來，去亦無所至；老無所<lb
+ n="0912a06" ed="T"/>從來，去亦無所至；病無所從來，去亦無所至；<lb
+ n="0912a07" ed="T"/>死無所從來；去亦無所至；色、痛痒、思想、生死、<lb
+ n="0912a08" ed="T"/>識無所從來，去亦無所至；眼、耳、鼻、口、身、心<lb
+ n="0912a09" ed="T"/>無所從來，去亦無所至；地、水、火、風、空無所從<lb
+ n="0912a10" ed="T"/>來，去亦無所至。諸法皆如是。<lb
+ n="0912a11" ed="T"/>「譬如兩木相揩，火出還燒木；木盡火便滅。」佛<lb
+ n="0912a12" ed="T"/>問老女人：「是火從何所來，去至何所？」老女人<lb
+ n="0912a13" ed="T"/>言：「因緣合便得火，因緣離散火便滅。」佛言：<lb
+ n="0912a14" ed="T"/>「諸法亦如是，因緣合乃成，因緣離散即滅。<lb
+ n="0912a15" ed="T"/>法亦無所從來，去亦無所至。目見色即是意，<lb
+ n="0912a16" ed="T"/>意即是色。二者俱空，無所有成，滅亦如是。<lb
+ n="0912a17" ed="T"/>譬如鼓，不用一事成。有皮，有𣞙，有人持桴打<lb
+ n="0912a18" ed="T"/>鼓，鼓便有聲。是聲亦空，當來聲亦空，過去<lb
+ n="0912a19" ed="T"/>聲亦空。是聲亦不從皮，亦不從𣞙，亦不從<lb
+ n="0912a20" ed="T"/>桴、從人手出，合會諸物乃成鼓聲，聲從空盡<lb
+ n="0912a21" ed="T"/>空。萬物亦爾，本淨無所有因作法，法亦無<lb
+ n="0912a22" ed="T"/>所有。譬如雲起陰霧便雨，不從龍身出，亦<lb
+ n="0912a23" ed="T"/>不從龍心出，皆龍因緣所作乃致此雨。諸法<lb
+ n="0912a24" ed="T"/>亦無所從來，去亦無所至。譬如畫師先治壁<lb
+ n="0912a25" ed="T"/>板素，便和調諸彩，自在所作。是畫不從壁板<lb
+ n="0912a26" ed="T"/>素出，亦不從人手出。隨意所作，各各悉成。<lb
+ n="0912a27" ed="T"/>生死亦如是，各自隨所作行。譬禍生、泥犁、<lb
+ n="0912a28" ed="T"/>天上、人間亦爾。有餘是者不著，著便有。」老<lb
+ n="0912a29" ed="T"/>女人聞之，大歡喜言：「蒙佛恩，得法眼。雖身羸<pb n="0912b" ed="T" id="T14.0559.0912b"/><lb
+ n="0912b01" ed="T"/>老，今得開解。」阿難政衣服，長跪，白佛言：<lb
+ n="0912b02" ed="T"/>「是老女人何以智慧乃爾？聞佛言即開解。」佛<lb
+ n="0912b03" ed="T"/>告阿難：「是老女人者，是我前世發意學道時<lb
+ n="0912b04" ed="T"/>母也。」阿難問佛言：「是母何以貧窮困苦乃爾？」<lb
+ n="0912b05" ed="T"/>佛言：「往昔拘留秦佛時，我欲作沙門。是母慈<lb
+ n="0912b06" ed="T"/>愛，不肯聽我去。我憂愁，不食一日。因是故<lb
+ n="0912b07" ed="T"/>五百世來生世間輒貧窮。今壽盡當生阿彌<lb
+ n="0912b08" ed="T"/>陀佛國，供養諸佛。却後六十八億劫當作<lb
+ n="0912b09" ed="T"/>佛，號波犍，其國名化華。作佛時，人所有被服、<lb
+ n="0912b10" ed="T"/>飲食如忉利天上。其國中人民皆壽一劫。」<lb
+ n="0912b11" ed="T"/>佛說經已，老女人及阿難，諸菩薩、比丘僧，<lb
+ n="0912b12" ed="T"/>諸鬼神、龍、天、人、阿須倫，皆大歡喜，前為佛作<lb
+ n="0912b13" ed="T"/>禮而去。</ab></div><lb
+ n="0912b14" ed="T"/>
+<ab type="juan" subtype="close">佛說老女人經</ab>
+</body></text></TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說浴像功德經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T16</biblScope>
+                    <idno type="Taisho">T16n0697</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0798c02" ed="T"/><lb
+ n="0798c03" ed="T"/><lb
+ n="0798c04" ed="T"/><lb
+ n="0798c05" ed="T"/><lb
+ n="0798c06" ed="T"/>
+<ab type="juan" subtype="open">佛說浴像功德經</ab><lb
+ n="0798c07" ed="T"/><lb
+ n="0798c08" ed="T"/><byline>大唐天竺三藏寶思惟譯</byline><lb
+ n="0798c09" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，薄伽梵在王舍城鷲峯山中，<lb
+ n="0798c10" ed="T"/>與大苾芻眾及與無量諸大菩薩摩訶薩俱。<lb
+ n="0798c11" ed="T"/>爾時，會中有一菩薩，名清淨慧，作是思惟：「以<lb
+ n="0798c12" ed="T"/>何因緣諸佛如來得清淨身？」又復念言：「若佛<lb
+ n="0798c13" ed="T"/>在世親近供養，及滅度後供養舍利，此二種<lb
+ n="0798c14" ed="T"/>人所獲福德功德齊不？」作是念已，承佛威神<lb
+ n="0798c15" ed="T"/>從座而起，頂禮佛足，白言：「世尊！諸佛如來以<lb
+ n="0798c16" ed="T"/>何因緣得清淨身？若佛在世親近供養，及滅<lb
+ n="0798c17" ed="T"/>度後供養舍利，此二種人所獲福德其功等<lb
+ n="0798c18" ed="T"/>不？」爾時，世尊告清淨慧菩薩言：「善哉，善哉！汝<lb
+ n="0798c19" ed="T"/>今乃能為未來世諸眾生故，發如是問。汝當<lb
+ n="0798c20" ed="T"/>善聽，我今為汝分別解說。」爾時，清淨慧菩薩<lb
+ n="0798c21" ed="T"/>白佛言：「唯然。世尊！願樂欲聞。」佛告清淨慧<lb
+ n="0798c22" ed="T"/>菩薩言：「諸佛如來為求菩提，於往昔時所修<lb
+ n="0798c23" ed="T"/>三昧、戒定忍辱智慧、慈悲喜捨、解脫、解脫知<lb
+ n="0798c24" ed="T"/>見，力、無所畏、一切佛法、一切種智，悉皆清淨，<lb
+ n="0798c25" ed="T"/>是故如來得清淨身。又以華香幡蓋而以供<lb
+ n="0798c26" ed="T"/>養；復以香水浴如來身；復以寶蓋彌覆其上；<lb
+ n="0798c27" ed="T"/>以諸飲食鼓樂弦歌讚詠如來；以此功德迴<lb
+ n="0798c28" ed="T"/>向一切種智，所得功德無量無邊，乃至得成<lb
+ n="0798c29" ed="T"/>無上菩提。何以故？如來智慧無量無邊不可<pb n="0799a" ed="T" id="T16.0697.0799a"/><lb
+ n="0799a01" ed="T"/>思議，所有福德亦復如是！「清淨慧！我滅<lb
+ n="0799a02" ed="T"/>度後有二種舍利：一者、法身，二者、化身。若<lb
+ n="0799a03" ed="T"/>善男子，善女人等，供養舍利，造佛形像如大<lb
+ n="0799a04" ed="T"/>麥等，造塔如菴羅果，表剎如針、蓋如浮萍；<lb
+ n="0799a05" ed="T"/>持佛舍利，如芥子大安置其中，所得功德，如<lb
+ n="0799a06" ed="T"/>我在世等無差別。「如是之人得十五種功德：<lb
+ n="0799a07" ed="T"/>一者、得淨念心。二者、得順法心。三者、得慚<lb
+ n="0799a08" ed="T"/>愧心。四者、得見如來。五者、發淨信心。六者、<lb
+ n="0799a09" ed="T"/>能持正法。七者、如說修行。八者、得親近諸佛。<lb
+ n="0799a10" ed="T"/>九者、諸佛國土隨意受生。十者、若生人中生<lb
+ n="0799a11" ed="T"/>大姓家，其心柔軟人所敬重。十一者、纔生人<lb
+ n="0799a12" ed="T"/>中得念佛心。十二者、諸魔軍眾不能惱亂。十<lb
+ n="0799a13" ed="T"/>三者、於末法時能護正法。十四者、常得十方<lb
+ n="0799a14" ed="T"/>諸佛如來恒加覆護。十五者、速得成就五分<lb
+ n="0799a15" ed="T"/>法身。」爾時世尊而說頌曰：<lb
+ n="0799a16" ed="T"/></ab>
+<ab type="verse">
+「若以清淨心，　　於如來滅後，　　<lb
+ n="0799a17" ed="T"/>供養舍利者；　　或造於塔廟，　　<lb
+ n="0799a18" ed="T"/>及如來形像；　　於彼塔像前，　　<lb
+ n="0799a19" ed="T"/>掃塗漫陀羅，　　以種種花香，　　<lb
+ n="0799a20" ed="T"/>散布於其上，　　以諸妙香水，　　<lb
+ n="0799a21" ed="T"/>而浴於佛像，　　上妙諸飲食，　　<lb
+ n="0799a22" ed="T"/>淨持以供養，　　讚禮佛功德。　　<lb
+ n="0799a23" ed="T"/>無量難思議，　　智慧及神通，　　<lb
+ n="0799a24" ed="T"/>諸善巧方便，　　悉皆到彼岸。」　　
+</ab><lb
+ n="0799a25" ed="T"/><ab type="prose">爾時，清淨慧菩薩聞佛世尊說是頌已，而白<lb
+ n="0799a26" ed="T"/>佛言：「世尊！若佛在世及滅度後未來世中，<lb
+ n="0799a27" ed="T"/>諸眾生等，云何浴像？唯願如來為眾生故，<lb
+ n="0799a28" ed="T"/>開示演說。」佛言：「清淨慧！如佛在世，諸眾生<lb
+ n="0799a29" ed="T"/>等發起淨心，於佛滅後亦應如是，不作執空<pb n="0799b" ed="T" id="T16.0697.0799b"/><lb
+ n="0799b01" ed="T"/>有想，於諸善品心懷渴仰不生疲厭，何以故？<lb
+ n="0799b02" ed="T"/>為成就如來法報身故。我已曾為汝說四真<lb
+ n="0799b03" ed="T"/>諦法、十二因緣、六波羅蜜，我今為汝說浴像<lb
+ n="0799b04" ed="T"/>法，諸供養中最為殊勝。「善男子！若欲沐像，<lb
+ n="0799b05" ed="T"/>應以牛頭栴檀、紫檀、多摩羅香、甘松、芎藭、白<lb
+ n="0799b06" ed="T"/>檀、欝金、龍腦、沈香、麝香、丁香，以如是等種種<lb
+ n="0799b07" ed="T"/>妙香，隨所得者，以為湯水置淨器中，先作<lb
+ n="0799b08" ed="T"/>方壇敷妙床座，於上置佛；以諸香水次第浴<lb
+ n="0799b09" ed="T"/>之；用諸香水周遍訖已，復以淨水於上淋<lb
+ n="0799b10" ed="T"/>洗。其浴像者，各取少許洗像之水，置自頭上，<lb
+ n="0799b11" ed="T"/>燒種種香以為供養。「初於像上下水之時，應<lb
+ n="0799b12" ed="T"/>誦以偈：<lb
+ n="0799b13" ed="T"/></ab>
+<ab type="verse">
+「『我今灌沐諸如來，　　淨智功德莊嚴聚；　　<lb
+ n="0799b14" ed="T"/>五濁眾生令離垢，　　願證如來淨法身。』　　
+</ab><lb
+ n="0799b15" ed="T"/><ab type="prose">「燒香之時當誦斯偈：<lb
+ n="0799b16" ed="T"/></ab>
+<ab type="verse">
+「『戒定慧解知見香，　　遍十方剎常芬馥；　　<lb
+ n="0799b17" ed="T"/>願此香烟亦如是，　　迴作自他五種身。』」　　
+</ab><lb
+ n="0799b18" ed="T"/><ab type="prose">爾時世尊說是法已，眾中有無量菩薩摩訶<lb
+ n="0799b19" ed="T"/>薩獲得清淨無垢三昧，即從座而起；無量<lb
+ n="0799b20" ed="T"/>天人得不退轉無上菩提。爾時阿難白佛言：<lb
+ n="0799b21" ed="T"/>「世尊！當何名此經？我等云何奉持？」佛言：「此<lb
+ n="0799b22" ed="T"/>經名為『洗浴諸佛得身清淨』，應如是持。」說是<lb
+ n="0799b23" ed="T"/>經已，一切眾會皆大歡喜，信受奉行。</ab></div><lb
+ n="0799b24" ed="T"/>
+<ab type="juan" subtype="close">佛說浴像功德經</ab>
+</body></text></TEI>

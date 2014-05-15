@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說龍施女經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0557</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0909c" ed="T" id="T14.0557.0909c"/><lb
+ n="0909c01" ed="T"/><lb
+ n="0909c02" ed="T"/><lb
+ n="0909c03" ed="T"/>
+<ab type="juan" subtype="open">佛說龍施女經</ab><lb
+ n="0909c04" ed="T"/><lb
+ n="0909c05" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
+ n="0909c06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊於維耶離奈氏樹園，與大<lb
+ n="0909c07" ed="T"/>比丘眾千二百五十人俱，及五百眾菩薩。佛<lb
+ n="0909c08" ed="T"/>以晨旦，著衣，持鉢，入城分衛，眾會皆從；諸天<lb
+ n="0909c09" ed="T"/>龍神香、華、伎樂倍於常時。佛到長者須福門<lb
+ n="0909c10" ed="T"/>外。須福有女，名曰龍施，厥年十四。時在浴室<lb
+ n="0909c11" ed="T"/>澡浴，塗香，著好衣。為佛眉間毫相之光，照七<lb
+ n="0909c12" ed="T"/>重樓上，東向見佛在門外住，容貌端正如星<lb
+ n="0909c13" ed="T"/>中有月，奇相眾好，金色從容，諸根寂定。女大<lb
+ n="0909c14" ed="T"/>歡喜，則自念言：「今得見佛及眾弟子，當以發<lb
+ n="0909c15" ed="T"/>意作菩薩行。願令我得道如佛！」魔見女發大<lb
+ n="0909c16" ed="T"/>意，心為不樂，念言：「是女今興大福及欲求佛，<lb
+ n="0909c17" ed="T"/>必過我界，多度人民。今我當往壞其道意。」魔<lb
+ n="0909c18" ed="T"/>便下，化作女父形象、被服，謂龍施言：「今所<lb
+ n="0909c19" ed="T"/>念者大重。佛道難得，億百千劫勤勞不懈然<lb
+ n="0909c20" ed="T"/>後乃成。今世幸有佛，不如求羅漢。既要易<lb
+ n="0909c21" ed="T"/>得，且俱度世泥洹無異。何為貪佛，久負勤苦？<lb
+ n="0909c22" ed="T"/>汝是我女，故語汝耳。」龍施對曰：「不如父言。<lb
+ n="0909c23" ed="T"/>羅漢與佛雖俱度世，功德不同。佛智大度，如<lb
+ n="0909c24" ed="T"/>十方空，度人無極。羅漢智少，若一時耳。何有<lb
+ n="0909c25" ed="T"/>高才樂於少者？」魔復言：「未曾聞女人得作轉<lb
+ n="0909c26" ed="T"/>輪聖王，況乃欲得作佛！佛道長久，不如求羅<lb
+ n="0909c27" ed="T"/>漢早取泥洹。」龍施報言：「我亦聞女人不得作<lb
+ n="0909c28" ed="T"/>轉輪聖王，不得作帝釋，不得作梵王，不得作<lb
+ n="0909c29" ed="T"/>佛。我當精進，轉此女身竟，受作男子身。蓋<pb n="0910a" ed="T" id="T14.0557.0910a"/><lb
+ n="0910a01" ed="T"/>聞天下尊行菩薩道億劫不懈者，後皆得作<lb
+ n="0910a02" ed="T"/>佛。」魔見女意不轉，益用愁毒，更作急教言：<lb
+ n="0910a03" ed="T"/>「作菩薩行者，當不貪於世間，不惜於壽命。<lb
+ n="0910a04" ed="T"/>今汝精進，能從樓上自投於地者，後可得佛。」<lb
+ n="0910a05" ed="T"/>龍施念言：「今我見佛乃自愛欲菩薩道。父有<lb
+ n="0910a06" ed="T"/>教，以精進棄身可得佛道。我何惜此危脆之<lb
+ n="0910a07" ed="T"/>命？」女即於欄邊叉手向佛言：「我今自歸天中<lb
+ n="0910a08" ed="T"/>之天，以一切慜念，知我所求。請棄軀命，不<lb
+ n="0910a09" ed="T"/>捨菩薩。」以身施佛願而散華以，便縱身自投<lb
+ n="0910a10" ed="T"/>樓下。於空中未及至地，女身則化成男子。<lb
+ n="0910a11" ed="T"/>時佛乃笑，五色光從口出，照一佛剎，還從頂<lb
+ n="0910a12" ed="T"/>入。賢者阿難前跪問言：「佛不妄笑。願聞其<lb
+ n="0910a13" ed="T"/>意！」佛言：「阿難！汝見此女自投空中，化成男<lb
+ n="0910a14" ed="T"/>子不？」對曰：「見。」佛言：「此女乃前世時以事萬<lb
+ n="0910a15" ed="T"/>佛，後當供養恒沙如來，却至七億六千萬劫<lb
+ n="0910a16" ed="T"/>當得作佛，號名龍盛，其壽一劫。般泥洹後，經<lb
+ n="0910a17" ed="T"/>道興盛半劫乃滅。時佛說法，當度九十七億<lb
+ n="0910a18" ed="T"/>萬人，令得菩薩及羅漢道。是時人民飲食，<lb
+ n="0910a19" ed="T"/>當如第二忉利天上。」於是龍施身住佛前，報<lb
+ n="0910a20" ed="T"/>父母言：「願放捨我，得作沙門！」父母即聽。諸家<lb
+ n="0910a21" ed="T"/>親屬合五百人，及八百天神，見女人龍施化<lb
+ n="0910a22" ed="T"/>成男子，皆發無上正真道意。魔王見眾人求<lb
+ n="0910a23" ed="T"/>佛，更多憂愁不樂，慚愧而歸。佛說是時，莫不<lb
+ n="0910a24" ed="T"/>歡喜。</ab></div><lb
+ n="0910a25" ed="T"/>
+<ab type="juan" subtype="close">佛說龍施女經</ab>
+</body></text></TEI>

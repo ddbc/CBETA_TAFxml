@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說壞相金剛陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1417</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0932a13" ed="T"/><lb
+ n="0932a14" ed="T"/><lb
+ n="0932a15" ed="T"/><div type="jing" level="1"><lb
+ n="0932a16" ed="T"/>
+<ab type="juan" subtype="open">佛說壞相金剛陀羅尼經</ab><lb
+ n="0932a17" ed="T"/><lb
+ n="0932a18" ed="T"/><byline>光祿大夫大司徒三藏法師<lb
+ n="0932a19" ed="T"/>沙囉巴奉　詔譯</byline><lb
+ n="0932a20" ed="T"/><ab type="prose">如是我聞。一時婆伽梵在金剛場。爾時如來<lb
+ n="0932a21" ed="T"/>神力如持。金剛手身成金剛已。即日入金剛<lb
+ n="0932a22" ed="T"/>三摩地。是時金剛手。承佛神力及一切如來<lb
+ n="0932a23" ed="T"/>諸菩薩等加持力故。金剛忿怒說此最妙金<lb
+ n="0932a24" ed="T"/>剛心陀羅尼。無斷無壞諦實堅固。無有能礙<lb
+ n="0932a25" ed="T"/>亦無怯退。一切眾生皆令怕怖。能與眾生摧<lb
+ n="0932a26" ed="T"/>伏煩惱。斷諸明呪鎮諸明呪。及摧諸行能破<lb
+ n="0932a27" ed="T"/>他行。摧折諸魔解諸魔執。句攝一切諸部多<lb
+ n="0932a28" ed="T"/>眾。復令一切諸修明呪。未成就者令得成就。<lb
+ n="0932a29" ed="T"/>既成就者不令唐捐。所有希願皆使如意。亦<pb n="0932b" id="T21.1417.0932b" ed="T"/><lb
+ n="0932b01" ed="T"/>能祐護一切眾生息災增益。復能禁止迷悶<lb
+ n="0932b02" ed="T"/>諸惡有情。皆是陀羅尼神呪之力。金剛手承<lb
+ n="0932b03" ed="T"/>佛神力即說呪曰。</ab>
+<ab type="dharani">那謨　囉拏吒夜耶那<lb
+ n="0932b04" ed="T"/>謨贊吒嚩日囉拔拏曳摩訶夜伽悉拏<lb
+ n="0932b05" ed="T"/>拔怛曳怛姪他　唵怛囉吒怛囉吒覩<lb
+ n="0932b06" ed="T"/>邏吒耶覩邏吒耶室菩吒　室菩吒<lb
+ n="0932b07" ed="T"/>　室婆吒耶　室婆吒耶孤哩拏孤哩拏孤<lb
+ n="0932b08" ed="T"/>哩拏拔耶　孤哩拏拔耶　薩哩嚩薩埵尼　跋多跋多　三跋多耶<lb
+ n="0932b10" ed="T"/>　三跋哆耶　鉢囉麻　鉢囉麻<lb
+ n="0932b11" ed="T"/>　三鉢囉麻耶　三鉢囉麻耶　薩哩嚩<lb
+ n="0932b12" ed="T"/>菩怛尼孤吒孤吒三孤吒耶　三孤吒<lb
+ n="0932b13" ed="T"/>耶　薩哩嚩設咄嚕喃　葛吒葛吒<lb
+ n="0932b14" ed="T"/>　三葛吒耶三葛吒耶　薩哩嚩<lb
+ n="0932b15" ed="T"/>　毘怛耶嚩日囉嚩日囉室菩<lb
+ n="0932b16" ed="T"/>吒嚩日囉嚩日囉葛吒嚩日囉嚩<lb
+ n="0932b17" ed="T"/>日囉麻吒嚩日囉嚩日囉麻他嚩<lb
+ n="0932b18" ed="T"/>日囉嚩日囉阿吒訶薩尼辣嚩日囉蘇嚩日囉曳莎嚩訶醯菩魯尼魯菩魯<lb
+ n="0932b20" ed="T"/>吉哩拏孤嚕弭哩粗嚕孤嚕孤嚕　嚩日<lb
+ n="0932b21" ed="T"/>囉毘匝耶莎嚩訶　吉哩吉辣耶莎嚩<lb
+ n="0932b22" ed="T"/>訶葛吒葛吒麻吒麻吒囉吒囉吒摩吒拏鉢囉<lb
+ n="0932b23" ed="T"/>摩吒拏曳莎嚩訶拶囉尼拶囉訶囉訶<lb
+ n="0932b24" ed="T"/>囉薩囉薩囉麻囉耶嚩日囉毘怛囉拏<lb
+ n="0932b25" ed="T"/>曳莎嚩訶　親多親多頻多頻多<lb
+ n="0932b26" ed="T"/>麻訶吉哩吉辣耶　莎嚩訶　班多<lb
+ n="0932b27" ed="T"/>班多戈邏多戈邏多吉哩吉辣<lb
+ n="0932b28" ed="T"/>耶莎嚩訶　粗嚕粗嚕　贊吒吉哩吉辣耶<lb
+ n="0932b29" ed="T"/>　莎嚩訶　怛囉薩耶　怛囉薩耶　嚩<pb n="0932c" id="T21.1417.0932c" ed="T"/><lb
+ n="0932c01" ed="T"/>日囉吉哩吉辣耶　莎嚩訶訶囉訶囉<lb
+ n="0932c02" ed="T"/>嚩日囉多囉耶　莎嚩訶鉢囉<lb
+ n="0932c03" ed="T"/>訶囉　鉢囉訶囉嚩日囉鉢囉班<lb
+ n="0932c04" ed="T"/>匝拏曳　莎嚩訶麻帝室提囉嚩日囉<lb
+ n="0932c05" ed="T"/>蘇帝室提囉嚩日囉鉢囉帝室<lb
+ n="0932c06" ed="T"/>提囉嚩日囉麻訶嚩日囉阿鉢<lb
+ n="0932c07" ed="T"/>囉帝　訶怛嚩日囉阿摩葛嚩日<lb
+ n="0932c08" ed="T"/>囉伊醯　嚩日囉室葛浪嚩日囉<lb
+ n="0932c09" ed="T"/>耶　莎嚩訶　多囉多囉　帝哩帝哩<lb
+ n="0932c10" ed="T"/>　覩魯覩魯　薩哩嚩嚩日囉孤闌阿<lb
+ n="0932c11" ed="T"/>嚩哩怛耶莎嚩訶阿母崗麻囉耶發<lb
+ n="0932c12" ed="T"/>吒那麻三滿多　囉日囉喃　薩哩嚩<lb
+ n="0932c13" ed="T"/>嚩辣阿嚩哩怛耶　麻訶嚩日囉麻阿嚩烈　葛怛閉　怛怛烈　阿拶烈<lb
+ n="0932c15" ed="T"/>　曼吒辣麻曳　阿帝嚩日囉　麻訶嚩<lb
+ n="0932c16" ed="T"/>烈　毘葛囉拏阿積帝　佐辣佐辣帝帝<lb
+ n="0932c17" ed="T"/>哩帝帝哩定葛烈　多訶多<lb
+ n="0932c18" ed="T"/>訶　底拶拔帝　帝哩帝哩班多班多<lb
+ n="0932c19" ed="T"/>麻訶嚩烈　嚩日囉昂葛佐辣耶　莎<lb
+ n="0932c20" ed="T"/>嚩訶　那謨囉拏吒夜耶　那謨贊吒嚩日囉<lb
+ n="0932c21" ed="T"/>　拔拏曳麻訶夜伽悉拏拔怛曳怛姪他唵<lb
+ n="0932c22" ed="T"/>訶囉訶囉嚩日囉麻他麻他嚩日囉覩<lb
+ n="0932c23" ed="T"/>拏覩拏嚩日囉多訶多訶嚩日囉<lb
+ n="0932c24" ed="T"/>拔拶拔拶　嚩日囉多囉多囉嚩日囉<lb
+ n="0932c25" ed="T"/>多囉耶多囉耶嚩日囉多<lb
+ n="0932c26" ed="T"/>嚕拏多嚕拏嚩日囉親多親多嚩日囉頻多頻多嚩日囉吽<lb
+ n="0932c28" ed="T"/>發吒那謨贊吒　嚩日囉孤嚕陀<lb
+ n="0932c29" ed="T"/>耶　呼嚕呼嚕帝瑟陀帝瑟陀　班陀<pb n="0933a" id="T21.1417.0933a" ed="T"/><lb
+ n="0933a01" ed="T"/>　班陀訶拏訶拏　阿彌哩帝<lb
+ n="0933a02" ed="T"/>吽發吒<lb
+ n="0933a03" ed="T"/></ab>
+<ab type="verse">
+罪業咸清淨　　盡除一切苦　　<lb
+ n="0933a04" ed="T"/>諸經之根本　　莊嚴妙德相　　<lb
+ n="0933a05" ed="T"/>有情諸損根　　命盡及夭橫　　<lb
+ n="0933a06" ed="T"/>值遇不豐饒　　并諸天棄背　　<lb
+ n="0933a07" ed="T"/>親友返憎害　　觸惱婆羅門　　<lb
+ n="0933a08" ed="T"/>撓害不和睦　　財乏并擾惱　　<lb
+ n="0933a09" ed="T"/>憂慼苦逼迫　　逢難貧困苦　　<lb
+ n="0933a10" ed="T"/>惡星曜呪詛　　被諸魔侵害　　<lb
+ n="0933a11" ed="T"/>由姙懷憂慼　　夢見不吉祥　　<lb
+ n="0933a12" ed="T"/>沐浴皆清淨　　應聽最勝經　　<lb
+ n="0933a13" ed="T"/>若有淨善心　　著諸淨潔衣　　<lb
+ n="0933a14" ed="T"/>依佛甚深行　　受持此經者　　<lb
+ n="0933a15" ed="T"/>由是威神力　　是彼諸有情　　<lb
+ n="0933a16" ed="T"/>所有病苦等　　悉令盡消滅　　<lb
+ n="0933a17" ed="T"/>福壽皆增益　　遠離諸罪垢　　<lb
+ n="0933a18" ed="T"/>珠芥香蔓草　　無瑕寶栴檀　　<lb
+ n="0933a19" ed="T"/>玉金剛杵花　　閻淨水金瓶　　<lb
+ n="0933a20" ed="T"/>或以銀為瓶　　繫淨綵盈滿　　<lb
+ n="0933a21" ed="T"/>數念二十一　　或滿百八遍　　<lb
+ n="0933a22" ed="T"/>壞相金剛呪　　國王常沐浴　　
+</ab><lb
+ n="0933a23" ed="T"/>
+<ab type="juan" subtype="close">佛說壞相金剛陀羅尼經</ab></div>
+</body></text></TEI>

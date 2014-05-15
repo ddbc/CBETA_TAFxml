@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說梵摩難國王經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0521</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0794a16" ed="T"/><lb
+ n="0794a17" ed="T"/><lb
+ n="0794a18" ed="T"/><lb
+ n="0794a19" ed="T"/>
+<ab type="juan" subtype="open">佛說梵摩難國王經</ab><lb
+ n="0794a20" ed="T"/><lb
+ n="0794a21" ed="T"/><byline>失譯人名今附西晉錄</byline><lb
+ n="0794a22" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，與<lb
+ n="0794a23" ed="T"/>千二百五十比丘俱。時有國王號名梵摩難，<lb
+ n="0794a24" ed="T"/>常供養佛及眾僧。每得齋日，王輒宿勅群臣<lb
+ n="0794a25" ed="T"/>嚴駕，王便導從數千人到佛所，五體投地，<lb
+ n="0794a26" ed="T"/>稽首佛足。佛每為諸天人民說經法，王輒歡<lb
+ n="0794a27" ed="T"/>喜恭敬聽經，王宮內亦奉事三尊，清淨齋戒。<lb
+ n="0794a28" ed="T"/>王有太子，名均鄰儒，至心精進覺世非常，無<lb
+ n="0794a29" ed="T"/>生不死者，不貪時榮，白王言：「佛世難值，經<pb n="0794b" ed="T" id="T14.0521.0794b"/><lb
+ n="0794b01" ed="T"/>法難聞，我今乞欲隨佛作沙門。」王即聽之。均<lb
+ n="0794b02" ed="T"/>鄰儒便辭王到佛所，乞為比丘。佛便以手<lb
+ n="0794b03" ed="T"/>摩其頭，髮墮袈裟自然著身。均鄰儒奉持<lb
+ n="0794b04" ed="T"/>重戒，精進勤修，晝夜不倦，三月日便得羅<lb
+ n="0794b05" ed="T"/>漢道。王時不知其已得道，見其勤苦，飯食麁<lb
+ n="0794b06" ed="T"/>蔬。每往供養，異於眾僧，其心不同，輒謂之<lb
+ n="0794b07" ed="T"/>言：「我國中珍琦七寶，飯食甘餚無所不有，汝<lb
+ n="0794b08" ed="T"/>何故，正當樂為沙門乎？」佛知王用恩愛故，佛<lb
+ n="0794b09" ed="T"/>便語均鄰儒：「起現威神。」均鄰儒即承佛教，<lb
+ n="0794b10" ed="T"/>頭面著地，為佛作禮，輕舉上住空中，飛行<lb
+ n="0794b11" ed="T"/>變化，分身散體，出入無間畢已，頭面著佛<lb
+ n="0794b12" ed="T"/>足。王見其道德乃爾，便悲喜交集，五體投<lb
+ n="0794b13" ed="T"/>地，為均鄰儒作禮。佛時令均鄰儒為王說苦<lb
+ n="0794b14" ed="T"/>空非常四諦之要，王於是意解，即得須陀洹<lb
+ n="0794b15" ed="T"/>道。佛語阿難：「比丘有四事，受人施飲食美<lb
+ n="0794b16" ed="T"/>味衣服善惡，不得有逆：一者、欲福布施家；二<lb
+ n="0794b17" ed="T"/>者、不欲逆施者意；三者、或年老或身體有病；<lb
+ n="0794b18" ed="T"/>四者、恐人行道勤苦。夫欲食美，當存念重戒，<lb
+ n="0794b19" ed="T"/>一切眾生皆我親屬，但展轉久遠，各更生死，<lb
+ n="0794b20" ed="T"/>不識其本耳，譬如人身體，有瘡及病者，服<lb
+ n="0794b21" ed="T"/>藥趣令其愈，不得貪著。夫欲施者，皆當平<lb
+ n="0794b22" ed="T"/>心不問大小。」佛於是令阿難臨飯說僧跋，僧<lb
+ n="0794b23" ed="T"/>跋者眾僧飯皆悉平等。</ab></div><lb
+ n="0794b24" ed="T"/>
+<ab type="juan" subtype="close">佛說梵摩難國王經</ab>
+</body></text></TEI>

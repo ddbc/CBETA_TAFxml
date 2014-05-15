@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">氷揭羅天童子經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1263</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0291c05" ed="T"/><lb
+ n="0291c06" ed="T"/><div type="jing" level="2"><lb
+ n="0291c07" ed="T"/>
+<ab type="juan" subtype="open">氷揭羅天童子經</ab><lb
+ n="0291c08" ed="T"/><lb
+ n="0291c09" ed="T"/><byline>特進試鴻臚卿大興善寺三藏<lb
+ n="0291c10" ed="T"/>沙門大廣智不空奉　詔譯</byline><lb
+ n="0291c11" ed="T"/><ab type="prose">若有行者持此明者。或能乞食或專喫乳粥<lb
+ n="0291c12" ed="T"/>或能自食。當於像前持誦滿三十萬遍。然後<lb
+ n="0291c13" ed="T"/>作火法。取玉柔作一千八片。一誦一擲火<lb
+ n="0291c14" ed="T"/>中燒。每日三時滿四十日。證云云所求<lb
+ n="0291c15" ed="T"/>皆遂。<lb
+ n="0291c16" ed="T"/>又取玉柔和安悉香作丸。從黑月八日起首<lb
+ n="0291c17" ed="T"/>終十四日。日別三時時別誦一千八遍。以前<lb
+ n="0291c18" ed="T"/>丸擲火中。其童子或晝或夜。必來現身而為<lb
+ n="0291c19" ed="T"/>伴侶滿一切願。任意使令無不諧剋。<lb
+ n="0291c20" ed="T"/>又法取安悉香作丸。於七日中每日三時。時<lb
+ n="0291c21" ed="T"/>別一千八遍。一誦一擲一丸火中。必獲邑主<lb
+ n="0291c22" ed="T"/>無事不果。<lb
+ n="0291c23" ed="T"/>其行者欲行此法時。先應誦七十萬遍。<lb
+ n="0291c24" ed="T"/>造像法。其像用白檀香木。長六指作童子形<lb
+ n="0291c25" ed="T"/>狀。左手把菓右手垂作滿願掌向外。置道場<lb
+ n="0291c26" ed="T"/>中。作種種飲食乳粥香花供養。取赤色花。每<lb
+ n="0291c27" ed="T"/>花一誦一擲童子身上。滿十萬遍其童子必<lb
+ n="0291c28" ed="T"/>來現身。即得滿一切願。日施千人上妙衣食<lb
+ n="0291c29" ed="T"/>無所闕乏。<pb n="0292a" id="T21.1263.0292a" ed="T"/><lb
+ n="0292a01" ed="T"/>又法每日三時。時別取蘇合香作一千八丸。<lb
+ n="0292a02" ed="T"/>於火中滿七日已。其童子現身指授伏藏。若<lb
+ n="0292a03" ed="T"/>能日日受持獲大利益示其寶藏。及修羅窟<lb
+ n="0292a04" ed="T"/>穴亦然。指授必滿其願得大財寶。<lb
+ n="0292a05" ed="T"/>若人被拘縶時。當誦此明即得解脫。<lb
+ n="0292a06" ed="T"/>又法欲令一切人見即歡喜。稱彼人名誦滿<lb
+ n="0292a07" ed="T"/>十萬遍即皆歡喜。<lb
+ n="0292a08" ed="T"/>又法取無憂木。於高山頂上燒之。和安悉香<lb
+ n="0292a09" ed="T"/>作一千八丸擲火中。即得安穩成就欲令見<lb
+ n="0292a10" ed="T"/>即見壽命千歲。<lb
+ n="0292a11" ed="T"/>陀羅尼真言曰。<lb
+ n="0292a12" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄓜㨖􄙘苾部必反􄓜㨖􄖫儞􅁥娑嚩􄚩訶<lb
+ n="0292a13" ed="T"/><lb
+ n="0292a14" ed="T"/></ab>
+<ab type="prose">又一本云。<lb
+ n="0292a15" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄓜㨖􄒶惹􄓜㨖􄖫儞􅁥娑嚩􄚩訶<lb
+ n="0292a16" ed="T"/><lb
+ n="0292a17" ed="T"/></ab>
+<ab type="prose">其根本契者。二手虛心合掌。若召請時以禪<lb
+ n="0292a18" ed="T"/>智三度來去。若發遣時外撥三度。<lb
+ n="0292a19" ed="T"/>請火天明契　真言曰。<lb
+ n="0292a20" ed="T"/></ab>
+<ab type="dharani">􇩂唵􆿅阿􅍉祁那􄗷曳􆿅阿􄑘蘖􆿅􄑘阿蘖􅁥莎􄚩訶<lb
+ n="0292a21" ed="T"/><lb
+ n="0292a22" ed="T"/></ab>
+<ab type="prose">發遣明曰。<lb
+ n="0292a23" ed="T"/></ab>
+<ab type="dharani">􆿅阿􅍉祁那􄗷曳􄑘蘖􇩹車􄑘􇩹蘖車􅁥莎􄚩訶<lb
+ n="0292a24" ed="T"/><lb
+ n="0292a25" ed="T"/></ab>
+<ab type="prose">其契相者。右手屈大指於掌中。頭指屈如鉤。<lb
+ n="0292a26" ed="T"/>以柱大指背當下節。餘並舒之。召請時但以<lb
+ n="0292a27" ed="T"/>頭指三招。若發遣時外撥三度即是。<lb
+ n="0292a28" ed="T"/>護身契明曰。<pb n="0292b" id="T21.1263.0292b" ed="T"/><lb
+ n="0292b01" ed="T"/></ab>
+<ab type="dharani">􇩂唵􄥏俱嚕􄕻馱􄖩曩􆿁𤙖􄓁惹<lb
+ n="0292b02" ed="T"/><lb
+ n="0292b03" ed="T"/></ab>
+<ab type="prose">其契者以右手作拳。竪大指觸身五處即未<lb
+ n="0292b04" ed="T"/>然護。<lb
+ n="0292b05" ed="T"/>
+</ab><ab type="juan" subtype="close">氷揭羅天童子經</ab></div><lb
+ n="0292b06" ed="T"/><div type="w" level="2"><ab type="prose">保延三年七月二十三日於仲川之寫了一<lb
+ n="0292b07" ed="T"/>校了<lb
+ n="0292b08" ed="T"/>承安四年十二月二十日以三本交合<lb
+ n="0292b09" ed="T"/>傳受玄證本也</ab></div></div>
+</body></text></TEI>

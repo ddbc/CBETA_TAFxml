@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">千臂軍荼利梵字真言</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1213</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0072b02" ed="T"/><lb
+ n="0072b03" ed="T"/><lb
+ n="0072b04" ed="T"/><lb
+ n="0072b05" ed="T"/>
+<ab type="juan" subtype="open">千臂軍荼利梵字真言</ab><lb
+ n="0072b06" ed="T"/><lb
+ n="0072b07" ed="T"/><div type="jing" level="2"><ab type="prose">千臂軍荼利真言曰。<lb
+ n="0072b08" ed="T"/></ab>
+<ab type="dharani">􇖵􄖩􄗭􄗽􅑈􄩞􄗲􄗱􇟄􄖩􄗰􈂽􆧽􄙖<lb
+ n="0072b09" ed="T"/>􄦽􄖶􄕋􄗷􇟄􄗥􄚩􄗱􄚴􄚢􄖪􄖵􄕗􄗷<lb
+ n="0072b10" ed="T"/>􇟄􄖩􄗭􄙖􄦽􄥏􄕻􄗱􇟄􄖫􄟗􄪼􄪼􈁊<lb
+ n="0072b11" ed="T"/>􄙌􄕗􄕲􆽕􇟄􄙖􄦽􄑀􄗾􄗱􇟄􆿉􄑀􄗽<lb
+ n="0072b12" ed="T"/>􄕹􈇸􈆣􄓚􄗙􄗱􇟄􄗠􄗽􄙗􄗱􇟄􆿅􄙼<lb
+ n="0072b13" ed="T"/>􈁃􄙺􄙊􇟄􈎭􇧹􄥟􄙢􈁍􇟄􄙪􄙊􄖵􄗽<lb
+ n="0072b14" ed="T"/>􄙪􄖶􄙢􄚨􆶪􄗱􇟄􄙖􄦽􄑀􄖩􄑁􇟄􄙖<lb
+ n="0072b15" ed="T"/>􄦽􄙝􄕜􅝩􇟄􄙌􆮧􆽖􄙢􄙀􄙋􄗱􇟄􄙺<lb
+ n="0072b16" ed="T"/>􅞣􄖪􄑘􄗱􄚴􄗽􄚴􄙻􇟄􆿅􈂼􄗽􄫂􄕗<lb
+ n="0072b17" ed="T"/>􇟄􄖷􄙣􄑼􄙘􅍕􇟄􄙘􄖩􄗱􄑀􄒸􄙘􈁀<lb
+ n="0072b18" ed="T"/>􄕗􄑀􄗾􄗱􇟄􄕗􇩊􄕤􈁴􆿅􇩸􄕗􄑄􆧽<lb
+ n="0072b19" ed="T"/>􄙌􇟄􈂪􄙌􇥗􇟄􈇓􄙎􇥗􈁃􄙎􇥗􇟄􄚨<lb
+ n="0072b20" ed="T"/>􄖩􇥗􄕯􄚨􇥗􇟄􄖵􄑼􇥗􇟄􄗥􄕣􄑄􆧽<lb
+ n="0072b21" ed="T"/>􄙌􇟄􈇰􆂦􄖳􄕗􄕌􄗱􇟄􄙖􄧅􄕋􇟄􇩴<lb
+ n="0072b22" ed="T"/>􆿁􆿁􆿁􆿁􆿁􇟄􄗁􈁆􇥗􄗁􈁆􇥗􄗁􈁆<lb
+ n="0072b23" ed="T"/>􄗁􈁆􇥗􇟄􄥏􄕻􅍉􄗱􄑄􄙂􇥗􇟄􈂼􄙂<lb
+ n="0072b24" ed="T"/>􇥗􄕛􄙂􇥗􇟄􄚨􄚨􄚨􇟄􄚪􄚪􄚪􇟄􈂪<lb
+ n="0072b25" ed="T"/>􈂪􈂪􄙼􈇣􄕛􇟄􄗥􈁋􄖵􄕯􅁥􄚩􇖴</ab></div><lb
+ n="0072b26" ed="T"/><div type="w" level="2"><ab type="prose">梵書千臂軍荼利陀羅尼<lb
+ n="0072b27" ed="T"/>　大唐青龍寺東塔院內供奉傳法灌頂故<lb
+ n="0072b28" ed="T"/>大阿闍梨義操梵書記</ab></div></div>
+</body></text></TEI>

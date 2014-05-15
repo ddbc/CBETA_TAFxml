@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">犍陀國王經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0506</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0774a04" ed="T"/><lb
+ n="0774a05" ed="T"/><lb
+ n="0774a06" ed="T"/><lb
+ n="0774a07" ed="T"/>
+<ab type="juan" subtype="open">犍陀國王經</ab><lb
+ n="0774a08" ed="T"/><lb
+ n="0774a09" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
+ n="0774a10" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，與<lb
+ n="0774a11" ed="T"/>千二百五十比丘俱。時有國王，號名犍陀，<lb
+ n="0774a12" ed="T"/>奉事婆羅門，婆羅門居在山中，多種果樹。時<lb
+ n="0774a13" ed="T"/>有採樵人，毀敗其果樹，婆羅門時見之，便<lb
+ n="0774a14" ed="T"/>將詣王所，言：「是人無狀，殘敗我果樹，王當<lb
+ n="0774a15" ed="T"/>治殺之。」王敬事婆羅門，不敢違之，即為殺<lb
+ n="0774a16" ed="T"/>敗樹者。自後未久，有牛食人稻，其主逐捶<lb
+ n="0774a17" ed="T"/>牛，折其一角，血流被面，痛不可忍。牛徑到<lb
+ n="0774a18" ed="T"/>王所白言：「我實無狀，食此人少稻，今為其<lb
+ n="0774a19" ed="T"/>見捶折我角。」稻主亦追到王所，王曉鳥獸語，<lb
+ n="0774a20" ed="T"/>告牛言：「我當為汝治殺之。」牛即報言：「今雖<lb
+ n="0774a21" ed="T"/>殺此人，亦不能令我不痛，但當約勅，後莫<lb
+ n="0774a22" ed="T"/>取人如我耳。」王便感念言：「我事婆羅門，但<lb
+ n="0774a23" ed="T"/>坐果樹，令我殺人；不如此牛也。」便呼婆羅<lb
+ n="0774a24" ed="T"/>門問言：「今事此道，有何福乎？」婆羅門報言：<lb
+ n="0774a25" ed="T"/>「可得攘災致福富貴長壽。」王復問言：「可得<lb
+ n="0774a26" ed="T"/>免於生死不？」報言：「不得免於生死也。」王獨念<lb
+ n="0774a27" ed="T"/>言：「當用此道為事。」便勅群臣嚴駕，往到佛<lb
+ n="0774a28" ed="T"/>所，五體投地，為佛作禮，白言：「我聞佛道至<lb
+ n="0774a29" ed="T"/>尊，巍巍教化，天下所度無數，願受法言，以<pb n="0774b" ed="T" id="T14.0506.0774b"/><lb
+ n="0774b01" ed="T"/>自改操。」佛即授王五戒十善，為說一切天地<lb
+ n="0774b02" ed="T"/>人物無生不死者。王以頭面著地為禮，白佛<lb
+ n="0774b03" ed="T"/>言：「今奉尊法戒，當得何福？」佛言：「布施持戒，<lb
+ n="0774b04" ed="T"/>現世得福；忍辱、精進、一心、智慧者，其德無<lb
+ n="0774b05" ed="T"/>量，後上天上，亦可得作遮迦越王，亦可得<lb
+ n="0774b06" ed="T"/>無為度世之道。」佛即為王現相好威神光耀，<lb
+ n="0774b07" ed="T"/>王即歡喜意解，便得須陀洹道。阿難正衣<lb
+ n="0774b08" ed="T"/>服，頭面著地，為佛作禮，白佛言：「此王與牛，<lb
+ n="0774b09" ed="T"/>本何因緣？牛語意便解，捨婆羅門，而事佛<lb
+ n="0774b10" ed="T"/>道，見佛聞法，即得道迹。」佛言：「乃昔拘那含<lb
+ n="0774b11" ed="T"/>牟尼佛時，王與牛為兄弟，作優婆塞，俱持<lb
+ n="0774b12" ed="T"/>齋一日一夜。王守法精進不懈怠，壽終昇<lb
+ n="0774b13" ed="T"/>天上，壽盡下為國王；牛時犯齋夜食，後受<lb
+ n="0774b14" ed="T"/>其罪，罪畢復作牛，百世尚有宿識，故來開<lb
+ n="0774b15" ed="T"/>悟王意。牛後七日，壽終上生天上。」佛言：「四<lb
+ n="0774b16" ed="T"/>輩弟子！受持齋戒，不可犯也。」諸比丘僧、比<lb
+ n="0774b17" ed="T"/>丘尼、優婆塞、優婆夷、天、龍、鬼神，聞經歡喜，<lb
+ n="0774b18" ed="T"/>前為佛作禮而去。</ab></div><lb
+ n="0774b19" ed="T"/>
+<ab type="juan" subtype="close">犍陀國王經</ab>
+</body></text></TEI>

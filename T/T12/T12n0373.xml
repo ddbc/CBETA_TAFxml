@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">後出阿彌陀佛偈</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T12</biblScope>
+                    <idno type="Taisho">T12n0373</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0364b06" ed="T"/><lb
+ n="0364b07" ed="T"/><lb
+ n="0364b08" ed="T"/><lb
+ n="0364b09" ed="T"/>
+<ab type="juan" subtype="open">後出阿彌陀佛偈</ab><lb
+ n="0364b10" ed="T"/><lb
+ n="0364b11" ed="T"/><byline>古舊錄云闕譯人名，今紀後漢錄</byline><lb
+ n="0364b12" ed="T"/><div type="jing" level="1"><ab type="verse">
+惟念法比丘，　　乃從世饒王，　　<lb
+ n="0364b13" ed="T"/>發願喻諸佛，　　誓二十四章。　　<lb
+ n="0364b14" ed="T"/>世世見諸佛，　　姟數無有量；　　<lb
+ n="0364b15" ed="T"/>不廢宿命行，　　功德遂具成。　　<lb
+ n="0364b16" ed="T"/>世界名清淨，　　得佛號無量，　　<lb
+ n="0364b17" ed="T"/>國界平夷易，　　豐樂多上人。　　<lb
+ n="0364b18" ed="T"/>寶樹若干種，　　羅列叢相生，　　<lb
+ n="0364b19" ed="T"/>本莖枝葉花，　　種種各異香。　　<lb
+ n="0364b20" ed="T"/>順風日三動，　　翕習如花生，　　<lb
+ n="0364b21" ed="T"/>墮地如手布，　　雜廁上普平。　　<lb
+ n="0364b22" ed="T"/>一切無諸山、　　海水及諸源，　　<lb
+ n="0364b23" ed="T"/>但有河水流，　　音響如說經。　　<lb
+ n="0364b24" ed="T"/>天人入水戲，　　在意所欲望，　　<lb
+ n="0364b25" ed="T"/>令水齊胳肩，　　意願隨念得。　　<lb
+ n="0364b26" ed="T"/>佛壽十方沙，　　光明普無邊，　　<lb
+ n="0364b27" ed="T"/>菩薩及弟子，　　不可算稱量。　　<lb
+ n="0364b28" ed="T"/>若欲見彼佛，　　莫疑亦莫忘；　　<lb
+ n="0364b29" ed="T"/>有疑在胎中，　　不合五百年。　　<pb n="0364c" id="T12.0373.0364c" ed="T"/><lb
+ n="0364c01" ed="T"/>不疑生基坐，　　叉手無量前，　　<lb
+ n="0364c02" ed="T"/>願欲遍十方，　　須臾則旋還。　　<lb
+ n="0364c03" ed="T"/>惟念彼菩薩，　　姟劫作功勤，　　<lb
+ n="0364c04" ed="T"/>本行如此致，　　得號會世尊！　　<lb
+ n="0364c05" ed="T"/>佛興難得值，　　須臾會難聞，　　<lb
+ n="0364c06" ed="T"/>講說士難遇，　　受學人難得。　　<lb
+ n="0364c07" ed="T"/>若後遭末世，　　法欲衰微時，　　<lb
+ n="0364c08" ed="T"/>當共建擁護，　　行佛無欲法。　　<lb
+ n="0364c09" ed="T"/>佛能說此要，　　各各勤思行；　　<lb
+ n="0364c10" ed="T"/>受此無量福，　　世世稽首行。　　
+</ab></div><lb
+ n="0364c11" ed="T"/>
+<ab type="juan" subtype="close">後出阿彌陀佛偈</ab>
+</body></text></TEI>

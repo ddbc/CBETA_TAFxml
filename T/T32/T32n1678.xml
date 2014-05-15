@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛三身讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T32</biblScope>
+                    <idno type="Taisho">T32n1678</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0757b13" ed="T"/><lb
+ n="0757b14" ed="T"/><lb
+ n="0757b15" ed="T"/>
+<ab type="juan" subtype="open">佛三身讚</ab><lb
+ n="0757b16" ed="T"/><lb
+ n="0757b17" ed="T"/><byline>西天譯經三藏朝散大夫試光祿<lb
+ n="0757b18" ed="T"/>卿明教大師臣法賢奉　詔譯</byline><lb
+ n="0757b19" ed="T"/><div type="jing" level="1"><ab type="prose">法身<lb
+ n="0757b20" ed="T"/></ab>
+<ab type="verse">
+我今稽首法身佛　　無喻難思普遍智　　<lb
+ n="0757b21" ed="T"/>充滿法界無罣礙　　湛然寂靜無等等　　<lb
+ n="0757b22" ed="T"/>非有非無性真實　　亦非多少離數量　　<lb
+ n="0757b23" ed="T"/>平等無相若虛空　　福利自他亦如是　　
+</ab><lb
+ n="0757b24" ed="T"/><ab type="prose">報身<lb
+ n="0757b25" ed="T"/></ab>
+<ab type="verse">
+我今稽首報身佛　　湛然安住大牟尼　　<lb
+ n="0757b26" ed="T"/>哀愍化度菩薩眾　　處會如日而普照　　<lb
+ n="0757b27" ed="T"/>三祇積集諸功德　　始能圓滿寂靜道　　<lb
+ n="0757b28" ed="T"/>以大音聲談妙法　　普令獲得平等果　　
+</ab><lb
+ n="0757b29" ed="T"/><ab type="prose">化身<pb n="0757c" id="T32.1678.0757c" ed="T"/><lb
+ n="0757c01" ed="T"/></ab>
+<ab type="verse">
+我今稽首化身佛　　菩提樹下成正覺　　<lb
+ n="0757c02" ed="T"/>或起變現或寂靜　　或復往化於十方　　<lb
+ n="0757c03" ed="T"/>或轉法輪於鹿苑　　或現大光如火聚　　<lb
+ n="0757c04" ed="T"/>三塗苦報悉能除　　三界無比大牟尼　　
+</ab><lb
+ n="0757c05" ed="T"/><ab type="prose">迴向<lb
+ n="0757c06" ed="T"/></ab>
+<ab type="verse">
+如是佛身無漏智　　我常信解淨三業　　<lb
+ n="0757c07" ed="T"/>以無量慧大福行　　一心垂愍諸群生　　<lb
+ n="0757c08" ed="T"/>以今頌讚三身佛　　所獲無漏功德種　　<lb
+ n="0757c09" ed="T"/>願我速證佛菩提　　盡引眾生歸正道　　
+</ab><lb
+ n="0757c10" ed="T"/>
+<ab type="juan" subtype="close">佛三身讚</ab></div>
+</body></text></TEI>

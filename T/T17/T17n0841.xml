@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">說妙法決定業障經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0841</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0912a21" ed="T"/><lb
+ n="0912a22" ed="T"/><lb
+ n="0912a23" ed="T"/><lb
+ n="0912a24" ed="T"/>
+<ab type="juan" subtype="open">說妙法決定業障經</ab><lb
+ n="0912a25" ed="T"/><lb
+ n="0912a26" ed="T"/><byline>大唐至相寺沙門釋智嚴譯</byline><lb
+ n="0912a27" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在法界藏殿諸佛所會無<lb
+ n="0912a28" ed="T"/>邊道場，與大比丘眾、菩薩摩訶薩俱。時此道<lb
+ n="0912a29" ed="T"/>場有一夫人，名曰功德莊嚴開敷花，合掌向<pb n="0912b" ed="T" id="T17.0841.0912b"/><lb
+ n="0912b01" ed="T"/>佛退坐一面。<lb
+ n="0912b02" ed="T"/>爾時夫人白佛言：「若有初修行菩薩，何等之<lb
+ n="0912b03" ed="T"/>人非善知識不應共住？」佛告夫人：「若三界中<lb
+ n="0912b04" ed="T"/>梵、釋、四王、沙門、婆羅門，皆與修行菩薩為善<lb
+ n="0912b05" ed="T"/>知識，惟除聲聞非善知識（恐聲聞退修行菩<lb
+ n="0912b06" ed="T"/>薩大乘道行）。何以故？聲聞、緣覺為己利故，勸<lb
+ n="0912b07" ed="T"/>引初修行菩薩迴入小乘，是以聲聞乘人非<lb
+ n="0912b08" ed="T"/>善知識。夫人當知，初修行菩薩不應與聲聞<lb
+ n="0912b09" ed="T"/>比丘同居房舍，不同坐床、不同行路。若初修<lb
+ n="0912b10" ed="T"/>行菩薩智慧彌廣，無二分別悟大乘法，而為<lb
+ n="0912b11" ed="T"/>方便勸引聲聞令入大乘，方許同住；若聲聞<lb
+ n="0912b12" ed="T"/>比丘福智狹劣，則修行菩薩不應為說甚深大<lb
+ n="0912b13" ed="T"/>乘，恐其誹謗。復次修行菩薩不應數覽小乘<lb
+ n="0912b14" ed="T"/>經論。何以故？為障佛道故。夫人當知，修行菩<lb
+ n="0912b15" ed="T"/>薩寧捨身命，不棄菩提而入聲聞求羅漢道。<lb
+ n="0912b16" ed="T"/>菩薩勸請一切眾生已，爾時若捨菩提之心，<lb
+ n="0912b17" ed="T"/>別起異道入於聲聞羅漢道果，因惱亂故菩<lb
+ n="0912b18" ed="T"/>薩而退菩提，二人俱墮無間地獄。」佛告夫人：<lb
+ n="0912b19" ed="T"/>「修行菩薩寧犯殺等五種大罪，不學須陀洹<lb
+ n="0912b20" ed="T"/>果，不退菩提修行；菩薩寧於一劫百劫乃至<lb
+ n="0912b21" ed="T"/>千劫受地獄苦，不學斯陀含果，不退菩提修<lb
+ n="0912b22" ed="T"/>行；菩薩寧墮畜生，不學阿那含果，不退菩提<lb
+ n="0912b23" ed="T"/>修行；菩薩寧殺害眾生墮於地獄，不修阿羅<lb
+ n="0912b24" ed="T"/>漢果，不退菩提。羅漢獨證私入涅槃，譬如<lb
+ n="0912b25" ed="T"/>小賊密入他舍。修行菩薩菩提心故攝諸眾<lb
+ n="0912b26" ed="T"/>生，寧同火坑不住聲聞寂滅涅槃，不退菩提，<lb
+ n="0912b27" ed="T"/>以是義故，為攝眾生令入佛道故。如是修行<lb
+ n="0912b28" ed="T"/>菩薩，一切世間天、人、阿修羅之所尊重，堪任<lb
+ n="0912b29" ed="T"/>供養超越聲聞，則邪魔眷屬無能嬈惱。」<pb n="0912c" ed="T" id="T17.0841.0912c"/><lb
+ n="0912c01" ed="T"/>爾時夫人白佛言：「何者邪魔眷屬？」佛告夫人：<lb
+ n="0912c02" ed="T"/>「敷演大乘經典之處，若有眾生聞說大乘，心<lb
+ n="0912c03" ed="T"/>不樂聞、調弄誹謗，當知則是邪魔眷屬。誹謗<lb
+ n="0912c04" ed="T"/>大乘經典心故，死墮阿鼻受苦無量，復生餓<lb
+ n="0912c05" ed="T"/>鬼食火屎尿，無量劫中受苦畢已，後生人中，<lb
+ n="0912c06" ed="T"/>盲聾、瘖瘂、病癩、不具。此等眾生命終之後，經<lb
+ n="0912c07" ed="T"/>無量生方得值遇如來親承供養，於諸佛所<lb
+ n="0912c08" ed="T"/>還復得聞大乘經典，純一無雜。」爾時如來<lb
+ n="0912c09" ed="T"/>於諸毛孔普出言音，一一毛孔出無量億百<lb
+ n="0912c10" ed="T"/>千法光，復生無量法音偈讚。時此會中若有<lb
+ n="0912c11" ed="T"/>聲聞則聞聲聞乘法；若有緣覺乘人則聞緣<lb
+ n="0912c12" ed="T"/>覺乘法；若有大乘行人則聞大乘妙法；鳥狩<lb
+ n="0912c13" ed="T"/>之類各隨其音而聞佛法。於此會中所有眾<lb
+ n="0912c14" ed="T"/>生，過去未曾耳聞佛法，皆見如來默然不語；<lb
+ n="0912c15" ed="T"/>其餘眾生過去曾謗大乘經故，雖於多劫墮<lb
+ n="0912c16" ed="T"/>在地獄、餓鬼受苦，由謗法時大乘入耳，是故<lb
+ n="0912c17" ed="T"/>佛所親聞大乘心生歡喜，而發無上菩提之<lb
+ n="0912c18" ed="T"/>心，究竟成就阿耨多羅三藐三菩提。<lb
+ n="0912c19" ed="T"/>爾時夫人白佛言：「所說大乘，何故名為大乘？<lb
+ n="0912c20" ed="T"/>何故說為大乘？」佛言：「夫人！善哉善哉！夫人<lb
+ n="0912c21" ed="T"/>深樂大乘，以是義故，善思念之，當為汝說大<lb
+ n="0912c22" ed="T"/>乘名號。所謂：一者、令人深樂，是名大乘。二者、<lb
+ n="0912c23" ed="T"/>不動，是名大乘。三者、無過，是名大乘。四者、<lb
+ n="0912c24" ed="T"/>無量，是名大乘。五者、如四大海，是名大乘。<lb
+ n="0912c25" ed="T"/>六者、金翅及緊那羅、摩睺羅伽雜類所敬，是<lb
+ n="0912c26" ed="T"/>名大乘。七者、乾闥婆所讚，是名大乘。八者、諸<lb
+ n="0912c27" ed="T"/>天恭敬，是名大乘。九者、梵天歸依，是名大乘。<lb
+ n="0912c28" ed="T"/>十者、天帝所敬，是名大乘。十一者、四王所攝，<lb
+ n="0912c29" ed="T"/>是名大乘。十二者、龍王供養，是名大乘。十三<pb n="0913a" ed="T" id="T17.0841.0913a"/><lb
+ n="0913a01" ed="T"/>者、菩薩奉持，是名大乘。十四者、成就佛性，是<lb
+ n="0913a02" ed="T"/>名大乘。十五者、賢聖歸依，是名大乘。十六者、<lb
+ n="0913a03" ed="T"/>一切普堪所受，是名大乘。十七者、如藥樹王，<lb
+ n="0913a04" ed="T"/>是名大乘。十八者、斷諸煩惱，是名大乘。十九<lb
+ n="0913a05" ed="T"/>者、能轉法輪，是名大乘。二十者、無言無說，是<lb
+ n="0913a06" ed="T"/>名大乘。二十一者、如虛空相，是名大乘。二十<lb
+ n="0913a07" ed="T"/>二者、三寶種性無斷，是名大乘。二十三者、鈍<lb
+ n="0913a08" ed="T"/>根眾生不信，是名大乘。二十四者、超過一切，<lb
+ n="0913a09" ed="T"/>是名大乘。」<lb
+ n="0913a10" ed="T"/>爾時佛說大乘威力名號之時，此三千大千<lb
+ n="0913a11" ed="T"/>世界六種震動，百千樂器不鼓自鳴，則於空<lb
+ n="0913a12" ed="T"/>中諸天雨花，無量百千天子皆發無上菩提<lb
+ n="0913a13" ed="T"/>之心；無量百千聲聞皆發阿耨多羅三藐三<lb
+ n="0913a14" ed="T"/>菩提心。復有初戒菩薩未悟法者，皆已悟解。<lb
+ n="0913a15" ed="T"/>爾時阿難白佛言：「世尊！此法何名？如何奉<lb
+ n="0913a16" ed="T"/>持？」佛言：「是經名為『大乘巨拏勝斯』，受持；又名<lb
+ n="0913a17" ed="T"/>『說妙法決定業障』，受持」。如來說此經已，阿<lb
+ n="0913a18" ed="T"/>難及功德莊嚴開敷花夫人，及諸天龍八部，<lb
+ n="0913a19" ed="T"/>皆大歡喜，持受奉行。</ab></div><lb
+ n="0913a20" ed="T"/>
+<ab type="juan" subtype="close">說妙法決定業障經</ab>
+</body></text></TEI>

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛頂勝初瑜伽普賢菩薩念誦法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1123</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0528a06" ed="T"/><lb
+ n="0528a07" ed="T"/><lb
+ n="0528a08" ed="T"/>
+<ab type="juan" subtype="open">金剛頂勝初瑜伽普賢菩薩念誦<lb
+ n="0528a09" ed="T"/>法一卷</ab><lb
+ n="0528a10" ed="T"/><lb
+ n="0528a11" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
+ n="0528a12" ed="T"/>肅公食邑三千戶賜紫贈司空<lb
+ n="0528a13" ed="T"/>諡大鑒正號大廣智大興善寺<lb
+ n="0528a14" ed="T"/>三藏沙門不空奉　詔譯</byline><lb
+ n="0528a15" ed="T"/><div type="jing" level="1"><ab type="verse">
+歸命禮普賢　　法界真如體　　<lb
+ n="0528a16" ed="T"/>我今依大教　　金剛頂勝初　　<lb
+ n="0528a17" ed="T"/>略述修行儀　　勝初金剛界　　<lb
+ n="0528a18" ed="T"/>海會諸聖眾　　垂慈見加護　　<lb
+ n="0528a19" ed="T"/>利益修行者　　是故結集之　　<lb
+ n="0528a20" ed="T"/>若欲求解脫　　彼於阿闍梨　　<lb
+ n="0528a21" ed="T"/>求受於灌頂　　若得許可已　　<lb
+ n="0528a22" ed="T"/>方依本教修　　揀擇得勝處　　<lb
+ n="0528a23" ed="T"/>建立於輪壇　　即當想自身　　<lb
+ n="0528a24" ed="T"/>同彼普賢體　　色白如珂雪　　<lb
+ n="0528a25" ed="T"/>端坐入三昧　　舌上想五股　　<lb
+ n="0528a26" ed="T"/>淨妙金剛杵　　密誦此真言　　<lb
+ n="0528a27" ed="T"/>同一法界淨　　即誦真言曰　　
+</ab><lb
+ n="0528a28" ed="T"/><ab type="dharani">唵娑縛婆嚩戍度含<lb
+ n="0528a29" ed="T"/></ab>
+<ab type="verse">
+由誦此真言　　身器皆清淨　　<pb n="0528b" id="T20.1123.0528b" ed="T"/><lb
+ n="0528b01" ed="T"/>即觀虛空佛　　遍滿如胡麻　　<lb
+ n="0528b02" ed="T"/>則誦遍照明　　歷然見諸佛　　<lb
+ n="0528b03" ed="T"/>觀佛真言曰　　
+</ab><lb
+ n="0528b04" ed="T"/><ab type="dharani">欠嚩日囉馱都<lb
+ n="0528b05" ed="T"/></ab>
+<ab type="verse">
+應滿普賢行　　求成最正覺　　<lb
+ n="0528b06" ed="T"/>身心不動搖　　定中禮諸佛　　<lb
+ n="0528b07" ed="T"/>即誦真言曰　　
+</ab><lb
+ n="0528b08" ed="T"/><ab type="dharani">唵薩嚩怛他誐多波娜滿娜南迦嚕弭<lb
+ n="0528b09" ed="T"/></ab>
+<ab type="verse">
+本尊大印成　　次結金剛掌　　<lb
+ n="0528b10" ed="T"/>竪合交初分　　密言如是稱　　
+</ab><lb
+ n="0528b11" ed="T"/><ab type="dharani">嚩日囒惹里<lb
+ n="0528b12" ed="T"/></ab>
+<ab type="verse">
+便為金剛縛　　其明如後陳　　
+</ab><lb
+ n="0528b13" ed="T"/><ab type="dharani">嚩日囉滿馱<lb
+ n="0528b14" ed="T"/></ab>
+<ab type="verse">
+開縛摧拍心　　應誦密言曰　　
+</ab><lb
+ n="0528b15" ed="T"/><ab type="dharani">嚩日囉滿馱怛囉吒<lb
+ n="0528b16" ed="T"/></ab>
+<ab type="verse">
+次前金剛縛　　禪智檀慧開　　<lb
+ n="0528b17" ed="T"/>稱遍入真言　　降臨每加護　　
+</ab><lb
+ n="0528b18" ed="T"/><ab type="dharani">嚩日囉吠捨惡<lb
+ n="0528b19" ed="T"/></ab>
+<ab type="verse">
+不改次前契　　禪智進力加　　<lb
+ n="0528b20" ed="T"/>是名三昧拳　　真言如是誦　　
+</ab><lb
+ n="0528b21" ed="T"/><ab type="dharani">嚩日囉母瑟知𤚥<lb
+ n="0528b22" ed="T"/></ab>
+<ab type="verse">
+分彼拳作二　　左慢右安心　　<lb
+ n="0528b23" ed="T"/>身語意金剛　　形體依初觀　　<lb
+ n="0528b24" ed="T"/>同前縛為準　　智與進力門　　<lb
+ n="0528b25" ed="T"/>禪逼於其中　　祕密三昧契　　<lb
+ n="0528b26" ed="T"/>印心額喉頂　　皆誦此真言　　
+</ab><lb
+ n="0528b27" ed="T"/><ab type="dharani">素囉多薩怛鑁<lb
+ n="0528b28" ed="T"/></ab>
+<ab type="verse">
+金剛縛又陳　　忍願成刀狀　　<lb
+ n="0528b29" ed="T"/>進力捻刀側　　依初第一文　　<lb
+ n="0528b30" ed="T"/>禪押於智端　　如結加趺勢　　<pb n="0528c" id="T20.1123.0528c" ed="T"/><lb
+ n="0528c01" ed="T"/>印頂心當想　　毘盧遮那佛　　<lb
+ n="0528c02" ed="T"/>儼然鮮白耀　　誦此真言曰　　
+</ab><lb
+ n="0528c03" ed="T"/><ab type="dharani">唵部欠<lb
+ n="0528c04" ed="T"/></ab>
+<ab type="verse">
+次當印其額　　應想阿閦鼙　　<lb
+ n="0528c05" ed="T"/>色青處於前　　誦此密明句　　
+</ab><lb
+ n="0528c06" ed="T"/><ab type="dharani">嚩日囉薩怛嚩<lb
+ n="0528c07" ed="T"/></ab>
+<ab type="verse">
+次按於頂右　　其名寶生尊　　<lb
+ n="0528c08" ed="T"/>黃色相端嚴　　真言如是誦　　
+</ab><lb
+ n="0528c09" ed="T"/><ab type="dharani">嚩日囉囉怛那<lb
+ n="0528c10" ed="T"/></ab>
+<ab type="verse">
+舉置於頂後　　無量壽如來　　<lb
+ n="0528c11" ed="T"/>色赤殊特儀　　稱此真言曰　　
+</ab><lb
+ n="0528c12" ed="T"/><ab type="dharani">嚩日囉達磨<lb
+ n="0528c13" ed="T"/></ab>
+<ab type="verse">
+復至於頂左　　不空成就尊　　<lb
+ n="0528c14" ed="T"/>綠色五佛周　　稱此祕明句　　
+</ab><lb
+ n="0528c15" ed="T"/><ab type="dharani">嚩日囉羯磨<lb
+ n="0528c16" ed="T"/></ab>
+<ab type="verse">
+次作寶鬘印　　灌頂以嚴身　　<lb
+ n="0528c17" ed="T"/>用二金剛拳　　額前遂縈遶　　<lb
+ n="0528c18" ed="T"/>復分拳腦後　　如前又繫鬘　　<lb
+ n="0528c19" ed="T"/>自檀慧徐開　　以羽兩傍下　　<lb
+ n="0528c20" ed="T"/>若垂繒帶想　　誦次後真言　　
+</ab><lb
+ n="0528c21" ed="T"/><ab type="dharani">唵嚩日囉麼攞避詵左滿𤚥<lb
+ n="0528c22" ed="T"/></ab>
+<ab type="verse">
+定慧羽皆舒　　俱拍契成就　　<lb
+ n="0528c23" ed="T"/>能悅一切聖　　真言如是稱　　
+</ab><lb
+ n="0528c24" ed="T"/><ab type="dharani">嚩日囉覩使也斛<pb n="0529a" id="T20.1123.0529a" ed="T"/><lb
+ n="0529a01" ed="T"/></ab>
+<ab type="verse">
+金剛慢印明　　默心誦一遍　　
+</ab><lb
+ n="0529a02" ed="T"/><ab type="dharani">薩鑁矩嚕野他素欠<lb
+ n="0529a03" ed="T"/></ab>
+<ab type="verse">
+復具明如上　　金剛薩埵冠　　<lb
+ n="0529a04" ed="T"/>以五佛色身　　安住相應印　　<lb
+ n="0529a05" ed="T"/>遍照薄伽梵　　契住如來拳　　<lb
+ n="0529a06" ed="T"/>次陳阿閦鼙　　定羽持衣角　　<lb
+ n="0529a07" ed="T"/>成拳按心上　　慧觸地如儀　　<lb
+ n="0529a08" ed="T"/>施願寶生尊　　智掌仰當乳　　<lb
+ n="0529a09" ed="T"/>無量光勝印　　定拳慢執蓮　　<lb
+ n="0529a10" ed="T"/>慧拳似敷華　　又如無動佛　　<lb
+ n="0529a11" ed="T"/>智羽三幡相　　如拔濟有情　　<lb
+ n="0529a12" ed="T"/>揚掌於乳傍　　不空成就印　　<lb
+ n="0529a13" ed="T"/>又作金剛縛　　開掌禪智合　　<lb
+ n="0529a14" ed="T"/>檀慧直如峯　　忍願入於掌　　<lb
+ n="0529a15" ed="T"/>相合如箭狀　　印心額及喉　　<lb
+ n="0529a16" ed="T"/>於頂亦如之　　皆用心密語　　
+</ab><lb
+ n="0529a17" ed="T"/><ab type="dharani">𤙖<lb
+ n="0529a18" ed="T"/></ab>
+<ab type="verse">
+便捧其香水　　稱後閼伽明　　
+</ab><lb
+ n="0529a19" ed="T"/><ab type="dharani">跛囉摩素佉捨野娑攞里多尾邏<lb
+ n="0529a20" ed="T"/>娑曩弭帶囉曩麼弭婆誐鑁擔弱𤙖𤚥<lb
+ n="0529a21" ed="T"/>斛呬呬呬呬鉢囉底車矩素<lb
+ n="0529a22" ed="T"/>滿惹里哩曩他<lb
+ n="0529a23" ed="T"/></ab>
+<ab type="verse">
+近額奉獻之　　如儀浴眾聖　　<lb
+ n="0529a24" ed="T"/>依前觀滿月　　皓白現壇中　　<lb
+ n="0529a25" ed="T"/>大聖處於間　　契住金剛慢　　<lb
+ n="0529a26" ed="T"/>復陳四尊位　　眼箭在其前　　<lb
+ n="0529a27" ed="T"/>色赤衣服然　　冠鬘以嚴飾　　<lb
+ n="0529a28" ed="T"/>二羽彎弓矢　　瞻矚薩埵儀　　<lb
+ n="0529a29" ed="T"/>計里計羅尊　　色白居其右　　<pb n="0529b" id="T20.1123.0529b" ed="T"/><lb
+ n="0529b01" ed="T"/>金剛拳二羽　　交抱三昧耶　　<lb
+ n="0529b02" ed="T"/>於後愛為名　　形服皆青色　　<lb
+ n="0529b03" ed="T"/>二拳竪慧臂　　肘以定羽承　　<lb
+ n="0529b04" ed="T"/>共執摩竭幢　　於左名為慢　　<lb
+ n="0529b05" ed="T"/>色黃拳在胯　　向左小低頭　　<lb
+ n="0529b06" ed="T"/>羯摩印真言　　加持諦安立　　<lb
+ n="0529b07" ed="T"/>大聖金剛慢　　應誦心密言　　
+</ab><lb
+ n="0529b08" ed="T"/><ab type="dharani">𤙖<lb
+ n="0529b09" ed="T"/></ab>
+<ab type="verse">
+諸尊次復陳　　自眼箭為始　　<lb
+ n="0529b10" ed="T"/>二拳各堅固　　彎弓放箭儀　　<lb
+ n="0529b11" ed="T"/>密契相已成　　祕明如後誦　　
+</ab><lb
+ n="0529b12" ed="T"/><ab type="dharani">弱嚩日囉地哩瑟知娑野<lb
+ n="0529b13" ed="T"/>計麼吒<lb
+ n="0529b14" ed="T"/></ab>
+<ab type="verse">
+準前拳二羽　　交臂抱於胸　　<lb
+ n="0529b15" ed="T"/>計里計羅尊　　當誦此後句　　
+</ab><lb
+ n="0529b16" ed="T"/><ab type="dharani">𤙖嚩日囉計利吉麗𤙖<lb
+ n="0529b17" ed="T"/></ab>
+<ab type="verse">
+又改次前印　　慧臂直如幢　　<lb
+ n="0529b18" ed="T"/>定拳承肘間　　誦明名愛契　　
+</ab><lb
+ n="0529b19" ed="T"/><ab type="dharani">𤚥嚩日哩儞娑麼囉囉吒<lb
+ n="0529b20" ed="T"/></ab>
+<ab type="verse">
+二拳各居𦜮　　以頭向左傾　　<lb
+ n="0529b21" ed="T"/>慢契相遂成　　真言如後誦　　
+</ab><lb
+ n="0529b22" ed="T"/><ab type="dharani">斛嚩日囉迦冥濕嚩哩怛㘕<lb
+ n="0529b23" ed="T"/><lb
+ n="0529b24" ed="T"/></ab>
+<ab type="verse">
+次陳內供養　　初起東南隅　　<lb
+ n="0529b25" ed="T"/>捧華形服白　　金剛妙適悅　　<lb
+ n="0529b26" ed="T"/>金剛適悅性　　色黑執香爐　　<lb
+ n="0529b27" ed="T"/>金剛眼獻燈　　色赤嚴飾爾　　<lb
+ n="0529b28" ed="T"/>末為塗香位　　金剛大吉祥　　<lb
+ n="0529b29" ed="T"/>形質皆以黃　　次陳其契相　　<pb n="0529c" id="T20.1123.0529c" ed="T"/><lb
+ n="0529c01" ed="T"/>俱先二拳舞　　如儀遂結成　　<lb
+ n="0529c02" ed="T"/>以二金剛拳　　相並上擲散　　<lb
+ n="0529c03" ed="T"/>想妙華供養　　真言如後稱　　
+</ab><lb
+ n="0529c04" ed="T"/><ab type="dharani">系嚩日囉囉底<lb
+ n="0529c05" ed="T"/></ab>
+<ab type="verse">
+並拳乃下擲　　念焚香雲海　　<lb
+ n="0529c06" ed="T"/>普遍於一切　　誦如後真言　　
+</ab><lb
+ n="0529c07" ed="T"/><ab type="dharani">摩訶囉多嚩日囉斛<lb
+ n="0529c08" ed="T"/></ab>
+<ab type="verse">
+二拳禪智合　　如燈應運想　　<lb
+ n="0529c09" ed="T"/>廣施為佛事　　密言如是稱　　
+</ab><lb
+ n="0529c10" ed="T"/><ab type="dharani">唵嚩日囉路者寧<lb
+ n="0529c11" ed="T"/></ab>
+<ab type="verse">
+並覆其二拳　　依胸兩向散　　<lb
+ n="0529c12" ed="T"/>若妙塗香勢　　當誦此真言　　
+</ab><lb
+ n="0529c13" ed="T"/><ab type="dharani">摩訶室唎嚩日哩呬<lb
+ n="0529c14" ed="T"/></ab>
+<ab type="verse">
+外供養諸尊　　四隅又存想　　<lb
+ n="0529c15" ed="T"/>東南名嬉戲　　二拳以當心　　<lb
+ n="0529c16" ed="T"/>笑處於西南　　二羽口傍散　　<lb
+ n="0529c17" ed="T"/>歌居於西北　　彈執其箜篌　　<lb
+ n="0529c18" ed="T"/>東北舞為名　　如儀旋轉勢　　<lb
+ n="0529c19" ed="T"/>形服皆金色　　真言契又陳　　<lb
+ n="0529c20" ed="T"/>覆並於二拳　　繞心應右轉　　<lb
+ n="0529c21" ed="T"/>是名嬉戲印　　其名如後稱　　
+</ab><lb
+ n="0529c22" ed="T"/><ab type="dharani">系囉底嚩日囉尾邏賜儞怛囉吒<lb
+ n="0529c23" ed="T"/><lb
+ n="0529c24" ed="T"/></ab>
+<ab type="verse">
+如前印口傍　　自檀慧徐散　　<lb
+ n="0529c25" ed="T"/>揚掌極舒臂　　含笑誦真言　　
+</ab><lb
+ n="0529c26" ed="T"/><ab type="dharani">系囉底嚩日囉賀細娑訶<lb
+ n="0529c27" ed="T"/></ab>
+<ab type="verse">
+定臂如箜篌　　改進力微屈　　<lb
+ n="0529c28" ed="T"/>慧羽彈弦勢　　為歌誦其明　　
+</ab><lb
+ n="0529c29" ed="T"/><ab type="dharani">系囉底嚩日囉擬諦諦諦<pb n="0530a" id="T20.1123.0530a" ed="T"/><lb
+ n="0530a01" ed="T"/></ab>
+<ab type="verse">
+二拳舞於心　　頂上合便散　　<lb
+ n="0530a02" ed="T"/>其名舞契相　　真言句遂陳　　
+</ab><lb
+ n="0530a03" ed="T"/><ab type="dharani">系囉底嚩日囉儞哩諦吠波吠波<lb
+ n="0530a04" ed="T"/><lb
+ n="0530a05" ed="T"/></ab>
+<ab type="verse">
+四承旨居門　　形儀復當演　　<lb
+ n="0530a06" ed="T"/>初持鉤青色　　嚴麗處於間　　<lb
+ n="0530a07" ed="T"/>南携索皆黃　　西執鎖尚赤　　<lb
+ n="0530a08" ed="T"/>其北名為磬　　具綠色冠鬘　　<lb
+ n="0530a09" ed="T"/>祕契及真言　　復次今當設　　<lb
+ n="0530a10" ed="T"/>二拳背應逼　　檀慧反相鉤　　<lb
+ n="0530a11" ed="T"/>進力皆極舒　　又稍屈進度　　<lb
+ n="0530a12" ed="T"/>微招是鉤契　　其明如後稱　　
+</ab><lb
+ n="0530a13" ed="T"/><ab type="dharani">嚩日𠻴矩勢弱<lb
+ n="0530a14" ed="T"/></ab>
+<ab type="verse">
+前印進力交　　反以頭相挂　　<lb
+ n="0530a15" ed="T"/>其中如環索　　稱誦後真言　　
+</ab><lb
+ n="0530a16" ed="T"/><ab type="dharani">嚩日囉播勢𤙖<lb
+ n="0530a17" ed="T"/></ab>
+<ab type="verse">
+改進力相鉤　　開拳背交臂　　<lb
+ n="0530a18" ed="T"/>遂名鎖契成　　密言如是稱　　
+</ab><lb
+ n="0530a19" ed="T"/><ab type="dharani">嚩日囉餉迦麗𤚥<lb
+ n="0530a20" ed="T"/></ab>
+<ab type="verse">
+如鎖背相著　　動搖磬明曰　　
+</ab><lb
+ n="0530a21" ed="T"/><ab type="dharani">嚩日囉健𪘨斛<lb
+ n="0530a22" ed="T"/></ab>
+<ab type="verse">
+大聖所嚴飾　　華座及衣服　　<lb
+ n="0530a23" ed="T"/>并餘見前尊　　其色隨身相　　<lb
+ n="0530a24" ed="T"/>殊形具眾德　　首戴五佛冠　　<lb
+ n="0530a25" ed="T"/>將建曼荼羅　　諸位先存想　　<lb
+ n="0530a26" ed="T"/>月輪圓明現　　其中觀念之　　<lb
+ n="0530a27" ed="T"/>半跏面本尊　　適悅目瞻仰　　<lb
+ n="0530a28" ed="T"/>又宣三昧印　　本尊前所陳　　<lb
+ n="0530a29" ed="T"/>彼契及真言　　如儀勿差謬　　<pb n="0530b" id="T20.1123.0530b" ed="T"/><lb
+ n="0530b01" ed="T"/>餘尊次當設　　亦眼箭為初　　<lb
+ n="0530b02" ed="T"/>准彼所護身　　大樂隨心印　　<lb
+ n="0530b03" ed="T"/>極屈其進力　　初分背相著　　<lb
+ n="0530b04" ed="T"/>禪智並押之　　契相當成就　　<lb
+ n="0530b05" ed="T"/>以禪押於智　　深交印乃成　　<lb
+ n="0530b06" ed="T"/>名計里計羅　　次陳摩竭相　　<lb
+ n="0530b07" ed="T"/>進鉤於願度　　力握其忍端　　<lb
+ n="0530b08" ed="T"/>戒方舒成針　　檀慧合而直　　<lb
+ n="0530b09" ed="T"/>禪智自相並　　各押進力傍　　<lb
+ n="0530b10" ed="T"/>愛契相已成　　不改次前印　　<lb
+ n="0530b11" ed="T"/>從外觸其股　　先右左亦然　　<lb
+ n="0530b12" ed="T"/>內供養又明　　側捩金剛掌　　<lb
+ n="0530b13" ed="T"/>上擲為華印　　下散成燒香　　<lb
+ n="0530b14" ed="T"/>禪智逼為燈　　塗香依胸啟　　<lb
+ n="0530b15" ed="T"/>嬉戲旋轉禮　　笑契近口傍　　<lb
+ n="0530b16" ed="T"/>自檀慧徐開　　又結其歌印　　<lb
+ n="0530b17" ed="T"/>改力度微屈　　進虛撥於間　　<lb
+ n="0530b18" ed="T"/>定羽佉吒迦　　慧作三幡相　　<lb
+ n="0530b19" ed="T"/>當心乃旋舞　　八供養已周　　<lb
+ n="0530b20" ed="T"/>次結金剛縛　　改進力微屈　　<lb
+ n="0530b21" ed="T"/>徐招是鉤契　　從縛索當生　　<lb
+ n="0530b22" ed="T"/>禪度智力間　　印成又為鎖　　<lb
+ n="0530b23" ed="T"/>環進禪智力　　捻已便相鉤　　<lb
+ n="0530b24" ed="T"/>又作堅固縛　　禪智戒方下　　<lb
+ n="0530b25" ed="T"/>當胸遂搖動　　為磬四攝成　　<lb
+ n="0530b26" ed="T"/>三昧耶真言　　同前羯磨句　　<lb
+ n="0530b27" ed="T"/>金剛薩埵位　　及行者所居　　<lb
+ n="0530b28" ed="T"/>皆有十六尊　　圍遶端嚴住　　<lb
+ n="0530b29" ed="T"/>又誦次所陳　　最勝真實讚　　<pb n="0530c" id="T20.1123.0530c" ed="T"/><lb
+ n="0530c01" ed="T"/>能纔稱念故　　速令悉地圓　　
+</ab><lb
+ n="0530c02" ed="T"/><ab type="dharani">摩訶素佉摩訶囉誐摩訶嚩<lb
+ n="0530c03" ed="T"/>日囉摩訶馱那摩訶枳孃那<lb
+ n="0530c04" ed="T"/>摩訶羯摩嚩日嚩薩怛嚩儞也<lb
+ n="0530c05" ed="T"/>悉地野冥<lb
+ n="0530c06" ed="T"/></ab>
+<ab type="verse">
+誦讚聲畢已　　觀念本所尊　　<lb
+ n="0530c07" ed="T"/>身心不散亂　　捧戴於珠鬘　　<lb
+ n="0530c08" ed="T"/>當心以加持　　而誦真言曰　　
+</ab><lb
+ n="0530c09" ed="T"/><ab type="dharani">唵嚩日囉虞呬也惹波三摩曳吽<lb
+ n="0530c10" ed="T"/></ab>
+<ab type="verse">
+次誦本所尊　　持珠住等引　　<lb
+ n="0530c11" ed="T"/>不極動舌端　　脣齒二俱合　　<lb
+ n="0530c12" ed="T"/>金剛語離聲　　分明觀相好　　<lb
+ n="0530c13" ed="T"/>四時不令間　　百千已為限　　<lb
+ n="0530c14" ed="T"/>或復過於是　　真言如是稱　　
+</ab><lb
+ n="0530c15" ed="T"/><ab type="dharani">唵嚩日囉薩怛嚩惡<lb
+ n="0530c16" ed="T"/></ab>
+<ab type="verse">
+念誦分限畢　　捧珠發大願　　<lb
+ n="0530c17" ed="T"/>即結根本印　　誦本明七遍　　<lb
+ n="0530c18" ed="T"/>復修八供養　　以妙聲誦讚　　<lb
+ n="0530c19" ed="T"/>捧獻閼伽水　　解界及諸印　　<lb
+ n="0530c20" ed="T"/>即結三昧拳　　一誦而掣開　　<lb
+ n="0530c21" ed="T"/>次結羯摩拏　　三誦三開手　　<lb
+ n="0530c22" ed="T"/>彼彼所生印　　一一自當解　　<lb
+ n="0530c23" ed="T"/>即誦真言曰　　
+</ab><lb
+ n="0530c24" ed="T"/><ab type="dharani">唵嚩日囉穆<lb
+ n="0530c25" ed="T"/></ab>
+<ab type="verse">
+次結奉送印　　二羽金剛縛　　<lb
+ n="0530c26" ed="T"/>忍願竪如針　　誦已而上擲　　<lb
+ n="0530c27" ed="T"/>而誦真言曰　　
+</ab><lb
+ n="0530c28" ed="T"/><ab type="dharani">唵訖哩覩嚩薩嚩薩怛嚩囉他<lb
+ n="0530c29" ed="T"/>悉地娜多野他努誐󰋲車特梵勃馱尾<pb n="0531a" id="T20.1123.0531a" ed="T"/><lb
+ n="0531a01" ed="T"/>灑鹽布那囉誐摩那野覩唵嚩日囉薩<lb
+ n="0531a02" ed="T"/>怛嚩穆<lb
+ n="0531a03" ed="T"/></ab>
+<ab type="verse">
+次當結寶印　　二羽金剛縛　　<lb
+ n="0531a04" ed="T"/>進力如寶形　　禪智亦復爾　　<lb
+ n="0531a05" ed="T"/>印相從心起　　置於灌頂處　　<lb
+ n="0531a06" ed="T"/>分手如繫鬘　　亦成甲冑印　　<lb
+ n="0531a07" ed="T"/>真言如是稱　　
+</ab><lb
+ n="0531a08" ed="T"/><ab type="dharani">唵嚩日囉囉怛那毘詵者𤚥薩嚩母<lb
+ n="0531a09" ed="T"/>捺囉咩捺哩穉矩嚕嚩囉迦嚩制<lb
+ n="0531a10" ed="T"/>那<lb
+ n="0531a11" ed="T"/>󰓋<lb
+ n="0531a12" ed="T"/></ab>
+<ab type="verse">
+加持被甲已　　齊掌而三拍　　<lb
+ n="0531a13" ed="T"/>令聖眾歡喜　　以此真言印　　<lb
+ n="0531a14" ed="T"/>解縛得歡喜　　而誦真言曰　　
+</ab><lb
+ n="0531a15" ed="T"/><ab type="dharani">唵嚩日囉覩瑟也斛<lb
+ n="0531a16" ed="T"/></ab>
+<ab type="verse">
+奉送聖眾已　　自作加持竟　　<lb
+ n="0531a17" ed="T"/>便出於道場　　任意自經行　　<lb
+ n="0531a18" ed="T"/>轉讀大乘典　　調息自身心　　<lb
+ n="0531a19" ed="T"/>心常想本尊　　仁者應遵奉　　
+</ab><lb
+ n="0531a20" ed="T"/>
+<ab type="juan" subtype="close">金剛頂勝初瑜伽普賢菩薩念誦法一卷</ab></div>
+</body></text></TEI>

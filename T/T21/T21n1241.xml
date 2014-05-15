@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">伽馱金剛真言</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1241</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0202c06" ed="T"/><lb
+ n="0202c07" ed="T"/><lb
+ n="0202c08" ed="T"/><div type="dharani" level="1"><lb
+ n="0202c09" ed="T"/>
+<ab type="juan" subtype="open">伽馱金剛真言</ab><lb
+ n="0202c10" ed="T"/><lb
+ n="0202c11" ed="T"/><ab type="dharani">那慕　囉怛那　怛囉夜野　那莫　失旃荼<lb
+ n="0202c12" ed="T"/>嚩日囉　跛拏曳　摩訶㖿乞叉　細那<lb
+ n="0202c13" ed="T"/>　跛哆曳　那謨　皤哦嚩底　阿哩也嚩日囉<lb
+ n="0202c14" ed="T"/>　哦馱哩　阿禰笴　囉思彌　娑哆<lb
+ n="0202c15" ed="T"/>　娑賀薩囉　鉢囉　日囉　哩哆<lb
+ n="0202c16" ed="T"/>　地鉢哆　底惹者細　嗚哦囉　毘<lb
+ n="0202c17" ed="T"/>摩皤耶儞笴曳　喻耆曳　毘沙麼　皤<lb
+ n="0202c18" ed="T"/>耆儞曳　沙母佉曳　馱嚩　馱舍禰<lb
+ n="0202c19" ed="T"/>　怛囉曳　尾計㗚那　計死曳　阿禰<lb
+ n="0202c20" ed="T"/>笴　尾尾馱　嚕跛　吠娑馱囉　儞曳伊<lb
+ n="0202c21" ed="T"/>翳醯呬　皤哦嚩底　摩賀嚩日囉　哦<lb
+ n="0202c22" ed="T"/>馱哩　怛囉耶嚷　囉怛那𠹌　娑底<lb
+ n="0202c23" ed="T"/>曳那　怛儞也佗　唵　阿笴荼　阿笴<lb
+ n="0202c24" ed="T"/>荼　嚩囉提畔　摩醯捨嚩楞　哦嚕<lb
+ n="0202c25" ed="T"/>騰尾瑟弩　古摩楞　皤囉　賀麼<lb
+ n="0202c26" ed="T"/>𠹌　印󰾫楞　左󰾫㘄　阿地噔<lb
+ n="0202c27" ed="T"/>㖿乞洗囉乞叉僧　部等　比捨嚕<lb
+ n="0202c28" ed="T"/>苟畔澄　阿耆儞耶瞢　嚩嚕𠹌　古<lb
+ n="0202c29" ed="T"/>吠楞　地㗚哆囉瑟置㘄　尾嚕荼<pb n="0203a" id="T21.1241.0203a" ed="T"/><lb
+ n="0203a01" ed="T"/>亘　尾嚕跛乞洗僧　古笴㗚能　底<lb
+ n="0203a02" ed="T"/>哩笴㗚能　薩土　囉笴㗚能<lb
+ n="0203a03" ed="T"/>瞿笴㗚能　摩賀笴㗚能　摩賀笴楞<lb
+ n="0203a04" ed="T"/>　那地計舍嚩㘄　毘凌義哩　微那<lb
+ n="0203a05" ed="T"/>也亘　尾那耶亘　馱摩亘半左亘　盧賀<lb
+ n="0203a06" ed="T"/>亘　灑瑟微弟嚩　古吒也義哩亘<lb
+ n="0203a07" ed="T"/>　土力伽笴底也耶女凌　摩賀<lb
+ n="0203a08" ed="T"/>笴底也耶女凌　伊灑女凌<lb
+ n="0203a09" ed="T"/>　乃哩底養　耶娑悉尾女凌　笴哩<lb
+ n="0203a10" ed="T"/>　摩賀笴凌　嚩日囉笴凌　主囉笴凌<lb
+ n="0203a11" ed="T"/>　阿哦儞孕　嚩耶毘養　灑哩笴嚩底<lb
+ n="0203a12" ed="T"/>　娑哆乞洗　娑仡噔　印馱羅<lb
+ n="0203a13" ed="T"/>儞　嚩羅訶麼儞姑麼㖫　麼醯薩嚩<lb
+ n="0203a14" ed="T"/>㖫　吠瑟拏尾　蘇皤󱃦　左母娘<lb
+ n="0203a15" ed="T"/>　嘍地㖫　嚩囉𡁎　苟吠㖫　曳吉<lb
+ n="0203a16" ed="T"/>儞曳　娑麼曳　底瑟咤底黨　阿<lb
+ n="0203a17" ed="T"/>嚩㗚多　已寫弭　始渠楞　其㗚訶娜　其㗚訶娜　唵　遇嚕遇<lb
+ n="0203a19" ed="T"/>嚕　虎嚕虎嚕　主魯主魯　母魯母魯　馱<lb
+ n="0203a20" ed="T"/>摩馱摩　囉哦囉哦　布囉布囉布囉耶　布<lb
+ n="0203a21" ed="T"/>囉耶　阿尾娑阿尾娑　皤哦嚩底　摩訶嚩<lb
+ n="0203a22" ed="T"/>日囉哦馱哩　死馱失者𠸎　摩<lb
+ n="0203a23" ed="T"/>訶嚩日囉　跛儞　羅若跛耶底　唵　乞<lb
+ n="0203a24" ed="T"/>哩　訶醯　訶訶訶　吽破吒　薩嚩<lb
+ n="0203a25" ed="T"/>訶<lb
+ n="0203a26" ed="T"/>
+</ab><ab type="juan" subtype="close">伽馱金剛真言</ab></div>
+</body></text></TEI>

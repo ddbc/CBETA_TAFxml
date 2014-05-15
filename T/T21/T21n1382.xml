@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說宿命智陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1382</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0904a17" ed="T"/><lb
+ n="0904a18" ed="T"/><lb
+ n="0904a19" ed="T"/><div type="dharani" level="1"><lb
+ n="0904a20" ed="T"/>
+<ab type="juan" subtype="open">佛說宿命智陀羅尼</ab><lb
+ n="0904a21" ed="T"/><lb
+ n="0904a22" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0904a23" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0904a24" ed="T"/><ab type="dharani">那謨婆誐嚩帝阿芻毘夜野怛他<lb
+ n="0904a25" ed="T"/>誐多野阿囉曷帝三藐訖三沒<lb
+ n="0904a26" ed="T"/>馱野怛󰍕他唵惡剎曳惡剎曳<lb
+ n="0904a27" ed="T"/>惡剎野嚩囉拏尾輸達儞娑嚩<lb
+ n="0904a28" ed="T"/>賀<lb
+ n="0904a29" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說宿命智陀羅尼</ab></div>
+</body></text></TEI>

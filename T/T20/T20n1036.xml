@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">千轉大明陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1036</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0018b14" ed="T"/><lb
+ n="0018b15" ed="T"/><lb
+ n="0018b16" ed="T"/><lb
+ n="0018b18" ed="T"/>
+<ab type="juan" subtype="open">千轉大明陀羅尼經</ab><lb
+ n="0018b19" ed="T"/><lb
+ n="0018b20" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
+ n="0018b21" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0018b22" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時世尊在忉利天中波利質多<lb
+ n="0018b23" ed="T"/>羅樹下。爾時帝釋天主。及與一切天人軍眾。<lb
+ n="0018b24" ed="T"/>前後圍繞來詣佛所。各各至誠合掌歸依。瞻<lb
+ n="0018b25" ed="T"/>仰如來次第而住。<lb
+ n="0018b26" ed="T"/>爾時帝釋天主前白佛言。世尊我有陀羅尼<lb
+ n="0018b27" ed="T"/>名千轉大明。是陀羅尼於諸世間。為大饒益。<lb
+ n="0018b28" ed="T"/>所有一切天龍夜叉餓鬼鳩槃茶等乃至人非<lb
+ n="0018b29" ed="T"/>人等。聞此陀羅尼者。悉皆降伏於諸眾生。所<pb n="0018c" id="T20.1036.0018c" ed="T"/><lb
+ n="0018c01" ed="T"/>有一切不饒益事悉皆除殄。惟願世尊大慈<lb
+ n="0018c02" ed="T"/>大悲許我宣說。佛言天主善哉善哉。如汝所<lb
+ n="0018c03" ed="T"/>說彼大千轉大明陀羅尼。能於世間作大饒<lb
+ n="0018c04" ed="T"/>益。汝欲說者當隨汝意。爾時帝釋天主。即說<lb
+ n="0018c05" ed="T"/>千轉大明陀羅尼曰。<lb
+ n="0018c06" ed="T"/></ab>
+<ab type="dharani">怛儞也他曩呬怛寫婆帝婆誐嚩<lb
+ n="0018c07" ed="T"/>覩三野體難野過覩<lb
+ n="0018c08" ed="T"/></ab>
+<ab type="prose">一切部多聞此所說。驚怖迷悶狂惑退散。寶<lb
+ n="0018c09" ed="T"/>賢夜叉主及輪成就等現眾色像。使諸部多<lb
+ n="0018c10" ed="T"/>諸鬼神等及彼遊方空行起屍瘧病諸惡鬼<lb
+ n="0018c11" ed="T"/>等。乃至一切行毒根本邪法。惱害眾生不饒<lb
+ n="0018c12" ed="T"/>益事。悉皆解脫。<lb
+ n="0018c13" ed="T"/></ab>
+<ab type="dharani">阿曩鉢帝烏播曩鉢帝盎誐商迦<lb
+ n="0018c14" ed="T"/>哩儗哩恨拏哩娑嚩賀<lb
+ n="0018c15" ed="T"/>曩謨沒馱野曩謨達哩摩野曩謨<lb
+ n="0018c16" ed="T"/>僧伽野曩謨阿哩野嚩路枳帝<lb
+ n="0018c17" ed="T"/>濕嚩囉野󰂛地薩埵野摩賀薩<lb
+ n="0018c18" ed="T"/>埵野摩賀迦嚕尼迦野曩謨阿<lb
+ n="0018c19" ed="T"/>哩野摩賀薩瑳摩波囉鉢多<lb
+ n="0018c20" ed="T"/>野怛儞也他目訖帝尾目訖帝鼻那儞尾鼻那儞儞哩摩隸<lb
+ n="0018c22" ed="T"/>尾摩隸穌目契尾目契瞢誐隸<lb
+ n="0018c23" ed="T"/>穌瞢誐隷<lb
+ n="0018c24" ed="T"/></ab>
+<ab type="prose">一切王怖解脫。一切星曜變怪怖解脫。一切<lb
+ n="0018c25" ed="T"/>自他軍眾鬪戰怖解脫。一切兵仗怖解脫。一<lb
+ n="0018c26" ed="T"/>切水火漂焚怖解脫。一切惡病苦惱怖解脫。<lb
+ n="0018c27" ed="T"/>一切毒惡傷害怖解脫。師子怖象怖。熊怖虎<lb
+ n="0018c28" ed="T"/>怖。一切惡獸等怖。大海漂溺怖深山閴寂怖。<lb
+ n="0018c29" ed="T"/>乃至諸水灘難怖。如是諸怖悉皆解脫。<pb n="0019a" id="T20.1036.0019a" ed="T"/><lb
+ n="0019a01" ed="T"/></ab>
+<ab type="dharani">曩謨娑訖哩商迦致商迦致迦嚕<lb
+ n="0019a02" ed="T"/>致迦嚕致儞曳娑嚩賀<lb
+ n="0019a03" ed="T"/></ab>
+<ab type="prose">入王宮時見大臣。時行軍中時逢怨對。時見<lb
+ n="0019a04" ed="T"/>毒蛇毒龍。時遇夜叉毘舍遮羅剎烏鉢娑摩<lb
+ n="0019a05" ed="T"/>囉所魅時。乃至山海險難中時。如是怖<lb
+ n="0019a06" ed="T"/>畏悉皆解脫。<lb
+ n="0019a07" ed="T"/></ab>
+<ab type="dharani">曩謨怛囉𧹞婆嚩室羅野𧹞呬隷<lb
+ n="0019a08" ed="T"/>呬隷唧隷唧隷迦播隷摩鄧霓娑嚩<lb
+ n="0019a09" ed="T"/>賀<lb
+ n="0019a10" ed="T"/></ab>
+<ab type="prose">又復王法所執或被枷鎖杻械牢固其身。一<lb
+ n="0019a11" ed="T"/>切枉橫憂苦逼切悉皆解脫。<lb
+ n="0019a12" ed="T"/></ab>
+<ab type="dharani">曩謨多哩多哩烏哆哩覩哩<lb
+ n="0019a13" ed="T"/>娑嚩賀<lb
+ n="0019a14" ed="T"/></ab>
+<ab type="prose">又復星曜所持。或惡夢變怪致諸病苦夭枉<lb
+ n="0019a15" ed="T"/>至死。乃至鬪諍論理互相恐逼。如是諸怖悉<lb
+ n="0019a16" ed="T"/>皆解脫。<lb
+ n="0019a17" ed="T"/></ab>
+<ab type="dharani">曩謨左囉左囉娑囉娑囉尾娑囉尾娑<lb
+ n="0019a18" ed="T"/>囉沒馱野沒馱野󰂛馱野彌底<lb
+ n="0019a19" ed="T"/>娑嚩賀洛乞叉洛乞叉𤚥薩哩<lb
+ n="0019a20" ed="T"/>嚩薩怛嚩喃左娑嚩賀阿<lb
+ n="0019a21" ed="T"/>哩野室哩滿哩馱覽布瑟致俱嚕娑嚩賀摩麼布哩嚩羅滿<lb
+ n="0019a23" ed="T"/>哩馱喃扇底孕俱囉娑嚩賀曩謨賀帝儞賀帝薩哩嚩努瑟<lb
+ n="0019a25" ed="T"/>㡧鉢囉底孕惹儞謨賀儞謨<lb
+ n="0019a26" ed="T"/>乞叉尼娑嚩賀曩謨迦致儞<lb
+ n="0019a27" ed="T"/>致迦吒致娑嚩賀曩謨阿囉尼<lb
+ n="0019a28" ed="T"/>嚩囉尼薩哩嚩儞哩嚩囉尼娑<pb n="0019b" id="T20.1036.0019b" ed="T"/><lb
+ n="0019b01" ed="T"/>嚩賀<lb
+ n="0019b02" ed="T"/></ab>
+<ab type="prose">又復一切惡人行不善事。持邪禁呪作諸󰚏<lb
+ n="0019b03" ed="T"/>禱。當令眾生迷癡狂惑。如是等事悉皆解脫。<lb
+ n="0019b04" ed="T"/></ab>
+<ab type="dharani">嚕嚕計哩嚕計底瑟姹滿馱夜弭<lb
+ n="0019b05" ed="T"/>夜嚩誐嚩切尾夢贊底呬隷唧隷迦<lb
+ n="0019b06" ed="T"/>播隸迦瑟站誐薩哩嚩哆薩哩<lb
+ n="0019b07" ed="T"/>嚩婆曳毘藥娑嚩賀<lb
+ n="0019b08" ed="T"/></ab>
+<ab type="prose">世尊我此千轉大明。譬如轉輪聖王。有摩尼<lb
+ n="0019b09" ed="T"/>寶名曰如意。凡諸所欲自然現前。我此千轉<lb
+ n="0019b10" ed="T"/>大明亦復如是。若有得者凡諸苦惱悉皆解<lb
+ n="0019b11" ed="T"/>脫。世尊末世之時眾生薄福。於三寶尊不知<lb
+ n="0019b12" ed="T"/>歸依。恣身口心常造過惡。是故世間諸惡鬼<lb
+ n="0019b13" ed="T"/>神伺得其便。隱自形質假託變現。於晝夜中<lb
+ n="0019b14" ed="T"/>惱害眾生。使諸眾生得種種苦惱。世尊若有<lb
+ n="0019b15" ed="T"/>眾生。遇斯惡鬼種種惱亂苦惱之時。乃至世<lb
+ n="0019b16" ed="T"/>間一切不可意時。當於清淨之地取土七把。<lb
+ n="0019b17" ed="T"/>每一把讀誦此大明加持七遍。和作七丸繫<lb
+ n="0019b18" ed="T"/>於衣角。當令一切行不饒益惡鬼神等。不敢<lb
+ n="0019b19" ed="T"/>侵近恐怖退散。當令是人晝夜安隱。一切不<lb
+ n="0019b20" ed="T"/>祥悉皆殄滅。爾時帝釋天主說此千轉大明<lb
+ n="0019b21" ed="T"/>陀羅尼已。踊躍歡喜與諸天眾禮佛而退。<lb
+ n="0019b22" ed="T"/>
+</ab><ab type="juan" subtype="close">千轉大明陀羅尼經</ab></div>
+</body></text></TEI>

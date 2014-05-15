@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">那羅延天共阿修羅王鬪戰法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1281</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0342b12" ed="T"/><lb
+ n="0342b13" ed="T"/><lb
+ n="0342b14" ed="T"/><div type="jing" level="2"><lb
+ n="0342b15" ed="T"/>
+<ab type="juan" subtype="open">那羅延天共阿修羅王鬪戰法</ab><lb
+ n="0342b16" ed="T"/><lb
+ n="0342b17" ed="T"/><byline>寶思惟三藏譯</byline><lb
+ n="0342b18" ed="T"/><ab type="prose">爾時那羅延天在於須彌山頂上。集諸天大<lb
+ n="0342b19" ed="T"/>眾梵天王及大自在天王天帝釋等。亦有無<lb
+ n="0342b20" ed="T"/>量天龍夜叉乾闥婆緊那羅摩呼羅伽人非人<lb
+ n="0342b21" ed="T"/>等。亦有無數鬼神等。共會說法。其甘露妙藥<lb
+ n="0342b22" ed="T"/>及和合安置瓶中。爾時阿修羅王變形入其<lb
+ n="0342b23" ed="T"/>瓶中。食其甘露妙藥。於是那羅延天見阿修<lb
+ n="0342b24" ed="T"/>羅王入其瓶中。以其金輪就於瓶中側之。其<lb
+ n="0342b25" ed="T"/>阿修羅王半身遂斷。阿修羅作病者。取白芥<lb
+ n="0342b26" ed="T"/>子安悉香胡麻蘇蜜相和。取佉陀羅木長□<lb
+ n="0342b27" ed="T"/>指。一百八段。一呪一燒。稱彼□人名字。即得<lb
+ n="0342b28" ed="T"/>除愈。<lb
+ n="0342b29" ed="T"/>次說印法。<pb n="0342c" id="T21.1281.0342c" ed="T"/><lb
+ n="0342c01" ed="T"/>護身印。二小指相叉。於掌中二無名指押小<lb
+ n="0342c02" ed="T"/>指上。又二中指直竪。二頭指捻二中指上。二<lb
+ n="0342c03" ed="T"/>大指捻中指中節。右轉三匝即名護身。然後<lb
+ n="0342c04" ed="T"/>作一切法事。無有障礙。<lb
+ n="0342c05" ed="T"/>刀印。左手小指名指□上節。大母指押小指<lb
+ n="0342c06" ed="T"/>無名指節上。中指頭指直竪向上。<lb
+ n="0342c07" ed="T"/>輪印。定手風空相捻圓如輪狀。上擲三度向<lb
+ n="0342c08" ed="T"/>所障處打□□一切阿修羅皆悉斷。<lb
+ n="0342c09" ed="T"/>次火印。定手作金剛拳。右手直舒五指微動。<lb
+ n="0342c10" ed="T"/>以左頭指柱右手心能燒一切設覩嚕心爛以<lb
+ n="0342c11" ed="T"/>印大焰向彼指之。想火燒彼如是并護摩必<lb
+ n="0342c12" ed="T"/>使母陀也。<lb
+ n="0342c13" ed="T"/>
+</ab><ab type="juan" subtype="close">那羅延法一卷</ab></div><lb
+ n="0342c14" ed="T"/><div type="w" level="2"><ab type="prose">　　　咸通五年七月五日比丘禪□□</ab></div></div>
+</body></text></TEI>

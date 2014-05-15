@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">五母子經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0555a</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0906b23" ed="T"/><lb
+ n="0906b24" ed="T"/><lb
+ n="0906b25" ed="T"/><lb
+ n="0906b26" ed="T"/>
+<ab type="juan" subtype="open">五母子經</ab><lb
+ n="0906b27" ed="T"/><lb
+ n="0906b28" ed="T"/><byline>吳月氏國居士支謙譯</byline><lb
+ n="0906b29" ed="T"/><div type="jing" level="1"><ab type="prose">昔者有阿羅漢在山中奉行道業。有一小<pb n="0906c" ed="T" id="T14.0555a.0906c"/><lb
+ n="0906c01" ed="T"/>兒年始七歲，大好道法，辭母出家，求作沙<lb
+ n="0906c02" ed="T"/>彌，隨大沙門，於山中學道，給師所須，誦經<lb
+ n="0906c03" ed="T"/>行道，時無有懈。至年八歲得慧眼，能通視<lb
+ n="0906c04" ed="T"/>無極；耳能徹聽，天上、天下所為善惡，皆<lb
+ n="0906c05" ed="T"/>聞知之；身能飛行，所在至到能分一身及<lb
+ n="0906c06" ed="T"/>人自化，無所不作；自知宿命，所從來生，及人<lb
+ n="0906c07" ed="T"/>民、蚑行、蠕動之類所經歷善惡之道，皆悉<lb
+ n="0906c08" ed="T"/>知之。先世宿命為五母子時，便坐自笑。其<lb
+ n="0906c09" ed="T"/>師問：「何等而笑？」沙彌答言：「無所笑也。」師曰：<lb
+ n="0906c10" ed="T"/>「是山中亦無歌唱、伎樂，汝笑嗤我耳？」沙彌<lb
+ n="0906c11" ed="T"/>答言：「不敢笑師，但自笑耳。我一身為五母<lb
+ n="0906c12" ed="T"/>作子。母皆為我晝夜啼哭，感傷愁毒，不能<lb
+ n="0906c13" ed="T"/>自止；常念子憂思，未常忽忘。我自念一身<lb
+ n="0906c14" ed="T"/>而憂毒五家，以是笑耳，不敢笑師。「我與第<lb
+ n="0906c15" ed="T"/>一母作子時，竝隣亦復生子，與我同日而生。<lb
+ n="0906c16" ed="T"/>其子出入行步，我母見之，便悲念：『我子在者，<lb
+ n="0906c17" ed="T"/>亦當出入行步如是。』愁毒淚下如雨，悲言念<lb
+ n="0906c18" ed="T"/>子。「我為第二母作子時，我短命又早死。我<lb
+ n="0906c19" ed="T"/>母見人乳兒，便念乳我，悲哀涕泣，言念我子。<lb
+ n="0906c20" ed="T"/>「我為第三母作子時，我年十歲，復少死。母<lb
+ n="0906c21" ed="T"/>臨食悲哭泣淚，言念：『我子在者，亦當與我共<lb
+ n="0906c22" ed="T"/>食。捨我死去，使我獨食。』哽咽言念我。「復為<lb
+ n="0906c23" ed="T"/>第四母作子時，我薄命先死。我等輩娶婦，<lb
+ n="0906c24" ed="T"/>我母見之，即念：『我子在者，亦當為子娶婦。』言：<lb
+ n="0906c25" ed="T"/>『我何負蒼天而殺我子！』「復為第五母作子時，<lb
+ n="0906c26" ed="T"/>我始年七歲，好道辭家，捨母隨師，入山求<lb
+ n="0906c27" ed="T"/>道，得羅漢道。我母日日啼哭言：『我生一子，<lb
+ n="0906c28" ed="T"/>隨師學道，不知所在，飢飽寒溫，不知生死，<lb
+ n="0906c29" ed="T"/>不復相見。』愁毒言念我子。「是五母適共一會，<pb n="0907a" ed="T" id="T14.0555a.0907a"/><lb
+ n="0907a01" ed="T"/>各各言亡我子，相對啼哭，不能相止。是我<lb
+ n="0907a02" ed="T"/>一身一魄，展轉而與五母腹中作子，固疑惑<lb
+ n="0907a03" ed="T"/>人，而使眾悲哭發狂，但共念我一身耳，各<lb
+ n="0907a04" ed="T"/>欲自殺，是故笑耳。「發念世間凡人，不知死<lb
+ n="0907a05" ed="T"/>當有所至生，皆共言死耳。凡人何能知死<lb
+ n="0907a06" ed="T"/>當有生，作善自得其福，作惡得其殃，不有<lb
+ n="0907a07" ed="T"/>所遺人。在世間皆為惡業，無所畏難，死後當<lb
+ n="0907a08" ed="T"/>入泰山地獄中，苦痛極哉，後悔無所復及。「我<lb
+ n="0907a09" ed="T"/>厭世間勤苦，故辭父母，入山精進求道。今<lb
+ n="0907a10" ed="T"/>我目見畜生、餓鬼、地獄中代之恐怖。今被蒙<lb
+ n="0907a11" ed="T"/>佛恩，得聞經法。今我日夜憐傷五母不能<lb
+ n="0907a12" ed="T"/>自脫反憂，我所求願皆以得，念世間人展<lb
+ n="0907a13" ed="T"/>轉相生，亦復相笑，無有休息。身皆歸土，魂<lb
+ n="0907a14" ed="T"/>當所作，隨其善惡，皆不能自拔。斷其恩愛，<lb
+ n="0907a15" ed="T"/>能離貪欲，可得度脫。我以不復與生死會，<lb
+ n="0907a16" ed="T"/>我恨身以斷，如人不種，當泥洹道最樂，長復<lb
+ n="0907a17" ed="T"/>與勤苦。」為師說之，已便飛去。</ab></div><lb
+ n="0907a18" ed="T"/>
+<ab type="juan" subtype="close">佛說五母子經</ab>
+</body></text></TEI>

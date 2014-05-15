@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">伏婬經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0065</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0863b07" ed="T"/><lb
+ n="0863b08" ed="T"/><lb
+ n="0863b09" ed="T"/><div type="jing" level="1"><lb
+ n="0863b10" ed="T"/>
+<ab type="juan" subtype="open">佛說伏婬經</ab><lb
+ n="0863b11" ed="T"/><lb
+ n="0863b12" ed="T"/><byline>西晉沙門法炬譯</byline><lb
+ n="0863b13" ed="T"/><ab type="prose">聞如是：一時，婆加婆在舍衛城祇樹給孤獨<lb
+ n="0863b14" ed="T"/>園。彼時，居士阿那邠祁至世尊所，到已禮世<lb
+ n="0863b15" ed="T"/>尊足，却住一面。阿那邠祁居士却住一面已，<lb
+ n="0863b16" ed="T"/>白世尊曰：「唯，世尊！世間有幾伏婬而可知者？」<lb
+ n="0863b17" ed="T"/>「汝居士！世間有十伏婬。云何為十？此居士，或<lb
+ n="0863b18" ed="T"/>一伏婬，非法行婬干彼，非法求婬干已，<lb
+ n="0863b19" ed="T"/>亦不自安身，亦不安父母及妻子、客使奴婢、<lb
+ n="0863b20" ed="T"/>沙門婆羅門，不有益事，為善得善得生天上。<lb
+ n="0863b21" ed="T"/>如是，居士！是一伏婬。「復次，居士，或一伏婬，非<lb
+ n="0863b22" ed="T"/>法求婬干彼，非法求婬干已，自安身、父母妻<lb
+ n="0863b23" ed="T"/>子、客使奴婢，而不施沙門婆羅門，為善得善<lb
+ n="0863b24" ed="T"/>身生善處。如是，居士！是一伏婬。「復次，居士！或<lb
+ n="0863b25" ed="T"/>一伏婬，非法求干彼，非法求干已，自安隱身、<lb
+ n="0863b26" ed="T"/>父母妻子、客使奴婢，能施沙門婆羅門，為善<lb
+ n="0863b27" ed="T"/>得善身生善處。如是，居士！是一伏婬。「復次，<lb
+ n="0863b28" ed="T"/>居士！或一伏婬，如法求財，彼如法求財已，不<lb
+ n="0863b29" ed="T"/>自安樂身，不為父母、不為妻子、不為奴婢，亦<pb n="0863c" ed="T" id="T01.0065.0863c"/><lb
+ n="0863c01" ed="T"/>不施沙門婆羅門，為善得善身生善處。如是，<lb
+ n="0863c02" ed="T"/>居士，是一伏婬。「復次，居士！或一伏婬，如法<lb
+ n="0863c03" ed="T"/>求財，彼如法求財已，而自安樂身，及父母妻<lb
+ n="0863c04" ed="T"/>子奴婢，不施與沙門婆羅門，為善得善身生<lb
+ n="0863c05" ed="T"/>善處。如是，居士！是一伏婬。「復次，居士！或一伏<lb
+ n="0863c06" ed="T"/>婬，如法求財，彼如法求財已，而自安樂身，及<lb
+ n="0863c07" ed="T"/>父母妻子奴婢，施與沙門婆羅門，為善得善<lb
+ n="0863c08" ed="T"/>身生善處。如是，居士！是一伏婬。「復次，居士！或<lb
+ n="0863c09" ed="T"/>一伏婬，如法求財不干彼，如法求財不干已，<lb
+ n="0863c10" ed="T"/>亦不自安樂身，亦不為父母妻子奴婢，亦不<lb
+ n="0863c11" ed="T"/>施與沙門婆羅門，為善得善身生善處。如是，<lb
+ n="0863c12" ed="T"/>居士！是一伏婬。「復次，居士！或一伏婬，如法求<lb
+ n="0863c13" ed="T"/>財不干彼，如法求財不干已，自得安樂身及<lb
+ n="0863c14" ed="T"/>父母妻子奴婢，不施與沙門婆羅門，為善得<lb
+ n="0863c15" ed="T"/>善身生善處。如是，居士！是一伏婬。「復次，居士！<lb
+ n="0863c16" ed="T"/>或一伏婬，如法求財不干彼，如法求財不干<lb
+ n="0863c17" ed="T"/>已，自得安樂身，及父母妻子奴婢，施與沙門<lb
+ n="0863c18" ed="T"/>婆羅門，為善得善身生善處。彼得錢財，於中<lb
+ n="0863c19" ed="T"/>染著、極染著，不見禍變，亦不知棄，而貪食之。<lb
+ n="0863c20" ed="T"/>如是，居士！是一伏婬。「復次，居士！或一伏婬，如法<lb
+ n="0863c21" ed="T"/>求錢財不干彼，如法求錢財不干已，自得安<lb
+ n="0863c22" ed="T"/>隱身，及父母妻子奴婢，施與沙門婆羅門，為<lb
+ n="0863c23" ed="T"/>善得善身生善處。彼得錢財，亦不染亦不著，<lb
+ n="0863c24" ed="T"/>亦不於中樂，亦不於中住，亦知是禍變，亦能<lb
+ n="0863c25" ed="T"/>棄捨而食之。如是，居士！是一伏婬。「此居士！彼<lb
+ n="0863c26" ed="T"/>或一伏婬，非法求錢財干彼，非法求錢財干<lb
+ n="0863c27" ed="T"/>已，亦不自安隱身，亦不安隱父母、妻子奴婢，<lb
+ n="0863c28" ed="T"/>亦不施與沙門婆羅門，為善得善身生善處。<lb
+ n="0863c29" ed="T"/>是為，居士！如是伏婬。伏婬我說此弊惡。「此居<pb n="0864a" ed="T" id="T01.0065.0864a"/><lb
+ n="0864a01" ed="T"/>士！或一伏婬，非法求錢財干彼，非法求錢財<lb
+ n="0864a02" ed="T"/>干已，自安隱身，及父母妻子奴婢，不施與沙<lb
+ n="0864a03" ed="T"/>門婆羅門，為善得善身生善處。此居士！此伏<lb
+ n="0864a04" ed="T"/>婬此，伏婬此小勝小勝。「此居士！彼或一伏婬，<lb
+ n="0864a05" ed="T"/>如法求錢財不干彼，如法求錢財不干已，自<lb
+ n="0864a06" ed="T"/>得安樂身，及父母妻子奴婢，施與沙門婆羅<lb
+ n="0864a07" ed="T"/>門，為善得善身生善處。彼得錢財，不染不著、<lb
+ n="0864a08" ed="T"/>不持不樂，知是禍變、棄捨離而食之。如是。居<lb
+ n="0864a09" ed="T"/>士！食婬最勝最妙、最上最好、無上勝。猶若，居<lb
+ n="0864a10" ed="T"/>士！有牛乳，因乳有酪，因酪有醍醐，因醍醐有<lb
+ n="0864a11" ed="T"/>酥，因酥有酪酥，此是最勝最妙無上說。<lb
+ n="0864a12" ed="T"/>如是，居士！此諸伏婬如是伏婬，最勝最妙、極妙<lb
+ n="0864a13" ed="T"/>最上、無上無上。說頌偈曰：<lb
+ n="0864a14" ed="T"/></ab>
+<ab type="verse">
+「非法聚錢財，　　如法如法施；　　<lb
+ n="0864a15" ed="T"/>不施不食之，　　亦不施為福，　　<lb
+ n="0864a16" ed="T"/>二俱為慳濁，　　惡行食此婬。　　<lb
+ n="0864a17" ed="T"/>如法求錢財，　　欲以施為福，　　<lb
+ n="0864a18" ed="T"/>亦施及食之，　　亦能作福德，　　<lb
+ n="0864a19" ed="T"/>二俱不慳濁，　　皆有此伏婬。　　<lb
+ n="0864a20" ed="T"/>有能行智慧，　　伏婬隨所行，　　<lb
+ n="0864a21" ed="T"/>知變有知足，　　知足而食之。　　<lb
+ n="0864a22" ed="T"/>有能行智慧，　　最妙能伏婬。」　　
+</ab><lb
+ n="0864a23" ed="T"/><ab type="prose">佛如是說，居士阿那邠祁聞世尊所說，歡喜<lb
+ n="0864a24" ed="T"/>而樂。<lb
+ n="0864a25" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說伏婬經</ab></div>
+</body></text></TEI>

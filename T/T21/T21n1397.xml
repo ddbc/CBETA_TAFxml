@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">智炬陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1397</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0913c" id="T21.1397.0913c" ed="T"/><lb
+ n="0913c01" ed="T"/><lb
+ n="0913c02" ed="T"/><lb
+ n="0913c03" ed="T"/><div type="jing" level="1"><lb
+ n="0913c04" ed="T"/>
+<ab type="juan" subtype="open">智炬陀羅尼經一卷</ab><lb
+ n="0913c05" ed="T"/><lb
+ n="0913c06" ed="T"/><byline>唐三藏法師提雲般若等奉　制譯</byline><lb
+ n="0913c07" ed="T"/><ab type="prose">如是我聞。一時佛在日月宮中。與無量大菩<lb
+ n="0913c08" ed="T"/>薩眾俱。普賢菩薩文殊師利菩薩。陀羅尼自<lb
+ n="0913c09" ed="T"/>在王菩薩執金剛菩薩。如是等菩薩摩訶薩<lb
+ n="0913c10" ed="T"/>而為上首。<lb
+ n="0913c11" ed="T"/>爾時東方有佛號智炬如來。南方有佛。號金<lb
+ n="0913c12" ed="T"/>光聚如來。西方有佛號實語如來。北方有佛<lb
+ n="0913c13" ed="T"/>號雷音王如來。各從本國而來此會。<lb
+ n="0913c14" ed="T"/>爾時世尊與諸如來及菩薩眾。共在金幢樓<lb
+ n="0913c15" ed="T"/>觀之中。各坐寶嚴師子之座。時日月天子來<lb
+ n="0913c16" ed="T"/>詣佛所。頭頂禮敬諸佛菩薩。以眾妙物而<lb
+ n="0913c17" ed="T"/>為供養。供養畢已退坐一面。互相謂言。我等<lb
+ n="0913c18" ed="T"/>云何從諸如來及菩薩所。而得發起一切眾<lb
+ n="0913c19" ed="T"/>生光明破諸黑闇滿十方智炬陀羅尼耶。以<lb
+ n="0913c20" ed="T"/>是陀羅尼力故。當令我等能為眾生作大明<lb
+ n="0913c21" ed="T"/>炬。說是語時。彼諸如來及菩薩眾。即共同聲<lb
+ n="0913c22" ed="T"/>而說呪曰。<lb
+ n="0913c23" ed="T"/></ab>
+<ab type="dharani">娑野替談<lb
+ n="0913c24" ed="T"/>斫芻達陀斫芻鉢羅婆杜<lb
+ n="0913c25" ed="T"/>羅米他迦羅他伊<lb
+ n="0913c26" ed="T"/>替炭娑蘇囉吒蘇囉拕<lb
+ n="0913c28" ed="T"/>蘇哆娑壹炭娑陛羅<pb n="0914a" id="T21.1397.0914a" ed="T"/><lb
+ n="0914a01" ed="T"/>鞞羅鉢膩遮嚕沒怛儞阿<lb
+ n="0914a02" ed="T"/>囉膩阿囉膩迦羅鉢膩迦羅鉢膩<lb
+ n="0914a03" ed="T"/>咄嚕杜斯咄嚕杜斯陀蘇底陀蘇底地𠼝地𠼝度嚕度嚕<lb
+ n="0914a05" ed="T"/>度囉度囉迦羅迦羅悉<lb
+ n="0914a06" ed="T"/>他娑悉他娑祇羅祇羅祇羅簸耶杜蘇杜蘇遜杜遜<lb
+ n="0914a08" ed="T"/>蒲悉他蘇案怛蘇鷖闥蘇<lb
+ n="0914a09" ed="T"/>伊闥娑鉢膩以竪𠼝提蘇𠼝羯囉羯囉吉𠼝吉𠼝屈嚕屈嚕屈摩屈摩羯摩羯摩羯摩<lb
+ n="0914a12" ed="T"/>鉢膩計魯計魯鷄羅鉢膩羯迦<lb
+ n="0914a13" ed="T"/>𠼝羯迦𠼝羅嚕勃低徒嚕低<lb
+ n="0914a14" ed="T"/>摩訶徒嚕低羯囉羯囉吉󰓑吉󰓑<lb
+ n="0914a15" ed="T"/>必柱斯必柱斯拕蘇拕蘇訶<lb
+ n="0914a16" ed="T"/>蘇訶蘇訶娑鉢膩颯<lb
+ n="0914a17" ed="T"/>婆訶<lb
+ n="0914a18" ed="T"/>姪怛他徒那徵摩訶徒那徵<lb
+ n="0914a19" ed="T"/>窣嚕窣嚕颯婆訶戍訖羅毘<lb
+ n="0914a20" ed="T"/>戍達儞怛羅怛羅颯婆訶<lb
+ n="0914a21" ed="T"/>樹底鉢囉地篦咄嚧咄嚧颯婆<lb
+ n="0914a22" ed="T"/>訶鉢曇摩摩理儞薩埵<lb
+ n="0914a23" ed="T"/>曷囉多勃提戶嚧戶嚧颯婆<lb
+ n="0914a24" ed="T"/>訶薩埵勃提薩埵盧羯儞<lb
+ n="0914a25" ed="T"/>咄嚧咄嚧颯婆訶洛剎拏<lb
+ n="0914a26" ed="T"/>遏質低杜忙鉢唎訶𠼝屈<pb n="0914b" id="T21.1397.0914b" ed="T"/><lb
+ n="0914b01" ed="T"/>嚧屈嚧颯婆訶馱囉馱<lb
+ n="0914b02" ed="T"/>囉摩訶馱囉馱囉馱囉陀囉衍<lb
+ n="0914b03" ed="T"/>底曳颯婆訶蘇跋賴低蘇答篦阿鉢囉底訶多勃提<lb
+ n="0914b05" ed="T"/>馱羅馱羅陀羅衍底曳颯婆<lb
+ n="0914b06" ed="T"/>訶南無壤奴嗢迦寫怛他<lb
+ n="0914b07" ed="T"/>揭多寫南無蘇跋囉拏鉢囉婆矩<lb
+ n="0914b08" ed="T"/>吒暱婆薩寫怛他揭多寫南無<lb
+ n="0914b09" ed="T"/>薩埵婆地那怛他揭多寫南無鼻澁<lb
+ n="0914b10" ed="T"/>摩瑣囉揭是多遏囉是瓢薩怛他揭帝瓢<lb
+ n="0914b11" ed="T"/>悉殿都漫怛囉鉢馱儞颯婆<lb
+ n="0914b12" ed="T"/>訶<lb
+ n="0914b13" ed="T"/></ab>
+<ab type="prose">爾時普賢菩薩告日月天子言。諸天子此陀<lb
+ n="0914b14" ed="T"/>羅尼八十八億諸佛如來。為欲利益諸眾生<lb
+ n="0914b15" ed="T"/>故之所演說。諸天子優曇鉢花猶可易現。此<lb
+ n="0914b16" ed="T"/>陀羅尼出現甚難。諸天子諸佛出世猶可值<lb
+ n="0914b17" ed="T"/>遇。此陀羅尼。得值甚難。此陀羅尼猶可易得。<lb
+ n="0914b18" ed="T"/>誦持之者。斯復轉難。諸天子若欲救拔造五<lb
+ n="0914b19" ed="T"/>逆罪謗正法人。當受阿毘地獄苦者。可於閑<lb
+ n="0914b20" ed="T"/>處淨塗其地隨其所辦種種香花而為供養。<lb
+ n="0914b21" ed="T"/>於三七日中晝夜六時。誦此陀羅尼呪。以是<lb
+ n="0914b22" ed="T"/>陀羅尼威神力故。令阿毘地獄應時破壞為<lb
+ n="0914b23" ed="T"/>百千分。是中眾生即得解脫。何況有人在於<lb
+ n="0914b24" ed="T"/>人間而得聞者。當知是人。則為諸佛及我等<lb
+ n="0914b25" ed="T"/>菩薩之所護念。諸天子於此所說勿生疑惑。<lb
+ n="0914b26" ed="T"/>佛說此經已。日月天眾歡喜奉行。<lb
+ n="0914b27" ed="T"/>
+</ab><ab type="juan" subtype="close">智炬陀羅尼經</ab></div>
+</body></text></TEI>

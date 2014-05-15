@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">解夏經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0063</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0861b07" ed="T"/><lb
+ n="0861b08" ed="T"/><div type="jing" level="1"><lb
+ n="0861b10" ed="T"/>
+<ab type="juan" subtype="open">佛說解夏經</ab><lb
+ n="0861b11" ed="T"/><lb
+ n="0861b12" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
+ n="0861b13" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0861b14" ed="T"/><ab type="prose">如是我聞：一時，佛在王舍城迦蘭陀竹林精<lb
+ n="0861b15" ed="T"/>舍，與五百苾芻眾俱，皆是阿羅漢，諸漏已盡<lb
+ n="0861b16" ed="T"/>所作已辦，除諸重擔逮得己利，盡諸有結心<lb
+ n="0861b17" ed="T"/>善解脫。唯一苾芻現居學位，世尊已為授記，<lb
+ n="0861b18" ed="T"/>見法得法當證滿果。<lb
+ n="0861b19" ed="T"/>爾時，世尊安居既滿，當解夏時，於十五日與<lb
+ n="0861b20" ed="T"/>苾芻眾敷座而坐。會眾坐已，是時，佛告苾芻<lb
+ n="0861b21" ed="T"/>眾言：「我今已得梵行寂靜，是最後身，以無上<lb
+ n="0861b22" ed="T"/>藥斷除諸病。我之弟子，了知諸法皆已通達，<lb
+ n="0861b23" ed="T"/>是故我今說解夏法。諸苾芻眾！我於夏中所<lb
+ n="0861b24" ed="T"/>有身口意業，汝等可忍？」<lb
+ n="0861b25" ed="T"/>是時，尊者舍利弗聞佛語已，從座而起偏袒<lb
+ n="0861b26" ed="T"/>右肩，右膝著地合掌向佛，而白佛言：「世尊！如<lb
+ n="0861b27" ed="T"/>佛所說，我今已得梵行寂靜，乃至身口意業<lb
+ n="0861b28" ed="T"/>可忍者。我等知佛，身口意業無諸過失，我等<lb
+ n="0861b29" ed="T"/>苾芻今無可忍。於意云何？我佛世尊，難調者<pb n="0861c" ed="T" id="T01.0063.0861c"/><lb
+ n="0861c01" ed="T"/>能調，無止息者善為止息，無安隱者而善安<lb
+ n="0861c02" ed="T"/>慰，未寂靜者令得寂靜，如來善了正道，善說<lb
+ n="0861c03" ed="T"/>正道，開示正道，乃至我等樂聲聞菩提者，佛<lb
+ n="0861c04" ed="T"/>為善說，令聲聞等如理修行而證聖果。是故<lb
+ n="0861c05" ed="T"/>我等，於佛世尊身口意法而無可忍。」<lb
+ n="0861c06" ed="T"/>爾時，尊者舍利弗白佛言：「世尊！我今對佛身<lb
+ n="0861c07" ed="T"/>口意業所有不善，求佛可忍。」<lb
+ n="0861c08" ed="T"/>佛告舍利弗：「汝今所有身口意業，我當忍可。<lb
+ n="0861c09" ed="T"/>於意云何？汝，舍利弗！具戒多聞，少欲知足，斷<lb
+ n="0861c10" ed="T"/>諸煩惱，發大精進，安住正念，具等引慧、聞<lb
+ n="0861c11" ed="T"/>慧、捷慧、利慧、出離慧、了達慧、廣大<lb
+ n="0861c12" ed="T"/>清淨慧、甚深慧、無等慧，具大慧寶。<lb
+ n="0861c13" ed="T"/>未見者令見，未調伏者令得調伏，未聞法者<lb
+ n="0861c14" ed="T"/>而為說法，具瞋恚者而令歡喜，能為四眾說<lb
+ n="0861c15" ed="T"/>法無倦。譬如金輪王子，而受灌頂繼紹王位，<lb
+ n="0861c16" ed="T"/>依法而治。汝，舍利弗！亦復如是，為我之子，<lb
+ n="0861c17" ed="T"/>受灌頂法紹法王位，如我所轉無上法輪，如<lb
+ n="0861c18" ed="T"/>我漏盡證得解脫。是故汝，舍利弗！所有三業<lb
+ n="0861c19" ed="T"/>我今忍可。」時舍利弗聞佛忍可，投誠禮謝。復<lb
+ n="0861c20" ed="T"/>白佛言：「世尊！如佛為我忍可三業，於此會中<lb
+ n="0861c21" ed="T"/>五百苾芻，身口意業所有不善，唯願世尊，亦<lb
+ n="0861c22" ed="T"/>如是忍。」佛告舍利弗：「五百苾芻所有三業，我<lb
+ n="0861c23" ed="T"/>亦可忍。於意云何？此五百苾芻皆是阿羅漢，<lb
+ n="0861c24" ed="T"/>諸漏已盡所作已辦，除諸重擔逮得己利，盡<lb
+ n="0861c25" ed="T"/>諸有結心善解脫，唯一苾芻現居學位，而此<lb
+ n="0861c26" ed="T"/>苾芻我已授記，見法得法當證滿果。舍利弗！<lb
+ n="0861c27" ed="T"/>是故我於五百苾芻所有三業，皆悉可忍。」<lb
+ n="0861c28" ed="T"/>爾時，舍利弗重白佛言：「世尊！我與五百苾芻<lb
+ n="0861c29" ed="T"/>眾等，所有三業佛已可忍。我今有疑，當復啟<pb n="0862a" ed="T" id="T01.0063.0862a"/><lb
+ n="0862a01" ed="T"/>請。願佛世尊！為我分別。世尊！此五百苾芻中，<lb
+ n="0862a02" ed="T"/>幾苾芻得三明法？復幾苾芻得俱解脫？復幾<lb
+ n="0862a03" ed="T"/>苾芻得慧解脫？」<lb
+ n="0862a04" ed="T"/>佛告舍利弗：「此五百苾芻中，九十苾芻得三<lb
+ n="0862a05" ed="T"/>明法，九十苾芻得俱解脫，餘者苾芻得慧解<lb
+ n="0862a06" ed="T"/>脫。舍利弗！如是苾芻，盡諸煩惱，皆住真實。」<lb
+ n="0862a07" ed="T"/>爾時會中有一尊者，名嚩儗舍，作如是念：「我<lb
+ n="0862a08" ed="T"/>今對佛苾芻眾前，以解夏伽陀伸於讚歎。」是<lb
+ n="0862a09" ed="T"/>時尊者嚩儗舍，作是念已，從座而起，偏袒右<lb
+ n="0862a10" ed="T"/>肩右膝著地，合掌恭肅，說伽陀曰：<lb
+ n="0862a11" ed="T"/></ab>
+<ab type="verse">
+「解夏十五日，　　清淨行律儀，　　<lb
+ n="0862a12" ed="T"/>五百苾芻眾，　　悉斷煩惱縛。　　<lb
+ n="0862a13" ed="T"/>皆盡諸漏法，　　而證聖果位，　　<lb
+ n="0862a14" ed="T"/>內寂外善調，　　解脫而離有。　　<lb
+ n="0862a15" ed="T"/>盡生死邊際，　　所作皆已辦，　　<lb
+ n="0862a16" ed="T"/>無明我慢結，　　斷盡無有餘。　　<lb
+ n="0862a17" ed="T"/>我佛最上尊，　　斷諸邪念法，　　<lb
+ n="0862a18" ed="T"/>及斷有漏法，　　善除愛病苦。　　<lb
+ n="0862a19" ed="T"/>愛滅不復生，　　離取大師子，　　<lb
+ n="0862a20" ed="T"/>盡諸有怖畏，　　唯我佛世尊。　　<lb
+ n="0862a21" ed="T"/>譬如金輪王，　　千子常圍繞，　　<lb
+ n="0862a22" ed="T"/>善治四天下，　　調伏四海邊。　　<lb
+ n="0862a23" ed="T"/>又如戰得勝，　　為最上調御，　　<lb
+ n="0862a24" ed="T"/>聲聞得三明，　　離死法亦然。　　<lb
+ n="0862a25" ed="T"/>佛子皆如是，　　證滅不復生，　　<lb
+ n="0862a26" ed="T"/>我今禮法王，　　無上大日尊。」　　
+</ab><lb
+ n="0862a27" ed="T"/><ab type="prose">是時嚩儗舍苾芻說此伽陀已，復還本座。<lb
+ n="0862a28" ed="T"/>爾時尊者舍利弗與諸苾芻，聞佛宣說解夏<lb
+ n="0862a29" ed="T"/>之法，心生快利，踊躍歡喜，信受奉行。<pb n="0862b" ed="T" id="T01.0063.0862b"/><lb
+ n="0862b01" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說解夏經</ab></div>
+</body></text></TEI>

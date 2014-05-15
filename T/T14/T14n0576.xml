@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說轉有經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0576</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0949a20" ed="T"/><lb
+ n="0949a21" ed="T"/><lb
+ n="0949a22" ed="T"/><lb
+ n="0949a23" ed="T"/>
+<ab type="juan" subtype="open">佛說轉有經</ab><lb
+ n="0949a24" ed="T"/><lb
+ n="0949a25" ed="T"/><byline>元魏天竺三藏佛陀扇多譯</byline><lb
+ n="0949a26" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，婆伽婆住王舍城迦蘭陀竹<lb
+ n="0949a27" ed="T"/>林，大比丘眾之所圍遶，一千二百五十人俱，<lb
+ n="0949a28" ed="T"/>菩薩摩訶薩無量無邊。爾時，摩伽陀王頻婆<lb
+ n="0949a29" ed="T"/>娑羅出王舍城，往至迦蘭陀竹林住處。到<pb n="0949b" ed="T" id="T14.0576.0949b"/><lb
+ n="0949b01" ed="T"/>佛所已，頭面禮足，遶佛三匝，却坐一面。爾<lb
+ n="0949b02" ed="T"/>時，如來知頻婆娑羅王坐一面已，告言：「大<lb
+ n="0949b03" ed="T"/>王！譬如有人於睡夢中，共彼女寶行於欲事，<lb
+ n="0949b04" ed="T"/>彼人覺已憶彼女寶。大王於意云何？夢中女<lb
+ n="0949b05" ed="T"/>寶為是有不？」王即答言：「不也。世尊！」<lb
+ n="0949b06" ed="T"/>復問王言：「大王！於意云何？彼人若執夢中<lb
+ n="0949b07" ed="T"/>女者，是黠慧不？」王即答言：「不也。世尊！何<lb
+ n="0949b08" ed="T"/>以故？彼夢中女畢竟無故，云何而有境界欲<lb
+ n="0949b09" ed="T"/>事？彼人徒勞。」佛言：「大王！如是，一切愚癡凡<lb
+ n="0949b10" ed="T"/>夫，以不曾聞佛正法故，眼見諸色，悅豫於心，<lb
+ n="0949b11" ed="T"/>即執為實；以執著故則有繫縛，以繫縛故則<lb
+ n="0949b12" ed="T"/>有染著；以染著故，則生貪欲瞋癡等業。若身<lb
+ n="0949b13" ed="T"/>若口若意等業，然彼身業所作即滅，滅已不<lb
+ n="0949b14" ed="T"/>依東方而住，如是不依南西北方上下而住，<lb
+ n="0949b15" ed="T"/>隨命終時，轉彼有識而現後心。大王！彼識<lb
+ n="0949b16" ed="T"/>不壞，隨業盡處彼業能現，亦如睡夢覺時女<lb
+ n="0949b17" ed="T"/>寶。如是，大王！最後滅識而生後識，或在地<lb
+ n="0949b18" ed="T"/>獄，或在餓鬼，或在畜生，或阿修羅，或人，或<lb
+ n="0949b19" ed="T"/>天，彼最後識取最後生，識順彼生。如是心<lb
+ n="0949b20" ed="T"/>識隨業所受，然無有法，從此世間至彼世間<lb
+ n="0949b21" ed="T"/>而受生也。「大王！滅後識心是名為滅，是初<lb
+ n="0949b22" ed="T"/>心識如託生者，是彼後生。大王！轉後識時，<lb
+ n="0949b23" ed="T"/>彼法實不從彼處來而至於此，初識生已亦<lb
+ n="0949b24" ed="T"/>無所至。何以故？法性相故。大王！最後識心<lb
+ n="0949b25" ed="T"/>是後識空，業是業空，生是生空，最初心識<lb
+ n="0949b26" ed="T"/>是初識空，所生之處是生處空，而於彼處不<lb
+ n="0949b27" ed="T"/>失業果。大王！最後生識於彼即滅，後不斷<lb
+ n="0949b28" ed="T"/>心，識心順行隨在何處所受業報即往受故。」<lb
+ n="0949b29" ed="T"/>爾時，世尊而說偈言：<pb n="0949c" ed="T" id="T14.0576.0949c"/><lb
+ n="0949c01" ed="T"/></ab>
+<ab type="verse">
+「善逝後說時，　　所有諸言語，　　<lb
+ n="0949c02" ed="T"/>皆是假名說，　　假名想住故。　　<lb
+ n="0949c03" ed="T"/>離於言語法，　　而無有可說，　　<lb
+ n="0949c04" ed="T"/>隨所有言說，　　而說彼諸法。　　<lb
+ n="0949c05" ed="T"/>彼不在於彼，　　法眼見無色，　　<lb
+ n="0949c06" ed="T"/>所言見色者，　　世間執著故。　　<lb
+ n="0949c07" ed="T"/>說世法為實，　　無而和合見，　　<lb
+ n="0949c08" ed="T"/>是如來所說，　　是名方便地。　　<lb
+ n="0949c09" ed="T"/>若為真實說，　　眼則不見色，　　<lb
+ n="0949c10" ed="T"/>意不知諸法，　　此是最祕密。　　<lb
+ n="0949c11" ed="T"/>世間我慢說，　　名本空無名，　　<lb
+ n="0949c12" ed="T"/>一切法無名，　　而以假名說。」　　
+</ab><lb
+ n="0949c13" ed="T"/><ab type="prose">說此法門時，頻婆娑羅王，及諸大眾、人、天、<lb
+ n="0949c14" ed="T"/>龍、神、乾闥婆等，聞佛所說，皆大歡喜，信受<lb
+ n="0949c15" ed="T"/>奉行。</ab></div><lb
+ n="0949c16" ed="T"/>
+<ab type="juan" subtype="close">佛說轉有經</ab>
+</body></text></TEI>

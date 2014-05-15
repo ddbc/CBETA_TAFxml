@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說阿遬達經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0141</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0863a18" ed="T"/><lb
+ n="0863a19" ed="T"/><lb
+ n="0863a20" ed="T"/><div type="jing" level="1"><lb
+ n="0863a21" ed="T"/>
+<ab type="juan" subtype="open">佛說阿遬達經</ab><lb
+ n="0863a22" ed="T"/><lb
+ n="0863a23" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
+ n="0863a24" ed="T"/><ab type="prose">聞如是：佛在舍衛國，告諸比丘：「皆聽我所言<lb
+ n="0863a25" ed="T"/>致難，父母生子養育哺乳，長大欲令見日月<lb
+ n="0863a26" ed="T"/>光，父母以天下萬物示子，欲令知善惡。諸比<lb
+ n="0863a27" ed="T"/>丘！如是子以一肩負父，復以一肩負母，至壽<lb
+ n="0863a28" ed="T"/>竟乃止，復以天珍寶、明月珠、玉璧、琉璃、珊瑚，<lb
+ n="0863a29" ed="T"/>自生禽獸白珠，皆以著身上，尚未足報償父<pb n="0863b" ed="T" id="T02.0141.0863b"/><lb
+ n="0863b01" ed="T"/>母恩。父母喜殺生，子能諫止父母，令不復殺<lb
+ n="0863b02" ed="T"/>生；父母有惡心，子常諫止，令常念善無有惡<lb
+ n="0863b03" ed="T"/>心；父母愚癡少智不知經道，以佛經告之；父<lb
+ n="0863b04" ed="T"/>母貪狼嫉妬，子從順諫之；父母不知善惡，子<lb
+ n="0863b05" ed="T"/>稍以順告之。諸比丘！子當如是。為人作子，衣<lb
+ n="0863b06" ed="T"/>服欲好於父母，食欲甘於父母，語欲高父<lb
+ n="0863b07" ed="T"/>母上，至死後當入地獄中。為人作子，當孝順<lb
+ n="0863b08" ed="T"/>事父母，持行如是者，死當生天上。」諸比丘皆<lb
+ n="0863b09" ed="T"/>稽首，俱聞善教。<lb
+ n="0863b10" ed="T"/>佛言：「有大賢者優婆塞字遬達，為子取婦，<lb
+ n="0863b11" ed="T"/>婦字玉耶。玉耶大豪富家女，不以姑妐之<lb
+ n="0863b12" ed="T"/>禮事遬達，亦不敬其夫婿積數年。遬達亦賢<lb
+ n="0863b13" ed="T"/>者優婆塞，不言不語，到佛所自責：『我為子<lb
+ n="0863b14" ed="T"/>取婦，國中豪富家子，心大歡喜。今事我數<lb
+ n="0863b15" ed="T"/>年，憍慢自恣不以婦禮，願佛明日自屈到我<lb
+ n="0863b16" ed="T"/>家。』佛默然不應，默然不應者旦日欲往。明<lb
+ n="0863b17" ed="T"/>日佛到遬達家，其婦不出，佛以神化之，心喜，<lb
+ n="0863b18" ed="T"/>乃出見佛，前為佛作禮。佛言：『汝為人作婦，用<lb
+ n="0863b19" ed="T"/>何事夫婿？』玉耶言：『當以身事夫。』佛言：『婦人<lb
+ n="0863b20" ed="T"/>事夫有三惡四善。何等為三惡？一惡者，如與<lb
+ n="0863b21" ed="T"/>惰人共居不欲作事，罵詈至暮，嗜美好鬪。二<lb
+ n="0863b22" ed="T"/>惡者，如與怨家共居，不持一心向夫，不願夫<lb
+ n="0863b23" ed="T"/>善，不願夫成就，當願夫死。三惡者，如與偷盜<lb
+ n="0863b24" ed="T"/>共居，不惜夫物，但念欺夫，常欲自好，不順子<lb
+ n="0863b25" ed="T"/>孫，但念婬泆。如是死者，展轉惡道中無有出<lb
+ n="0863b26" ed="T"/>時，是為三惡。何等為四善？一善者，婦見夫從<lb
+ n="0863b27" ed="T"/>外來，當如母見子，夫有急緩，常欲身代之。二<lb
+ n="0863b28" ed="T"/>善者，婦事夫當如弟見兄，上下相承事，夫惡<lb
+ n="0863b29" ed="T"/>不以為惡，不念婬泆常隨夫語。三善者，婦事<pb n="0863c" ed="T" id="T02.0141.0863c"/><lb
+ n="0863c01" ed="T"/>夫當如朋友，相見輒相念，夫從他方來，當如<lb
+ n="0863c02" ed="T"/>見父兄，心中歡喜和顏向之，婦持心當如是。<lb
+ n="0863c03" ed="T"/>四善者，婦事夫當如婢，夫大罵亦不以為惡，<lb
+ n="0863c04" ed="T"/>捶擊亦不以為劇，走使亦不以為勞苦，夫雖<lb
+ n="0863c05" ed="T"/>惡，常念事善，當顧子孫，如是死者常生天<lb
+ n="0863c06" ed="T"/>上，亦於天上饒侍者，好衣、珍寶常在身上。』佛<lb
+ n="0863c07" ed="T"/>言：『三惡四善，汝欲持何所事夫？』玉耶言：『婦人<lb
+ n="0863c08" ed="T"/>事夫不可用三惡，四善者可與共居，從今以<lb
+ n="0863c09" ed="T"/>去，請如婢事大夫子。』玉耶即膝行承事遬達，<lb
+ n="0863c10" ed="T"/>以夫婦之禮事其婿。」<lb
+ n="0863c11" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說阿遬達經</ab></div>
+</body></text></TEI>

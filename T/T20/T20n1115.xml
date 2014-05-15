@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">觀自在菩薩阿麼𪘨法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1115</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0502b" id="T20.1115.0502b" ed="T"/><lb
+ n="0502b01" ed="T"/><lb
+ n="0502b02" ed="T"/><lb
+ n="0502b03" ed="T"/>
+<ab type="juan" subtype="open">觀自在菩薩阿麼𪘨法</ab><lb
+ n="0502b04" ed="T"/><lb
+ n="0502b05" ed="T"/><div type="jing" level="1"><ab type="prose">昔于闐國有清信士。精心持念觀自在菩薩<lb
+ n="0502b06" ed="T"/>真言。願見大聖彌歷年歲不遂宿心。執志<lb
+ n="0502b07" ed="T"/>不易倍復精勤。後於一夕聞空中聲曰。汝往<lb
+ n="0502b08" ed="T"/>隣國謁彼某王。行者依言即往彼國。聞王法<lb
+ n="0502b09" ed="T"/>令非常嚴酷。有犯必刑。修行者遂謁其王。<lb
+ n="0502b10" ed="T"/>因蒙汲引詢問所欲白。以本求遂近入後宮。<lb
+ n="0502b11" ed="T"/>悉如佛剎土。王乃觀自在菩薩也。行者白菩<lb
+ n="0502b12" ed="T"/>薩曰。大聖治化豈用於刑戮。大悲何在。菩薩<lb
+ n="0502b13" ed="T"/>告曰。此土眾生剛強難制。吾慜誘道分身為<lb
+ n="0502b14" ed="T"/>王。所刑戮者皆化人耳。使彼獷俗畏威從風。<lb
+ n="0502b15" ed="T"/>政令若成吾當隱矣。行者被王留住數月。通<lb
+ n="0502b16" ed="T"/>悟大乘後乃辭歸。默然而許。修行者白菩薩<lb
+ n="0502b17" ed="T"/>言。弟子有幸遇。大聖慈悲得見聞法。親沐<lb
+ n="0502b18" ed="T"/>慈化十二秊來方獲斯驗。於未來世求見菩<lb
+ n="0502b19" ed="T"/>薩者。宿心不易久受勤苦。空無所成。疑心一<lb
+ n="0502b20" ed="T"/>起謗法獲罪。唯願慈悲示未來法要。菩薩告<lb
+ n="0502b21" ed="T"/>言。我有阿麼𪘨真言章句。今受與汝。供養簡<lb
+ n="0502b22" ed="T"/>易。又時日不多。志心誦持。吾當現身滿彼<lb
+ n="0502b23" ed="T"/>所願。修行者既蒙教誨辭歸本國流傳。信士<lb
+ n="0502b24" ed="T"/>五天獲驗其數非一。但依教精修皆見菩薩。<lb
+ n="0502b25" ed="T"/>此五濁津梁苦海艥觀自在阿麼𪘨真言曰。<lb
+ n="0502b26" ed="T"/></ab>
+<ab type="dharani">曩謨囉怛曩怛囉夜野曩莫阿哩野嚩路枳帝<lb
+ n="0502b27" ed="T"/>濕嚩囉野󰂛地薩怛嚩野摩賀薩怛嚩<lb
+ n="0502b28" ed="T"/>野摩賀迦嚕抳迦野怛儞也他阿麼𪘨鉢囉麼<lb
+ n="0502b29" ed="T"/>𪘨尾麼𪘨多囉𪘨三鉢囉比野𪘨伊里寧只里<pb n="0502c" id="T20.1115.0502c" ed="T"/><lb
+ n="0502c01" ed="T"/>寧吉里寧阿嚕賀寧儞嚕賀寧馱囉寧馱羅<lb
+ n="0502c02" ed="T"/>寧馱跛寧阿嚩多囉寧薩嚩多囉寧󰽫跛寧阿<lb
+ n="0502c03" ed="T"/>󰽫跛寧曩頗曩頗曩頗寧曩拏曩拏曩拏寧住<lb
+ n="0502c04" ed="T"/>住寧娑密栗殿覩銘阿舍麼曩跛囉<lb
+ n="0502c05" ed="T"/>布哩馱寧演曩莫阿哩也嚩路枳帝濕嚩囉野<lb
+ n="0502c06" ed="T"/>娑嚩賀<lb
+ n="0502c07" ed="T"/></ab>
+<ab type="prose">復次若持誦此真言者。於閑淨處或阿蘭若。<lb
+ n="0502c08" ed="T"/>於舍利塔前置觀自在菩薩隨力供養清淨洗<lb
+ n="0502c09" ed="T"/>浴。食淨食獨處道場。一日一夜持念。達曉大<lb
+ n="0502c10" ed="T"/>聖當見。諸願滿足。眾人愛敬。得宿命智。能證<lb
+ n="0502c11" ed="T"/>十地三昧現前。若犯五逆重罪。兩日雨宿當<lb
+ n="0502c12" ed="T"/>見。<lb
+ n="0502c13" ed="T"/>爾時彼王菩薩說是真言已告行者言。此真<lb
+ n="0502c14" ed="T"/>言有大神力。能滅眾生一切業障。速獲神驗<lb
+ n="0502c15" ed="T"/>所求如意。若欲持此真言求見觀自在菩薩<lb
+ n="0502c16" ed="T"/>者。結護加持供養儀軌並依大教蘇悉地經。<lb
+ n="0502c17" ed="T"/>及金剛頂瑜伽所說次第。先須志心誦滿千<lb
+ n="0502c18" ed="T"/>遍。於清淨處或阿蘭若。或於山林或清淨伽<lb
+ n="0502c19" ed="T"/>藍舍利塔前。如法建立觀自在菩薩道場。置<lb
+ n="0502c20" ed="T"/>觀音像。隨其力分精誠供養。清淨澡浴著新<lb
+ n="0502c21" ed="T"/>淨衣。慎護三業勿忘喜怒。一日一夜獨處斷<lb
+ n="0502c22" ed="T"/>一切語。心不異緣專想觀音。心不間斷誦此<lb
+ n="0502c23" ed="T"/>真言。燒沈水香或燒五味和香。香煙勿令斷<lb
+ n="0502c24" ed="T"/>絕。念念相續一心求見菩薩。於壇四角各置<lb
+ n="0502c25" ed="T"/>一燒。又各置一盃香水。一者石密漿一是淨<lb
+ n="0502c26" ed="T"/>牛乳。一是欝金香水。一是如常白檀香水。其<lb
+ n="0502c27" ed="T"/>供養餅菓粥󰕖等。平旦所獻󰕖食。日別齋時<lb
+ n="0502c28" ed="T"/>盡須收却。送安淨處施諸烏鳥。又下新造飲<lb
+ n="0502c29" ed="T"/>食供養。至暮間准前送却。又下新造成者供<pb n="0503a" id="T20.1115.0503a" ed="T"/><lb
+ n="0503a01" ed="T"/>養乃至天明日夜之中不得輒有昏沈懈怠<lb
+ n="0503a02" ed="T"/>恐難得見。又想菩薩毫相之中有兩道光明。<lb
+ n="0503a03" ed="T"/>一道直入諸地獄中。救苦眾生令得解脫。一<lb
+ n="0503a04" ed="T"/>光來入修行者頂。想遍己身。眾惡諸業皆悉<lb
+ n="0503a05" ed="T"/>消除。內外清淨。如是觀想念誦志心必見我。<lb
+ n="0503a06" ed="T"/>我當為彼現身滿其所願。汝可受持。設有曾<lb
+ n="0503a07" ed="T"/>犯五無間重罪者。兩日兩夜精勤念誦必當<lb
+ n="0503a08" ed="T"/>得見。何況本清淨者。除不志心。無畏觀自在<lb
+ n="0503a09" ed="T"/>菩薩畫像法。一名阿麼𪘨觀自在菩薩像。如<lb
+ n="0503a10" ed="T"/>波羅密菩薩形。三目四臂乘白師子座頭向<lb
+ n="0503a11" ed="T"/>左膝下首戴寶冠。以白蓮花嚴飾前。二手執<lb
+ n="0503a12" ed="T"/>鳳頭箜篌。左一手掌摩竭魚。右一手持吉祥<lb
+ n="0503a13" ed="T"/>鳥白色。左足屈在師子項上。右足垂下嚴以<lb
+ n="0503a14" ed="T"/>天衣纓絡。通身光焰面貌慈悲。向左諦觀其<lb
+ n="0503a15" ed="T"/>印以二羽合芙蓉二風如鉤當心。每至娑嚩<lb
+ n="0503a16" ed="T"/>賀字。即動其鉤。契誠心念一百八不散印為<lb
+ n="0503a17" ed="T"/>一坐之修行。須遣助伴持珠記數。如此一日<lb
+ n="0503a18" ed="T"/>三時並如此儀軌。<lb
+ n="0503a19" ed="T"/>
+</ab><ab type="juan" subtype="close">觀自在菩薩阿麼𪘨法</ab></div>
+</body></text></TEI>

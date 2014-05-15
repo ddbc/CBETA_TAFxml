@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛治身經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0795</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0739c23" ed="T"/><lb
+ n="0739c24" ed="T"/><lb
+ n="0739c25" ed="T"/><lb
+ n="0739c26" ed="T"/>
+<ab type="juan" subtype="open">佛治身經</ab><lb
+ n="0739c27" ed="T"/><lb
+ n="0739c28" ed="T"/><byline>失譯人名今附西晉錄</byline><lb
+ n="0739c29" ed="T"/><div type="jing" level="1"><ab type="prose">佛言：「當學。工語不？沙門法行，獨一處坐，但當<pb n="0740a" ed="T" id="T17.0795.0740a"/><lb
+ n="0740a01" ed="T"/>正意。一處一臥一行不？中正，一為曉身。受經<lb
+ n="0740a02" ed="T"/>亦獨居。還使千人一人勝，千軍中能得勝；<lb
+ n="0740a03" ed="T"/>一人能勝身，是為勝。軍中勝，勝勝者，不如<lb
+ n="0740a04" ed="T"/>勝餘勝；己勝身，常為勝。無力亦不勝，摩汎藍<lb
+ n="0740a05" ed="T"/>亦不能己勝，不能作不勝，比丘勝乃不勝。先為<lb
+ n="0740a06" ed="T"/>自身定正教，後教餘，為諸輩如我。自身上頭<lb
+ n="0740a07" ed="T"/>隨法行，便教餘人，如是易教。己身如是，如<lb
+ n="0740a08" ed="T"/>教他人，已得身教意，不復難教餘。欲教餘，先<lb
+ n="0740a09" ed="T"/>自教，還使自教，從身教得黠。為自身他故，<lb
+ n="0740a10" ed="T"/>多人亦莫犯。無有極自身，為自念無有極。自<lb
+ n="0740a11" ed="T"/>歸無有過身自歸，不如自歸諦。教身已黠，得<lb
+ n="0740a12" ed="T"/>歸已黠，便得法已黠，便得戒已黠。昆弟中不<lb
+ n="0740a13" ed="T"/>復憂已黠，便得樂已黠，不復憂自身，自歸身<lb
+ n="0740a14" ed="T"/>亦得歸他人。己身無有極，教一切從苦得脫。」<lb
+ n="0740a15" ed="T"/>問曰：「何等為工語？」師曰：「說三十七品經為工<lb
+ n="0740a16" ed="T"/>語；謂所說不亂人意，亦為工語。」「何等為法行？」<lb
+ n="0740a17" ed="T"/>「謂不離二百五十戒，是為法行。」「何等為一為<lb
+ n="0740a18" ed="T"/>曉身？」「謂知分別身中事。」「何等為軍中人能得<lb
+ n="0740a19" ed="T"/>勝？」「謂人不能勝惡。」「何等為一人能勝身？」「謂意<lb
+ n="0740a20" ed="T"/>念惡，能自制斷，是為勝身。」「何等為身意教？」「謂<lb
+ n="0740a21" ed="T"/>身受七戒，意受三戒。」「何等為多人亦不犯？」「謂<lb
+ n="0740a22" ed="T"/>等心使人不墮結。」</ab></div><lb
+ n="0740a23" ed="T"/>
+<ab type="juan" subtype="close">佛治身經</ab>
+</body></text></TEI>

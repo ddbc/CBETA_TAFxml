@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說施一切無畏陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1373</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0889c14" ed="T"/><lb
+ n="0889c15" ed="T"/><lb
+ n="0889c16" ed="T"/><div type="jing" level="1"><lb
+ n="0889c17" ed="T"/>
+<ab type="juan" subtype="open">佛說施一切無畏陀羅尼經</ab><lb
+ n="0889c18" ed="T"/><lb
+ n="0889c19" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
+ n="0889c20" ed="T"/>傳法大師賜紫臣施護等奉　詔譯</byline><lb
+ n="0889c21" ed="T"/><ab type="prose">如是我聞。一時世尊。遊行到於摩伽陀國菴<lb
+ n="0889c22" ed="T"/>沒羅林。住韋提呬山帝釋巖中。<lb
+ n="0889c23" ed="T"/>爾時帝釋天主來詣佛所。前白佛言世尊。我<lb
+ n="0889c24" ed="T"/>有怖畏謂阿修羅。於長夜中來相嬈亂。阿修<lb
+ n="0889c25" ed="T"/>羅者我之怨敵。惟願世尊為我宣說擁護法<lb
+ n="0889c26" ed="T"/>門。<lb
+ n="0889c27" ed="T"/>爾時世尊告帝釋天主言。天主我有陀羅尼。<lb
+ n="0889c28" ed="T"/>名施一切無畏。此法善能作一切事。能除一<lb
+ n="0889c29" ed="T"/>切病。復能禁止一切傍生。能解一切怨縛。若<pb n="0890a" id="T21.1373.0890a" ed="T"/><lb
+ n="0890a01" ed="T"/>有阿修羅及諸羅剎部多一切邪異。乃至一<lb
+ n="0890a02" ed="T"/>切諸惡鬼神之所執持。謂邪惡所執。天執龍<lb
+ n="0890a03" ed="T"/>執夜叉執乾闥婆執。緊那羅執頻那夜迦執。<lb
+ n="0890a04" ed="T"/>母鬼等執皆悉消滅。又復若有吸精氣者。食<lb
+ n="0890a05" ed="T"/>華鬘者障產生者。食不淨者皆悉除遣。又復<lb
+ n="0890a06" ed="T"/>若有一切瘧疾。及風黃痰癊等諸疾病亦悉<lb
+ n="0890a07" ed="T"/>消散。一切鬪戰諍訟陣敵皆悉破壞。我今為<lb
+ n="0890a08" ed="T"/>汝說此陀羅尼而作擁護。陀羅尼曰。<lb
+ n="0890a09" ed="T"/></ab>
+<ab type="dharani">怛󰍕他伊抳彌抳鉢囉彌抳<lb
+ n="0890a10" ed="T"/>鉢囉彌抳哩吾哩謨里謨瑟<lb
+ n="0890a11" ed="T"/>恥那胝嚩胝珂囉胝珂囉尼<lb
+ n="0890a12" ed="T"/>誐拏尼誐拏鉢囉誐尼誐𧹞誐尼<lb
+ n="0890a13" ed="T"/>謨尼鉢囉底謨尼哥里<lb
+ n="0890a14" ed="T"/>鉢囉哥里贊抳鉢囉底<lb
+ n="0890a15" ed="T"/>贊抳尾詣鉢囉底尾詣阿底尾<lb
+ n="0890a16" ed="T"/>詣蘇那吾拏謨訶鉢囉<lb
+ n="0890a17" ed="T"/>謨訶謨拏鉢囉謨拏<lb
+ n="0890a18" ed="T"/>那設儞鉢囉那設儞馱嚩儞<lb
+ n="0890a19" ed="T"/>鉢囉馱嚩儞嚩洛誐儞<lb
+ n="0890a20" ed="T"/>鉢囉嚩洛誐儞涅哩多儞<lb
+ n="0890a21" ed="T"/>鉢囉涅哩多儞骨嚕達儞<lb
+ n="0890a22" ed="T"/>阿底骨嚕達儞賀那賀那尾賀那<lb
+ n="0890a23" ed="T"/>尾賀那薩哩嚩訥瑟吒鉢囉訥<lb
+ n="0890a24" ed="T"/>瑟吒那設野薩哩嚩跋野鉢囉<lb
+ n="0890a25" ed="T"/>那犖叉犖叉𤚥薩哩嚩<lb
+ n="0890a26" ed="T"/>咩提跋野訥瑟吒設咄嚕怛塞<lb
+ n="0890a27" ed="T"/>哥囉能瑟吒嚕波捺囉吠毘藥<lb
+ n="0890a28" ed="T"/>薩波哩嚩囕詰禰詰禰薩哩嚩<pb n="0890b" id="T21.1373.0890b" ed="T"/><lb
+ n="0890b01" ed="T"/>薩埵呬帝囉帝那莫薩哩嚩沒<lb
+ n="0890b02" ed="T"/>馱喃莎賀<lb
+ n="0890b03" ed="T"/></ab>
+<ab type="prose">此施一切無畏陀羅尼。若持誦者。當以淨線<lb
+ n="0890b04" ed="T"/>加持四十一遍繫於頂上。或加持白芥子或<lb
+ n="0890b05" ed="T"/>加持牛黃。隨諸所用即得成就。<lb
+ n="0890b06" ed="T"/>又復若以塗香加持一遍塗自身分。即如被<lb
+ n="0890b07" ed="T"/>甲冑勇猛無畏。不為刀傷不為毒中。又復不<lb
+ n="0890b08" ed="T"/>為一日二日乃至七日等諸瘧疾之所纏縛。<lb
+ n="0890b09" ed="T"/>不為火焚不為水溺。不為呪害不為鬼魅不<lb
+ n="0890b10" ed="T"/>為病惱。不於一切夭橫中死。<lb
+ n="0890b11" ed="T"/>又此陀羅尼善能作諸相應事業。一切成就<lb
+ n="0890b12" ed="T"/>法皆悉和合。作諸成就事無不成就者。他所<lb
+ n="0890b13" ed="T"/>作法皆能制止。不為他縛能破邪明自法隨<lb
+ n="0890b14" ed="T"/>轉。一切魔障皆能除遣。一切執魅悉能解散。<lb
+ n="0890b15" ed="T"/>若有所執不能除者。頭破作七分如阿梨樹<lb
+ n="0890b16" ed="T"/>枝。<lb
+ n="0890b17" ed="T"/>爾時帝釋天主。聞佛所說踊躍歡喜作禮而<lb
+ n="0890b18" ed="T"/>去。<lb
+ n="0890b19" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說施一切無畏陀羅尼經</ab></div>
+</body></text></TEI>

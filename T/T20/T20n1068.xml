@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">千手觀音造次第法儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1068</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0138a10" ed="T"/><lb
+ n="0138a11" ed="T"/><lb
+ n="0138a12" ed="T"/><lb
+ n="0138a13" ed="T"/>
+<ab type="juan" subtype="open">千手觀音造次第法儀軌</ab><lb
+ n="0138a14" ed="T"/><lb
+ n="0138a15" ed="T"/><byline>中天竺國三藏善無畏奉　詔譯</byline><lb
+ n="0138a16" ed="T"/><div type="jing" level="2"><ab type="prose">上首正體身大黃色。結跏趺座大寶蓮華臺<lb
+ n="0138a17" ed="T"/>上。其華三十二葉。其一一間有諸小葉。以<lb
+ n="0138a18" ed="T"/>無量百千大摩尼寶為莊嚴也。其尊之正面<lb
+ n="0138a19" ed="T"/>天冠上有三重。諸頭面之數有五百。當面之<lb
+ n="0138a20" ed="T"/>左右造兩面。右名蓮華面。左名金剛面也。右<lb
+ n="0138a21" ed="T"/>者青碧貌。左紺白色也。正面者表佛部。是<lb
+ n="0138a22" ed="T"/>大士有大身故。三部海會備具也。八大菩薩<lb
+ n="0138a23" ed="T"/>以為眷屬。大士前有童目天女持可愛華。乃<lb
+ n="0138a24" ed="T"/>童子并持經僧座。其形七歲童子貌。第三重<lb
+ n="0138a25" ed="T"/>有二十八部眾。有各各本形。真言曰。<lb
+ n="0138a26" ed="T"/>一密迹金剛士。赤紅色具三眼。右持金剛杵。<lb
+ n="0138a27" ed="T"/>左手拳安腰。<lb
+ n="0138a28" ed="T"/>二烏芻君荼央俱尸。左手持一股金剛杵。右<lb
+ n="0138a29" ed="T"/>手拳安腰。八部力士賞迦羅綠色。右手持慧<pb n="0138b" id="T20.1068.0138b" ed="T"/><lb
+ n="0138b01" ed="T"/>劍。左手三股印作也。<lb
+ n="0138b02" ed="T"/>三魔醯那羅達。黑赤紅色具三眼瞋怒相也。<lb
+ n="0138b03" ed="T"/>以三股揭為天冠。及金剛寶以為瓔珞。左手<lb
+ n="0138b04" ed="T"/>持杵。右手把寶盤。內赤外黑色也。<lb
+ n="0138b05" ed="T"/>四金毘羅陀迦毘羅。白紅色。左手把寶弓。右<lb
+ n="0138b06" ed="T"/>手把寶箭。<lb
+ n="0138b07" ed="T"/>五婆馺婆樓那。白紅色。左手索。右手安腰。<lb
+ n="0138b08" ed="T"/>六滿善車鉢真陀羅。左手金剛輪。右手拳印。<lb
+ n="0138b09" ed="T"/>紅色。<lb
+ n="0138b10" ed="T"/>七薩遮摩和羅。左手把寶幢。上有鳳鳥。右手<lb
+ n="0138b11" ed="T"/>施願印。<lb
+ n="0138b12" ed="T"/>八鳩蘭單吒半祇羅。左手金剛鐸。右手金剛<lb
+ n="0138b13" ed="T"/>拳。白紅色。<lb
+ n="0138b14" ed="T"/>九畢婆伽羅王。左手把刀。右手安腰。<lb
+ n="0138b15" ed="T"/>十應德毘多薩和羅。左手持弓。右手三叉杵<lb
+ n="0138b16" ed="T"/>箭。色黃黑也。<lb
+ n="0138b17" ed="T"/>十一梵摩三鉢羅。色紅白。左手持寶瓶。右手<lb
+ n="0138b18" ed="T"/>三股杵。<lb
+ n="0138b19" ed="T"/>十二五部淨居炎摩羅。色紫白。左手持炎摩<lb
+ n="0138b20" ed="T"/>幢。右手女竿。<lb
+ n="0138b21" ed="T"/>十三釋王三十三。色白紅。左手安腰。右手持<lb
+ n="0138b22" ed="T"/>金剛杵。<lb
+ n="0138b23" ed="T"/>十四大辨功德娑怛那。帝釋天王主之女子<lb
+ n="0138b24" ed="T"/>大德天女也。多聞天之大妃也。左手把如意<lb
+ n="0138b25" ed="T"/>珠。紫紺色也。右手金剛劍。<lb
+ n="0138b26" ed="T"/>十五提頭賴吒王。赤紅色又青白色。左手執<lb
+ n="0138b27" ed="T"/>如意寶王色黃青八角。右手刀。<lb
+ n="0138b28" ed="T"/>十六神母女等大力眾。色如。<lb
+ n="0138b29" ed="T"/>十七毘樓勒叉王。色赤。左手執杵。右手把劍。<pb n="0138c" id="T20.1068.0138c" ed="T"/><lb
+ n="0138c01" ed="T"/>十八毘樓博叉王。色白。左手執杵。右手把金<lb
+ n="0138c02" ed="T"/>索青色。<lb
+ n="0138c03" ed="T"/>十九毘沙門天王。色紺青。左手持寶塔。右手<lb
+ n="0138c04" ed="T"/>杵。<lb
+ n="0138c05" ed="T"/>二十金色孔雀王。身色黃金。左手執寶幢。上<lb
+ n="0138c06" ed="T"/>有孔雀鳥細妙色也。說無量妙言。<lb
+ n="0138c07" ed="T"/>二十一二十八部大仙眾者。二十八天神也。<lb
+ n="0138c08" ed="T"/>伊舍那神以為上首。身色黑赤白也。左手執<lb
+ n="0138c09" ed="T"/>杵。右手取朱盤器。金剛寶以為瓔珞。<lb
+ n="0138c10" ed="T"/>二十二摩尼跋陀羅。色白紅。左手執寶幢。上<lb
+ n="0138c11" ed="T"/>有如意玉。右手施願印也。<lb
+ n="0138c12" ed="T"/>二十三散脂大將弗羅婆。身色赤紅。左手執<lb
+ n="0138c13" ed="T"/>金剛。右手安腰。<lb
+ n="0138c14" ed="T"/>二十四難陀跋難陀。身色上赤色。左手執赤<lb
+ n="0138c15" ed="T"/>索。右手劍頭各有五龍下黑青色。左手青索。<lb
+ n="0138c16" ed="T"/>右手刀。娑伽羅龍伊鉢羅。上色赤白。左手執<lb
+ n="0138c17" ed="T"/>赤龍。右手刀。下色青白。左手白龍也。<lb
+ n="0138c18" ed="T"/>二十五修羅。所謂大身修羅也。身赤紅色。左<lb
+ n="0138c19" ed="T"/>手持日輪。右手月輪。乾闥婆。左手執歌琴。<lb
+ n="0138c20" ed="T"/>右手舞印。身色白紅也。迦樓羅王。金色兩羽<lb
+ n="0138c21" ed="T"/>具。左手貝。右手執寶螺笛。緊那羅摩睺羅<lb
+ n="0138c22" ed="T"/>伽。此兩王形白色如羅剎女。有二眼乃至三<lb
+ n="0138c23" ed="T"/>四五眼。持諸藥器等。具足二四六八臂。天冠<lb
+ n="0138c24" ed="T"/>天衣諸寶珠以為身嚴。<lb
+ n="0138c25" ed="T"/>二十六水火雷電神。此四神皆備夫妻。雷者<lb
+ n="0138c26" ed="T"/>天雷神。電者地電也。此餘者水火以為身<lb
+ n="0138c27" ed="T"/>嚴。<lb
+ n="0138c28" ed="T"/>二十七鳩槃荼王。長鼻瞋怒形也。黑色。左<lb
+ n="0138c29" ed="T"/>手戰大器。右手執索。<pb n="0139a" id="T20.1068.0139a" ed="T"/><lb
+ n="0139a01" ed="T"/>二十八毘舍闍。大目瞋怒形。黑赤色。左手<lb
+ n="0139a02" ed="T"/>火玉也。<lb
+ n="0139a03" ed="T"/>一密迹金剛十密語。<lb
+ n="0139a04" ed="T"/></ab>
+<ab type="dharani">唵阿艮阿艮沙耶多他蘖他耶娑婆訶<lb
+ n="0139a05" ed="T"/></ab>
+<ab type="prose">二烏瑟君荼密語。<lb
+ n="0139a06" ed="T"/></ab>
+<ab type="dharani">唵毘瑟他耶良他羅阿羅乞叉多耶娑婆訶<lb
+ n="0139a07" ed="T"/></ab>
+<ab type="prose">三魔醯那羅達密語。<lb
+ n="0139a08" ed="T"/></ab>
+<ab type="dharani">唵阿三沒遲良多那娑婆訶<lb
+ n="0139a09" ed="T"/></ab>
+<ab type="prose">四金毘羅陀密語。<lb
+ n="0139a10" ed="T"/></ab>
+<ab type="dharani">唵嚩悉儞阿利夜三曼他娑婆訶<lb
+ n="0139a11" ed="T"/></ab>
+<ab type="prose">五婆馺婆樓那密語。<lb
+ n="0139a12" ed="T"/></ab>
+<ab type="dharani">唵烏瑟三昧耶毘秡羅尾秡羅娑婆訶<lb
+ n="0139a13" ed="T"/></ab>
+<ab type="prose">六滿善車鉢密語。<lb
+ n="0139a14" ed="T"/></ab>
+<ab type="dharani">唵富樓娑多娑多加那加那阿羅瑟尼耶娑婆<lb
+ n="0139a15" ed="T"/>訶<lb
+ n="0139a16" ed="T"/></ab>
+<ab type="prose">七薩遮摩和羅密語。<lb
+ n="0139a17" ed="T"/></ab>
+<ab type="dharani">唵貝檀遲揭帝阿羅叉娑婆訶<lb
+ n="0139a18" ed="T"/></ab>
+<ab type="prose">八鳩蘭單吒密語。<lb
+ n="0139a19" ed="T"/></ab>
+<ab type="dharani">唵蘖那耶豹他野囉叉娑婆訶<lb
+ n="0139a20" ed="T"/></ab>
+<ab type="prose">九畢婆伽羅密語。<lb
+ n="0139a21" ed="T"/></ab>
+<ab type="dharani">唵末羅伽叉耶阿知羅叉耶南謨室利耶曳<lb
+ n="0139a22" ed="T"/>娑婆訶<lb
+ n="0139a23" ed="T"/></ab>
+<ab type="prose">十應德毘多密語。<lb
+ n="0139a24" ed="T"/></ab>
+<ab type="dharani">唵摩訶帝弊曳娑婆訶<lb
+ n="0139a25" ed="T"/></ab>
+<ab type="prose">十一梵摩三鉢羅密語。<lb
+ n="0139a26" ed="T"/></ab>
+<ab type="dharani">唵伐羅伐羅藥率帝藥率帝娑婆訶<lb
+ n="0139a27" ed="T"/></ab>
+<ab type="prose">十二五部淨居密語。<lb
+ n="0139a28" ed="T"/></ab>
+<ab type="dharani">唵伐羅伐羅吽𠰢吒𠰢吒娑婆訶<lb
+ n="0139a29" ed="T"/></ab>
+<ab type="prose">十三釋王三十三密語。<lb
+ n="0139a30" ed="T"/></ab>
+<ab type="dharani">唵末尼迦釋迦跋折羅壁瑠璃耶娑婆訶<pb n="0139b" id="T20.1068.0139b" ed="T"/><lb
+ n="0139b01" ed="T"/></ab>
+<ab type="prose">十四大辨功德密語。<lb
+ n="0139b02" ed="T"/></ab>
+<ab type="dharani">唵摩訶具陵吉利他曳娑婆訶<lb
+ n="0139b03" ed="T"/></ab>
+<ab type="prose">十五提頭賴吒王密語。<lb
+ n="0139b04" ed="T"/></ab>
+<ab type="dharani">唵剎利耶曳薩婆訶薩婆訶薩多毘犀耶瑟吒<lb
+ n="0139b05" ed="T"/>娑婆訶<lb
+ n="0139b06" ed="T"/></ab>
+<ab type="prose">十六神母等密語。<lb
+ n="0139b07" ed="T"/></ab>
+<ab type="dharani">唵醯利醯利多醯徒醯娑婆訶<lb
+ n="0139b08" ed="T"/></ab>
+<ab type="prose">十七毘樓勒叉密語。<lb
+ n="0139b09" ed="T"/></ab>
+<ab type="dharani">唵醯伊吽吽娑婆訶<lb
+ n="0139b10" ed="T"/></ab>
+<ab type="prose">十八毘樓博叉密語。<lb
+ n="0139b11" ed="T"/></ab>
+<ab type="dharani">唵摩兜祇浦屈沙底娑婆訶<lb
+ n="0139b12" ed="T"/></ab>
+<ab type="prose">十九毘沙門天密語。<lb
+ n="0139b13" ed="T"/></ab>
+<ab type="dharani">唵南無帝南跋折羅祇叉婆羅弭他南南壁<lb
+ n="0139b14" ed="T"/>室良半拏耶婆良耶娑婆訶<lb
+ n="0139b15" ed="T"/></ab>
+<ab type="prose">二十金色孔雀密語。<lb
+ n="0139b16" ed="T"/></ab>
+<ab type="dharani">唵具光𠰢吒沙羅迦羅放光𠰢吒沙羅迦羅周<lb
+ n="0139b17" ed="T"/>遍吽羅迦唵𠰢吒娑婆訶<lb
+ n="0139b18" ed="T"/></ab>
+<ab type="prose">二十一二十八部大仙密語。<lb
+ n="0139b19" ed="T"/></ab>
+<ab type="dharani">唵南無佛法僧因他羅也縛悉儞曳娑婆訶<lb
+ n="0139b20" ed="T"/></ab>
+<ab type="prose">二十二摩尼跋陀羅密語。<lb
+ n="0139b21" ed="T"/></ab>
+<ab type="dharani">唵陀羅迦羅夾曼陀娑婆訶<lb
+ n="0139b22" ed="T"/></ab>
+<ab type="prose">二十三散脂大將密語。<lb
+ n="0139b23" ed="T"/></ab>
+<ab type="dharani">唵阿利耶三昧曳娑婆訶<lb
+ n="0139b24" ed="T"/></ab>
+<ab type="prose">二十四難陀跋難陀密語。<lb
+ n="0139b25" ed="T"/></ab>
+<ab type="dharani">唵苦摩尼豹商娑婆訶<lb
+ n="0139b26" ed="T"/></ab>
+<ab type="prose">二十五修羅乾闥婆密語。<lb
+ n="0139b27" ed="T"/></ab>
+<ab type="dharani">唵展若展具末利迦娑婆訶<lb
+ n="0139b28" ed="T"/></ab>
+<ab type="prose">二十六水火雷電密語。<lb
+ n="0139b29" ed="T"/></ab>
+<ab type="dharani">唵具羅婆曳油娑婆訶<lb
+ n="0139b30" ed="T"/></ab>
+<ab type="prose">二十七鳩槃荼王密語。<pb n="0139c" id="T20.1068.0139c" ed="T"/><lb
+ n="0139c01" ed="T"/></ab>
+<ab type="dharani">唵闍曳阿闍曳娑婆訶<lb
+ n="0139c02" ed="T"/></ab>
+<ab type="prose">二十八毘沙闍密語。<lb
+ n="0139c03" ed="T"/></ab>
+<ab type="dharani">唵帝曳帝曳隣陀隣陀娑婆訶<lb
+ n="0139c04" ed="T"/></ab>
+<ab type="prose">如是善神異口同音。各各誓言顯說釋名密<lb
+ n="0139c05" ed="T"/>語神呪。領諸眷屬。左右前後圍繞守護。受<lb
+ n="0139c06" ed="T"/>持娑婆訶。若有善男子善女人持呪者。可誦<lb
+ n="0139c07" ed="T"/>善神呪。有大威德勢云云。</ab></div><lb
+ n="0139c08" ed="T"/><div type="w" level="2"><ab type="prose">延寶三年。淨嚴和尚染筆之。天明元丑歲<lb
+ n="0139c09" ed="T"/>慈忍師寫宇治慧心院藏本。今得彼本。當<lb
+ n="0139c10" ed="T"/>山慈心院傳燈等一挍。予復校之壽梓享<lb
+ n="0139c11" ed="T"/>和改元八月　　　長谷總持院快道誌<lb
+ n="0139c12" ed="T"/><lb
+ n="0139c13" ed="T"/></ab></div></div>
+</body></text></TEI>

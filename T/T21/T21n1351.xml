@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說持句神呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1351</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0864c06" ed="T"/><lb
+ n="0864c07" ed="T"/><lb
+ n="0864c08" ed="T"/><div type="jing" level="1"><lb
+ n="0864c09" ed="T"/>
+<ab type="juan" subtype="open">佛說持句神呪經</ab><lb
+ n="0864c10" ed="T"/><lb
+ n="0864c11" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
+ n="0864c12" ed="T"/><ab type="prose">聞如是。一時佛在舍衛國祇樹給孤獨園。與<lb
+ n="0864c13" ed="T"/>大比丘眾千二百五十人菩薩萬人。爾時從<lb
+ n="0864c14" ed="T"/>是佛土過億百千佛國。有世界名無量華。<lb
+ n="0864c15" ed="T"/>其佛號鄧尊王如來無所著至真等正覺。今<lb
+ n="0864c16" ed="T"/>現在說法。彼佛遣二菩薩。一名無量光明二<lb
+ n="0864c17" ed="T"/>名大光明。時二菩薩來至釋迦文佛所。稽首<lb
+ n="0864c18" ed="T"/>佛足却住一面。前白佛言。唯然世尊從是<lb
+ n="0864c19" ed="T"/>佛土過億百千佛國。有世界名無量華。其<lb
+ n="0864c20" ed="T"/>佛號鄧尊王如來。遣我等來。世尊如常不<lb
+ n="0864c21" ed="T"/>其眾安隱無他耶。天龍鬼神餓鬼女鬼鳩桓。<lb
+ n="0864c22" ed="T"/>若人非人虎狼毒獸。得無嬈亂人民。用是故<lb
+ n="0864c23" ed="T"/>佛遣是持句呪來。哀念眾生令安。吉善名<lb
+ n="0864c24" ed="T"/>聞威神得力。如是。<lb
+ n="0864c25" ed="T"/></ab>
+<ab type="dharani">闍梨摩訶　闍梨羅尼　優佉目佉　沙波<lb
+ n="0864c26" ed="T"/>提　摩訶沙波提<lb
+ n="0864c27" ed="T"/></ab>
+<ab type="prose">佛告阿難。受是持句呪執持誦說。佛世難值。<lb
+ n="0864c28" ed="T"/>持句呪亦為難遇。善男子善女人。受是持<lb
+ n="0864c29" ed="T"/>句呪。諷誦讀識七世宿命。受持者一切浮陀<pb n="0865a" id="T21.1351.0865a" ed="T"/><lb
+ n="0865a01" ed="T"/>鬼神若人非人。不得嬈近。毒蛇不敢螫。毒<lb
+ n="0865a02" ed="T"/>藥自然除。刀亦不能傷。王亦不能害。梵亦<lb
+ n="0865a03" ed="T"/>不瞋之。是持句呪。七十七億佛所說。犯是<lb
+ n="0865a04" ed="T"/>呪者當獲重罪。復有菩薩彌勒等八十人。告<lb
+ n="0865a05" ed="T"/>賢者阿難。我亦當說持句呪。哀念眾生令<lb
+ n="0865a06" ed="T"/>安。吉善名聞威神得力。如是。<lb
+ n="0865a07" ed="T"/></ab>
+<ab type="dharani">阿知和知　吒佉羅羅　里彌喜利　彌利提<lb
+ n="0865a08" ed="T"/>盧　留彌勒</ab>
+<ab type="prose">佛告阿難。受是持句呪執持<lb
+ n="0865a09" ed="T"/>誦說。佛世難值。持句呪諷誦讀識。十四世宿<lb
+ n="0865a10" ed="T"/>命。受持者一切浮陀鬼神。若人非人不得嬈<lb
+ n="0865a11" ed="T"/>近。毒蛇不敢螫。毒藥自然除。刀亦不能傷。<lb
+ n="0865a12" ed="T"/>王亦不敢害。梵亦不瞋之。是持句呪八十四<lb
+ n="0865a13" ed="T"/>億佛所說。謗是呪者當獲重罪。<lb
+ n="0865a14" ed="T"/>佛告阿難。我亦當說持句呪。哀念眾生令安。<lb
+ n="0865a15" ed="T"/>吉善名聞威神得力。如是。<lb
+ n="0865a16" ed="T"/></ab>
+<ab type="dharani">阿知和知　那知鳩那知　提梨　沙羅波提<lb
+ n="0865a17" ed="T"/>　阿那波提　波那提　波那迦和尼　摩訶<lb
+ n="0865a18" ed="T"/>迦和尼<lb
+ n="0865a19" ed="T"/></ab>
+<ab type="prose">佛告阿難。受是持句呪執持誦說。佛世難值。<lb
+ n="0865a20" ed="T"/>持句呪亦為難遇。善男子善女人。受是持句<lb
+ n="0865a21" ed="T"/>呪諷誦讀。識無數世宿命。受持者一切浮陀<lb
+ n="0865a22" ed="T"/>鬼神。若人非人不敢嬈近。毒蛇不敢螫。毒藥<lb
+ n="0865a23" ed="T"/>自然除。刀亦不敢傷。王亦不敢害。梵亦不瞋<lb
+ n="0865a24" ed="T"/>之。是持句呪無數億佛所說。犯是呪者當獲<lb
+ n="0865a25" ed="T"/>重罪。佛告阿難。是持句呪。行道中當念之。若<lb
+ n="0865a26" ed="T"/>至縣官若行賊中。若蠱道若毒若刀刃中。若<lb
+ n="0865a27" ed="T"/>人非人中當念之。是持句呪於枯樹令生葉<lb
+ n="0865a28" ed="T"/>華實。何況為人結縷也。當使吉百病消除。<lb
+ n="0865a29" ed="T"/>自然安隱辟除凶害。南無佛令呪皆得從願。<pb n="0865b" id="T21.1351.0865b" ed="T"/><lb
+ n="0865b01" ed="T"/>佛說經已皆大歡喜。<lb
+ n="0865b02" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說持句神呪經</ab></div>
+</body></text></TEI>

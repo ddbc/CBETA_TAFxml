@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">阿彌陀鼓音聲王陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T12</biblScope>
+                    <idno type="Taisho">T12n0370</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0352b04" ed="T"/><lb
+ n="0352b05" ed="T"/><lb
+ n="0352b06" ed="T"/><lb
+ n="0352b07" ed="T"/>
+<ab type="juan" subtype="open">阿彌陀鼓音聲王陀羅尼經</ab><lb
+ n="0352b08" ed="T"/><lb
+ n="0352b09" ed="T"/><byline>失譯人名今附梁錄</byline><lb
+ n="0352b10" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在瞻波大城伽伽靈池，與<lb
+ n="0352b11" ed="T"/>大比丘眾五百人俱。爾時，世尊告諸比丘：「今<lb
+ n="0352b12" ed="T"/>當為汝演說，西方安樂世界今現有佛，號阿<lb
+ n="0352b13" ed="T"/>彌陀，若有四眾，能正受持彼佛名號，以此功<lb
+ n="0352b14" ed="T"/>德臨欲終時，阿彌陀即與大眾往此人所，<lb
+ n="0352b15" ed="T"/>令其得見。見已，尋生慶悅，倍增功德。以是因<lb
+ n="0352b16" ed="T"/>緣，所生之處，永離胞胎穢欲之形，純處鮮妙<lb
+ n="0352b17" ed="T"/>寶蓮花中，自然化生，具大神通，光明赫弈。「爾<lb
+ n="0352b18" ed="T"/>時，十方恒沙諸佛，皆共讚彼安樂世界：『所有<lb
+ n="0352b19" ed="T"/>佛法不可思議；神通現化，種種方便不可思<lb
+ n="0352b20" ed="T"/>議；若有能信如是之事，當知是人不可思<lb
+ n="0352b21" ed="T"/>議；所得業報亦不可思議。』「阿彌陀佛與聲聞<lb
+ n="0352b22" ed="T"/>俱，如來、應、正遍知，其國號曰清泰。聖王所住，<lb
+ n="0352b23" ed="T"/>其城縱廣十千由旬，於中充滿剎利之種。阿<lb
+ n="0352b24" ed="T"/>彌陀佛如來、應、正遍知，父名月上，轉輪聖王；<lb
+ n="0352b25" ed="T"/>其母名曰殊勝妙顏；子名月明。奉事弟子，名<lb
+ n="0352b26" ed="T"/>無垢稱。智慧弟子，名曰賢光。神足精勤，名曰<lb
+ n="0352b27" ed="T"/>大化。爾時，魔王名曰無勝。有提婆達多，名曰<lb
+ n="0352b28" ed="T"/>寂靜。阿彌陀佛與大比丘六萬人俱。「若有<lb
+ n="0352b29" ed="T"/>受持彼佛名號，堅固其心、憶念不忘，十日十<pb n="0352c" id="T12.0370.0352c" ed="T"/><lb
+ n="0352c01" ed="T"/>夜除捨散亂，精勤修集念佛三昧，知彼如<lb
+ n="0352c02" ed="T"/>來常恒住於安樂世界，憶念相續勿令斷絕，<lb
+ n="0352c03" ed="T"/>受持讀誦此鼓音聲王大陀羅尼，十日十<lb
+ n="0352c04" ed="T"/>夜，六時專念，五體投地，禮敬彼佛，堅固正念<lb
+ n="0352c05" ed="T"/>悉除散亂；若能令心念念不絕，十日之中必<lb
+ n="0352c06" ed="T"/>得見彼阿彌陀佛，并見十方世界如來及所<lb
+ n="0352c07" ed="T"/>住處。唯除重障鈍根之人，於今少時所不能<lb
+ n="0352c08" ed="T"/>覩。一切諸善皆悉迴向，願得往生安樂世界，<lb
+ n="0352c09" ed="T"/>垂終之日，阿彌陀佛與諸大眾，現其人前安<lb
+ n="0352c10" ed="T"/>慰稱善，是人即時甚生慶悅。以是因緣，如其<lb
+ n="0352c11" ed="T"/>所願，尋得往生。」佛告諸比丘：「何等名為鼓音<lb
+ n="0352c12" ed="T"/>聲王大陀羅尼？吾今當說，汝等善聽。」「唯然受<lb
+ n="0352c13" ed="T"/>教。」於時世尊即說呪曰：<lb
+ n="0352c14" ed="T"/></ab>
+<ab type="dharani">「多狄他　婆離　阿婆離　娑摩婆羅　尼<lb
+ n="0352c15" ed="T"/>地奢　昵闍多禰　昵茂邸　昵茂企<lb
+ n="0352c16" ed="T"/>　闍羅婆羅車馱禰　宿佉波啼呢地奢　阿<lb
+ n="0352c17" ed="T"/>彌多由婆離　阿彌多蛇伽婆昵呵隸　阿<lb
+ n="0352c18" ed="T"/>彌多蛇波羅娑陀禰　涅浮提　阿迦舍昵<lb
+ n="0352c19" ed="T"/>浮陀　阿迦舍昵提奢　阿迦舍昵闍啼　阿<lb
+ n="0352c20" ed="T"/>迦舍久舍離　阿迦舍達奢尼　阿迦舍提<lb
+ n="0352c21" ed="T"/>咃禰　留波昵提奢　嚕跛坦泥勢<lb
+ n="0352c22" ed="T"/>　遮埵唎達摩波羅娑阿禰　遮唾唎阿<lb
+ n="0352c23" ed="T"/>利蛇娑帝蛇波羅娑陀禰　遮埵唎末伽婆<lb
+ n="0352c24" ed="T"/>那波羅娑陀禰　婆羅毘梨耶波羅娑陀禰<lb
+ n="0352c25" ed="T"/>　達摩呻他禰　久舍離　久舍羅<lb
+ n="0352c26" ed="T"/>昵提奢　久奢羅波羅啼咃禰　佛陀久<lb
+ n="0352c27" ed="T"/>奢離　毘佛陀波羅波斯　達摩迦羅<lb
+ n="0352c28" ed="T"/>禰　昵專啼　昵浮提　毘摩離<lb
+ n="0352c29" ed="T"/>　毘羅闍　羅闍　羅斯　羅娑岐<pb n="0353a" id="T12.0370.0353a" ed="T"/><lb
+ n="0353a01" ed="T"/>　羅娑伽羅婆離　羅娑伽羅阿地咃禰<lb
+ n="0353a02" ed="T"/>　久舍離　波羅啼久舍離　毘久舍離<lb
+ n="0353a03" ed="T"/>　咃啼　修陀多至啼　修波羅舍多至<lb
+ n="0353a04" ed="T"/>啼　修波羅啼癡啼　修離　修目企<lb
+ n="0353a05" ed="T"/>　達咩　達達啼　離婆　遮婆<lb
+ n="0353a06" ed="T"/>離　阿㝹舍婆離　佛陀迦舍昵裘禰<lb
+ n="0353a07" ed="T"/>佛陀迦舍裘禰　娑婆呵<lb
+ n="0353a08" ed="T"/></ab>
+<ab type="prose">「此是阿彌陀鼓音聲王大陀羅尼。若有比丘、<lb
+ n="0353a09" ed="T"/>比丘尼、清信士女，常應至誠受持讀誦，如說<lb
+ n="0353a10" ed="T"/>修行，行此持法。當處閑寂，洗浴其身，著新淨<lb
+ n="0353a11" ed="T"/>衣，飲食白素，不噉酒肉及以五辛，常修梵行。<lb
+ n="0353a12" ed="T"/>以好香花，供養阿彌陀如來，及佛道場大<lb
+ n="0353a13" ed="T"/>菩薩眾。常應如是專心繫念，發願求生安<lb
+ n="0353a14" ed="T"/>樂世界，精勤不怠如其所願，必得往生於彼<lb
+ n="0353a15" ed="T"/>佛世界。「時，阿彌陀佛與諸大眾坐寶蓮花，其<lb
+ n="0353a16" ed="T"/>土叢林花果鮮敷，間錯嚴飾；復有樹王、香<lb
+ n="0353a17" ed="T"/>風、馥扇出和雅音，純說無上不思議法；復<lb
+ n="0353a18" ed="T"/>有妙香名曰光明，若干塗香亦是寶香。「阿彌<lb
+ n="0353a19" ed="T"/>陀佛於大寶花結加趺坐。有二菩薩：一名<lb
+ n="0353a20" ed="T"/>觀世音，二名大勢至，是二菩薩侍立左右，無<lb
+ n="0353a21" ed="T"/>數菩薩周匝圍遶。於此眾中，若能深信無狐<lb
+ n="0353a22" ed="T"/>疑者，必得往生阿彌陀國。其地真金，七寶蓮<lb
+ n="0353a23" ed="T"/>花自然踊出。「若有四眾，受持讀誦彼佛名<lb
+ n="0353a24" ed="T"/>號，乃至無有水、火、毒藥、刀杖之怖；亦復無有<lb
+ n="0353a25" ed="T"/>夜叉等怖，除有過、去重罪、業障，極至七生<lb
+ n="0353a26" ed="T"/>必果所願。」佛說是阿彌陀鼓音聲王陀羅尼<lb
+ n="0353a27" ed="T"/>時，無量眾生皆悉發願，志求生彼極樂世界。<lb
+ n="0353a28" ed="T"/>於時世尊讚言：「善哉，善哉！如汝所願，必得<lb
+ n="0353a29" ed="T"/>生彼。」聞佛說已，天龍八部，歡喜踊躍，作禮奉<pb n="0353b" id="T12.0370.0353b" ed="T"/><lb
+ n="0353b01" ed="T"/>行。</ab></div><lb
+ n="0353b02" ed="T"/>
+<ab type="juan" subtype="close">阿彌陀鼓音聲王陀羅尼經</ab>
+</body></text></TEI>

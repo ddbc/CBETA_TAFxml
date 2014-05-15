@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說清淨心經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0803</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0749a" ed="T" id="T17.0803.0749a"/><lb
+ n="0749a01" ed="T"/><lb
+ n="0749a02" ed="T"/><lb
+ n="0749a03" ed="T"/>
+<ab type="juan" subtype="open">佛說清淨心經</ab><lb
+ n="0749a04" ed="T"/><lb
+ n="0749a05" ed="T"/><byline>西天譯經三藏朝奉大夫<lb
+ n="0749a06" ed="T"/>試光祿卿傳法大師賜紫<lb
+ n="0749a07" ed="T"/>沙門臣施護等奉　詔譯</byline><lb
+ n="0749a08" ed="T"/><div type="jing" level="1"><ab type="prose">佛世尊一時在舍衛國祇樹給孤獨園，與苾<lb
+ n="0749a09" ed="T"/>芻眾俱。<lb
+ n="0749a10" ed="T"/>佛告諸苾芻言：「汝等諦聽！若諸聲聞修習正<lb
+ n="0749a11" ed="T"/>行欲得清淨心者，當斷五法、修習七法而令<lb
+ n="0749a12" ed="T"/>圓滿。何等五法？一、貪欲；二、瞋恚；三、昏沈睡<lb
+ n="0749a13" ed="T"/>眠；四、掉悔；五、疑。此五蓋障應當除斷。<lb
+ n="0749a14" ed="T"/>「何等七法？一、擇法覺支；二、念覺支；三、精進覺<lb
+ n="0749a15" ed="T"/>支；四、喜覺支；五、輕安覺支；六、定覺支；七、捨覺<lb
+ n="0749a16" ed="T"/>支。如是七法應當修習。<lb
+ n="0749a17" ed="T"/>「諸苾芻！所言清淨心者，當知即是心解脫增<lb
+ n="0749a18" ed="T"/>語、慧解脫增語，由貪染污，心不清淨；由無明<lb
+ n="0749a19" ed="T"/>染污，慧不清淨。<lb
+ n="0749a20" ed="T"/>「若諸苾芻斷除貪染，即得心解脫；斷除無明，<lb
+ n="0749a21" ed="T"/>即得慧解脫。<lb
+ n="0749a22" ed="T"/>「又諸苾芻離貪染污得心解脫者，是名身作<lb
+ n="0749a23" ed="T"/>證；斷除無明得慧解脫者，是名無學。永離貪<lb
+ n="0749a24" ed="T"/>愛，了知真實，正智現前，取證自果，盡苦邊際。<lb
+ n="0749a25" ed="T"/>諸苾芻！如是所說，汝等應學。」</ab></div><lb
+ n="0749a26" ed="T"/>
+<ab type="juan" subtype="close">佛說清淨心經</ab>
+</body></text></TEI>

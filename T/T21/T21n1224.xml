@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛童子持念經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1224</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0133b02" ed="T"/><lb
+ n="0133b03" ed="T"/><lb
+ n="0133b04" ed="T"/><div type="jing" level="2"><lb
+ n="0133b05" ed="T"/>
+<ab type="juan" subtype="open">金剛童子持念經</ab><lb
+ n="0133b06" ed="T"/><lb
+ n="0133b07" ed="T"/><ab type="prose">淨三業真言<lb
+ n="0133b08" ed="T"/></ab>
+<ab type="dharani">唵󰡊弟䅶戍馱曩野娑嚩賀<lb
+ n="0133b09" ed="T"/></ab>
+<ab type="prose">二羽蓮花合掌。誦前真言七遍。加持身心三<lb
+ n="0133b10" ed="T"/>業。妄念諸過悉皆清淨。<lb
+ n="0133b11" ed="T"/>次結普禮一切如來印。右膝著地。二羽左覆<lb
+ n="0133b12" ed="T"/>右。仰背相著。以二信二惠反相叉安於頂上。<lb
+ n="0133b13" ed="T"/>口誦彼真言。身住此儀相。心想自身滿於法<lb
+ n="0133b14" ed="T"/>界。二佛菩薩前有己身。至誠作禮真言。<lb
+ n="0133b15" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉尾多<lb
+ n="0133b16" ed="T"/></ab>
+<ab type="prose">如是以三業齊運。禮觀一切聖眾及曼茶羅<lb
+ n="0133b17" ed="T"/>本尊像已。即結加趺坐或半加坐。澄定身心。<lb
+ n="0133b18" ed="T"/>結佛部三昧耶印。二羽芙蓉合掌。開手如掬<lb
+ n="0133b19" ed="T"/>物勢。以二定輔於二念上節文側。二惠捻二<lb
+ n="0133b20" ed="T"/>定下第一文即成。即念佛部三昧耶真言。<lb
+ n="0133b21" ed="T"/></ab>
+<ab type="dharani">唵怛他𧃯姤𠺶婆嚩野娑嚩賀<lb
+ n="0133b22" ed="T"/></ab>
+<ab type="prose">以印安於頂上。誦真言三遍。想印如佛形像。<lb
+ n="0133b23" ed="T"/>次結蓮花部三昧耶印。二羽如前合掌微開。<lb
+ n="0133b24" ed="T"/>中間二進二念二定六指微曲。頭相去各一<lb
+ n="0133b25" ed="T"/>寸許。二信二惠各并竪。如開敷蓮花形。誦真<lb
+ n="0133b26" ed="T"/>言三遍。舉印安於頂右右耳之上。想如觀自<lb
+ n="0133b27" ed="T"/>在菩薩。蓮花三昧耶真言曰。<lb
+ n="0133b28" ed="T"/></ab>
+<ab type="dharani">唵鉢納謨納婆嚩野娑嚩賀<lb
+ n="0133b29" ed="T"/></ab>
+<ab type="prose">次結金剛部三昧耶印。如前遍禮印安於心<pb n="0133c" id="T21.1224.0133c" ed="T"/><lb
+ n="0133c01" ed="T"/>上。誦真言三遍。舉印安於頂左左耳之上。想<lb
+ n="0133c02" ed="T"/>如金剛藏菩薩。金剛部三昧耶真言曰。<lb
+ n="0133c03" ed="T"/></ab>
+<ab type="dharani">唵嚩曰嚧納婆嚩野娑嚩賀<lb
+ n="0133c04" ed="T"/></ab>
+<ab type="prose">以結護身印。二羽右押左。內相叉直竪。二念<lb
+ n="0133c05" ed="T"/>頭相柱。二定微曲。於二念背不令相著。如三<lb
+ n="0133c06" ed="T"/>股杵形。二惠并竪。掌中押二進二信上即成。<lb
+ n="0133c07" ed="T"/>本經中或用根本印亦得。今取蘇悉地經中<lb
+ n="0133c08" ed="T"/>通法真言即不󱁻。護身真言。<lb
+ n="0133c09" ed="T"/></ab>
+<ab type="dharani">唵薩嚩訥瑟吒嚩餉羯囉迦抳矩嚕<lb
+ n="0133c10" ed="T"/>馱囉乞灑囉乞灑𤚥娑嚩賀<lb
+ n="0133c11" ed="T"/></ab>
+<ab type="prose">由結此印。誦前真言。加持自身五處。先印額<lb
+ n="0133c12" ed="T"/>次右肩左肩心喉。是為五處。以真言威力加<lb
+ n="0133c13" ed="T"/>持自身。即成被金剛甲冑。<lb
+ n="0133c14" ed="T"/>次結辟除諸障繫縛毘那夜迦印。二羽十度<lb
+ n="0133c15" ed="T"/>內相叉以屈二惠入掌。甲相背各捻二念指<lb
+ n="0133c16" ed="T"/>面。急握拳。心想毘那夜迦。作障難者皆被五<lb
+ n="0133c17" ed="T"/>繫縛之。辟除真言曰。<lb
+ n="0133c18" ed="T"/></ab>
+<ab type="dharani">唵度曩尾度曩怛羅娑野戍灑野薩嚩<lb
+ n="0133c19" ed="T"/>尾曩野迦南吽撥吒娑嚩<lb
+ n="0133c20" ed="T"/>賀<lb
+ n="0133c21" ed="T"/></ab>
+<ab type="prose">次結被金剛甲冑印。即前印以二定直竪頭<lb
+ n="0133c22" ed="T"/>相柱。以二惠各捻二定下第一文即成。以<lb
+ n="0133c23" ed="T"/>印如前加持自身五處。遍身自然被金剛鎧<lb
+ n="0133c24" ed="T"/>甲光明赫奕。真言曰。<lb
+ n="0133c25" ed="T"/></ab>
+<ab type="dharani">唵紇哩迦抳野麼娜賀吽撥吒娑嚩<lb
+ n="0133c26" ed="T"/>賀<lb
+ n="0133c27" ed="T"/></ab>
+<ab type="prose">次結金剛牆印。即前甲冑印。開二定頭。相去<lb
+ n="0133c28" ed="T"/>一寸許。開掌如牆形即成。真言曰。<lb
+ n="0133c29" ed="T"/></ab>
+<ab type="dharani">唵紇哩迦抳諾賀諾賀鉢左鉢左吽撥吒<pb n="0134a" id="T21.1224.0134a" ed="T"/><lb
+ n="0134a01" ed="T"/>娑嚩賀<lb
+ n="0134a02" ed="T"/></ab>
+<ab type="prose">以印頂上。空中右旋三匝。兼誦真言三遍。以<lb
+ n="0134a03" ed="T"/>此加持威神力故。周匝四方。隨心遠近結成<lb
+ n="0134a04" ed="T"/>金剛牆。界界光明照曜。一切諸魔不敢輔<lb
+ n="0134a05" ed="T"/>近。<lb
+ n="0134a06" ed="T"/>次結迎請聖尊印。二羽內相叉直竪。二定頭<lb
+ n="0134a07" ed="T"/>柱。以二惠向身招之。請尊真言曰。<lb
+ n="0134a08" ed="T"/></ab>
+<ab type="dharani">唵度𩕳婆誐鑁迦𩕳短嚕馱翳󰸄<lb
+ n="0134a09" ed="T"/>呬吽撥吒<lb
+ n="0134a10" ed="T"/></ab>
+<ab type="prose">不改此印。便誦後真言。迎請聖尊者眷屬真<lb
+ n="0134a11" ed="T"/>言。<lb
+ n="0134a12" ed="T"/></ab>
+<ab type="dharani">唵娑跛哩嚩囉麼嚩賀野婆誐鑁<lb
+ n="0134a13" ed="T"/>迦𩕳矩嚕馱三麼耶麼努娑麼囉娑<lb
+ n="0134a14" ed="T"/>嚩賀<lb
+ n="0134a15" ed="T"/></ab>
+<ab type="prose">次結都明王忿怒軍吒利印。辟除諸魔恐隨<lb
+ n="0134a16" ed="T"/>聖眾潛隱在其中。以明王威神搜棟發遣。作<lb
+ n="0134a17" ed="T"/>障難者唯留聖者及自眷屬。其印以二信右<lb
+ n="0134a18" ed="T"/>押左內相交。以二進雙屈並押二信交上。以<lb
+ n="0134a19" ed="T"/>二念直竪頭柱。以二定各微曲。於二念背後<lb
+ n="0134a20" ed="T"/>不相著。如三股金剛杵形。二惠並竪押二進<lb
+ n="0134a21" ed="T"/>上即成。隨誦真言。以印空中左旋三匝。辟除<lb
+ n="0134a22" ed="T"/>姦魔棟擇發遣。便即右旋三匝結成。金剛光<lb
+ n="0134a23" ed="T"/>明堅固大界。一切凡聖不合越此界故。違越<lb
+ n="0134a24" ed="T"/>者化三昧耶決定不安。眾聖陰罰違越。眾聖<lb
+ n="0134a25" ed="T"/>言誓故也。即誦軍吒利真言曰。<lb
+ n="0134a26" ed="T"/></ab>
+<ab type="dharani">曩謨囉怛曩怛囉夜野娜莫室戰<lb
+ n="0134a27" ed="T"/>嚩日囉播緊曳摩賀藥叉細曩<lb
+ n="0134a28" ed="T"/>鉢多曳唵阿密㗚多軍䋈里却却佉<lb
+ n="0134a29" ed="T"/>呬佉呬底瑟咤底瑟姹<pb n="0134b" id="T21.1224.0134b" ed="T"/><lb
+ n="0134b01" ed="T"/>滿馱滿馱賀曩賀曩𧃯惹𧃯惹尾颯普吒<lb
+ n="0134b02" ed="T"/>野尾颯普吒野薩嚩尾近曩尾曩野<lb
+ n="0134b03" ed="T"/>迦摩賀誐䋈鉢底爾尾󱀤得迦囉<lb
+ n="0134b04" ed="T"/>野吽撥吒<lb
+ n="0134b05" ed="T"/></ab>
+<ab type="prose">便結上方金剛網印。即前牆印。以二惠開散<lb
+ n="0134b06" ed="T"/>直竪即成。以印頂上右旋三匝。誦真言三遍<lb
+ n="0134b07" ed="T"/>即成。金剛網遍覆其上。真言曰。<lb
+ n="0134b08" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉半惹囉吽撥吒<lb
+ n="0134b09" ed="T"/></ab>
+<ab type="prose">次獻閼伽香水浴聖尊印。用前迎請印。以二<lb
+ n="0134b10" ed="T"/>惠各捻二定根下第一文。以印當心。平舒如<lb
+ n="0134b11" ed="T"/>羸盃形。舉印當額奉獻。若有香水器。即以此<lb
+ n="0134b12" ed="T"/>印按之。加持三遍或一遍。然後捧而獻之。真<lb
+ n="0134b13" ed="T"/>言曰。<lb
+ n="0134b14" ed="T"/></ab>
+<ab type="dharani">唵嚩曰嚕娜迦吽<lb
+ n="0134b15" ed="T"/></ab>
+<ab type="prose">次結寶山印。以獨股杵印。󱂎上節令平如上<lb
+ n="0134b16" ed="T"/>頂形。以二惠並竪押掌中諸度上即成。誦寶<lb
+ n="0134b17" ed="T"/>山真言曰。<lb
+ n="0134b18" ed="T"/></ab>
+<ab type="dharani">唵阿左羅吽<lb
+ n="0134b19" ed="T"/></ab>
+<ab type="prose">次獻蓮花座印。即以前閼伽印。二惠頭向外<lb
+ n="0134b20" ed="T"/>開竪。相去半寸許。如蓮花形。真言曰。<lb
+ n="0134b21" ed="T"/></ab>
+<ab type="dharani">唵嚩日羅尾囉野娑嚩賀<lb
+ n="0134b22" ed="T"/></ab>
+<ab type="prose">次獻五供養先結塗香印。即前獨股杵印。以<lb
+ n="0134b23" ed="T"/>二惠微屈。捻二定下第一文。相去一寸許即<lb
+ n="0134b24" ed="T"/>成。塗香真言曰。<lb
+ n="0134b25" ed="T"/></ab>
+<ab type="dharani">唵迦抳矩嚕馱薩嚩薩怛嚩婆孕<lb
+ n="0134b26" ed="T"/>迦囉囉乞灑囉乞灑薩嚩彥󱂜<lb
+ n="0134b27" ed="T"/>𩕳娑嚩賀<lb
+ n="0134b28" ed="T"/></ab>
+<ab type="prose">次結獻花印。即前獨股杵印。出右惠即成。誦<lb
+ n="0134b29" ed="T"/>獻花真言曰。<pb n="0134c" id="T21.1224.0134c" ed="T"/><lb
+ n="0134c01" ed="T"/></ab>
+<ab type="dharani">唵迦抳補澁波母納婆嚩吽<lb
+ n="0134c02" ed="T"/></ab>
+<ab type="prose">次結燒香印。即前獨股印。出左惠即成。誦燒<lb
+ n="0134c03" ed="T"/>香真言曰。<lb
+ n="0134c04" ed="T"/></ab>
+<ab type="dharani">唵迦抳矩嚕馱塢󰵲囉能瑟吒嚕<lb
+ n="0134c05" ed="T"/>得羯吒佩囉嚩仡哩恨拏仡<lb
+ n="0134c06" ed="T"/>哩恨拏度奔娑嚩賀<lb
+ n="0134c07" ed="T"/></ab>
+<ab type="prose">次結獻食印。準前獨𦙶杵印。出二惠及二信<lb
+ n="0134c08" ed="T"/>頭相柱。餘四度內相叉作拳即成。真言曰。<lb
+ n="0134c09" ed="T"/></ab>
+<ab type="dharani">唵迦抳吽吽娑嚩賀<lb
+ n="0134c10" ed="T"/></ab>
+<ab type="prose">次結燈明印。即前獨股杵印。二惠向身並竪<lb
+ n="0134c11" ed="T"/>即成。誦燈明真言曰。<lb
+ n="0134c12" ed="T"/></ab>
+<ab type="dharani">唵迦抳儞波儞簸野吽撥吒娑嚩<lb
+ n="0134c13" ed="T"/>賀<lb
+ n="0134c14" ed="T"/></ab>
+<ab type="prose">次結普供養印。二手合掌。右押左叉交上一<lb
+ n="0134c15" ed="T"/>節。即是想從此印流出。種種供養。雲海化成<lb
+ n="0134c16" ed="T"/>七寶宮殿樓閣。衣服飲食上好天樂充滿法<lb
+ n="0134c17" ed="T"/>界。供養一切聖眾。今略舉一二。若廣說者。一<lb
+ n="0134c18" ed="T"/>如花嚴經中所說。供養即誦是供真言三遍<lb
+ n="0134c19" ed="T"/>或七遍。真言曰。<lb
+ n="0134c20" ed="T"/></ab>
+<ab type="dharani">唵阿謨伽麼抳鉢納麼入嚩羅鉢<lb
+ n="0134c21" ed="T"/>囉󰨢多耶吽<lb
+ n="0134c22" ed="T"/></ab>
+<ab type="prose">暨如上諸供養已。以右手輪擲金剛杵。誦本<lb
+ n="0134c23" ed="T"/>真言。於眾聖前。心想如對至尊。作踏舞之勢。<lb
+ n="0134c24" ed="T"/>倣像金剛薩埵。於如來前。擲弄其杵。因便加<lb
+ n="0134c25" ed="T"/>持自身五處。左手執取金剛鈴。於額前三度<lb
+ n="0134c26" ed="T"/>搖振。表以天樂音聲供養聖眾令其悅喜。亦<lb
+ n="0134c27" ed="T"/>誦本真言。心住薩埵妙三昧地<lb
+ n="0134c29" ed="T"/>修行者又慮恐承事供養之中。或有忘誤疎<pb n="0135a" id="T21.1224.0135a" ed="T"/><lb
+ n="0135a01" ed="T"/>遺犯三昧耶禁。或有多生宿業罪障由未消<lb
+ n="0135a02" ed="T"/>除。誦金剛部百字真言。以補前潛滅除諸<lb
+ n="0135a03" ed="T"/>過。得身心清淨。與法相應。百字真言曰。<lb
+ n="0135a04" ed="T"/></ab>
+<ab type="dharani">唵嚩日囉薩多嚩三摩野麼<lb
+ n="0135a05" ed="T"/>播攞野嚩日囉薩多嚩怛㕹<lb
+ n="0135a06" ed="T"/>努跛底瑟姹揑哩濯銘婆<lb
+ n="0135a07" ed="T"/>嚩素姤數銘婆嚩阿努囉訖姤<lb
+ n="0135a08" ed="T"/>銘娑嚩素布數銘婆嚩薩嚩悉<lb
+ n="0135a09" ed="T"/>地淫銘鉢囉曳蹉薩嚩羯磨素<lb
+ n="0135a10" ed="T"/>左銘郎多室哩藥矩嚕吽賀賀<lb
+ n="0135a11" ed="T"/>賀賀斛娑誐鑁薩嚩怛他󰵲多嚩<lb
+ n="0135a12" ed="T"/>日囉麼󰫃悶左嚩曰哩婆<lb
+ n="0135a13" ed="T"/>嚩摩賀三麼耶薩多嚩惡<lb
+ n="0135a14" ed="T"/></ab>
+<ab type="prose">其印二手右押左。外相叉作拳直竪。二中指<lb
+ n="0135a15" ed="T"/>相合。此名三昧耶印。由結此印。加身四處。心<lb
+ n="0135a16" ed="T"/>額喉頂。及誦百字真言。能除無始已來一切<lb
+ n="0135a17" ed="T"/>重罪。破四重禁五無間業罪謗方等經。如是<lb
+ n="0135a18" ed="T"/>等罪悉皆消滅。何況誤失小過而不清淨。即<lb
+ n="0135a19" ed="T"/>結本尊印。二手合掌。以二無名左安前居下。<lb
+ n="0135a20" ed="T"/>右安後居上。押左名指背交指。於二中指背<lb
+ n="0135a21" ed="T"/>後。以二頭指各鉤取二名指頭。二中指並竪<lb
+ n="0135a22" ed="T"/>合。二大指亦並竪。捻二中指中節。二小指合<lb
+ n="0135a23" ed="T"/>竪即成。誦根本真言。以印加身四處。真言<lb
+ n="0135a24" ed="T"/>曰。<lb
+ n="0135a25" ed="T"/></ab>
+<ab type="dharani">曩謨囉怛曩怛野野曩莫室戰<lb
+ n="0135a26" ed="T"/>拏嚩日囉播拏曳摩賀藥叉細<lb
+ n="0135a27" ed="T"/>曩鉢多曳怛儞也他唵加抳度𩕳吽<lb
+ n="0135a28" ed="T"/>撥吒娑嚩賀<lb
+ n="0135a29" ed="T"/></ab>
+<ab type="prose">又結第二根本印。即前最初護身印。是亦名<pb n="0135b" id="T21.1224.0135b" ed="T"/><lb
+ n="0135b01" ed="T"/>獨股杵印。此與多羅菩薩印同。第二根本真<lb
+ n="0135b02" ed="T"/>言曰。<lb
+ n="0135b03" ed="T"/></ab>
+<ab type="dharani">曩謨囉怛曩夜野娜莫室戰拏嚩<lb
+ n="0135b04" ed="T"/>日囉播拏曳摩賀藥叉細曩鉢<lb
+ n="0135b05" ed="T"/>多曳怛他也他唵度曩尾度曩迦抳<lb
+ n="0135b06" ed="T"/>矩嚕馱薩嚩演怛囉抳吽<lb
+ n="0135b07" ed="T"/></ab>
+<ab type="prose">次結頭印。即前獨股杵印。以二大指各鉤二<lb
+ n="0135b08" ed="T"/>無名指頭。於掌中捻其上節內即成。真言<lb
+ n="0135b09" ed="T"/>曰。<lb
+ n="0135b10" ed="T"/></ab>
+<ab type="dharani">唵吽吽麼麼撥吒<lb
+ n="0135b11" ed="T"/></ab>
+<ab type="prose">次結頂印。即前獨股杵印。以二大指直竪相<lb
+ n="0135b12" ed="T"/>柱即成。真言曰。<lb
+ n="0135b13" ed="T"/></ab>
+<ab type="dharani">唵紇哩戰拏迦抳諾賀鉢左吽撥<lb
+ n="0135b14" ed="T"/>吒娑嚩賀<lb
+ n="0135b15" ed="T"/></ab>
+<ab type="prose">次結心印。即前根本印。安於心上。以心真言<lb
+ n="0135b16" ed="T"/>加持一遍。真言曰。<lb
+ n="0135b17" ed="T"/></ab>
+<ab type="dharani">唵迦𩕳吽撥吒<lb
+ n="0135b18" ed="T"/></ab>
+<ab type="prose">次捧念珠當心。以隨心真言加持七遍。真言<lb
+ n="0135b19" ed="T"/>曰。<lb
+ n="0135b20" ed="T"/></ab>
+<ab type="dharani">唵迦抳度麼吽撥吒<lb
+ n="0135b21" ed="T"/></ab>
+<ab type="prose">二手當心。持珠念誦身端正坐儼然苦思。心<lb
+ n="0135b22" ed="T"/>住本尊威德妙觀。即與畫像如鏡照形。不一<lb
+ n="0135b23" ed="T"/>不異。淨無瑕穢。外想威光。心住慈悲妙觀。<lb
+ n="0135b24" ed="T"/>愍念六道諸類四生輪迴不息。我今發猛利<lb
+ n="0135b25" ed="T"/>勇信之心。至誠誦念神妙章句。心住本尊瑜<lb
+ n="0135b26" ed="T"/>伽觀智。今我身心既得清淨。迴此功德神力<lb
+ n="0135b27" ed="T"/>加被遍用法界。普濟有情。蒙此加持。皆如我<lb
+ n="0135b28" ed="T"/>身外。若依本經。更有十五餘道。真言及以印<lb
+ n="0135b29" ed="T"/>契總合誦習。令便精熟。待至事相應時棟取<pb n="0135c" id="T21.1224.0135c" ed="T"/><lb
+ n="0135c01" ed="T"/>用之。以備臨事急難。補其不足。亦非常用具。<lb
+ n="0135c02" ed="T"/>在大經中說。此不重敘。臨事若要。自撿取用<lb
+ n="0135c03" ed="T"/>之。<lb
+ n="0135c04" ed="T"/>
+</ab><ab type="juan" subtype="close">大忿怒金剛童子念誦供養儀軌</ab></div><lb
+ n="0135c05" ed="T"/><div type="w" level="2"><ab type="prose">曆應三年七月之比借他筆寫之為令法久<lb
+ n="0135c06" ed="T"/>住也。<lb
+ n="0135c07" ed="T"/>一交了　　悉地金剛經嚴</ab></div></div>
+</body></text></TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說辟除賊害呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1406</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0922a03" ed="T"/><lb
+ n="0922a04" ed="T"/><lb
+ n="0922a05" ed="T"/><div type="jing" level="1"><lb
+ n="0922a06" ed="T"/>
+<ab type="juan" subtype="open">佛說辟除賊害呪經</ab><lb
+ n="0922a07" ed="T"/><lb
+ n="0922a08" ed="T"/><ab type="prose">南無佛南無法南無比丘僧。南無過去七佛。<lb
+ n="0922a09" ed="T"/>南無諸佛南無諸佛弟子。南無諸師南無諸<lb
+ n="0922a10" ed="T"/>師弟子。南無默利薛利鬼神王。禮是已便說<lb
+ n="0922a11" ed="T"/>是呪。令我所呪皆從如願。<lb
+ n="0922a12" ed="T"/>北方有山名健陀摩訶術。有鬼神王名默利<lb
+ n="0922a13" ed="T"/>陰利居止彼。<lb
+ n="0922a14" ed="T"/>有四姊弟。何等為四。<lb
+ n="0922a15" ed="T"/></ab>
+<ab type="dharani">安檀尼　閻摩尼　𤺦摩尼　無呵尼　安<lb
+ n="0922a16" ed="T"/>檀尼　令賊目盲　無訶尼　令賊住　𤺦<lb
+ n="0922a17" ed="T"/>摩尼　令賊坐　無呵尼　令賊愚癡　癡如<lb
+ n="0922a18" ed="T"/>是　漚羅利　無羅利　壇坻遮　波頭摩<lb
+ n="0922a19" ed="T"/>　遮迦利　當使賊　口齒噤　至解縷　乃得<lb
+ n="0922a20" ed="T"/>脫<lb
+ n="0922a21" ed="T"/></ab>
+<ab type="prose">說如是呪已。便言我為某甲若干人等。作擁<lb
+ n="0922a22" ed="T"/>護辟邪害皆令得安隱。<lb
+ n="0922a23" ed="T"/>始諷誦是經時。當用月二十九日。於佛前然<lb
+ n="0922a24" ed="T"/>七燈燒。膠香散花說。是呪七過并。呪願默<lb
+ n="0922a25" ed="T"/>利羅鬼神王使得福德亦。為然燈燒香散花<lb
+ n="0922a26" ed="T"/>復為鬼子母然七燈燒香散花亦。當說是經<lb
+ n="0922a27" ed="T"/>七過後。呪乃告當如是語即。從如願。<lb
+ n="0922a28" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說辟除賊害呪經</ab></div>
+</body></text></TEI>

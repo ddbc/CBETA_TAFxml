@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">蓮華部心念誦儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0875</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0322b10" ed="T"/><lb
+ n="0322b11" ed="T"/><lb
+ n="0322b12" ed="T"/><lb
+ n="0322b13" ed="T"/>
+<ab type="juan" subtype="open">蓮華部心念誦儀軌</ab><lb
+ n="0322b14" ed="T"/><lb
+ n="0322b15" ed="T"/><div type="jing" level="2"><ab type="prose">淨地。<lb
+ n="0322b16" ed="T"/></ab>
+<ab type="dharani">􇖵􄗽􄒼􄖵􄑘􈁛􄙺􇩆􄕻􈆺<lb
+ n="0322b17" ed="T"/></ab>
+<ab type="prose">淨身。<lb
+ n="0322b18" ed="T"/></ab>
+<ab type="dharani">􇩉􄚩􄙖􄙦􈁜􄙺􇩆􄕻􈋪<lb
+ n="0322b19" ed="T"/></ab>
+<ab type="prose">觀佛。<lb
+ n="0322b20" ed="T"/></ab>
+<ab type="dharani">􈆹􄙖􄦽􄕼􄕟<lb
+ n="0322b21" ed="T"/></ab>
+<ab type="prose">金剛起。<lb
+ n="0322b22" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄧃􄕙􆱠􈅼<lb
+ n="0322b23" ed="T"/></ab>
+<ab type="prose">阿閦。<lb
+ n="0322b24" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􇩆􄕗􄕤􄑘􄕗􈁂􄒶􄖵􅁤􄖩􄗱􆿆􈁀􄖫􇩈􄕗<lb
+ n="0322b25" ed="T"/>􄗲􄗧􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄦽􄙺􄽚􄕽􆵋􅁤􄗯􈅼<lb
+ n="0322b26" ed="T"/></ab>
+<ab type="prose">寶生。<lb
+ n="0322b27" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􇩆􄕗􄕤􄑘􄕘􈁂􄒶􄗛􄙴􄑁􄗱􆿆􈁀􄖫􇩈􄕗<lb
+ n="0322b28" ed="T"/>􄗲􄗧􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄗽􅑈􄗛􄙰􄙖􄗯　􄩩<lb
+ n="0322b29" ed="T"/></ab>
+<ab type="prose">無量壽。<pb n="0322c" id="T18.0875.0322c" ed="T"/><lb
+ n="0322c01" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􇩆􄕗􄕤􄑘􄕘􈁂􄒶􄪼􄙖􆕳􄖪􄗲􆿆􄖪􄖫􇩈<lb
+ n="0322c02" ed="T"/>􄕗􄗲􄙼􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄦽􄕻􈊪􄪼􄙖􆕳􄗲􈁝<lb
+ n="0322c03" ed="T"/>􇩵<lb
+ n="0322c04" ed="T"/></ab>
+<ab type="prose">不空成就。<lb
+ n="0322c05" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􇩆􄕗􄕤􄑘􄕘􈁂􄒶􄑀􈆺􄕍􆿆􆿆􈁀􄖫􇩈􄕗<lb
+ n="0322c06" ed="T"/>􄗲􄗧􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄦽􄑀􈆺􄑄􄙂􈁝　􈅺<lb
+ n="0322c07" ed="T"/></ab>
+<ab type="prose">金剛持。<lb
+ n="0322c08" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􇩆􄕗􄕤􄑘􄕗􄑁􄗱􄙗􄹄􆩖􄙖􄦽􄙖􇪯􈁀􄑀<lb
+ n="0322c09" ed="T"/>􄙆􄗧􇩂􄙖􄦽􄙘<lb
+ n="0322c10" ed="T"/></ab>
+<ab type="prose">證定。<lb
+ n="0322c11" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙬􄙼􈁛􄙺􅞣􄙺􄽚􈁀􄙺􅞣􄙼<lb
+ n="0322c12" ed="T"/>􇧹􄗼􄚦􄖵􇩊􈁞􄕗􄕤􄑘􄕘􈋝􄕽􄕙􆵋􅑉<lb
+ n="0322c13" ed="T"/></ab>
+<ab type="prose">遍觀。<lb
+ n="0322c14" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􆯫􆵍􄗥􈁆<lb
+ n="0322c15" ed="T"/></ab>
+<ab type="prose">金剛掌。<lb
+ n="0322c16" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􄒶􄙌<lb
+ n="0322c17" ed="T"/></ab>
+<ab type="prose">金剛縛。<lb
+ n="0322c18" ed="T"/></ab>
+<ab type="dharani">􄙖􄒶􄗍􇧹<lb
+ n="0322c19" ed="T"/></ab>
+<ab type="prose">開心。<lb
+ n="0322c20" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􄙖􄽙<lb
+ n="0322c21" ed="T"/></ab>
+<ab type="prose">入智。<lb
+ n="0322c22" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􄙜􄙢􆿔<lb
+ n="0322c23" ed="T"/></ab>
+<ab type="prose">堅固智。<lb
+ n="0322c24" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􈁃􆵍􄙠<lb
+ n="0322c25" ed="T"/></ab>
+<ab type="prose">普賢三昧耶。<lb
+ n="0322c26" ed="T"/></ab>
+<ab type="dharani">􄙺􄗥􄗱􈃺<lb
+ n="0322c27" ed="T"/></ab>
+<ab type="prose">極喜三昧耶。<lb
+ n="0322c28" ed="T"/></ab>
+<ab type="dharani">􄙺􄗥􄗱􈁟􈂼􄗽􄕗􈃺<lb
+ n="0322c29" ed="T"/></ab>
+<ab type="prose">降三世。<pb n="0323a" id="T18.0875.0323a" ed="T"/><lb
+ n="0323a01" ed="T"/></ab>
+<ab type="dharani">􈁴􈂼􆫌􄖫􈂼􆫌􈁠􈃈􈁒􈃈􈁒􈆭􈃈􈁒􄖵􄗱􈁠􆿆<lb
+ n="0323a02" ed="T"/>􄖩􄗱􈁟􄗙􄑘􄙠􄙖􄦽􈁠􄗁􈁆<lb
+ n="0323a03" ed="T"/></ab>
+<ab type="prose">蓮花三昧耶。<lb
+ n="0323a04" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄖵􇪯􄙺􄗥􄗱􈁁<lb
+ n="0323a05" ed="T"/></ab>
+<ab type="prose">法輪。<lb
+ n="0323a06" ed="T"/></ab>
+<ab type="dharani">􈁠􄓚􈁡􆷷􄓚􄗱􄗥􄚩􄙘􄗾􄑘􄙖􄒶􄙖􄦽􄕻􄗽􄙺<lb
+ n="0323a07" ed="T"/>􄟝􄖩􄓱<lb
+ n="0323a08" ed="T"/></ab>
+<ab type="prose">大慾。<lb
+ n="0323a09" ed="T"/></ab>
+<ab type="dharani">􈁴􈂼􄗽􄕗􄙖􄧇　􄧈􈅼􄙠􄚰􄙺􄗥􄗱􈁁<lb
+ n="0323a10" ed="T"/></ab>
+<ab type="prose">大樂金剛。<lb
+ n="0323a11" ed="T"/></ab>
+<ab type="dharani">􈁴􄗥􄚩􈂼􄑌􄙖􄧇􄙻􄕻􄗱􄙺􅞣􄙺􄽟􄢢􄓁􈅼􈆯<lb
+ n="0323a12" ed="T"/>􈁟<lb
+ n="0323a13" ed="T"/></ab>
+<ab type="prose">召罪。<lb
+ n="0323a14" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄖶􄖵􄑀􅞻􄕋􄙘􄙪􄕻􄖩􄙖􄦽􄙺􄽙􄙺􄗥<lb
+ n="0323a15" ed="T"/>􄗱􈅼􄗁􈁆<lb
+ n="0323a16" ed="T"/></ab>
+<ab type="prose">擢罪。<lb
+ n="0323a17" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄖶􄕍􄙘􆷹􄓚􄗱􄙺􇩆􄖶􄗱􄗍􇧺􄖪􄖫􄪼<lb
+ n="0323a18" ed="T"/>􄗭􄚴􄗱􄙺􅞣􄖶􄗱􄑘􄕙􄢥􄙺􅞣􄙺􄽚􄙺􇩆􄕗􄕤<lb
+ n="0323a19" ed="T"/>􄑘􄕗􄙖􄦽􄙺􄗥􄗱􈅼􄩞􈁆<lb
+ n="0323a20" ed="T"/></ab>
+<ab type="prose">淨三業。<lb
+ n="0323a21" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄑀􈊪􄙘􄙪􄕻􄗱􄙺􅞣􄙖􄗽􄕋􄖫􈎭􇧹􄙺<lb
+ n="0323a22" ed="T"/>􄡾􄖩􄙺􄗥􄗱􈅼<lb
+ n="0323a23" ed="T"/></ab>
+<ab type="prose">菩提心。<lb
+ n="0323a24" ed="T"/></ab>
+<ab type="dharani">􈁴􄑼􈁢􅑈􄙄􈂼􄗥􅑈􄗙􄩶􄑂􄗽􄕍􄗥􄚩􄙖􄦽􄕍<lb
+ n="0323a25" ed="T"/>􈅼<lb
+ n="0323a26" ed="T"/></ab>
+<ab type="prose">普禮。<lb
+ n="0323a27" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄖶􄕯􄙖􆩮􈁀􄑀􄙆􄗧<lb
+ n="0323a28" ed="T"/></ab>
+<ab type="prose">通達心。<lb
+ n="0323a29" ed="T"/></ab>
+<ab type="dharani">􈁴􄑾􆽕􄪼􄕙􄙜􄕻􄑀􄙆􄗧<pb n="0323b" id="T18.0875.0323b" ed="T"/><lb
+ n="0323b01" ed="T"/></ab>
+<ab type="prose">證菩提心。<lb
+ n="0323b02" ed="T"/></ab>
+<ab type="dharani">􈁴􄗕􄕽􄑾􆽕􈁃􈋞􄕯􄗲􄗧<lb
+ n="0323b03" ed="T"/></ab>
+<ab type="prose">明顯。<lb
+ n="0323b04" ed="T"/></ab>
+<ab type="dharani">􈁴􄕙􆵋􄙖􄦽􄖵􇪯<lb
+ n="0323b05" ed="T"/></ab>
+<ab type="prose">八葉蓮花。<lb
+ n="0323b06" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄖵􇪯􈇪􄑈􄚲<lb
+ n="0323b07" ed="T"/></ab>
+<ab type="prose">觀身本尊。<lb
+ n="0323b08" ed="T"/></ab>
+<ab type="dharani">􈁴􄗱􄕤􄙺􅞣􄕗􄕤􄑘􄕘􆶩􄕤􄚲<lb
+ n="0323b09" ed="T"/></ab>
+<ab type="prose">諸如來加持。<lb
+ n="0323b10" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕗􈁣􄚦􄗕􄕽􆯫􄗁􄙖􄦽􄕙􆵋<lb
+ n="0323b11" ed="T"/></ab>
+<ab type="prose">四如來三昧耶。<lb
+ n="0323b12" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄙺􄽚􄕽􆵋􅁥􈁝􇖴􈅼<lb
+ n="0323b13" ed="T"/>􈁴􄙖􄦽􄖩􅑉􄕽􆵋􅁥􈁝􇖴􄩩<lb
+ n="0323b14" ed="T"/>􈁴􄙖􄦽􄕻􈊪􄕽􆵋􅁥􈁝􇖴􇩵<lb
+ n="0323b15" ed="T"/>􈁴􄙖􄦽􄑀􈆺􄕽􆵋􅁥􈁝􇖴􆿔<lb
+ n="0323b16" ed="T"/></ab>
+<ab type="prose">五佛灌頂。<lb
+ n="0323b17" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕝􈂫􅝪􄗛􄙴􄑀􆿁<lb
+ n="0323b18" ed="T"/>􈁴􄙖􄦽􄙺􄽚􄗛􈁤􄑼􈁝􈅼<lb
+ n="0323b19" ed="T"/>􈁴􄙖􄦽􄗽􅑉􄗛􈁤􄑼􈁝􇩳<lb
+ n="0323b20" ed="T"/>􈁴􄙖􄦽􄖵􈋟􄗛􈁤􄑼􈁝􇩵<lb
+ n="0323b21" ed="T"/>􈁴􄙖􄦽􄑀􈆺􄗛􈁤􄑼􈁝􆿔<lb
+ n="0323b22" ed="T"/></ab>
+<ab type="prose">四如來鬘。<lb
+ n="0323b23" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄙺􄽙􄗦􄙋􄗛􈁤􄑼􈁝􄙠<lb
+ n="0323b24" ed="T"/>􈁴􄙖􄦽􄗽􅑈􄗥􄙋􄗛􈁤􄑼􈁝􄙠<lb
+ n="0323b25" ed="T"/>􈁴􄙖􄦽􄖵􈋟􄗦􄙋􄗛􈁤􄑼􈁝􄙠<lb
+ n="0323b26" ed="T"/>􈁴􄙖􄦽􄑀􈆺􄗥􄙋􄗛􈁤􄑼􈁝􄙠<lb
+ n="0323b27" ed="T"/>􈁴􈁥<lb
+ n="0323b28" ed="T"/></ab>
+<ab type="prose">金剛拍。<lb
+ n="0323b29" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄕛􄣖􈁟<pb n="0323c" id="T18.0875.0323c" ed="T"/><lb
+ n="0323c01" ed="T"/></ab>
+<ab type="prose">現智身。<lb
+ n="0323c02" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􄙺􄽙􆿔<lb
+ n="0323c03" ed="T"/></ab>
+<ab type="prose">見智身。<lb
+ n="0323c04" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄙺􄽙􆯫􄣊􄓁􈅼􄙠􄚳<lb
+ n="0323c05" ed="T"/></ab>
+<ab type="prose">如來平等三昧耶。<lb
+ n="0323c06" ed="T"/></ab>
+<ab type="dharani">􄙺􄗥􄗹􄚲􄗥􄚩􄙺􄗥􄗹􄚲<lb
+ n="0323c07" ed="T"/>􈁴􄙘􄗥􄙐􄕯􄕽􈅼<lb
+ n="0323c08" ed="T"/></ab>
+<ab type="prose">八功德水。<lb
+ n="0323c09" ed="T"/></ab>
+<ab type="dharani">􄚲􄙠􄪼􈂼􄑊<lb
+ n="0323c10" ed="T"/></ab>
+<ab type="prose">須彌山。<lb
+ n="0323c11" ed="T"/></ab>
+<ab type="dharani">􈁴􆿅􄑼􄙊􈅼<lb
+ n="0323c12" ed="T"/></ab>
+<ab type="prose">小金剛輪。<lb
+ n="0323c13" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄑼􄥇􈅼<lb
+ n="0323c14" ed="T"/></ab>
+<ab type="prose">啟請。<lb
+ n="0323c15" ed="T"/></ab>
+<ab type="dharani">􄗱􈁦􄖫􅞥􅍕􄙺􈁧􄥇􄙼􄽳􄣣􄕗􈁃􄚮􄙖􄕝􄙖􄦽<lb
+ n="0323c16" ed="T"/>􄑄􆧽􄙌􄚮􄕛􈁦􄕗􄢤􄗥􈁨􄙺􄕰􄖩􄗰<lb
+ n="0323c17" ed="T"/></ab>
+<ab type="prose">開門。<lb
+ n="0323c18" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄽲􄙆􈋟􄓚􄗱􄙺􄗥􄗱􄪼􄙜􄙢􄗱􈅼<lb
+ n="0323c19" ed="T"/></ab>
+<ab type="prose">啟請伽陀曰。<lb
+ n="0323c20" ed="T"/></ab>
+<ab type="dharani">􆿆􈁩􄕛􄙺􅞩􄗝􄙖􄖩􄑀􄙻􈁛􄪼􈇱􄗧􈁛􄙢􄙮􄑀<lb
+ n="0323c21" ed="T"/>􄓛􄗽􄗦􈁪􄙻􄚴􆮧􄕘􄖩􅑈􄗙􄙖􅁤􄗚􈁫􅁥􄗻􄗝<lb
+ n="0323c22" ed="T"/>􄙞􄖩􅑈􄗙􄙖􅁤􄗙􈁫<lb
+ n="0323c23" ed="T"/></ab>
+<ab type="prose">佛海會。<lb
+ n="0323c24" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄙺􄗥􄒶􄓁<lb
+ n="0323c25" ed="T"/></ab>
+<ab type="prose">東。<lb
+ n="0323c26" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􄙺􄽙􄗥􄚩􄙺􄽙􄙖􄦽􄙺􅞣􆩖􄕤􄑘􄕗􄙺􄗥<lb
+ n="0323c27" ed="T"/>􆩖􄗙􄩶􄙖􄦽􇩊􄙖􄦽􄖶􄕋􄖩􄗭􈁨􄕝<lb
+ n="0323c28" ed="T"/>􄙖􄦽􄗾􄒶􈂼􈎭􇧺􈁬􄙖􈁺􄑄􄙢􄕗􄕤􄑘􄕗􆿅􄗭<lb
+ n="0323c29" ed="T"/>􄑤􄗾􄒶􄙖􄦽􈁬􄙖􄦽􄑀􅞻􄖩􄗭􈁨􄕝<pb n="0324a" id="T18.0875.0324a" ed="T"/><lb
+ n="0324a01" ed="T"/>􄙖􄦾􄗾􄑘􄗥􄚩􄚤􄛌􄙖􄦽􄙗􄕋􄙖􄙬􄑀􄗽􄗦􄗽<lb
+ n="0324a02" ed="T"/>􄑁􄗥􄗥􄚩􄙖􄦽􄙖􄦽􄑼􄖵􄖩􄗭􈁨􄕝<lb
+ n="0324a03" ed="T"/>􄙖􄦽􄙺􄕽􈂼􄙖􄦽􈁬􄙖􄦽􄕛􈁭􄗥􄚩􄗽􄕝􄪽􄗭<lb
+ n="0324a04" ed="T"/>􇩊􄗽􄒶􄙖􄦽􈁬􄙖􄦽􄚩􅞻􄗽􄗭􈁨􄕝<lb
+ n="0324a05" ed="T"/>􄙖􄦽􄗽􅑈􈂼􄙖􄦽􅚼􄙖􄦽􄑁􄙢􄗥􄚩􄗥􄕍􆿆􄑀<lb
+ n="0324a06" ed="T"/>􄙢􄑘􅝑􄙖􄦽􈃃􄙖􄦽􄑘􅝑􄗽􄗭􈁨􄕝<lb
+ n="0324a07" ed="T"/>􄙖􄦽􄕝􄒶􄗥􄚩􈁊􄙊􄙖􄦽􈃳􅝩􄒸􄗽􄪼􄗙􄙖􄦽<lb
+ n="0324a08" ed="T"/>􄗽􅊶􄗥􄚩􄕝􄒶􄪼􄗙􄗽􄗭􈁨􄕝<lb
+ n="0324a09" ed="T"/>􄙖􄦽􄑆􄕛􈂼􄙺􄽚􅚼􄙖􄦽􈅣􄒶􈂼􄕟􄙮􄑀􄗽􅑈<lb
+ n="0324a10" ed="T"/>􄑆􄕛􄗥􄚩􄙖􄦽􄙖􄦽􄗱􈁭􄖩􄗭􈁨􄕝<lb
+ n="0324a11" ed="T"/>􄙖􄦽􄚩􄙺􄗥􄚩􄚩􄙺􄙖􄦽􅋎􄕗􄗥􄚩􈁯􄕗􄪿􄕙<lb
+ n="0324a12" ed="T"/>􄪽􄗭􇩊􄙖􄦽􇩊􄙖􄦽􄪿􄕝􄖩􄗭􈁨􄕝<lb
+ n="0324a13" ed="T"/></ab>
+<ab type="prose">西。<lb
+ n="0324a14" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􄕻􈆺􈂼􄙺􄽚􅚼􄙖􄦽􄖵􇪯􈂼􄙢􄕻􄑀􄙒􄑆<lb
+ n="0324a15" ed="T"/>􈂫􄗽􈂼􄙖􄦽􄚴􄙖􄦽􄕝􄩞􄖩􄗭􈁨􄕝<lb
+ n="0324a16" ed="T"/>􄙖􄦽􄕚􈁱􄗥􄚩􄗲􄖩􄙖􄦽􄑈􄙢􄗥􄚩􄗵􄕻􄗯􄒺<lb
+ n="0324a17" ed="T"/>􈊸􄙖􄦽􈁲􄗜􅝩􄙖􄦽􈎭􇧼􄖩􄗭􈁨􄕝<lb
+ n="0324a18" ed="T"/>􄙖􄦽􄚮􄕛􄗥􄚩􄗥􆧽􄙖􄦽􄑼􄥇􄗥􄚩􄖩􄗱􈂼􄪼<lb
+ n="0324a19" ed="T"/>􄙖􇪱􄖩􄙖􄧅􄒪􄙖􄦽􄗥􆧽􄗽􄗭􈁨􄕝<lb
+ n="0324a20" ed="T"/>􄙖􄦽􄗚􄙮􈂼􄙘􄟰􈁬􄙖􄦽􄒶􄖵􈂼􄙼􄽳􄕯􆿅􄙗<lb
+ n="0324a21" ed="T"/>􄑼􄙖􄦽􄑾􄟼􈁬􄙖􄦽􄗟􄙯􄖩􄗭􈁨􄕝<lb
+ n="0324a22" ed="T"/></ab>
+<ab type="prose">北。<lb
+ n="0324a23" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􄑀􈆺􈂼􄙖􄦽􈁳􄑀􄓚􈆺􄙖􄦽􈂼􄙺􅞣􄑘􄙖<lb
+ n="0324a24" ed="T"/>􄦽􄗭􄑤􄗥􄚰􄕯􅝩􄙖􄦽􄙘􈂫􄖩􄗭􈁨􄕝<lb
+ n="0324a25" ed="T"/>􄙖􄦽􄗽􄚴􄗥􄚩􄙜􅝴􄙖􄦽􄕻􈆺􄗥􄚩􆯫􄓾􈇚􅝯<lb
+ n="0324a26" ed="T"/>􄕻􄖩􈂼􄙙􇩇􈁬􄙖􄦽􄙙􅝩􄖩􄗭􈁨􄕝<lb
+ n="0324a27" ed="T"/>􄙖􄦽􄗱􄚴􄗥􄚰􄖶􄗱􄙖􄦽􄕹􈇒<lb
+ n="0324a28" ed="T"/>􄗥􄚩􄗙􄗱􄗥􄗽􄪼􄗥􅛊􄙖􄧃􄥟􄙖􄦽􄑼􆧽􄖩􄗭<lb
+ n="0324a29" ed="T"/>􈁨􄕝<pb n="0324b" id="T18.0875.0324b" ed="T"/><lb
+ n="0324b01" ed="T"/>􄙖􄦽􄚦􄕽􈂼􄙺􄖯􄟻􄙖􄦽􄙖􄽙􄪼􄗭􄑼􄑀􄙖􄦽<lb
+ n="0324b02" ed="T"/>􈁃􈋠􈁬<lb
+ n="0324b03" ed="T"/>􈁴􄙖􄦽􄗾􅑈􆿉　􈁴􄙖􄦽􄕝􄒶􈂵<lb
+ n="0324b04" ed="T"/>􈁴􄙖􄦽􄑆􄕛􈂷　􈁴􄙖􄦽􄚩􄙺􄚳<lb
+ n="0324b05" ed="T"/>􈁴􄙖􄦽􄕻􈆺􇩵　􈁴􄙖􄦽􄕚􈁵􄖧<lb
+ n="0324b06" ed="T"/>􈁴􄙖􄦽􄚮􄕛􄗯　􇩂􄙖􄦽􄗚􄙮􄙈<lb
+ n="0324b07" ed="T"/>􈁴􄙖􄦽􄑀􈆺􄑊　􇩂􄙖􄦽􄗽􄚴􄚲<lb
+ n="0324b08" ed="T"/>􈁴􄙖􄦽􄗱􄚴􈆭　􇩂􄙖􄦽􄚦􄚮􄙠<lb
+ n="0324b09" ed="T"/></ab>
+<ab type="prose">內口供養。<lb
+ n="0324b10" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄙋􄙺􄚳　􇩂􄙖􄦽􄗥􄙊􈁶<lb
+ n="0324b11" ed="T"/>􈁴􄙖􄦽􈁷􄕝􈁸　􇩂􄙖􄦽􆯫􄟝􆮧􈁆<lb
+ n="0324b12" ed="T"/></ab>
+<ab type="prose">外四供養。<lb
+ n="0324b13" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􈃁􄖵􆿔　􈁴􄙖􄦽􄖹􈆶􈁴<lb
+ n="0324b14" ed="T"/>􈁴􄙖􄦽􄙒􄑆􈁹　􇩂􄙖􄦽􄑘􇧼􄑣<lb
+ n="0324b15" ed="T"/></ab>
+<ab type="prose">四攝。<lb
+ n="0324b16" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􈁺􄑄􄙢􄓁　􇩂􄙖􄦽􄖶􄙢􆿁<lb
+ n="0324b17" ed="T"/>􇩂􄙖􄦽􆷷􈁆􄙠　􇩂􄙖􄦽􄙜􄙢􈁟<lb
+ n="0324b18" ed="T"/>􈅼􈅼</ab>
+<ab type="prose">已上羯磨會。<lb
+ n="0324b19" ed="T"/>五佛。<lb
+ n="0324b20" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􈂤􄙈􆿔　􄙖􄦽􈂤􄖳􈅼<lb
+ n="0324b21" ed="T"/>􄙖􄦽􈂤􄖳􄩩　􄙖􄦽􈂤􄖩􇩵<lb
+ n="0324b22" ed="T"/>􄙖􄦽􈂤􄖳􆿔<lb
+ n="0324b23" ed="T"/></ab>
+<ab type="prose">四波羅蜜。<lb
+ n="0324b24" ed="T"/></ab>
+<ab type="dharani">􄙖􄦽􈁻􆿁　􄙖􄦽􄑞􄙁􄩩<lb
+ n="0324b25" ed="T"/>􄙖􄦽􄕘􄗽􇩵　􄑌􄙖􄦿􄕍􈁟<lb
+ n="0324b26" ed="T"/></ab>
+<ab type="prose">十六尊。<lb
+ n="0324b27" ed="T"/></ab>
+<ab type="dharani">􄙺􄗥􄗱􈁁　􆿆􄖩􄗱􅁤<lb
+ n="0324b28" ed="T"/>􆿅􄚰􈂼􄑌　􄙺􈃁􄙻􈃁<lb
+ n="0324b29" ed="T"/>􈂼􄗥􄚩􄽣　􄙃􄖽􄟷􄕗<pb n="0324c" id="T18.0875.0324c" ed="T"/><lb
+ n="0324c01" ed="T"/>􆿅􅛔􄪽􆻦　􄚨􄚨􈅼􄚳<lb
+ n="0324c02" ed="T"/>􄙺􅞣􄑁􈁼　􈉔􄑌􇪡􄕯<lb
+ n="0324c03" ed="T"/>􈎭􇧹􄗕􄕽　􄪼􄕙􄙢􆷁<lb
+ n="0324c04" ed="T"/>􈂼􄙖􄙤􄽣　􄖫􅝑􄗱􄽣<lb
+ n="0324c05" ed="T"/>􄙢􄩣􄗙􄚴　􄙺􅞣􄙼􄽳<lb
+ n="0324c06" ed="T"/></ab>
+<ab type="prose">八供養。<lb
+ n="0324c07" ed="T"/></ab>
+<ab type="dharani">􄗥􄚨􄗽􄕙　􄙃􄖵􄙨􄗟<lb
+ n="0324c08" ed="T"/>􄑠􄩞􄚣􄛒　􄙺􅞣􈁂􄒼<lb
+ n="0324c09" ed="T"/>􄪼􆱨􄕱􄖫　􄗁􄙊􄑘􄗫<lb
+ n="0324c10" ed="T"/>􈂼􄕝􄒷􄥡　􈂼􄑘􄓳􆥽<lb
+ n="0324c11" ed="T"/></ab>
+<ab type="prose">四攝。<lb
+ n="0324c12" ed="T"/></ab>
+<ab type="dharani">􆿆􄗱􄚪􄓁　􆿆􄚪􆿁􆿁<lb
+ n="0324c13" ed="T"/>􄚮􆷹􄓚􄙠　􄑮􄓚􆿔􆿔<lb
+ n="0324c14" ed="T"/></ab>
+<ab type="prose">遍照尊。<lb
+ n="0324c15" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄕼􄽙􄖭􆽕􄗽􈁂􄒶􆷱􄗽<lb
+ n="0324c16" ed="T"/>􄕋􄙺􄗥􄗷􆿁<lb
+ n="0324c17" ed="T"/></ab>
+<ab type="prose">金剛薩埵。<lb
+ n="0324c18" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙖􄦽􄙺􄽙􄖭􆽕􄗽􈁂􄒶􆷱􄗽<lb
+ n="0324c19" ed="T"/>􄕋􄙺􄗥􄗷􈅼<lb
+ n="0324c20" ed="T"/></ab>
+<ab type="prose">金剛寶。<lb
+ n="0324c21" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅚰􄕗􄕤􄑘􄕘􄙖􄦽􄗽􅑈􄖭􆽕􄗽􈁂􄒶􆷱􄗽<lb
+ n="0324c22" ed="T"/>􄕋􄙺􄗥􄗷􈅼<lb
+ n="0324c23" ed="T"/></ab>
+<ab type="prose">金剛法。<lb
+ n="0324c24" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄕻􈆺􄖭􆽕􄗽􈁂􄒶􆷱􄗽<lb
+ n="0324c25" ed="T"/>􄕋􄙺􄗥􄗷􈅼<lb
+ n="0324c26" ed="T"/></ab>
+<ab type="prose">金剛業。<lb
+ n="0324c27" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄑀􈆺􄖭􄕗􄗽􈁂􄒶􆷱􄗽<lb
+ n="0324c28" ed="T"/>􄕋􄙺􄗥􄗷􈁴<lb
+ n="0324c29" ed="T"/></ab>
+<ab type="prose">心上金剛縛。<pb n="0325a" id="T18.0875.0325a" ed="T"/><lb
+ n="0325a01" ed="T"/>東。<lb
+ n="0325a02" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙺􅞣􈇪􄖫􅝩􄕗􄖩􈁂􄒶􆷱􄗽<lb
+ n="0325a03" ed="T"/>􄕋􄑀􈊪􄙖􄦿􇩱<lb
+ n="0325a04" ed="T"/></ab>
+<ab type="prose">右脇。<lb
+ n="0325a05" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄙺􅞤􈇪􄖫􅝪􄕗􄖩􈁂􄒶􆷱􄗽<lb
+ n="0325a06" ed="T"/>􄕋􄑀􈊪􄥡􄓁<lb
+ n="0325a07" ed="T"/></ab>
+<ab type="prose">左脇。<lb
+ n="0325a08" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄙺􄑄􈇪􄖫􅝩􄕗􄖪􄖭􄗽􄑘􄕋<lb
+ n="0325a09" ed="T"/>􈁂􄒶􆷱􄗽􄕋􄑀􈊪􄙗􄕋􈅼􄚰<lb
+ n="0325a10" ed="T"/></ab>
+<ab type="prose">要後。<lb
+ n="0325a11" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙺􅞤􈇪􄖫􇩈􄕗􄖩􄙻􈃁􄑁􄗽<lb
+ n="0325a12" ed="T"/>􈁂􄒶􆷱􄗽􄕋􄑀􈆺􄕛􆵍􄚧<lb
+ n="0325a13" ed="T"/></ab>
+<ab type="prose">額上　南。<lb
+ n="0325a14" ed="T"/></ab>
+<ab type="dharani">􈁴􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕘􄗛􄙴􄑀􄗽􅑈􄢢􄙖􄦽􄗥<lb
+ n="0325a15" ed="T"/>􄕍􈁴<lb
+ n="0325a16" ed="T"/></ab>
+<ab type="prose">心上。<lb
+ n="0325a17" ed="T"/></ab>
+<ab type="dharani">􈁴􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕗􈂼􅝯􄢢􄙖􄦽􄕝􄒸􄖫􈁊<lb
+ n="0325a18" ed="T"/>􄙊􇩵<lb
+ n="0325a19" ed="T"/></ab>
+<ab type="prose">頂上。<lb
+ n="0325a20" ed="T"/></ab>
+<ab type="dharani">􇩂􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕘􄙣􄖵􄙀􈁂􄗽􄕋􄑾􆩖􄗥<lb
+ n="0325a21" ed="T"/>􄕍􈅣􄒶􄥥􄢢􄙖􄦽􈅣􄒶􄥡􈂷<lb
+ n="0325a22" ed="T"/></ab>
+<ab type="prose">口上咲處。<lb
+ n="0325a23" ed="T"/></ab>
+<ab type="dharani">􇩂􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕘􄗥􄚩􈋢􄕙􄪽􄗭􄟰􄑀􄙄<lb
+ n="0325a24" ed="T"/>􄢢􄑀􄙄􄢢􄙖􄦽􄚨􄚢􄚳<lb
+ n="0325a25" ed="T"/></ab>
+<ab type="prose">口上密語　西。<lb
+ n="0325a26" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄦽􄕻􈆺􄕘􈂼􄗥􄕽􈁾􈁨􄖪<lb
+ n="0325a27" ed="T"/>􄗧􄗥􄚩􄕻􈊪􄥡􇩵<lb
+ n="0325a28" ed="T"/></ab>
+<ab type="prose">右耳。<lb
+ n="0325a29" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄪼􈂤􄖶􄗽􄗧􄕘􈁾􄖫􅟛􈁨􄖱<lb
+ n="0325a30" ed="T"/>􄗧􄗥􄚩􄑬􄙮􄖭􄑞􄖧<pb n="0325b" id="T18.0875.0325b" ed="T"/><lb
+ n="0325b01" ed="T"/></ab>
+<ab type="prose">左耳。<lb
+ n="0325b02" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄑼􄥇􄚴􄗽􄖵􄙀􄙖􇪱􄖩􄙺􅞣<lb
+ n="0325b03" ed="T"/>􈂼􄩟􄕗􄖩􄗱􈂡􈁨􄖱􄗧􄙺􅞣􄗥􆧽􄙊􈅼<lb
+ n="0325b04" ed="T"/></ab>
+<ab type="prose">頂後。<lb
+ n="0325b05" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄚦􄕼􄗚􄙮􈎭􇧹􇩀􈁷􄕙􈁾􄑘<lb
+ n="0325b06" ed="T"/>􄕹􈁨􄖱􄗧􄙖􄦽􄙗􄒤􄒩<lb
+ n="0325b07" ed="T"/></ab>
+<ab type="prose">頂上　北。<lb
+ n="0325b08" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕗􈎭􄖵􄗫􄑤􄙺􈁃􆷱􄗽􄕋􈁂􄒶<lb
+ n="0325b09" ed="T"/>􄑀􆍋􄑀􄗽􄑀􄙉<lb
+ n="0325b10" ed="T"/></ab>
+<ab type="prose">右肩上。<lb
+ n="0325b11" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􈁂􈆵􄪼􄙺􄗽􆷱􄗽􄕋􈁂􄒶􄑀<lb
+ n="0325b12" ed="T"/>􆍋􄑂􄙀􄑂􈃖<lb
+ n="0325b13" ed="T"/></ab>
+<ab type="prose">右跨上。<lb
+ n="0325b14" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙒􄑀􈁊􄙊􆷱􄗽􄕋􈁂􄒶􄑀􆍋<lb
+ n="0325b15" ed="T"/>􄗙􄗽􄗙􄙉<lb
+ n="0325b16" ed="T"/></ab>
+<ab type="prose">置心上。<lb
+ n="0325b17" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄑘􄖭􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􈁂<lb
+ n="0325b18" ed="T"/>􄒶􄑀􆍋􄑄􄙂􄑄􄙉<lb
+ n="0325b19" ed="T"/></ab>
+<ab type="prose">散□外四。<lb
+ n="0325b20" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄖹􈆵􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽<lb
+ n="0325b21" ed="T"/>􄕋􄙺􄗥􄗷􈅼<lb
+ n="0325b22" ed="T"/></ab>
+<ab type="prose">燒香。<lb
+ n="0325b23" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕗􈃁􄖵􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽<lb
+ n="0325b24" ed="T"/>􄕋􄙺􄗥􄗷􇩴<lb
+ n="0325b25" ed="T"/></ab>
+<ab type="prose">燈。<lb
+ n="0325b26" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄕲􄖵􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽<lb
+ n="0325b27" ed="T"/>􄕋􄙺􄗥􄗷􈅼<lb
+ n="0325b28" ed="T"/></ab>
+<ab type="prose">塗香。<lb
+ n="0325b29" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄑘􄾫􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽<lb
+ n="0325b30" ed="T"/>􄕋􄙺􄗥􄗫􈅼<pb n="0325c" id="T18.0875.0325c" ed="T"/><lb
+ n="0325c01" ed="T"/></ab>
+<ab type="prose">三昧耶。<lb
+ n="0325c02" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄗕􄟻􄑘􄗽􅑈􄙔􄑁􄗽􈁂􄒶􄗫<lb
+ n="0325c03" ed="T"/>􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼<lb
+ n="0325c04" ed="T"/></ab>
+<ab type="prose">戲嬉。<lb
+ n="0325c05" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄚩􄣢􄙋􄣣􄥊􈂢􄗽􄕙􄚣􄛍􆽕<lb
+ n="0325c06" ed="T"/>􄗽􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼<lb
+ n="0325c07" ed="T"/></ab>
+<ab type="prose">薩埵三昧。<lb
+ n="0325c08" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄙖􄧃􄖵􄗥􄙺􄗦􄕽􄗚􄙖􄖪􄖶<lb
+ n="0325c09" ed="T"/>􄖩􄙞􄒶􄖩􄙖􄙺􄖩􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺<lb
+ n="0325c10" ed="T"/>􄗥􄗷􈅼<lb
+ n="0325c11" ed="T"/></ab>
+<ab type="prose">羯磨三昧。<lb
+ n="0325c12" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄑁􄗱􄖫􇩈􄕗􄖩􄪼􄒷􄗫􄑤􄙺<lb
+ n="0325c13" ed="T"/>􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼<lb
+ n="0325c14" ed="T"/></ab>
+<ab type="prose">達磨三昧。<lb
+ n="0325c15" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄑾􆽕􄖫􅝪􄕗􄖩􈁂􄒶􄗫􄑤􄙺<lb
+ n="0325c16" ed="T"/>􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼<lb
+ n="0325c17" ed="T"/></ab>
+<ab type="prose">寶幢三昧。<lb
+ n="0325c18" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄗥􄚩􄙖􄧃􆹊􄙖􄕷􄖩􄖶􄗽􄗧<lb
+ n="0325c19" ed="T"/>􄕘􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼<lb
+ n="0325c20" ed="T"/></ab>
+<ab type="prose">□香身契。<lb
+ n="0325c21" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄖭􆽕􄗽􄗥􄚩􄗕􄟼􄚩􄗽􄑀􄙥<lb
+ n="0325c22" ed="T"/>􄙊􄖶􄗽􄗧􄕗􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷<lb
+ n="0325c23" ed="T"/>􈅼<lb
+ n="0325c24" ed="T"/></ab>
+<ab type="prose">羯磨。<lb
+ n="0325c25" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕗􄖭􆽕􄗽􄗥􄚩􄕻􈆺􄙖􄗕􄕻􄚵<lb
+ n="0325c26" ed="T"/>􄕙􄖵􄗽􄗧􄕗􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷<lb
+ n="0325c27" ed="T"/>􈅼<lb
+ n="0325c28" ed="T"/></ab>
+<ab type="prose">鬪勝精進契。<lb
+ n="0325c29" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕗􄚦􄙻􄗽􄖶􄙀􄟘􄑙􄖭􆽕􄗽􄗥<lb
+ n="0325c30" ed="T"/>􄚩􄙙􅝩􄖶􄗽􄗧􄕘􈁂􄒶􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺<pb n="0326a" id="T18.0875.0326a" ed="T"/><lb
+ n="0326a01" ed="T"/>􄗥􄗷􆿁<lb
+ n="0326a02" ed="T"/></ab>
+<ab type="prose">三摩地。<lb
+ n="0326a03" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕗􄖭􆽕􄗽􄗥􄚩􄚣􄛌􄙘􄚩􄗽􄟻<lb
+ n="0326a04" ed="T"/>􄖩􄖶􄗽􄗧􄕗􈁂􄒷􄗫􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷<lb
+ n="0326a05" ed="T"/>􈅼<lb
+ n="0326a06" ed="T"/></ab>
+<ab type="prose">遍照尊。<lb
+ n="0326a07" ed="T"/></ab>
+<ab type="dharani">􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄖭􆽕􄗽􄯁􄑘􈂣􄗲􄙖􄗽􄕋􄙗<lb
+ n="0326a08" ed="T"/>􄙺􄖪􄙘􄖩􄗱􄖩􄗥􄚩􄪼􈂤􄖶􄗽􄗧􄕗􈁂􄒶􄗫􄑤<lb
+ n="0326a09" ed="T"/>􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􈅼<lb
+ n="0326a10" ed="T"/></ab>
+<ab type="prose">勝上三摩地。<lb
+ n="0326a11" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕘􄑜􄡸􄗥􄚩􄪼􄕙􄖵􆩘􈁂􄒶􄗫<lb
+ n="0326a12" ed="T"/>􄑤􄙺􈁃􄩶􆷱􄗽􄕋􄙺􄗥􄗷􆿁<lb
+ n="0326a13" ed="T"/></ab>
+<ab type="prose">合指爪。<lb
+ n="0326a14" ed="T"/></ab>
+<ab type="dharani">􇩂􄙺􅞣􄕗􄕤􄑘􄕗􄙞􄖫􇩈􄕗􄖩􈁂􄒶􄗫􄑤􄙺􈁃<lb
+ n="0326a15" ed="T"/>􇪰􆷱􄗽􄕋􄙺􄗥􄗷􆿁<lb
+ n="0326a16" ed="T"/></ab>
+<ab type="prose">金剛拳。<lb
+ n="0326a17" ed="T"/></ab>
+<ab type="dharani">􇩂􆱨􄕯􄗱􄖬􄙰􄕘􄖫􄙺􅞣􄕗􄕤􄑘􄕘􈁀􄙼􈁙􆽖<lb
+ n="0326a18" ed="T"/></ab>
+<ab type="prose">三昧耶。<lb
+ n="0326a19" ed="T"/></ab>
+<ab type="dharani">􄙺􅞣􈁃􈋬􄗫􆯷􄗲􄗙􄙖􄕛<lb
+ n="0326a20" ed="T"/></ab>
+<ab type="prose">法印。<lb
+ n="0326a21" ed="T"/></ab>
+<ab type="dharani">􄖫􄥫􄖿􄑼􄙗􈋤􄽳􄗙􄙖􄕛􄙺􅞣􄕗􄕤􄑘􄕘􄙺􄗥<lb
+ n="0326a22" ed="T"/>􄕻􄗷􄗫􆿆􄒶􄗱􅑈<lb
+ n="0326a23" ed="T"/></ab>
+<ab type="prose">羯磨印。<lb
+ n="0326a24" ed="T"/></ab>
+<ab type="dharani">􆿅􄙘􄟰􄽚􄙖􄕝􄗫􄙺􈉐􄙺􅞣􄕗􄕤􄑘􄕡􈂽􄙘􇩊<lb
+ n="0326a25" ed="T"/>􄕽􄑘􄗥􄚦􄙖􄗽􄙺􄗞􆽕<lb
+ n="0326a26" ed="T"/></ab>
+<ab type="prose">金剛三昧。<lb
+ n="0326a27" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄙺􄽙􄙺􄗥􄗱􄗥􄖭􄖶􄙊􄗱􄙖􄦽􄙺􄽙􄾱<lb
+ n="0326a28" ed="T"/>􄖱􄖵􄕙􆵋􆯫􄚰􄗫􄗙􄙖􄗧􈂼􄕛􄡄􄗫􄗙􄙖􆿅􄖭<lb
+ n="0326a29" ed="T"/>􄗽􈃌􄗫􄗙􄙖􈂼􄖹􄣞􄗫􄗙􄙖􄙺􅞣􄙼􈂧􄗫􄪼􄗱<pb n="0326b" id="T18.0875.0326b" ed="T"/><lb
+ n="0326b01" ed="T"/>􇩹􄙺􅞣􄑀􅝝􈂼􄑼􄗫􄑾􆽕􄭥􄗱􄑄􄙂􆿁􄚨􄚨􄚨<lb
+ n="0326b02" ed="T"/>􄚨􈁟􄗙􄑘􄙠􄙺􅞣􄕗􄕤􄑘􄕗􄙖􄦽􄗦􄗥􈆿􄑼􄙖<lb
+ n="0326b03" ed="T"/>􄧀􄗙􄙖􄗥􄚩􄙺􄗥􄗱􄙺􄽚􇩱<lb
+ n="0326b04" ed="T"/></ab>
+<ab type="prose">蓮華部三昧。<lb
+ n="0326b05" ed="T"/></ab>
+<ab type="dharani">􇩂􄖵􇪯􄙺􄽙􄙺􄗥􄗱􄖭􄖶􄙊􄗱􄖵􇪯􄙺􄽙􄿭􄖱<lb
+ n="0326b06" ed="T"/>􄖵􄕙􆵋􆯫􄚰􄗫􄚨􄙖􈂼􄕟􄣞􄗫􄗙􄙖􈂼􄖭􄗽􈃌<lb
+ n="0326b07" ed="T"/>􄗫􄗙􄙖􈂼􄖹􄣞􄗫􄗙􄙖􄙺􅞣􄙼􈂧􄗫􄪼􄗱􇩹􄙺<lb
+ n="0326b08" ed="T"/>􅞣􄑀􈆺􈂼􄑼􄗫􄑾􆩘􄭥􄗱􄑄􄙂􆿁􄚨􄚨􄚨􄚨􄚰<lb
+ n="0326b09" ed="T"/>􄗙􄑘􄙠􄙺􅞣􄕗􄕤􄑘􄕗􄖵􇪯􄗦􄗥􈂱􄑼􄖵􅇜􄗙<lb
+ n="0326b10" ed="T"/>􄙖􄗥􄚩􄙺􄗥􄗱􄙺􄽙􇩵<lb
+ n="0326b11" ed="T"/></ab>
+<ab type="prose">旋轉真言。<lb
+ n="0326b12" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􄦽􄑜􄡸􄒷􄖵􄙺􄗥􄗷􆿁<lb
+ n="0326b13" ed="T"/></ab>
+<ab type="prose">奉送。<lb
+ n="0326b14" ed="T"/></ab>
+<ab type="dharani">􇩂􆮧􄕟􄙺􅞣􄙡􄙺􄽚􅚼􄙼􄽳􅛈􆽕􄗱􄕤􄖭􄑙􄑘<lb
+ n="0326b15" ed="T"/>􇩹􄕭􈎭􇧹􄙘􄙮􄗻􄖹􄖩􄗽􄑘􄗥􄖩􄗱􄕛􈁴􄖵􇪯<lb
+ n="0326b16" ed="T"/>􄙺􄽙􈂨<lb
+ n="0326b17" ed="T"/></ab>
+<ab type="prose">寶印。<lb
+ n="0326b18" ed="T"/></ab>
+<ab type="dharani">􈁴􄙖􈁊􄗽􄗛􄙰􄑼􈁝􄙺􅞣􈁃􄩶􄗭􆯫􄚫􄑄􄙂􄙖<lb
+ n="0326b19" ed="T"/>􄗽􄑀􄙖􄒤􄖩􄙠􄙖􄦽􄕛􄣖􈁟<lb
+ n="0326b20" ed="T"/><lb
+ n="0326b21" ed="T"/>􆿅􅝪􄙼􄕗<lb
+ n="0326b22" ed="T"/>􄖩􄗭􄗧􄕘􄗙􄗱􄖩􄗭􄗧􄕗􄗵􄙮􇟄􄖩􄗭􄖩􄗫􄑾<lb
+ n="0326b23" ed="T"/>􄟗􄑜􄕋􄑀􄗽􈇪􄖯􇟄􄖩􄗭􄗧􄕘􄗙􄗱􄒸􄖩􄗱􄕝<lb
+ n="0326b24" ed="T"/>􄗭􄖯􈂼􄑌􄙖􈋭􄑀􄖩􄑀􄙘􄑾􄩞􄑀􄖩􈁀􇟄􄗥􈂢<lb
+ n="0326b25" ed="T"/>􄗽􄗦􈂼􄑘􄕗􈂼􄕞􄗽􄙔􆮧􈁀􇟄􄕗􄙗􈃡􄗱􇪯􄕗<lb
+ n="0326b26" ed="T"/>􄑜􄕋􄣢􄕽􄗥􄕢􇟄􄪼􄗱􄗧􈂩􄗥􈂪􄑜􄕋􄗽􅑈􄚦<lb
+ n="0326b27" ed="T"/>􄑼􈁩<lb
+ n="0326b28" ed="T"/>􈁴􄖩􄗰􈆯􈅼􄩩􇩵􇩱􄓁􈅼􈆯􈁟<lb
+ n="0326b29" ed="T"/>􄖩􄗰<pb n="0326c" id="T18.0875.0326c" ed="T"/><lb
+ n="0326c01" ed="T"/>􄙖􄦽􄕻􄕛􄕻􅝝􆿏􄑀􄙙􄕽􄗽􇩹<lb
+ n="0326c02" ed="T"/></ab>
+<ab type="prose">略念誦　行道及草草時念誦法。<lb
+ n="0326c03" ed="T"/>先護身自器世間至被甲　次結小金剛輪印<lb
+ n="0326c04" ed="T"/>真言誦之　次結根本印誦根本真言加持四<lb
+ n="0326c05" ed="T"/>處　次金剛合掌置頂上誦􇩂字二十一遍是<lb
+ n="0326c06" ed="T"/>供養法也　次結根本印念誦根本真言二十<lb
+ n="0326c07" ed="T"/>一遍以下不必捻珠數自茲以後隨宜行耳。</ab></div><lb
+ n="0326c08" ed="T"/><div type="w" level="2"><ab type="prose">寫本云。<lb
+ n="0326c09" ed="T"/>永長二秊四月二十七日奉寫了僧賢尊。<lb
+ n="0326c10" ed="T"/>請來之內以般若寺僧正手筆之本書之。</ab></div></div>
+</body></text></TEI>

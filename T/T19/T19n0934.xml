@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說無量功德陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0934</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0080a20" ed="T"/><lb
+ n="0080a21" ed="T"/><lb
+ n="0080a22" ed="T"/><div type="jing" level="1"><lb
+ n="0080a23" ed="T"/>
+<ab type="juan" subtype="open">佛說無量功德陀羅尼經</ab><lb
+ n="0080a24" ed="T"/><lb
+ n="0080a25" ed="T"/><byline>西天譯經三藏朝散大夫試光<lb
+ n="0080a26" ed="T"/>祿卿明教大師臣法賢奉　詔譯</byline><lb
+ n="0080a27" ed="T"/><ab type="prose">爾時世尊告阿難言。汝當諦聽我今為汝及<lb
+ n="0080a28" ed="T"/>末法眾生。宣說無量功德陀羅尼。汝當憶念<lb
+ n="0080a29" ed="T"/>勿得忘失。使於當來濁惡世中。與諸眾生作<pb n="0080b" id="T19.0934.0080b" ed="T"/><lb
+ n="0080b01" ed="T"/>大善利。阿難若有眾生得聞此陀羅尼。每日<lb
+ n="0080b02" ed="T"/>晨朝誦二十一遍。是人於千劫中所積惡業<lb
+ n="0080b03" ed="T"/>悉皆消滅。見身獲得安隱快樂。若人志心持<lb
+ n="0080b04" ed="T"/>誦一洛叉數。是人當來得見慈氏菩薩。若持<lb
+ n="0080b05" ed="T"/>誦二洛叉數。當來得見觀自在菩薩。若持誦<lb
+ n="0080b06" ed="T"/>三洛叉數。當來得見無量壽佛。即說陀羅尼<lb
+ n="0080b07" ed="T"/>曰。<lb
+ n="0080b08" ed="T"/></ab>
+<ab type="dharani">那謨囉怛那怛囉夜野那莫阿<lb
+ n="0080b09" ed="T"/>哩也阿彌多婆野怛他誐多野<lb
+ n="0080b10" ed="T"/>阿囉曷帝三藐訖三沒馱野怛<lb
+ n="0080b11" ed="T"/>󰍕他阿彌帝阿彌覩訥婆味<lb
+ n="0080b12" ed="T"/>阿彌多三婆味阿彌多尾訖蘭帝<lb
+ n="0080b13" ed="T"/>阿彌多尾訖蘭多誐彌儞誐誐<lb
+ n="0080b14" ed="T"/>那計哩底羯哩薩哩嚩訖梨<lb
+ n="0080b15" ed="T"/>舍剎煬羯哩曳娑嚩賀<lb
+ n="0080b17" ed="T"/></ab>
+<ab type="prose">爾時阿難。得聞如來說是無量功德陀羅尼<lb
+ n="0080b18" ed="T"/>已。歡喜信受禮佛而退。<lb
+ n="0080b19" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說無量功德陀羅尼經</ab></div>
+</body></text></TEI>

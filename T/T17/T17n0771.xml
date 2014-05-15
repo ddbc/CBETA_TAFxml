@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">四品學法經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0771</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level="1">
+<lb
+ n="0707c14" ed="T"/><lb
+ n="0707c15" ed="T"/><lb
+ n="0707c16" ed="T"/><lb
+ n="0707c17" ed="T"/>
+<ab type="juan" subtype="open">四品學法經</ab><lb
+ n="0707c18" ed="T"/><lb
+ n="0707c19" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
+ n="0707c20" ed="T"/><div type="jing" level="2"><ab type="prose">其有三德學，號真學，為上品；<lb
+ n="0707c21" ed="T"/>其持具戒學，號承法，為中品；<lb
+ n="0707c22" ed="T"/>其受卑戒學，號依福學，為下品；<lb
+ n="0707c23" ed="T"/>其行三事，號散侍，為外品。<lb
+ n="0707c24" ed="T"/>又真學三德者，一曰、戒行備具；二曰、多知經<lb
+ n="0707c25" ed="T"/>法；三曰、能化度人。是為三德，號真學者也。<lb
+ n="0707c26" ed="T"/>又承法具戒者，純五戒，信審罪福，奉承法教<lb
+ n="0707c27" ed="T"/>也。又依福卑戒者，但持上四戒，不持酒戒，<lb
+ n="0707c28" ed="T"/>隨世習俗，不變欲事，是為依福學也。<lb
+ n="0707c29" ed="T"/>又散侍三事，非戒也。何謂三？一者、身歸法；<pb n="0708a" ed="T" id="T17.0771.0708a"/><lb
+ n="0708a01" ed="T"/>二者、供養法；三、名於同學法。持自有弓分<lb
+ n="0708a02" ed="T"/>別，無師無所承，自然心好，無所拘礙，名散<lb
+ n="0708a03" ed="T"/>侍法也。真學功德勝於承法學百倍也，承法<lb
+ n="0708a04" ed="T"/>功德勝依福百倍也，依福功德百倍勝散侍<lb
+ n="0708a05" ed="T"/>也，散侍功德勝凡俗百倍也。凡俗之人或不<lb
+ n="0708a06" ed="T"/>如畜生，畜生或勝於人。所以者何？人作罪，不<lb
+ n="0708a07" ed="T"/>止入地獄，罪竟為餓鬼；餓鬼罪竟，轉為畜<lb
+ n="0708a08" ed="T"/>生；畜生罪竟，乃還為人。畜生中皆畢罪，便<lb
+ n="0708a09" ed="T"/>得為人。是故人當作善，奉行三尊之教，學上<lb
+ n="0708a10" ed="T"/>四品之法，長離三惡道，展轉天上，下生人中<lb
+ n="0708a11" ed="T"/>豪尊，世世受福，德長解脫。</ab></div><lb
+ n="0708a12" ed="T"/>
+<ab type="juan" subtype="close">四品學法經</ab><lb
+ n="0708a13" ed="T"/><div type="w" level="2"><ab type="prose">若失威儀一事者，常自學如法，應時自<lb
+ n="0708a14" ed="T"/>赴誡誨即解。若懈怠不勤者，應退著下座，<lb
+ n="0708a15" ed="T"/>後有功德乃更復之；若受語不用及犯戒<lb
+ n="0708a16" ed="T"/>者，應便彈棄莫著眾中，恐敗餘人；若新受<lb
+ n="0708a17" ed="T"/>法未滿三月者，其有所犯，先不應問也，未<lb
+ n="0708a18" ed="T"/>習故也。若諸學者，承用此律，上下相檢，乃<lb
+ n="0708a19" ed="T"/>可至竟，疾成大願。</ab></div><lb
+ n="0708a20" ed="T"/><div type="w" level="2"><head>散侍法</head><lb
+ n="0708a21" ed="T"/><ab type="prose">問曰：「若有善男子，欲入正道，欲依大道而<lb
+ n="0708a22" ed="T"/>不耐戒，當作何行以求福祥？」師曰：「亦有<lb
+ n="0708a23" ed="T"/>三事，名散侍法，好可奉。何謂三？一者、身所<lb
+ n="0708a24" ed="T"/>護法，二者、供養法，三者、於同學法。行此<lb
+ n="0708a25" ed="T"/>三事，即勝作凡俗時百倍也。「又散侍身所<lb
+ n="0708a26" ed="T"/>能法者云何？雖不持戒，當與凡俗小異；<lb
+ n="0708a27" ed="T"/>遊居之處數就有經道之處，若見世俗所<lb
+ n="0708a28" ed="T"/>行善者、法之惡者，莫用好言識也，醜語<lb
+ n="0708a29" ed="T"/>勿名，是為散侍第一法。「又散侍供養法者，<pb n="0708b" ed="T" id="T17.0771.0708b"/><lb
+ n="0708b01" ed="T"/>云何當侍三寶？朝夕莫懈，心常歸向，並<lb
+ n="0708b02" ed="T"/>修經書。若居貧窮無用供養者，當加勤仂，<lb
+ n="0708b03" ed="T"/>見人福躬親佐助，心代其歡，是為散侍第<lb
+ n="0708b04" ed="T"/>二法。「又散侍於同學法者云何？當敬愛其<lb
+ n="0708b05" ed="T"/>輩無相憍慢，坐起念之，出入參之，如己觀<lb
+ n="0708b06" ed="T"/>也；若行路者，近則相問，遠當待望，慎莫背<lb
+ n="0708b07" ed="T"/>忽，是為散侍第三法。」師曰：「行者三事雖<lb
+ n="0708b08" ed="T"/>未即度，猶如地多石多草，種雖不好故得<lb
+ n="0708b09" ed="T"/>少少，以續其時，猶勝不種也。種業不廢，會<lb
+ n="0708b10" ed="T"/>得好地，所種乃成，收歛有盈，斯亦然矣！行<lb
+ n="0708b11" ed="T"/>之不休，福德扶持，會受真戒號。」</ab></div></div>
+</body></text></TEI>

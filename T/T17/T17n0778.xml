@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說菩薩內習六波羅蜜經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0778</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0714b04" ed="T"/><lb
+ n="0714b05" ed="T"/><lb
+ n="0714b06" ed="T"/><lb
+ n="0714b07" ed="T"/>
+<ab type="juan" subtype="open">佛說菩薩內習六波羅蜜經</ab><lb
+ n="0714b08" ed="T"/><lb
+ n="0714b09" ed="T"/><byline>後漢臨淮沙門嚴佛調譯</byline><lb
+ n="0714b10" ed="T"/><div type="jing" level="1"><ab type="prose">佛言：「欲學菩薩道者，當從此始：一、數，二、隨，三、<lb
+ n="0714b11" ed="T"/>止，四、觀，五、還，六、淨。」佛言：「一、數，為檀波羅蜜。數<lb
+ n="0714b12" ed="T"/>息者，神得上天，為布施身中神，自致得須陀<lb
+ n="0714b13" ed="T"/>洹、斯陀含、阿那含、阿羅漢、辟支佛，得作佛，是<lb
+ n="0714b14" ed="T"/>為內檀波羅蜜，為布施得度。」<lb
+ n="0714b15" ed="T"/>佛言：「二、相隨，為尸波羅蜜。意與心相隨俱出<lb
+ n="0714b16" ed="T"/>入，不邪念、意不轉，為不犯道禁，是為內尸波<lb
+ n="0714b17" ed="T"/>羅蜜，為不犯道禁得度。」佛言：「三、止，為羼提波<lb
+ n="0714b18" ed="T"/>羅蜜。意欲、婬怒、瞋恚能忍不為；口欲、甘肥、美<lb
+ n="0714b19" ed="T"/>味、身欲得細滑，自制意能忍、不受，是為內<lb
+ n="0714b20" ed="T"/>羼提波羅蜜，為忍辱得度。」佛言：「四、明觀，為惟<lb
+ n="0714b21" ed="T"/>逮波羅蜜。內觀三身，體外觀萬物，皆當壞敗，<lb
+ n="0714b22" ed="T"/>無有常存，不復貪心。向道，念無為、常分別、不<lb
+ n="0714b23" ed="T"/>懈怠，是為內惟逮波羅蜜，為精進得度。」<lb
+ n="0714b24" ed="T"/>佛言：「五、還，為禪波羅蜜。斷六入、還五陰。何謂<lb
+ n="0714b25" ed="T"/>六入？色入眼為衰，聲入耳為衰，香入鼻為衰，<lb
+ n="0714b26" ed="T"/>味入口為衰，細滑入身為衰，多念令心衰，<lb
+ n="0714b27" ed="T"/>是為六入，亦為六衰，亦為五陰。何謂五陰？色<lb
+ n="0714b28" ed="T"/>陰、痛痒陰、思想陰、生殊陰、識陰，是為五陰。還<lb
+ n="0714b29" ed="T"/>身守淨，斷求念空，是為內禪波羅蜜，而守一<pb n="0714c" ed="T" id="T17.0778.0714c"/><lb
+ n="0714c01" ed="T"/>得度。」<lb
+ n="0714c02" ed="T"/>佛言：「六、淨，為般若波羅蜜。知人萬物皆當消<lb
+ n="0714c03" ed="T"/>滅，意不淨向生死，愛欲斷，心淨潔，智慧成就，<lb
+ n="0714c04" ed="T"/>是為內摩訶般若波羅蜜，從黠慧得度。」問曰：<lb
+ n="0714c05" ed="T"/>「何等為檀？何等為尸？何等為羼？何等為惟逮？<lb
+ n="0714c06" ed="T"/>何等為禪？何等為般若？何等為波羅蜜？」佛言：<lb
+ n="0714c07" ed="T"/>「檀為布施，尸為持戒，羼為忍辱，惟逮為精進，禪<lb
+ n="0714c08" ed="T"/>為棄惡，般若為黠慧，波羅為從生死得度，<lb
+ n="0714c09" ed="T"/>蜜為無極，是為六波羅蜜。」<lb
+ n="0714c10" ed="T"/>問曰：「何以故正有六波羅蜜？」<lb
+ n="0714c11" ed="T"/>佛言：「用人有婬怒、瞋恚、愚癡故，行布施為除<lb
+ n="0714c12" ed="T"/>惡貪，持戒為除婬怒，忍辱為除瞋恚，精進<lb
+ n="0714c13" ed="T"/>為除懈怠，一心為除亂意，智慧為除愚癡，用<lb
+ n="0714c14" ed="T"/>欲去六事故，作是六波羅蜜。」<lb
+ n="0714c15" ed="T"/>佛言：「人有六匿賊盜，斷惡故，作檀波羅蜜主<lb
+ n="0714c16" ed="T"/>制身，尸波羅蜜主制眼，羼提波羅蜜主制耳，<lb
+ n="0714c17" ed="T"/>惟逮波羅蜜主制鼻，禪波羅蜜主制口，般若<lb
+ n="0714c18" ed="T"/>波羅蜜主制意。」<lb
+ n="0714c19" ed="T"/>問曰：「何以故身應檀波羅蜜？」<lb
+ n="0714c20" ed="T"/>佛言：「人索頭，與頭；索眼，與眼；索肉，與肉。投身餓<lb
+ n="0714c21" ed="T"/>虎，是為布施故，屬檀波羅蜜。」<lb
+ n="0714c22" ed="T"/>問曰：「何以故眼應尸波羅蜜？」<lb
+ n="0714c23" ed="T"/>佛言：「眼不隨色，意不亂念，是為持戒，故屬尸<lb
+ n="0714c24" ed="T"/>波羅蜜。」<lb
+ n="0714c25" ed="T"/>問曰：「何以故耳應羼提波羅蜜？」<lb
+ n="0714c26" ed="T"/>佛言：「耳聞惡聲，不瞋恚，是為忍辱，故屬羼提<lb
+ n="0714c27" ed="T"/>波羅蜜。」<lb
+ n="0714c28" ed="T"/>問曰：「何以故鼻應惟逮波羅蜜？」<lb
+ n="0714c29" ed="T"/>佛言：「鼻知息出入，常守不離，是為精進，故屬<pb n="0715a" ed="T" id="T17.0778.0715a"/><lb
+ n="0715a01" ed="T"/>惟逮波羅蜜。」<lb
+ n="0715a02" ed="T"/>問曰：「何以故口應禪波羅蜜？」<lb
+ n="0715a03" ed="T"/>佛言：「口不罵詈、不兩舌、不妄言、不綺語，是為<lb
+ n="0715a04" ed="T"/>寂然，故屬禪波羅蜜。」<lb
+ n="0715a05" ed="T"/>問曰：「何以故意應般若波羅蜜？」<lb
+ n="0715a06" ed="T"/>佛語：「阿難！汝曹為道，常當曉了知定諸垢濁<lb
+ n="0715a07" ed="T"/>穢、清淨自然，不起不滅，悉斷諸根。諸根斷已，<lb
+ n="0715a08" ed="T"/>不得復生。為道者，當發平等廣度一切，施<lb
+ n="0715a09" ed="T"/>立法橋，當令一切得入法門，廣作唱導，無<lb
+ n="0715a10" ed="T"/>端無底、無形無聲、無邊無際、無上無下，立教當<lb
+ n="0715a11" ed="T"/>施，本無之中持法當使，如來求道，當在於心，<lb
+ n="0715a12" ed="T"/>心意不正，道亦不生。立行當於本無之中，垢<lb
+ n="0715a13" ed="T"/>濁以除，內外清淨，從淨見明，以致自然已現，<lb
+ n="0715a14" ed="T"/>是空之淨。淨而復淨，空而復空，空無所有，是<lb
+ n="0715a15" ed="T"/>乃為道。道之本無，無所倚著；上無所攀，下<lb
+ n="0715a16" ed="T"/>無所據；左無所牽，右無所持；自然而立，清<lb
+ n="0715a17" ed="T"/>淨為本；空空之空，故曰泥洹。於有而無所有，<lb
+ n="0715a18" ed="T"/>故為有；於無而不無，是為無；於得而無所得，<lb
+ n="0715a19" ed="T"/>是為得也。」<lb
+ n="0715a20" ed="T"/></ab>
+<ab type="verse">
+第一發意菩薩、　　第二持地菩薩、　　<lb
+ n="0715a21" ed="T"/>第三應行菩薩、　　第四生貴菩薩、　　<lb
+ n="0715a22" ed="T"/>第五修成菩薩、　　第六行登菩薩、　　<lb
+ n="0715a23" ed="T"/>第七不退轉菩薩、　　第八童真菩薩、　　<lb
+ n="0715a24" ed="T"/>第九了生菩薩、　　第十補處菩薩。　　
+</ab></div><lb
+ n="0715a25" ed="T"/>
+<ab type="juan" subtype="close">佛說菩薩內習六波羅蜜經</ab>
+</body></text></TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">緣本致經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0037</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0820b18" ed="T"/><lb
+ n="0820b19" ed="T"/><lb
+ n="0820b20" ed="T"/><div type="jing" level="1"><lb
+ n="0820b21" ed="T"/>
+<ab type="juan" subtype="open">佛說緣本致經</ab><lb
+ n="0820b22" ed="T"/><lb
+ n="0820b23" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
+ n="0820b24" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
+ n="0820b25" ed="T"/>告諸比丘：「愛訒深有，榮色未起，為纏沒住，亦<lb
+ n="0820b26" ed="T"/>有本栽，非無緣致。愛有耽荒，本致熟在，狂醉<lb
+ n="0820b27" ed="T"/>為受，不明觀解，是名癡本。<lb
+ n="0820b28" ed="T"/>「癡緣所生，亦為有本。何等為本？眩曜色聲，五<lb
+ n="0820b29" ed="T"/>蓋馳惑，斯生癡本矣。<pb n="0820c" ed="T" id="T01.0037.0820c"/><lb
+ n="0820c01" ed="T"/>「五蓋蔽冥，致影沈吟，亦為有本。何等為本？三<lb
+ n="0820c02" ed="T"/>惡種牽，斯謂為本。<lb
+ n="0820c03" ed="T"/>「三惡栽習，亦為有本。何等為本？不攝根識，斯<lb
+ n="0820c04" ed="T"/>亦為本。<lb
+ n="0820c05" ed="T"/>「不攝根識，緣致有本。何等為本？謂非所應念，<lb
+ n="0820c06" ed="T"/>專候不已，斯謂本也。「非應所念，亦從本緣，<lb
+ n="0820c07" ed="T"/>不為無本。何等為本？不從正信，迷於所向，<lb
+ n="0820c08" ed="T"/>斯謂本也。「不信從謬，亦有緣致，非為無本。何<lb
+ n="0820c09" ed="T"/>等為本？惡師所引，非法聽受，斯謂為本。「非正<lb
+ n="0820c10" ed="T"/>失聽，亦有緣本。何等為本？違背賢聖英㑺之<lb
+ n="0820c11" ed="T"/>聚，斯謂為本。<lb
+ n="0820c12" ed="T"/>「乖錯賢㑺緣致違背，亦為有本。何等為本？<lb
+ n="0820c13" ed="T"/>失於戴仰虛心集樂，斯謂本矣。如是，比丘！<lb
+ n="0820c14" ed="T"/>夫失賢眾清高之聚，身口意行視聽惑滿，胸<lb
+ n="0820c15" ed="T"/>心閉塞矣。以非法見，信向毀矣。正道負背則<lb
+ n="0820c16" ed="T"/>邪見增，邪見增則內攝喪，內攝喪則三惡興<lb
+ n="0820c17" ed="T"/>恣，三惡興恣則五蓋盈滿，五蓋盈滿則癡本<lb
+ n="0820c18" ed="T"/>足，癡本足則愛受盛，以斯轉種增著猗有，塵<lb
+ n="0820c19" ed="T"/>染無際矣。<lb
+ n="0820c20" ed="T"/>「度世明慧，昇于脫要，亦為有本。何謂度世智<lb
+ n="0820c21" ed="T"/>慧解脫之本？七覺法妙，謂為致本。<lb
+ n="0820c22" ed="T"/>「七覺鏡照，亦為有本。何等為本？謂四意止，斯<lb
+ n="0820c23" ed="T"/>則覺本。「四意靜止，由從有本，非無有本。其義<lb
+ n="0820c24" ed="T"/>焉在？謂清淨潔妙，其行在三。<lb
+ n="0820c25" ed="T"/>「三清淨行，亦為有本，非無有本。本義為何？<lb
+ n="0820c26" ed="T"/>謂守攝諸根，斯則為本。<lb
+ n="0820c27" ed="T"/>「守攝諸根，亦為有本，非無有本。本義為何？謂<lb
+ n="0820c28" ed="T"/>鏡鑑玄照，斯為本念矣。<lb
+ n="0820c29" ed="T"/>「本念照往，亦為有本，緣致入正。何等為本？本<pb n="0821a" ed="T" id="T01.0037.0821a"/><lb
+ n="0821a01" ed="T"/>念造勝，謂之樹信。<lb
+ n="0821a02" ed="T"/>「信亦有本，不為無本。何等信本？謂多聞經道<lb
+ n="0821a03" ed="T"/>次第典要，斯謂為本。<lb
+ n="0821a04" ed="T"/>「聞於經法，亦為有本，不為無本。何等聞法？謂<lb
+ n="0821a05" ed="T"/>賢行澄清業真者也。<lb
+ n="0821a06" ed="T"/>「賢者清淨，亦為有本。何等為本？謂㑺行清<lb
+ n="0821a07" ed="T"/>真潔白之聚。<lb
+ n="0821a08" ed="T"/>「如是，比丘！賢者集勝依附明哲，奉事多聞能<lb
+ n="0821a09" ed="T"/>致信本，信本已立便得正念，正念已樹守攝<lb
+ n="0821a10" ed="T"/>諸根，根守已建登三行淨，已三清淨便四意<lb
+ n="0821a11" ed="T"/>止，四意止立便七覺意；七覺意成立，是即無<lb
+ n="0821a12" ed="T"/>為解脫度世。」佛說如是，弟子受行。<lb
+ n="0821a13" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說緣本致經</ab></div>
+</body></text></TEI>

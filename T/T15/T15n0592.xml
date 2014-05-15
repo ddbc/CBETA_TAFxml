@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">天請問經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T15</biblScope>
+                    <idno type="Taisho">T15n0592</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0124b09" ed="T"/><lb
+ n="0124b10" ed="T"/><lb
+ n="0124b11" ed="T"/><lb
+ n="0124b12" ed="T"/>
+<ab type="juan" subtype="open">天請問經</ab><lb
+ n="0124b13" ed="T"/><lb
+ n="0124b14" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
+ n="0124b15" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時薄伽梵在室羅筏國，住誓<lb
+ n="0124b16" ed="T"/>多林給孤獨園。時有一天，顏容殊妙，過於<lb
+ n="0124b17" ed="T"/>夜分，來詣佛所，頂禮佛足，却住一面。是天<lb
+ n="0124b18" ed="T"/>威光，甚大赫奕，周遍照曜誓多園林。爾時<lb
+ n="0124b19" ed="T"/>彼天以妙伽他而請佛曰：<lb
+ n="0124b20" ed="T"/></ab>
+<ab type="verse">
+「云何利刀劍？　　云何磣毒藥？　　<lb
+ n="0124b21" ed="T"/>云何熾盛火？　　云何極重暗？」　　
+</ab><lb
+ n="0124b22" ed="T"/><ab type="prose">爾時世尊亦以伽他告彼天曰：<lb
+ n="0124b23" ed="T"/></ab>
+<ab type="verse">
+「麁言利刀劍，　　貪欲磣毒藥，　　<lb
+ n="0124b24" ed="T"/>瞋恚熾盛火，　　無明極重暗。」　　
+</ab><lb
+ n="0124b25" ed="T"/><ab type="prose">天復請曰：</ab>
+<ab type="verse">
+「何人名得利？　　何人名失利？　　<lb
+ n="0124b26" ed="T"/>何者堅鉀冑？　　何者利刀杖？」　　
+</ab><lb
+ n="0124b27" ed="T"/><ab type="prose">世尊告曰：</ab>
+<ab type="verse">
+「施者名得利，　　受者名失利，　　<lb
+ n="0124b28" ed="T"/>忍為堅鉀冑，　　慧為利刀杖。」　　
+</ab><lb
+ n="0124b29" ed="T"/><ab type="prose">天復請曰：</ab>
+<ab type="verse">
+「云何為盜賊？　　云何智者財？　　<pb n="0124c" ed="T" id="T15.0592.0124c"/><lb
+ n="0124c01" ed="T"/>誰於天世間，　　說名能劫盜？」　　
+</ab><lb
+ n="0124c02" ed="T"/><ab type="prose">世尊告曰：</ab>
+<ab type="verse">
+「邪思為盜賊，　　尸羅智者財，　　<lb
+ n="0124c03" ed="T"/>於諸天世間，　　犯戒能劫盜。」　　
+</ab><lb
+ n="0124c04" ed="T"/><ab type="prose">天復請曰：</ab>
+<ab type="verse">
+「誰為最安樂？　　誰為大富貴？　　<lb
+ n="0124c05" ed="T"/>誰為恒端嚴？　　誰為常醜陋？」　　
+</ab><lb
+ n="0124c06" ed="T"/><ab type="prose">世尊告曰：</ab>
+<ab type="verse">
+「少欲最安樂，　　知足大富貴，　　<lb
+ n="0124c07" ed="T"/>持戒恒端嚴，　　破戒常醜陋。」　　
+</ab><lb
+ n="0124c08" ed="T"/><ab type="prose">天復請曰：</ab>
+<ab type="verse">
+「誰為善眷屬？　　誰為惡心怨？　　<lb
+ n="0124c09" ed="T"/>云何極重苦？　　云何第一樂？」　　
+</ab><lb
+ n="0124c10" ed="T"/><ab type="prose">世尊告曰：</ab>
+<ab type="verse">
+「福為善眷屬，　　罪為惡心怨，　　<lb
+ n="0124c11" ed="T"/>地獄極重苦，　　無生第一樂。」　　
+</ab><lb
+ n="0124c12" ed="T"/><ab type="prose">天復請曰：</ab>
+<ab type="verse">
+「何者愛非宜？　　何者宜非愛？　　<lb
+ n="0124c13" ed="T"/>何者極熱病？　　誰是大良醫？」　　
+</ab><lb
+ n="0124c14" ed="T"/><ab type="prose">世尊告曰：</ab>
+<ab type="verse">
+「諸欲愛非宜，　　解脫宜非愛，　　<lb
+ n="0124c15" ed="T"/>貪為極熱病，　　佛是大良醫。」　　
+</ab><lb
+ n="0124c16" ed="T"/><ab type="prose">天復請曰：</ab>
+<ab type="verse">
+「誰能覆世間？　　世間誰所魅？　　<lb
+ n="0124c17" ed="T"/>誰令捨親友？　　誰復障生天？」　　
+</ab><lb
+ n="0124c18" ed="T"/><ab type="prose">世尊告曰：</ab>
+<ab type="verse">
+「無智覆世間，　　世間癡所魅，　　<lb
+ n="0124c19" ed="T"/>慳貪捨親友，　　染著障生天。」　　
+</ab><lb
+ n="0124c20" ed="T"/><ab type="prose">天復請曰：<lb
+ n="0124c21" ed="T"/></ab>
+<ab type="verse">
+「何物火不燒，　　風亦不能碎，　　<lb
+ n="0124c22" ed="T"/>非水所能爛，　　能浮持世間？　　<lb
+ n="0124c23" ed="T"/>誰能與王賊，　　勇猛相抗敵，　　<lb
+ n="0124c24" ed="T"/>不為人非人，　　之所來侵奪？」　　
+</ab><lb
+ n="0124c25" ed="T"/><ab type="prose">世尊告曰：<lb
+ n="0124c26" ed="T"/></ab>
+<ab type="verse">
+「福非火所燒，　　風亦不能碎，　　<lb
+ n="0124c27" ed="T"/>福非水所爛，　　能浮持世間。　　<lb
+ n="0124c28" ed="T"/>福能與王賊，　　勇猛相抗敵，　　<lb
+ n="0124c29" ed="T"/>不為人非人，　　之所來侵奪。」　　
+</ab><pb n="0125a" ed="T" id="T15.0592.0125a"/><lb
+ n="0125a01" ed="T"/><ab type="prose">天復請曰：</ab>
+<ab type="verse">
+「我今猶有疑，　　請佛為除斷。　　<lb
+ n="0125a02" ed="T"/>今世往後世，　　誰極自欺誑？」　　
+</ab><lb
+ n="0125a03" ed="T"/><ab type="prose">世尊告曰：</ab>
+<ab type="verse">
+「若多有珍財，　　而不能修福，　　<lb
+ n="0125a04" ed="T"/>今世往後世，　　彼極自欺誑。」　　
+</ab><lb
+ n="0125a05" ed="T"/><ab type="prose">爾時彼天聞佛、世尊說是經已，歡喜踴躍，<lb
+ n="0125a06" ed="T"/>歎未曾有，頂禮佛足，即於佛前欻然不現。</ab></div><lb
+ n="0125a07" ed="T"/>
+<ab type="juan" subtype="close">天請問經</ab>
+</body></text></TEI>

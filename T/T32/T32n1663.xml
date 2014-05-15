@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">菩提心觀釋</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T32</biblScope>
+                    <idno type="Taisho">T32n1663</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0562a17" ed="T"/><lb
+ n="0562a18" ed="T"/><lb
+ n="0562a19" ed="T"/><lb
+ n="0562a20" ed="T"/>
+<ab type="juan" subtype="open">菩提心觀釋</ab><lb
+ n="0562a21" ed="T"/><lb
+ n="0562a22" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
+ n="0562a23" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
+ n="0562a24" ed="T"/><div type="jing" level="1"><ab type="verse">
+歸命本師　　大覺世尊　　我今略釋　　<lb
+ n="0562a25" ed="T"/>菩提心觀　　
+</ab><lb
+ n="0562a26" ed="T"/><ab type="prose">如佛所說。從心生一切法。我今當議彼菩提<lb
+ n="0562a27" ed="T"/>心。云何性。答離一切性。云何一切性。謂蘊<lb
+ n="0562a28" ed="T"/>處界等性。彼菩提心離取捨故。則法無我自<lb
+ n="0562a29" ed="T"/>性平等。本來不生自性空故。所言一切性<pb n="0562b" id="T32.1663.0562b" ed="T"/><lb
+ n="0562b01" ed="T"/>者。是我等性。謂我人眾生壽者補特伽羅摩<lb
+ n="0562b02" ed="T"/>拏嚩迦等性。而彼等性非菩提心。於意云何。<lb
+ n="0562b03" ed="T"/>謂彼我等。而於自性離一切相中而生我見。<lb
+ n="0562b04" ed="T"/>從我見生一切煩惱此不生彼心。或言蘊處<lb
+ n="0562b05" ed="T"/>界等亦離取捨。謂蘊處界等性真實理不可<lb
+ n="0562b06" ed="T"/>得故。云何色相等無實。謂色蘊四大合成<lb
+ n="0562b07" ed="T"/>故。四大者。即地水火風界。復生五色謂色<lb
+ n="0562b08" ed="T"/>聲香味觸。彼地大等及五色等。一一各自性<lb
+ n="0562b09" ed="T"/>不可得。如是諸法皆然。是故知色名虛假。<lb
+ n="0562b10" ed="T"/>由此知色蘊空。譬如因樹有影樹滅影亡。色<lb
+ n="0562b11" ed="T"/>蘊如是。受蘊亦然。云何名受。受有三種。謂苦<lb
+ n="0562b12" ed="T"/>受樂受非苦樂受。而此三受互相因緣。復有<lb
+ n="0562b13" ed="T"/>二種。謂身受意受。身色蘊攝。身不可得故。<lb
+ n="0562b14" ed="T"/>若無身即無受。亦不可言亦不可說非短非<lb
+ n="0562b15" ed="T"/>長。非色非相。無實無著。不可知故。身受如<lb
+ n="0562b16" ed="T"/>是。意受亦然。受蘊如是。見受蘊空。想蘊亦虛<lb
+ n="0562b17" ed="T"/>假不實。緣慮所攝。而彼緣慮不可得故。即非<lb
+ n="0562b18" ed="T"/>緣慮。非緣慮故見想蘊空想蘊如是。行蘊亦<lb
+ n="0562b19" ed="T"/>然。心所造作善意記念等行。無所有故。彼心<lb
+ n="0562b20" ed="T"/>法所生色等蘊一一無所生。是故知行蘊業相<lb
+ n="0562b21" ed="T"/>不實亦無主宰。即見行蘊空行蘊如是。識蘊<lb
+ n="0562b22" ed="T"/>亦然。乃至眼耳鼻舌身意。彼眼識等一一自<lb
+ n="0562b23" ed="T"/>性皆不可得。彼眼緣有色。從緣生識。無緣<lb
+ n="0562b24" ed="T"/>即不生識。而此眼色及彼色蘊等無分齊。此<lb
+ n="0562b25" ed="T"/>分別眼色即非眼色。識無所生。眼識如是。耳<lb
+ n="0562b26" ed="T"/>鼻舌身意亦然。如是知此識依止摩曩識。由<lb
+ n="0562b27" ed="T"/>依止摩曩識故。即發生過去未來見在法故。<lb
+ n="0562b28" ed="T"/>云何過去未來見在法。謂過去已滅。未來未<lb
+ n="0562b29" ed="T"/>生。見在不住。由是知識蘊空。如是一一說<pb n="0562c" id="T32.1663.0562c" ed="T"/><lb
+ n="0562c01" ed="T"/>蘊處界。各各分別自性皆空。彼非無性即真<lb
+ n="0562c02" ed="T"/>實句。喻無種子不生芽莖。是故說彼蘊處界<lb
+ n="0562c03" ed="T"/>等亦離取捨。云何菩提心無取無捨。如佛所<lb
+ n="0562c04" ed="T"/>說。告祕密主彼菩提心。如來應正等覺了<lb
+ n="0562c05" ed="T"/>知彼心。非青非黃。非赤非白。非紅色非頗胝<lb
+ n="0562c06" ed="T"/>迦色。非短非長。非圓非方。非明非暗。非女<lb
+ n="0562c07" ed="T"/>非男。非黃門等。又祕密主。菩提心非欲界<lb
+ n="0562c08" ed="T"/>性。非色界性。非天性非夜叉。非乾闥婆非阿<lb
+ n="0562c09" ed="T"/>修羅。非人非非人等性。乃至一切智求亦不<lb
+ n="0562c10" ed="T"/>可得。如是取心非有。云何言有捨故。又如<lb
+ n="0562c11" ed="T"/>佛說。告祕密主。菩提心非內非外非中間。不<lb
+ n="0562c12" ed="T"/>可得故。於意云何。以自性寂靜故。又祕密<lb
+ n="0562c13" ed="T"/>主。彼菩提心一切智求不可得。云何得取捨。<lb
+ n="0562c14" ed="T"/>如是於法得離取捨。平等無我。如一切法<lb
+ n="0562c15" ed="T"/>無我亦然。如佛所說。菩提心亦然。一切法<lb
+ n="0562c16" ed="T"/>空無相無我。諸法寂靜無寂靜相。心本平等<lb
+ n="0562c17" ed="T"/>本來不生亦非不生。復云何性。答曰空性。空<lb
+ n="0562c18" ed="T"/>云何性。謂如虛空故。如佛所說。虛空之性<lb
+ n="0562c19" ed="T"/>空無喻故。菩提之心亦復如是。菩提之名非<lb
+ n="0562c20" ed="T"/>性非相。無生無滅。非覺非無覺。若如是了<lb
+ n="0562c21" ed="T"/>知。是名菩提心。又如佛說。告祕密主。於自<lb
+ n="0562c22" ed="T"/>本心如實了知。於無有法亦不可得。是故名<lb
+ n="0562c23" ed="T"/>阿耨多羅三藐三菩提。又告祕密主。當於自<lb
+ n="0562c24" ed="T"/>心如實觀已。然後發起方便觀於眾生。知諸<lb
+ n="0562c25" ed="T"/>眾生於自覺性不如實知。起於疑妄顛倒執<lb
+ n="0562c26" ed="T"/>著。受於種種輪迴大苦。我由此故起大悲<lb
+ n="0562c27" ed="T"/>心。令諸眾生於自心法如實證覺。是即名為<lb
+ n="0562c28" ed="T"/>菩提心。是名利益心。安樂心。最上心。法界善<lb
+ n="0562c29" ed="T"/>覺心。以如是智。攝諸眾生故。名菩提心。發此<pb n="0563a" id="T32.1663.0563a" ed="T"/><lb
+ n="0563a01" ed="T"/>心故。所獲福德亦如虛空無有邊際。其功德<lb
+ n="0563a02" ed="T"/>海亦復無量。雖復劫盡功德無盡。如是名為<lb
+ n="0563a03" ed="T"/>發一切智根本最上菩提心。<lb
+ n="0563a04" ed="T"/>
+</ab><ab type="juan" subtype="close">菩提心觀釋一卷</ab></div>
+</body></text></TEI>

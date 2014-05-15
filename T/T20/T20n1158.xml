@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">地藏菩薩儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1158</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0652a07" ed="T"/><lb
+ n="0652a08" ed="T"/><lb
+ n="0652a09" ed="T"/><lb
+ n="0652a10" ed="T"/>
+<ab type="juan" subtype="open">地藏菩薩儀軌</ab><lb
+ n="0652a11" ed="T"/><lb
+ n="0652a12" ed="T"/><byline>中天竺輸婆迦羅奉　詔譯</byline><lb
+ n="0652a13" ed="T"/><div type="jing" level="1"><ab type="prose">爾時釋迦牟尼佛。在󳟡羅提耶山。與無量諸<lb
+ n="0652a14" ed="T"/>地藏菩薩十俱胝比丘比丘尼及天龍八部<lb
+ n="0652a15" ed="T"/>諸鬼神俱無量百千大眾圍繞而為說法。爾<lb
+ n="0652a16" ed="T"/>時大眾中有一大士名曰地藏。偏袒右肩右<lb
+ n="0652a17" ed="T"/>膝著地。合掌恭敬白佛言。我說神呪欲利益<lb
+ n="0652a18" ed="T"/>一切眾生。唯願世尊欲說神呪。慈哀聽許。時<lb
+ n="0652a19" ed="T"/>佛告地藏菩薩言。汝等速說利益一切有情。<lb
+ n="0652a20" ed="T"/>爾時地藏菩薩騰虛空讚歎歸命世尊。在空<lb
+ n="0652a21" ed="T"/>中亦現無量神通。以神口說呪曰。<lb
+ n="0652a22" ed="T"/></ab>
+<ab type="dharani">唵闇摩他󰻆摩爾俱苾俱苾三曼多娑婆<lb
+ n="0652a23" ed="T"/>賀</ab>
+<ab type="prose">次說心呪。</ab>
+<ab type="dharani">唵炎曼他啫娑婆賀<lb
+ n="0652a24" ed="T"/></ab>
+<ab type="prose">次心中心呪。</ab>
+<ab type="dharani">唵礘呬<lb
+ n="0652a25" ed="T"/></ab>
+<ab type="prose">纔說此呪。十地等大菩薩。失本心迷惑。天龍<lb
+ n="0652a26" ed="T"/>八部藥叉鬼神驚走倒地。日月星宿失光隱<lb
+ n="0652a27" ed="T"/>蔽空。雨寶華繽紛。窮劫說呪力不可說<lb
+ n="0652a28" ed="T"/>盡。<lb
+ n="0652a29" ed="T"/>次說畫像法。作聲聞形像。著袈裟端覆左肩。<pb n="0652b" id="T20.1158.0652b" ed="T"/><lb
+ n="0652b01" ed="T"/>左手持盈華形。右手施無畏令坐蓮華。復居<lb
+ n="0652b02" ed="T"/>座大士像頂著天冠著袈裟。左手持蓮華茶。<lb
+ n="0652b03" ed="T"/>右手如先令安坐九品蓮臺。<lb
+ n="0652b04" ed="T"/>次說印呪印二羽三補吒。戒方內掌來<lb
+ n="0652b05" ed="T"/>去。呪曰。</ab>
+<ab type="dharani">唵炎摩智利娑婆賀<lb
+ n="0652b06" ed="T"/></ab>
+<ab type="prose">次說普供養印。二羽三補吒。禪智立來去。<lb
+ n="0652b07" ed="T"/></ab>
+<ab type="dharani">唵喃惹摩尼娑嚩賀<lb
+ n="0652b08" ed="T"/></ab>
+<ab type="prose">次總說總印。二羽三補吒。進力立來去。呪<lb
+ n="0652b09" ed="T"/>曰。</ab>
+<ab type="dharani">唵󰻁只儞耶娑嚩賀<lb
+ n="0652b10" ed="T"/></ab>
+<ab type="prose">次請讚印。二羽三補吒。進力來去次撥遣<lb
+ n="0652b11" ed="T"/>以觀手禪進彈。<lb
+ n="0652b12" ed="T"/>復說成就法。若念得大福德。持阿迦木護摩<lb
+ n="0652b13" ed="T"/>七萬遍。若念得五穀成就。以稻實華護摩。<lb
+ n="0652b14" ed="T"/>若念他人福德。取得其家竈土護摩。若念得<lb
+ n="0652b15" ed="T"/>高位二德。以比哩華護摩。若念生生世世怨<lb
+ n="0652b16" ed="T"/>敵伏。以苦練木護摩。若念惡靈邪家伏。以<lb
+ n="0652b17" ed="T"/>毒味護摩。若念顛狂痾病除愈。蓮實草<lb
+ n="0652b18" ed="T"/>護摩。三萬遍。若念滅罪生善生身後生極<lb
+ n="0652b19" ed="T"/>樂以草護摩三萬遍。若念惡人呪咀還著本<lb
+ n="0652b20" ed="T"/>人。以苦草投火中護摩三萬遍。若念得無量<lb
+ n="0652b21" ed="T"/>榮果俸祿。白華鳥草護摩三萬遍。若念三昧<lb
+ n="0652b22" ed="T"/>辨財德者。以骨婁草護摩三萬遍。若念化<lb
+ n="0652b23" ed="T"/>度一切眾生令離苦得樂。以白芥子護摩三<lb
+ n="0652b24" ed="T"/>萬遍。若念化度無佛世界眾生。以尸迦草護<lb
+ n="0652b25" ed="T"/>摩三七萬遍。若念枯田畠五穀生者。加持<lb
+ n="0652b26" ed="T"/>古蔓菁。加持散。若愁萬病者。牛膝草護摩<lb
+ n="0652b27" ed="T"/>三萬遍。若愁三陰四熱種種病。以降乾各門<lb
+ n="0652b28" ed="T"/>草護摩。若夫妻不和者。比罪草護摩三萬<lb
+ n="0652b29" ed="T"/>遍和合。若惡友善友相違者。藤葉草護摩三<pb n="0652c" id="T20.1158.0652c" ed="T"/><lb
+ n="0652c01" ed="T"/>萬遍。若白月八日十四日。十五日以上法修<lb
+ n="0652c02" ed="T"/>必得成就。<lb
+ n="0652c03" ed="T"/>
+</ab><ab type="juan" subtype="close">地藏菩薩儀軌</ab></div>
+</body></text></TEI>

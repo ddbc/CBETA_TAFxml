@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">十二因緣論</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T32</biblScope>
+                    <idno type="Taisho">T32n1651</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0480c10" ed="T"/><lb
+ n="0480c11" ed="T"/><lb
+ n="0480c12" ed="T"/><lb
+ n="0480c13" ed="T"/>
+<ab type="juan" subtype="open">十二因緣論一卷</ab><lb
+ n="0480c14" ed="T"/><lb
+ n="0480c15" ed="T"/><byline>淨意菩薩造</byline><lb
+ n="0480c16" ed="T"/><byline>後魏北印度三藏菩提流支譯</byline><lb
+ n="0480c17" ed="T"/><div type="jing" level="1"><ab type="verse">
+歸命牟尼尊　　妙法比丘僧　　<lb
+ n="0480c18" ed="T"/>略作因緣論　　為義顯現故　　<lb
+ n="0480c19" ed="T"/>牟尼所演說　　十二勝上分　　<lb
+ n="0480c20" ed="T"/>因緣所生法　　彼為三所攝　　<lb
+ n="0480c21" ed="T"/>煩惱業及苦　　次說應當知　　<lb
+ n="0480c22" ed="T"/>煩惱初八九　　業二及以十　　<lb
+ n="0480c23" ed="T"/>餘七說為苦　　三攝十二法　　<lb
+ n="0480c24" ed="T"/>從三故生二　　從二故生七　　<lb
+ n="0480c25" ed="T"/>從七復生三　　是故如輪轉　　<lb
+ n="0480c26" ed="T"/>一切世間法　　唯因果無人　　<lb
+ n="0480c27" ed="T"/>但從諸空法　　唯生於空法　　<lb
+ n="0480c28" ed="T"/>誦燈印鏡響　　日珠種子水　　<lb
+ n="0480c29" ed="T"/>諸陰轉不轉　　智者善思量　　
+</ab><pb n="0481a" id="T32.1651.0481a" ed="T"/><lb
+ n="0481a01" ed="T"/><ab type="prose">有弟子成就。隨所聞法堪能受持。令不忘失<lb
+ n="0481a02" ed="T"/>於如來法。謂事非事及性相等。如是義中心<lb
+ n="0481a03" ed="T"/>懷疑惑。為得知故問言。尊者。<lb
+ n="0481a04" ed="T"/></ab>
+<ab type="verse">
+牟尼所演說　　十二勝上分　　<lb
+ n="0481a05" ed="T"/>因緣所生法　　彼為三所攝　　<lb
+ n="0481a06" ed="T"/>如是等諸事　　今為知請問　　<lb
+ n="0481a07" ed="T"/>願為我解釋　　除斷我疑網　　<lb
+ n="0481a08" ed="T"/>師見弟子意　　於法生渴仰　　<lb
+ n="0481a09" ed="T"/>恭敬請示故　　即答言汝聽　　<lb
+ n="0481a10" ed="T"/>十二勝上分　　彼為三所攝　　<lb
+ n="0481a11" ed="T"/>煩惱業及苦　　次說應當知　　<lb
+ n="0481a12" ed="T"/>是中十及二　　故曰為十二　　<lb
+ n="0481a13" ed="T"/>以彼不異分　　故名為勝分　　<lb
+ n="0481a14" ed="T"/>如車輿分故　　說勝分應知　　
+</ab><lb
+ n="0481a15" ed="T"/><ab type="prose">言牟尼者。名為寂滅。亦名無分別。亦名為定。<lb
+ n="0481a16" ed="T"/>亦名無言說。彼牟尼所演。宣暢辯說。是名<lb
+ n="0481a17" ed="T"/>假名。然彼非是大人丈夫。自在定時。性相<lb
+ n="0481a18" ed="T"/>所生。但唯因緣所生成故。彼十二分。於煩惱<lb
+ n="0481a19" ed="T"/>業及以苦處。三法迭互共作因緣。如拒瓶案。<lb
+ n="0481a20" ed="T"/>如是三處所攝應知。<lb
+ n="0481a21" ed="T"/>問曰。何者為煩惱。何者為業。何者為苦。而得<lb
+ n="0481a22" ed="T"/>有此諸因緣法勝分攝成。<lb
+ n="0481a23" ed="T"/>答曰。於此十二勝上分中。初為無明。第八為<lb
+ n="0481a24" ed="T"/>愛。第九為取。此三勝分是煩惱所攝。第二<lb
+ n="0481a25" ed="T"/>為行。第十為有。此二勝分是業所攝。餘七<lb
+ n="0481a26" ed="T"/>勝分是苦所攝。此是煩惱業苦等三。攝十二<lb
+ n="0481a27" ed="T"/>分應知。言餘七者。謂識名色六入觸受及生<lb
+ n="0481a28" ed="T"/>老死。恩愛別離。怨憎合會。所求不得。如是<lb
+ n="0481a29" ed="T"/>等法生一切苦。如是諸分。於向所說。煩惱業<pb n="0481b" id="T32.1651.0481b" ed="T"/><lb
+ n="0481b01" ed="T"/>苦。以為根本。應知。攝十二分。唯有三事。更<lb
+ n="0481b02" ed="T"/>無餘法。一切經中但有此分。更無有餘。<lb
+ n="0481b03" ed="T"/>問曰。已知此等諸勝分義。為我解釋煩惱業<lb
+ n="0481b04" ed="T"/>苦在於何處。復云何成一切諸事。答曰。從三<lb
+ n="0481b05" ed="T"/>生二。三是煩惱。二是業。謂從煩惱而生於<lb
+ n="0481b06" ed="T"/>業。從二生七。七者是苦。謂從於業而生於<lb
+ n="0481b07" ed="T"/>苦。從七生三者。謂從於苦而生煩惱。此說煩<lb
+ n="0481b08" ed="T"/>惱業苦三種迭互相生。是故生有輪轉不定。<lb
+ n="0481b09" ed="T"/>所言有者。所謂欲色無色界等。彼中不住。喻<lb
+ n="0481b10" ed="T"/>如輪轉。以彼有故。一切世間凡夫眾生。次第<lb
+ n="0481b11" ed="T"/>上下猶如輪轉。有中不定。以不定故。說有<lb
+ n="0481b12" ed="T"/>三處。<lb
+ n="0481b13" ed="T"/>問曰。彼造一切身。自在眾生。何者是彼作事<lb
+ n="0481b14" ed="T"/>云何。<lb
+ n="0481b15" ed="T"/>答曰。偈言。一切世間法。唯因果無人。除假說<lb
+ n="0481b16" ed="T"/>故有。此是正思量。彼非說性。是故見作眾生<lb
+ n="0481b17" ed="T"/>不成。<lb
+ n="0481b18" ed="T"/>問曰。若如是者。云何得從現在世間而取未<lb
+ n="0481b19" ed="T"/>來世間。<lb
+ n="0481b20" ed="T"/>答曰。乃至無有一毫等法從現在世間而取<lb
+ n="0481b21" ed="T"/>未來世間。是故偈言。但從諸空法。唯生於空<lb
+ n="0481b22" ed="T"/>法。此明自我我所空。謂煩惱業處。此五法行<lb
+ n="0481b23" ed="T"/>性離無我。應如是取。<lb
+ n="0481b24" ed="T"/>問曰。若性無我法中。而行性無我者。今說何<lb
+ n="0481b25" ed="T"/>為證。<lb
+ n="0481b26" ed="T"/>答曰。偈言。誦燈印鏡響。日珠種子水。如是等<lb
+ n="0481b27" ed="T"/>諸喻。為證可取。信無自體。性假名故。有言。<lb
+ n="0481b28" ed="T"/>現在世未來世者。如師所誦。實不從師轉至<lb
+ n="0481b29" ed="T"/>弟子。雖不從師轉至弟子。豈可不成授弟子<pb n="0481c" id="T32.1651.0481c" ed="T"/><lb
+ n="0481c01" ed="T"/>義。可言弟子無因而得。遮護妄計無因患故。<lb
+ n="0481c02" ed="T"/>如是臨命終時。心識不至未來世間。防常患<lb
+ n="0481c03" ed="T"/>故。非未來身從餘處來。遮護妄計無因患故。<lb
+ n="0481c04" ed="T"/>如師誦為因。令弟子得。彼不可說。以為即是<lb
+ n="0481c05" ed="T"/>亦不可說。為一向異。如是臨命終時。心識為<lb
+ n="0481c06" ed="T"/>因。是故得生後身心識。而彼心識。不可說<lb
+ n="0481c07" ed="T"/>一不可說異。亦不離彼。亦不即彼。如是從燈<lb
+ n="0481c08" ed="T"/>生燈。從印生印。從鏡生像。從聲有響。從日<lb
+ n="0481c09" ed="T"/>從珠出生於火。從子生芽。如安石榴菴羅果<lb
+ n="0481c10" ed="T"/>等。口生涎水。如是等法。不名即彼。不名異<lb
+ n="0481c11" ed="T"/>彼。如是一切諸因緣法。轉不轉事。諸有智者。<lb
+ n="0481c12" ed="T"/>善思量應知。是中陰者。所謂說色受想行識。<lb
+ n="0481c13" ed="T"/>彼託生者。此諸陰滅。因彼滅陰。後相似生。然<lb
+ n="0481c14" ed="T"/>實無有一毫等法從此至彼。此是世間漸次<lb
+ n="0481c15" ed="T"/>之義。以是義故。一切世間。無常不淨苦無我<lb
+ n="0481c16" ed="T"/>等。以能觀察如是事故。於諸法中不生疑惑。<lb
+ n="0481c17" ed="T"/>不疑惑故則不生染。不生染故則不生著。不<lb
+ n="0481c18" ed="T"/>生著故則不虛渴。不虛渴故則不造業。以無<lb
+ n="0481c19" ed="T"/>業故則不取事。不取事故不造有為行。無有<lb
+ n="0481c20" ed="T"/>為行。故則不復生。以不生故無有一切身<lb
+ n="0481c21" ed="T"/>心等苦。如是不造五種因故。則於彼處無<lb
+ n="0481c22" ed="T"/>七種果。以無果故名為解脫。如是作故。則是<lb
+ n="0481c23" ed="T"/>釋成不生不滅不常不斷。有邊無邊如是等<lb
+ n="0481c24" ed="T"/>句。於中有偈。<lb
+ n="0481c25" ed="T"/></ab>
+<ab type="verse">
+不見無緣生　　決定是正義　　<lb
+ n="0481c26" ed="T"/>於諸最妙事　　是故不成斷　　<lb
+ n="0481c27" ed="T"/>於中無所減　　亦復無所增　　<lb
+ n="0481c28" ed="T"/>應見如諦實　　隨狀及如彼　　
+</ab><lb
+ n="0481c29" ed="T"/>
+<ab type="juan" subtype="close">十二因緣論一卷</ab></div>
+</body></text></TEI>

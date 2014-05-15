@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛摧碎陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1416</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0931b" id="T21.1416.0931b" ed="T"/><lb
+ n="0931b01" ed="T"/><lb
+ n="0931b02" ed="T"/><div type="dharani" level="1"><lb
+ n="0931b03" ed="T"/>
+<ab type="juan" subtype="open">金剛摧碎陀羅尼</ab><lb
+ n="0931b04" ed="T"/><lb
+ n="0931b05" ed="T"/><byline>宋契丹國師中天竺摩竭陀國<lb
+ n="0931b06" ed="T"/>三藏法師慈賢譯</byline><lb
+ n="0931b07" ed="T"/><ab type="dharani">曩謨囉怛那怛囉夜野曩謨室戰拏嚩日囉播拏曳摩訶藥乞叉細<lb
+ n="0931b09" ed="T"/>那鉢哆曳怛儞也他唵怛囉吒野怛<lb
+ n="0931b10" ed="T"/>囉吒野咄嚕吒野咄嚕吒野<lb
+ n="0931b11" ed="T"/>娑普吒娑普吒娑醭吒野娑醭<lb
+ n="0931b12" ed="T"/>吒野仡哩恨拏仡哩恨拏<lb
+ n="0931b13" ed="T"/>仡哩恨拏跛野仡哩恨拏跛野<lb
+ n="0931b14" ed="T"/>薩囉嚩薩怛嚩𩕳冒馱野冒馱野<lb
+ n="0931b15" ed="T"/>三冒馱野三冒馱野勃嚕麼三<lb
+ n="0931b16" ed="T"/>勃嚕麼三勃嚕麼薩囉嚩部<lb
+ n="0931b17" ed="T"/>哆𩕳矩吒矩吒僧矩吒野僧矩吒野薩囉嚩設咄嚕伽吒伽吒僧伽<lb
+ n="0931b19" ed="T"/>吒野僧伽吒野薩囉嚩尾儞也嚩<lb
+ n="0931b20" ed="T"/>日囉娑醭吒嚩日囉嚩日囉迦吒嚩日囉嚩日囉麼吒嚩日囉<lb
+ n="0931b22" ed="T"/>嚩日囉麼他嚩日囉嚩日囉阿吒賀娑𩕳攞嚩日囉素嚩日<lb
+ n="0931b24" ed="T"/>囉曳娑嚩訶呬捕嚕𩕳哩捕嚕<lb
+ n="0931b25" ed="T"/>伽哩抳短嚕弭哩柤嚕矩嚕矩嚕<lb
+ n="0931b26" ed="T"/>嚩日囉尾惹夜耶娑嚩訶枳󰳋<lb
+ n="0931b27" ed="T"/>枳攞野娑嚩訶迦吒迦吒麼吒麼<lb
+ n="0931b28" ed="T"/>吒囉吒囉吒謨吒曩跛囉謨吒曩<pb n="0931c" id="T21.1416.0931c" ed="T"/><lb
+ n="0931c01" ed="T"/>野娑嚩訶左囉抳左囉賀囉賀囉<lb
+ n="0931c02" ed="T"/>麼囉麼囉麼囉野嚩日囉尾惹囉<lb
+ n="0931c03" ed="T"/>拏野娑嚩訶親那親那摩訶枳隷枳攞<lb
+ n="0931c04" ed="T"/>野娑嚩訶滿馱滿馱骨嚕馱骨嚕<lb
+ n="0931c05" ed="T"/>馱枳隷枳攞野娑嚩訶柤嚕柤嚕<lb
+ n="0931c06" ed="T"/>贊拏㘑枳㘑枳攞野娑嚩訶怛囉<lb
+ n="0931c07" ed="T"/>娑野怛囉娑野嚩日囉枳哩枳<lb
+ n="0931c08" ed="T"/>攞野娑嚩訶賀囉賀囉嚩日囉馱<lb
+ n="0931c09" ed="T"/>囉野娑嚩訶鉢囉賀囉鉢囉<lb
+ n="0931c10" ed="T"/>賀囉嚩日囉鉢囉跋馱曩野娑嚩<lb
+ n="0931c11" ed="T"/>訶麼底悉體囉嚩日囉素<lb
+ n="0931c12" ed="T"/>底悉體囉嚩日囉鉢囉底悉體<lb
+ n="0931c13" ed="T"/>囉嚩日囉摩訶嚩日囉阿<lb
+ n="0931c14" ed="T"/>鉢囉底賀哆嚩日囉阿謨伽<lb
+ n="0931c15" ed="T"/>嚩日囉曀呬嚩日囉誠伽朗<lb
+ n="0931c16" ed="T"/>嚩日囉野娑嚩訶馱囉馱攞<lb
+ n="0931c17" ed="T"/>地哩地哩度嚕度嚕薩囉嚩嚩日<lb
+ n="0931c18" ed="T"/>囉矩攞摩嚩哩哆曩野娑嚩<lb
+ n="0931c19" ed="T"/>訶阿母劍麼囉野發吒娜麼三滿哆嚩<lb
+ n="0931c20" ed="T"/>日囉喃薩囉嚩末攞麼嚩哩惹<lb
+ n="0931c21" ed="T"/>野摩訶末㘑迦吒尾怛怛㘑阿怛㘑滿拏攞摩曳阿底嚩日囉摩賀末攞<lb
+ n="0931c23" ed="T"/>尾誐囉拏囉拏阿𡁠帝入嚩攞入<lb
+ n="0931c24" ed="T"/>嚩囉底致底致底致孕誐㘑娜賀娜賀帝惹嚩帝底㘑底㘑<lb
+ n="0931c26" ed="T"/>滿馱滿馱摩訶嚩日𠻴迦入嚩攞<lb
+ n="0931c27" ed="T"/>野娑嚩訶娜謨囉怛那怛囉<pb n="0932a" id="T21.1416.0932a" ed="T"/><lb
+ n="0932a01" ed="T"/>夜野娜謨室戰拏嚩日囉播拏野<lb
+ n="0932a02" ed="T"/>摩訶藥乞叉細曩鉢哆曳唵賀囉<lb
+ n="0932a03" ed="T"/>賀囉嚩日囉麼他麼他嚩日囉<lb
+ n="0932a04" ed="T"/>度曩度曩嚩日囉鉢左鉢左嚩日<lb
+ n="0932a05" ed="T"/>囉馱囉馱囉嚩日囉馱囉野馱囉<lb
+ n="0932a06" ed="T"/>野嚩日囉馱嚕拏馱嚕拏嚩日囉<lb
+ n="0932a07" ed="T"/>親娜親娜嚩日囉牝那牝那嚩日<lb
+ n="0932a08" ed="T"/>囉吽發吒曩謨室戰拏嚩日𠸪骨<lb
+ n="0932a09" ed="T"/>嚕馱野護嚕護嚕底瑟吒底瑟吒<lb
+ n="0932a10" ed="T"/>滿馱滿馱賀曩賀曩阿蜜哩帝<lb
+ n="0932a11" ed="T"/>吽發吒<lb
+ n="0932a12" ed="T"/>
+</ab><ab type="juan" subtype="close">金剛摧碎陀羅尼</ab></div>
+</body></text></TEI>

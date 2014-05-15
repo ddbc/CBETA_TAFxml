@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說救面然餓鬼陀羅尼神呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@ddbc.edu.tw</addrLine>
+                </address>
+                <date>2012-2013</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2011</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1314</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0465c" ed="T" id="T21.1314.0465c"/><lb
+ n="0465c01" ed="T"/><lb
+ n="0465c02" ed="T"/><lb
+ n="0465c03" ed="T"/><div type="jing" level="1"><lb
+ n="0465c04" ed="T"/>
+<ab type="juan" subtype="open">佛說救面然餓鬼陀羅尼神呪經<lb
+ n="0465c05" ed="T"/>一卷</ab><lb
+ n="0465c06" ed="T"/><lb
+ n="0465c07" ed="T"/><byline>唐于闐三藏實叉難陀譯</byline><lb
+ n="0465c08" ed="T"/><ab type="prose">爾時，世尊在迦毘羅城尼俱律那僧伽藍所，<lb
+ n="0465c09" ed="T"/>與諸比丘，并諸菩薩、無數眾生周匝圍繞，而<lb
+ n="0465c10" ed="T"/>為說法。<lb
+ n="0465c11" ed="T"/>爾時，阿難獨居淨處，一心計念。即於其夜<lb
+ n="0465c12" ed="T"/>三更之後，見一餓鬼，名曰「面然」，住阿難前，白<lb
+ n="0465c13" ed="T"/>阿難言：「却後三日，汝命將盡，即便生此餓鬼<lb
+ n="0465c14" ed="T"/>之中。」是時，阿難聞此語已，心生惶怖，問餓鬼<lb
+ n="0465c15" ed="T"/>言：「我此災禍，作何方計，得免斯苦？」爾時，餓鬼<lb
+ n="0465c16" ed="T"/>報阿難言：「汝於晨朝，若能布施百千那由他<lb
+ n="0465c17" ed="T"/>恒河沙數餓鬼，并百千婆羅門及仙人等，以<lb
+ n="0465c18" ed="T"/>摩伽陀國斗，各施一斗飲食，并及為我供養<lb
+ n="0465c19" ed="T"/>三寶，汝得增壽，令我離於餓鬼之苦、得生天<lb
+ n="0465c20" ed="T"/>上。」阿難見此面然餓鬼，身形羸瘦、枯燋極醜、<pb n="0466a" ed="T" id="T21.1314.0466a"/><lb
+ n="0466a01" ed="T"/>面上火然、其咽如針、頭髮蓬亂、毛爪長利，<lb
+ n="0466a02" ed="T"/>身如負重，又聞如是不順之語，甚大驚怖，身<lb
+ n="0466a03" ed="T"/>毛皆竪。即從座起，疾至佛所，五體投地，頂禮<lb
+ n="0466a04" ed="T"/>佛足，身心戰慄，而白佛言：「救我！世尊！救我！<lb
+ n="0466a05" ed="T"/>善逝！過此三日，命將終盡。昨夜見一面然餓<lb
+ n="0466a06" ed="T"/>鬼，而語我言：『汝於三日，必當命盡，生餓鬼中。』<lb
+ n="0466a07" ed="T"/>我即問言：『以何方計，得免斯苦？』餓鬼答言：『汝<lb
+ n="0466a08" ed="T"/>若施於百千那由他恒河沙數餓鬼，及百千<lb
+ n="0466a09" ed="T"/>婆羅門并諸仙等飲食，汝得增壽。』世尊！我今<lb
+ n="0466a10" ed="T"/>云何得免此苦？」<lb
+ n="0466a11" ed="T"/>爾時，世尊告阿難言：「汝今勿怖！有異方便，令<lb
+ n="0466a12" ed="T"/>汝得施如是餓鬼、諸婆羅門及仙等食，勿生<lb
+ n="0466a13" ed="T"/>憂惱。」<lb
+ n="0466a14" ed="T"/>佛告阿難：「有陀羅尼，名曰『一切德光無量威<lb
+ n="0466a15" ed="T"/>力』。若有誦此陀羅尼者，即成已施俱胝那由<lb
+ n="0466a16" ed="T"/>他百千恒河沙數餓鬼，及六十八俱胝那由<lb
+ n="0466a17" ed="T"/>他百千婆羅門并諸仙等前，各有摩伽陀斗<lb
+ n="0466a18" ed="T"/>四斛九斗飲食。」佛告阿難：「我於前世曾為婆<lb
+ n="0466a19" ed="T"/>羅門時，於觀世音菩薩及世間自在德力如<lb
+ n="0466a20" ed="T"/>來所，受此陀羅尼。我當以此陀羅尼力，便得<lb
+ n="0466a21" ed="T"/>具足施於無量無數餓鬼及婆羅門并仙等食，<lb
+ n="0466a22" ed="T"/>以我施諸餓鬼食故，捨離此身，得生天上。阿<lb
+ n="0466a23" ed="T"/>難！汝今受持此陀羅尼，當自護身。」即說呪曰：<lb
+ n="0466a24" ed="T"/></ab>
+<ab type="dharani">「那麼　薩縛　怛他揭多　縛路枳帝<lb
+ n="0466a25" ed="T"/>　三跋囉　三跋囉　虎吽」<lb
+ n="0466a26" ed="T"/></ab>
+<ab type="prose">佛言：「阿難！若欲作此施食法者，先取飲食，安<lb
+ n="0466a27" ed="T"/>置淨盤器中，誦此陀羅尼呪，呪食七遍，於門<lb
+ n="0466a28" ed="T"/>內立，展臂戶外，置槃淨地，彈指七下。作此施<lb
+ n="0466a29" ed="T"/>已，於其四方，有百千俱胝那由他恒河沙數<pb n="0466b" ed="T" id="T21.1314.0466b"/><lb
+ n="0466b01" ed="T"/>餓鬼，於一一餓鬼前，各有摩伽陀斗四斛九<lb
+ n="0466b02" ed="T"/>斗飲食。如是鬼等，遍皆飽滿。是諸餓鬼，喫此<lb
+ n="0466b03" ed="T"/>食已，悉捨虛身，盡得生天。」復言：「阿難！若比丘、<lb
+ n="0466b04" ed="T"/>比丘尼、優婆塞、優婆夷，若能常誦此陀羅尼<lb
+ n="0466b05" ed="T"/>并奉飲食，即為具足無量功德，命得延長；即<lb
+ n="0466b06" ed="T"/>成供養百千俱胝如來功德，顏色鮮潔、威德<lb
+ n="0466b07" ed="T"/>強記；一切非人、步多鬼等，夜叉、羅剎，并諸餓<lb
+ n="0466b08" ed="T"/>鬼，皆畏是人，心不忍見。是人即為成就具足<lb
+ n="0466b09" ed="T"/>大力勤進。」<lb
+ n="0466b10" ed="T"/>復言：「阿難！若欲施婆羅門及仙食者，當取飲<lb
+ n="0466b11" ed="T"/>食，滿置鉢中，誦此陀羅尼呪，呪食七遍，瀉<lb
+ n="0466b12" ed="T"/>流水中。具足奉獻無量俱胝百千恒河沙數<lb
+ n="0466b13" ed="T"/>婆羅門及諸仙等，如天飲食。其婆羅門并仙<lb
+ n="0466b14" ed="T"/>人等，喫此食已，諸根具足、圓滿吉祥，各發其<lb
+ n="0466b15" ed="T"/>願，讚歎施人：『其施食人，心得清淨，而便疾證<lb
+ n="0466b16" ed="T"/>梵天威德，常修淨行，具足成就供養百千俱<lb
+ n="0466b17" ed="T"/>胝恒河沙數如來功德，於諸怨敵而常得勝。』<lb
+ n="0466b18" ed="T"/>「若比丘、比丘尼、優婆塞、優婆夷，若欲供養一<lb
+ n="0466b19" ed="T"/>切三寶，應當具辦香、華、飲食，誦此陀羅尼呪，<lb
+ n="0466b20" ed="T"/>呪所施食及香、華等二十一遍，供養三寶。此<lb
+ n="0466b21" ed="T"/>善男子、善女人等，具足成就諸天妙供及無<lb
+ n="0466b22" ed="T"/>上供，尊重、讚歎一切如來剎土三寶，諸佛憶<lb
+ n="0466b23" ed="T"/>念、稱揚讚歎，諸天擁護。」佛言：「汝去，阿難！當自<lb
+ n="0466b24" ed="T"/>護身。并及廣為諸眾生說，令諸眾生成就具<lb
+ n="0466b25" ed="T"/>足無量功德，所生之世常值百千俱胝諸佛。」<lb
+ n="0466b26" ed="T"/>
+</ab><ab type="juan" subtype="close">佛說救面然餓鬼陀羅尼神呪經</ab></div>
+</body></text></TEI>
