@@ -11,7 +11,7 @@ XML 資料格式簡介
 
 | 標記  | 意義  | 使用規範 |
 |---|---|---|
-| &#x3C;ab&#x3E; | 用來紀錄文獻內的文字內容。<br> 對映至原文獻之&lt;p&gt;（純散文）、<br> &lt;lg&gt;（韻文、偈頌） &lt;p type=&quot;dharani&quot;&gt;（咒語）。<br> 對於卷的結構，僅改用&lt;ab type=&rdquo;juan&rdquo;&gt;表示卷起始、結束之資訊 | &lt;ab type=&quot;prose&quot;&gt; 散文 &lt;/ab&gt;（原&lt;p&gt;） <br> &lt;ab type=&quot;verse&quot;&gt; 韻文&lt;/ab&gt; (偈頌, 原 &lt;lg&gt;) <br> &lt;ab type=&quot;dharani&quot;&gt; 咒語&lt;/ab&gt; (原&lt;p type=&quot;dharani&quot;&gt;) <br> &lt;ab type=&quot;juan&quot;&gt;佛說長阿含經卷第十七&lt;/ab&gt;（表示卷 起始、結束之資訊） |
+| &#x3C;ab&#x3E; | 用來紀錄文獻內的文字內容。<br> 對映至原文獻之&lt;p&gt;（純散文）、<br> &lt;lg&gt;（韻文、偈頌） &lt;p type=&quot;dharani&quot;&gt;（咒語）。<br> 對於卷的結構，僅改用<br> &lt;ab type=&rdquo;juan&rdquo;&gt;表示卷起始、結束之資訊 | &lt;ab type=&quot;prose&quot;&gt; 散文 &lt;/ab&gt;（原&lt;p&gt;） <br> &lt;ab type=&quot;verse&quot;&gt; 韻文&lt;/ab&gt; (偈頌, 原 &lt;lg&gt;) <br> &lt;ab type=&quot;dharani&quot;&gt; 咒語&lt;/ab&gt; (原&lt;p type=&quot;dharani&quot;&gt;) <br> &lt;ab type=&quot;juan&quot;&gt;佛說長阿含經卷第十七&lt;/ab&gt;（表示卷 起始、結束之資訊） |
 | &#x3C;body&#x3E;  | TEI 文件內容容器  | 與原有CBETA XML、TEI P5 規範使用方式相同  |
 | &#x3C;byline&#x3E;  | 用保留譯者資訊  | &lt;byline&gt;長安釋僧肇述&lt;/byline&gt;  |
 | &#x3C;div&#x3E;  |  用以表示文獻結構，以type與level 屬性表示文件所屬型態與階層 | &lt;div type=&quot;fen&quot; level=&quot;2&quot;&gt; 第二層div 結構，分&lt;/div&gt; <br> &lt;div type=&quot;pin &quot; level=&quot;3&quot;&gt; 第三層div 結構，品&lt;/div&gt;  |
