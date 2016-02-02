@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">唐梵兩語雙對集</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T54</biblScope>
+                    <idno type="Taisho">T54n2136</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1241b05" ed="T"/><lb
+ n="1241b06" ed="T"/><lb
+ n="1241b07" ed="T"/><lb
+ n="1241b08" ed="T"/><lb
+ n="1241b09" ed="T"/>
+<ab type='juan' subtype='open'>唐梵兩語雙對集</ab><lb
+ n="1241b10" ed="T"/><lb
+ n="1241b11" ed="T"/><byline>中天竺摩竭提國菩提樹下<lb
+ n="1241b12" ed="T"/>金剛座寺苾蒭僧怛多蘖多<lb
+ n="1241b13" ed="T"/>波羅瞿那彌捨沙出</byline><lb
+ n="1241b14" ed="T"/><ab type='prose'>人　肉　皮　血　骨〔鼻音〕<lb
+ n="1241b15" ed="T"/>　毛　唾　脂　糞　尿　頭　頂　額　眼　耳　鼻　口　舌　齒　項　心　肚<lb
+ n="1241b18" ed="T"/>　脊　手　掌　指<lb
+ n="1241b19" ed="T"/>　節　足　眉　䰅〔去引〕　爪　膝　髮　身　看　見　色<lb
+ n="1241b21" ed="T"/>　大　小　大　長　短　曲<lb
+ n="1241b22" ed="T"/>　正　邪　高　凹　平　凸<lb
+ n="1241b23" ed="T"/>　蔓　薄　圓　方　相　端正　醜　垢　翳<lb
+ n="1241b25" ed="T"/>　淨　色　青　赤　黃　白<lb
+ n="1241b26" ed="T"/>　黑　綠　紫　影<lb
+ n="1241b27" ed="T"/>真□錯間　麤　細　聽<lb
+ n="1241b28" ed="T"/>　聲　響　聞　言　語　說<lb
+ n="1241b29" ed="T"/>　勅　奏　講　論　歌<pb n="1241c" id="T54.2136.1241c" ed="T"/><lb
+ n="1241c01" ed="T"/>　笑　哭〔去〕　𠮧　嗹　𡄇<lb
+ n="1241c02" ed="T"/>　󰎭　氣　香　飢　飽<lb
+ n="1241c03" ed="T"/>　喫　飲　嚼　味　羹　甜　苦<lb
+ n="1241c04" ed="T"/>　辛　酢　渴　身　觸　著　特　打　研　押　狎　燒<lb
+ n="1241c06" ed="T"/>　煮　縛　放　痛　快　暖<lb
+ n="1241c07" ed="T"/>　寒　癢　病　老　坐　起　臥　行　走　住　立<lb
+ n="1241c09" ed="T"/>　位　去　來　問　對面　何<lb
+ n="1241c10" ed="T"/>處去　彼去　此　處<lb
+ n="1241c11" ed="T"/>　方　國　急　緩〔引〕　乏<lb
+ n="1241c12" ed="T"/>　息　東　南　西　北<lb
+ n="1241c13" ed="T"/>　下　上　中　間　寬　窄　遠　近　深　到　不到　未到　馬上　馬下　入　出　心　意　思　記　念<lb
+ n="1241c18" ed="T"/>　忘　知　識　何知<lb
+ n="1241c19" ed="T"/>　不知　嗔　癡　喜　憂　嗔　怒　好　惡　是　不是　如此<lb
+ n="1241c21" ed="T"/>　不如是　欲　須　聰明<lb
+ n="1241c22" ed="T"/>　婁羅　畏　驚　勒　嬾<lb
+ n="1241c23" ed="T"/>　法　業　作　何作　真<lb
+ n="1241c24" ed="T"/>　妄　有　無　常　無常　檢校　求　我　儞　我許　彼<lb
+ n="1241c26" ed="T"/>許　自　他人　數<lb
+ n="1241c27" ed="T"/>　管　許幾　限　全　欠<lb
+ n="1241c28" ed="T"/>一　二　三　四　五　六　七<lb
+ n="1241c29" ed="T"/>　八　九　十　十一　十二<pb n="1242a" id="T54.2136.1242a" ed="T"/><lb
+ n="1242a01" ed="T"/>　十三　十四　十五　十<lb
+ n="1242a02" ed="T"/>六　十七　十八　十九　廿　廿一　廿二　廿三　廿四　廿五　廿六　廿七　廿八　廿九　卅　󱯲　五十　六十　七十　八十　九十　一百<lb
+ n="1242a08" ed="T"/>　一千　十萬　百億　富<lb
+ n="1242a09" ed="T"/>　貧　多　少　分　秤　兩<lb
+ n="1242a10" ed="T"/>　斤　升　重　輕　買　賣　與　與儞　與儞　與我　取<lb
+ n="1242a12" ed="T"/>　得　失　奪　賊　盜　財<lb
+ n="1242a13" ed="T"/>　物　白疊　布　絲<lb
+ n="1242a14" ed="T"/>　錦　綾　綿　衣　針　縫　寶　金　銀　銅<lb
+ n="1242a16" ed="T"/>　鍮石　金鐵　鐵　賓鐵　真<lb
+ n="1242a17" ed="T"/>珠　紅頗梨　瑠璃<lb
+ n="1242a18" ed="T"/>　金剛　貴　金錢　貝錢　錢　將去　將來　幾價　賤　食　飯　羹　酒　餅　粥　鹽　鹽　蘇　酪<lb
+ n="1242a23" ed="T"/>蜜　栗　米　麵　大麥<lb
+ n="1242a24" ed="T"/>　小麥　小豆　豆　大豆　稻　菜　蘿蔔　韮　丈夫　婦　閹人　婦女　小兒<lb
+ n="1242a27" ed="T"/>　女子　母　父　祖　兒補　女　兄弟　姉妹　夫　婦　族　姓　各　同伴　朋友　婚　媒　女夫　奴　婢　師　弟　主　承事　供養　發遣　送　消息<lb
+ n="1242b05" ed="T"/>　平安　安隱　吉　王　達<lb
+ n="1242b06" ed="T"/>官　大王　最大　達官<lb
+ n="1242b07" ed="T"/>　太子　舍人　主<lb
+ n="1242b08" ed="T"/>　將軍　兵眾　百姓<lb
+ n="1242b09" ed="T"/>　封邑　使　官司　戰　勝<lb
+ n="1242b10" ed="T"/>　退　寺　天廟<lb
+ n="1242b11" ed="T"/>　出家　俗人　醫師　教　書　經　義　字　墨<lb
+ n="1242b13" ed="T"/>　筆　書疏　寫　教　學　懷孕　生　姟　老　病<lb
+ n="1242b15" ed="T"/>　差　死　年　月　白　分　黑　正月　二月　三月　四月　五月<lb
+ n="1242b18" ed="T"/>　六月　七月　八月　九<lb
+ n="1242b19" ed="T"/>月　十月　十一月　十二月<lb
+ n="1242b20" ed="T"/>　春正月二月　三月四月<lb
+ n="1242b21" ed="T"/>　夏五月六月　七月八月<lb
+ n="1242b22" ed="T"/>冬九月十月　十一月十二月　日　食前　午時　日西以後　時　節　昨　今　明<lb
+ n="1242b25" ed="T"/>　後日　里　暮　夜　久　時　新　雚　今　城　村　封　宅　門　園<lb
+ n="1242b28" ed="T"/>　道　橋　船　馬車　床　座　井　世界<pb n="1242c" id="T54.2136.1242c" ed="T"/><lb
+ n="1242c01" ed="T"/>　地　天　天神　天宮　虛空<lb
+ n="1242c02" ed="T"/>　宿　星　月蝕　雲雨　雪　霜　露　霞<lb
+ n="1242c04" ed="T"/>　虹　霓　雷　霹靂<lb
+ n="1242c05" ed="T"/>　陽炎　塵　光　明　闇　翳　水　氷　沫　泡　流水　泉　泉水　清水<lb
+ n="1242c09" ed="T"/>　濁水　沙<lb
+ n="1242c10" ed="T"/>埿　河　海　池<lb
+ n="1242c11" ed="T"/>　火　煙　灰　焰　炭<lb
+ n="1242c12" ed="T"/>　樹　花　菓　葉　根　枝　皮　草　子　山　峯<lb
+ n="1242c14" ed="T"/>　石　烏　翅　零　尾　孰　生　畜生　象<lb
+ n="1242c16" ed="T"/>　牛　󱳘　水牛　駱駝　驢　羖羊　白羊　猪　狗　騾　草馬　中國　邊地　邊地人　漢國　天竺國　波斯　突厥　胡<lb
+ n="1242c21" ed="T"/>　罽賓　吐火羅　龜茲　于闐　吐蕃　崑崙　高麗<lb
+ n="1242c23" ed="T"/>　烏長　摩伽陀國<lb
+ n="1242c24" ed="T"/>　王舍　舍衛　迦毘羅城　迦閃弭　京師　吳<lb
+ n="1242c26" ed="T"/>　蜀　鬼　乾闥婆　鳩盤荼<lb
+ n="1242c27" ed="T"/>　夜叉　羅剎　阿脩羅　富單那　迦吒富單那　緊那羅　摩護羅<lb
+ n="1242c29" ed="T"/>伽　仙　獸　獅子　虎　鹿<pb n="1243a" id="T54.2136.1243a" ed="T"/><lb
+ n="1243a01" ed="T"/>　狼　豺　狗　兔　鼠<lb
+ n="1243a02" ed="T"/>　麝　犀　麞　󱶃　㹨<lb
+ n="1243a03" ed="T"/>　熊　獺　狐　龍　鵞<lb
+ n="1243a04" ed="T"/>鴨　龜　蛤　鼈　魚　蛭　螺　蝦蟇　蟹　金翅<lb
+ n="1243a06" ed="T"/>鳥　鳳　雁　雀　蝙<lb
+ n="1243a07" ed="T"/>蝠　鵄　𪅎　雞　鷰　鵲　烏　󰝵　孔<lb
+ n="1243a09" ed="T"/>雀　雉　雁鷗　鸚鵡　蟲　蛇　蝎　蠅　蜂　蟬<lb
+ n="1243a11" ed="T"/>　育　蜘蛛　螢　蚯蚓<lb
+ n="1243a12" ed="T"/>　螻蛄　蜣蜋　蟣　虱　蚤　󱲶虱　棗　杏<lb
+ n="1243a14" ed="T"/>　雉桃　李　梨　柰　石榴　白楊　青桐　胡桃　柳　黃桐　柿　柏　槐　苦練　枇杷　蓮　藕　刾　蒲桃　苽　菱　甘蔗　烏麻　麻　蔓菁　葵　苦菜　苽　苜蓿　冬苽　葱　蒜　藥　大黃　天門冬　黃精　地黃　昌蒲<lb
+ n="1243a24" ed="T"/>　𦾧蕷　甘草　牛膝　蒺藥　󱮱杞　升麼　椒　訶梨勒　毘醯勒　菴摩勒　翳　乾薑　胡椒　畢鉢　香附子　菁<pb n="1243b" id="T54.2136.1243b" ed="T"/><lb
+ n="1243b01" ed="T"/>蘘　酢草　縮砂蜜　秦膠<lb
+ n="1243b02" ed="T"/>　大戟　石蜜　沙糖<lb
+ n="1243b03" ed="T"/>　戎鹽　烏鹽　弓　箭<lb
+ n="1243b04" ed="T"/>　射　大刀　刀子　矟　斫　傷　甲　旗纛<lb
+ n="1243b06" ed="T"/>　幢　鏾鑑　輪　棑　鉞斧<lb
+ n="1243b07" ed="T"/>　鈎　羂索　鐵槍　枷<lb
+ n="1243b08" ed="T"/>　鎻　胃　械　竄　鼓<lb
+ n="1243b09" ed="T"/>　鑺　鋸　鑿　器　盤　盌　杓　匙　瓶　瓫　大瓮　盆　澡灌　釜　鐺　鉢　舍　酸棗　牆<lb
+ n="1243b13" ed="T"/>　柱　椽　門　門扉<lb
+ n="1243b14" ed="T"/>　門印　鎻　鑰匙　基　園　佛堂　經堂　浮<lb
+ n="1243b16" ed="T"/>圖　塔　鐸　衣　衫　袴　褌　腰帶　長被<lb
+ n="1243b18" ed="T"/>　靴　釧　耳璫　寶　𩒐　鬘　冠　履　著<lb
+ n="1243b20" ed="T"/>　脫　置著　盛　乾　濕<lb
+ n="1243b21" ed="T"/>　炙　巢　窟　乳　厨　廁　樓　磑　杖　鞭<lb
+ n="1243b23" ed="T"/>　几　梯　机　拂　梃歷　動　跳　屈　纏　申　仰著　覆著　倒　破　拋　壓　飛　洗　浮　鑽　刾　堅　脫　雜　樂<lb
+ n="1243b28" ed="T"/>　苦樂　惑　慳　懊<lb
+ n="1243b29" ed="T"/>惱　須臾　涌　波<pb n="1243c" id="T54.2136.1243c" ed="T"/><lb
+ n="1243c01" ed="T"/>　沸　右　左　前　後　漂　溺　險隘　讚　墨　輕毀　為去　戲　抃　長　勿　兄　叔伯二名　伯　叔　祖母　外祖母　阿嫂　弟婦<lb
+ n="1243c08" ed="T"/>佛僧教授師和尚<lb
+ n="1243c09" ed="T"/>
+</ab><ab type='juan' subtype='close'>唐梵兩語對集</ab><div type='w' level='2'><ab type='prose'>中天竺摩竭提國菩提樹下<lb
+ n="1243c10" ed="T"/>金剛座寺苾蒭僧怛多蘖多<lb
+ n="1243c11" ed="T"/>波羅瞿那彌捨娑<lb
+ n="1243c12" ed="T"/>永承三年閏正月十七日書寫校合已了<lb
+ n="1243c13" ed="T"/>求法沙門寂圓本<lb
+ n="1243c14" ed="T"/><lb
+ n="1243c15" ed="T"/><lb
+ n="1243c16" ed="T"/>甲本追記云　折乞蒭　羯拏　羯羅拏　爾<lb
+ n="1243c17" ed="T"/>賀婆　迦野摩那　阿枳波羅<lb
+ n="1243c19" ed="T"/>波哩惹儞路波瑟多麼<lb
+ n="1243c21" ed="T"/>　素沒馱　羅沙　薩波羅舍<lb
+ n="1243c22" ed="T"/>　達摩波抳<lb
+ n="1243c23" ed="T"/></ab></div></div>
+</body></text></TEI>

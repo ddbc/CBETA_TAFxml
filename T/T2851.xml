@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">和菩薩戒文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2851</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1300b02" ed="T"/><lb
+ n="1300b03" ed="T"/><lb
+ n="1300b04" ed="T"/><lb
+ n="1300b05" ed="T"/>
+<ab type='juan' subtype='open'>和菩薩戒文一本</ab><lb
+ n="1300b06" ed="T"/><lb
+ n="1300b07" ed="T"/><ab type='prose'>涼心渴仰專注法音。惟願戒師廣垂湖演<lb
+ n="1300b08" ed="T"/>和云。諸菩薩莫殺生。殺生必當墮大抗。殺命<lb
+ n="1300b09" ed="T"/>來生短命報。娑婆兩目傷雙盲。勸請道場諸<lb
+ n="1300b10" ed="T"/>眾等共斷殺業不須行。佛子諸菩薩莫偷盜<lb
+ n="1300b11" ed="T"/>得物。猶孃少死後即作畜生身被毛載角來<lb
+ n="1300b12" ed="T"/>相報。終日驅牽不停息。無有功夫食水草。猶<lb
+ n="1300b13" ed="T"/>□迷心不覺知。是故慇懃重報。佛子。諸菩薩<lb
+ n="1300b14" ed="T"/>莫邪婬。邪婬顛倒罪根涼鐵床㞧㞧來相向。<lb
+ n="1300b15" ed="T"/>鋸柱赫赫競來假󱡻身遍體體皆沾　爛曰。何<lb
+ n="1300b16" ed="T"/>不發菩提心。佛子。諸菩薩莫妄語。□來誰趣<lb
+ n="1300b17" ed="T"/>不見言見。詐虛言鐵犁耕舌。并解鋸為利見<lb
+ n="1300b18" ed="T"/>□。或眾生欺誑師僧及父母。若能懺悔不忍<lb
+ n="1300b19" ed="T"/>惟當來必離波吒苦。佛子。諸菩薩莫估酒。估<lb
+ n="1300b20" ed="T"/>酒洋銅來灌口。足下火出炎連天。獄卒持鉾<lb
+ n="1300b21" ed="T"/>斬兩手。總為昏癡顛倒。人身作當身自受。仍<lb
+ n="1300b22" ed="T"/>被驅掠入阿鼻。鐵壁千重無處事。佛子。諸菩<lb
+ n="1300b23" ed="T"/>薩莫自說自說喻。若湯洗雪造罪。猶如一剎<lb
+ n="1300b24" ed="T"/>那長入波吒而悶絕。連明曉夜下長釘眼耳之<lb
+ n="1300b25" ed="T"/>中皆泣。血罪因罪果罪根涼。乃被牛頭來拔<lb
+ n="1300b26" ed="T"/>舌不容乞命。暫而疎獄卒持秉而使泄。佛子。<lb
+ n="1300b27" ed="T"/>諸菩薩莫毀他。毀他相將入奈。刀劍毀橫役<lb
+ n="1300b28" ed="T"/>渡趣。獄入泥水便䑆被混鈍猶如鑊沸。一切<lb
+ n="1300b29" ed="T"/>地獄盡經過。皮膚血肉如流水。何時得離波<pb n="1300c" id="T85.2851.1300c" ed="T"/><lb
+ n="1300c01" ed="T"/>吒。佛子。諸菩薩莫多慳。多積寶□。仍山見<lb
+ n="1300c02" ed="T"/>有貧窮來乞者。一針一草不能制貪心。不識<lb
+ n="1300c03" ed="T"/>知厭足。當來空手入黃泉。佛子。諸菩薩莫多<lb
+ n="1300c04" ed="T"/>嗔。多嗔定受奔蛇。身婉轉腸行無手足。為□<lb
+ n="1300c05" ed="T"/>前世忿怒曰。八萬筒□來唼食。遺留自骨乃<lb
+ n="1300c06" ed="T"/>皮□。□所□苦難堪忍。何時劫得勝人身。佛<lb
+ n="1300c07" ed="T"/>子。諸菩薩莫謗三寶。若謗三寶墮惡道。三百<lb
+ n="1300c08" ed="T"/>貝長釘定釘處。□叫喚連天聲浩浩謗佛。謗<lb
+ n="1300c09" ed="T"/>更□嗔銅開鐵櫸來相悖痛哉苦哉。不可論<lb
+ n="1300c10" ed="T"/>何時值遇天掌道。佛子。和云。微塵至犯黑極<lb
+ n="1300c11" ed="T"/>千生。勝果菩提斯皆頓失。玩嬰六道良亦可<lb
+ n="1300c12" ed="T"/>悲。天上人間取生何路。和云。犯戒知報已落<lb
+ n="1300c13" ed="T"/>三途。未番於中所經幾歲。和云。墮惡道中已<lb
+ n="1300c14" ed="T"/>至極苦。更經劫數誠可痛。心歲月疑長不知。<lb
+ n="1300c15" ed="T"/>得聞父母三寶名字已否。和云。苦哉苦哉。和<lb
+ n="1300c16" ed="T"/>云。蓮花藏戒今日得聞。眾共傾心願垂廣說。<lb
+ n="1300c17" ed="T"/>和云。我今懺悔不敢覆藏。惟願戒戒師慈悲<lb
+ n="1300c18" ed="T"/>廣說。和云。大師密藏甘露真詮。喜慶今聞願<lb
+ n="1300c19" ed="T"/>垂廣說。和云。如來心地曠劫障聞。今遇宣揚<lb
+ n="1300c20" ed="T"/>願垂廣說。和云。恒沙戒品希遇宣揚。願惟願<lb
+ n="1300c21" ed="T"/>戒師慈悲廣說　涼心慚愧不敢覆藏。露膽<lb
+ n="1300c22" ed="T"/>披肝發露懺悔。曠大劫來恒沙罪障。今聞此<lb
+ n="1300c23" ed="T"/>戒並得消除。慚愧戒師布施歡喜。<lb
+ n="1300c24" ed="T"/>乾符肆年四月　報恩寺寫記</ab></div>
+</body></text></TEI>

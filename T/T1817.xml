@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">略明般若末後一頌讚述</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T40</biblScope>
+                    <idno type="Taisho">T40n1817</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0783a08" ed="T"/><lb
+ n="0783a09" ed="T"/><lb
+ n="0783a10" ed="T"/><lb
+ n="0783a11" ed="T"/>
+<ab type='juan' subtype='open'>略明般若末後一頌讚述</ab><lb
+ n="0783a12" ed="T"/><lb
+ n="0783a13" ed="T"/><byline>唐三藏法師義淨述</byline><lb
+ n="0783a14" ed="T"/><div type='jing' level='1'><ab type='prose'>義淨因譯無著菩薩般若頌釋訖。詳夫大士<lb
+ n="0783a15" ed="T"/>判其九喻。可謂文致幽深。理義玄簡。自非地<lb
+ n="0783a16" ed="T"/>隣極喜。誰能發此明慧。而西域相承云。無著<lb
+ n="0783a17" ed="T"/>菩薩昔於覩史多天慈氏尊處。親受此八十<lb
+ n="0783a18" ed="T"/>頌。開般若要門。順瑜伽宗理。明唯識之義。遂<lb
+ n="0783a19" ed="T"/>令教流印度。若金烏之焰赫扶桑。義闡神州。<lb
+ n="0783a20" ed="T"/>等玉兔之光浮雪嶺。然而能斷金剛。西方乃<lb
+ n="0783a21" ed="T"/>有多釋。考其始也此頌最先。即世親大士躬<lb
+ n="0783a22" ed="T"/>為其釋此。雖神州譯訖。而義有闕如。故復親<lb
+ n="0783a23" ed="T"/>覈談筵。重詳其妙。雅符釋意。更譯本經。世親<lb
+ n="0783a24" ed="T"/>菩薩復為般若七門義釋。而那爛陀寺盛傳<lb
+ n="0783a25" ed="T"/>其論。但為義府幽冲尋者莫測。有師子月法<lb
+ n="0783a26" ed="T"/>師造此論釋。復有東印度多聞俗士其名月<lb
+ n="0783a27" ed="T"/>官。遍檢諸家亦為義釋。斯等莫不意符三性。<lb
+ n="0783a28" ed="T"/>不同中觀矣。更有別釋。而但順龍猛。不會瑜<lb
+ n="0783a29" ed="T"/>伽。瑜伽則真有俗無。以三性為本。中觀乃真<pb n="0783b" id="T40.1817.0783b" ed="T"/><lb
+ n="0783b01" ed="T"/>無俗有。寔二諦為先。般若大宗。含斯兩意。<lb
+ n="0783b02" ed="T"/>致使東夏則道分南北。西方乃義隔有空。既<lb
+ n="0783b03" ed="T"/>識介綱。理無和雜。各准　聖旨誠難乖競。<lb
+ n="0783b04" ed="T"/>然而末後一頌云。一切有為法如星瞖燈幻。<lb
+ n="0783b05" ed="T"/>露泡夢電雲。應作如是觀者。而釋文既隱。恐<lb
+ n="0783b06" ed="T"/>尋者尚昧。輒因二九事喻。聊題十八之作。冀<lb
+ n="0783b07" ed="T"/>使朝覽遂閑。庶罔銷神之滯。夜光親授。長無<lb
+ n="0783b08" ed="T"/>按劍之惑。然而見等九事。即生死之區寰。<lb
+ n="0783b09" ed="T"/>大士了如星等。是故處而不著。智不住生津。<lb
+ n="0783b10" ed="T"/>󰁨紅蓮之在瀲。悲不居圓寂。若白玉之沈溺。<lb
+ n="0783b11" ed="T"/>因答無住涅槃。申其九喻云爾。<lb
+ n="0783b12" ed="T"/>論見　觀見如星長夜妄執。<lb
+ n="0783b13" ed="T"/></ab>
+<ab type='verse'>
+見心長夜景　　妄執久冥舒　　<lb
+ n="0783b14" ed="T"/>三心纔已發　　兩分盡皆除　　
+</ab><lb
+ n="0783b15" ed="T"/><ab type='prose'>喻星　以星喻見夜有明無。<lb
+ n="0783b16" ed="T"/></ab>
+<ab type='verse'>
+榆星通夜景　　柳色徹明舒　　<lb
+ n="0783b17" ed="T"/>千條光若發　　一旦盡皆除　　
+</ab><lb
+ n="0783b18" ed="T"/><ab type='prose'>論境　道境如瞖妄覩空花。<lb
+ n="0783b19" ed="T"/></ab>
+<ab type='verse'>
+境色無非障　　妄有見塵瑕　　<lb
+ n="0783b20" ed="T"/>但由真智力　　不復覩狂花　　
+</ab><lb
+ n="0783b21" ed="T"/><ab type='prose'>喻瞖　以瞖喻境元無妄執。<lb
+ n="0783b22" ed="T"/></ab>
+<ab type='verse'>
+太虛本無障　　淨境性亡瑕　　<lb
+ n="0783b23" ed="T"/>但由瞖眼力　　遂使見空花　　
+</ab><lb
+ n="0783b24" ed="T"/><ab type='prose'>論識　言識如燈生生不絕。<lb
+ n="0783b25" ed="T"/></ab>
+<ab type='verse'>
+見起起不已　　妄生生未極　　<lb
+ n="0783b26" ed="T"/>留滯死宮中　　良由依識力　　
+</ab><lb
+ n="0783b27" ed="T"/><ab type='prose'>喻燈　以燈喻識焰焰無窮。<lb
+ n="0783b28" ed="T"/></ab>
+<ab type='verse'>
+發焰焰不已　　舒光光未極　　<lb
+ n="0783b29" ed="T"/>照灼炳宵中　　良為膏油力　　
+</ab><pb n="0783c" id="T40.1817.0783c" ed="T"/><lb
+ n="0783c01" ed="T"/><ab type='prose'>論界　說界如幻藉業生而會盡。<lb
+ n="0783c02" ed="T"/></ab>
+<ab type='verse'>
+業功莊處巧　　由惑生眾相　　<lb
+ n="0783c03" ed="T"/>所執定非真　　界體全虛妄　　
+</ab><lb
+ n="0783c04" ed="T"/><ab type='prose'>喻幻　以幻喻界假匠起而終無。<lb
+ n="0783c05" ed="T"/></ab>
+<ab type='verse'>
+幻師方便巧　　假作眾形相　　<lb
+ n="0783c06" ed="T"/>鞠體固非真　　所見皆虛妄　　
+</ab><lb
+ n="0783c07" ed="T"/><ab type='prose'>論身　序身如露體不久停。<lb
+ n="0783c08" ed="T"/></ab>
+<ab type='verse'>
+投軀生巘際　　寄命死河中　　<lb
+ n="0783c09" ed="T"/>鎮處飄颻夜　　還如橐籥風　　
+</ab><lb
+ n="0783c10" ed="T"/><ab type='prose'>喻露　以露喻身逢風必落。<lb
+ n="0783c11" ed="T"/></ab>
+<ab type='verse'>
+圓珠停草際　　渧淚處華中　　<lb
+ n="0783c12" ed="T"/>悽悽動林夜　　索索盡隨風　　
+</ab><lb
+ n="0783c13" ed="T"/><ab type='prose'>論受用　陳用如泡待根境識。<lb
+ n="0783c14" ed="T"/></ab>
+<ab type='verse'>
+寰中根色積　　託此復心行　　<lb
+ n="0783c15" ed="T"/>寔由三觸合　　遂令三受生　　
+</ab><lb
+ n="0783c16" ed="T"/><ab type='prose'>喻泡　以泡喻用假渧水風。<lb
+ n="0783c17" ed="T"/></ab>
+<ab type='verse'>
+池中平水積　　渧墜有風行　　<lb
+ n="0783c18" ed="T"/>但由三事合　　乘使萬泡生　　
+</ab><lb
+ n="0783c19" ed="T"/><ab type='prose'>論過　述過如夢由思而起。<lb
+ n="0783c20" ed="T"/></ab>
+<ab type='verse'>
+過去雖無境　　尋思意尚通　　<lb
+ n="0783c21" ed="T"/>遂令方寸內　　還見九城容　　
+</ab><lb
+ n="0783c22" ed="T"/><ab type='prose'>喻夢　以夢喻過因憶乃生。<lb
+ n="0783c23" ed="T"/></ab>
+<ab type='verse'>
+處晝多緣境　　良宵記念通　　<lb
+ n="0783c24" ed="T"/>遂令於睡內　　重憶本時容　　
+</ab><lb
+ n="0783c25" ed="T"/><ab type='prose'>論現　談現如電暫時而有。<lb
+ n="0783c26" ed="T"/></ab>
+<ab type='verse'>
+萬像如電野　　四相等流光　　<lb
+ n="0783c27" ed="T"/>詎知唯一念　　妄計有三常　　
+</ab><lb
+ n="0783c28" ed="T"/><ab type='prose'>喻電　以電喻現󱌶忽便亡。<lb
+ n="0783c29" ed="T"/></ab>
+<ab type='verse'>
+震雷鳴四野　　擊電動千光　　<pb n="0784a" id="T40.1817.0784a" ed="T"/><lb
+ n="0784a01" ed="T"/>剎那存有念　　即體自無常　　
+</ab><lb
+ n="0784a02" ed="T"/><ab type='prose'>論未　論未如雲本識能持其種。<lb
+ n="0784a03" ed="T"/></ab>
+<ab type='verse'>
+藏識無初結　　波情浪後飛　　<lb
+ n="0784a04" ed="T"/>良由有貪愛　　帶種定何疑　　
+</ab><lb
+ n="0784a05" ed="T"/><ab type='prose'>喻雲　以雲喻未自體必含於潤。<lb
+ n="0784a06" ed="T"/></ab>
+<ab type='verse'>
+靉靆屯雲結　　煥爛景風飛　　<lb
+ n="0784a07" ed="T"/>光華如可愛　　含潤理無疑　　
+</ab><lb
+ n="0784a08" ed="T"/><ab type='prose'>更以一句收事收喻撮其要義而為一述。<lb
+ n="0784a09" ed="T"/></ab>
+<ab type='verse'>
+見心智滅如星殄　　惑境真亡若瞖除　　<lb
+ n="0784a10" ed="T"/>想起由識如燈焰　　界有藉思同幻車　　<lb
+ n="0784a11" ed="T"/>一身暫顯同朝露　　三受忽現等泡虛　　<lb
+ n="0784a12" ed="T"/>憶念過時空夢發　　計執現存奔電舒　　<lb
+ n="0784a13" ed="T"/>既知雨潤雲中住　　未種常依識藏居　　
+</ab><lb
+ n="0784a14" ed="T"/><ab type='prose'>次下別據三性三身真俗般若。以明觀行九<lb
+ n="0784a15" ed="T"/>喻解九事云。<lb
+ n="0784a16" ed="T"/></ab>
+<ab type='verse'>
+熟觀生界咸如此　　智者應可務真常　　<lb
+ n="0784a17" ed="T"/>真常實不玄　　圓成在目前　　<lb
+ n="0784a18" ed="T"/>覺二體空蛇索盡　　了一非無鏡月懸　　<lb
+ n="0784a19" ed="T"/>鏡月懸時實無慮　　但作他緣生福處　　<lb
+ n="0784a20" ed="T"/>唯識初心乍有依　　真如後念還無據　　<lb
+ n="0784a21" ed="T"/>無據即般若　　勝俗亡真假　　<lb
+ n="0784a22" ed="T"/>福津如筏捐不捐　　悲智隨生捨不捨　　
+</ab><lb
+ n="0784a23" ed="T"/>
+<ab type='juan' subtype='close'>略明般若末後一頌讚述</ab></div>
+</body></text></TEI>

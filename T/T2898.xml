@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">高王觀世音經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2898</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="1425b04" ed="T"/><lb
+ n="1425b05" ed="T"/><lb
+ n="1425b06" ed="T"/>
+<ab type='juan' subtype='open'>佛說高王觀世音經</ab><lb
+ n="1425b07" ed="T"/><lb
+ n="1425b08" ed="T"/><div type='jing' level='1'><ab type='prose'>觀世音菩薩。南無佛。南無法。南無僧。佛國<lb
+ n="1425b09" ed="T"/>有緣。佛法相因。常樂我淨。有緣佛法。南無摩<lb
+ n="1425b10" ed="T"/>訶般若波羅蜜。是大神呪。南無摩訶般若波<lb
+ n="1425b11" ed="T"/>羅蜜。是大明呪。南無摩訶般若波羅蜜。是無<lb
+ n="1425b12" ed="T"/>上呪南無摩訶般若波羅蜜。是無等等呪。南<lb
+ n="1425b13" ed="T"/>無淨光祕密佛。法藏佛。師子吼神足由王<lb
+ n="1425b14" ed="T"/>佛。佛告須彌登王佛。法護佛。金剛藏師子<lb
+ n="1425b15" ed="T"/>游戲佛。寶勝佛。神通佛。藥師琉璃光王佛。<lb
+ n="1425b16" ed="T"/>普光功德山王佛。善住功德寶王佛。過去七<lb
+ n="1425b17" ed="T"/>佛。未來賢劫千佛。千五百佛。萬五千佛。五<lb
+ n="1425b18" ed="T"/>百花勝佛。百億金剛藏佛。定光佛。六方六佛<lb
+ n="1425b19" ed="T"/>名號。東方寶光月殿月妙尊音王佛。南方樹<lb
+ n="1425b20" ed="T"/>根花王佛。西方皂王神通焰花王佛。北方月<lb
+ n="1425b21" ed="T"/>殿清淨佛。上方無數精進寶首佛。下方善寂<lb
+ n="1425b22" ed="T"/>月音王佛無量諸佛。多寶佛。釋迦牟尼佛。彌<lb
+ n="1425b23" ed="T"/>勒佛。阿閦佛。彌陀佛。中央一切眾生。在佛<lb
+ n="1425b24" ed="T"/>世界中者。行住於地上。及在虛空中。慈憂<lb
+ n="1425b25" ed="T"/>於一切眾生。各令安穩休息。晝夜修持。心<lb
+ n="1425b26" ed="T"/>常求誦此經。能滅生死苦。消伏於毒害。<lb
+ n="1425b27" ed="T"/>那摩大明觀世音。觀明觀世音。高明觀世<lb
+ n="1425b28" ed="T"/>音。開明觀世音。藥王菩薩。藥上菩薩。文殊<lb
+ n="1425b29" ed="T"/>師利菩薩。普賢菩薩。虛空藏菩薩。地藏菩<lb
+ n="1425b30" ed="T"/>薩。清涼寶山億萬菩薩。普光如來化勝<pb n="1425c" id="T85.2898.1425c" ed="T"/><lb
+ n="1425c01" ed="T"/>菩薩。念念誦此偈。七佛世尊。即說呪曰。</ab>
+<ab type='dharani'>離<lb
+ n="1425c02" ed="T"/>波離波帝。求訶求訶帝。陀羅尼帝。尼訶羅<lb
+ n="1425c03" ed="T"/>帝。毘離尼帝。摩訶迦帝。真靈虔帝。娑婆<lb
+ n="1425c04" ed="T"/>訶<lb
+ n="1425c05" ed="T"/></ab>
+<ab type='verse'>
+十方觀世音　　一切諸菩薩　　誓願救眾生　　<lb
+ n="1425c06" ed="T"/>稱名悉解脫　　若有智慧者　　慇懃為解脫　　<lb
+ n="1425c07" ed="T"/>但是有因緣　　讀誦口不綴　　誦經滿千遍　　<lb
+ n="1425c08" ed="T"/>念念心不絕　　火焰不能傷　　刀兵立摧折　　<lb
+ n="1425c09" ed="T"/>恚怒生歡喜　　死者變成活　　莫言此是虛　　<lb
+ n="1425c10" ed="T"/>諸佛不妄說　　
+</ab><lb
+ n="1425c11" ed="T"/><ab type='prose'>佛說高王觀世音經<lb
+ n="1425c12" ed="T"/></ab>
+<ab type='verse'>
+高王觀世音　　能救諸苦危　　臨危急難中　　<lb
+ n="1425c13" ed="T"/>死者變成活　　諸佛語不虛　　是故應頂禮　　<lb
+ n="1425c14" ed="T"/>持誦滿千遍　　重罪皆消滅　　薄福不信者　　<lb
+ n="1425c15" ed="T"/>專貢受持經　　
+</ab><lb
+ n="1425c16" ed="T"/><ab type='prose'>念八大菩薩名號。<lb
+ n="1425c17" ed="T"/>南無觀世音菩薩摩訶薩。南無彌勒菩薩摩<lb
+ n="1425c18" ed="T"/>訶薩。南無虛空藏菩薩摩訶薩。南無普賢菩<lb
+ n="1425c19" ed="T"/>薩。<pb n="1426a" id="T85.2898.1426a" ed="T"/><lb
+ n="1426a01" ed="T"/>摩訶薩。南無金剛手菩薩摩訶薩。南無妙吉<lb
+ n="1426a02" ed="T"/>祥菩薩摩訶薩。南無除蓋障菩薩摩訶薩。南<lb
+ n="1426a03" ed="T"/>無地藏王菩薩摩訶薩。南無諸尊菩薩摩訶<lb
+ n="1426a04" ed="T"/>薩。<lb
+ n="1426a05" ed="T"/></ab>
+<ab type='verse'>
+願以此功德　　普及於一切　　<lb
+ n="1426a06" ed="T"/>誦滿一千遍　　重罪皆消滅　　
+</ab><lb
+ n="1426a07" ed="T"/>
+<ab type='juan' subtype='close'>佛說高王觀世音經</ab></div>
+</body></text></TEI>

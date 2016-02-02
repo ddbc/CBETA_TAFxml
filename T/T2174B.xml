@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">禪林寺宗叡僧正目錄</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T55</biblScope>
+                    <idno type="Taisho">T55n2174B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1111c07" ed="T"/><lb
+ n="1111c08" ed="T"/><lb
+ n="1111c09" ed="T"/>
+<ab type='juan' subtype='open'>禪林寺宗叡僧正目錄</ab><lb
+ n="1111c10" ed="T"/><lb
+ n="1111c11" ed="T"/>常瞿毒女陀羅尼經一卷<lb
+ n="1111c12" ed="T"/>大隨求陀羅尼錍本一卷<lb
+ n="1111c13" ed="T"/>大佛頂碑本一卷<lb
+ n="1111c14" ed="T"/>播那曩結使波念誦儀軌一卷<lb
+ n="1111c15" ed="T"/>供養護世天法一卷<lb
+ n="1111c16" ed="T"/>那羅延天共阿修羅王鬪戰法<lb
+ n="1111c17" ed="T"/>薩波金剛法<lb
+ n="1111c18" ed="T"/>總釋陀羅尼義讚一卷<lb
+ n="1111c19" ed="T"/>金剛頂經瑜伽觀自在王如來修行法一卷<lb
+ n="1111c20" ed="T"/>佛頂尊勝心陀羅尼<lb
+ n="1111c21" ed="T"/>金剛頂瑜伽略述三十七尊心要一卷<lb
+ n="1111c22" ed="T"/>攝真實經成就三身密言要略一卷<lb
+ n="1111c23" ed="T"/>文殊師利焰曼德迦金剛陀羅尼經一卷<lb
+ n="1111c24" ed="T"/>瑜伽供養次第法一卷<lb
+ n="1111c25" ed="T"/>胎藏五輪觀門一卷<lb
+ n="1111c26" ed="T"/>菩提心記決一卷<lb
+ n="1111c27" ed="T"/>理趣般若決一卷<lb
+ n="1111c28" ed="T"/>都表如意輪瑜伽一卷<lb
+ n="1111c29" ed="T"/>大輪金剛修行供養法一卷<pb n="1112a" id="T55.2174B.1112a" ed="T"/><lb
+ n="1112a01" ed="T"/>毘沙門天王別行法一卷<lb
+ n="1112a02" ed="T"/>那吒句鉢羅陀羅尼經一卷<lb
+ n="1112a03" ed="T"/>毘沙門天王儀軌一卷<lb
+ n="1112a04" ed="T"/>毘沙門天王經一卷<lb
+ n="1112a05" ed="T"/>一切如來普賢延命經一卷<lb
+ n="1112a06" ed="T"/>四天姊妹神女真言法一卷<lb
+ n="1112a07" ed="T"/>母哆羅觀自在菩薩隨心法一卷<lb
+ n="1112a08" ed="T"/>金剛童子念誦法一卷</div>
+</body></text></TEI>

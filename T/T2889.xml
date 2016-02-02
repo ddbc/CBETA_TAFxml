@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">續命經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2889</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1405a" id="T85.2889.1405a" ed="T"/><lb
+ n="1405a01" ed="T"/><lb
+ n="1405a02" ed="T"/><lb
+ n="1405a03" ed="T"/>
+<ab type='juan' subtype='open'>佛說續命經</ab><lb
+ n="1405a04" ed="T"/><lb
+ n="1405a05" ed="T"/><div type='jing' level='1'><ab type='prose'>南無大慈大悲救苦觀世音。唯願聖手摩我<lb
+ n="1405a06" ed="T"/>頂。救護娑婆世界重罪者。安著涅槃解脫地。<lb
+ n="1405a07" ed="T"/>每供養諸佛。度一切如影隨形。願恒受持得<lb
+ n="1405a08" ed="T"/>不捨離。西方阿彌陀佛觀世音菩薩得大勢<lb
+ n="1405a09" ed="T"/>至菩薩有能。誦此一佛二菩薩名者。離生死<lb
+ n="1405a10" ed="T"/>苦永不入地獄。恒值善諸識。有疑有難者。<lb
+ n="1405a11" ed="T"/>誦此經一千遍即得解脫。一願三寶恒存立<lb
+ n="1405a12" ed="T"/>　二願風雨順時行　三願國王壽萬歲　四<lb
+ n="1405a13" ed="T"/>願邊地無刀丘　五願三塗離苦難　六願<lb
+ n="1405a14" ed="T"/>百病盡消除　七願眾生行慈孝　八願屠人<lb
+ n="1405a15" ed="T"/>莫殺生　九願牢囚所得脫　十願法界普安<lb
+ n="1405a16" ed="T"/>寧　眼願莫見刀光刃　耳願不聞怨殃聲<lb
+ n="1405a17" ed="T"/>　口願不用為心語　手願不殺一眾生　總願<lb
+ n="1405a18" ed="T"/>當來值彌勒　連辟相將入化城。<lb
+ n="1405a19" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說讀命經</ab></div>
+</body></text></TEI>

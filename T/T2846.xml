@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">祈願文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2846</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1298b06" ed="T"/><lb
+ n="1298b07" ed="T"/><lb
+ n="1298b08" ed="T"/><lb
+ n="1298b09" ed="T"/>
+<ab type='juan' subtype='open'>祈願文</ab><lb
+ n="1298b10" ed="T"/><lb
+ n="1298b11" ed="T"/><ab type='prose'>處結壇五日每壇供僧。一七人散食燃燈。逐<lb
+ n="1298b12" ed="T"/>夜唱大□□□□□。<lb
+ n="1298b13" ed="T"/>　布壹疋。駝皮壹肋□□□□□□□□紙<lb
+ n="1298b14" ed="T"/>壹帖□□□□□□□□。<lb
+ n="1298b15" ed="T"/>右件結壇轉經供僧唱佛燃燈捨施所申意<lb
+ n="1298b16" ed="T"/>□□□□□龍天八部護衛燉煌梵釋四王安<lb
+ n="1298b17" ed="T"/>民靜塞所□□□□□吉逐舊歲遠去他方應<lb
+ n="1298b18" ed="T"/>是嘉瑞嘉祥隨□□□□於□府中天。<lb
+ n="1298b19" ed="T"/>帝主□衛大猷□□□而歸京。八表咸臻而<lb
+ n="1298b20" ed="T"/>献欵。大王保位寵祿日新。等五岳而齊高。比<lb
+ n="1298b21" ed="T"/>□□□不替天。公主永泰竝桃李而芬芳。夫<lb
+ n="1298b22" ed="T"/>人又安以春花而恒茂□□□書俊□□□□<lb
+ n="1298b23" ed="T"/>之全才。諸幼郎君□□孝而許國。小娘子姊<lb
+ n="1298b24" ed="T"/>妹丞妙治而居閨。合宅枝羅保歡顏而納慶。<lb
+ n="1298b25" ed="T"/>然後□□□□□牧童賀　舜日之□□境康<lb
+ n="1298b26" ed="T"/>寧野老播　堯年之慶田祥。五稼千門倍。盈<lb
+ n="1298b27" ed="T"/>於東皐悉□□□廣收於南畝。朝庭奉使早<lb
+ n="1298b28" ed="T"/>拜天顏。所奏邊情果蒙。<lb
+ n="1298b29" ed="T"/>聖元時消疾□□勵莫狼刀□藏音狼煙羂罷<pb n="1298c" id="T85.2846.1298c" ed="T"/><lb
+ n="1298c01" ed="T"/>滅今因壇散詣就場道渴□□□□□三尊幸<lb
+ n="1298c02" ed="T"/>希迴向。<lb
+ n="1298c03" ed="T"/>長興二年十二月二十六日□□西歸義<lb
+ n="1298c04" ed="T"/>等軍</ab></div>
+</body></text></TEI>

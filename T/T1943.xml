@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">略法華三昧補助儀</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T46</biblScope>
+                    <idno type="Taisho">T46n1943</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0956c" id="T46.1943.0956c" ed="T"/><lb
+ n="0956c01" ed="T"/><lb
+ n="0956c02" ed="T"/><lb
+ n="0956c03" ed="T"/><lb
+ n="0956c04" ed="T"/>
+<ab type='juan' subtype='open'>略法華三昧補助儀并序</ab><lb
+ n="0956c05" ed="T"/><lb
+ n="0956c06" ed="T"/><ab type='prose'>初運香華<lb
+ n="0956c08" ed="T"/><lb
+ n="0956c11" ed="T"/>請佛諸佛菩<lb
+ n="0956c12" ed="T"/>薩請法禮佛餘佛菩薩禮法普為懺<lb
+ n="0956c16" ed="T"/>悔前運逆順十心。<lb
+ n="0956c17" ed="T"/>
+</ab><ab type='juan' subtype='close'>略法華三昧補助儀</ab></div>
+</body></text></TEI>
