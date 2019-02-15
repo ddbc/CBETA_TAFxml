@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">園生樹經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0028</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0810c" ed="T" id="T01.0028.0810c"/><lb
+ n="0810c01" ed="T"/><lb
+ n="0810c02" ed="T"/><div type='jing' level='1'><lb
+ n="0810c03" ed="T"/>
+<ab type='juan' subtype='open'>佛說園生樹經</ab><lb
+ n="0810c04" ed="T"/><lb
+ n="0810c05" ed="T"/><byline>西天譯經三藏朝奉大夫試鴻臚卿<lb
+ n="0810c06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0810c07" ed="T"/><ab type='prose'>如是我聞：一時，佛在舍衛國祇樹給孤獨園，<lb
+ n="0810c08" ed="T"/>與苾芻眾俱。是時佛告諸苾芻言：「汝等當知，<lb
+ n="0810c09" ed="T"/>彼三十三天中有一大樹名為園生，其樹盤<lb
+ n="0810c10" ed="T"/>根及五由旬，高百由旬，所有枝葉覆五十由<lb
+ n="0810c11" ed="T"/>旬。彼天子眾依時往彼樹下遊觀，其樹即生<lb
+ n="0810c12" ed="T"/>半努鉢羅舍。時諸天子見是事已，即生歡喜<lb
+ n="0810c13" ed="T"/>適悅快樂。其後非久，復生尸囉拏鉢羅舍，諸<lb
+ n="0810c14" ed="T"/>天子眾依時往彼遊觀，轉增適悅快樂。又復<lb
+ n="0810c15" ed="T"/>非久即生寶網，以覆其上而為莊嚴。彼天子<lb
+ n="0810c16" ed="T"/>眾依時往彼樹下遊觀，轉復增於適悅快樂。<lb
+ n="0810c17" ed="T"/>又復非久生叉囉迦，彼天子眾依時往彼樹<lb
+ n="0810c18" ed="T"/>下遊觀，見是事已，轉復增於適悅快樂。又復<lb
+ n="0810c19" ed="T"/>非久生俱砧摩羅迦，彼天子眾依時往彼樹<lb
+ n="0810c20" ed="T"/>下遊觀，轉復增於適悅快樂。又復非久生迦<lb
+ n="0810c21" ed="T"/>迦寫，彼天子眾依時遊觀，轉增適悅。又復非<lb
+ n="0810c22" ed="T"/>久彼園生樹滿樹開華，其華清淨異香殊妙，<lb
+ n="0810c23" ed="T"/>微風吹動，其香馥郁五十由旬，大風所吹滿<lb
+ n="0810c24" ed="T"/>百由旬，復有殊妙光明照於八十由旬。其樹<lb
+ n="0810c25" ed="T"/>既開華已，彼天子眾見樹開華，轉倍於前生<lb
+ n="0810c26" ed="T"/>大快樂，於夏四月居其樹下適悅娛樂。」<lb
+ n="0810c27" ed="T"/>佛告諸苾芻：「汝等當知，彼園生樹有如是事，<lb
+ n="0810c28" ed="T"/>妙華異香人所愛樂；諸聲聞人亦復如是。彼<lb
+ n="0810c29" ed="T"/>樹初生半努鉢羅舍時，即如聲聞人初發信<pb n="0811a" ed="T" id="T01.0028.0811a"/><lb
+ n="0811a01" ed="T"/>心出家向道；復次彼樹生尸囉拏鉢羅舍時，<lb
+ n="0811a02" ed="T"/>即如聲聞人剃除鬚髮、被袈裟衣，成聲聞相；<lb
+ n="0811a03" ed="T"/>復次彼樹生寶網時，即如聲聞人厭離諸欲、<lb
+ n="0811a04" ed="T"/>捨不善法，遠離種種思惟分別，獲得初禪離<lb
+ n="0811a05" ed="T"/>生喜樂定。<lb
+ n="0811a06" ed="T"/>「復次彼樹生叉曪迦時，即如聲聞人外相善<lb
+ n="0811a07" ed="T"/>寂、內心靜住，離諸思惟、定心一想，獲得二禪<lb
+ n="0811a08" ed="T"/>定生喜樂定。<lb
+ n="0811a09" ed="T"/>「復次彼樹生俱砧摩羅迦時，即如聲聞人離<lb
+ n="0811a10" ed="T"/>諸喜愛，身得輕安適悅妙樂，獲得第三禪離<lb
+ n="0811a11" ed="T"/>喜妙樂定。<lb
+ n="0811a12" ed="T"/>「復次彼樹生迦迦寫時，即如聲聞人斷除一<lb
+ n="0811a13" ed="T"/>切憂苦喜樂住平等心，獲得第四禪捨念清<lb
+ n="0811a14" ed="T"/>淨定。<lb
+ n="0811a15" ed="T"/>「復次彼樹開敷妙華，異香遍聞，人所愛樂時，<lb
+ n="0811a16" ed="T"/>即如聲聞人諸漏已盡、非漏隨增，證無學果不<lb
+ n="0811a17" ed="T"/>受後有，人天瞻敬受大供養，同彼華開其<lb
+ n="0811a18" ed="T"/>事如是。」佛告諸苾芻：「汝等當知，彼三十三天<lb
+ n="0811a19" ed="T"/>諸天子眾，各各色相殊異嚴好種種莊飾，居<lb
+ n="0811a20" ed="T"/>善法堂集會圍繞，聽受帝釋天主宣說妙法。<lb
+ n="0811a21" ed="T"/>汝諸苾芻！各獲果證清淨圓滿，梵行具足一<lb
+ n="0811a22" ed="T"/>切見敬，圍繞世尊聽受妙法，同彼天眾亦復<lb
+ n="0811a23" ed="T"/>如是。」<lb
+ n="0811a24" ed="T"/>爾時諸苾芻聞佛宣說園生樹已，各各心生<lb
+ n="0811a25" ed="T"/>歡喜踊躍，信受奉行。<lb
+ n="0811a26" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說園生樹經</ab></div>
+</body></text></TEI>

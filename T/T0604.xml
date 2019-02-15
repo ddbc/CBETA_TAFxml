@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說禪行三十七品經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T15</biblScope>
+                    <idno type="Taisho">T15n0604</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0180c04" ed="T"/><lb
+ n="0180c05" ed="T"/><lb
+ n="0180c06" ed="T"/><lb
+ n="0180c07" ed="T"/>
+<ab type='juan' subtype='open'>佛說禪行三十七品經</ab><lb
+ n="0180c08" ed="T"/><lb
+ n="0180c09" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
+ n="0180c10" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是，一時佛遊於舍衛國祇樹給孤獨園。<lb
+ n="0180c11" ed="T"/>佛言：「諸比丘！若能彈指間，惟行自身身止<lb
+ n="0180c12" ed="T"/>觀，外身身止觀，內外身身止觀，分別念解世<lb
+ n="0180c13" ed="T"/>間癡惱，是為精進，為如佛教，非是愚癡食人<lb
+ n="0180c14" ed="T"/>施，何況能多行者，撮取其要；若彈指間，止<lb
+ n="0180c15" ed="T"/>觀痛，若止觀意及止觀法，內外分別念，解世<lb
+ n="0180c16" ed="T"/>間癡惱，皆如上說，何況多行者；是故可念行<lb
+ n="0180c17" ed="T"/>四意止。」<lb
+ n="0180c18" ed="T"/>佛言：「諸比丘！若彈指間，惟行未生惡法不令<lb
+ n="0180c19" ed="T"/>生，勸意治行，精進攝意，是為精進行禪，為如<lb
+ n="0180c20" ed="T"/>佛教，不是愚癡食人施，何況多行者，撮取其<lb
+ n="0180c21" ed="T"/>要；若彈指間，惟行已生惡法即得斷，若惟<lb
+ n="0180c22" ed="T"/>行未生善法便發生，及已生善法立不忘，增<lb
+ n="0180c23" ed="T"/>行得滿，勸意治行，精進攝意，皆如上說，何況<lb
+ n="0180c24" ed="T"/>多行者；是故可念行四意斷。」<lb
+ n="0180c25" ed="T"/>佛言：「諸比丘！若彈指間，惟行欲定斷生死，惟<pb n="0181a" ed="T" id="T15.0604.0181a"/><lb
+ n="0181a01" ed="T"/>神足，是為最精進行禪，為如佛教，不是愚癡<lb
+ n="0181a02" ed="T"/>食人施，何況多行者，撮取其要；若彈指間，惟<lb
+ n="0181a03" ed="T"/>行精進定，若惟行意定及戒定斷生死，惟神<lb
+ n="0181a04" ed="T"/>足，皆如上說，何況多行者；是故可念行四神<lb
+ n="0181a05" ed="T"/>足。」佛言：「諸比丘！若彈指間，惟行信根，以見四<lb
+ n="0181a06" ed="T"/>喜之事，不離佛亦法與眾及戒，是為精進行<lb
+ n="0181a07" ed="T"/>禪，為如佛教，不是愚癡食人施，何況多行者，<lb
+ n="0181a08" ed="T"/>撮取其要；若彈指間，惟行精進根，以見四意<lb
+ n="0181a09" ed="T"/>斷；若惟行念根，以見四意止；若惟行定根，以<lb
+ n="0181a10" ed="T"/>見四禪；若惟行慧根，以見四諦，皆如上說，何<lb
+ n="0181a11" ed="T"/>況多行者；是故可念行五根。」佛言：「諸比丘！若<lb
+ n="0181a12" ed="T"/>彈指間，惟行信力，從得四喜之事，令無能壞，<lb
+ n="0181a13" ed="T"/>是為精進行禪，為如佛教，非是愚癡食人施，<lb
+ n="0181a14" ed="T"/>何況多行者；若彈指間，惟行精進力，若念力，<lb
+ n="0181a15" ed="T"/>若定力，若慧力，皆如上說，何況多行者；是故<lb
+ n="0181a16" ed="T"/>可念行五力。」<lb
+ n="0181a17" ed="T"/>佛言諸比丘：「若彈指間，惟行念覺意，以念所<lb
+ n="0181a18" ed="T"/>當念，以愛念，以正念，為善法念，得志不忘，<lb
+ n="0181a19" ed="T"/>是為精進行禪，為如佛教，不是愚癡食人施，<lb
+ n="0181a20" ed="T"/>何況多行者，撮取其要；若彈指間，惟行法解<lb
+ n="0181a21" ed="T"/>覺意，其意經經分別解、隨順解；若惟行精進<lb
+ n="0181a22" ed="T"/>覺意，其身精進，意亦精進；若惟行愛覺意，知<lb
+ n="0181a23" ed="T"/>所當愛，令意得喜；若惟行止覺意，令身休止，<lb
+ n="0181a24" ed="T"/>意亦休止；若惟行定覺意，令意住念亦住，志<lb
+ n="0181a25" ed="T"/>不亂，不邪念；若惟行護覺意，為護行知所念，<lb
+ n="0181a26" ed="T"/>知安身，令見道護惡念，安隱行事，事皆如上<lb
+ n="0181a27" ed="T"/>說，何況多行者；是故可念行七覺意。」佛言：「諸<lb
+ n="0181a28" ed="T"/>比丘！若彈指間，惟行正見，以知古知始知<lb
+ n="0181a29" ed="T"/>終，知內知外，知苦知習知盡知道，知佛知<pb n="0181b" ed="T" id="T15.0604.0181b"/><lb
+ n="0181b01" ed="T"/>法知比丘眾，知學行事如六合，所習所取，歡<lb
+ n="0181b02" ed="T"/>樂變失，及其歸趣，知不貪之德，是為正見，為<lb
+ n="0181b03" ed="T"/>精進行禪，為如佛教，不是愚癡食人施，何況<lb
+ n="0181b04" ed="T"/>多行者，撮取其要；若彈指間，惟行正思，為思<lb
+ n="0181b05" ed="T"/>出家、思不諍、思不殺；若惟行正語、不妄語、不<lb
+ n="0181b06" ed="T"/>兩舌、不惡口、不形笑；若惟行正命，不以貪生<lb
+ n="0181b07" ed="T"/>活，不恚生活，不以癡生活；若惟行正業，不殺、<lb
+ n="0181b08" ed="T"/>不盜竊、不邪婬；若惟行正治，以修治四意斷<lb
+ n="0181b09" ed="T"/>之事；若惟行正念，以受行四意止，亦惟行正<lb
+ n="0181b10" ed="T"/>定，以思念四禪事，事皆同如上說，其彈指間<lb
+ n="0181b11" ed="T"/>功德如是，何況多行者；是故可念行八正道。」<lb
+ n="0181b12" ed="T"/>佛說是已，皆歡喜受。</ab></div><lb
+ n="0181b13" ed="T"/>
+<ab type='juan' subtype='close'>佛說禪行三十七品經</ab>
+</body></text></TEI>

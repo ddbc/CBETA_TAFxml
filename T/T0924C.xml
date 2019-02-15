@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">藥師儀軌一具</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0924C</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0030c" id="T19.0924C.0030c" ed="T"/><lb
+ n="0030c01" ed="T"/><lb
+ n="0030c02" ed="T"/><div type='jing' level='1'><lb
+ n="0030c03" ed="T"/>
+<ab type='juan' subtype='open'>藥師儀軌一具</ab><lb
+ n="0030c04" ed="T"/><lb
+ n="0030c05" ed="T"/><ab type='prose'>若欲入向道場者。先澡浴清淨。以真言手印。<lb
+ n="0030c06" ed="T"/>灑淨所換之衣。次以真言加持其衣而著。真<lb
+ n="0030c07" ed="T"/>言曰。<lb
+ n="0030c08" ed="T"/></ab>
+<ab type='dharani'>唵微莾羅莎縛賀<lb
+ n="0030c09" ed="T"/></ab>
+<ab type='prose'>次即衣著。真言曰。<lb
+ n="0030c10" ed="T"/></ab>
+<ab type='dharani'>唵鉢哩嚩羅多嚩曰里尼吽<lb
+ n="0030c11" ed="T"/></ab>
+<ab type='prose'>次飲水灑淨。真言曰。<lb
+ n="0030c12" ed="T"/></ab>
+<ab type='dharani'>唵摩訶入嚩羅吽<lb
+ n="0030c13" ed="T"/></ab>
+<ab type='prose'>次入向道場時。不起貪欲瞋恚等。專念本尊<lb
+ n="0030c14" ed="T"/>而住次至道場門外灑淨。<lb
+ n="0030c15" ed="T"/>次香水灑身。以後稱吽字三聲。然後道場并<lb
+ n="0030c16" ed="T"/>觀想聖眾。遍滿道場。如影重之。不相妨礙。次<lb
+ n="0030c17" ed="T"/>入道場已。面向於本尊。合掌作禮。禮三部尊。<lb
+ n="0030c18" ed="T"/>及本尊已。舉頭諦觀佛菩薩金剛像也。向佛<lb
+ n="0030c19" ed="T"/>陳說三世宿愆惡障。重懺本尊所。亦如是懺<lb
+ n="0030c20" ed="T"/>禮。偈曰。<lb
+ n="0030c21" ed="T"/></ab>
+<ab type='verse'>
+我從過去世　　流轉於生死　　<lb
+ n="0030c22" ed="T"/>今對大聖尊　　盡心而懺悔　　<lb
+ n="0030c23" ed="T"/>如先佛所懺　　我今亦如是　　<lb
+ n="0030c24" ed="T"/>願承加持力　　眾生悉清淨　　<lb
+ n="0030c25" ed="T"/>以此大願故　　自他獲無垢　　
+</ab><lb
+ n="0030c26" ed="T"/><ab type='prose'>次香水淨三業。真言曰。<lb
+ n="0030c27" ed="T"/></ab>
+<ab type='dharani'>唵薩嚩婆嚩輸馱薩嚩達麼薩嚩婆嚩<lb
+ n="0030c28" ed="T"/></ab>
+<ab type='prose'>輸度啥次定心已。作三部三昧耶。真言曰。<lb
+ n="0030c29" ed="T"/></ab>
+<ab type='dharani'>唵怛他蘖覩納婆縛也娑嚩訶<pb n="0031a" id="T19.0924C.0031a" ed="T"/><lb
+ n="0031a01" ed="T"/>唵跛娜謨納婆縛也娑嚩賀<lb
+ n="0031a02" ed="T"/>唵嚩曰盧納婆縛也婆嚩賀<lb
+ n="0031a03" ed="T"/></ab>
+<ab type='prose'>。<lb
+ n="0031a04" ed="T"/>次遣除身中毘那夜迦。真言曰。<lb
+ n="0031a05" ed="T"/></ab>
+<ab type='dharani'>唵闍波沒㗚帝賀囊迦囊吽泮吒<lb
+ n="0031a06" ed="T"/></ab>
+<ab type='prose'>次辟除諸障。真言曰。<lb
+ n="0031a07" ed="T"/></ab>
+<ab type='dharani'>曩謨嚩日羅也吽賀囊莾他尾特夢婆輸󰸂羅<lb
+ n="0031a08" ed="T"/>也泮吒<lb
+ n="0031a09" ed="T"/></ab>
+<ab type='prose'>次辟除諸物所有諸難真言曰。<lb
+ n="0031a10" ed="T"/></ab>
+<ab type='dharani'>唵枳哩枳哩羅嚩嗟捺羅𤙖泮吒<lb
+ n="0031a11" ed="T"/></ab>
+<ab type='prose'>次去垢真言曰。<lb
+ n="0031a12" ed="T"/></ab>
+<ab type='dharani'>唵枳哩枳哩嚩日羅𤙖泮吒<lb
+ n="0031a13" ed="T"/></ab>
+<ab type='prose'>次清淨。真言曰。<lb
+ n="0031a14" ed="T"/></ab>
+<ab type='dharani'>唵爾囊爾迦<lb
+ n="0031a15" ed="T"/></ab>
+<ab type='prose'>次光澤。真言曰。<lb
+ n="0031a16" ed="T"/></ab>
+<ab type='dharani'>唵帝誓帝惹徒尾寧徒提沙馱吽泮吒<lb
+ n="0031a17" ed="T"/></ab>
+<ab type='prose'>次神分。次唱禮。一切恭敬。次供文。次四方四<lb
+ n="0031a18" ed="T"/>佛四菩薩。次本尊稱名三遍。次三部界會一<lb
+ n="0031a19" ed="T"/>切佛菩薩等。次驚覺。真言曰。<lb
+ n="0031a20" ed="T"/></ab>
+<ab type='dharani'>唵嚩曰魯底瑟吒吽<lb
+ n="0031a21" ed="T"/></ab>
+<ab type='prose'>。<lb
+ n="0031a22" ed="T"/>次九方便　至心歸命。<lb
+ n="0031a23" ed="T"/></ab>
+<ab type='verse'>
+歸命十方正等覺　　三世一切具三身　　<lb
+ n="0031a24" ed="T"/>歸命一切大乘法　　歸命不退菩提眾　　<lb
+ n="0031a25" ed="T"/>歸命諸明真實言　　歸命一切諸密印　　<lb
+ n="0031a26" ed="T"/>以身口意清淨業　　慇懃無量恭敬禮　　
+</ab><lb
+ n="0031a27" ed="T"/><ab type='prose'>歸命頂禮藥師瑠璃光佛。<lb
+ n="0031a28" ed="T"/>次禮方便。真言曰。<lb
+ n="0031a29" ed="T"/></ab>
+<ab type='dharani'>唵曩莫薩縛怛他蘗多迦野弭縛<pb n="0031b" id="T19.0924C.0031b" ed="T"/><lb
+ n="0031b01" ed="T"/>吃質多縛日羅滿娜南迦嚕弭<lb
+ n="0031b02" ed="T"/></ab>
+<ab type='prose'>次至心歸依。次真言次施身方便了。<lb
+ n="0031b03" ed="T"/>歸命頂禮。施身方便。真言如例。印者。金剛<lb
+ n="0031b04" ed="T"/>合掌。投身舒耳。若莊校投者。運心耳。次至心<lb
+ n="0031b05" ed="T"/>發願了。歸命頂禮。發菩提心方便真言。次至<lb
+ n="0031b06" ed="T"/>心懺悔了。歸命頂禮。次真言。<lb
+ n="0031b07" ed="T"/>次至心隨喜了。次歸命頂禮。次真言次<lb
+ n="0031b08" ed="T"/>至心勸請了。次歸命頂禮。次真言次<lb
+ n="0031b09" ed="T"/>至心奉請誦了。次歸命頂禮。次真言次至心迴向誦了。次歸命頂禮。次<lb
+ n="0031b11" ed="T"/>真言如例。<lb
+ n="0031b12" ed="T"/>次護身。真言曰。<lb
+ n="0031b13" ed="T"/></ab>
+<ab type='dharani'>唵嚩日羅𡁬儞嚩羅捻跛跢也娑<lb
+ n="0031b14" ed="T"/>縛賀<lb
+ n="0031b15" ed="T"/></ab>
+<ab type='prose'>次大護身真言曰。<lb
+ n="0031b16" ed="T"/></ab>
+<ab type='dharani'>唵入嚩羅囊也𤙖泮吒<lb
+ n="0031b17" ed="T"/></ab>
+<ab type='prose'>次被甲真言曰。<lb
+ n="0031b18" ed="T"/></ab>
+<ab type='dharani'>唵度比度比迦也度比鉢羅入嚩里寧娑婆賀<lb
+ n="0031b19" ed="T"/></ab>
+<ab type='prose'>次結髮。真言曰。<lb
+ n="0031b20" ed="T"/></ab>
+<ab type='dharani'>唵蘇悉地羯哩莎嚩賀<lb
+ n="0031b21" ed="T"/></ab>
+<ab type='prose'>次結地界。真言曰。<lb
+ n="0031b22" ed="T"/></ab>
+<ab type='dharani'>唵枳里枳里嚩日羅縛曰里部律<lb
+ n="0031b23" ed="T"/>滿馱滿馱吽發吒<lb
+ n="0031b24" ed="T"/></ab>
+<ab type='prose'>次結方隅金剛幡。真言曰。<lb
+ n="0031b25" ed="T"/></ab>
+<ab type='dharani'>唵薩羅薩羅縛日羅伽羅吽泮吒<lb
+ n="0031b26" ed="T"/></ab>
+<ab type='prose'>次置寶座等。真言曰。<lb
+ n="0031b27" ed="T"/></ab>
+<ab type='dharani'>唵毘莾嚕挪地𤙖<lb
+ n="0031b28" ed="T"/></ab>
+<ab type='prose'>次阿者羅吽。<lb
+ n="0031b29" ed="T"/></ab>
+<ab type='dharani'>唵阿者羅微𭋸娑婆賀<pb n="0031c" id="T19.0924C.0031c" ed="T"/><lb
+ n="0031c01" ed="T"/>唵迦莾羅娑婆賀<lb
+ n="0031c02" ed="T"/>唵囊莾薩嚩怛他蘖哆南薩羅嚩他欠烏跢蘖<lb
+ n="0031c03" ed="T"/>帝娑破羅呬莾闍伽伽囊釰娑嚩賀<lb
+ n="0031c04" ed="T"/></ab>
+<ab type='prose'>次以我功德力。如來加持力。及以法界力。普<lb
+ n="0031c05" ed="T"/>供養而住。<lb
+ n="0031c06" ed="T"/>次大虛空藏普通供養真言并印。<lb
+ n="0031c07" ed="T"/></ab>
+<ab type='dharani'>唵誐誐曩三婆嚩嚩日羅斛<lb
+ n="0031c08" ed="T"/></ab>
+<ab type='prose'>次遏伽以辨事真言持誦。後以部母呪呪之。<lb
+ n="0031c09" ed="T"/>置於左邊。<lb
+ n="0031c10" ed="T"/>次部母。真言曰。<lb
+ n="0031c11" ed="T"/></ab>
+<ab type='dharani'>娜牟婆伽婆都烏瑟尼沙耶唵盧盧娑普嚧若<lb
+ n="0031c12" ed="T"/>嚩羅帝瑟佗悉陀嚕者儞薩嚩羅他娑但儞莎<lb
+ n="0031c13" ed="T"/>訶<lb
+ n="0031c14" ed="T"/></ab>
+<ab type='prose'>次於寶座上。觀本尊種子字。并結根本印。<lb
+ n="0031c16" ed="T"/>次轉字成本尊。真言曰。<lb
+ n="0031c17" ed="T"/></ab>
+<ab type='dharani'>曩莫三滿多沒馱南<lb
+ n="0031c18" ed="T"/></ab>
+<ab type='prose'>次欲請本尊。先執香爐。誦真言。淨治空中道<lb
+ n="0031c19" ed="T"/>路。真言曰。<lb
+ n="0031c20" ed="T"/></ab>
+<ab type='dharani'>唵蘇悉地迦里入嚩里多南多暮羅曳<lb
+ n="0031c21" ed="T"/>入嚩羅滿馱滿馱賀囊賀囊𤙖泮吒<lb
+ n="0031c22" ed="T"/></ab>
+<ab type='prose'>次發願啟白眾。<lb
+ n="0031c23" ed="T"/>次奉請本尊。更先想座已也。成就車輅。送本<lb
+ n="0031c24" ed="T"/>尊所。<lb
+ n="0031c25" ed="T"/>寶車輅。真言曰。<lb
+ n="0031c26" ed="T"/></ab>
+<ab type='dharani'>唵都嚕都嚕吽<lb
+ n="0031c27" ed="T"/></ab>
+<ab type='prose'>次請車輅。真言曰。<lb
+ n="0031c28" ed="T"/></ab>
+<ab type='dharani'>娜麼悉底哩野地尾迦南怛他󰵲<lb
+ n="0031c29" ed="T"/>多南唵嚩曰郎銀儞野羯唎沙<pb n="0032a" id="T19.0924C.0032a" ed="T"/><lb
+ n="0032a01" ed="T"/>也莎訶<lb
+ n="0032a02" ed="T"/></ab>
+<ab type='prose'>次召請奉本尊。真真言曰。<lb
+ n="0032a03" ed="T"/></ab>
+<ab type='dharani'>唵枳里枳里嚩日羅吽泮吒<lb
+ n="0032a04" ed="T"/></ab>
+<ab type='prose'>次視三昧耶。真言曰。<lb
+ n="0032a05" ed="T"/></ab>
+<ab type='dharani'>唵昇羯󰺜三莾烟莎訶<lb
+ n="0032a06" ed="T"/></ab>
+<ab type='prose'>次奉閼伽。真言曰。<lb
+ n="0032a07" ed="T"/></ab>
+<ab type='dharani'>唵藥乞私囊那也見捺羅達弩鉢捨莎訶<lb
+ n="0032a08" ed="T"/></ab>
+<ab type='prose'>次奉蓮華座。<lb
+ n="0032a09" ed="T"/></ab>
+<ab type='dharani'>唵味羅味羅也莎訶<lb
+ n="0032a10" ed="T"/>唵鉢那莾味羅也莎訶<lb
+ n="0032a11" ed="T"/>唵縛日羅味羅也莎訶<lb
+ n="0032a12" ed="T"/></ab>
+<ab type='prose'>次陳善來世尊真言。持誦奉獻。<lb
+ n="0032a13" ed="T"/>次結上方金剛網。真言曰。<lb
+ n="0032a14" ed="T"/></ab>
+<ab type='dharani'>唵尾娑普羅捺落乞刃縛日羅<lb
+ n="0032a15" ed="T"/>半惹羅吽泮吒</ab>
+<ab type='prose'>次上下方。<lb
+ n="0032a16" ed="T"/>次火院真言曰。<lb
+ n="0032a17" ed="T"/></ab>
+<ab type='dharani'>唵阿三莾擬儞吽泮吒<lb
+ n="0032a18" ed="T"/></ab>
+<ab type='prose'>次重結大界。真言曰。<lb
+ n="0032a19" ed="T"/></ab>
+<ab type='dharani'>唵昇羯󰺜莾訶三摩焰莎訶<lb
+ n="0032a20" ed="T"/></ab>
+<ab type='prose'>次奉塗香。真言曰。<lb
+ n="0032a21" ed="T"/></ab>
+<ab type='dharani'>伊𠰢言馱輸婆儞微夜輸者也輸者輸者<lb
+ n="0032a22" ed="T"/>輸者也莾夜儞吠儞始薄訖底也鉢羅<lb
+ n="0032a23" ed="T"/>底仡㗚呬也鉢羅四椰𠰢唵阿賀羅阿賀<lb
+ n="0032a24" ed="T"/>羅薩羅縛尾儞夜達羅布爾帝莎訶<lb
+ n="0032a25" ed="T"/></ab>
+<ab type='prose'>奉華真言<lb
+ n="0032a26" ed="T"/></ab>
+<ab type='dharani'>伊𠰢蘇莾囊素儞尾夜輪者輸輸者輸囊也莽<lb
+ n="0032a27" ed="T"/>夜寧唵伏儞多薄訖底夜鉢羅底仡㗚呬<lb
+ n="0032a28" ed="T"/>也鉢羅四挪𠰢唵阿賀羅阿賀羅薩羅縛尾儞<lb
+ n="0032a29" ed="T"/>夜達羅布爾帝莎訶<pb n="0032b" id="T19.0924C.0032b" ed="T"/><lb
+ n="0032b01" ed="T"/></ab>
+<ab type='prose'>奉燒香。真言曰。<lb
+ n="0032b02" ed="T"/></ab>
+<ab type='dharani'>阿閻縛囊沙鉢底羅素賀㗚儞也健陀值也蘇<lb
+ n="0032b03" ed="T"/>羅部若曩莽夜寧吠儞始薄訖底夜度報閻鉢<lb
+ n="0032b04" ed="T"/>羅底仡㗚呬也難唵阿賀羅阿賀羅薩羅縛<lb
+ n="0032b05" ed="T"/>尾儞夜達羅布爾莎訶<lb
+ n="0032b06" ed="T"/></ab>
+<ab type='prose'>奉食。真言曰。<lb
+ n="0032b07" ed="T"/></ab>
+<ab type='dharani'>奧灑涕難羅素賀㗚他也𪾼灑涌多羅<lb
+ n="0032b08" ed="T"/>設怒麼里莽也寧唵吠儞始薄訖底夜<lb
+ n="0032b09" ed="T"/>鉢羅底仡呬也鉢羅四椰吽唵阿羅賀<lb
+ n="0032b10" ed="T"/>阿羅賀薩羅縛尾儞夜達羅布爾帝莎訶<lb
+ n="0032b11" ed="T"/></ab>
+<ab type='prose'>奉燈。真言曰。<lb
+ n="0032b12" ed="T"/></ab>
+<ab type='dharani'>羅訖蒭近曩灑者跛尾怛羅室<lb
+ n="0032b13" ed="T"/>者瞻謨尾曇莽曩輸婆莽夜寧吠儞始<lb
+ n="0032b14" ed="T"/>薄訖底夜儞報閻鉢羅底訖㗚呬也難<lb
+ n="0032b15" ed="T"/>唵阿路迦也薩羅尾儞夜達羅布爾帝莎<lb
+ n="0032b16" ed="T"/>婆賀<lb
+ n="0032b17" ed="T"/></ab>
+<ab type='prose'>次運心供養。以心運想。水陸諸華。無曰主<lb
+ n="0032b18" ed="T"/>所。遍滿虛空。盡十方界。及以人天。妙塗香<lb
+ n="0032b19" ed="T"/>雲。燒香燈明。幢幡寶蓋。種種鼓樂。歌舞妓<lb
+ n="0032b20" ed="T"/>唱。真珠羅網。懸諸寶領。髣白拂微妙聲。鋒<lb
+ n="0032b21" ed="T"/>矜羯尼網。如意寶樹。衣服之雲天。諸廚膳上。<lb
+ n="0032b22" ed="T"/>妙香美味。宮殿樓閣寶柱。莊嚴身。頭冠瓔珞。<lb
+ n="0032b23" ed="T"/>如是等雲。行者運心。遍滿虛空。以至誠心。如<lb
+ n="0032b24" ed="T"/>是供養。最為勝上。是故行者以決定心。而行<lb
+ n="0032b25" ed="T"/>此法。運心供養。誦持真言。及作手印。如上<lb
+ n="0032b26" ed="T"/>所想。皆悉成就。真言曰。<lb
+ n="0032b27" ed="T"/></ab>
+<ab type='dharani'>唵薩羅嚩他龕搵娜󰵲帝娑頗羅呬門伽伽曩<lb
+ n="0032b28" ed="T"/>釰莎訶<lb
+ n="0032b29" ed="T"/></ab>
+<ab type='prose'>次讚歎佛曰。<pb n="0032c" id="T19.0924C.0032c" ed="T"/><lb
+ n="0032c01" ed="T"/></ab>
+<ab type='dharani'>摩賀迦抳嚕建曩貪捨娑跢藍<lb
+ n="0032c02" ed="T"/>薩嚩吠儞南奔女娜地<lb
+ n="0032c03" ed="T"/>蠅𩄽拏馱藍鉢羅拏摩弭怛他<lb
+ n="0032c04" ed="T"/>誐眈<lb
+ n="0032c05" ed="T"/>唵羅儗野惹曩南󰡊淡戍婆<lb
+ n="0032c06" ed="T"/>訥󰵲底謨左釰播羅沫體迦謎<lb
+ n="0032c07" ed="T"/>建躭曩謎達𤚥舍麼嚩憾<lb
+ n="0032c08" ed="T"/>穆訖躭穆訖底播他鉢羅跛<lb
+ n="0032c09" ed="T"/>躭誐乞灑野索弭野嚩沙體<lb
+ n="0032c10" ed="T"/>躭乞灑怛覽尾始瑟鵂𩄽拏刎<lb
+ n="0032c11" ed="T"/>曩謎僧健左婆嚩跢<lb
+ n="0032c12" ed="T"/>薩嚩母馱婆羅捨跢野三勃哩<lb
+ n="0032c13" ed="T"/>跢野𩄽󰺜𩄽覽阿嚩路枳多僧枳孃野曩謨𩕳髻摩賀答摩儞<lb
+ n="0032c15" ed="T"/>摩賀摩攞野贊拏野尾儞野羅惹<lb
+ n="0032c16" ed="T"/>野娑馱吠訥難多娜摩迦夜<lb
+ n="0032c17" ed="T"/>曩謨悉帝嚩日羅播拏曳<lb
+ n="0032c18" ed="T"/>阿演覩泥嚩左誐素羅緊那羅那囉鑠<lb
+ n="0032c19" ed="T"/>迦羅那野鉢羅嚩羅達麼蘖里<lb
+ n="0032c20" ed="T"/>多地伽羅尾達麼左鉢羅捨麼操爾<lb
+ n="0032c21" ed="T"/>也儞銘多部多銘多鉢羅迦捨夜<lb
+ n="0032c22" ed="T"/>怛儞賀室羅摩拏也馱𤚥<lb
+ n="0032c23" ed="T"/></ab>
+<ab type='prose'>次發願。次散念誦。先禮三寶。次禮本尊。然後<lb
+ n="0032c24" ed="T"/>普禮諸佛。次持誦人先麻座。捺婆等座謂跏<lb
+ n="0032c25" ed="T"/>趺半跏賢麻座。令身端直。次把數珠。右三<lb
+ n="0032c26" ed="T"/>迴轉。次安珠二掌中頂戴次結根本印。<lb
+ n="0032c27" ed="T"/>誦根本真言。次念誦了。即頂戴珠。發願<lb
+ n="0032c28" ed="T"/>安置本處。次結根本印。誦根本真言。次<lb
+ n="0032c29" ed="T"/>更奉塗香華燒香飯燈。次運心供養。次讚。次<pb n="0033a" id="T19.0924C.0033a" ed="T"/><lb
+ n="0033a01" ed="T"/>奉閼伽。次發願。次解界。次示三昧。及禮拜諸<lb
+ n="0033a02" ed="T"/>尊。次誦現在諸如來之偈。次奉送真言。次迴<lb
+ n="0033a03" ed="T"/>九方便。次迴向。次三部三昧耶。次護身。次護<lb
+ n="0033a04" ed="T"/>本尊等。次遍禮諸尊。然後去。當堂道場。任<lb
+ n="0033a05" ed="T"/>意經行。<lb
+ n="0033a06" ed="T"/>小指檀慧無名指戒方中指忍願<lb
+ n="0033a07" ed="T"/>頭指進力大指禪智。<lb
+ n="0033a08" ed="T"/>善來尊者。善來尊者。由本願力。而來降赴。顧<lb
+ n="0033a09" ed="T"/>乘加持。授此請。并受我所辦諸供養。起大<lb
+ n="0033a10" ed="T"/>慈悲。唯垂納受。<lb
+ n="0033a11" ed="T"/></ab>
+<ab type='verse'>
+現在諸如來　　救世諸菩薩　　<lb
+ n="0033a12" ed="T"/>不斷大乘教　　到殊勝位者　　<lb
+ n="0033a13" ed="T"/>唯願聖天眾　　決定證知我　　<lb
+ n="0033a14" ed="T"/>各當隨處安　　後時垂哀赴　　
+</ab><lb
+ n="0033a15" ed="T"/><ab type='prose'>終頌。<lb
+ n="0033a16" ed="T"/></ab>
+<ab type='verse'>
+我今念誦祕密呪　　普通三界得清淨　　<lb
+ n="0033a17" ed="T"/>願我生中除業障　　福德圓滿利有情　　<lb
+ n="0033a18" ed="T"/>生生世世恒受持　　四恩眾生共成佛　　
+</ab><lb
+ n="0033a19" ed="T"/>
+<ab type='juan' subtype='close'>藥師儀軌一具</ab></div>
+</body></text></TEI>

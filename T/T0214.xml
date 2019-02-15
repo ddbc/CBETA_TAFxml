@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">猘狗經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T04</biblScope>
+                    <idno type="Taisho">T04n0214</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0799c06" ed="T"/><lb
+ ed="T" n="0799c07"/><lb
+ n="0799c08" ed="T"/><lb
+ n="0799c09" ed="T"/>
+<ab type='juan' subtype='open'>佛說猘狗經</ab><lb
+ n="0799c10" ed="T"/><lb
+ ed="T" n="0799c11"/><byline>吳月支國居士支謙譯</byline><lb
+ ed="T" n="0799c12"/><div type='jing' level='1'><ab type='prose'>佛在羅閱祇耆闍崛山中，月十五日說戒。時<lb
+ ed="T" n="0799c13"/>阿難長跪白佛言：「今佛為一切救，開化五道<lb
+ n="0799c14" ed="T"/>童曚盲冥者，使脫惡道。佛般泥洹後，留舍利、<lb
+ ed="T" n="0799c15"/>十二部經於世間，當令諸弟子持佛威神，傳<lb
+ ed="T" n="0799c16"/>佛經戒，開度人民，授其戒法，使人供養，是<lb
+ ed="T" n="0799c17"/>為如佛無異。」佛言：「若有人從我弟子受戒，<lb
+ n="0799c18" ed="T"/>而有還嫉妬其師者，是人當從惡道中來。」阿<lb
+ n="0799c19" ed="T"/>難問佛：「何謂惡道？」佛語阿難：「過去佛時，有<lb
+ ed="T" n="0799c20"/>猘狗還嚙其主；前佛慈哀，呪願猘狗，猘狗<lb
+ ed="T" n="0799c21"/>見佛威神即歡喜，是狗今在泥犁中罪未畢。<lb
+ ed="T" n="0799c22"/>佛般泥洹後罪畢，用前歡喜故，更生入人道<lb
+ ed="T" n="0799c23"/>中，從我弟子受戒，正當從作猘狗時主受<lb
+ ed="T" n="0799c24"/>戒，狗有宿識故，還嚙大家。」佛言：「若有人，從<lb
+ ed="T" n="0799c25"/>師受戒，還誹謗說師惡者，言非我行者，如是<lb
+ ed="T" n="0799c26"/>為如猘狗還嚙其主；誹謗道師惡者，宿命本<lb
+ n="0799c27" ed="T"/>是狗也。」阿難問佛：「狗罪畢，入人道，何以故復<lb
+ n="0799c28" ed="T"/>還嚙故大家耶？」佛語阿難：「是狗得入人道，持<lb
+ n="0799c29" ed="T"/>佛戒法，有所教授，貪利供養，愚癡不解，便<pb n="0800a" id="T04.0214.0800a" ed="T"/><lb
+ ed="T" n="0800a01"/>行謗說師，故墮五逆惡處。」佛語阿難：「諦聽！<lb
+ n="0800a02" ed="T"/>佛當具為汝說之。」阿難言：「諾！受教。」佛言：「有<lb
+ ed="T" n="0800a03"/>人持佛法戒行，教人事佛，令入泥犁中者。」阿<lb
+ ed="T" n="0800a04"/>難驚起，長跪問佛：「云何教人當令得佛道，何<lb
+ ed="T" n="0800a05"/>故更入泥犁中？」佛語阿難：「汝信佛語不？」阿<lb
+ n="0800a06" ed="T"/>難言：「信佛語。」佛言：「汝信佛語，何故聞人受<lb
+ n="0800a07" ed="T"/>戒當入泥犁中驚為？若人不入泥犁，佛語為<lb
+ ed="T" n="0800a08"/>妄？」阿難更起作禮，頭面著地，繞佛三匝，還接<lb
+ ed="T" n="0800a09"/>佛足，長跪問佛：「阿難不解，未知人根。願佛<lb
+ n="0800a10" ed="T"/>解之，教人入泥犁意。」佛語阿難：「後末世時，<lb
+ n="0800a11" ed="T"/>有弟子作師，惰懶不能勤學，無有智慧；貪<lb
+ ed="T" n="0800a12"/>穢，欲得人供養錢財、穀帛，持用自活；不精<lb
+ ed="T" n="0800a13"/>佛法，阿諛隨人，見人貪殺，不與殺戒；見人<lb
+ n="0800a14" ed="T"/>嗜酒，不斷酒，多少可飲；人行授人戒法，言<lb
+ n="0800a15" ed="T"/>多少當得錢物作福；但欲得人物，是為賣戒<lb
+ n="0800a16" ed="T"/>令人；方更有慢不精戒者，便犯眾麤殺生。如<lb
+ n="0800a17" ed="T"/>是教者，持人著泥犁中。用負佛明教故，令護<lb
+ ed="T" n="0800a18"/>佛道神得其短，便為惡鬼所病，罪重或能至<lb
+ ed="T" n="0800a19"/>死，償罪即入泥犁中。」阿難問佛：「新發意者，<lb
+ n="0800a20" ed="T"/>偶值惡師，不曉了，謂法當爾；至使信受其<lb
+ ed="T" n="0800a21"/>言，愚癡不解故。」阿難問佛：「更見明師，為可<lb
+ ed="T" n="0800a22"/>復重受戒不？」佛語阿難：「於我法中曠大，極<lb
+ n="0800a23" ed="T"/>可得悔更自湔洗。初發意時，心常曚冥，為<lb
+ ed="T" n="0800a24"/>惡師所誤，實自不知；更行受戒，始為入法。<lb
+ n="0800a25" ed="T"/>不知不曉時，非佛弟子，是為世間小善人<lb
+ ed="T" n="0800a26"/>耳，無大功德。」阿難聞佛所說，歡喜作禮。<lb
+ n="0800a27" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說猘狗經</ab></div>
+</body></text></TEI>

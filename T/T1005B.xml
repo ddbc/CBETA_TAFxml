@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">寶樓閣經梵字真言</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n1005B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0634b07" ed="T"/><lb
+ n="0634b08" ed="T"/><lb
+ n="0634b09" ed="T"/><lb
+ n="0634b10" ed="T"/>
+<ab type='juan' subtype='open'>寶樓閣經梵字真言</ab><lb
+ n="0634b11" ed="T"/><lb
+ n="0634b12" ed="T"/><ab type='prose'>驚覺。<lb
+ n="0634b13" ed="T"/></ab>
+<ab type='dharani'>􇖵􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕝􄢢􄗫􄕙􆵕􄕙<lb
+ n="0634b14" ed="T"/>􄕯􈇌􄕱􄙨􈁴􄗥􄕍􄙖􄦽􄷩􄕯􄗱􄙖􄧃<lb
+ n="0634b15" ed="T"/>􄗦􄗽􄚣􄡈􄙘􄩷􄖵􄙒􄚨􄖩􄙖􄦽􄑘􅝑<lb
+ n="0634b16" ed="T"/>􄩟􄙺􄗱􄩟􄙺􄗱􄙺􅞣􄗦􄗽􄗙􄙖􄖪􄖫<lb
+ n="0634b17" ed="T"/>􈋶􈋶􄚦􄕻􄗽􄙺􄕻􄗽􈎭􇧺􄗬􄩡􄙺􅞣<lb
+ n="0634b18" ed="T"/>􄕗􄕤􄑘􄕗<lb
+ n="0634b19" ed="T"/></ab>
+<ab type='prose'>驚覺。<lb
+ n="0634b20" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄗥􄕍􄙢􄩠􄕱􆻬􄺸<lb
+ n="0634b21" ed="T"/>􄙐􄺸􄙐􄕻􈆺􄕼􄕛􄑘􅝗􄗥􄕍􄗥􄕍􄗥<lb
+ n="0634b22" ed="T"/>􄚩􄗥􄕍􄕗􄕤􄑘􄕗􄷩􈇪􄕍􅁥􄚩􇖴<lb
+ n="0634b23" ed="T"/></ab>
+<ab type='prose'>根本。<lb
+ n="0634b24" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕗􈁀􈁴􄙘􄖹􄙊􄑘<lb
+ n="0634b25" ed="T"/>􅝗􄗥􄕍􄪼􄗟􄕗􄕤􄕘􄖫􄕯􈋧􄖯􄗥􄕍<lb
+ n="0634b26" ed="T"/>􄗥􄕍􈂼􄪼􄗟􄙘􄗥􄙐􄙻􄑘􄗽􄑘􆫏􄙄<lb
+ n="0634b27" ed="T"/>􈅼􈅼􄺸􄙊􄺸􄙊􈎭􇧺􄙘􄙒􄑂􄕝􄙦􄡡<lb
+ n="0634b28" ed="T"/>􄕽􆵍􄕗􄑘􅝗􅁥􄚩􇖴<lb
+ n="0634b29" ed="T"/></ab>
+<ab type='prose'>心及隨心。<pb n="0634c" id="T19.1005B.0634c" ed="T"/><lb
+ n="0634c01" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􄙖􄧅􈅼􇖴<lb
+ n="0634c02" ed="T"/></ab>
+<ab type='prose'>隨心。<lb
+ n="0634c03" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􄾫􄙄􈅼􄗁􈁆<lb
+ n="0634c04" ed="T"/></ab>
+<ab type='prose'>坐。<lb
+ n="0634c05" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􄑄􆧽􄙌􆿁􆿁􅁥􄚩􇖴<lb
+ n="0634c06" ed="T"/></ab>
+<ab type='prose'>結壇界。<lb
+ n="0634c07" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􄙖􄒶􄗷􄕻􄗽􄕻􄗽􆿁􅁥􄚩􇖴<lb
+ n="0634c08" ed="T"/></ab>
+<ab type='prose'>結十方界。<lb
+ n="0634c09" ed="T"/></ab>
+<ab type='dharani'>􈁴􄺸􄙌􄕗􄗥􄕍􄙂􄑾􄗾􄣊􈍇􆿁􆿁􄗁<lb
+ n="0634c10" ed="T"/>􈁆􇖴<lb
+ n="0634c11" ed="T"/></ab>
+<ab type='prose'>碎毘那夜迦。<lb
+ n="0634c12" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􄪼􄗚􄙖􄕙􄚨􄗽􄚨􄗽􆿁􆿁􄗁<lb
+ n="0634c13" ed="T"/>􈁆􅁥􄚩􇖴<lb
+ n="0634c14" ed="T"/></ab>
+<ab type='prose'>頂髻。<lb
+ n="0634c15" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙖􄦽􄗥􄕍􄕙􆵋􄕙􆵋􆿁􆿁􄗁􈁆􇖴<lb
+ n="0634c16" ed="T"/></ab>
+<ab type='prose'>加持衣。<lb
+ n="0634c17" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􄙘􄖹􄙐􄕽􄙀􄕽􄙀􆿁􄗁􈁆􇖴<lb
+ n="0634c18" ed="T"/></ab>
+<ab type='prose'>洗嗽。<lb
+ n="0634c19" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙘􄝁􄙖􄕙􄚨􄗽􄚨􄗽􄗥􄚩􄗥􄕍􆿁<lb
+ n="0634c20" ed="T"/>􆿁􄗁􈁆􇖴<lb
+ n="0634c21" ed="T"/></ab>
+<ab type='prose'>洗浴。<lb
+ n="0634c22" ed="T"/></ab>
+<ab type='dharani'>􈁴􈂼􄖫􅝝􄙊􄙖􄕙􄚨􄗽􄚨􄗽􄖶􄖿􄗧<lb
+ n="0634c23" ed="T"/>􄙌􄗧􆿁􅁥􄚩􇖴<lb
+ n="0634c24" ed="T"/></ab>
+<ab type='prose'>法護。<lb
+ n="0634c25" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􄾬􄙀􆿁􆿁􄗁􈁆􇖴<lb
+ n="0634c26" ed="T"/></ab>
+<ab type='prose'>神線。<lb
+ n="0634c27" ed="T"/></ab>
+<ab type='dharani'>􈁴􄕽􄙀􄕽􄙀􄗥􄕋􄑀􄙀􆿁􆿁􄗁􈁆􇖴<lb
+ n="0634c28" ed="T"/></ab>
+<ab type='prose'>獻花。<lb
+ n="0634c29" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􈁂􄒶􄗥􄕍􆿁􆿁􇖴<pb n="0635a" id="T19.1005B.0635a" ed="T"/><lb
+ n="0635a01" ed="T"/></ab>
+<ab type='prose'>塗香。<lb
+ n="0635a02" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄑘􄾫􄗥􄕍􆷱􄗽􄕋<lb
+ n="0635a03" ed="T"/>􆿁􇖴<lb
+ n="0635a04" ed="T"/></ab>
+<ab type='prose'>燒香。<lb
+ n="0635a05" ed="T"/></ab>
+<ab type='dharani'>􈁴􄺸􄙌􄕗􄗥􄕍􆿅􄫦􄑄􄓚􆷱􄗽􄕋􄙘<lb
+ n="0635a06" ed="T"/>􄑘􄕙􆿁􇖴<lb
+ n="0635a07" ed="T"/></ab>
+<ab type='prose'>燈。<lb
+ n="0635a08" ed="T"/></ab>
+<ab type='dharani'>􈁴􄺸􄙌􄕗􄙤􄑘􄙄􄕻􄙖􄙊􆿁􆿁􄗁􈁆<lb
+ n="0635a09" ed="T"/>􇖴<lb
+ n="0635a10" ed="T"/></ab>
+<ab type='prose'>食。<lb
+ n="0635a11" ed="T"/></ab>
+<ab type='dharani'>􈁴􄪼􄙖􄗾􄥟􄙖􄕙􄙺􄗽􄙺􄗽􆿁􆿁􇖴<lb
+ n="0635a12" ed="T"/></ab>
+<ab type='prose'>閼伽。<lb
+ n="0635a13" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄚩􄗥􄕍􈁂􄗽􄗱􄕻􄗽􄕻􄗽􆿁􆿁<lb
+ n="0635a14" ed="T"/>􇖴<lb
+ n="0635a15" ed="T"/></ab>
+<ab type='prose'>供物及食等。<lb
+ n="0635a16" ed="T"/></ab>
+<ab type='dharani'>􈁴􄺸􄙊􆷵􄗽􄑘􄑘􄖩􄪼􄕘􄗽􄕍􆿁􆿁<lb
+ n="0635a17" ed="T"/>􇖴<lb
+ n="0635a18" ed="T"/></ab>
+<ab type='prose'>加持念珠。<lb
+ n="0635a19" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙂􄑾􄗽􄗥􄕍􄪼􄙖􇪱􄗱􆿁<lb
+ n="0635a20" ed="T"/></ab>
+<ab type='prose'>念誦先誦此真言。<lb
+ n="0635a21" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙖􄦽􄗥􄕍􄑀􄗽􈆡􄑀􄙀􆿁􆿁􄗁􈁆<lb
+ n="0635a22" ed="T"/>􇖴<lb
+ n="0635a23" ed="T"/></ab>
+<ab type='prose'>結趺坐。<lb
+ n="0635a24" ed="T"/></ab>
+<ab type='dharani'>􈁴􈂼􄪼􄙖􈃪􄕗􄙜􄑞􄗥􄕍􄗥􄕍􅁥􄚩<lb
+ n="0635a25" ed="T"/>􇖴<lb
+ n="0635a26" ed="T"/></ab>
+<ab type='prose'>驚覺一切如來。<lb
+ n="0635a27" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙗􄗵􄒶􄙖􄕗􄗽􄕗<lb
+ n="0635a28" ed="T"/>􄗽􆿁􄗥􄕍􄑁􄖩􄖯􅁥􄚩􇖴<lb
+ n="0635a29" ed="T"/></ab>
+<ab type='prose'>請一切如來。<pb n="0635b" id="T19.1005B.0635b" ed="T"/><lb
+ n="0635b01" ed="T"/></ab>
+<ab type='dharani'>􈁴􈂼􄙘􄪼􄙊􄪼􄙖􄙄􈃁􄙂􈃁􄙂􆿁􆿁<lb
+ n="0635b02" ed="T"/>􇖴<lb
+ n="0635b03" ed="T"/></ab>
+<ab type='prose'>求願。<lb
+ n="0635b04" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄕽􆵋􄖩􄙘􆽕􄙺􄗽<lb
+ n="0635b05" ed="T"/>􄚴􄕋􄙖􄧃􆿁􆿁􇖴<lb
+ n="0635b06" ed="T"/></ab>
+<ab type='prose'>求菩薩願。<lb
+ n="0635b07" ed="T"/></ab>
+<ab type='dharani'>􈁴􈂼􄙘􄖹􄙊􄙖􄕯􄖯􄚨􄗽􄚨􄗽􆿁􆿁<lb
+ n="0635b08" ed="T"/>􇖴<lb
+ n="0635b09" ed="T"/></ab>
+<ab type='prose'>請一切天龍。<lb
+ n="0635b10" ed="T"/></ab>
+<ab type='dharani'>􈁴􆿅􄗛􄙺􄗥􄗱􄙖􄧃􄕻􄗽􄕻􄗽􆿁􇖴<lb
+ n="0635b11" ed="T"/></ab>
+<ab type='prose'>請四天王等。<lb
+ n="0635b12" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􄙜􄑘􄙖􄕙􆿁􇖴<lb
+ n="0635b13" ed="T"/></ab>
+<ab type='prose'>加持弟子。<lb
+ n="0635b14" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙦􄗙􄗥􄕍􈂪􄙊􈂪􄙊􆿁􇖴<lb
+ n="0635b15" ed="T"/></ab>
+<ab type='prose'>令弟子入壇。<lb
+ n="0635b16" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄷩􄕯􄗱􄙖􄦿􄕍􄕻<lb
+ n="0635b17" ed="T"/>􄗾􄕻􄗾􆿁􆿁􇖴<lb
+ n="0635b18" ed="T"/></ab>
+<ab type='prose'>獻一切佛一切菩薩諸天等食。<lb
+ n="0635b19" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙙􄗽􄒼􄑘􄑘􄖩􄙗􄚪􄕙􄙊􈂪􄙊􈂪<lb
+ n="0635b20" ed="T"/>􆿁􆿁􇖴<lb
+ n="0635b21" ed="T"/></ab>
+<ab type='prose'>訶送諸聖眾。<lb
+ n="0635b22" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙖􄦽􄑄􄙒􄕱􄕝􅋌<lb
+ n="0635b23" ed="T"/>􄗽􄕍􄙘􄑘􄕝􄺸􄙊􄺸􄙊􆿁􆿁􅁥􄚩􇖴<lb
+ n="0635b24" ed="T"/></ab>
+<ab type='prose'>獻物護身。<lb
+ n="0635b25" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄕍􈂱􄗙􄖫􄙜􄑘􄙖􄕙􄗽􄚴􄗽􄚴<lb
+ n="0635b26" ed="T"/>􄗯􆿁􇖴<lb
+ n="0635b27" ed="T"/></ab>
+<ab type='prose'>為弟子灌頂。<lb
+ n="0635b28" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄚩􄙘􄖹􄙊􄪼􄕙􆵍􄕗􄙼􇧼􆿅􄗛<lb
+ n="0635b29" ed="T"/>􄙰􄑼􄗯􄙺􅞣􄕗􄕤􄑘􄕘􄗛􄙴􈇽􄗙􄗽<pb n="0635c" id="T19.1005B.0635c" ed="T"/><lb
+ n="0635c01" ed="T"/>􄗙􄗽􄚦􄗙􆿁􄚦􄗙􄗽􆿁􆿁􇖴<lb
+ n="0635c02" ed="T"/></ab>
+<ab type='prose'>法供養護摩。<lb
+ n="0635c03" ed="T"/></ab>
+<ab type='dharani'>􈁴􅁥􄚩􄖵􄕙􄗞􅝕􄙡􆿁􆿁􄗁􈁆􇖴<lb
+ n="0635c04" ed="T"/></ab>
+<ab type='prose'>我今悉皆禮。<lb
+ n="0635c05" ed="T"/></ab>
+<ab type='dharani'>􈁴􄗥􄖫􄗥􄕍􄪼􄙖􄗽􄪼􄙖􄗽􄑜􈃃􄖵<lb
+ n="0635c06" ed="T"/>􅇟􄗥􄚩􄪼􄗟􅁥􄚩<lb
+ n="0635c07" ed="T"/></ab>
+<ab type='prose'>普遍光明如來心。<lb
+ n="0635c08" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄷩􄕯􄗱􄗥􄕍􄺸􄙊<lb
+ n="0635c09" ed="T"/>􄕝􆿆􄙘􆵍􄗱􆿁􇖴<lb
+ n="0635c10" ed="T"/></ab>
+<ab type='prose'>一切如來心印。<lb
+ n="0635c11" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄪼􄙖􄗽􄙂􄥟􄗥􄕍<lb
+ n="0635c12" ed="T"/>􈊹􇖴<lb
+ n="0635c13" ed="T"/></ab>
+<ab type='prose'>一切如來普遍大寶三昧耶。<lb
+ n="0635c14" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕘􄗛􄚦􄙞􄕻􄖩􄙖􄧃<lb
+ n="0635c15" ed="T"/>􈊹􆿁􇖴<lb
+ n="0635c16" ed="T"/></ab>
+<ab type='prose'>一切如來莊嚴大寶光。<lb
+ n="0635c17" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄕽􆵌􄖩􄗥􄕍􄗥􄕍<lb
+ n="0635c18" ed="T"/>􈊹􆿁􄗁􈁆􇖴<lb
+ n="0635c19" ed="T"/></ab>
+<ab type='prose'>金剛師子座。<lb
+ n="0635c20" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄪼􄙖􄗽􄗥􄕍􄗽􄑾<lb
+ n="0635c21" ed="T"/>􄙄􆿁􈊹􄗁􈁆􇖴<lb
+ n="0635c22" ed="T"/></ab>
+<ab type='prose'>大寶出生灌頂。<lb
+ n="0635c23" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄙘􄗥􄙊􄚦􄗙􄙜􆿁<lb
+ n="0635c24" ed="T"/>􆿁􇖴<lb
+ n="0635c25" ed="T"/></ab>
+<ab type='prose'>摧魔熾然法輪神通加持。<lb
+ n="0635c26" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕘􄕤􄑘􄕗􄙺􄗥􄗱􄗥􄕍􄙖􄧃<lb
+ n="0635c27" ed="T"/>􆿁􆿁􇖴<lb
+ n="0635c28" ed="T"/></ab>
+<ab type='prose'>無能勝。<lb
+ n="0635c29" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕘􄕤􄑘􄕘􄒶􄗱􆿅􄒸􄕗􄙖􄧃<pb n="0636a" id="T19.1005B.0636a" ed="T"/><lb
+ n="0636a01" ed="T"/>􆿁􆿁􇖴<lb
+ n="0636a02" ed="T"/></ab>
+<ab type='prose'>一切如來轉法輪。<lb
+ n="0636a03" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄕻􈆺􄕼􄕛􄗥􄚩􄗥<lb
+ n="0636a04" ed="T"/>􄕍􄙤􄑌􄙄􄚨􄗽􄚨􈊹􈊹􄗁􈁆􇖴<lb
+ n="0636a05" ed="T"/></ab>
+<ab type='prose'>金剛手。<lb
+ n="0636a06" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􅞣􄕗􄕤􄑘􄕗􄗥􄚩􄙖􄦾􄺸􄗽􄕻<lb
+ n="0636a07" ed="T"/>􄗽􄕻􄗽􆿁􆿁􄗁􈁆􇖴<lb
+ n="0636a08" ed="T"/></ab>
+<ab type='prose'>寶金剛菩薩。<lb
+ n="0636a09" ed="T"/></ab>
+<ab type='dharani'>􈁴􈃁􄙂􈃁􄙂􄗥􄕍􄗥􄕍􄗥􄚩􄗥􄕍􄙘<lb
+ n="0636a10" ed="T"/>􄝁􄟗􄕍􅁥􄚩􇖴<lb
+ n="0636a11" ed="T"/></ab>
+<ab type='prose'>四大天主。<lb
+ n="0636a12" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙒􄑆􄖶􄙌􄕝􄒶􄗱􄒶􄗱􆿁􇖴<lb
+ n="0636a13" ed="T"/></ab>
+<ab type='prose'>吉祥天女。<lb
+ n="0636a14" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙘􄗥􄗾􄥟􄙖􄕙􄙺􄗙􄗽􆿁<lb
+ n="0636a15" ed="T"/></ab>
+<ab type='prose'>鈎棄尼天女。<lb
+ n="0636a16" ed="T"/></ab>
+<ab type='dharani'>􈁴􄕹􈃰􄕍􄙘􄙺􄗽􆿁􇖴<lb
+ n="0636a17" ed="T"/></ab>
+<ab type='prose'>使者天女。<lb
+ n="0636a18" ed="T"/></ab>
+<ab type='dharani'>􈁴􆿆􄑘􄗥􄗱􄕾􄗽􄗯􄛽􆽭􄚩􄙼􄖫􆿁<lb
+ n="0636a19" ed="T"/>􇖴<lb
+ n="0636a20" ed="T"/></ab>
+<ab type='prose'>曼荼羅中一切聖眾。<lb
+ n="0636a21" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􄗥􆩗􄑁􄙊􄖵􄙀􄪼􄗽􄕍􄕻􄑀􄕻<lb
+ n="0636a22" ed="T"/>􄑀􆿁􆿁􇖴<lb
+ n="0636a23" ed="T"/></ab>
+<ab type='prose'>花齒天女。<lb
+ n="0636a24" ed="T"/></ab>
+<ab type='dharani'>􈁴􄙺􄗽􄙺􄗽􄙘􄙺􄗾􆿁􆿁<lb
+ n="0636a25" ed="T"/></ab><div type='w' level='2'><ab type='prose'>　承安元年六月十日於仁和寺以常林房<lb
+ n="0636a26" ed="T"/>御本書寫　　本云以根本御本書之云<lb
+ n="0636a27" ed="T"/>云<lb
+ n="0636a28" ed="T"/>　　　　　　　　　金剛　　顯耀</ab></div></div>
+</body></text></TEI>

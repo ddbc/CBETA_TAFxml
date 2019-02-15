@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說楞伽經禪門悉談章</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2779</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0536a" id="T85.2779.0536a" ed="T"/><lb
+ n="0536a01" ed="T"/><lb
+ n="0536a02" ed="T"/><lb
+ n="0536a03" ed="T"/>
+<ab type='juan' subtype='open'>佛說楞伽經禪門悉談章</ab><lb
+ n="0536a04" ed="T"/><lb
+ n="0536a05" ed="T"/><ab type='prose'>諸佛子等合掌至心聽。我今欲說大乘楞伽<lb
+ n="0536a06" ed="T"/>悉談章。悉談章者。悉談昔大乘在楞伽山。因<lb
+ n="0536a07" ed="T"/>得菩提達摩和尚。宋家元年從南天竹國。將<lb
+ n="0536a08" ed="T"/>楞伽經來至東都。跋陀三藏法師奉諮翻譯。<lb
+ n="0536a09" ed="T"/>其經總有五卷合成一部。文字浩𣵡意義難<lb
+ n="0536a10" ed="T"/>知。和上慈悲廣濟郡品。通經問道識攬懸<lb
+ n="0536a11" ed="T"/>宗。窮達本原皆蒙指受。又蒿山會善沙門定<lb
+ n="0536a12" ed="T"/>慧翻出悉談章。廣開禪門不妨慧學。不著文<lb
+ n="0536a13" ed="T"/>字並合秦音。彼與鳩摩羅什法師通韻。魯留<lb
+ n="0536a14" ed="T"/>盧樓為首。<lb
+ n="0536a15" ed="T"/>頗邏墮頗邏墮。第一捨緣清淨座。萬事不起<lb
+ n="0536a16" ed="T"/>真無我。直進菩提離因果。心心寂滅無殃禍。<lb
+ n="0536a17" ed="T"/>念念無念當印可。摩底利摩魯留盧樓頗羅<lb
+ n="0536a18" ed="T"/>墮　諸佛子莫嬾墮自勸課。愛河苦海須<lb
+ n="0536a19" ed="T"/>度過。憶食不喰常被餓。木頭不攢不出火。<lb
+ n="0536a20" ed="T"/>耶羅邏端坐。娑訶耶莫臥。<lb
+ n="0536a21" ed="T"/>只領盛只領盛。第二住心常看淨。亦見亦聞<lb
+ n="0536a22" ed="T"/>無視聽。生滅兩亡由未證。從師授語方顯定。<lb
+ n="0536a23" ed="T"/>見佛法身無二性。性頂領徑魯留盧樓只領<lb
+ n="0536a24" ed="T"/>盛　諸佛子莫瞋侫。三毒忽起無佛性。癡狂<lb
+ n="0536a25" ed="T"/>心亂惱賢聖。眼貪色塵耳縛聽。背却天堂向<lb
+ n="0536a26" ed="T"/>惡徑。盈令今修定。娑訶耶歸正。<lb
+ n="0536a27" ed="T"/>嗄浪養嗄浪養。第三看心須併儻。掃却垢<lb
+ n="0536a28" ed="T"/>穢除災障。即色即空會無想。妄想分別是心<lb
+ n="0536a29" ed="T"/>量。體上識體實無謗。謗底利謗魯留盧樓<pb n="0536b" id="T85.2779.0536b" ed="T"/><lb
+ n="0536b01" ed="T"/>嗄浪養　諸佛子莫毀謗。一切皆有罪業障。<lb
+ n="0536b02" ed="T"/>他家聞聲不相放。三寸舌根作沒向。道長說<lb
+ n="0536b03" ed="T"/>短惱心王。心王不了說短長。來生業道受苦<lb
+ n="0536b04" ed="T"/>殃。羊良良併當淨掃。堂中頃供養。<lb
+ n="0536b05" ed="T"/>拂粟質拂粟質。第四八識合六七。看心心<lb
+ n="0536b06" ed="T"/>本是禪室。法身身法智非一。五眼六通光慧<lb
+ n="0536b07" ed="T"/>日。言下便悟實無密。密底利密魯留盧樓拂<lb
+ n="0536b08" ed="T"/>粟質　諸佛子莫放逸。無始已來居暗室。生<lb
+ n="0536b09" ed="T"/>死流轉不得出。只為愚迷障慧日。逸粟密<lb
+ n="0536b10" ed="T"/>逸粟密娑訶直實。<lb
+ n="0536b11" ed="T"/>曉燎曜曉燎曜。第五實相門中照。一切名<lb
+ n="0536b12" ed="T"/>利妄呼召。如已等息貌非貌。非因非果無嗔<lb
+ n="0536b13" ed="T"/>㗛。性上看性妙中妙。要底裏要魯留盧樓曉<lb
+ n="0536b14" ed="T"/>撩曜　諸佛子莫瞋㗛。憂悲瞋㗛是障道。於<lb
+ n="0536b15" ed="T"/>此道門無瞋㗛。澄心須看內外照。眼中有翳<lb
+ n="0536b16" ed="T"/>須磨曜。銅鏡不磨不中照。遙燎料作好。娑訶<lb
+ n="0536b17" ed="T"/>耶莫惱。<lb
+ n="0536b18" ed="T"/>按賴畔按賴畔。第六心離禪門觀。不來不<lb
+ n="0536b19" ed="T"/>去無崖畔。覺上看覺除定亂。佛子與眾生同<lb
+ n="0536b20" ed="T"/>體段。本原清淨磨垢散歎。底利歎魯留盧<lb
+ n="0536b21" ed="T"/>樓按賴畔　諸佛子莫楞看。道上大有羅剎<lb
+ n="0536b22" ed="T"/>喚。愚人來去常繫絆。染著色塵心僚亂。行住<lb
+ n="0536b23" ed="T"/>坐臥無體段。在於眾中漫叫喚。得他勸諫即<lb
+ n="0536b24" ed="T"/>橛難。耶羅邏荼灌。娑訶耶鈍漢。<lb
+ n="0536b25" ed="T"/>普路喻普路喻。第七圓明大慧悟。四門十八<lb
+ n="0536b26" ed="T"/>離名數。生滅妙有懸通度。三界大師實難遇。<lb
+ n="0536b27" ed="T"/>生死涅槃不合渡。愛河逆上不留住。即心非<lb
+ n="0536b28" ed="T"/>心魔自去。去底利去魯留盧樓普路喻　諸<lb
+ n="0536b29" ed="T"/>佛子常覺悟。一念淨心無染污。一切魔軍自<pb n="0536c" id="T85.2779.0536c" ed="T"/><lb
+ n="0536c01" ed="T"/>然去。閭閭屢專注。娑訶耶大悟。<lb
+ n="0536c02" ed="T"/>嗄略藥嗄略藥。第八禪門絕針酌。不高不<lb
+ n="0536c03" ed="T"/>下無樓閣。不出不入無城墎。是想顯聲即<lb
+ n="0536c04" ed="T"/>初學。生心動念勿令著。久坐用功作非作。無<lb
+ n="0536c05" ed="T"/>樂可樂是常樂。慧燈一照三千墎。定水常清<lb
+ n="0536c06" ed="T"/>八萬鑠。十方諸佛同開覺。覺底利博魯留<lb
+ n="0536c07" ed="T"/>盧樓嗄略藥　諸佛子自在作莫制約。四維<lb
+ n="0536c08" ed="T"/>上下不可度。住寂涅槃同門廓。甚安樂無著。<lb
+ n="0536c09" ed="T"/>娑訶耶等覺。</ab></div>
+</body></text></TEI>

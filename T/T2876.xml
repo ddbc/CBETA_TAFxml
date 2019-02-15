@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">天公經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2876</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="1361a06" ed="T"/><lb
+ n="1361a07" ed="T"/><lb
+ n="1361a08" ed="T"/><lb
+ n="1361a09" ed="T"/>
+<ab type='juan' subtype='open'>佛說天公經</ab><lb
+ n="1361a10" ed="T"/><lb
+ n="1361a11" ed="T"/><div type='jing' level='1'><ab type='prose'>鎘銅灌作柱。象□作屋椽。虎珀作屋𣖷。真珠<lb
+ n="1361a12" ed="T"/>作羅網。星宿作鵲頭。日月作繚牕。可得萬<lb
+ n="1361a13" ed="T"/>萬九千年。上有一小劫。下有一由旬。此經雖<lb
+ n="1361a14" ed="T"/>小大有威神。亦等法華。亦等涅槃。亦朦雜經。<lb
+ n="1361a15" ed="T"/>譬如東海。喻如太山。入海取寶。隨其多少亦<lb
+ n="1361a16" ed="T"/>得重來。入山取材。任材長短亦得重來。誰<lb
+ n="1361a17" ed="T"/>能抄此經。手中螺文成。誰能看此經。眼中重<lb
+ n="1361a18" ed="T"/>光生。誰能誦此經。歷劫大聰明。觀世音造金。<lb
+ n="1361a19" ed="T"/>大罪得除。小罪得滅。欲向刀山。刀山摧折。欲<lb
+ n="1361a20" ed="T"/>向劍樹。劍樹自缺。欲向鑪炭。鑪炭自滅。欲向<lb
+ n="1361a21" ed="T"/>鑵湯。鑵湯自冷。倉倉靈音聲朗朗。講堂中央<lb
+ n="1361a22" ed="T"/>瑠璃作地。白銀為譬。前登金床後仚王凡手<lb
+ n="1361a23" ed="T"/>把金經。至佛說言。憶佛如憶食。念佛如念命。<lb
+ n="1361a24" ed="T"/>一日誦五遍。除罪一千五百萬劫。皆釋成佛<lb
+ n="1361a25" ed="T"/>道。<lb
+ n="1361a26" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說天公經一卷</ab></div>
+</body></text></TEI>

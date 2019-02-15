@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">三界圖</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2840</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1293a03" ed="T"/><lb
+ n="1293a04" ed="T"/><lb
+ n="1293a05" ed="T"/>
+<ab type='juan' subtype='open'>三界圖</ab><lb
+ n="1293a06" ed="T"/><lb
+ ed="T" n="1293a07"/>無色界<lb
+ ed="T" n="1293a08"/>無明慢貪修<lb
+ ed="T" n="1293a09"/>無明慢貪疑戒禁見取邪見道<lb
+ ed="T" n="1293a10"/>無明慢貪疑見取邪見滅<lb
+ ed="T" n="1293a11"/>無明慢貪疑見取邪見集<lb
+ ed="T" n="1293a12"/>無明慢貪疑戒禁見取邪見邊見身見苦<lb
+ ed="T" n="1293a13"/>色界<lb
+ ed="T" n="1293a14"/>無明慢貪修<lb
+ ed="T" n="1293a15"/>無明慢貪疑戒禁見取邪見道<lb
+ ed="T" n="1293a16"/>無明慢貪疑見取邪見滅<lb
+ ed="T" n="1293a17"/>無明慢貪疑見取邪見集<lb
+ ed="T" n="1293a18"/>無明慢貪疑戒禁見取邪見邊見身見苦<pb ed="T" id="T85.2840.1293b" n="1293b"/><lb
+ ed="T" n="1293b01"/>欲界<lb
+ ed="T" n="1293b02"/>無明慢瞋貪修<lb
+ ed="T" n="1293b03"/>無明慢瞋貪疑戒禁見取邪見道<lb
+ ed="T" n="1293b04"/>無明慢瞋貪疑見取邪見滅<lb
+ ed="T" n="1293b05"/>無明慢瞋貪疑見取邪見集<lb
+ ed="T" n="1293b06"/>無明慢瞋貪疑戒禁見取邪見邊見身見苦<lb
+ ed="T" n="1293b07"/><lb
+ ed="T" n="1293b08"/><ab type='prose'>欲界見斷煩惱三十二修斷煩惱有四。<lb
+ ed="T" n="1293b09"/>色界見斷二十八修斷有三。<lb
+ ed="T" n="1293b10"/>無色界亦然。三界共計有九十八。<lb
+ ed="T" n="1293b11"/>謂彼四諦十六門差別違立名安諦。十六門<lb
+ ed="T" n="1293b12"/>者。即四諦下各四行相。苦諦四者謂即非常<lb
+ ed="T" n="1293b13"/>苦空無我。集諦四者因集生緣。滅諦四者滅<lb
+ ed="T" n="1293b14"/>淨妙離。道諦四者道如行出。釋云。有生滅故<lb
+ ed="T" n="1293b15"/>非常。逼迫性故苦。違我所見故空。違我見故<lb
+ ed="T" n="1293b16"/>非我。能生法故因。有多種故集。恒資產故生。<lb
+ ed="T" n="1293b17"/>各別助故緣。諸蘊盡故滅。三相息故淨。無眾<lb
+ ed="T" n="1293b18"/>患故妙。脫眾災故離。通行義故道。契正理故<lb
+ ed="T" n="1293b19"/>如。正趣向故行。能永超故出。<lb
+ ed="T" n="1293b20"/>苦諦有四智。一苦法忍。二苦法智。三苦類忍。<lb
+ ed="T" n="1293b21"/>四苦類智。對治身見等十種煩惱。餘三諦亦<lb
+ ed="T" n="1293b22"/>然。集法忍集法智集類忍集類智。對治邪見<lb
+ ed="T" n="1293b23"/>等七使。滅法忍滅法智滅類忍滅類智。對治<lb
+ ed="T" n="1293b24"/>滅諦煩惱。道法忍道法智道類忍道類智。對<lb
+ ed="T" n="1293b25"/>治道諦煩惱。修斷者。於四諦上各各比忍比<lb
+ ed="T" n="1293b26"/>智。對治欲界貪瞋慢無明四箇煩惱。<pb n="1293c" id="T85.2840.1293c" ed="T"/><lb
+ n="1293c01" ed="T"/><lb
+ n="1293c02" ed="T"/><lb
+ n="1293c03" ed="T"/><lb
+ n="1293c04" ed="T"/><lb
+ n="1293c05" ed="T"/><lb
+ n="1293c06" ed="T"/><lb
+ n="1293c07" ed="T"/><lb
+ n="1293c08" ed="T"/><lb
+ n="1293c09" ed="T"/><lb
+ n="1293c10" ed="T"/><lb
+ n="1293c11" ed="T"/><lb
+ n="1293c12" ed="T"/><lb
+ n="1293c13" ed="T"/><lb
+ n="1293c14" ed="T"/><lb
+ n="1293c15" ed="T"/><lb
+ n="1293c16" ed="T"/><lb
+ n="1293c17" ed="T"/></ab></div>
+</body></text></TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">法華三昧行事運想補助儀</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T46</biblScope>
+                    <idno type="Taisho">T46n1942</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0955c06" ed="T"/><lb
+ n="0955c07" ed="T"/><lb
+ n="0955c08" ed="T"/><lb
+ n="0955c09" ed="T"/><lb
+ n="0955c10" ed="T"/>
+<ab type='juan' subtype='open'>法華三昧行事運想補助儀</ab><lb
+ n="0955c11" ed="T"/><lb
+ n="0955c12" ed="T"/><byline>唐國清沙門湛然撰</byline><lb
+ n="0955c13" ed="T"/><div type='jing' level='1'><ab type='prose'>夫禮懺法世雖同效。事儀運想多不周旋。或<lb
+ n="0955c14" ed="T"/>粗讀懺文半不通利。或推力前拒理觀。一無<lb
+ n="0955c15" ed="T"/>效精進之風。闕入門之緒。故言勤修苦行非<lb
+ n="0955c16" ed="T"/>涅槃因。但禮念軌儀文非不委。以散情昏重<lb
+ n="0955c17" ed="T"/>想運難成。予因天台再有詳補。撮覽樞總使<lb
+ n="0955c18" ed="T"/>隨言作念隨念成想。一一瞻視如對目前。庶<lb
+ n="0955c19" ed="T"/>時刻不虛事法成辦。依本文總歷十法。結要<lb
+ n="0955c20" ed="T"/>事理。<lb
+ n="0955c21" ed="T"/>初嚴淨道場。二淨身。三三業供養。<lb
+ n="0955c24" ed="T"/>次運香。請佛。次請佛菩薩<lb
+ n="0955c29" ed="T"/>。五歎佛。六禮佛。多寶佛。分<lb
+ n="0956a04" ed="T"/>身東方諸佛。三世諸佛。舍利形像等。妙法。諸菩薩舍利弗等。普賢菩薩<lb
+ n="0956a09" ed="T"/>。普為。七懺悔應運逆順十心云。次懺六根。勸請<lb
+ n="0956a22" ed="T"/>。隨喜。迴向。發願。行道。三歸<lb
+ n="0956b03" ed="T"/>。<lb
+ n="0956b08" ed="T"/>坐禪文略。應如止觀十法成乘等。行法華懺<lb
+ n="0956b09" ed="T"/>黃昏五更。時促則此略文。我及法界眾生<lb
+ n="0956b10" ed="T"/>從無始世來。無明所覆顛倒迷惑。而由六根<lb
+ n="0956b11" ed="T"/>三業不善廣造十惡四重五逆。乃至十重四<lb
+ n="0956b12" ed="T"/>十八輕。無量無邊說不可盡。十方諸佛常在<lb
+ n="0956b13" ed="T"/>世間法音不絕。妙香充塞法味盈空。放淨光<lb
+ n="0956b14" ed="T"/>明照觸一切。常住妙理遍滿虛空。我無始來<lb
+ n="0956b15" ed="T"/>六根內盲三業昏暗。不見不聞不覺不知。以<lb
+ n="0956b16" ed="T"/>是因緣長流生死。經歷惡道百千萬劫。永無<lb
+ n="0956b17" ed="T"/>出期。經云。釋迦如來名毘盧遮那遍一切處。<lb
+ n="0956b18" ed="T"/>是故當知。一切諸法無非佛法。而我不了隨<lb
+ n="0956b19" ed="T"/>無明流。是則於菩提中見不清淨。於解脫中<lb
+ n="0956b20" ed="T"/>而起纏縛。今始覺悟今始改悔。生大慚愧生<lb
+ n="0956b21" ed="T"/>大怖畏。誦持大乘三業供養。歸向普賢菩薩<lb
+ n="0956b22" ed="T"/>及一切世尊。燒香散華發露懺悔。六根三業<lb
+ n="0956b23" ed="T"/>所作永斷。相續不復更造。以是因緣今我與<lb
+ n="0956b24" ed="T"/>法界眾生三業六根無始所作。現作當作自<lb
+ n="0956b25" ed="T"/>作教他見聞隨喜。若憶不憶若識不識。若疑<lb
+ n="0956b26" ed="T"/>不疑若覆若露。畢竟清淨。<lb
+ n="0956b27" ed="T"/>
+</ab><ab type='juan' subtype='close'>法華三昧行事運想補助儀</ab></div>
+</body></text></TEI>

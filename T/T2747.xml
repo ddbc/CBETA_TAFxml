@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">挾註波羅蜜多心經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2747</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0169b" id="T85.2747.0169b" ed="T"/><lb
+ n="0169b01" ed="T"/><lb
+ n="0169b02" ed="T"/><lb
+ n="0169b03" ed="T"/><lb
+ n="0169b04" ed="T"/>
+<ab type='juan' subtype='open'>挾註波羅蜜多心經</ab><lb
+ n="0169b05" ed="T"/><lb
+ n="0169b06" ed="T"/><div type='jing' level='1'><ab type='prose'>般若波羅蜜多心經觀自在菩薩行深般若波羅蜜多時照見<lb
+ n="0169b10" ed="T"/>五蘊皆空度<lb
+ n="0169b11" ed="T"/>一切苦厄<lb
+ n="0169b12" ed="T"/>舍利子色不異空空不異<lb
+ n="0169b13" ed="T"/>色色即是空空即<lb
+ n="0169b14" ed="T"/>是色受想行識亦復如是舍利子是諸法空相不生不滅不垢不淨不增不減。是<lb
+ n="0169b19" ed="T"/>故空中無色受想行識。無眼耳鼻舌身<lb
+ n="0169b20" ed="T"/>意。無色聲香味觸法。無眼界乃至<lb
+ n="0169b21" ed="T"/>無意識界。無無明亦無無明盡。乃至無老死亦無老死盡。無苦集滅道。無智亦無得以無所得故菩提薩埵依<lb
+ n="0169b25" ed="T"/>般若波羅蜜多故<lb
+ n="0169b26" ed="T"/>心無罣礙無罣礙故無有恐怖遠離顛倒夢想<pb n="0169c" id="T85.2747.0169c" ed="T"/><lb
+ n="0169c01" ed="T"/>究竟涅槃三世諸<lb
+ n="0169c02" ed="T"/>佛依般若波羅蜜多故得<lb
+ n="0169c03" ed="T"/>阿耨多羅三藐三菩提故知般若波羅蜜多是大神呪是大明呪是<lb
+ n="0169c05" ed="T"/>無等等呪能除一切苦真實<lb
+ n="0169c07" ed="T"/>不虛故說般若波羅蜜多呪即說呪曰。<lb
+ n="0169c09" ed="T"/></ab>
+<ab type='dharani'>羯諦羯諦　波羅羯諦　波羅僧羯諦　菩提<lb
+ n="0169c10" ed="T"/>莎婆訶<lb
+ n="0169c11" ed="T"/></ab>
+<ab type='prose'>般若波羅蜜多心經</ab></div>
+</body></text></TEI>

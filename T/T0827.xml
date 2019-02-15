@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說懈怠耕者經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0827</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb id="T17.0827.0870b" ed="T" n="0870b"/><lb
+ ed="T" n="0870b01"/><lb
+ ed="T" n="0870b02"/><lb
+ ed="T" n="0870b03"/>
+<ab type='juan' subtype='open'>佛說懈怠耕者經</ab><lb
+ ed="T" n="0870b04"/><lb
+ ed="T" n="0870b05"/><byline>宋沙門惠簡譯</byline><lb
+ ed="T" n="0870b06"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在羅閱祇竹園中，與大比丘<lb
+ ed="T" n="0870b07"/>眾千二百五十人及眾菩薩俱。時佛從羅閱<lb
+ ed="T" n="0870b08"/>祇欲詣舍衛，諸菩薩導前，釋梵被服——又見<lb
+ n="0870b09" ed="T"/>身體如四天王——諸比丘僧悉從佛後，諸天、龍、<lb
+ ed="T" n="0870b10"/>神在上供養。去城不遠，時有一人在田耕種，<lb
+ n="0870b11" ed="T"/>遙見如來弟子侍從，端正殊妙，威神巍巍，容<lb
+ ed="T" n="0870b12"/>貌殊好如星中月，奇相眾好，金光從容，三十<lb
+ n="0870b13" ed="T"/>二相皆出眾好。遙見世尊心便歡喜，欲往<lb
+ ed="T" n="0870b14"/>詣佛稽首作禮，諮受法義。「佛世難值，時時<lb
+ n="0870b15" ed="T"/>一現。」退自念言，「耕地未竟、下種未畢，須後<lb
+ ed="T" n="0870b16"/>閑時乃當見佛。」時佛知心發此懈怠，世尊便<lb
+ ed="T" n="0870b17"/>笑，放五色光，光從口出照十方境界，安隱<lb
+ ed="T" n="0870b18"/>五道，皆乘光來集會佛所——地獄休息，餓鬼飽<lb
+ n="0870b19" ed="T"/>滿，畜生思善，人民求度，諸天龍神神聽道<lb
+ ed="T" n="0870b20"/>法。賢者阿難解了七應——義、法、時、節、身與他<lb
+ ed="T" n="0870b21"/>人——即詣佛所，長跪叉手，白佛言：「何因笑？既笑，<lb
+ ed="T" n="0870b22"/>會當有意。」佛告阿難：「汝見犁者不？」對曰：「已<lb
+ n="0870b23" ed="T"/>見。」佛言：「是人從維衛佛已來九十一劫於是<lb
+ n="0870b24" ed="T"/>耕種，每一見佛常自懈怠選軟，復後怱怱<lb
+ n="0870b25" ed="T"/>耕種生死罪法，不識法犁種無極田。已過六<lb
+ n="0870b26" ed="T"/>佛不得蒙度，於今見我，適發好心即便變悔，<lb
+ n="0870b27" ed="T"/>欲故懈怠，樂種罪根。」時人遙聞，棄耕及田，來<lb
+ n="0870b28" ed="T"/>詣佛所稽首佛足，悔過自責：「愚癡無知，罪過<lb
+ ed="T" n="0870b29"/>甚重，願見愍傷，原其罪過。蒙冥觝突，懈怠來<pb id="T17.0827.0870c" ed="T" n="0870c"/><lb
+ n="0870c01" ed="T"/>久，唯見原恕，濟脫生死。」佛言：「善哉！卿能覺<lb
+ ed="T" n="0870c02"/>者，於法有益，終不為損。」佛為說經，示懈怠<lb
+ n="0870c03" ed="T"/>之垢、精進之利，踴躍歡喜，立不退轉。諸天、龍、<lb
+ n="0870c04" ed="T"/>神無央數千，皆發無上正真道意。「以故，學<lb
+ n="0870c05" ed="T"/>道常當精進，莫為懈怠，宛轉生死，動有劫數。」<lb
+ ed="T" n="0870c06"/>佛說如是，賢者阿難，諸天、龍、神、阿須倫王，<lb
+ ed="T" n="0870c07"/>聞經歡喜，作禮而退。</ab></div><lb
+ ed="T" n="0870c08"/>
+<ab type='juan' subtype='close'>佛說懈怠耕者經</ab>
+</body></text></TEI>

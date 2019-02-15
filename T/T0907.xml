@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛頂尊勝心破地獄轉業障出三界祕密陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0907</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0914c17" ed="T"/><lb
+ n="0914c18" ed="T"/><lb
+ n="0914c19" ed="T"/><lb
+ n="0914c20" ed="T"/><lb
+ n="0914c21" ed="T"/><lb
+ n="0914c22" ed="T"/>
+<ab type='juan' subtype='open'>佛頂尊勝心破地獄轉業障出三<lb
+ n="0914c23" ed="T"/>界祕密陀羅尼</ab><lb
+ n="0914c24" ed="T"/><lb
+ n="0914c25" ed="T"/><byline>中天竺國三藏善無畏奉　詔譯</byline><lb
+ n="0914c26" ed="T"/><div type='jing' level='2'><ab type='prose'>名金剛鼓。口開舌舉震法界宮。蓮華藏<lb
+ n="0914c27" ed="T"/>諸如來出定。即以摧破地獄滅七遍之殃。起<lb
+ n="0914c28" ed="T"/>教菩薩說五字祕密。執本授。如法布字。<lb
+ n="0914c29" ed="T"/>人主頂戴乎冠中。萬國清泰。節度觀察。旌旗<pb n="0915a" id="T18.0907.0915a" ed="T"/><lb
+ n="0915a01" ed="T"/>上書寫真言。四方晏靜。專城太守鎮遏總<lb
+ n="0915a02" ed="T"/>戎。鼓角上題字嚴警。遠聞妖氣潛。熾盛布千<lb
+ n="0915a03" ed="T"/>里。苗稼洪潤人無災疾。地土神祇風恬雨<lb
+ n="0915a04" ed="T"/>順。瑜迦事法約有千條。略述少分。念誦<lb
+ n="0915a05" ed="T"/>加持戰鼓上書。賊軍自降一人不損焉。<lb
+ n="0915a06" ed="T"/>佛言。阿字金剛部主肝。鑁字蓮華部主肺。<lb
+ n="0915a07" ed="T"/>𮓔字寶部主心。唅字羯磨部主胃。欠字虛<lb
+ n="0915a08" ed="T"/>空部主脾。山海大地從阿字出。江河萬流從<lb
+ n="0915a09" ed="T"/>鑁字出。金玉珍寶日月星辰火珠光明從覽<lb
+ n="0915a10" ed="T"/>字成。五穀五果眾花開敷因唅字結。秀香<lb
+ n="0915a11" ed="T"/>美人天長養顏色滋味端正相貌福德富貴從<lb
+ n="0915a12" ed="T"/>欠字莊嚴。阿字是東方阿閦如來。鑁字西方<lb
+ n="0915a13" ed="T"/>阿彌陀如來。覽字是南方寶生如來。唅字<lb
+ n="0915a14" ed="T"/>北方不空成就如來。欠字是上方毘盧遮那<lb
+ n="0915a15" ed="T"/>大日如來。阿字甚深空寂之體。取之不可取。<lb
+ n="0915a16" ed="T"/>捨之不可捨。萬法之母。大灌頂王阿字是也。<lb
+ n="0915a17" ed="T"/>阿字是難信之法。小乘律師特勿令見。此本<lb
+ n="0915a18" ed="T"/>五部梵本四十萬言出。毘盧遮那經金剛頂<lb
+ n="0915a19" ed="T"/>經採集要妙。最上福田。唯此五字真言。誦者<lb
+ n="0915a20" ed="T"/>所獲功德不可比量不可思議不可說也。金<lb
+ n="0915a21" ed="T"/>剛頂經五部真言。受持讀誦觀照理性。令人<lb
+ n="0915a22" ed="T"/>獲福。骨堅體健。永無災障及諸病苦。攝養長<lb
+ n="0915a23" ed="T"/>壽阿金剛地部一鑁<lb
+ n="0915a24" ed="T"/>金剛水部二覽金剛火部三<lb
+ n="0915a25" ed="T"/>唅金剛風部四欠字金剛空部五如來體性無生觀　右五部真言。是一<lb
+ n="0915a27" ed="T"/>切如來無生甘露之珍漿醍醐佛性之妙藥。<lb
+ n="0915a28" ed="T"/>一字入於五藏萬病不生。況修日觀月觀。即<lb
+ n="0915a29" ed="T"/>時修得佛身空寂　五分法身義。阿鑁覽唅<pb n="0915b" id="T18.0907.0915b" ed="T"/><lb
+ n="0915b01" ed="T"/>欠　右上五法身真言。若日誦一遍或七遍<lb
+ n="0915b02" ed="T"/>二十一遍或四十九遍者挍量功德。一遍福<lb
+ n="0915b03" ed="T"/>如轉藏經一百萬遍。何況禪寂坐入定門。從<lb
+ n="0915b04" ed="T"/>阿字觀諦審分明。如日照空。即是了見佛性。<lb
+ n="0915b05" ed="T"/>所獲福無有比量。祕藏文句實不思議。只恐<lb
+ n="0915b06" ed="T"/>聲聞法師。小乘持律者。生疑不信反益其罪。<lb
+ n="0915b07" ed="T"/>譬如王有稚子偏最憐念庫藏珍寶傾竭不<lb
+ n="0915b08" ed="T"/>惜。唯不與干將鏌鎁恐不解運用故傷其體。<lb
+ n="0915b09" ed="T"/>是故如來密傳大菩薩。不與聲聞劣慧。已下<lb
+ n="0915b10" ed="T"/>三箇真言是三種悉地。成就法中立上中下<lb
+ n="0915b11" ed="T"/>品差別也。<lb
+ n="0915b12" ed="T"/>阿羅波遮那是名出悉地。能生根<lb
+ n="0915b13" ed="T"/>莖遍滿四方。誦一遍。如轉藏經一百遍。<lb
+ n="0915b14" ed="T"/>阿微羅𤙖佉大日經悉地品。名降<lb
+ n="0915b15" ed="T"/>伏四魔解脫六趣滿足一切智智金剛字句<lb
+ n="0915b16" ed="T"/>也。是名入悉地。能生枝葉。遍滿四方。光明<lb
+ n="0915b17" ed="T"/>晃曜入佛法界。名入悉地。若誦一遍。如轉藏<lb
+ n="0915b18" ed="T"/>經一千遍。<lb
+ n="0915b19" ed="T"/>阿鑁藍唅欠是名祕密悉地。亦名成就<lb
+ n="0915b21" ed="T"/>悉地。亦名蘇悉地。蘇悉地者遍法界也。成就<lb
+ n="0915b22" ed="T"/>佛果。證大菩提。法界祕密言。光明遍滿。唯<lb
+ n="0915b23" ed="T"/>佛與佛能入此門。緣覺聲聞不能照。此亦名<lb
+ n="0915b24" ed="T"/>祕密悉地。若誦一遍。當如轉藏經一百萬遍。<lb
+ n="0915b25" ed="T"/>出悉地從足至腰。入悉地從臍至心。祕密悉<lb
+ n="0915b26" ed="T"/>地從心至頂。如是三悉地。出悉地化身成就。<lb
+ n="0915b27" ed="T"/>入悉地報身成就。祕密悉地蘇悉地法身成<lb
+ n="0915b28" ed="T"/>就。即是三種常身正法藏。是故稽首禮毘盧<lb
+ n="0915b29" ed="T"/>遮那佛。<pb n="0915c" id="T18.0907.0915c" ed="T"/><lb
+ n="0915c01" ed="T"/></ab>
+<ab type='verse'>
+稽首毘盧遮那佛　　開敷淨眼如蓮華　　<lb
+ n="0915c02" ed="T"/>三界調御天人師　　大菩提心救世者　　<lb
+ n="0915c03" ed="T"/>深妙真言加持法　　流入無生阿字門　　<lb
+ n="0915c04" ed="T"/>白毫無相正遍知　　圓滿恒照如日月　　<lb
+ n="0915c05" ed="T"/>阿閦寶生救世者　　彌陀成就不空王　　<lb
+ n="0915c06" ed="T"/>咸於悉地吉祥輪　　傳斯妙法化諸有　　<lb
+ n="0915c07" ed="T"/>慈心自在降三世　　金剛薩埵不動尊　　<lb
+ n="0915c08" ed="T"/>無違誓願應時期　　瑜伽事畢還金剛　　<lb
+ n="0915c09" ed="T"/>我依毘盧遮那佛　　開心智印建標儀　　<lb
+ n="0915c10" ed="T"/>無量功德普莊嚴　　同入總持諸善逝　　<lb
+ n="0915c11" ed="T"/>願共有緣修學者　　安住無上清淨海　　
+</ab></div><lb
+ n="0915c12" ed="T"/>
+<ab type='juan' subtype='close'>佛頂尊勝心破地獄法一卷</ab><lb
+ n="0915c13" ed="T"/><lb
+ n="0915c14" ed="T"/><div type='w' level='2'><ab type='prose'>本批云。治歷二年六月一日。於肥前國。以<lb
+ n="0915c15" ed="T"/>但石藏聖御房本書寫畢。僧靜暹。<lb
+ n="0915c16" ed="T"/>貞和二年丙戌七月十八日。自金剛王院<lb
+ n="0915c17" ed="T"/>僧正御房御手下賜之畢。權少僧都文海<lb
+ n="0915c18" ed="T"/>。<lb
+ n="0915c19" ed="T"/>天明元年辛丑閏七月十七日。以宇治慧<lb
+ n="0915c20" ed="T"/>心院藏。本寫得訖。慈忍<lb
+ n="0915c21" ed="T"/>八家祕錄云。尊勝破地獄陀羅尼儀軌一<lb
+ n="0915c22" ed="T"/>卷應知所明法未顯題額。是故有此<lb
+ n="0915c23" ed="T"/>註記。蓋是此本乎。<lb
+ n="0915c24" ed="T"/>時享和改元秋七月挍以上木。<lb
+ n="0915c25" ed="T"/>　　　　　　　　豐山輪下快道誌</ab></div></div>
+</body></text></TEI>

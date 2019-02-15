@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛頂經一字頂輪王儀軌音義</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0958</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0327a13" ed="T"/><lb
+ n="0327a14" ed="T"/><lb
+ n="0327a15" ed="T"/><lb
+ n="0327a16" ed="T"/>
+<ab type='juan' subtype='open'>金剛頂經一字頂輪王儀軌音義</ab><lb
+ n="0327a17" ed="T"/><lb
+ n="0327a18" ed="T"/><div type='jing' level='2'><ab type='prose'>文稽首至是故常歸命。讚曰。此八頌初<lb
+ n="0327a19" ed="T"/>五句有五。謂一於初句言普賢者是理也。即<lb
+ n="0327a20" ed="T"/>是為一字攝在下諸佛故。或分為二佛。謂普<lb
+ n="0327a21" ed="T"/>賢與諸佛轉輪王是也。或分為三佛。先二加<lb
+ n="0327a22" ed="T"/>現證大菩提是也。或分作四智。謂普賢者是<lb
+ n="0327a23" ed="T"/>大圓鏡智即阿閦佛。次一句妙觀察即阿彌<lb
+ n="0327a24" ed="T"/>陀佛也。次一句平等性智即寶生佛也。為轉<lb
+ n="0327a25" ed="T"/>教勅輪一句成所作智即不空成就佛是。或<lb
+ n="0327a26" ed="T"/>分作五智。先四加法界體性智。所謂受名金<lb
+ n="0327a27" ed="T"/>剛界一句是也。自此下句配四方并中胎毘<lb
+ n="0327a28" ed="T"/>盧舍那佛也。從自頂流出。大金剛明王二句<lb
+ n="0327a29" ed="T"/>東方佛也。威光至圍繞二句南方佛。為一切<pb n="0327b" id="T19.0958.0327b" ed="T"/><lb
+ n="0327b01" ed="T"/>至輪王二句西佛。纔現至皆歿北佛。至一體<lb
+ n="0327b02" ed="T"/>故中體佛也。次二句東佛。次二句南佛。次二<lb
+ n="0327b03" ed="T"/>句西佛。次二中體佛。成佛至同虛空北方佛<lb
+ n="0327b04" ed="T"/>也。次一中體佛。次二東佛。次二西佛。令頓一<lb
+ n="0327b05" ed="T"/>句南佛。是故常歸命一北方佛也。今別釋文<lb
+ n="0327b06" ed="T"/>音義也。<lb
+ n="0327b07" ed="T"/>爍　令　故　纂　揀　族姓　騎　驀　䓻　葷　滌<lb
+ n="0327b09" ed="T"/>　磨　拭　曼荼羅　珮　噉<lb
+ n="0327b10" ed="T"/>　瑜伽　滑　側　押　鋒銳　素月　拇　拄　剋　額　腕　腿　腦後　股　叉　䏶　美<lb
+ n="0327b13" ed="T"/>　悉地　繖　嬋娟　劇　調<lb
+ n="0327b14" ed="T"/>　修者　微　盤　搯　由　冤<lb
+ n="0327b15" ed="T"/>　晨　午　昏　暮　燼　洽　鎮<lb
+ n="0327b16" ed="T"/>　搜　間　䐡　馝　馞　師　帥　臺　閣　形服<lb
+ n="0327b18" ed="T"/>一字頂輪次第將往堂。而手口淨了。到室<lb
+ n="0327b19" ed="T"/>結坐。三密印。<lb
+ n="0327b20" ed="T"/>次以囕字淨身及處皆燒淨了。次以佛部心<lb
+ n="0327b21" ed="T"/>印於頂三誦。次以蓮華部心印上右大指。就<lb
+ n="0327b22" ed="T"/>右耳處三誦。次以金剛部心印上左大指。就<lb
+ n="0327b23" ed="T"/>左耳處三誦了。次無能勝印加持了。然後<lb
+ n="0327b24" ed="T"/>作往堂儀。謂我身金剛薩埵等思之。然後入<lb
+ n="0327b25" ed="T"/>堂。禮佛燒香塗香。三部印作了。次普禮印<lb
+ n="0327b26" ed="T"/>言歸命等　四無量觀　菩提心言印<lb
+ n="0327b27" ed="T"/>　無能勝結護言印　三解脫觀　五相觀本尊<pb n="0327c" id="T19.0958.0327c" ed="T"/><lb
+ n="0327c01" ed="T"/>本真言印　大日三字密言　灌頂<lb
+ n="0327c02" ed="T"/>言印　供養言印　讚印　獻閼伽　佛眼言<lb
+ n="0327c03" ed="T"/>印　又智拳本言　觀本尊<lb
+ n="0327c04" ed="T"/>及眷屬念珠言印念誦數了次本言<lb
+ n="0327c05" ed="T"/>加持印四處。又加御身印也。然後作定印入<lb
+ n="0327c06" ed="T"/>觀。觀字義及月輪種等。出了　本言加持　讚言印供養閼伽歸命等無能<lb
+ n="0327c08" ed="T"/>解界　解脫印言　前三部心印了。</ab></div><lb
+ n="0327c09" ed="T"/><lb
+ n="0327c10" ed="T"/><div type='w' level='2'><ab type='prose'>天明三丙午十月三日。於仁和寺皆明寺。<lb
+ n="0327c11" ed="T"/>以栂尾山法鼓臺藏本寫得之訖。<lb
+ n="0327c12" ed="T"/>　　　　　　　　智積院僧東武慈忍<lb
+ n="0327c13" ed="T"/>享和改元辛酉年秋八月初六夜。求右本<lb
+ n="0327c14" ed="T"/>寫之。此音義者。和人施於和之音訓。是故<lb
+ n="0327c15" ed="T"/>其反切等有難通。而魯魚之差不少。今挍<lb
+ n="0327c16" ed="T"/>正點國字以壽梓。于時同年冬十月。<lb
+ n="0327c17" ed="T"/>　　和州豐初瀨山總持院　快道　誌<lb
+ n="0327c18" ed="T"/>一挍了　　　　　　　　　　　慈順</ab></div></div>
+</body></text></TEI>

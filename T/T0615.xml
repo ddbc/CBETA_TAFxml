@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">菩薩訶色欲法經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T15</biblScope>
+                    <idno type="Taisho">T15n0615</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0286a13" ed="T"/><lb
+ n="0286a14" ed="T"/><lb
+ n="0286a15" ed="T"/><lb
+ n="0286a16" ed="T"/>
+<ab type='juan' subtype='open'>菩薩訶色欲法經</ab><lb
+ n="0286a17" ed="T"/><lb
+ n="0286a18" ed="T"/><byline>後秦三藏鳩摩羅什譯</byline><lb
+ n="0286a19" ed="T"/><div type='jing' level='1'><ab type='prose'>女色者，世間之枷鎖，凡夫戀著，不能自拔。女<lb
+ n="0286a20" ed="T"/>色者，世間之重患，凡夫困之，至死不免。女<lb
+ n="0286a21" ed="T"/>色者，世間之衰禍，凡夫遭之，無厄不至。行<lb
+ n="0286a22" ed="T"/>者既得捨之，若復顧念，是為從獄得出，還復<lb
+ n="0286a23" ed="T"/>思入；從狂得正，而復樂之；從病得差，復思<lb
+ n="0286a24" ed="T"/>得病。智者怒之，知其狂而顛蹶，死無日矣！<lb
+ n="0286a25" ed="T"/>凡夫重色，甘為之僕，終身馳驟，為之辛苦。雖<lb
+ n="0286a26" ed="T"/>復鈇質寸斬，鋒鏑交至，甘心受之，不以為<lb
+ n="0286a27" ed="T"/>患。狂人樂狂，不是過也。行者若能棄之不顧，<lb
+ n="0286a28" ed="T"/>是則破枷脫鎖，惡狂厭病，離於衰禍，既安且<lb
+ n="0286a29" ed="T"/>吉，得出牢獄，永無患難。女人之相，其言如<pb n="0286b" ed="T" id="T15.0615.0286b"/><lb
+ n="0286b01" ed="T"/>蜜，而其心如毒，譬如：停淵澄鏡，而蛟龍居之；<lb
+ n="0286b02" ed="T"/>金山寶窟，而師子處之；當知此害不可近。<lb
+ n="0286b03" ed="T"/>室家不和，婦人之由；毀宗敗族，婦人之罪。實<lb
+ n="0286b04" ed="T"/>是陰賊，滅人慧明；亦是獵圍，尠得出者。譬如<lb
+ n="0286b05" ed="T"/>高羅，群鳥落之，不能奮飛；又如密網，眾魚投<lb
+ n="0286b06" ed="T"/>之，刳腸俎肌；亦如暗坑，無目投之；如蛾赴<lb
+ n="0286b07" ed="T"/>火。是以智者知而遠之，不受其害；惡而穢之，<lb
+ n="0286b08" ed="T"/>不為此物之所惑也。</ab></div><lb
+ n="0286b09" ed="T"/>
+<ab type='juan' subtype='close'>菩薩訶色欲法經</ab>
+</body></text></TEI>

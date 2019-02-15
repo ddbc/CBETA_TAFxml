@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說馬有八態譬人經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0115</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0507a04" ed="T"/><lb
+ n="0507a05" ed="T"/><lb
+ n="0507a06" ed="T"/><div type='jing' level='1'><lb
+ n="0507a07" ed="T"/>
+<ab type='juan' subtype='open'>佛說馬有八態譬人經</ab><lb
+ n="0507a08" ed="T"/><lb
+ n="0507a09" ed="T"/><byline>後漢西域三藏支曜譯</byline><lb
+ n="0507a10" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國行在祇樹給孤獨<lb
+ n="0507a11" ed="T"/>園，多比丘僧俱。佛告諸比丘：「馬有弊惡態<lb
+ n="0507a12" ed="T"/>八。何等八？一態者解󰊊韁時便掣車欲走；二<lb
+ n="0507a13" ed="T"/>態者駕車跳𨄈欲嚙人；三態者便舉前兩脚<lb
+ n="0507a14" ed="T"/>掣車走；四態者便蹹車軨；五態者便人立持<lb
+ n="0507a15" ed="T"/>軛摩挱車却行；六態者便傍行邪走；七態者<lb
+ n="0507a16" ed="T"/>便掣車馳走，得濁泥抵止住不復行；八態者<lb
+ n="0507a17" ed="T"/>懸󰪐餧之熟視不肯食，其主牽去欲駕之，遽<lb
+ n="0507a18" ed="T"/>唅噏噬欲食不能得食。」佛言：「人亦有弊惡態<lb
+ n="0507a19" ed="T"/>八。何等為八？一態者聞說經便走不欲聽，如<lb
+ n="0507a20" ed="T"/>馬解󰊊韁掣車走時；二態者聞說經意不解，<lb
+ n="0507a21" ed="T"/>不知語所趣向，便瞋跳𨄈不欲聞，如馬駕車<lb
+ n="0507a22" ed="T"/>時跳𨄈欲嚙人時；三態者聞說經便逆不受，<lb
+ n="0507a23" ed="T"/>如馬舉前兩脚掣車走時；四態者聞說經便<lb
+ n="0507a24" ed="T"/>罵，如馬蹹車軨時；五態者聞說經便起去，如<lb
+ n="0507a25" ed="T"/>馬人立持軛摩挱車却行時；六態者聞說經<lb
+ n="0507a26" ed="T"/>不肯聽，䫌頭邪視耳語，如馬傍行邪走時；七<lb
+ n="0507a27" ed="T"/>態者聞說經便欲窮難，問之不能相應答，便<lb
+ n="0507a28" ed="T"/>死抵妄語，如馬得濁泥便止不復行時；八態<lb
+ n="0507a29" ed="T"/>者聞說經不肯聽，反念婬泆多求不欲聽受，<pb n="0507b" ed="T" id="T02.0115.0507b"/><lb
+ n="0507b01" ed="T"/>死入惡道時，乃遽欲學問行道，亦不能復得<lb
+ n="0507b02" ed="T"/>行道，如馬懸󰪐餧之熟視不肯食，其主牽<lb
+ n="0507b03" ed="T"/>去欲駕之，乃遽唅噏噬亦不得食。」佛言：「我說<lb
+ n="0507b04" ed="T"/>馬八態，惡人亦有八惡態如是。」諸比丘聞經<lb
+ n="0507b05" ed="T"/>歡喜，作禮而去。<lb
+ n="0507b06" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說馬有八態譬人經</ab></div>
+</body></text></TEI>

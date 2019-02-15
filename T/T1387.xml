@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說栴檀香身陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1387</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0906a11" ed="T"/><lb
+ n="0906a12" ed="T"/><lb
+ n="0906a13" ed="T"/><div type='jing' level='1'><lb
+ n="0906a14" ed="T"/>
+<ab type='juan' subtype='open'>佛說栴檀香身陀羅尼經</ab><lb
+ n="0906a15" ed="T"/><lb
+ n="0906a16" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0906a17" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0906a18" ed="T"/><ab type='prose'>爾時世尊告阿難言。有陀羅尼名栴檀香身。<lb
+ n="0906a19" ed="T"/>是陀羅尼有大威力。能與眾生廣大福聚。若<lb
+ n="0906a20" ed="T"/>復有人得此陀羅尼。發至誠心讀誦受持堅<lb
+ n="0906a21" ed="T"/>固不退。是人所有極重宿業悉得消滅。當來<lb
+ n="0906a22" ed="T"/>獲得殊勝果報。又復有人欲見觀自在菩薩<lb
+ n="0906a23" ed="T"/>者。先於清淨之處持誦精熟。然後擇吉祥日。<lb
+ n="0906a24" ed="T"/>日初出時用白檀香塗曼拏羅。於中焚栴檀<lb
+ n="0906a25" ed="T"/>香獻殊妙花。即起首誦陀羅尼八千遍。得數<lb
+ n="0906a26" ed="T"/>滿已即於曼拏羅前。鋪吉祥草虔心而臥。如<lb
+ n="0906a27" ed="T"/>是經於七日。即得菩薩出現本身。令持誦人<lb
+ n="0906a28" ed="T"/>所求成就。又復有人以業報故。身患㾢病<lb
+ n="0906a29" ed="T"/>及惡瘡癬。即於佛前誦陀羅尼三遍。加持瞿<pb n="0906b" id="T21.1387.0906b" ed="T"/><lb
+ n="0906b01" ed="T"/>摩夷及香泥。作曼拏羅供養佛已。然取曼拏<lb
+ n="0906b02" ed="T"/>羅香泥塗於已身。所患瘡癩速得除瘥。乃至<lb
+ n="0906b03" ed="T"/>宿業亦得除滅。即說陀羅尼曰。<lb
+ n="0906b04" ed="T"/></ab>
+<ab type='dharani'>那莫室贊那曩誐野怛他誐多野<lb
+ n="0906b05" ed="T"/>阿囉曷帝三藐訖三沒馱野<lb
+ n="0906b06" ed="T"/>那莫室贊捺囉鉢囉婆嚩野<lb
+ n="0906b07" ed="T"/>酤摩囉部多野那莫阿哥舍誐哩婆<lb
+ n="0906b08" ed="T"/>野冒地薩埵野摩賀薩埵野<lb
+ n="0906b09" ed="T"/>那莫阿哩也嚩路吉帝說囉野冒<lb
+ n="0906b10" ed="T"/>地薩埵野摩賀薩埵野摩賀哥<lb
+ n="0906b11" ed="T"/>嚕尼哥野阿哩也嚩路吉帝<lb
+ n="0906b12" ed="T"/>說囉寫阿提瑟姹儞那儞舍曳<lb
+ n="0906b13" ed="T"/>賒彌怛𭔞他尾誐底摩哩唧計訥哩馱摩彌訥囉努鉢囉尾瑟<lb
+ n="0906b15" ed="T"/>致贊捺曩誐𡁠三滿多波哩輸達<lb
+ n="0906b16" ed="T"/>儞󰡊馱尸梨佐哩怛囉嚩底<lb
+ n="0906b17" ed="T"/>摩賀鉢囉多閉薩哩嚩沒馱<lb
+ n="0906b18" ed="T"/>阿提瑟致帝婆誐嚩底播波尾<lb
+ n="0906b19" ed="T"/>那囉儞娑嚩賀<lb
+ n="0906b20" ed="T"/></ab>
+<ab type='prose'>爾時阿難聞佛說此大陀羅尼已。歡喜信受<lb
+ n="0906b21" ed="T"/>禮佛而退。<lb
+ n="0906b22" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說栴檀香身陀羅尼經</ab></div>
+</body></text></TEI>

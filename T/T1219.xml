@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">曼殊室利焰曼德迦萬愛祕術如意法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1219</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0097b09" ed="T"/><lb
+ n="0097b10" ed="T"/><lb
+ n="0097b11" ed="T"/><div type='jing' level='2'><lb
+ n="0097b12" ed="T"/>
+<ab type='juan' subtype='open'>曼殊室利焰曼德迦萬愛祕術如<lb
+ n="0097b13" ed="T"/>意法</ab><lb
+ n="0097b14" ed="T"/><lb
+ n="0097b15" ed="T"/><byline>一行撰譯</byline><lb
+ n="0097b16" ed="T"/><ab type='prose'>夫真言教源。自護摩法無上也。此之中祕密<lb
+ n="0097b17" ed="T"/>教愛法也。為求末世眾生敬愛。說一印真言。<lb
+ n="0097b18" ed="T"/>能利眾生故。先說像。其身六面六臂六足。乘<lb
+ n="0097b19" ed="T"/>水牛。所謂六面。頂上三面中面菩薩形柔軟<lb
+ n="0097b20" ed="T"/>也。其面頂有阿彌陀佛。又六臂。所謂左一鉾<lb
+ n="0097b21" ed="T"/>二輪索三弓。右一劍二寶杖三箭。以彼弓鑄<lb
+ n="0097b22" ed="T"/>勢也。又六足。左三足立輪。右三足上彼輪下<lb
+ n="0097b23" ed="T"/>有木牛。牛四足立花座。復像背有火焰。如虹。<lb
+ n="0097b24" ed="T"/>又如吠瑠璃。其火中當像右足下有寅神。次<lb
+ n="0097b25" ed="T"/>第十二神但未申對面。復次壇水圓壇。其壇<lb
+ n="0097b26" ed="T"/>中置輪可修行。增益敬愛息災調伏。皆可置。<lb
+ n="0097b27" ed="T"/>其所口傳又當身口傳。<lb
+ n="0097b28" ed="T"/>復次說一印口傳。呪曰。<lb
+ n="0097b29" ed="T"/></ab>
+<ab type='dharani'>唵瑟底哩迦羅嚕婆吽欠娑呵<pb n="0097c" id="T21.1219.0097c" ed="T"/><lb
+ n="0097c01" ed="T"/></ab>
+<ab type='prose'>以是印呪向佛。成普禮及次第觀念。<lb
+ n="0097c02" ed="T"/>復說曼陀羅法。內院明王。明王背有法形文<lb
+ n="0097c03" ed="T"/>殊。外院東方召請童子。其形如童子。髻上生<lb
+ n="0097c04" ed="T"/>登以弓矢。東南方計設尼童子如上形。左拳<lb
+ n="0097c05" ed="T"/>右把三角鉾。左拳置腰。南方救護慧童子如<lb
+ n="0097c06" ed="T"/>上形。左投輪。右施無畏右足上。西南方烏波<lb
+ n="0097c07" ed="T"/>計設尼童子如上形。二手花鉢。西方光綱童<lb
+ n="0097c08" ed="T"/>子。左拳置腰。右捧孔雀尾。西北方地慧童子。<lb
+ n="0097c09" ed="T"/>右手把三𦙶。如金剛藏王。北方無垢光童子<lb
+ n="0097c10" ed="T"/>如上形。左拳置腰。右索上。東北方不思議童<lb
+ n="0097c11" ed="T"/>子。左拳置腰。右劍地上物打勢也。一一身五<lb
+ n="0097c12" ed="T"/>色立輪。輪下一一有師子。如是說法。成就說<lb
+ n="0097c13" ed="T"/>法。高山頂造淨室。四十九日無言。斷火如法。<lb
+ n="0097c14" ed="T"/>百萬遍滿足。然後法成就獲得。<lb
+ n="0097c15" ed="T"/>復次法成就說符。<lb
+ n="0097c16" ed="T"/><lb
+ n="0097c17" ed="T"/><lb
+ n="0097c18" ed="T"/><lb
+ n="0097c19" ed="T"/>加法　口傳<lb
+ n="0097c20" ed="T"/>　　　地符<lb
+ n="0097c21" ed="T"/><lb
+ n="0097c22" ed="T"/><lb
+ n="0097c23" ed="T"/><lb
+ n="0097c24" ed="T"/>天符<lb
+ n="0097c25" ed="T"/><lb
+ n="0097c26" ed="T"/><lb
+ n="0097c27" ed="T"/><lb
+ n="0097c28" ed="T"/><lb
+ n="0097c29" ed="T"/>如是說已。末世眾生信受奉行。<pb n="0098a" id="T21.1219.0098a" ed="T"/><lb
+ n="0098a01" ed="T"/>
+</ab><ab type='juan' subtype='close'>焰摩德迦萬愛法一卷</ab></div><lb
+ n="0098a02" ed="T"/><div type='w' level='2'><ab type='prose'>保元二年七月二十三日。於勸修寺西明<lb
+ n="0098a03" ed="T"/>院住房　一校了。<lb
+ n="0098a04" ed="T"/>　　　　　　　　　　　　　僧智海</ab></div></div>
+</body></text></TEI>

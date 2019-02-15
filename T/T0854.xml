@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">胎藏梵字真言</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0854</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0164c" id="T18.0854.0164c" ed="T"/><lb
+ n="0164c01" ed="T"/><lb
+ n="0164c02" ed="T"/><lb
+ n="0164c03" ed="T"/>
+<ab type='juan' subtype='open'>胎藏梵字真言上卷</ab><lb
+ n="0164c04" ed="T"/><lb
+ n="0164c05" ed="T"/><div type='jing' level='2'><ab type='prose'>灑淨真言。<lb
+ n="0164c06" ed="T"/></ab>
+<ab type='dharani'>􇖵􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􇩄􄕙􄙺􄗫􇟄􄑘􄑘<lb
+ n="0164c07" ed="T"/>􄖩􄙺􄗫􇟄􄙺􄗥􆩗􄖭􄑘􄕝􇟄􇩄􆮧􄕙􄙘􄙦<lb
+ n="0164c08" ed="T"/>􇧼􇟄􄕻􇩷􄕼􄕛􄙘􄙪􄕻􄖫􇟄􇩉􄚩􇖴<lb
+ n="0164c09" ed="T"/></ab>
+<ab type='prose'>持地真言曰。<lb
+ n="0164c10" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄕗􄕤􄑘􄕘􇟄􄕽􆵌<lb
+ n="0164c11" ed="T"/>􄖪􄕽􆵍􄕝􆿅􄑼􄙐􇟄􄙘􄗥􄙐􇟄􅋌􄗽􄕑􇟄<lb
+ n="0164c12" ed="T"/>􇩄􆮧􄕙􄖵􄙀􄙦􇧼􇩉􄚩􇖴<lb
+ n="0164c13" ed="T"/></ab>
+<ab type='prose'>持香水真言曰（押紙。已下經二具緣品）。<lb
+ n="0164c14" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􇪪􈎭􇧺􈁀􇟄􆿅􅍉􄗷􇩉􄚩􇖴<lb
+ n="0164c15" ed="T"/></ab>
+<ab type='prose'>略奉持護摩真言曰。<lb
+ n="0164c16" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􆿔􄗥􄚩􄙣􆩘􄑘􄕗􄙣􆩘<lb
+ n="0164c17" ed="T"/>􄑀􄗽􇟄􇩄􄙢􄗥􄕻􇩷􄖫􈋷􄕗􇟄􆿅􄗚􄙖􇩉􄚩<lb
+ n="0164c18" ed="T"/>􄙖􄕻􅟇􄙺􈍇􄖪􄪽􆻤􇟄􇩉􄚩􇖴<lb
+ n="0164c19" ed="T"/></ab>
+<ab type='prose'>大力大護明妃真言曰。<lb
+ n="0164c20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􇩆􄕗􄕤􄑘􄕝􄢢􇟄􄙺􇩆􄗙􄗱􄙘􄑘􄕝􇧸<lb
+ n="0164c21" ed="T"/>􇟄􄙘􈂫􈁃􄑒􇧸􇟄􄙺􇩆􄕤􇟄􄚲􄑖􇟄􄗽􄚴􄗥􄚩<lb
+ n="0164c22" ed="T"/>􄙖􄙐􇟄􄙺􅞣􄕗􄕤􄑘􄕗􇟄􄖹􅝯􄖫􈅉􄕝􇩴<lb
+ n="0164c23" ed="T"/>􇩴􄩟􈁆􄩟􈁆􇟄􆿅􇩄􄖫􄚨􄕝􇟄􇩉􄚩􇖴<lb
+ n="0164c24" ed="T"/></ab>
+<ab type='prose'>入佛三昧耶真言曰。<lb
+ n="0164c25" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄙺􄗫􄩠􄙺􄗫􇟄􄙺<lb
+ n="0164c26" ed="T"/>􄗥􄗷􇩉􄚩􇖴<lb
+ n="0164c27" ed="T"/></ab>
+<ab type='prose'>法界生真言曰。<lb
+ n="0164c28" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕻􇩷􄕻􄕛􇟄􇩉􄚩􄙖<lb
+ n="0164c29" ed="T"/>􄑈􄚲􇖴<pb n="0165a" id="T18.0854.0165a" ed="T"/><lb
+ n="0165a01" ed="T"/></ab>
+<ab type='prose'>金剛薩埵真言曰。<lb
+ n="0165a02" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􈃄􇟄􄙖􇩶􈇪􄑈􄚲􇖴<lb
+ n="0165a03" ed="T"/></ab>
+<ab type='prose'>金剛鎧真言曰。<lb
+ n="0165a04" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄙖􄦽􄑀􄙖􄑼􇩴􇖴<lb
+ n="0165a05" ed="T"/></ab>
+<ab type='prose'>如來眼真言曰。<lb
+ n="0165a06" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕘􄑼􄚸􅧩􄙖􄙒<lb
+ n="0165a07" ed="T"/>􄑀􄗱􇩉􄚩􇖴<lb
+ n="0165a08" ed="T"/></ab>
+<ab type='prose'>塗香真言曰。<lb
+ n="0165a09" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄙘􄙦􇧹􄑘􆪤􇪮􄙖􇩉􄚩􇖴<lb
+ n="0165a10" ed="T"/></ab>
+<ab type='prose'>華供養真言曰。<lb
+ n="0165a11" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􄚩􄗬􈇢􄡼􆲪􄕝􇩉<lb
+ n="0165a12" ed="T"/>􄚩􇖴<lb
+ n="0165a13" ed="T"/></ab>
+<ab type='prose'>燒香真言曰。<lb
+ n="0165a14" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕻􇩷􄕻􄽙􄖭􄑘􄕝􇩉<lb
+ n="0165a15" ed="T"/>􄚩􇟄<lb
+ n="0165a16" ed="T"/></ab>
+<ab type='prose'>飲食真言曰。<lb
+ n="0165a17" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄗽􄗽􄑀􄗽􄗽􄙖􄙌􅛈<lb
+ n="0165a18" ed="T"/>􄕵􄗥􄚩􄙖􈁖􇩉􄚩􇖴<lb
+ n="0165a19" ed="T"/></ab>
+<ab type='prose'>燈明真言曰。<lb
+ n="0165a20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕘􅗗􇟄􆷱􄗽􄕋<lb
+ n="0165a21" ed="T"/>􄙖􄗚􄙺􄖩􇟄􄑘􄑘􄖲􄕰􅝩􇩉􄚩􇖴<lb
+ n="0165a22" ed="T"/></ab>
+<ab type='prose'>閼伽真言曰。<lb
+ n="0165a23" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄑘􄖩􄙺􄗦􄙺􄗥􇩉<lb
+ n="0165a24" ed="T"/>􄚩􇖴<lb
+ n="0165a25" ed="T"/></ab>
+<ab type='prose'>如來頂相真言曰。<lb
+ n="0165a26" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄑘􄖪􄖩􆩖􆷱􄗽􄕋􇟄<lb
+ n="0165a27" ed="T"/>􄙘􄙦􇧹􄕻􇩷􄖫􈅉􄕝􇩉􄚩􇖴<lb
+ n="0165a28" ed="T"/></ab>
+<ab type='prose'>如來甲真言曰。<lb
+ n="0165a29" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩄􄑼􆧽􄙖􄦽􈁊􄙊􇟄<lb
+ n="0165a30" ed="T"/>􄙘􆷵􄗽􇩴􇖴<lb
+ n="0165a31" ed="T"/></ab>
+<ab type='prose'>如來舌真言。<pb n="0165b" id="T18.0854.0165b" ed="T"/><lb
+ n="0165b01" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􄚩􄗥􄚩􄕗􄕤􄑘􄕘􄒸<lb
+ n="0165b02" ed="T"/>􅁰􇟄􄙺􄟗􄕻􅝝􇩄􄕙􆵍􄕗􇩉􄚩􇖴<lb
+ n="0165b03" ed="T"/></ab>
+<ab type='prose'>如來圓光真言曰。<lb
+ n="0165b04" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈁊􄙋􄗦􄙌􄖫􇟄􄕗􄕤􄑘<lb
+ n="0165b05" ed="T"/>􄕘􅗗􇩉􄚩􇖴<lb
+ n="0165b06" ed="T"/></ab>
+<ab type='prose'>無礙力真言曰（押紙云。已下第二卷普通<lb
+ n="0165b07" ed="T"/>真言藏品）。<lb
+ n="0165b08" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􄗥􄕘􄖭􄑘􄕗􄙖􄗽􄒶<lb
+ n="0165b09" ed="T"/>􄕻􅝝􄖫􅗭􄕗􇟄􄗥􄚩􄗥􄚨􇩉􄚩􇖴<lb
+ n="0165b10" ed="T"/></ab>
+<ab type='prose'>彌勒菩薩真言曰。<lb
+ n="0165b11" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄒸􄕡􄒶􄗷􇟄􄙺􇩆<lb
+ n="0165b12" ed="T"/>􄙺􄽚􄙢􄗲􄖭􄑘􄕗􇟄􇩉􄚩􇖴<lb
+ n="0165b13" ed="T"/></ab>
+<ab type='prose'>虛空藏真言曰。<lb
+ n="0165b14" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄑁􄙢􄙺􄗥􄕘􄖭􄑘<lb
+ n="0165b15" ed="T"/>􄕘􇟄􄙘􄑾􈂷􄗍􄗽􄕻􄗽􇟄􇩉􄚩􇖴<lb
+ n="0165b16" ed="T"/></ab>
+<ab type='prose'>除蓋障真言曰。<lb
+ n="0165b17" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈅺􄙺􄽙􄚪􄕘􄡼􆲪􄕗<lb
+ n="0165b18" ed="T"/>􇟄􄩨􄩨􄙈􄙈􇩉􄚩􇖴<lb
+ n="0165b19" ed="T"/></ab>
+<ab type='prose'>觀自在真言曰。<lb
+ n="0165b20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄙒􄑂<lb
+ n="0165b21" ed="T"/>􄕗􇟄􄑀􄙃􄕋􄗥􄗱􇟄􄗽􄗽􄗽􇩴􄓁􇩉􄚩􇖴<lb
+ n="0165b22" ed="T"/></ab>
+<ab type='prose'>得大勢至真言曰。<lb
+ n="0165b23" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄒶􄒶􄚧􇩉􄚩􇖴<lb
+ n="0165b24" ed="T"/></ab>
+<ab type='prose'>多羅尊真言曰。<lb
+ n="0165b25" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑀􄙃􄕑􇪮􄙜􇟄􄕘􄙄􄕘<lb
+ n="0165b26" ed="T"/>􄙀􄕍􇟄􇩉􄚩􇖴<lb
+ n="0165b27" ed="T"/></ab>
+<ab type='prose'>毘俱胝真言曰。<lb
+ n="0165b28" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄗙􄗱􄩟􈍇􈍇􇩴<lb
+ n="0165b29" ed="T"/>􆷱􈁆􄗱􇩉􄚩􇖴<lb
+ n="0165b30" ed="T"/></ab>
+<ab type='prose'>白處尊真言曰。<lb
+ n="0165b31" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕗􄙘􄙮􄗱􇟄􄚦<pb n="0165c" id="T18.0854.0165c" ed="T"/><lb
+ n="0165c01" ed="T"/>􄗙􄙜􇟄􄖵􇪯􄗦􄙌􄖫􇩉􄚩􇖴<lb
+ n="0165c02" ed="T"/></ab>
+<ab type='prose'>何耶揭嘌嚩真言曰。<lb
+ n="0165c03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩴􄑍􄕯􄕉􄓀􇟄􆷱􈁆<lb
+ n="0165c04" ed="T"/>􄗱􇟄􇩉􄚩􇖴<lb
+ n="0165c05" ed="T"/></ab>
+<ab type='prose'>地藏菩薩真言曰。<lb
+ n="0165c06" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚨􄚨􄚨􇟄􈂼􄕗􄖭􇟄􇩉<lb
+ n="0165c07" ed="T"/>􄚩􇖴<lb
+ n="0165c08" ed="T"/></ab>
+<ab type='prose'>文殊師利真言曰。<lb
+ n="0165c09" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚮􄚮􄑄􄗦􄗽􄑀􇟄􄙘􈁃<lb
+ n="0165c10" ed="T"/>􈁍􄖵􄕣􅁦􄕗􇟄􅋌􄗽􇥗􇩄􄕙􈇍􇩉􄚩􇖴<lb
+ n="0165c11" ed="T"/></ab>
+<ab type='prose'>金剛手真言曰。<lb
+ n="0165c12" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄑼􆧽􄗥􄚩􄙆􄙮􄕋<lb
+ n="0165c13" ed="T"/>􇩴􇖴<lb
+ n="0165c14" ed="T"/></ab>
+<ab type='prose'>忙莾計真言曰。<lb
+ n="0165c15" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􄩠􄓚􄩠􄓚􇟄􄒶􄗻􄕙􇟄􇩉<lb
+ n="0165c16" ed="T"/>􄚩􇖴<lb
+ n="0165c17" ed="T"/></ab>
+<ab type='prose'>金剛鎖真言曰。<lb
+ n="0165c18" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􇩴􄗍􈏎􄗍􈏎􄗱􇟄􄗭<lb
+ n="0165c19" ed="T"/>􄓚􄗭􄓚􄗱􇟄􄙖􄧃􇪮􄙜􇟄􄙺􇩆􈅆􇩄􄕙􄚨􄕝􇟄<lb
+ n="0165c20" ed="T"/>􇩉􄚩􇖴<lb
+ n="0165c21" ed="T"/></ab>
+<ab type='prose'>金剛月靨真言曰。<lb
+ n="0165c22" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􈁐􇩴􄗁􄓚􇟄􇩉􄚩􇖴<lb
+ n="0165c23" ed="T"/></ab>
+<ab type='prose'>金剛針真言曰。<lb
+ n="0165c24" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄙺􅞣􄕻􈆺􄖫􄙜􄕻􄖫<lb
+ n="0165c25" ed="T"/>􄙖􄦽􈂼􄑾􄙖􄗽􄕵􇟄􇩉􄚩􇖴<lb
+ n="0165c26" ed="T"/></ab>
+<ab type='prose'>一切持金剛真言曰。<lb
+ n="0165c27" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􇩴􇩴􇩴􄗁􈁆􄗁􈁆<lb
+ n="0165c28" ed="T"/>􄓀􄓀􇩉􄚩􇖴<lb
+ n="0165c29" ed="T"/></ab>
+<ab type='prose'>一切奉教真言曰。<lb
+ n="0165c30" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄚮􄚮􈃛􄑾􄗾􄗱􄙼􇟄<lb
+ n="0165c31" ed="T"/>􈃈􈁒􈃈􈁒􇟄􄑍􄕯􄑍􄕯􄖵􄙀􈁂􄗽􄗱􇟄􄙺􅞣􈆡<pb n="0166a" id="T18.0854.0166a" ed="T"/><lb
+ n="0166a01" ed="T"/>􄑀􄗾􄕕􅁥􇩄􄕙􈂤􇟄􇩉􄚩􇖴<lb
+ n="0166a02" ed="T"/></ab>
+<ab type='prose'>釋迦牟尼真言曰。<lb
+ n="0166a03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄯁􄙢􄖫􄙺􈍇􄖩􇟄<lb
+ n="0166a04" ed="T"/>􄙺􇩆􄕻􈆺􄙖􄙤􄗾􄪼􆻤􇟄􄑘􄑘􄖩􄙺􄗦􄙺<lb
+ n="0166a05" ed="T"/>􄗥􇟄􇩉􄚩􇖴<lb
+ n="0166a06" ed="T"/></ab>
+<ab type='prose'>毫相真言曰。<lb
+ n="0166a07" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙖􄗾􄕵􄙖􄗽􄪽􆻪<lb
+ n="0166a08" ed="T"/>􇩴􇖴<lb
+ n="0166a09" ed="T"/></ab>
+<ab type='prose'>一切諸佛頂真言曰。<lb
+ n="0166a10" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙠􄙠􄙠􇩴􇩴􄗁<lb
+ n="0166a11" ed="T"/>􈁆􇟄􇩉􄚩􇖴<lb
+ n="0166a12" ed="T"/></ab>
+<ab type='prose'>無能勝真言曰。<lb
+ n="0166a13" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈁔􈁔􈋈􈋈􈋀􈋀􇩉􄚩􇖴<lb
+ n="0166a14" ed="T"/></ab>
+<ab type='prose'>無能勝妃真言曰。<lb
+ n="0166a15" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄖶􄗾􄒸􄕝􇟄􄒶􄗻<lb
+ n="0166a16" ed="T"/>􄕙􄕗􄓴􄕝􇟄􇩉􄚩􇖴<lb
+ n="0166a17" ed="T"/></ab>
+<ab type='prose'>地神真言曰。<lb
+ n="0166a18" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆯷􄕥􄣅􇟄􇩉􄚩􇖴<lb
+ n="0166a19" ed="T"/></ab>
+<ab type='prose'>毘紐天真言曰。<lb
+ n="0166a20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙘􈇡􄙜􇟄􇩉􄚩􇖴<lb
+ n="0166a21" ed="T"/></ab>
+<ab type='prose'>伊舍那天真言曰。<lb
+ n="0166a22" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙃􇪰􄗲􇩉􄚩􇖴<lb
+ n="0166a23" ed="T"/></ab>
+<ab type='prose'>風神真言曰。<lb
+ n="0166a24" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙗􄗱􄙜􇟄􇩉􄚩􇖴<lb
+ n="0166a25" ed="T"/></ab>
+<ab type='prose'>六美音天。<lb
+ n="0166a26" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈂼􄗽􇩉􄟞􇟄􇩉􄚩􇖴<lb
+ n="0166a27" ed="T"/></ab>
+<ab type='prose'>羅剎主真言曰。<lb
+ n="0166a28" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗾􄚴􄙻􄕽􄖵􄕗􄗷􇟄<lb
+ n="0166a29" ed="T"/>􇩉􄚩􇖴<lb
+ n="0166a30" ed="T"/></ab>
+<ab type='prose'>四閻魔真言曰。<lb
+ n="0166a31" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙝􄙖􅁤􄕘􄗱􇟄􇩉<pb n="0166b" id="T18.0854.0166b" ed="T"/><lb
+ n="0166b01" ed="T"/>􄚩􇖴<lb
+ n="0166b02" ed="T"/></ab>
+<ab type='prose'>三死王真言曰。<lb
+ n="0166b03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩸􄟗􄙜􇩉􄚩􇖴<lb
+ n="0166b04" ed="T"/></ab>
+<ab type='prose'>黑夜神真言曰。<lb
+ n="0166b05" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑁􄙊􄗾􈋁􄗷􇟄􇩉􄚩􇖴<lb
+ n="0166b06" ed="T"/></ab>
+<ab type='prose'>七母等真言曰。<lb
+ n="0166b07" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􆯣􇧸􇟄􇩉􄚩􇖴<lb
+ n="0166b08" ed="T"/></ab>
+<ab type='prose'>釋提桓因真言曰。<lb
+ n="0166b09" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙢􄥇􄗱􇟄􇩉􄚩􇖴<lb
+ n="0166b10" ed="T"/></ab>
+<ab type='prose'>嚩嚕拏龍真言曰。<lb
+ n="0166b11" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􈃽􄖵􄕗􄗷􇟄􇩉􄚩􇖴<lb
+ n="0166b12" ed="T"/></ab>
+<ab type='prose'>五梵天真言曰。<lb
+ n="0166b13" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩄􄒶􄖵􄕗􄗷􇟄􄚩􇖴<lb
+ n="0166b14" ed="T"/></ab>
+<ab type='prose'>日天真言曰。<lb
+ n="0166b15" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄕱􄟘􄗱􇟄􇩉􄚩􇖴<lb
+ n="0166b16" ed="T"/></ab>
+<ab type='prose'>月天真言。<lb
+ n="0166b17" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑼􈆦􄗱􇟄􇩉􄚩􇖴<lb
+ n="0166b18" ed="T"/></ab>
+<ab type='prose'>十諸龍真言。<lb
+ n="0166b19" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗫􄑤􄙢􄖬􄗷􇟄􇩉􄚩􇖴<lb
+ n="0166b20" ed="T"/></ab>
+<ab type='prose'>難陀跋難陀真言曰。<lb
+ n="0166b21" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄖩􆩴􄖵􄖩􆩮􄗱􇟄􇩉<lb
+ n="0166b22" ed="T"/>􄚩􇖴<lb
+ n="0166b23" ed="T"/></ab>
+<ab type='prose'>虛空眼明妃真言曰。<lb
+ n="0166b24" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄑘􄖩􄙖􄗽􄙊􄚴􄕑􇟄<lb
+ n="0166b25" ed="T"/>􄑘􄑘􄖩􄙺􄗥􄗱􇟄􄙺􇩆􄕟􆲪􄕘􇟄􄗛􄙻􄗽􄚦<lb
+ n="0166b26" ed="T"/>􄗙􄙜􇟄􈁊􄙊􄖪􄗭􄑥􈁀􇟄􇩉􄚩􇖴<lb
+ n="0166b27" ed="T"/></ab>
+<ab type='prose'>不動主真言曰。<lb
+ n="0166b28" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄑼􄓺􄗥􄚩􄙆􄙮􄕋􇟄<lb
+ n="0166b29" ed="T"/>􆷱􈁆􄗱􇩴􈇳􄑀􈁅􈁝􇖴<lb
+ n="0166b30" ed="T"/></ab>
+<ab type='prose'>降三世真言曰。<lb
+ n="0166b31" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄚨􄚨􄚨􇟄􄙘􅋌􄗷􇟄􄙺<pb n="0166c" id="T18.0854.0166c" ed="T"/><lb
+ n="0166c01" ed="T"/>􅞣􄕗􄕤􄑘􄕘􇟄􄙘􄙮􄗱􄚦􄗙􄙖􇟄􈉩􄙒􄛀􄙘<lb
+ n="0166c02" ed="T"/>􄒶􄗱􇩴􄓁􇟄􇩉􄚩􇖴<lb
+ n="0166c03" ed="T"/></ab>
+<ab type='prose'>聲聞真言曰。<lb
+ n="0166c04" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑆􄕛􇩄􄟗􄗱􇟄􄙘􄑘<lb
+ n="0166c05" ed="T"/>􄕗􄑀􇩷􄖫􅗭􄕗􇟄􇩴􇖴<lb
+ n="0166c06" ed="T"/></ab>
+<ab type='prose'>緣覺真言曰。<lb
+ n="0166c07" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙡􇖴<lb
+ n="0166c08" ed="T"/></ab>
+<ab type='prose'>普一切諸佛菩薩心真言曰。<lb
+ n="0166c09" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􅞣􈎭􇧺􄗕􄕽􄙺􄽙􇟄<lb
+ n="0166c10" ed="T"/>􆱨􄕯􄗻􄡉􄙜􄙢􈋃􇟄􄖩􄗰􄙺􅞣􄙘􄕵􇟄􇩉􄚩􇖴<lb
+ n="0166c11" ed="T"/></ab>
+<ab type='prose'>普世明妃真言曰。<lb
+ n="0166c12" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙒􄑁􄙒􄑁􄑀􄗾􄗱􇟄<lb
+ n="0166c13" ed="T"/>􄙺􇩆􄕵􄙖􄖪􄑘􄗱􄚴􄑘􈏎􅞤􇟄􆿅􈂼􄗽􄑘􄙃<lb
+ n="0166c14" ed="T"/>􄓲􈆡􄕯􄗽􇟄􄗥􄚩􄗽􄑙􄕱􇟄􆱨􄕯􄗲􇟄􄡉􄑀<lb
+ n="0166c15" ed="T"/>􅞻􄗱􇟄􄙘􄑾􇩌􄑘􄕙􇟄􇩉􄚩􇖴<lb
+ n="0166c16" ed="T"/></ab>
+<ab type='prose'>一切諸佛真言曰。<lb
+ n="0166c17" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄕤􇟄􄙘􄗥􄕙􄙘􄑂<lb
+ n="0166c18" ed="T"/>􄗽􈇱􇟄􄕻􇩷􄕼􄕛􄖫􅗭􄕗􄚦􄚦􄚨􇟄􇩉􄚩􇖴<lb
+ n="0166c19" ed="T"/></ab>
+<ab type='prose'>不可越守護門真言曰。<lb
+ n="0166c20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄓲􅛔􅞻􄗥􄚩􄙆􄙮<lb
+ n="0166c21" ed="T"/>􄕋􇟄􄑍􄕯􄗱􄙺􈊷􄕗􄕤􄑘􄕘􈆷􄑄􄙃􇟄􇩉􄚩􇖴<lb
+ n="0166c22" ed="T"/></ab>
+<ab type='prose'>相向守護門真言曰。<lb
+ n="0166c23" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄗛􈁃􄑌􄚮􄗥􄚩􄪼􄑼<lb
+ n="0166c24" ed="T"/>􄓺􇟄􆿅􄗛􈁃􄑍􇟄􈃈􈁒􄑌􄕯􄗱􇟄􄑂􄑾􄗽􄗱<lb
+ n="0166c25" ed="T"/>􄙼􇟄􄙺􄗥􄗱􄗥􄖭􅋌􄗽􇟄􇩉􄚩􇖴<lb
+ n="0166c26" ed="T"/></ab>
+<ab type='prose'>大結界真言曰。<lb
+ n="0166c27" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􈇳􄖭􄑘􄕝􇟄􄙖􄾫<lb
+ n="0166c28" ed="T"/>􄗱􄙽􄗯􇟄􄗥􄚩􄙺􄗥􄗱􄖫􅗭􄕝􇟄􅋌􄗽􄕋􆿅􇩄<lb
+ n="0166c29" ed="T"/>􄕙􄚨􄕵􇟄􄕻􄑀􄕻􄑀􇟄􄑼􄗽􄑼􄗽􇟄􄙖􄾫􇟄<lb
+ n="0166c30" ed="T"/>􄕯􄙢􈋅􄙬􇟄􄙺􇩆􄕗􄕤􄑘􄕘􄓲􈂤􄕝􇟄􇩄􄙖<lb
+ n="0166c31" ed="T"/>􄗽􄕻􅝝􄙊􇧹􄗏􄒶􄗷􇟄􄗙􄑘􄙖􄕙􇟄􄗏􄑄􄙃􄗏<pb n="0167a" id="T18.0854.0167a" ed="T"/><lb
+ n="0167a01" ed="T"/>􄑄􄙐􇟄􄙐􄙌􄖹􄙀􇟄􇩉􄚩􇖴<lb
+ n="0167a02" ed="T"/></ab>
+<ab type='prose'>菩提心真言。<lb
+ n="0167a03" ed="T"/></ab>
+<ab type='dharani'>􄗕􄕽􆿅􇖴<lb
+ n="0167a04" ed="T"/></ab>
+<ab type='prose'>菩提行真言。<lb
+ n="0167a05" ed="T"/></ab>
+<ab type='dharani'>􄑼􇩈􆿆􇖴<lb
+ n="0167a06" ed="T"/></ab>
+<ab type='prose'>成菩提真言曰。<lb
+ n="0167a07" ed="T"/></ab>
+<ab type='dharani'>􄚦􄗕􄕽􆿓􇖴<lb
+ n="0167a08" ed="T"/></ab>
+<ab type='prose'>涅槃真言曰。<lb
+ n="0167a09" ed="T"/></ab>
+<ab type='dharani'>􄖫􅞤􄕋􇟄􆿔􇖴<lb
+ n="0167a10" ed="T"/></ab>
+<ab type='prose'>降三世真言曰。<lb
+ n="0167a11" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄩞􄙒􄛀􄗏􄒶􄗱􈉦􇖴<lb
+ n="0167a12" ed="T"/></ab>
+<ab type='prose'>不動尊真言曰。<lb
+ n="0167a13" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􈍇􇖴<lb
+ n="0167a14" ed="T"/></ab>
+<ab type='prose'>無動尊真言曰。<lb
+ n="0167a15" ed="T"/></ab>
+<ab type='dharani'>􆿅􄑼􄙊􄖩􈉸􇖴<lb
+ n="0167a16" ed="T"/></ab>
+<ab type='prose'>除蓋障真言曰。<lb
+ n="0167a17" ed="T"/></ab>
+<ab type='dharani'>􄙺􅞣􄖬􄙖􄗽􄕋􄗏􈋆􄗜􇖴<lb
+ n="0167a18" ed="T"/></ab>
+<ab type='prose'>除蓋障真言曰。<lb
+ n="0167a19" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿔􇖴<lb
+ n="0167a20" ed="T"/></ab>
+<ab type='prose'>觀自在真言曰。<lb
+ n="0167a21" ed="T"/></ab>
+<ab type='dharani'>􆿅􄙖􄙒􄑂􄕝􈂫􄗽􇟄􄚧􇖴<lb
+ n="0167a22" ed="T"/></ab>
+<ab type='prose'>金剛手真言曰。<lb
+ n="0167a23" ed="T"/></ab>
+<ab type='dharani'>􄙖􄦽􄖶􄕍􇟄􄙖􄦽􄕕􄙡􇖴<lb
+ n="0167a24" ed="T"/></ab>
+<ab type='prose'>文殊師利真言曰。<lb
+ n="0167a25" ed="T"/></ab>
+<ab type='dharani'>􈆿􄒺􈊸􇟄􈎭􇧹􈁀􄗯􇖴<lb
+ n="0167a26" ed="T"/></ab>
+<ab type='prose'>虛空眼真言曰。<lb
+ n="0167a27" ed="T"/></ab>
+<ab type='dharani'>􄑘􄑘􄖩􄙒􄑼􄖪􇟄􄑢􇖴<lb
+ n="0167a28" ed="T"/></ab>
+<ab type='prose'>法界真言曰。<lb
+ n="0167a29" ed="T"/></ab>
+<ab type='dharani'>􄕻􇩷􄕼􄩩􄙈􇖴<lb
+ n="0167a30" ed="T"/></ab>
+<ab type='prose'>大勤勇真言。<pb n="0167b" id="T18.0854.0167b" ed="T"/><lb
+ n="0167b01" ed="T"/></ab>
+<ab type='dharani'>􄗥􄚩􄙙􄙉􇟄􄑖􇖴<lb
+ n="0167b02" ed="T"/></ab>
+<ab type='prose'>水自在真言曰。<lb
+ n="0167b03" ed="T"/></ab>
+<ab type='dharani'>􄒶􄙑􈂫􄗾􇟄􄓀􇖴<lb
+ n="0167b04" ed="T"/></ab>
+<ab type='prose'>多羅尊真言曰。<lb
+ n="0167b05" ed="T"/></ab>
+<ab type='dharani'>􄕘􄗾􄕵􄙙􇟄􄕡􇖴<lb
+ n="0167b06" ed="T"/></ab>
+<ab type='prose'>毘俱胝真言曰。<lb
+ n="0167b07" ed="T"/></ab>
+<ab type='dharani'>􇧸􇟄􆱄􄑄􄓝􇖴<lb
+ n="0167b08" ed="T"/></ab>
+<ab type='prose'>得大勢至真言曰。<lb
+ n="0167b09" ed="T"/></ab>
+<ab type='dharani'>􄚦􇟄􄗥􄚩􇩉􄗥􄪽􆻯􇖴<lb
+ n="0167b10" ed="T"/></ab>
+<ab type='prose'>白處尊真言曰。<lb
+ n="0167b11" ed="T"/></ab>
+<ab type='dharani'>􄖿􇟄􄖵􄓸􄗽􄙗􄙼􄖬􇖴<lb
+ n="0167b12" ed="T"/></ab>
+<ab type='prose'>何耶揭嘌嚩真言曰。<lb
+ n="0167b13" ed="T"/></ab>
+<ab type='dharani'>􄚲􇟄􄚨􄗱􄥢􄙡􇖴<lb
+ n="0167b14" ed="T"/></ab>
+<ab type='prose'>耶輸陀羅真言曰。<lb
+ n="0167b15" ed="T"/></ab>
+<ab type='dharani'>􄗻􇟄􄗱􄙪􄕻􄗾􇖴<lb
+ n="0167b16" ed="T"/></ab>
+<ab type='prose'>寶手真言。<lb
+ n="0167b17" ed="T"/></ab>
+<ab type='dharani'>􄚦􇟄􄗽􅑈􄖶􄕍􇖴<lb
+ n="0167b18" ed="T"/></ab>
+<ab type='prose'>光網真言曰。<lb
+ n="0167b19" ed="T"/></ab>
+<ab type='dharani'>􄓀􇟄􄒶􄙌􄖬􇩄􄗙􇖴<lb
+ n="0167b20" ed="T"/></ab>
+<ab type='prose'>釋迦牟尼真言曰。<lb
+ n="0167b21" ed="T"/></ab>
+<ab type='dharani'>􄗤􇟄􄙢􄛀􈁃􄖫􇖴<lb
+ n="0167b22" ed="T"/></ab>
+<ab type='prose'>□佛頂真言曰。<lb
+ n="0167b23" ed="T"/></ab>
+<ab type='dharani'>􇩴􇩴􄚦􈆭􇟄􇩴􈋱􇟄􆿉􈃇􄙮􇩌􄗻􇖴<lb
+ n="0167b24" ed="T"/></ab>
+<ab type='prose'>白傘蓋佛頂真言曰。<lb
+ n="0167b25" ed="T"/></ab>
+<ab type='dharani'>􄙔􇟄􄙼􄕘􄕗􄖵􇩌􇖴<lb
+ n="0167b26" ed="T"/></ab>
+<ab type='prose'>勝佛頂真言曰。<lb
+ n="0167b27" ed="T"/></ab>
+<ab type='dharani'>􄙬􇟄􄒶􄗹􈃇􄙮􇖴<lb
+ n="0167b28" ed="T"/></ab>
+<ab type='prose'>最勝佛頂真言曰。<lb
+ n="0167b29" ed="T"/></ab>
+<ab type='dharani'>􄙥􄙽􇟄􄙘􄒶􄗹􈃇􄙮􇖴<pb n="0167c" id="T18.0854.0167c" ed="T"/><lb
+ n="0167c01" ed="T"/></ab>
+<ab type='prose'>光聚佛頂真言。<lb
+ n="0167c02" ed="T"/></ab>
+<ab type='dharani'>􈁓􇟄􄕝􄒼􄗾􄙤􇖴<lb
+ n="0167c03" ed="T"/></ab>
+<ab type='prose'>除障佛頂真言。<lb
+ n="0167c04" ed="T"/></ab>
+<ab type='dharani'>􄮭􇟄􄙘􄑂􄗽􄕋􄖿􄒦􈃇􄙮􇖴<lb
+ n="0167c05" ed="T"/></ab>
+<ab type='prose'>世明妃真言曰。<lb
+ n="0167c06" ed="T"/></ab>
+<ab type='dharani'>􄕡􄚲􄖿􄚲􄗻􇟄􄗏􄟰􄗾􈃇􄙒􄑆􇖴<lb
+ n="0167c07" ed="T"/></ab>
+<ab type='prose'>無能勝真言曰。<lb
+ n="0167c08" ed="T"/></ab>
+<ab type='dharani'>􈆭􇟄􆿅􄖵􄗾􄒸􄗾􇖴<lb
+ n="0167c09" ed="T"/></ab>
+<ab type='prose'>地神真言曰。<lb
+ n="0167c10" ed="T"/></ab>
+<ab type='dharani'>􄗏􇟄􆯷􄕥􄙙􇖴<lb
+ n="0167c11" ed="T"/></ab>
+<ab type='prose'>計設尼真言曰。<lb
+ n="0167c12" ed="T"/></ab>
+<ab type='dharani'>􄑂􄙌􇟄􄑆􄙤􄖬􇖴<lb
+ n="0167c13" ed="T"/></ab>
+<ab type='prose'>烏婆計設尼真言曰。<lb
+ n="0167c14" ed="T"/></ab>
+<ab type='dharani'>􄕱􄙌􇟄􆿉􄖵􄑆􄙤􄖬􇖴<lb
+ n="0167c15" ed="T"/></ab>
+<ab type='prose'>質多羅童子真言曰。<lb
+ n="0167c16" ed="T"/></ab>
+<ab type='dharani'>􄗧􄙌􇟄􄑾􄩟􇖴<lb
+ n="0167c17" ed="T"/></ab>
+<ab type='prose'>財惠童子真言曰。<lb
+ n="0167c18" ed="T"/></ab>
+<ab type='dharani'>􄚪􄙌􇟄􄙖􈂼􄗥􄕙􇖴<lb
+ n="0167c19" ed="T"/></ab>
+<ab type='prose'>除疑怪真言曰。<lb
+ n="0167c20" ed="T"/></ab>
+<ab type='dharani'>􄚨􄙺􈁀􇟄􄚱􄑄􄚨􄙌􄖴􇖴<lb
+ n="0167c21" ed="T"/></ab>
+<ab type='prose'>施一切眾生無畏真言曰。<lb
+ n="0167c22" ed="T"/></ab>
+<ab type='dharani'>􄗽􄙺􈁀􇟄􄙺􇩆􄙺􄽚􄗙􄗻􄕯􄕵􇖴<lb
+ n="0167c23" ed="T"/></ab>
+<ab type='prose'>除一切惡趣真言曰。<lb
+ n="0167c24" ed="T"/></ab>
+<ab type='dharani'>􈍇􄙺􄖳􇟄􄙺􇩆􄖶􄗲􄒶􄚳􇖴<lb
+ n="0167c25" ed="T"/></ab>
+<ab type='prose'>哀愍惠真言曰。<lb
+ n="0167c26" ed="T"/></ab>
+<ab type='dharani'>􈍇􄙺􄖳􇟄􈍇<lb
+ n="0167c27" ed="T"/></ab>
+<ab type='prose'>大慈生真言。<lb
+ n="0167c28" ed="T"/></ab>
+<ab type='dharani'>􄓰􇟄􄗥􄚩􄗬􈇢􈋇􆲪􄕗􇖴<lb
+ n="0167c29" ed="T"/></ab>
+<ab type='prose'>大□纏真言曰。<lb
+ n="0167c30" ed="T"/></ab>
+<ab type='dharani'>􄗻􇟄􄗥􄚩􄑀􄙃􈇱􇩄􄕙􄕗􇖴<pb n="0168a" id="T18.0854.0168a" ed="T"/><lb
+ n="0168a01" ed="T"/></ab>
+<ab type='prose'>除一切熱惱真言曰。<lb
+ n="0168a02" ed="T"/></ab>
+<ab type='dharani'>􈉁􈍇􅞣􄕰􄚨􇩄􄙢􄗧􄖩􇖴<lb
+ n="0168a03" ed="T"/></ab>
+<ab type='prose'>不可思議真言曰。<lb
+ n="0168a04" ed="T"/></ab>
+<ab type='dharani'>􇇴􇟄􆿅􄑾􈃭􄗥􄕙􄕯􆽕􇖴<lb
+ n="0168a05" ed="T"/></ab>
+<ab type='prose'>地藏旗真言曰。<lb
+ n="0168a06" ed="T"/></ab>
+<ab type='dharani'>􄚨􄚨􄚨􇟄􄗏􄙺􇩆􄙣􄖵􄙀􈁂􄗾􄑀􇩉􄚩􇖴<lb
+ n="0168a07" ed="T"/></ab>
+<ab type='prose'>寶處真言曰。<lb
+ n="0168a08" ed="T"/></ab>
+<ab type='dharani'>􄕹􄓀􇟄􄗽􇩋􄑀􄗽􇖴<lb
+ n="0168a09" ed="T"/></ab>
+<ab type='prose'>寶手真言曰。<lb
+ n="0168a10" ed="T"/></ab>
+<ab type='dharani'>􄙮􇟄􄗽􅑈􄖶􄕍􇖴<lb
+ n="0168a11" ed="T"/></ab>
+<ab type='prose'>持地真言曰。<lb
+ n="0168a12" ed="T"/></ab>
+<ab type='dharani'>􄑺􇟄􄕻􄗽􄕍􄾫􄗽􄓘􇖴<lb
+ n="0168a13" ed="T"/></ab>
+<ab type='prose'>寶印手真言曰。<lb
+ n="0168a14" ed="T"/></ab>
+<ab type='dharani'>􄗋􇟄􄗽􅑈􈁃􄩷􄚨􆶩􇖴<lb
+ n="0168a15" ed="T"/></ab>
+<ab type='prose'>堅固意真言曰。<lb
+ n="0168a16" ed="T"/></ab>
+<ab type='dharani'>􈃄􇟄􆯫􄓾􄟼􄙢􄗱􇖴<lb
+ n="0168a17" ed="T"/></ab>
+<ab type='prose'>虛空無垢真言曰。<lb
+ n="0168a18" ed="T"/></ab>
+<ab type='dharani'>􄚲􇟄􄑘􄑘􄖪􄗥􄙊􇖴<lb
+ n="0168a19" ed="T"/></ab>
+<ab type='prose'>虛空惠真言曰。<lb
+ n="0168a20" ed="T"/></ab>
+<ab type='dharani'>􈋈􇟄􄑘􄑘􄖩􄗥􄕝􇖴<lb
+ n="0168a21" ed="T"/></ab>
+<ab type='prose'>清淨惠真言曰。<lb
+ n="0168a22" ed="T"/></ab>
+<ab type='dharani'>􄑘􄕡􇟄􄗏􄙦􇧹􄗥􄕝􇖴<lb
+ n="0168a23" ed="T"/></ab>
+<ab type='prose'>行□真言曰。<lb
+ n="0168a24" ed="T"/></ab>
+<ab type='dharani'>􄕽􄙈􇟄􄙀􇩌􄗥􄕝􇖴<lb
+ n="0168a25" ed="T"/></ab>
+<ab type='prose'>□惠真言曰。<lb
+ n="0168a26" ed="T"/></ab>
+<ab type='dharani'>􈍇􄙼􄗽􈎭􇧼􇖴<lb
+ n="0168a27" ed="T"/></ab>
+<ab type='prose'>□。<lb
+ n="0168a28" ed="T"/></ab>
+<ab type='dharani'>􈍇􈊸􄚨􄭛􇟄􄑂􄗾􈇱􇖴<lb
+ n="0168a29" ed="T"/></ab>
+<ab type='prose'>諸菩薩所說真言曰。<pb n="0168b" id="T18.0854.0168b" ed="T"/><lb
+ n="0168b01" ed="T"/></ab>
+<ab type='dharani'>􄚿􄓲􄕗􄗽􄗻􄑊􇟄􄗱􄕫􈅂􄗕􄕽􄙺􄽚􇖴<lb
+ n="0168b02" ed="T"/></ab>
+<ab type='prose'>淨居真言曰。<lb
+ n="0168b03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗭􄗽􄗥􄕻􅝝􄚦􄗙􄙖􄗏􄗙􄙖􇟄􄑀􄕣􄖩􄚦<lb
+ n="0168b04" ed="T"/>􄚦􄙺􄕝􇩉􄚩􇖴<lb
+ n="0168b05" ed="T"/></ab>
+<ab type='prose'>淨居天真言曰。<lb
+ n="0168b06" ed="T"/></ab>
+<ab type='dharani'>􄙦􈒻􄙖􄚩􇖴<lb
+ n="0168b07" ed="T"/></ab>
+<ab type='prose'>羅剎娑真言曰。<lb
+ n="0168b08" ed="T"/></ab>
+<ab type='dharani'>􄥑􄑆􄙀􇟄􄗾􄚴􄙺􇖴<lb
+ n="0168b09" ed="T"/></ab>
+<ab type='prose'>諸荼吉尼真言曰。<lb
+ n="0168b10" ed="T"/></ab>
+<ab type='dharani'>􇩵􄚳􇟄􄓲􄑂􄖬􈁀􇖴<lb
+ n="0168b11" ed="T"/></ab>
+<ab type='prose'>藥叉女真言曰。<lb
+ n="0168b12" ed="T"/></ab>
+<ab type='dharani'>􄗱􄚴􄗏􄟰􄕻􄙀􇟄􄗱􄚶􄕎􈁀􇖴<lb
+ n="0168b13" ed="T"/></ab>
+<ab type='prose'>諸毘舍遮真言曰。<lb
+ n="0168b14" ed="T"/></ab>
+<ab type='dharani'>􄖷􄑾􄖷􄑾􇟄􄖷􄙣􄑾􄖬􈁀􇖴<lb
+ n="0168b15" ed="T"/></ab>
+<ab type='prose'>諸部多羅真言曰。<lb
+ n="0168b16" ed="T"/></ab>
+<ab type='dharani'>􈉎􈉁􄑜􆿇􄗯􄚦􄕝􇟄􄗞􄕘􈁀􇟄<lb
+ n="0168b17" ed="T"/></ab>
+<ab type='prose'>諸阿修羅真言曰。<lb
+ n="0168b18" ed="T"/></ab>
+<ab type='dharani'>􄗽􄓤􄗽􄓤􈆮􄕡􄫬􇟄􆿅􆿅􇩄􇖴<lb
+ n="0168b19" ed="T"/></ab>
+<ab type='prose'>諸摩睺囉伽真言曰。<lb
+ n="0168b20" ed="T"/></ab>
+<ab type='dharani'>􄗾􇟄􄑘􄗽􄙔􈃐􄗽􈃗􇖴<lb
+ n="0168b21" ed="T"/></ab>
+<ab type='prose'>摩睺羅伽真言曰。<lb
+ n="0168b22" ed="T"/></ab>
+<ab type='dharani'>􄗥􄚰􄗽􄑘􇖴<lb
+ n="0168b23" ed="T"/></ab>
+<ab type='prose'>諸緊那羅真言曰。<lb
+ n="0168b24" ed="T"/></ab>
+<ab type='dharani'>􄚨􄑌􄙺􄖳􄗏􄚨􄙺􄖳􇟄􄑂􆩖􄗽􈃄􇖴<lb
+ n="0168b25" ed="T"/></ab>
+<ab type='prose'>諸人真言曰。<lb
+ n="0168b26" ed="T"/></ab>
+<ab type='dharani'>􆿇􇩺􄖵􄙈􄗥􈃂􄗥􄗷􄗫􅁤􄚩􄗥􄖭􄣖􄕕􇖴<lb
+ n="0168b27" ed="T"/>􄓦􇖴<lb
+ n="0168b28" ed="T"/></ab>
+<ab type='prose'>無所不至真言曰　已下第三卷（押紙云。<lb
+ n="0168b29" ed="T"/>已下第三卷悉地出現品）。<lb
+ n="0168b30" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄙄􄢢􇟄􄗏􈂫􈁃􄑒􇧸􄙺􇩆<pb n="0168c" id="T18.0854.0168c" ed="T"/><lb
+ n="0168c01" ed="T"/>􄕤􇟄􆿅􆿆􆿓􆿔􇖴<lb
+ n="0168c02" ed="T"/></ab>
+<ab type='prose'>□空藏明妃真言曰。<lb
+ n="0168c03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􇩆􄕗􄕤􄑘􄕝􄢢􇟄􄙘􈂫􈁃􄑒􇧸􇟄􄙺􇩆<lb
+ n="0168c04" ed="T"/>􄕤􄑖􇟄􇇳􆲪􄕝􆷱􄗽􄚫􄗯􇟄􄑘􄑘􄖩􄑊􇟄􇩉<lb
+ n="0168c05" ed="T"/>􄚩􇖴<lb
+ n="0168c06" ed="T"/></ab>
+<ab type='prose'>滿足一切金剛字句真言曰。<lb
+ n="0168c07" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈅺􄗏􄗽􇩴􄑖􇖴<lb
+ n="0168c08" ed="T"/></ab>
+<ab type='prose'>無礙力明妃真言曰（押紙云。已下第三卷<lb
+ n="0168c09" ed="T"/>轉字輪マタラ行品）。<lb
+ n="0168c10" ed="T"/></ab>
+<ab type='dharani'>􄕗􇩊􄕤􄑘􄑘􄖩􄙺􄗫􇟄􆿅􇩄􄕙􄙺􄗫􇟄􄙺􇩆<lb
+ n="0168c11" ed="T"/>􄕗􄕤􄑘􄕘􄙺􆩖􆯣􄑘􇟄􄑘􄑘􄖩􄙺􄗥􇟄　􄙖<lb
+ n="0168c12" ed="T"/>􄗽􄙊􄚴􄕑􇟄􇩉􄚩􇖴<lb
+ n="0168c13" ed="T"/></ab>
+<ab type='prose'>救世者真言曰。<lb
+ n="0168c14" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􇖴<lb
+ n="0168c15" ed="T"/></ab>
+<ab type='prose'>無能害力明妃真言曰。<lb
+ n="0168c16" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕝􇧸􇟄􄙺􅞣􈁃􄑒􇧸􇟄􆿅􄙺<lb
+ n="0168c17" ed="T"/>􄗫􄖵􄗽􄗫􇟄􆿅􄑼􄙐􇟄􄑘􄑘􄖯􇟄􅋌􄗽􄕑􇟄<lb
+ n="0168c18" ed="T"/>􄙺􅞣􄩟􄖭􄑘􄕝􇟄􇩉􄚩􇖴<lb
+ n="0168c19" ed="T"/></ab>
+<ab type='prose'>置字句。<lb
+ n="0168c20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄗯􇖴</ab>
+<ab type='prose'>已下第四卷。<lb
+ n="0168c21" ed="T"/><lb
+ n="0168c22" ed="T"/>
+</ab><ab type='juan' subtype='open'>胎藏梵字真言下卷</ab><lb
+ n="0168c23" ed="T"/><lb
+ n="0168c24" ed="T"/><ab type='prose'>力三昧。<lb
+ n="0168c25" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄙺􄗫􇟄􄩠􄙺􄗫􇟄􄙺<lb
+ n="0168c26" ed="T"/>􄗥􄗷􇩉􄚩􇖴<lb
+ n="0168c27" ed="T"/></ab>
+<ab type='prose'>法界生。<lb
+ n="0168c28" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕻􇩷􄕻􄕛􇟄􅁤􄗙􄙖􄑈<lb
+ n="0168c29" ed="T"/>􄚲􇖴<pb n="0169a" id="T18.0854.0169a" ed="T"/><lb
+ n="0169a01" ed="T"/></ab>
+<ab type='prose'>法輪。<lb
+ n="0169a02" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄙖􄦽􈇪􄑈􄚲<lb
+ n="0169a03" ed="T"/></ab>
+<ab type='prose'>大惠刀。<lb
+ n="0169a04" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􄚩􄑌􇪮􄗏􄗽􄒶􇟄<lb
+ n="0169a05" ed="T"/>􄕻􇩷􄚦􄕯􈋧􄑀􄙺􄚨􄒶􇟄􄙺􈁌􄗱􄕯􆵍􇪡􄕯<lb
+ n="0169a06" ed="T"/>􄑀􇟄􄕗􄕤􄑘􄕘􄗏􈁃􈁍􄖫􅗭􄕗􇟄􄗏􄗾􄑘􄕻<lb
+ n="0169a07" ed="T"/>􇩷􄖫􅗭􄕗􇩴􇖴<lb
+ n="0169a08" ed="T"/></ab>
+<ab type='prose'>法螺。<lb
+ n="0169a09" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿓􇖴<lb
+ n="0169a10" ed="T"/></ab>
+<ab type='prose'>蓮花。<lb
+ n="0169a11" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈅺􇖴<lb
+ n="0169a12" ed="T"/></ab>
+<ab type='prose'>金剛大惠。<lb
+ n="0169a13" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􈁰􇩴􇖴<lb
+ n="0169a14" ed="T"/></ab>
+<ab type='prose'>如來頂。<lb
+ n="0169a15" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇩴􇩴􇖴<lb
+ n="0169a16" ed="T"/></ab>
+<ab type='prose'>毫相。<lb
+ n="0169a17" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈅺􄚲􄓁􇖴<lb
+ n="0169a18" ed="T"/></ab>
+<ab type='prose'>大鉢。<lb
+ n="0169a19" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗤􇖴<lb
+ n="0169a20" ed="T"/></ab>
+<ab type='prose'>施無畏。<lb
+ n="0169a21" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􅞣􄕤􇟄􄒸􄖩􄒸􄖩􄗙<lb
+ n="0169a22" ed="T"/>􄗱􄖪􄙢􄖩􇟄􇩉􄚩􇖴<lb
+ n="0169a23" ed="T"/></ab>
+<ab type='prose'>與願。<lb
+ n="0169a24" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙖􄗽􄕯􄙖􄦽􈇪􄑀􇩉<lb
+ n="0169a25" ed="T"/>􄚩􇖴<lb
+ n="0169a26" ed="T"/></ab>
+<ab type='prose'>怖魔。<lb
+ n="0169a27" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􄚩􄙖􄗧􄙖􄕙􇟄􄕯􄙢<lb
+ n="0169a28" ed="T"/>􄙖􄙒􇪮􄙜􇟄􄗥􄚩􄗫􈇢􄡸􆲪􄕗􇩉􄚩􇖴<lb
+ n="0169a29" ed="T"/></ab>
+<ab type='prose'>悲生願。<lb
+ n="0169a30" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄑘􄖩􄙖􄕗􄙊􄚴􄕋􇟄<pb n="0169b" id="T18.0854.0169b" ed="T"/><lb
+ n="0169b01" ed="T"/>􄑀􄙂􈃂􄗥􄗱􇟄􄕗􄕤􄑘􄕗􄑼􈋉􇟄􇩉􄚩􇖴<lb
+ n="0169b02" ed="T"/></ab>
+<ab type='prose'>索。<lb
+ n="0169b03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚮􄚮􄗥􄚩􄖶􄙢􇟄􇩄􄙺<lb
+ n="0169b04" ed="T"/>􄙇􄕰􅝩􄙺􄽙􄕻􄕛􄗏􄗭􄚨􄑀􇟄􄕗􄕤􄑘􄕘􄕽<lb
+ n="0169b05" ed="T"/>􈁃􈁍􄖫􅗭􄕗􇟄􇩉􄚩􇖴<lb
+ n="0169b06" ed="T"/></ab>
+<ab type='prose'>鉤。<lb
+ n="0169b07" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈅺􄙺􅞣􄩟􇩄􄕙􄚨<lb
+ n="0169b08" ed="T"/>􄕝􇟄􄕗􄕤􄑘􄕘􄑄􄙣􇟄􄗕􄕽􄑼􅝩􄖵􄙀􈁂􄗽<lb
+ n="0169b09" ed="T"/>􄑀􇟄􇩉􄚩􇖴<lb
+ n="0169b10" ed="T"/></ab>
+<ab type='prose'>如來心。<lb
+ n="0169b11" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈂤􄖱􇪮􄙖􇟄􇩉􄚩􇖴<lb
+ n="0169b12" ed="T"/></ab>
+<ab type='prose'>臍。<lb
+ n="0169b13" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􇩸􄕟􇪮􄙖􇩉􄚩􇖴<lb
+ n="0169b14" ed="T"/></ab>
+<ab type='prose'>腰。<lb
+ n="0169b15" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕘􄚦􄗙􄙖􇩉<lb
+ n="0169b16" ed="T"/>􄚩􇖴<lb
+ n="0169b17" ed="T"/></ab>
+<ab type='prose'>藏。<lb
+ n="0169b18" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕝􇧸􄙈􄙈􄙉􄙉􇩉􄚩􇖴<lb
+ n="0169b19" ed="T"/></ab>
+<ab type='prose'>大結界。<lb
+ n="0169b20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙐􈎭􄖹􄙀􄗏􄑄􄙀􄗏<lb
+ n="0169b21" ed="T"/>􄑄􄙀􇩉􄚩􇖴<lb
+ n="0169b22" ed="T"/></ab>
+<ab type='prose'>無堪忍大護。<lb
+ n="0169b23" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕝􇧸􇟄􄙺􅞣􄗙􄗱􄗏􄑘􄕝􇧸<lb
+ n="0169b24" ed="T"/>􇟄􄗏􈂫􈁃􄑒􇧸􄙺􇩆􈍇􇟄􄗽􄚴􄗯􄚩􄙖􄙐􇟄<lb
+ n="0169b25" ed="T"/>􄙺􇩆􄕗􄕤􄑘􄕘􄖹􅝯􄖫􅗭􄕝􇖴􇩴􇩴􇩌<lb
+ n="0169b26" ed="T"/>􈁆􇟄􆿅􇩄􄕙􄚨􄕝􇟄􇩉􄚩􇖴<lb
+ n="0169b27" ed="T"/></ab>
+<ab type='prose'>普光。<lb
+ n="0169b28" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈁊􄙋􄗥􄙌􄖫􇟄􄕗􄕤<lb
+ n="0169b29" ed="T"/>􄑘􄕘􈋊􇟄􇩉􄚩􇖴<lb
+ n="0169b30" ed="T"/></ab>
+<ab type='prose'>如來甲。<lb
+ n="0169b31" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩄􄑼􆧽􄙖􇩶􈁊􄙊􇟄􄗏<pb n="0169c" id="T18.0854.0169c" ed="T"/><lb
+ n="0169c01" ed="T"/>􆷵􄗽􇩴􇖴<lb
+ n="0169c02" ed="T"/></ab>
+<ab type='prose'>如來舌。<lb
+ n="0169c03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕘􄒸􅁰􄙺􄟗􄕻<lb
+ n="0169c04" ed="T"/>􇩷􇩄􄕙􆵍􄕗􇟄􇩉􄚩􇖴<lb
+ n="0169c05" ed="T"/></ab>
+<ab type='prose'>如來語。<lb
+ n="0169c06" ed="T"/></ab>
+<ab type='dharani'>􄕗􄕤􄑘􄕗􄙖􈇦􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤<lb
+ n="0169c07" ed="T"/>􄑘􄕘􄗥􄚩􄙖􈇦􄗏􈂫􄒶􄖩􄗥􄚰􄕯􄗱􇟄􇩉<lb
+ n="0169c08" ed="T"/>􄚩􇖴<lb
+ n="0169c09" ed="T"/></ab>
+<ab type='prose'>如來牙。<lb
+ n="0169c10" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕘􄕹􈇒􇟄􄗽<lb
+ n="0169c11" ed="T"/>􄙻􄥟􇟄􄚦􄪽􄖵􄑀􇟄􄙺􅞣􄕗􄕤􄑘􄕘􇟄􄗏􄙮<lb
+ n="0169c12" ed="T"/>􄗱􄚦􄗙􄙖􇩉􄚩􇖴<lb
+ n="0169c13" ed="T"/></ab>
+<ab type='prose'>如來辯說。<lb
+ n="0169c14" ed="T"/></ab>
+<ab type='dharani'>􇩄􄕙􄚦􄗏􈁃􇪰􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄑾<lb
+ n="0169c15" ed="T"/>􈃭􆹎􄕗􇟄􄙃􄖵􄙖􈃱􄙺􄗥􆩖􇩄􇟄􆻤􄗏􄙦􇧺<lb
+ n="0169c16" ed="T"/>􅁤􄗽􇩉􄚩􇖴<lb
+ n="0169c17" ed="T"/></ab>
+<ab type='prose'>如來十力。<lb
+ n="0169c18" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕯􄙢􄙖􈂿􄑘􄕻􄗽􇟄<lb
+ n="0169c19" ed="T"/>􆿁􄚦􄓀􇟄􅁥􄚩􇖴<lb
+ n="0169c20" ed="T"/></ab>
+<ab type='prose'>如來念處。<lb
+ n="0169c21" ed="T"/></ab>
+<ab type='dharani'>􈊵􄟛􄖵􅁤􄖩􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘<lb
+ n="0169c22" ed="T"/>􄕗􈊵􄕙􇟄􄙺􄽙􄚪􄽚􄡸􆲪􄕙􇟄􄑘􄑘􄖩􄙺􄗦<lb
+ n="0169c23" ed="T"/>􄙺􄗥􇟄􇩉􄚩􇖴<lb
+ n="0169c24" ed="T"/></ab>
+<ab type='prose'>平等開悟。<lb
+ n="0169c25" ed="T"/></ab>
+<ab type='dharani'>􄙺􄗥􆩗􄗕􄕾􄖫􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆<lb
+ n="0169c26" ed="T"/>􄕻􅝝􄙺􄗥􆩗􄪽􆻤􇟄􄕗􄕤􄑘􄕟􄖭􄑘􄕗􇟄􇩉<lb
+ n="0169c27" ed="T"/>􄚩􇖴<lb
+ n="0169c28" ed="T"/></ab>
+<ab type='prose'>如來昧。<lb
+ n="0169c29" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􄗥􆩗􄖭􄑘􄕗􄗏􄗽􄒶<lb
+ n="0169c30" ed="T"/>􄕻􇩷􄖫􅗭􄕗􄗥􄚩􄗥􄚩􇩉􄚩􇟄<lb
+ n="0169c31" ed="T"/></ab>
+<ab type='prose'>慈氏菩薩。<pb n="0170a" id="T18.0854.0170a" ed="T"/><lb
+ n="0170a01" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄒸􄕡􄒶􄗱􄙺􇩆􄙺􄽚<lb
+ n="0170a02" ed="T"/>􄙢􄗱􄖭􄑘􄕗􇩉􄚩􇖴<lb
+ n="0170a03" ed="T"/></ab>
+<ab type='prose'>虛空藏。<lb
+ n="0170a04" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿆􄑁􄙢􄙺􄗥􄕘􄖭􄑘􄕗<lb
+ n="0170a05" ed="T"/>􄗏􄑾􈂷􄙖􄗽􄕻􄗽􇩉􄚩􇖴<lb
+ n="0170a06" ed="T"/></ab>
+<ab type='prose'>除蓋障。<lb
+ n="0170a07" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇩱􄙺􇩆􄚪􄕘􄡼􆲪􄕗􄩨<lb
+ n="0170a08" ed="T"/>􄩨􄙈􄙈􇩉􄚩􇖴<lb
+ n="0170a09" ed="T"/></ab>
+<ab type='prose'>觀自在。<lb
+ n="0170a10" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄕗􄕤􄑘􄕘􄙖􄙒􄑂<lb
+ n="0170a11" ed="T"/>􄕗􄑀􄙂􄕋􄗥􄗱􄗽􄗽􄗽􇩴􄓁􇩉􄚩􇖴<lb
+ n="0170a12" ed="T"/></ab>
+<ab type='prose'>得大勢至。<lb
+ n="0170a13" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄓀􄓀􄚧􇟄􇩉􄚩􇖴<lb
+ n="0170a14" ed="T"/></ab>
+<ab type='prose'>多羅菩薩。<lb
+ n="0170a15" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄕘􄙄􄕘􄙀􄕍􇟄􄑀􄙂􄕑<lb
+ n="0170a16" ed="T"/>􇪮􄙜􇩉􄚩􇖴<lb
+ n="0170a17" ed="T"/></ab>
+<ab type='prose'>毘俱胝。<lb
+ n="0170a18" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄗙􄗱􄩟􄙺􄖫􇟄<lb
+ n="0170a19" ed="T"/>􇩴􆷱􈁆􄗱􇟄􇩉􄚩􇖴<lb
+ n="0170a20" ed="T"/></ab>
+<ab type='prose'>白處尊。<lb
+ n="0170a21" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕗􄕤􄑘􄕗􄗏􄙮􄗱􄙺<lb
+ n="0170a22" ed="T"/>􄗙􄙜􇟄􄖵􇪯􄗦􄙌􄖫􇟄􇩉􄚩􇖴<lb
+ n="0170a23" ed="T"/></ab>
+<ab type='prose'>何耶󰵲哩婆。<lb
+ n="0170a24" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􇩴􄑌􄕯􄗱􄕉􄒶􆷱􈁆<lb
+ n="0170a25" ed="T"/>􄗱􇟄􇩉􄚩􇖴<lb
+ n="0170a26" ed="T"/></ab>
+<ab type='prose'>地藏菩薩。<lb
+ n="0170a27" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚨􄚨􄚨􈂼􄕗􄖭􇟄􇩉<lb
+ n="0170a28" ed="T"/>􄚩􇟄<lb
+ n="0170a29" ed="T"/></ab>
+<ab type='prose'>曼珠室哩。<lb
+ n="0170a30" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚮􄚮􄑄􄗦􄗽􄑀􇟄􄗏􈁃<lb
+ n="0170a31" ed="T"/>􈁍􄖵􄕤􅁦􄕗􇟄􅋌􄗽􅋌􄗽􇟄􇩄􄕙􈇍􇟄􇩉􄚩<pb n="0170b" id="T18.0854.0170b" ed="T"/><lb
+ n="0170b01" ed="T"/>􇖴<lb
+ n="0170b02" ed="T"/></ab>
+<ab type='prose'>光網菩薩。<lb
+ n="0170b03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚮􄚮􄑄􄗦􄗽􇟄􄗦􄗱􄑘<lb
+ n="0170b04" ed="T"/>􄕗􅁤􄚩􄗚􄙖􅁦􄕗􇟄􇩉􄚩􇖴<lb
+ n="0170b05" ed="T"/></ab>
+<ab type='prose'>無垢光。<lb
+ n="0170b06" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄚩􄑄􄗦􄗽􇟄􄗏􄑾􇩌􄑘􄕙<lb
+ n="0170b07" ed="T"/>􄑄􄗦􄗽􇟄􄗥􄖭􅋌􄗽􇟄􅁥􄚩􇖴<lb
+ n="0170b08" ed="T"/></ab>
+<ab type='prose'>計設尼。<lb
+ n="0170b09" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄚮􄚮􄑄􄗦􄙀􄑆􇟄􄕯􄗲􈂤<lb
+ n="0170b10" ed="T"/>􈁀􇟄􅋌􄗽􄪼􄕙􈂤􇩉􄚩􇖴<lb
+ n="0170b11" ed="T"/></ab>
+<ab type='prose'>烏波計始儞。<lb
+ n="0170b12" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗛􆩮􄗱􈂤􄖳􇟄􄚮􄑄<lb
+ n="0170b13" ed="T"/>􄗦􄙀􄑆􇟄􇩉􄚩􇖴<lb
+ n="0170b14" ed="T"/></ab>
+<ab type='prose'>地惠幢。<lb
+ n="0170b15" ed="T"/></ab>
+<ab type='dharani'>􄙖􈂼􄗥􄟘􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚮􅋌􄗽􈂤<lb
+ n="0170b16" ed="T"/>􄖩􄑀􄕛􇟄􇩉􄚩􇖴<lb
+ n="0170b17" ed="T"/></ab>
+<ab type='prose'>請召童子。<lb
+ n="0170b18" ed="T"/></ab>
+<ab type='dharani'>􆿅􄑀􅞻􄗷􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄑀􅞻􄗱<lb
+ n="0170b19" ed="T"/>􇟄􄙺􇩆􄑄􄙂􆿆􈂤􇟄􄑄􄗦􈍇􄣢􇟄􇩉􄚩􇖴<lb
+ n="0170b20" ed="T"/></ab>
+<ab type='prose'>不思議童子。<lb
+ n="0170b21" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿆􈍇􄗱􄖬􄗷􇟄􇩉<lb
+ n="0170b22" ed="T"/>􄚩􇖴<lb
+ n="0170b23" ed="T"/></ab>
+<ab type='prose'>大愛樂亦名除疑怪。<lb
+ n="0170b24" ed="T"/></ab>
+<ab type='dharani'>􄑈􄑄􄚨􄙌􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗏􄗥􄕙<lb
+ n="0170b25" ed="T"/>􇪡􄕯􄑀􇟄􇩉􄚩􇖴<lb
+ n="0170b26" ed="T"/></ab>
+<ab type='prose'>施無畏。<lb
+ n="0170b27" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􆿆􄗙􄗱􄕯􄕯􇟄􇩉􄚩􇖴<lb
+ n="0170b28" ed="T"/></ab>
+<ab type='prose'>除惡趣。<lb
+ n="0170b29" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􆿅􄡼􇧹􄗽􄕍􄙺􄽚􄕼􈁎􇟄<lb
+ n="0170b30" ed="T"/>􇩉􄚩􇖴<lb
+ n="0170b31" ed="T"/></ab>
+<ab type='prose'>救護惠。<pb n="0170c" id="T18.0854.0170c" ed="T"/><lb
+ n="0170c01" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚮􄗥􄚩􄗥􄚨􅋌􄗽􇩄􄕙<lb
+ n="0170c02" ed="T"/>􈇍􇟄􇩉􄚩􇖴<lb
+ n="0170c03" ed="T"/></ab>
+<ab type='prose'>大慈生。<lb
+ n="0170c04" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􅁤􄒤􄕟􆲪􄕗􇩉􄚩􇖴<lb
+ n="0170c05" ed="T"/></ab>
+<ab type='prose'>悲施潤。<lb
+ n="0170c06" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄑀􄙂􆩄􄫲􄓴􄕗􇩉􄚩􇖴<lb
+ n="0170c07" ed="T"/></ab>
+<ab type='prose'>除一切熱惱。<lb
+ n="0170c08" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄚮􄙖􄗽􄕯􄙖􄗽􄪽􆻤􇩉<lb
+ n="0170c09" ed="T"/>􄚩􇖴<lb
+ n="0170c10" ed="T"/></ab>
+<ab type='prose'>不思議惠。<lb
+ n="0170c11" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄙺􅞤􄙣􄖵􄙀􈁂􄗽􄑀􇩉<lb
+ n="0170c12" ed="T"/>􄚩􇖴<lb
+ n="0170c13" ed="T"/></ab>
+<ab type='prose'>地藏旗。<lb
+ n="0170c14" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚨􄚨􄚨􄗏􅋌􄗹􇩉<lb
+ n="0170c15" ed="T"/>􄚩􇖴<lb
+ n="0170c16" ed="T"/></ab>
+<ab type='prose'>寶處。<lb
+ n="0170c17" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚮􄗥􄚩􄗥􄚨􇟄􇩉􄚩􇖴<lb
+ n="0170c18" ed="T"/></ab>
+<ab type='prose'>寶手。<lb
+ n="0170c19" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗽􄓺􈍇􇩉􄚩􇖴<lb
+ n="0170c20" ed="T"/></ab>
+<ab type='prose'>持地。<lb
+ n="0170c21" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􄕻􄗽􈁑􄕻􄗽􇟄􇩉􄚩􇖴<lb
+ n="0170c22" ed="T"/></ab>
+<ab type='prose'>寶印手。<lb
+ n="0170c23" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗽􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗽􅑈􄖫􄒸􄕗􇟄􇩉􄚩<lb
+ n="0170c24" ed="T"/>􇖴<lb
+ n="0170c25" ed="T"/></ab>
+<ab type='prose'>堅固意。<lb
+ n="0170c26" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙖􄦽􄚦􄗙􄙖􇟄􇩉􄚩􇖴<lb
+ n="0170c27" ed="T"/></ab>
+<ab type='prose'>虛空無垢。<lb
+ n="0170c28" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄑘􄖪􆩖􄑠􄑼􄗽􇟄<lb
+ n="0170c29" ed="T"/>􇩉􄚩􇖴<lb
+ n="0170c30" ed="T"/></ab>
+<ab type='prose'>虛空惠。<lb
+ n="0170c31" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑼􄥇􄙖􈃪􇟄􇩉􄚩􇖴<pb n="0171a" id="T18.0854.0171a" ed="T"/><lb
+ n="0171a01" ed="T"/></ab>
+<ab type='prose'>蓮花印。<lb
+ n="0171a02" ed="T"/></ab>
+<ab type='dharani'>􄑄􄙖􄙊􄗱􇩉􄚩􇟄􈁃􄩷􈁂􇩆􈅔􄑾􄕱􄙮􄽳􄑀<lb
+ n="0171a03" ed="T"/>􄙼􄕗􇖴<lb
+ n="0171a04" ed="T"/></ab>
+<ab type='prose'>清淨惠。<lb
+ n="0171a05" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄕻􅝝􄚦􄗙􄙖􇩉􄚩􇖴<lb
+ n="0171a06" ed="T"/></ab>
+<ab type='prose'>行惠。<lb
+ n="0171a07" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄖵􇪯􄙊􄗱􇟄􇩉􄚩􇖴<lb
+ n="0171a08" ed="T"/></ab>
+<ab type='prose'>同前。<lb
+ n="0171a09" ed="T"/></ab>
+<ab type='dharani'>􄙖􄦽􄷟􄗽􈎭􈁏􇟄􈁂􇩆􄙖􈇪􇩌􇖴<lb
+ n="0171a10" ed="T"/></ab>
+<ab type='prose'>金剛手。<lb
+ n="0171a11" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙖􄦽􄑀􄗽􇟄􇩉􄚩􇖴<lb
+ n="0171a12" ed="T"/></ab>
+<ab type='prose'>執金剛。<lb
+ n="0171a13" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􄑼􆧽􈍇􄚩􄙆􄙮􈍇􈍇<lb
+ n="0171a14" ed="T"/></ab>
+<ab type='prose'>金剛拳。<lb
+ n="0171a15" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕋􇟄􆷹􄓚􄗱􄙖􄦽􄚦􄗙􄙜􇟄<lb
+ n="0171a16" ed="T"/>􇩉􄚩􇖴<lb
+ n="0171a17" ed="T"/></ab>
+<ab type='prose'>無能勝。<lb
+ n="0171a18" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􈇚􅞣􅞻􄗥􄚩􄙆􄙮<lb
+ n="0171a19" ed="T"/>􄕋􇟄􄑌􄕯􄗱􄙺􈊷􆶩􄕤􄑘􄗾􈇍􄑄􄙂􇟄􇩉􄚩<lb
+ n="0171a20" ed="T"/>􇖴<lb
+ n="0171a21" ed="T"/></ab>
+<ab type='prose'>阿毘目佉。<lb
+ n="0171a22" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄚮􆿅􄗛􈁃􄑌􄗥􄚩􇩄􄑼<lb
+ n="0171a23" ed="T"/>􆧽􇟄􄑌􄕯􄗱􈆡􄑼􄗽􄗱􄙼􇟄􄙺􄗥􄗱􄗥􄖭􅋌<lb
+ n="0171a24" ed="T"/>􄗽􇩉􄚩􇖴<lb
+ n="0171a25" ed="T"/></ab>
+<ab type='prose'>釋迦牟尼鉢。<lb
+ n="0171a26" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄯃􄙢􄖫􈃳􄕯<lb
+ n="0171a27" ed="T"/>􄖩􇟄􄙺􇩆􄕻􅝝􄙖􄙤􄗾􄪽􆻤􇟄􄑘􄑘􄖩􄙺􄗦<lb
+ n="0171a28" ed="T"/>􄙺􄗥􇩉􄚩􇖴<lb
+ n="0171a29" ed="T"/></ab>
+<ab type='prose'>一切佛頂。<lb
+ n="0171a30" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􈒻􈁀􇟄􄙠􄙠􇩴􇩴􇩴􄗁􈁆<pb n="0171b" id="T18.0854.0171b" ed="T"/><lb
+ n="0171b01" ed="T"/>􇩉􄚩􇖴<lb
+ n="0171b02" ed="T"/></ab>
+<ab type='prose'>阿修羅。<lb
+ n="0171b03" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄑘􄗽􄙊􄗻􇩉􄚩􇖴<lb
+ n="0171b04" ed="T"/></ab>
+<ab type='prose'>乾闥婆。<lb
+ n="0171b05" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗏􄙦􇧺􇩉􄗽􄗽􄙖􄚪<lb
+ n="0171b06" ed="T"/>􄖫􇟄􇩉􄚩􇖴<lb
+ n="0171b07" ed="T"/></ab>
+<ab type='prose'>藥叉。<lb
+ n="0171b08" ed="T"/></ab>
+<ab type='dharani'>􄗱􄚴􇟄􄖩􄗰􄙺􄗥􆩖􄗍􇧺􈁀􇟄􄗱􄚺􈂫􄗽􇟄􇩉<lb
+ n="0171b09" ed="T"/>􄚩􇖴<lb
+ n="0171b10" ed="T"/></ab>
+<ab type='prose'>藥叉女。<lb
+ n="0171b11" ed="T"/></ab>
+<ab type='dharani'>􄗱􄚶􄕎􄗱􄚴􄗏􄟰􄕻􄙀􇟄􇩉􄚩􇖴<lb
+ n="0171b12" ed="T"/></ab>
+<ab type='prose'>毘舍遮。<lb
+ n="0171b13" ed="T"/></ab>
+<ab type='dharani'>􄗏􄙣􄑽􈁀􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄖷􄙣􄑼<lb
+ n="0171b14" ed="T"/>􄑘􄖫􇟄􇩉􄚩􇖴<lb
+ n="0171b15" ed="T"/></ab>
+<ab type='prose'>毘舍𨑤。<lb
+ n="0171b16" ed="T"/></ab>
+<ab type='dharani'>􄖷􄙣􄒡􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄖷􄑾􄖷􄑾􇖴<lb
+ n="0171b17" ed="T"/>􇩉􄚩􇖴<lb
+ n="0171b18" ed="T"/></ab>
+<ab type='prose'>一切執曜。<lb
+ n="0171b19" ed="T"/></ab>
+<ab type='dharani'>􄙺􇩆􄥟􄚨􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄥟􄚯􈂫􅝩<lb
+ n="0171b20" ed="T"/></ab>
+<ab type='prose'>一切宿命。<lb
+ n="0171b21" ed="T"/></ab>
+<ab type='dharani'>􄙺􇩆􄗥􄚴􄩟􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􄚴􇩌<lb
+ n="0171b22" ed="T"/>􄖫􅢢􄕯􄖬􄗷􇟄􇩉􄚩􇖴<lb
+ n="0171b23" ed="T"/></ab>
+<ab type='prose'>諸羅剎娑。<lb
+ n="0171b24" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗾􄚴􄙻􄕽􄖵􄗽􄗷􇟄􇩉<lb
+ n="0171b25" ed="T"/>􄚩􇖴<lb
+ n="0171b26" ed="T"/></ab>
+<ab type='prose'>諸荼吉尼。<lb
+ n="0171b27" ed="T"/></ab>
+<ab type='dharani'>􈂢􄑂􄖬􇟄􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄮦􄚳􇩉􄚩􇖴<lb
+ n="0171b28" ed="T"/></ab>
+<ab type='prose'>字輪　第五卷。<lb
+ n="0171b29" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􇖴<lb
+ n="0171b30" ed="T"/>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇖴<pb n="0171c" id="T18.0854.0171c" ed="T"/><lb
+ n="0171c01" ed="T"/>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄙖􇖴<lb
+ n="0171c02" ed="T"/>􄑀􄑌􄑘􄑤􇟄􄑼􇩹􄒶􄙃􇖴<lb
+ n="0171c03" ed="T"/>􄓚􄓦􄖭􄓾􇟄􄕗􄕤􄕯􄕻􇖴<lb
+ n="0171c04" ed="T"/>􄖵􄗁􄗍􄗙􇟄􄗱􄗽􄙊􄙖<lb
+ n="0171c05" ed="T"/>􄙢􄙮􄙺􄚨􇟄􄚴􇖴</ab>
+<ab type='prose'>短呼皆上聲此一轉。<lb
+ n="0171c06" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿆􇖴<lb
+ n="0171c07" ed="T"/>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙻􇖴<lb
+ n="0171c08" ed="T"/>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄙗<lb
+ n="0171c09" ed="T"/>􄑀􄑌􄑘􄑤􇟄􄑼􇩹􄒶􄓂􇟄<lb
+ n="0171c10" ed="T"/>􄓚􄓦􄖭􄓾􇟄􄕗􄕤􄕯􄕻􇟄<lb
+ n="0171c11" ed="T"/>􄖵􄗁􄗍􄗙􇟄􄗱􄗽􄙊􄙖􇟄<lb
+ n="0171c12" ed="T"/>􄙢􄙮􄙺􄚨􄚴􇖴</ab>
+<ab type='prose'>長呼也此去聲右此一轉。<lb
+ n="0171c13" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿓􇖴<lb
+ n="0171c14" ed="T"/>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚦􇖴<lb
+ n="0171c15" ed="T"/>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙠<lb
+ n="0171c16" ed="T"/>􄑊􄑖􄑢􄑮􇟄􄒨􇪥􄓀􄓌􇟄<lb
+ n="0171c17" ed="T"/>􄓤􄓰􈃀􄗋􇟄􄕡􄕭􄕹􄖧􇟄<lb
+ n="0171c18" ed="T"/>􄖿􄗋􄗗􄕉􇟄􄗻􄙈􄙔􄙠􇟄<lb
+ n="0171c19" ed="T"/>􄙬􄣖􄚦􄚲􄚾􇖴</ab>
+<ab type='prose'>第一轉皆帶右此一轉。<lb
+ n="0171c20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿔􇖴<lb
+ n="0171c21" ed="T"/>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚧􇖴<lb
+ n="0171c22" ed="T"/>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􄙡􇖴<lb
+ n="0171c23" ed="T"/>􄑋􄑗􄑣􄑯􇟄􄒩􇪦􄓁􄓍􇟄<lb
+ n="0171c24" ed="T"/>􄓥􄓱􄓽􄗤􇟄􄕢􄕮􄕺􄖨􇟄<lb
+ n="0171c25" ed="T"/>􄗀􄗌􄗘􄗤􇟄􄗼􄙉􄙕􄙡􇟄<lb
+ n="0171c26" ed="T"/>􄙭􄙹􄚧􄚳􄚿􇖴</ab>
+<ab type='prose'>聲呼皆入右一轉。<lb
+ n="0171c27" ed="T"/></ab>
+<ab type='dharani'>􆿈􆿇􆿉􆿊􆿏􆿐􆿑􆿒􇖴<lb
+ n="0171c28" ed="T"/>􄓚􄓈􄕋􄖩􄗥􇟄􄓛􈉪􄕌􄖪􄗦<lb
+ n="0171c29" ed="T"/>􄑺􄓈􄕕􄖳􄗯􇟄􄓥􄓙􄕖􄖴􄗰<lb
+ n="0171c30" ed="T"/></ab>
+<ab type='prose'>大真言王。<lb
+ n="0171c31" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿅􄙺􄗦􆻤􇟄􄕻􅝝􄕼􄕛<pb n="0172a" id="T18.0854.0172a" ed="T"/><lb
+ n="0172a01" ed="T"/>􇟄􄑘􈁗􄑘􄕘􈁀􄙺􇩆􄕤􇟄<lb
+ n="0172a02" ed="T"/>􈂵􄑖􆿓􆿔<lb
+ n="0172a03" ed="T"/>􄚦􄚧􇟄􄚲􄚳􇟄􄙈􄙉􇟄􄙠􄙡􇟄􇩉􄚩􇖴<lb
+ n="0172a04" ed="T"/>􇩴􄙈􄙉􇟄􄮣􄚳􇟄􇩉􄚩􇖴􄙈􄙉􇩉􄚩􇖴<lb
+ n="0172a05" ed="T"/></ab>
+<ab type='prose'>□□□生。<lb
+ n="0172a06" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙈􄙉􇩉􄚩􇖴<lb
+ n="0172a07" ed="T"/></ab>
+<ab type='prose'>金剛不壞。<lb
+ n="0172a08" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙠􄙡􇩉􄚩􇖴<lb
+ n="0172a09" ed="T"/></ab>
+<ab type='prose'>蓮花藏。<lb
+ n="0172a10" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚦􄚧􇩉􄚩􇖴<lb
+ n="0172a11" ed="T"/></ab>
+<ab type='prose'>萬德莊嚴。<lb
+ n="0172a12" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄚲􄚳􇩉􄚩􇖴<lb
+ n="0172a13" ed="T"/></ab>
+<ab type='prose'>一切支分生。<lb
+ n="0172a14" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿓􆿔􇩉􄚩􇖴<lb
+ n="0172a15" ed="T"/></ab>
+<ab type='prose'>世尊陀羅尼。<lb
+ n="0172a16" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􈎭􇧺􄕼􄗽􄕍􇟄􄕼<lb
+ n="0172a17" ed="T"/>􄗽􄗱􄙺􅞭􇟄􄗙􄑘􄙖􄕙􇟄􆿆􄑁􄗽􄙖􄕙􇟄􄙺􄗥<lb
+ n="0172a18" ed="T"/>􄗷􇩉􄚩􇖴<lb
+ n="0172a19" ed="T"/></ab>
+<ab type='prose'>法住真言。<lb
+ n="0172a20" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄖩􆩖􈎭􇧺􈁀􇟄􇩱􄙜􄕯􄙘􄕵􇟄􇩉<lb
+ n="0172a21" ed="T"/>􄚩􇖴<lb
+ n="0172a22" ed="T"/></ab>
+<ab type='prose'>迅疾持真言。<lb
+ n="0172a23" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄗥􄚩􄗹􄑘􄗹􄑚􄖫􇟄􄗹<lb
+ n="0172a24" ed="T"/>􄑞􈂫􄙀􇟄􄑖􄒶􄙁􄑆􇟄􇩉􄚩􇖴<lb
+ n="0172a25" ed="T"/></ab>
+<ab type='prose'>百光通照　下第六卷。<lb
+ n="0172a26" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆿓􇖴<lb
+ n="0172a27" ed="T"/></ab>
+<ab type='prose'>加持句真言。<lb
+ n="0172a28" ed="T"/></ab>
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􄙺􇩆􄕤􈋎􈋎􇟄􄩨􄩨􈉎<lb
+ n="0172a29" ed="T"/>􈉎􇟄􄕻􄙈􄕻􄙈􇟄􆷲􄖵􄗱􆷲􄖵􄗱􇟄􈎭􇧺􄙺<lb
+ n="0172a30" ed="T"/>􄟗􄙖􄕻􅝝􄙺􄟗􄙗􇟄􇩀􄑤􄙺􄟗􄑀􄙗􇩉􄑀<lb
+ n="0172a31" ed="T"/>􄙗􇩴􇩴􈍇􄕯􄗏􄕵􇟄􇩉􄚩􇖴􄓦􇖴􄙺􄗦􆻤<pb n="0172b" id="T18.0854.0172b" ed="T"/><lb
+ n="0172b01" ed="T"/>􇖴􄓦􇟄</ab></div><lb
+ n="0172b02" ed="T"/><div type='w' level='2'><ab type='prose'>書本云。<lb
+ n="0172b03" ed="T"/>長承二年九月一日以御筆本奉書寫畢云<lb
+ n="0172b04" ed="T"/>云件本隆海僧都本云云<lb
+ n="0172b05" ed="T"/>　　　　交了<lb
+ n="0172b06" ed="T"/>　　　　　興然本</ab></div></div>
+</body></text></TEI>

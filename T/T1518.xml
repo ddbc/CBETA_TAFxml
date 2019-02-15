@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛母般若波羅蜜多圓集要義論</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T25</biblScope>
+                    <idno type="Taisho">T25n1518</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0912c04" ed="T"/><lb
+ n="0912c05" ed="T"/><lb
+ n="0912c06" ed="T"/><lb
+ n="0912c07" ed="T"/>
+<ab type='juan' subtype='open'>佛母般若波羅蜜多圓集要義論</ab><lb
+ n="0912c08" ed="T"/><lb
+ n="0912c09" ed="T"/><byline>大域龍菩薩造</byline><lb
+ n="0912c10" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿<lb
+ n="0912c11" ed="T"/>卿傳法大師賜紫臣施護等<lb
+ n="0912c12" ed="T"/>奉　詔譯</byline><lb
+ n="0912c13" ed="T"/><div type='jing' level='1'><ab type='prose'>歸命妙吉祥童真菩薩摩訶薩等。<lb
+ n="0912c14" ed="T"/></ab>
+<ab type='verse'>
+般若等成就，　　無二智如來，　　<lb
+ n="0912c15" ed="T"/>彼中義相應，　　彼聲教道二。　　<lb
+ n="0912c16" ed="T"/>依止及作用，　　事業同起修，　　<lb
+ n="0912c17" ed="T"/>分別相及罪，　　稱讚如次說。　　<lb
+ n="0912c18" ed="T"/>具信以為體，　　師資互證說，　　<lb
+ n="0912c19" ed="T"/>說時說處等，　　得自量成就。　　<lb
+ n="0912c20" ed="T"/>說法者應知，　　世間時處二，　　<lb
+ n="0912c21" ed="T"/>說者有同證，　　然後得如量。　　<lb
+ n="0912c22" ed="T"/>一切如是集，　　我聞等所說，　　<lb
+ n="0912c23" ed="T"/>和合如是義，　　最上三十二。　　<lb
+ n="0912c24" ed="T"/>分別十六相，　　空如其次第，　　<lb
+ n="0912c25" ed="T"/>八千頌中說，　　了異方便說。　　<lb
+ n="0912c26" ed="T"/>今此八千頌，　　如說義無減，　　<lb
+ n="0912c27" ed="T"/>隨所樂頌略，　　如是義如說。　　<lb
+ n="0912c28" ed="T"/>菩薩我不見，　　此說實寂默，　　<lb
+ n="0912c29" ed="T"/>能受內諸事，　　彼說即為空。　　<pb n="0913a" ed="T" id="T25.1518.0913a"/><lb
+ n="0913a01" ed="T"/>色及色自性，　　此說亦復空，　　<lb
+ n="0913a02" ed="T"/>此等外諸處，　　所受分皆止。　　<lb
+ n="0913a03" ed="T"/>色等相彼身，　　安住及相離，　　<lb
+ n="0913a04" ed="T"/>向義若彼見，　　彼內即無實。　　<lb
+ n="0913a05" ed="T"/>彼諸內空性，　　自性亦復空，　　<lb
+ n="0913a06" ed="T"/>所有識相種，　　即起我悲智。　　<lb
+ n="0913a07" ed="T"/>不生亦不滅，　　有情此等明，　　<lb
+ n="0913a08" ed="T"/>有情生死欲，　　彼說即為空。　　<lb
+ n="0913a09" ed="T"/>佛法不可見，　　菩薩法亦然，　　<lb
+ n="0913a10" ed="T"/>此等如所說，　　空彼十力等。　　<lb
+ n="0913a11" ed="T"/>別別所有法，　　此說遍計性，　　<lb
+ n="0913a12" ed="T"/>彼勝義非有，　　諸法如是說。　　<lb
+ n="0913a13" ed="T"/>彼我等見斷，　　大士畢竟作，　　<lb
+ n="0913a14" ed="T"/>而彼人無我，　　佛一切處說。　　<lb
+ n="0913a15" ed="T"/>一切法不生，　　此所說亦然，　　<lb
+ n="0913a16" ed="T"/>宣說法無我，　　一切處實說。　　<lb
+ n="0913a17" ed="T"/>有罪及無罪，　　不增亦不減，　　<lb
+ n="0913a18" ed="T"/>諸有為無為，　　所有諸善止。　　<lb
+ n="0913a19" ed="T"/>諸善空性中，　　彼出亦無盡，　　<lb
+ n="0913a20" ed="T"/>此遍計分別，　　彼普攝為空。　　<lb
+ n="0913a21" ed="T"/>十種心散亂，　　心散亂異處，　　<lb
+ n="0913a22" ed="T"/>愚不得相應，　　無二智不成。　　<lb
+ n="0913a23" ed="T"/>彼止息互相，　　為能所對治，　　<lb
+ n="0913a24" ed="T"/>於般若教中，　　彼圓集所說。　　<lb
+ n="0913a25" ed="T"/>若有菩薩有，　　此無相分別，　　<lb
+ n="0913a26" ed="T"/>散亂止息師，　　說彼世俗蘊。　　<lb
+ n="0913a27" ed="T"/>此八千頌等，　　從初語次第，　　<lb
+ n="0913a28" ed="T"/>至了畢皆止，　　說無相分別。　　<lb
+ n="0913a29" ed="T"/>因言不如是，　　此唯說事相，　　<pb n="0913b" ed="T" id="T25.1518.0913b"/><lb
+ n="0913b01" ed="T"/>梵網等經中，　　知一切如理。　　<lb
+ n="0913b02" ed="T"/>菩薩我不見，　　而此等廣大，　　<lb
+ n="0913b03" ed="T"/>世尊此止遣，　　有相分別亂。　　<lb
+ n="0913b04" ed="T"/>若不見彼名，　　境界行亦然，　　<lb
+ n="0913b05" ed="T"/>彼蘊一切處，　　皆不見菩薩。　　<lb
+ n="0913b06" ed="T"/>此止遣遍計，　　普攝此所說，　　<lb
+ n="0913b07" ed="T"/>乘一切智因，　　慧分別諸相。　　<lb
+ n="0913b08" ed="T"/>般若波羅蜜，　　說三種依止，　　<lb
+ n="0913b09" ed="T"/>謂遍計依他，　　及圓成實性。　　<lb
+ n="0913b10" ed="T"/>無此等說句，　　一切遍計止，　　<lb
+ n="0913b11" ed="T"/>幻喻等見邊，　　此說依他性。　　<lb
+ n="0913b12" ed="T"/>有四種清淨，　　說圓成實性，　　<lb
+ n="0913b13" ed="T"/>般若波羅蜜，　　佛無別異說。　　<lb
+ n="0913b14" ed="T"/>十分別散亂，　　對治如次說，　　<lb
+ n="0913b15" ed="T"/>此三種知已，　　若即若離說。　　<lb
+ n="0913b16" ed="T"/>如初語圓成，　　依他及遍計，　　<lb
+ n="0913b17" ed="T"/>無相分別色，　　彼散亂止遣。　　<lb
+ n="0913b18" ed="T"/>彼佛亦菩提，　　不見說者等，　　<lb
+ n="0913b19" ed="T"/>至了畢此知，　　止遣遍計性。　　<lb
+ n="0913b20" ed="T"/>自性空彼色，　　俱相何所有，　　<lb
+ n="0913b21" ed="T"/>此別異語中，　　了知已彼止。　　<lb
+ n="0913b22" ed="T"/>此不空故空，　　如是語所說，　　<lb
+ n="0913b23" ed="T"/>諸毀謗分別，　　一切說皆止。　　<lb
+ n="0913b24" ed="T"/>如幻亦然佛，　　彼如夢亦然，　　<lb
+ n="0913b25" ed="T"/>如是如次知，　　智語邊決定。　　<lb
+ n="0913b26" ed="T"/>諸同等所作，　　此說佛如幻，　　<lb
+ n="0913b27" ed="T"/>幻喻等言等，　　此說依他性。　　<lb
+ n="0913b28" ed="T"/>若諸異生智，　　彼自性清淨，　　<lb
+ n="0913b29" ed="T"/>故說彼佛言，　　菩薩亦如佛。　　<pb n="0913c" ed="T" id="T25.1518.0913c"/><lb
+ n="0913c01" ed="T"/>自性自色覆，　　彼無明因作，　　<lb
+ n="0913c02" ed="T"/>如幻別異現，　　果如夢棄捨。　　<lb
+ n="0913c03" ed="T"/>無二別異說，　　果等定毀謗，　　<lb
+ n="0913c04" ed="T"/>毀謗諸分別，　　彼毀謗此說。　　<lb
+ n="0913c05" ed="T"/>色空非和合，　　彼互相違礙，　　<lb
+ n="0913c06" ed="T"/>無色無空名，　　色相自和合。　　<lb
+ n="0913c07" ed="T"/>此一性分別，　　對治種種性，　　<lb
+ n="0913c08" ed="T"/>空不異彼色，　　彼空何所有。　　<lb
+ n="0913c09" ed="T"/>此無實所現，　　彼無明所起，　　<lb
+ n="0913c10" ed="T"/>此無實能表，　　彼說無明故。　　<lb
+ n="0913c11" ed="T"/>此如是說色，　　般若波羅蜜，　　<lb
+ n="0913c12" ed="T"/>無二二如是，　　二分別對治。　　<lb
+ n="0913c13" ed="T"/>如理言淨性，　　亦然不可得，　　<lb
+ n="0913c14" ed="T"/>性無性違等，　　種種性定見。　　<lb
+ n="0913c15" ed="T"/>說此色唯名，　　真實無自性，　　<lb
+ n="0913c16" ed="T"/>彼自性分別，　　容受即當止。　　<lb
+ n="0913c17" ed="T"/>色及色自性，　　空如先所說，　　<lb
+ n="0913c18" ed="T"/>彼自性俱相，　　分別此止遣。　　<lb
+ n="0913c19" ed="T"/>不生不滅等，　　所有諸法觀，　　<lb
+ n="0913c20" ed="T"/>佛言若散異，　　彼差別分別。　　<lb
+ n="0913c21" ed="T"/>虛假名言等，　　彼法若分別，　　<lb
+ n="0913c22" ed="T"/>聲義二非合，　　彼非自性意。　　<lb
+ n="0913c23" ed="T"/>般若波羅蜜，　　佛菩薩亦然，　　<lb
+ n="0913c24" ed="T"/>此所說唯名，　　離實義分別。　　<lb
+ n="0913c25" ed="T"/>所有聲義止，　　此非事止遣，　　<lb
+ n="0913c26" ed="T"/>如是餘亦知，　　語中義決定。　　<lb
+ n="0913c27" ed="T"/>此無所得正，　　一切名實知，　　<lb
+ n="0913c28" ed="T"/>如義性如是，　　不止遣彼聲。　　<lb
+ n="0913c29" ed="T"/>須菩提二離，　　聲聲義如是，　　<pb n="0914a" ed="T" id="T25.1518.0914a"/><lb
+ n="0914a01" ed="T"/>菩薩無有名，　　我見此有說。　　<lb
+ n="0914a02" ed="T"/>般若波羅蜜，　　語無決定生，　　<lb
+ n="0914a03" ed="T"/>伺察唯智者，　　此義微妙慧。　　<lb
+ n="0914a04" ed="T"/>相續義除遣，　　若別義分別，　　<lb
+ n="0914a05" ed="T"/>般若波羅蜜，　　彼言說如響。　　<lb
+ n="0914a06" ed="T"/>總略如是義，　　般若等依止，　　<lb
+ n="0914a07" ed="T"/>如是義循環，　　復別義依止。　　<lb
+ n="0914a08" ed="T"/>般若波羅蜜，　　正攝八千頌，　　<lb
+ n="0914a09" ed="T"/>彼所得福蘊，　　皆從般若生。　　
+</ab></div><lb
+ n="0914a10" ed="T"/>
+<ab type='juan' subtype='close'>佛母般若波羅蜜多圓集要義論</ab>
+</body></text></TEI>

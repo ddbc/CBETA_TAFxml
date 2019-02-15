@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">華嚴經心陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n1021</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0709c22" ed="T"/><lb
+ n="0709c23" ed="T"/><lb
+ n="0709c24" ed="T"/><lb
+ n="0709c25" ed="T"/>
+<ab type='juan' subtype='open'>華嚴經心陀羅尼</ab><lb
+ n="0709c26" ed="T"/><lb
+ n="0709c27" ed="T"/><div type='dharani' level='2'><ab type='dharani'>唵枳那枳那怛他伽頭踟婆陛珊隱底婆囉底<lb
+ n="0709c28" ed="T"/>烏陀慕陀迷唵薩陛梯薩嚩訶<lb
+ n="0709c29" ed="T"/></ab>
+<ab type='prose'>此陀羅尼是普賢如來說。于闐國三藏實叉<pb n="0710a" id="T19.1021.0710a" ed="T"/><lb
+ n="0710a01" ed="T"/>難陀譯。<lb
+ n="0710a02" ed="T"/>別有本經云。若人誦此一遍。準誦龍藏中華<lb
+ n="0710a03" ed="T"/>嚴經上中下三本一遍。何況常持。若能滿十<lb
+ n="0710a04" ed="T"/>萬遍者。其人敏悟精微。洞徹一切教藏。至於<lb
+ n="0710a05" ed="T"/>福聚轉障不可具說。</ab></div><lb
+ n="0710a06" ed="T"/><div type='w' level='2'><ab type='prose'>上元縣高公寺摩訶衍和尚授</ab></div></div>
+</body></text></TEI>

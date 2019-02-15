@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">泉州千佛新著諸祖師頌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2861</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1320c08" ed="T"/><lb
+ n="1320c09" ed="T"/><lb
+ n="1320c10" ed="T"/><lb
+ n="1320c11" ed="T"/>
+<ab type='juan' subtype='open'>泉州千佛新著諸祖師頌</ab><lb
+ n="1320c12" ed="T"/><lb
+ n="1320c13" ed="T"/><byline>終南山僧　慧觀撰序</byline><lb
+ n="1320c14" ed="T"/><ab type='prose'>南岳泰公著五讚十頌。當時稱之以美談。及<lb
+ n="1320c15" ed="T"/>樂浦香嚴尤長厥頌。斯則助道之端耳。自祖<lb
+ n="1320c16" ed="T"/>燈相囑始迦葉終曹溪。凡三十三祖信衣後<lb
+ n="1320c17" ed="T"/>迨數人。先賢之所未讚者。愚且病焉。雖寶林<lb
+ n="1320c18" ed="T"/>祖述其事閱而可委。奈何忘機。尚懶者或陋<lb
+ n="1320c19" ed="T"/>其繫遠殘秋之可。愚得以前意請於　千佛燈<lb
+ n="1320c20" ed="T"/>禪師罕讓而弗獲免。未信宿而成蓋辭理生<lb
+ n="1320c21" ed="T"/>　千佛之筆當時問答奇句或糅。其間約字<lb
+ n="1320c22" ed="T"/>雖則未多。識者曆觀諸聖之作於是乎在矣。<lb
+ n="1320c23" ed="T"/>亦猶納須彌於芥子其橙一也。是以命牋染<lb
+ n="1320c24" ed="T"/>翰為之序云。西國二十八代祖師及唐土六<lb
+ n="1320c25" ed="T"/>祖師。後󱬯慶明覺大師述。<lb
+ n="1320c26" ed="T"/><head>初祖大迦葉尊者</head><lb
+ n="1320c27" ed="T"/></ab>
+<ab type='verse'>
+偉哉迦葉　　密傳佛心　　身依一納　　<lb
+ n="1320c28" ed="T"/>口海千尋　　威儀庠序　　化道幽深　　<lb
+ n="1320c29" ed="T"/>未逢慈氏　　且定鷄岑　　
+</ab><pb n="1321a" id="T85.2861.1321a" ed="T"/><lb
+ n="1321a01" ed="T"/><head>第二祖阿難尊者</head><lb
+ n="1321a02" ed="T"/><ab type='verse'>
+多聞慶喜　　高建法幢　　傳佛金偈　　<lb
+ n="1321a03" ed="T"/>繼祖銀釭　　慈悲第一　　智慧無雙　　<lb
+ n="1321a04" ed="T"/>飲光後䠱　　月印秋江　　
+</ab><lb
+ n="1321a05" ed="T"/><head>第三祖商那和修尊者</head><lb
+ n="1321a06" ed="T"/><ab type='verse'>
+胎衣尊者　　暗室明燈　　人天耳目　　<lb
+ n="1321a07" ed="T"/>佛法股肱　　非心非色　　無減無增　　<lb
+ n="1321a08" ed="T"/>良哉至理　　覺海大鵬　　
+</ab><lb
+ n="1321a09" ed="T"/><head>第四祖優波毱多尊者</head><lb
+ n="1321a10" ed="T"/><ab type='verse'>
+優波鞠多　　辯瀉玄河　　法山崷󱜛　　<lb
+ n="1321a11" ed="T"/>道樹婆娑　　籌盈石室　　屍繫天魔　　<lb
+ n="1321a12" ed="T"/>性非十七　　悟在剎那　　
+</ab><lb
+ n="1321a13" ed="T"/><head>第五祖提多迦尊者</head><lb
+ n="1321a14" ed="T"/><ab type='verse'>
+多迦大士　　無我出家　　了根達境　　<lb
+ n="1321a15" ed="T"/>兔月空花　　體非形相　　理出齒牙　　<lb
+ n="1321a16" ed="T"/>隨方利物　　豈有瓟瓜　　
+</ab><lb
+ n="1321a17" ed="T"/><head>第六祖彌遮迦</head><lb
+ n="1321a18" ed="T"/><ab type='verse'>
+彌遮加祖　　習五通仙　　遇師正法　　<lb
+ n="1321a19" ed="T"/>看我心偏　　悟如未悟　　玄之又玄　　<lb
+ n="1321a20" ed="T"/>神通示滅　　八部潛然　　
+</ab><lb
+ n="1321a21" ed="T"/><head>第七祖婆須蜜尊者</head><lb
+ n="1321a22" ed="T"/><ab type='verse'>
+祖婆須蜜　　入彌遮室　　迷悟本如　　<lb
+ n="1321a23" ed="T"/>物我冥一　　平携酒器　　項擎佛曰　　<lb
+ n="1321a24" ed="T"/>奚是奚非　　誰得誰失　　
+</ab><lb
+ n="1321a25" ed="T"/><head>第八祖佛陀難提尊者</head><lb
+ n="1321a26" ed="T"/><ab type='verse'>
+佛陀難提　　大化群迷　　心無心外　　<lb
+ n="1321a27" ed="T"/>法理高位　　五天論將　　三界雲梯　　<lb
+ n="1321a28" ed="T"/>卓然真氣　　南北東西　　
+</ab><lb
+ n="1321a29" ed="T"/><head>第九祖伏陀蜜多尊者</head><pb n="1321b" id="T85.2861.1321b" ed="T"/><lb
+ n="1321b01" ed="T"/><ab type='verse'>
+伏陀蜜多　　大器晚成　　五十不語　　<lb
+ n="1321b02" ed="T"/>五十不行　　我逢達士　　倐契無生　　<lb
+ n="1321b03" ed="T"/>崖松有操　　秋鷄無程　　
+</ab><lb
+ n="1321b04" ed="T"/><head>第十祖脇尊者</head><lb
+ n="1321b05" ed="T"/><ab type='verse'>
+脇大尊者　　愛憎網𭫠　　量等虛空　　<lb
+ n="1321b06" ed="T"/>道准簫灑　　真體自然　　因真舒憑　　<lb
+ n="1321b07" ed="T"/>幼世蒼杧　　奔騰意馬　　
+</ab><lb
+ n="1321b08" ed="T"/><head>第十一祖富那夜奢尊者</head><lb
+ n="1321b09" ed="T"/><ab type='verse'>
+富那夜奢　　智若須彌　　心指法住　　<lb
+ n="1321b10" ed="T"/>身外榮衰　　明暗隱顯　　視聽希夷　　<lb
+ n="1321b11" ed="T"/>現前提住　　更不參差　　
+</ab><lb
+ n="1321b12" ed="T"/><head>第十二祖馬鳴菩薩尊者</head><lb
+ n="1321b13" ed="T"/><ab type='verse'>
+尊者馬鳴　　化花□成　　魔宮霧卷　　<lb
+ n="1321b14" ed="T"/>𮇸苑風清　　我欲識佛　　不識者朋　　<lb
+ n="1321b15" ed="T"/>莫非玄解　　動足塵生　　
+</ab><lb
+ n="1321b16" ed="T"/><head>第十三祖迦毘羅尊者</head><lb
+ n="1321b17" ed="T"/><ab type='verse'>
+毘羅尊聖　　因地魔王　　憑師指教　　<lb
+ n="1321b18" ed="T"/>殺證真常　　胡為愚智　　誰是矩長　　<lb
+ n="1321b19" ed="T"/>德馨性淨　　蘭蕙氷霜　　
+</ab><lb
+ n="1321b20" ed="T"/><head>第十四祖龍樹菩薩尊者</head><lb
+ n="1321b21" ed="T"/><ab type='verse'>
+菩薩龍樹　　化龍是霧　　心曉佛心　　<lb
+ n="1321b22" ed="T"/>住而靡住　　身現圓了　　法流膏雨　　<lb
+ n="1321b23" ed="T"/>提婆機投　　孰暗旨趣　　
+</ab><lb
+ n="1321b24" ed="T"/><head>第十五祖迦那提婆尊者</head><lb
+ n="1321b25" ed="T"/><ab type='verse'>
+迦那提婆　　德岸彌高　　迴旋香象　　<lb
+ n="1321b26" ed="T"/>欠㰦金毛　　機通嵒雷　　辯瀉秋濤　　<lb
+ n="1321b27" ed="T"/>始終絕證　　勿誤王刀　　
+</ab><lb
+ n="1321b28" ed="T"/><head>第十六祖羅睺羅多尊者</head><lb
+ n="1321b29" ed="T"/><ab type='verse'>
+羅睺道德　　在口寧論　　因師說耳　　<pb n="1321c" id="T85.2861.1321c" ed="T"/><lb
+ n="1321c01" ed="T"/>尋得人門　　高提日了　　大照乾坤　　<lb
+ n="1321c02" ed="T"/>不取不捨　　傳乎子孫　　
+</ab><lb
+ n="1321c03" ed="T"/><head>第十七祖僧迦難提尊者</head><lb
+ n="1321c04" ed="T"/><ab type='verse'>
+僧迦難提　　莊嚴王子　　逾域九重　　<lb
+ n="1321c05" ed="T"/>入山千里　　定喻井金　　義乖終始　　<lb
+ n="1321c06" ed="T"/>理屈於師　　忽窮自己　　
+</ab><lb
+ n="1321c07" ed="T"/><head>第十八祖迦耶舍多尊者</head><lb
+ n="1321c08" ed="T"/><ab type='verse'>
+迦耶舍多　　幼會佛機　　手携寶鏡　　<lb
+ n="1321c09" ed="T"/>面難提師　　內外絕翳　　眉目無虧　　<lb
+ n="1321c10" ed="T"/>風飄鐸韻　　非我而誰　　
+</ab><lb
+ n="1321c11" ed="T"/><head>第十九祖鳩摩羅多尊者</head><lb
+ n="1321c12" ed="T"/><ab type='verse'>
+鳩摩羅多　　大常止簷　　蒙師為澤　　<lb
+ n="1321c13" ed="T"/>委父無厭　　本非鍛鍊　　肯藉鎚鉗　　<lb
+ n="1321c14" ed="T"/>一榻孤坐　　人天禮瞻　　
+</ab><lb
+ n="1321c15" ed="T"/><head>第二十祖闍夜多尊者</head><lb
+ n="1321c16" ed="T"/><ab type='verse'>
+闍夜多祖　　格高貌古　　錫有六環　　<lb
+ n="1321c17" ed="T"/>田無半畝　　言下不生　　何處不普　　<lb
+ n="1321c18" ed="T"/>垂手入鄽　　他方此土　　
+</ab><lb
+ n="1321c19" ed="T"/><head>第二十一祖婆修盤頭尊者</head><lb
+ n="1321c20" ed="T"/><ab type='verse'>
+婆修盤頭　　修行不臥　　雖曆辛懃　　<lb
+ n="1321c21" ed="T"/>翻成嬾墮　　因指見見　　逢歌拍和　　<lb
+ n="1321c22" ed="T"/>泡幻無真　　聽情無過　　
+</ab><lb
+ n="1321c23" ed="T"/><head>第二十二祖摩拏羅尊者</head><lb
+ n="1321c24" ed="T"/><ab type='verse'>
+辨塔降勇　　自在王子　　雷震蟄行　　<lb
+ n="1321c25" ed="T"/>邪師失齒　　神運六通　　道風千里　　<lb
+ n="1321c26" ed="T"/>聲色恒真　　何須聵耳　　
+</ab><lb
+ n="1321c27" ed="T"/><head>第二十三祖鶴勒尊者</head><lb
+ n="1321c28" ed="T"/><ab type='verse'>
+尊者鶴勒　　上德不得　　任性縱橫　　<lb
+ n="1321c29" ed="T"/>發言奇特　　功高二義　　名宜萬國　　<pb n="1322a" id="T85.2861.1322a" ed="T"/><lb
+ n="1322a01" ed="T"/>稽首歸依　　祖林膽蔔　　
+</ab><lb
+ n="1322a02" ed="T"/><head>第二十四祖師子尊者</head><lb
+ n="1322a03" ed="T"/><ab type='verse'>
+師子尊者　　人天仰譽　　空裏案青　　<lb
+ n="1322a04" ed="T"/>雲間鶴翥　　論鼓纔聲　　法輪高御　　<lb
+ n="1322a05" ed="T"/>㭫柆邪徒　　梧真去處　　
+</ab><lb
+ n="1322a06" ed="T"/><head>第二十五祖婆舍斯多尊者</head><lb
+ n="1322a07" ed="T"/><ab type='verse'>
+婆舍斯多　　久離攀㳂　　未逢作者　　<lb
+ n="1322a08" ed="T"/>終不聞拳　　傳師衣鉢　　度物橋船　　<lb
+ n="1322a09" ed="T"/>當心妙見　　豈假言宜　　
+</ab><lb
+ n="1322a10" ed="T"/><head>第二十六祖不如蜜多者</head><lb
+ n="1322a11" ed="T"/><ab type='verse'>
+不如蜜多　　勝王誕慶　　高遠空嬪　　<lb
+ n="1322a12" ed="T"/>逈就道行　　佛法梗樑　　王以瞻敬　　<lb
+ n="1322a13" ed="T"/>洞鑒如研　　祖堂金鏡　　
+</ab><lb
+ n="1322a14" ed="T"/><head>第二十七祖般若多羅尊者</head><lb
+ n="1322a15" ed="T"/><ab type='verse'>
+般若多羅　　幼名瓔珞　　父母淪亡　　<lb
+ n="1322a16" ed="T"/>東西盤泊　　一曉龜毛　　恒嗟水涸　　<lb
+ n="1322a17" ed="T"/>果滿菩提　　道源遼廓　　
+</ab><lb
+ n="1322a18" ed="T"/><head>第二十八祖　唐土六代祖師</head><lb
+ n="1322a19" ed="T"/><head>第一達摩祖師</head><lb
+ n="1322a20" ed="T"/><ab type='verse'>
+菩提達摩　　道化無為　　九年少室　　<lb
+ n="1322a21" ed="T"/>六葉宗師　　示滅能耳　　隻履西歸　　<lb
+ n="1322a22" ed="T"/>梁天不薦　　惠可傳衣　　
+</ab><lb
+ n="1322a23" ed="T"/><head>第二祖惠可大師</head><lb
+ n="1322a24" ed="T"/><ab type='verse'>
+二祖碩學　　操為堅確　　心貫三乘　　<lb
+ n="1322a25" ed="T"/>項寄五嶽　　天上麒麟　　人間鸑鷟　　<lb
+ n="1322a26" ed="T"/>斷臂立靈　　混而不濁　　
+</ab><lb
+ n="1322a27" ed="T"/><head>第三祖僧璨大師</head><lb
+ n="1322a28" ed="T"/><ab type='verse'>
+三祖大師　　諸王真子　　語出幽微　　<lb
+ n="1322a29" ed="T"/>心無彼此　　或處山林　　或居鄽示　　<pb n="1322b" id="T85.2861.1322b" ed="T"/><lb
+ n="1322b01" ed="T"/>因地花生　　栴檀󱜐旎　　
+</ab><lb
+ n="1322b02" ed="T"/><head>第四祖道信大師</head><lb
+ n="1322b03" ed="T"/><ab type='verse'>
+四祖十四　　因師解脫　　處世道孤　　<lb
+ n="1322b04" ed="T"/>與慈量闊　　永絕彫熒　　逈法始末　　<lb
+ n="1322b05" ed="T"/>果少花多　　忍傳衣鉢　　
+</ab><lb
+ n="1322b06" ed="T"/><head>第五祖弘忍大師</head><lb
+ n="1322b07" ed="T"/><ab type='verse'>
+五祖七歲　　洞達言前　　石牛吐霧　　<lb
+ n="1322b08" ed="T"/>木馬含咽　　身心恒寂　　理事俱玄　　<lb
+ n="1322b09" ed="T"/>無情無種　　千年萬年　　
+</ab><lb
+ n="1322b10" ed="T"/><head>第六祖惠能大師</head><lb
+ n="1322b11" ed="T"/><ab type='verse'>
+師造黃梅　　得旨南來　　爰因幡義　　<lb
+ n="1322b12" ed="T"/>大震法雷　　道明遭過　　神秀逢迴　　<lb
+ n="1322b13" ed="T"/>衣雖不付　　天下花開　　
+</ab><lb
+ n="1322b14" ed="T"/><head>南嶽讓和尚</head><lb
+ n="1322b15" ed="T"/><ab type='verse'>
+觀音和尚　　厥名懷讓　　般若栖神　　<lb
+ n="1322b16" ed="T"/>禪門呆匠　　五岳德高　　四溟心量　　<lb
+ n="1322b17" ed="T"/>法嗣六人　　馬祖興王　　
+</ab><lb
+ n="1322b18" ed="T"/><head>吉州行司和尚</head><lb
+ n="1322b19" ed="T"/><ab type='verse'>
+吉水真人　　出世盧陵　　唯提一脈　　<lb
+ n="1322b20" ed="T"/>逈出三乘　　𤅀中月燭　　火裏行水　　<lb
+ n="1322b21" ed="T"/>訐君妙會　　說衣想應　　
+</ab><lb
+ n="1322b22" ed="T"/><head>國師惠忠和尚</head><lb
+ n="1322b23" ed="T"/><ab type='verse'>
+唐朝國師　　大播鴻猷　　曹溪探月　　<lb
+ n="1322b24" ed="T"/>渭水乘舟　　二天請問　　四眾拋等　　<lb
+ n="1322b25" ed="T"/>法才極瞻　　大耳慚羞　　
+</ab><lb
+ n="1322b26" ed="T"/><head>石頭和尚</head><lb
+ n="1322b27" ed="T"/><ab type='verse'>
+南岳石頭　　吉水分流　　庵栖碧洞　　<lb
+ n="1322b28" ed="T"/>車駕白牛　　學成麟角　　譽漏神舟　　<lb
+ n="1322b29" ed="T"/>僧問淨土　　不垢何求　　
+</ab><pb n="1322c" id="T85.2861.1322c" ed="T"/><lb
+ n="1322c01" ed="T"/><head>江西馬和尚</head><lb
+ n="1322c02" ed="T"/><ab type='verse'>
+馬師道一　　行全金石　　悟本超然　　<lb
+ n="1322c03" ed="T"/>尋枝勞役　　久定身心　　一時拋擲　　<lb
+ n="1322c04" ed="T"/>大化南昌　　寒松千尺　　
+</ab><lb
+ n="1322c05" ed="T"/><ab type='prose'>沙州三界寺沙門道真記</ab></div>
+</body></text></TEI>

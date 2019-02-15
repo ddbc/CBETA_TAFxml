@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">般若波羅蜜多心經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T08</biblScope>
+                    <idno type="Taisho">T08n0255</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0850b18" ed="T"/><lb
+ n="0850b19" ed="T"/><lb
+ n="0850b20" ed="T"/>
+<ab type='juan' subtype='open'>般若波羅蜜多心經</ab><lb
+ n="0850b21" ed="T"/><lb
+ n="0850b22" ed="T"/><byline>國大德三藏法師沙門法成譯</byline><lb
+ n="0850b23" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時薄伽梵住王舍城鷲峯山中，<lb
+ n="0850b24" ed="T"/>與大苾蒭眾及諸菩薩摩訶薩俱。爾時，世尊<lb
+ n="0850b25" ed="T"/>等入甚深明了三摩地法之異門。復於爾時，<lb
+ n="0850b26" ed="T"/>觀自在菩薩摩訶薩行深般若波羅蜜多時，<lb
+ n="0850b27" ed="T"/>觀察照見五蘊體性悉皆是空。時，具壽舍利<lb
+ n="0850b28" ed="T"/>子，承佛威力，白聖者觀自在菩薩摩訶薩曰：<lb
+ n="0850b29" ed="T"/>「若善男子欲修行甚深般若波羅蜜多者，復<pb n="0850c" id="T08.0255.0850c" ed="T"/><lb
+ n="0850c01" ed="T"/>當云何修學？」作是語已。觀自在菩薩摩訶薩<lb
+ n="0850c02" ed="T"/>答具壽舍利子言：「若善男子及善女人，欲修<lb
+ n="0850c03" ed="T"/>行甚深般若波羅蜜多者，彼應如是觀察，五<lb
+ n="0850c04" ed="T"/>蘊體性皆空。色即是空，空即是色。色不異空，<lb
+ n="0850c05" ed="T"/>空不異色。如是受、想、行、識亦復皆空。是故舍<lb
+ n="0850c06" ed="T"/>利子！一切法空性無相，無生無滅，無垢離垢，<lb
+ n="0850c07" ed="T"/>無減無增。舍利子！是故爾時空性之中，無色、<lb
+ n="0850c08" ed="T"/>無受、無想、無行亦無有識。無眼、無耳、無鼻、<lb
+ n="0850c09" ed="T"/>無舌、無身、無意。無色、無聲、無香、無味、無觸、<lb
+ n="0850c10" ed="T"/>無法。無眼界乃至無意識界。無無明亦無無<lb
+ n="0850c11" ed="T"/>明盡，乃至無老死亦無老死盡。無苦、集、滅、道，<lb
+ n="0850c12" ed="T"/>無智無得亦無不得。是故舍利子！以無所<lb
+ n="0850c13" ed="T"/>得故，諸菩薩眾依止般若波羅蜜多，心無障<lb
+ n="0850c14" ed="T"/>礙，無有恐怖，超過顛倒，究竟涅槃。三世一<lb
+ n="0850c15" ed="T"/>切諸佛亦皆依般若波羅蜜多故，證得無上<lb
+ n="0850c16" ed="T"/>正等菩提。舍利子！是故當知般若波羅蜜多<lb
+ n="0850c17" ed="T"/>大密咒者，是大明咒，是無上咒，是無等等<lb
+ n="0850c18" ed="T"/>咒。能除一切諸苦之咒，真實無倒。故知般<lb
+ n="0850c19" ed="T"/>若波羅蜜多是祕密咒。」即說般若波羅蜜多<lb
+ n="0850c20" ed="T"/>咒曰：<lb
+ n="0850c21" ed="T"/></ab>
+<ab type='dharani'>「峩帝　峩帝　波囉峩帝　波囉僧峩帝　菩提　莎訶<lb
+ n="0850c22" ed="T"/></ab>
+<ab type='prose'>「舍利子！菩薩摩訶薩應如是修學甚深般若<lb
+ n="0850c23" ed="T"/>波羅蜜多。」爾時，世尊從彼定起，告聖者觀自<lb
+ n="0850c24" ed="T"/>在菩薩摩訶薩曰：「善哉，善哉！善男子！如是，如<lb
+ n="0850c25" ed="T"/>是！如汝所說。彼當如是修學般若波羅蜜多。<lb
+ n="0850c26" ed="T"/>一切如來亦當隨喜。」時薄伽梵說是語已。具<lb
+ n="0850c27" ed="T"/>壽舍利子，聖者觀自在菩薩摩訶薩，一切世<lb
+ n="0850c28" ed="T"/>間天、人、阿蘇羅、乾闥婆等，聞佛所說，皆大歡<lb
+ n="0850c29" ed="T"/>喜，信受奉行。</ab></div><pb n="0851a" id="T08.0255.0851a" ed="T"/><lb
+ n="0851a01" ed="T"/>
+<ab type='juan' subtype='close'>般若波羅蜜多心經</ab>
+</body></text></TEI>

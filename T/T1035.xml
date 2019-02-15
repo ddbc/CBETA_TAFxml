@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">千轉陀羅尼觀世音菩薩呪</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1035</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0017b20" ed="T"/><lb
+ n="0017b21" ed="T"/><lb
+ n="0017b23" ed="T"/>
+<ab type='juan' subtype='open'>千轉陀羅尼觀世音菩薩呪</ab><lb
+ n="0017b24" ed="T"/><lb
+ n="0017b25" ed="T"/><byline>大唐總持寺沙門智通譯</byline><lb
+ n="0017b26" ed="T"/><div type='dharani' level='2'><ab type='dharani'>娜謨曷囉跢娜怛囉耶夜娜麼<lb
+ n="0017b27" ed="T"/>阿唎耶跋盧枳羝鑠筏囉夜菩提<lb
+ n="0017b28" ed="T"/>薩跢婆夜莫訶薩跢婆夜莫訶迦嚕<lb
+ n="0017b29" ed="T"/>嬭迦夜跢姪他闍曳闍曳闍<pb n="0017c" id="T20.1035.0017c" ed="T"/><lb
+ n="0017c01" ed="T"/>夜婆醯儞闍榆跢唎迦羅<lb
+ n="0017c02" ed="T"/>迦羅麼羅麼羅者羅者羅綺<lb
+ n="0017c03" ed="T"/>拏綺拏薩囉皤羯囉摩跋<lb
+ n="0017c04" ed="T"/>囉拏儞迷薄伽跋底娑訶薩<lb
+ n="0017c05" ed="T"/>囉薄羯羝薩囉皤菩陀跋盧枳<lb
+ n="0017c06" ed="T"/>羝者芻輸嚕怛囉揭囉拏<lb
+ n="0017c07" ed="T"/>是訶皤迦夜末弩毘<lb
+ n="0017c08" ed="T"/>輸達儞素囉素囉鉢囉<lb
+ n="0017c09" ed="T"/>素囉鉢囉素囉薩囉皤菩陀<lb
+ n="0017c10" ed="T"/>阿提瑟絺羝娑婆訶達囉麼<lb
+ n="0017c11" ed="T"/>陀覩揭囉鞞娑婆訶阿婆皤娑皤婆皤達囉摩皤蒱馱<lb
+ n="0017c13" ed="T"/>尼曳娑婆訶<lb
+ n="0017c14" ed="T"/></ab>
+<ab type='prose'>千轉印與觀世音心印同頭指以去四指<lb
+ n="0017c15" ed="T"/>反叉。向內相捺。左大指屈入頭指中。右大<lb
+ n="0017c16" ed="T"/>指舒直。向內勿曲。兩腕相合。兩脚作丁字形。<lb
+ n="0017c17" ed="T"/>乃右脚直立左膝曲在外。弩跨身屈向左邊。<lb
+ n="0017c18" ed="T"/>以心印當右乳前勿著乳。面作笑顏頭向右<lb
+ n="0017c19" ed="T"/>每月十五日洗浴於淨室。手<lb
+ n="0017c20" ed="T"/>作心印誦呪。滅四重五逆。<lb
+ n="0017c21" ed="T"/>千轉云。誦此呪已惡業消滅。至七遍五逆罪<lb
+ n="0017c22" ed="T"/>滅。若滿十遍已罪無不滅。十萬遍面見觀音<lb
+ n="0017c23" ed="T"/>種種莊嚴者。七日之中初作法時。惟得食乳<lb
+ n="0017c24" ed="T"/>糜蘇酪白餅粳米飯。不得食鹽醬菜。最後一<pb n="0018a" id="T20.1035.0018a" ed="T"/><lb
+ n="0018a01" ed="T"/>日勿食。十五日夜空腹。佛前馺馺誦呪無定<lb
+ n="0018a02" ed="T"/>數。見像動搖。出聲唱言善哉。放光明曜。復以<lb
+ n="0018a03" ed="T"/>真珠寶物安呪師頂上。即知成驗。面見觀音<lb
+ n="0018a04" ed="T"/>已。得滿一切善願。又於睡眠中夢見觀音種<lb
+ n="0018a05" ed="T"/>種莊嚴者。一切善事成就。一切惡業消滅。直<lb
+ n="0018a06" ed="T"/>轉讀者亦得滅罪。欲東西行時。先呪手七遍<lb
+ n="0018a07" ed="T"/>以摩拭面。所至之處無諸災橫若能清淨如<lb
+ n="0018a08" ed="T"/>法常誦不廢。得第一地。若有女人能誦持者<lb
+ n="0018a09" ed="T"/>後成男子。更不重受如是女形。先作壇安置<lb
+ n="0018a10" ed="T"/>供養備訖。然始誦呪其壇四面各長十六肘。<lb
+ n="0018a11" ed="T"/>四重作規。院相皆外白色內四色。各一重如<lb
+ n="0018a12" ed="T"/>似壁勢。即是八重也。合五方色四面開門。東<lb
+ n="0018a13" ed="T"/>西南北相當。正中一重不須開門。大瓦罐八<lb
+ n="0018a14" ed="T"/>枚瓮子四枚。滿盛水插柏及樹枝。安水罐瓮<lb
+ n="0018a15" ed="T"/>中。作白餅粳米飯乳酪蘇蜜香果子等供養。<lb
+ n="0018a16" ed="T"/>然十六枝燈。四門外各插十六隻未經用箭。<lb
+ n="0018a17" ed="T"/>掛五綵線於箭上。取佉陀羅木四枝。二<lb
+ n="0018a18" ed="T"/>長五指二長六指。釘壇四角。散種種時非時<lb
+ n="0018a19" ed="T"/>花於壇上。又取頗伽木一千八百枚。<lb
+ n="0018a20" ed="T"/>各長一尺。若一瓦鉢若銅鉢。和蘇乳塗此<lb
+ n="0018a21" ed="T"/>木枝。呪一枝一遍即擲火中。無佉陀羅木時<lb
+ n="0018a22" ed="T"/>須畫一白色觀音聖者像。隨力大小作。<lb
+ n="0018a23" ed="T"/>又先翻法云。千劫聚集業障。一時誦念悉皆<lb
+ n="0018a24" ed="T"/>滅盡。得千佛聚集善根。得背千劫流轉生老<lb
+ n="0018a25" ed="T"/>病死邊際。捨此身已即見千轉輪聖王。恒持<lb
+ n="0018a26" ed="T"/>十善。若欲生諸佛淨土者。晝夜各三時誦二<lb
+ n="0018a27" ed="T"/>十一遍。滿三七日如其所欲。即於夢中或見<lb
+ n="0018a28" ed="T"/>佛金色形像及菩薩形像。<lb
+ n="0018a29" ed="T"/>上件呪及功能。並是通師總持寺翻梵本出。<pb n="0018b" id="T20.1035.0018b" ed="T"/><lb
+ n="0018b01" ed="T"/>其印法者崛多師譯出。</ab></div><lb
+ n="0018b02" ed="T"/><div type='w' level='2'><ab type='prose'>別譯本云。受持法。取突婆香并苗五斤。楮<lb
+ n="0018b03" ed="T"/>木一千箇長一尺。并蘇總呪一千遍。臨欲<lb
+ n="0018b04" ed="T"/>燒之。以蘇塗木莖及香上。各呪一遍燒<lb
+ n="0018b05" ed="T"/>之。豫五月六月取牛糞陰乾。突婆香水和<lb
+ n="0018b06" ed="T"/>作泥作場身。二肘圓作場。場上安種種花<lb
+ n="0018b07" ed="T"/>香。冬月無花刻花安之。然薰陸香。呪師面<lb
+ n="0018b08" ed="T"/>向東。坐誦滿一千遍法成。未呪之時用此<lb
+ n="0018b09" ed="T"/>呪水二十一遍。或七遍服之。呪水解污淨<lb
+ n="0018b10" ed="T"/>室道場佛堂洗身呪柳枝打病呪水治病並<lb
+ n="0018b11" ed="T"/>得。各二十一遍。若能一生日別三時時別<lb
+ n="0018b12" ed="T"/>誦二十一遍。滅罪不可思議通一切用。</ab></div><lb
+ n="0018b13" ed="T"/>
+<ab type='juan' subtype='close'>千轉陀羅尼觀世音菩薩呪</ab></div>
+</body></text></TEI>

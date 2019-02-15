@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說聖曜母陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1303</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0421a15" ed="T"/><lb
+ n="0421a16" ed="T"/><lb
+ n="0421a17" ed="T"/><div type='jing' level='1'><lb
+ n="0421a18" ed="T"/>
+<ab type='juan' subtype='open'>佛說聖曜母陀羅尼經</ab><lb
+ n="0421a19" ed="T"/><lb
+ n="0421a20" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
+ n="0421a21" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
+ n="0421a22" ed="T"/><ab type='prose'>如是我聞。一時佛在阿拏迦嚩帝大城。爾時<lb
+ n="0421a23" ed="T"/>有無數天龍夜叉乾闥婆阿修羅迦樓羅緊那<lb
+ n="0421a24" ed="T"/>羅摩睺羅伽人非人。及木星火星金星水星<lb
+ n="0421a25" ed="T"/>土星。太陰太陽羅睺計都。如是等二十七曜<lb
+ n="0421a26" ed="T"/>恭敬圍遶。此大金剛三昧莊嚴道場。復有無<lb
+ n="0421a27" ed="T"/>數千菩薩摩訶薩眾。其名曰金剛手菩薩金<lb
+ n="0421a28" ed="T"/>剛忿怒菩薩。金剛軍菩薩金剛播尼菩薩。金<lb
+ n="0421a29" ed="T"/>剛主菩薩金剛莊嚴菩薩。金剛明菩薩金剛<pb n="0421b" id="T21.1303.0421b" ed="T"/><lb
+ n="0421b01" ed="T"/>敷菩薩。觀自在菩薩普觀世菩薩。吉祥菩薩<lb
+ n="0421b02" ed="T"/>蓮華幢菩薩。蓮華藏菩薩蓮華目菩薩。慈氏<lb
+ n="0421b03" ed="T"/>菩薩文殊師利法王子菩薩摩訶薩。如是等<lb
+ n="0421b04" ed="T"/>諸大菩薩恭敬圍遶。佛為說法初善中善後<lb
+ n="0421b05" ed="T"/>善。其義深遠其語巧妙。純一無雜具足清白<lb
+ n="0421b06" ed="T"/>莊嚴如意。<lb
+ n="0421b07" ed="T"/>爾時金剛手菩薩摩訶薩。即從座起以神通<lb
+ n="0421b08" ed="T"/>力。右繞世尊無數百千匝。頭面作禮結跏趺<lb
+ n="0421b09" ed="T"/>坐。以清淨眼觀彼大眾。作金剛合掌安向心<lb
+ n="0421b10" ed="T"/>間。白世尊言。有諸宿曜形貌麁惡。心多忿怒<lb
+ n="0421b11" ed="T"/>惱害眾生。或斷命根或耗人財寶。或減人精<lb
+ n="0421b12" ed="T"/>神或促人年壽。如是損惱一切眾生。惟願世<lb
+ n="0421b13" ed="T"/>尊說正密法為作擁護。佛言善哉善哉。汝能<lb
+ n="0421b14" ed="T"/>慈愍利益一切眾生。問於如來最上祕密之<lb
+ n="0421b15" ed="T"/>法。汝今諦聽善思念之。我為汝說金剛手。如<lb
+ n="0421b16" ed="T"/>是諸惡宿曜。及天龍夜叉乾闥婆阿脩羅迦<lb
+ n="0421b17" ed="T"/>樓羅緊那羅摩睺羅伽人非人等。應以最上<lb
+ n="0421b18" ed="T"/>閼伽。及音樂等。依法加持一一供養。令彼歡<lb
+ n="0421b19" ed="T"/>喜滅除諸惡。時釋迦牟尼佛。於自心中出大<lb
+ n="0421b20" ed="T"/>光明。名慈悲光。入諸宿曜頂。剎那之間一切<lb
+ n="0421b21" ed="T"/>宿曜及日月等。即從座起頭面禮足。右膝著<lb
+ n="0421b22" ed="T"/>地合掌恭敬白佛言。世尊如來應正等覺。願<lb
+ n="0421b23" ed="T"/>賜攝受為說正法。我等若聞擁護有情令無<lb
+ n="0421b24" ed="T"/>災害。所有禁縛刀劍毒蟲一切不害。我結地<lb
+ n="0421b25" ed="T"/>界而為守護。爾時釋迦如來。即說供養宿曜<lb
+ n="0421b26" ed="T"/>真言。<lb
+ n="0421b27" ed="T"/></ab>
+<ab type='dharani'>唵銘齲攞迦野娑嚩賀唵尸<lb
+ n="0421b28" ed="T"/>旦舍尾娑嚩賀唵洛訖旦誐俱<lb
+ n="0421b29" ed="T"/>麼囉野娑嚩賀唵󰂛馱野󰂛馱<pb n="0421c" id="T21.1303.0421c" ed="T"/><lb
+ n="0421c01" ed="T"/>野娑嚩賀唵步誐娑波那野<lb
+ n="0421c02" ed="T"/>娑嚩賀唵阿穌囉薩多麼野娑嚩賀唵訖里瑟拏嚩囉拏野<lb
+ n="0421c04" ed="T"/>娑嚩賀唵阿沒里多鉢里夜<lb
+ n="0421c05" ed="T"/>野娑嚩賀唵乳底計多吠娑嚩<lb
+ n="0421c06" ed="T"/>賀</ab>
+<ab type='prose'>爾時世尊說真言已。告金剛手菩薩<lb
+ n="0421c07" ed="T"/>言。如是九曜真言。念者皆得成就。先須依法<lb
+ n="0421c08" ed="T"/>以香水。塗曼拏羅闊十二指。或金銀器或銅<lb
+ n="0421c09" ed="T"/>器瓦器等。獻閼伽供養星曜。用前真言各念<lb
+ n="0421c10" ed="T"/>一百八遍。所求之事而悉成就。佛告金剛手<lb
+ n="0421c11" ed="T"/>菩薩。我今復說陀羅尼名聖曜母。有大明力<lb
+ n="0421c12" ed="T"/>能為擁護。一切宿曜聞悉歡喜。若有苾芻苾<lb
+ n="0421c13" ed="T"/>芻尼優婆塞優婆夷。聞此經典於曼拏羅獻<lb
+ n="0421c14" ed="T"/>閼伽供養。念此真言七遍。即得富貴長壽。若<lb
+ n="0421c15" ed="T"/>日日持誦彼一切宿曜。能滿有情一切意願。<lb
+ n="0421c16" ed="T"/>宿曜母陀羅尼曰。<lb
+ n="0421c17" ed="T"/></ab>
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩謨沒馱<lb
+ n="0421c18" ed="T"/>野曩謨嚩日囉馱囉野曩謨鉢捺麼<lb
+ n="0421c19" ed="T"/>馱囉野曩謨薩嚩仡囉賀𧹞薩嚩<lb
+ n="0421c20" ed="T"/>商波哩布囉迦𧹞曩謨諾乞叉怛<lb
+ n="0421c21" ed="T"/>囉𧹞曩謨訥嚩那舍囉尸南怛<lb
+ n="0421c22" ed="T"/>儞也他唵沒第嚩日里嚩日里<lb
+ n="0421c23" ed="T"/>鉢捺銘娑囉娑囉鉢囉娑囉鉢囉<lb
+ n="0421c24" ed="T"/>娑囉三麼囉三麼囉託里拏野<lb
+ n="0421c25" ed="T"/>訖里拏野末里那野伽多野伽多<lb
+ n="0421c26" ed="T"/>野薩嚩尾覲曩俱嚕俱嚕親那親那頻那<lb
+ n="0421c27" ed="T"/>頻那剎跛野剎跛野扇帝扇帝難<lb
+ n="0421c28" ed="T"/>帝難帝那麼野那麼野訥嚕<lb
+ n="0421c29" ed="T"/>怛那哩舍野怛麼南麼麼𠸪乞叉𠸪<pb n="0422a" id="T21.1303.0422a" ed="T"/><lb
+ n="0422a01" ed="T"/>乞叉薩嚩薩怛嚩室左薩嚩諾乞<lb
+ n="0422a02" ed="T"/>剎怛囉仡囉賀閉𧹞麼儞<lb
+ n="0422a03" ed="T"/>哩嚩囉曳婆誐嚩底麼賀麼曳鉢囉娑馱野薩嚩播播儞彌薩嚩薩怛嚩南贊抳贊抳都嚕都嚕婆誐嚩帝贊抳贊抳<lb
+ n="0422a06" ed="T"/>蘇母蘇母祖母祖母婆嚩婆吠烏仡哩烏<lb
+ n="0422a07" ed="T"/>仡囉多閉布囉野麼麼薩嚩薩怛嚩難<lb
+ n="0422a08" ed="T"/>左麼努囉他薩嚩怛他誐多地瑟恥<lb
+ n="0422a09" ed="T"/>多三摩曳娑嚩賀唵娑嚩賀吽娑<lb
+ n="0422a10" ed="T"/>嚩賀紇凌娑嚩賀通娑嚩<lb
+ n="0422a11" ed="T"/>賀定娑嚩賀嚩日囉馱囉野娑<lb
+ n="0422a12" ed="T"/>嚩賀鉢捺麼馱囉野娑嚩賀<lb
+ n="0422a13" ed="T"/>阿𡫸底也野娑嚩賀穌麼野娑嚩賀馱囉抳穌多野娑嚩賀母馱野娑<lb
+ n="0422a15" ed="T"/>嚩賀勿里賀薩波多曳娑嚩<lb
+ n="0422a16" ed="T"/>賀速訖囉野娑嚩賀訖哩瑟<lb
+ n="0422a17" ed="T"/>拏嚩囉拏野娑嚩賀囉賀吠娑<lb
+ n="0422a18" ed="T"/>嚩賀迦多吠娑嚩賀沒馱野娑<lb
+ n="0422a19" ed="T"/>嚩賀嚩日囉馱囉野娑囉賀鉢<lb
+ n="0422a20" ed="T"/>那麼馱囉野娑嚩賀俱麼囉野娑<lb
+ n="0422a21" ed="T"/>嚩賀諾乞叉怛囉𧹞娑嚩賀薩<lb
+ n="0422a22" ed="T"/>里舞波那囉嚩𧹞娑嚩賀唵薩哩嚩<lb
+ n="0422a23" ed="T"/>尾禰吽𠷑吒娑嚩賀<lb
+ n="0422a24" ed="T"/></ab>
+<ab type='prose'>爾時世尊說此陀羅尼已。告金剛手菩薩言。<lb
+ n="0422a25" ed="T"/>今此真言最上祕密。能與眾生滿一切願。若<lb
+ n="0422a26" ed="T"/>有人求長壽等。於八月七日起首。受持齋戒<lb
+ n="0422a27" ed="T"/>至十四日夜。依法供養宿曜至十五日。一晝<lb
+ n="0422a28" ed="T"/>夜中讀誦此陀羅尼。彼人得長壽至九十九<lb
+ n="0422a29" ed="T"/>歲。所有雷電龍鬼諸惡星曜皆不能怖。復得<pb n="0422b" id="T21.1303.0422b" ed="T"/><lb
+ n="0422b01" ed="T"/>宿命智所願如意。爾時一切宿曜聞佛所說。<lb
+ n="0422b02" ed="T"/>讚言善哉善哉甚為希有。我等受持。即以頭<lb
+ n="0422b03" ed="T"/>面禮世尊足忽然不現。<lb
+ n="0422b04" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說聖曜母陀羅尼經</ab></div>
+</body></text></TEI>

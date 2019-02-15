@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">阿彌陀佛說呪</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T12</biblScope>
+                    <idno type="Taisho">T12n0369</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0352a20" ed="T"/><lb
+ n="0352a21" ed="T"/><lb
+ n="0352a22" ed="T"/><lb
+ n="0352a23" ed="T"/>
+<ab type='juan' subtype='open'>阿彌陀佛說呪</ab><lb
+ n="0352a24" ed="T"/><lb
+ n="0352a25" ed="T"/><div type='jing' level='1'><ab type='dharani'>那謨菩陀夜那謨䭾囉摩夜那<lb
+ n="0352a26" ed="T"/>謨僧伽夜那摩阿弭多婆夜跢<lb
+ n="0352a27" ed="T"/>他伽多夜阿囉訶羝三藐三菩陀<lb
+ n="0352a28" ed="T"/>夜跢姪他阿弭唎羝阿弭唎都<lb
+ n="0352a29" ed="T"/>婆鼙阿弭唎跢三婆鼙阿弭<pb n="0352b" id="T12.0369.0352b" ed="T"/><lb
+ n="0352b01" ed="T"/>唎跢鼻迦㘓羝伽弭儞伽伽那<lb
+ n="0352b02" ed="T"/>稽唎底迦󰣍婆囉皤波跢叉<lb
+ n="0352b03" ed="T"/>焰迦󰣍娑婆訶</ab></div>
+</body></text></TEI>

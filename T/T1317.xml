@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">甘露陀羅尼呪</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1317</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0468c" id="T21.1317.0468c" ed="T"/><lb
+ n="0468c01" ed="T"/><lb
+ n="0468c02" ed="T"/><div type='dharani' level='1'><lb
+ n="0468c03" ed="T"/>
+<ab type='juan' subtype='open'>甘露陀羅尼呪</ab><lb
+ n="0468c04" ed="T"/><lb
+ n="0468c05" ed="T"/><byline>于闐三藏實叉難陀佛授記寺譯</byline><lb
+ n="0468c06" ed="T"/><ab type='dharani'>那謨皤哦嚩帝阿彌哆婆耶怛他羯哆耶<lb
+ n="0468c07" ed="T"/>阿羅訶帝三𦵧三勃陀耶怛儞也他<lb
+ n="0468c08" ed="T"/>唵阿彌哩帝阿彌哩覩皤吠阿彌哩哆<lb
+ n="0468c09" ed="T"/>參皤吠阿彌哩哆羯陛阿彌哩哆徙悌<lb
+ n="0468c10" ed="T"/>阿彌哩哆帝藝阿彌哩哆尾羯囕帝阿彌哩哆尾迦哆哦彌泥阿彌哩哆伽<lb
+ n="0468c12" ed="T"/>哦曩枳栗底迦隷阿彌哩哆訥努吠薩嚩隷薩婆怛他薩陀彌薩婆<lb
+ n="0468c14" ed="T"/>枳隷捨羯叉炎迦隷薩嚩訶<lb
+ n="0468c15" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說甘露陀羅尼經</ab></div>
+</body></text></TEI>

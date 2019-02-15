@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">比丘避女惡名欲自殺經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0503</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0771c" ed="T" id="T14.0503.0771c"/><lb
+ n="0771c01" ed="T"/><lb
+ ed="T" n="0771c02"/><lb
+ ed="T" n="0771c03"/>
+<ab type='juan' subtype='open'>比丘避女惡名欲自殺經</ab><lb
+ ed="T" n="0771c04"/><lb
+ ed="T" n="0771c05"/><byline>西晉沙門法炬譯</byline><lb
+ ed="T" n="0771c06"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛住舍衛國祇樹給孤獨園。<lb
+ ed="T" n="0771c07"/>時有異比丘，在拘薩羅人間住一林中。時<lb
+ n="0771c08" ed="T"/>彼比丘與長者婦女嬉戲，起惡名聲。時彼<lb
+ ed="T" n="0771c09"/>比丘作是念：「我今不應共他婦女起惡名聲，<lb
+ ed="T" n="0771c10"/>我今欲於此林中自殺！」時彼林中，止住天<lb
+ ed="T" n="0771c11"/>神作是念：「惡不善，不類此。比丘不壞無過，而<lb
+ ed="T" n="0771c12"/>於林中欲自殺身，我今當往，方便開悟！」時<lb
+ n="0771c13" ed="T"/>彼天神化作長者女身，語比丘言：「於諸巷路<lb
+ n="0771c14" ed="T"/>四衢道中，世間諸人為我及汝起惡名聲，<lb
+ ed="T" n="0771c15"/>言我與汝共相習近，作不正事。已有惡名，<lb
+ ed="T" n="0771c16"/>今可還俗，共相娛樂。」比丘答言：「以彼里巷四<lb
+ ed="T" n="0771c17"/>衢道中，為我與汝起惡名聲，共相習近，為<lb
+ ed="T" n="0771c18"/>不正事，我今且自殺身。」時彼天神還復天身，<lb
+ n="0771c19" ed="T"/>而說偈言：<lb
+ ed="T" n="0771c20"/></ab>
+<ab type='verse'>
+「雖聞多惡名，　　苦行者忍之，　　<lb
+ ed="T" n="0771c21"/>不應苦自害，　　亦不應起惱。　　<lb
+ ed="T" n="0771c22"/>聞聲恐怖者，　　是則林中獸，　　<lb
+ ed="T" n="0771c23"/>是輕躁眾生，　　不成出家法。　　<lb
+ ed="T" n="0771c24"/>仁者當堪耐，　　下、中、上惡聲，　　<lb
+ n="0771c25" ed="T"/>執心堅住者，　　是則出家法。　　<lb
+ n="0771c26" ed="T"/>不由他人語，　　令汝成劫賊，　　<lb
+ n="0771c27" ed="T"/>亦不由他人，　　令汝得羅漢；　　<lb
+ n="0771c28" ed="T"/>如汝自知已，　　諸天亦復知。」　　
+</ab><lb
+ ed="T" n="0771c29"/><ab type='prose'>爾時比丘為彼天神所開悟已，專精思惟，斷<pb n="0772a" ed="T" id="T14.0503.0772a"/><lb
+ ed="T" n="0772a01"/>除煩惱，得阿羅漢。</ab></div><lb
+ ed="T" n="0772a02"/>
+<ab type='juan' subtype='close'>比丘避女惡名欲自殺經</ab>
+</body></text></TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">開元寺求得經疏記等目錄</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T55</biblScope>
+                    <idno type="Taisho">T55n2169</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1092a09" ed="T"/><lb
+ n="1092a10" ed="T"/><lb
+ n="1092a11" ed="T"/>
+<ab type='juan' subtype='open'>開元寺求得經疏記等目錄</ab><lb
+ n="1092a12" ed="T"/><lb
+ n="1092a13" ed="T"/><ab type='prose'>日本國求法僧圓珍目錄<lb
+ n="1092a14" ed="T"/>於福府開元寺。求得經論疏記等。總計一<lb
+ n="1092a15" ed="T"/>百五十六卷。<lb
+ n="1092a16" ed="T"/>法鏡經□□<lb
+ n="1092a17" ed="T"/>大乘方等要慧經一卷<lb
+ n="1092a18" ed="T"/>大乘金剛髻珠菩薩修行分一卷<lb
+ n="1092a19" ed="T"/>大方廣普賢所說經一卷<lb
+ n="1092a20" ed="T"/>八定不定印經一卷<lb
+ n="1092a21" ed="T"/>不空羂索陀羅尼經一卷<lb
+ n="1092a22" ed="T"/>最妙勝定經一卷<lb
+ n="1092a23" ed="T"/>妙法蓮華經論一卷<lb
+ n="1092a24" ed="T"/>顯揚聖教論頌一卷<lb
+ n="1092a25" ed="T"/>無相論二卷<lb
+ n="1092a26" ed="T"/>因明正理門論一卷<lb
+ n="1092a27" ed="T"/>大乘廣五蘊論一卷<lb
+ n="1092a28" ed="T"/>大周群經目錄二卷<lb
+ n="1092a29" ed="T"/>華嚴法海二卷<pb n="1092b" id="T55.2169.1092b" ed="T"/><lb
+ n="1092b01" ed="T"/>八識三身圖□卷<lb
+ n="1092b02" ed="T"/>道進鈔六卷<lb
+ n="1092b03" ed="T"/>法華科文二卷<lb
+ n="1092b04" ed="T"/>淨名經關中疏略數義圖一卷<lb
+ n="1092b05" ed="T"/>金師子觀門一卷<lb
+ n="1092b06" ed="T"/>四分律音訓一卷<lb
+ n="1092b07" ed="T"/>和上變像一鋪<lb
+ n="1092b08" ed="T"/>福州開元寺新造浮屠碑并敘一卷<lb
+ n="1092b09" ed="T"/>於開元寺造淨土寫一切經竝藏碣銘并序一<lb
+ n="1092b10" ed="T"/>卷<lb
+ n="1092b11" ed="T"/>監軍使再修經藏院記一卷<lb
+ n="1092b12" ed="T"/>已上寫得。<lb
+ n="1092b13" ed="T"/>中天竺大那蘭陀寺貝多葉梵字真言一夾<lb
+ n="1092b14" ed="T"/>梵字無礙大悲心陀羅尼一夾<lb
+ n="1092b15" ed="T"/>已上婆羅門三藏阿娑阿哩耶曼蘇悉<lb
+ n="1092b16" ed="T"/>怛羅捨授。<lb
+ n="1092b17" ed="T"/>觀世音菩薩像一卷<lb
+ n="1092b18" ed="T"/>菩薩戒疏二卷<lb
+ n="1092b19" ed="T"/>阿彌陀經疏一卷<lb
+ n="1092b20" ed="T"/>淨名經疏三卷<lb
+ n="1092b21" ed="T"/>般若心經疏一卷<lb
+ n="1092b22" ed="T"/>華嚴經疏二十卷<lb
+ n="1092b23" ed="T"/>法華玄贊十卷<lb
+ n="1092b24" ed="T"/>法華經疏十卷<lb
+ n="1092b25" ed="T"/>涅槃經疏十卷<lb
+ n="1092b26" ed="T"/>開四分律宗記十卷<lb
+ n="1092b27" ed="T"/>弘調伏錄八卷<lb
+ n="1092b28" ed="T"/>開四分律宗記鏡十卷<lb
+ n="1092b29" ed="T"/>四分律科文一卷<pb n="1092c" id="T55.2169.1092c" ed="T"/><lb
+ n="1092c01" ed="T"/>四分開宗紀八卷<lb
+ n="1092c02" ed="T"/>城都抄一卷<lb
+ n="1092c03" ed="T"/>雜轉降句一卷<lb
+ n="1092c04" ed="T"/>四分比丘尼隨要行儀二卷<lb
+ n="1092c05" ed="T"/>俱舍論頌疏十二卷<lb
+ n="1092c06" ed="T"/>俱舍論疏記五卷<lb
+ n="1092c07" ed="T"/>俱舍論釋頌疏抄三卷<lb
+ n="1092c08" ed="T"/>俱舍序記一卷<lb
+ n="1092c09" ed="T"/>已上沙門常砧存式惠灌智海義雄參寥<lb
+ n="1092c10" ed="T"/>履權等捨施。<lb
+ n="1092c11" ed="T"/>相送詩一卷<lb
+ n="1092c12" ed="T"/>□月二十一日承　州判住開元寺。<lb
+ n="1092c13" ed="T"/>以前法門且隨求得記錄如件。<lb
+ n="1092c14" ed="T"/>巨唐大中七年九月二十一日　本□求<lb
+ n="1092c15" ed="T"/>法僧圓珍記。</ab></div>
+</body></text></TEI>

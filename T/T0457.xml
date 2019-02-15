@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說彌勒來時經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0457</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0434b14" ed="T"/><lb
+ n="0434b15" ed="T"/><lb
+ n="0434b16" ed="T"/><lb
+ n="0434b17" ed="T"/>
+<ab type='juan' subtype='open'>佛說彌勒來時經</ab><lb
+ n="0434b18" ed="T"/><lb
+ n="0434b19" ed="T"/><byline>失譯人名附東晉錄</byline><lb
+ n="0434b20" ed="T"/><div type='jing' level='1'><ab type='prose'>舍利弗者，是佛第一弟子，以慈心念天下，往<lb
+ n="0434b21" ed="T"/>到佛所前，長跪叉手問言：「佛常言：『佛去後，當<lb
+ n="0434b22" ed="T"/>有彌勒來。』願欲從佛聞之。」佛言：「彌勒佛欲<lb
+ n="0434b23" ed="T"/>來出時，閻浮利內地山樹、草木皆焦盡。於今<lb
+ n="0434b24" ed="T"/>閻浮利地，周匝六十萬里，彌勒出時，閻浮利<lb
+ n="0434b25" ed="T"/>地東、西長四十萬里，南、北廣三十二萬里，地<lb
+ n="0434b26" ed="T"/>皆當生五種果蓏，四海內無山陵嵠谷，地平<lb
+ n="0434b27" ed="T"/>如砥，樹木皆長大。「當是時，人民少貪婬、瞋恚、<lb
+ n="0434b28" ed="T"/>愚癡者，人民眾多，聚落家居，鷄鳴展轉相聞，<lb
+ n="0434b29" ed="T"/>人民皆壽八萬四千歲，女人五百歲乃行嫁，<pb n="0434c" ed="T" id="T14.0457.0434c"/><lb
+ n="0434c01" ed="T"/>人民無病痛者。盡天下人有三病：一者、意欲<lb
+ n="0434c02" ed="T"/>有所得；二者、飢渴；三者、年老。人民面目皆<lb
+ n="0434c03" ed="T"/>桃花色，人民皆敬重。「有城名鷄頭末，鷄頭<lb
+ n="0434c04" ed="T"/>末城者當王國治，城周匝四百八十里，以<lb
+ n="0434c05" ed="T"/>土築城，復以板著城，復以金、銀、琉璃、水精、珍<lb
+ n="0434c06" ed="T"/>寶著城。四面各十二門，門皆刻鏤，復以金、<lb
+ n="0434c07" ed="T"/>銀、琉璃、水精、珍寶著之。國王名僧羅，四海<lb
+ n="0434c08" ed="T"/>內皆屬僧羅，行即飛行，所可行處，人民鬼<lb
+ n="0434c09" ed="T"/>神皆傾側。「城有四寶：一者、金，有龍守之，<lb
+ n="0434c10" ed="T"/>龍名倪𧑝鏠，主護金，龍所居山地名犍陀；<lb
+ n="0434c11" ed="T"/>二者、銀，其國中復有守龍名幡頭；三者、明月<lb
+ n="0434c12" ed="T"/>珠，所生地處名須漸，守珍龍名賓竭；四<lb
+ n="0434c13" ed="T"/>者、琉璃，所生城名氾羅那夷。「有一婆羅門<lb
+ n="0434c14" ed="T"/>名須凡，當為彌勒作父。彌勒母名摩訶越題，<lb
+ n="0434c15" ed="T"/>彌勒當為作子。彌勒者種當作婆羅門，身有<lb
+ n="0434c16" ed="T"/>三十二相、八十種好，身長十六丈。彌勒生墮<lb
+ n="0434c17" ed="T"/>城地，目徹視萬里內，頭中日光照四千里。<lb
+ n="0434c18" ed="T"/>彌勒得道為佛時，於龍華樹下坐，樹高四十<lb
+ n="0434c19" ed="T"/>里，廣亦四十里。彌勒得佛時，有八萬四千<lb
+ n="0434c20" ed="T"/>婆羅門，皆往到彌勒所師事之，則棄家作沙<lb
+ n="0434c21" ed="T"/>門。彌勒到樹下坐，用四月八日明星出時<lb
+ n="0434c22" ed="T"/>得佛道。「國王僧羅聞彌勒得佛，則將八十四<lb
+ n="0434c23" ed="T"/>王，皆棄國捐王，以國付太子，共到彌勒佛所，<lb
+ n="0434c24" ed="T"/>皆除鬚髮為沙門。復有千八百婆羅門，皆<lb
+ n="0434c25" ed="T"/>到彌勒佛所作沙門，彌勒父母亦在其中。復<lb
+ n="0434c26" ed="T"/>有聖婆羅門千八十四人，皆復到彌勒佛所<lb
+ n="0434c27" ed="T"/>作沙門。「國有大豪賢者，名須檀，人呼須達，復<lb
+ n="0434c28" ed="T"/>呼人民，以黃金持與彌勒佛及諸沙門，名聲<lb
+ n="0434c29" ed="T"/>日布方遠。須達復將賢善人萬四千人，到彌<pb n="0435a" ed="T" id="T14.0457.0435a"/><lb
+ n="0435a01" ed="T"/>勒佛所作沙門。「復有兄弟二人，兄名鼓達，弟<lb
+ n="0435a02" ed="T"/>名扶蘭，兄弟皆言：『我曹何為是世間？寧可<lb
+ n="0435a03" ed="T"/>俱到佛所，求作沙門耶！』兄弟皆言：『我善便到<lb
+ n="0435a04" ed="T"/>彌勒佛所作沙門。』「復有小女人輩八萬四千<lb
+ n="0435a05" ed="T"/>人，身皆著好衣、白珠、金銀、瓔珞，俱到彌勒佛<lb
+ n="0435a06" ed="T"/>所，皆脫著身珍寶以著地，白佛言：『我曹欲持<lb
+ n="0435a07" ed="T"/>是上佛及諸沙門，我欲從佛作比丘尼。』佛即<lb
+ n="0435a08" ed="T"/>令作比丘尼。「彌勒佛坐，為諸比丘僧、比丘尼<lb
+ n="0435a09" ed="T"/>說，皆是釋迦文佛時，誦經者、慈心者、布施<lb
+ n="0435a10" ed="T"/>者、不瞋恚者、作佛圖寺者、持佛骨著塔中<lb
+ n="0435a11" ed="T"/>者、燒香者、然燈者、懸繒者、散花者、讀經者。<lb
+ n="0435a12" ed="T"/>是諸比丘尼，皆釋迦文佛時人，持戒者、至誠<lb
+ n="0435a13" ed="T"/>者，於今皆來會是，聞諸比丘所說經處者，<lb
+ n="0435a14" ed="T"/>皆於龍華樹下得道。<lb
+ n="0435a15" ed="T"/>「彌勒佛初一會說經時，有九十六億人，皆得<lb
+ n="0435a16" ed="T"/>阿羅漢道。<lb
+ n="0435a17" ed="T"/>「第二會說經時，有九十四億比丘，皆得阿羅<lb
+ n="0435a18" ed="T"/>漢。<lb
+ n="0435a19" ed="T"/>「第三會說經，九十二億沙門，皆得阿羅漢。舉<lb
+ n="0435a20" ed="T"/>天上諸天，皆當持花散彌勒身上。<lb
+ n="0435a21" ed="T"/>「彌勒佛當將諸阿羅漢，至雞頭末王所治城，<lb
+ n="0435a22" ed="T"/>王皆內宮中飯食，舉城皆明，夜時如晝日。彌<lb
+ n="0435a23" ed="T"/>勒於宮中坐，說經言：『語不可不作，道不可<lb
+ n="0435a24" ed="T"/>不學，經不可不讚。』佛說經已，諸比丘及王<lb
+ n="0435a25" ed="T"/>百官，皆當奉行佛經戒，皆得度世。」佛說如是，<lb
+ n="0435a26" ed="T"/>彌勒佛却後六十億殘六十萬歲當來下。</ab></div><lb
+ n="0435a27" ed="T"/>
+<ab type='juan' subtype='close'>佛說彌勒來時經</ab>
+</body></text></TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說犯戒罪報輕重經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T24</biblScope>
+                    <idno type="Taisho">T24n1467b</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0911a05" ed="T"/><lb
+ n="0911a06" ed="T"/>
+<ab type='juan' subtype='open'>佛說犯戒罪報輕重經</ab><lb
+ n="0911a07" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛住王舍城迦蘭陀竹園。爾<lb
+ n="0911a08" ed="T"/>時尊者目連，晡時從禪覺，往至世尊所，頭面<lb
+ n="0911a09" ed="T"/>禮足却坐一面。時尊者大目連白佛言：「世尊！<lb
+ n="0911a10" ed="T"/>意有所疑，今欲詰問。唯願聽許。」佛告目連：「聽<lb
+ n="0911a11" ed="T"/>汝所問，當為汝說。」目連即白佛言：「世尊！若比<lb
+ n="0911a12" ed="T"/>丘、比丘尼，無慚愧心，輕慢佛說，犯眾學戒，如<lb
+ n="0911a13" ed="T"/>是犯波羅提提舍尼、波羅提、偷蘭遮、僧伽婆<lb
+ n="0911a14" ed="T"/>尸沙、波羅夷，得幾不饒益罪？唯願說之。」佛告<lb
+ n="0911a15" ed="T"/>目連：「諦聽，當為汝說。若比丘、比丘尼，若無慚<lb
+ n="0911a16" ed="T"/>愧，輕慢佛語，犯眾學戒。如四天王壽五百歲<lb
+ n="0911a17" ed="T"/>墮泥梨中，於人間數九百千歲。」佛告目連：「若<lb
+ n="0911a18" ed="T"/>無慚愧，輕慢佛語，犯波羅提提舍尼。如三十<lb
+ n="0911a19" ed="T"/>三天壽千歲墮泥梨中，於人間數三億六千<lb
+ n="0911a20" ed="T"/>歲。」佛語目連：「若無慚愧，輕慢佛語，犯波夜提。<lb
+ n="0911a21" ed="T"/>如夜摩天壽二千歲墮泥梨中，於人間數二<lb
+ n="0911a22" ed="T"/>十億四十千歲。」佛告目連：「若無慚愧，輕慢佛<lb
+ n="0911a23" ed="T"/>語，犯偷蘭遮。如兜率天壽四千歲墮泥梨中，<lb
+ n="0911a24" ed="T"/>於人間數五十億六十千歲。」佛告目連：「若無<lb
+ n="0911a25" ed="T"/>慚愧，輕慢佛語，犯僧伽婆尸沙。如不憍樂天<lb
+ n="0911a26" ed="T"/>壽八千歲墮泥梨中，於人間數二百四十億<lb
+ n="0911a27" ed="T"/>千歲。」佛告目連：「若無慚愧，輕慢佛語，犯波羅<lb
+ n="0911a28" ed="T"/>夷。如他化自在天壽十六千歲墮泥梨中，於<lb
+ n="0911a29" ed="T"/>人間數九百二十一億九十千歲。」時尊者目<pb n="0911b" ed="T" id="T24.1467b.0911b"/><lb
+ n="0911b01" ed="T"/>連聞佛所說，歡喜奉行。爾時目連即說頌曰：<lb
+ n="0911b02" ed="T"/></ab>
+<ab type='verse'>
+「因緣輕慢故，　　命緣墮惡道；　　<lb
+ n="0911b03" ed="T"/>因緣修善故，　　於此生天上。　　<lb
+ n="0911b04" ed="T"/>因斯修善業，　　離惡得解脫，　　<lb
+ n="0911b05" ed="T"/>不善觀因緣，　　身壞入惡道。」　　
+</ab></div>
+</body></text></TEI>

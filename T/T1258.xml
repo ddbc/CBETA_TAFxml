@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">摩利支菩薩略念誦法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1258</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0285a15" ed="T"/><lb
+ n="0285a16" ed="T"/><lb
+ n="0285a17" ed="T"/><div type='jing' level='1'><lb
+ n="0285a18" ed="T"/>
+<ab type='juan' subtype='open'>摩利支菩薩略念誦法</ab><lb
+ n="0285a19" ed="T"/><lb
+ n="0285a20" ed="T"/><byline>大興善寺三藏沙門大廣智<lb
+ n="0285a21" ed="T"/>不空奉　詔譯</byline><lb
+ n="0285a22" ed="T"/><ab type='prose'>先應結毘盧遮那佛印。<lb
+ n="0285a23" ed="T"/>次印相者。二手內相叉。並竪二大指即成。<lb
+ n="0285a24" ed="T"/>誦真言七遍頂上散。真言曰。<lb
+ n="0285a25" ed="T"/></ab>
+<ab type='dharani'>曩莫三滿多沒馱南阿尾羅吽欠<lb
+ n="0285a26" ed="T"/></ab>
+<ab type='prose'>次結摩利支菩薩根本真言印。<lb
+ n="0285a27" ed="T"/>次印相者。以二手內相叉。竪合二頭指。二中<lb
+ n="0285a28" ed="T"/>指各糺持二頭指令相捻。二大指並竪合即<lb
+ n="0285a29" ed="T"/>成。誦真言加持身五處。印額次右肩次左肩。<pb n="0285b" id="T21.1258.0285b" ed="T"/><lb
+ n="0285b01" ed="T"/>次心次喉上。以各誦一遍。真言曰。<lb
+ n="0285b02" ed="T"/></ab>
+<ab type='dharani'>曩謨囉怛曩怛囉夜耶怛儞也他遏迦沫思沫迦沫思遏度沫思<lb
+ n="0285b04" ed="T"/>旨跛囉沫思摩賀旨跛囉沫思按怛<lb
+ n="0285b05" ed="T"/>馱娜沫思摩哩制野沫思曩謨薩都<lb
+ n="0285b06" ed="T"/>帝𡀩乞叉𡀩乞叉𤚥薩嚩薩怛<lb
+ n="0285b07" ed="T"/>嚩難者薩嚩怛囉薩嚩波庾跛捺囉吠毘藥娑嚩訶<lb
+ n="0285b09" ed="T"/></ab>
+<ab type='prose'>次結摩利支菩薩心印。真言曰。<lb
+ n="0285b10" ed="T"/></ab>
+<ab type='dharani'>曩莫三滿多沒馱南唵摩利哩制曳<lb
+ n="0285b11" ed="T"/>沙嚩訶<lb
+ n="0285b12" ed="T"/></ab>
+<ab type='prose'>次結心真言印相者。以左手虛作拳。頭指<lb
+ n="0285b13" ed="T"/>大母指相捻如環。想自身入左手拳中。以右<lb
+ n="0285b14" ed="T"/>手覆左拳上。即想此印為摩利支菩薩形。想<lb
+ n="0285b15" ed="T"/>自身在摩利支菩薩心中不斷絕。誦身真言<lb
+ n="0285b16" ed="T"/>應時獲得殊勝加持。不被一切惡人為障礙<lb
+ n="0285b17" ed="T"/>者所見。一切災禍皆不著身。一切口舌皆得<lb
+ n="0285b18" ed="T"/>除滅。蟲狼虎豹水火盜則賊皆不能侵害。<lb
+ n="0285b19" ed="T"/>所求世間果報皆得諧偶。若修出世間法。即<lb
+ n="0285b20" ed="T"/>得禪定現前。智慧增盛獲得聞持。不忘失菩<lb
+ n="0285b21" ed="T"/>提心法。誦真言時深起悲愍。為一切有情拔<lb
+ n="0285b22" ed="T"/>除苦惱。皆獲無障解脫速證無上菩提道。應<lb
+ n="0285b23" ed="T"/>須祕密勿妄傳授。<lb
+ n="0285b24" ed="T"/>
+</ab><ab type='juan' subtype='close'>摩利支菩薩略念誦法</ab></div>
+</body></text></TEI>

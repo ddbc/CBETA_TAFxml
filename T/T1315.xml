@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">施諸餓鬼飲食及水法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1315</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0466c" id="T21.1315.0466c" ed="T"/><lb
+ n="0466c01" ed="T"/><lb
+ n="0466c02" ed="T"/><lb
+ n="0466c03" ed="T"/><div type='jing' level='2'><lb
+ n="0466c04" ed="T"/>
+<ab type='juan' subtype='open'>施諸餓鬼飲食及水法</ab><lb
+ n="0466c05" ed="T"/><lb
+ n="0466c06" ed="T"/><byline>特進試鴻臚卿大興善寺三藏沙門<lb
+ n="0466c07" ed="T"/>大廣智不空奉　詔譯</byline><lb
+ n="0466c08" ed="T"/><ab type='prose'>先出眾生食。事須如法。周匝種種皆著並<lb
+ n="0466c09" ed="T"/>須淨好。或一分或少許或一器。皆須安淨銅<lb
+ n="0466c10" ed="T"/>器中如法。如無銅器白瓷亦得。如無瓷器可<lb
+ n="0466c11" ed="T"/>用漆器。其飲食須和清水。面向東立坐亦得<lb
+ n="0466c12" ed="T"/>作法。<lb
+ n="0466c13" ed="T"/>夫欲施一切餓鬼飲食者。先須發廣大心普<lb
+ n="0466c14" ed="T"/>請餓鬼。先誦此偈至心一遍。然後作召<lb
+ n="0466c15" ed="T"/>請法。所獲福利果報不可校量。<lb
+ n="0466c16" ed="T"/></ab>
+<ab type='verse'>
+比丘比丘尼發心奉持　　一器淨食　　<lb
+ n="0466c17" ed="T"/>普施十方　　窮盡虛空　　周遍法界　　<lb
+ n="0466c18" ed="T"/>微塵剎中　　所有國土　　一切餓鬼　　<lb
+ n="0466c19" ed="T"/>先亡久遠　　山川地主　　乃至曠野　　<lb
+ n="0466c20" ed="T"/>諸鬼神等　　請來集此　　我今悲愍　　<lb
+ n="0466c21" ed="T"/>普施汝食　　願汝各各　　受我此食　　<lb
+ n="0466c22" ed="T"/>轉將供養　　盡虛空界　　以佛及聖　　<lb
+ n="0466c23" ed="T"/>一切有情　　汝與有情　　普皆飽滿　　<lb
+ n="0466c24" ed="T"/>亦願汝身　　乘此呪食　　離苦解脫　　<lb
+ n="0466c25" ed="T"/>生天受樂　　十方淨土　　隨意遊往　　<lb
+ n="0466c26" ed="T"/>發菩提心　　行菩提道　　當來作佛　　<lb
+ n="0466c27" ed="T"/>永莫退轉　　前得道者　　誓相度脫　　<lb
+ n="0466c28" ed="T"/>又願汝等　　晝夜恒常　　擁護於我　　<lb
+ n="0466c29" ed="T"/>滿我所願　　願施此食　　所生功德　　<pb n="0467a" id="T21.1315.0467a" ed="T"/><lb
+ n="0467a01" ed="T"/>普將廻施　　法界有情　　與諸有情　　<lb
+ n="0467a02" ed="T"/>平等共有　　共諸有情　　同將此福　　<lb
+ n="0467a03" ed="T"/>盡將迴向　　真如法界　　無上菩提　　<lb
+ n="0467a04" ed="T"/>一切智智　　願速成佛　　勿招餘果　　<lb
+ n="0467a05" ed="T"/>願乘此法　　疾得成佛　　
+</ab><lb
+ n="0467a06" ed="T"/><ab type='prose'>合掌當心誦此偈。以印作召請　開喉印　以<lb
+ n="0467a07" ed="T"/>右手大指與中指。面相捻。餘三指相去。微作<lb
+ n="0467a08" ed="T"/>曲勢即是。名普集印　呪曰。<lb
+ n="0467a09" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗭謨􄗞步􄖹布入􄙀哩􄑀迦􄙀哩􄕗多􄙀哩􄕗怛􄕤他引<lb
+ n="0467a10" ed="T"/><lb
+ n="0467a11" ed="T"/>􄑘蘖􄕘多􄗱􇧆也<lb
+ n="0467a12" ed="T"/><lb
+ n="0467a13" ed="T"/></ab>
+<ab type='prose'>作此印誦此呪一七遍。廣運悲心。願令法界<lb
+ n="0467a14" ed="T"/>微塵剎中。一切餓鬼悉皆雲集。<lb
+ n="0467a15" ed="T"/>又誦開地獄門及咽喉呪曰。<lb
+ n="0467a16" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􄗞步􄖹布入􄕝帝􄙀哩􄑀迦􄕗多􄙀哩􄕗怛􄕤他􄑘蘖<lb
+ n="0467a17" ed="T"/><lb
+ n="0467a18" ed="T"/>􄕘多引􄗱􇧆也<lb
+ n="0467a19" ed="T"/><lb
+ n="0467a20" ed="T"/></ab>
+<ab type='prose'>誦此呪時。以左手執持食器。以右手作前召<lb
+ n="0467a21" ed="T"/>請印。唯改一誦呪一彈指。以大指與中指頭<lb
+ n="0467a22" ed="T"/>相捻。彈指作聲即是。餘三指開稍微曲此名<lb
+ n="0467a23" ed="T"/>破地獄門及開咽喉印。爾時如來。即說無量<lb
+ n="0467a24" ed="T"/>威德自在光明勝妙之力加持飲食陀羅尼曰。<lb
+ n="0467a25" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗰莫􄙺薩􅞣嚩􄕗怛􄕤他􄑘蘖􄕘多􄙖嚩􄙒嚕􄑂吉􄕝帝<lb
+ n="0467a26" ed="T"/><lb
+ n="0467a27" ed="T"/>􇩂唵􄚦三􄗙娑􄗽羅􄚦三􄗙婆􄗽羅􇩴􇧆吽引<lb
+ n="0467a28" ed="T"/><lb
+ n="0467a29" ed="T"/></ab>
+<ab type='prose'>誦此呪一七遍。一切餓鬼各皆得摩伽陀國<pb n="0467b" id="T21.1315.0467b" ed="T"/><lb
+ n="0467b01" ed="T"/>所用之斗七七斛之食。食已皆得生天或<lb
+ n="0467b02" ed="T"/>生淨土。能令行者業障消除增益壽命。現世<lb
+ n="0467b03" ed="T"/>獲無量無邊福。況當來世。即作手印誦此<lb
+ n="0467b04" ed="T"/>真言加持飲食。以右手大指。摩中指甲三兩<lb
+ n="0467b05" ed="T"/>遍。三指直立之。又以大指捻頭指。彈指作<lb
+ n="0467b06" ed="T"/>聲。一誦呪一彈指即是。<lb
+ n="0467b07" ed="T"/>又誦蒙甘露法味真言。作施無畏印。以右手<lb
+ n="0467b08" ed="T"/>竪臂。展五指直上即是。真言曰。<lb
+ n="0467b09" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗰莫􈂼蘇􄙃嚕􄖵頗􄗱也􄕗怛􄕤他􄑘蘖􄕘多􄗱也􄕗怛<lb
+ n="0467b10" ed="T"/><lb
+ n="0467b11" ed="T"/>􄟯儞也􄕤他􇩂唵􄭺蘇嚕􄭺蘇嚕􇩄鉢羅􄭺蘇嚕􇩄鉢羅<lb
+ n="0467b12" ed="T"/><lb
+ n="0467b13" ed="T"/>􄭺蘇嚕􇩉娑嚩二合􄚩􇧆賀引<lb
+ n="0467b14" ed="T"/><lb
+ n="0467b15" ed="T"/></ab>
+<ab type='prose'>作前施無畏印。誦此呪施甘露真言一七遍。<lb
+ n="0467b16" ed="T"/>能令飲食及水。變成無量乳及甘露。能開一<lb
+ n="0467b17" ed="T"/>切餓鬼咽喉。能令飲食廣得增多平等得喫<lb
+ n="0467b18" ed="T"/>也。<lb
+ n="0467b19" ed="T"/>次作毘盧遮那一字心水輪觀真言印。先想<lb
+ n="0467b20" ed="T"/>此􈆯鑁字於右手心中。猶如乳色。變為八<lb
+ n="0467b21" ed="T"/>功德海。流出一切甘露醍醐。即引手臨食器<lb
+ n="0467b22" ed="T"/>上呪曰。誦此􈆯鑁字一七遍。即展開五<lb
+ n="0467b23" ed="T"/>指。向下臨食器中。觀想乳等從字中流出。猶<lb
+ n="0467b24" ed="T"/>如日月乳海。一切鬼等皆得飽滿無有乏少。<lb
+ n="0467b25" ed="T"/>此名普施一切餓鬼印真言曰。<lb
+ n="0467b26" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥滿􆩖多􈎭沒􇧺馱􈁀喃􄙠􇧆鑁去<lb
+ n="0467b27" ed="T"/><lb
+ n="0467b28" ed="T"/></ab>
+<ab type='prose'>觀想誦此呪一七遍已。寫於淨地無人行處。<lb
+ n="0467b29" ed="T"/>或水池邊樹下。唯不得寫於桃樹柳樹石榴<pb n="0467c" id="T21.1315.0467c" ed="T"/><lb
+ n="0467c01" ed="T"/>樹下。寫訖更為至心。稱五如來名號三遍功<lb
+ n="0467c02" ed="T"/>德無量。<lb
+ n="0467c03" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗭謨􄗙薄􄑘伽􄙖筏􄕝帝􇩄鉢囉􄗞步􄕗多􄗽囉􅑉怛曩<lb
+ n="0467c04" ed="T"/><lb
+ n="0467c05" ed="T"/>􄗱也􄕗怛􄕤他􄑘蘖􄕘多引􄗱􇧆也<lb
+ n="0467c06" ed="T"/><lb
+ n="0467c07" ed="T"/></ab>
+<ab type='prose'>曩謨寶勝如來除慳貪業福德圓滿。<lb
+ n="0467c08" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗭謨􄗙薄􄑘伽􄙖筏􄕝帝􈂼蘇􄙃嚕􄗲波􄗱耶􄕗怛􄕤他<lb
+ n="0467c09" ed="T"/><lb
+ n="0467c10" ed="T"/>􄑘蘖􄕘多引􄗱􇧆也<lb
+ n="0467c11" ed="T"/><lb
+ n="0467c12" ed="T"/></ab>
+<ab type='prose'>曩謨妙色身如來破醜陋形相好圓滿。<lb
+ n="0467c13" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗭謨􄗙婆􄑘伽􄙖筏􄕝帝􆿅阿􇩸蜜㗚􄕝帝􄗾囉􄒶惹<lb
+ n="0467c14" ed="T"/><lb
+ n="0467c15" ed="T"/>􄗱耶􄕗怛􄕤他􄑘蘖􄕘多引􄗱􇧆耶<lb
+ n="0467c16" ed="T"/><lb
+ n="0467c17" ed="T"/></ab>
+<ab type='prose'>曩謨甘露王如來灌法身心令受快樂。<lb
+ n="0467c18" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗭謨􄗙婆􄑘伽􄙖筏􄕝帝􄙘尾􄖹布􄙊邏􄑘蘖􄩟怛羅二合<lb
+ n="0467c19" ed="T"/><lb
+ n="0467c20" ed="T"/>􄗱耶􄕗怛􄕤他􄑘蘖􄕘多引􄗱􇧆也<lb
+ n="0467c21" ed="T"/><lb
+ n="0467c22" ed="T"/></ab>
+<ab type='prose'>曩謨廣博身如來咽喉寬大受妙味。<pb n="0468a" id="T21.1315.0468a" ed="T"/><lb
+ n="0468a01" ed="T"/></ab>
+<ab type='dharani'>􄖩曩􄗭謨􄗙婆􄑘伽􄙖筏􄕝帝􆿅阿􄗙婆􄗻演􄑀迦􄗾羅引<lb
+ n="0468a02" ed="T"/><lb
+ n="0468a03" ed="T"/>􄗱耶􄕗怛􄕤他引􄑘蘖􄕘多引􄗱􇧆耶<lb
+ n="0468a04" ed="T"/><lb
+ n="0468a05" ed="T"/></ab>
+<ab type='prose'>曩謨離怖畏如來恐怖悉除離餓鬼趣。<lb
+ n="0468a06" ed="T"/>行者若能如此。為稱五如來名者。以佛威光<lb
+ n="0468a07" ed="T"/>加被彼故。能令一切餓鬼等。無量罪滅無量<lb
+ n="0468a08" ed="T"/>福生。得妙色廣博得無怖畏所得飲食。變成<lb
+ n="0468a09" ed="T"/>甘露美妙之食。速離苦身生天淨土。<lb
+ n="0468a10" ed="T"/>若施食已。行者當更為諸鬼神等。誦受菩薩<lb
+ n="0468a11" ed="T"/>三昧耶戒陀羅尼。每誦三遍真言曰。<lb
+ n="0468a12" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􄙺三􄗥摩􄗱耶􈁁􇧆薩怛梵<lb
+ n="0468a13" ed="T"/><lb
+ n="0468a14" ed="T"/></ab>
+<ab type='prose'>誦三遍已。一切鬼神皆得堪聞甚深祕法。盡<lb
+ n="0468a15" ed="T"/>得具足三昧耶戒獲無量福。<lb
+ n="0468a16" ed="T"/>已施諸餓鬼悉皆飽滿訖。當須以陀羅尼法<lb
+ n="0468a17" ed="T"/>發遣。方得歸於本所。發遣解脫真言曰。<lb
+ n="0468a18" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日囉􈁃目􄚴乞灑􈂨􇧆穆<lb
+ n="0468a19" ed="T"/><lb
+ n="0468a20" ed="T"/></ab>
+<ab type='prose'>若誦發遣呪。先作呪印。以右手作拳。以大<lb
+ n="0468a21" ed="T"/>指捻頭指。仰掌彈指作聲。是名發遣啟。每<lb
+ n="0468a22" ed="T"/>寫食了誦一七遍彈指。能令一切鬼神。得此<lb
+ n="0468a23" ed="T"/>食已當得去也。若不發遣不得去也。<lb
+ n="0468a24" ed="T"/>若不具足如是法者。施諸餓鬼皆不得周匝。<lb
+ n="0468a25" ed="T"/>或有得者或有不得者。虛用功力深可愍哉。<lb
+ n="0468a26" ed="T"/>若有行者發菩提心。能如是修行者。具足此<lb
+ n="0468a27" ed="T"/>法施諸餓鬼者。一切餓鬼皆得飽滿無有乏<lb
+ n="0468a28" ed="T"/>少。持法之人悉應知之。若以加持飲食陀羅<lb
+ n="0468a29" ed="T"/>尼。持一器淨食寫淨流水中。能令一切婆羅<pb n="0468b" id="T21.1315.0468b" ed="T"/><lb
+ n="0468b01" ed="T"/>門仙皆得此食食已異口同音呪願。此人於<lb
+ n="0468b02" ed="T"/>現世中即得延壽。其人具足梵天威德行梵<lb
+ n="0468b03" ed="T"/>天行。若以此呪呪一切供養佛物。若水若香<lb
+ n="0468b04" ed="T"/>花飲食。皆呪二十一遍。而然供養佛。即如<lb
+ n="0468b05" ed="T"/>是種種。以供養十方一切諸佛無異。<lb
+ n="0468b06" ed="T"/>
+</ab><ab type='juan' subtype='close'>施燋面餓鬼一切鬼神陀羅尼經要決</ab></div><lb
+ n="0468b07" ed="T"/><div type='w' level='2'><ab type='prose'>別有救面然餓鬼陀羅尼經唐實叉難陀譯。<lb
+ n="0468b08" ed="T"/>貞享四年中春二十日一校了　淨嚴<lb
+ n="0468b09" ed="T"/>元祿十六年二月十七日　以淨嚴和上本<lb
+ n="0468b10" ed="T"/>再校了　　尊教<lb
+ n="0468b11" ed="T"/>寶永三丙戌之春　得此密軌　戊子之冬<lb
+ n="0468b12" ed="T"/>十月二十二日一校了　　性寂</ab></div></div>
+</body></text></TEI>

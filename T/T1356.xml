@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說華積陀羅尼神呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1356</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0874c04" ed="T"/><lb
+ n="0874c05" ed="T"/><lb
+ n="0874c06" ed="T"/><div type='jing' level='1'><lb
+ n="0874c07" ed="T"/>
+<ab type='juan' subtype='open'>佛說華積陀羅尼神呪經</ab><lb
+ n="0874c08" ed="T"/><lb
+ n="0874c09" ed="T"/><byline>吳月支國居士支謙譯</byline><lb
+ n="0874c10" ed="T"/><ab type='prose'>如是我聞。一時佛在阿耨達池龍王宮中。與<lb
+ n="0874c11" ed="T"/>大比丘五百人俱。及菩薩摩訶薩具足一千。<lb
+ n="0874c12" ed="T"/>悉得一切陀羅尼。餘一生在住十住地。次當<lb
+ n="0874c13" ed="T"/>作佛。如王太子。俱於十方皆成佛道。具大莊<lb
+ n="0874c14" ed="T"/>嚴不疑如來一切功德。天龍八部一時俱會。<lb
+ n="0874c15" ed="T"/>爾時師子威菩薩。從座而起右膝著地。合掌<lb
+ n="0874c16" ed="T"/>向佛而白佛言。世尊若善男子善女人。於如<lb
+ n="0874c17" ed="T"/>來所而修供養功德多不。佛告師子威勿作<lb
+ n="0874c18" ed="T"/>是語。若善男子善女人。於如來所而修供養<lb
+ n="0874c19" ed="T"/>功德多不。何以故。如來無量戒定慧解脫解<lb
+ n="0874c20" ed="T"/>脫知見之所成就。若善男子善女人。於如來<lb
+ n="0874c21" ed="T"/>所若存若亡而修供養。師子威當知是人終<lb
+ n="0874c22" ed="T"/>必於三乘中。隨其因緣而得解脫。復次師<lb
+ n="0874c23" ed="T"/>子威。若復有人見佛世尊。心生歡喜尊重讚<lb
+ n="0874c24" ed="T"/>歎。以諸供養施於如來。又復有人於如來滅<lb
+ n="0874c25" ed="T"/>後。若見舍利心生歡喜。是二功德等無有異。<lb
+ n="0874c26" ed="T"/>復次師子威。若在家菩薩以諸珍寶積如須<lb
+ n="0874c27" ed="T"/>彌。供養聲聞及辟支佛。不如出家菩薩發菩<lb
+ n="0874c28" ed="T"/>提心。以一金錢供養如來。復次師子威若復<lb
+ n="0874c29" ed="T"/>有人。於千萬歲親近世尊備修供養。若復有<pb n="0875a" id="T21.1356.0875a" ed="T"/><lb
+ n="0875a01" ed="T"/>人如來滅後發菩提心。以一香華入僧伽藍。<lb
+ n="0875a02" ed="T"/>舉足下足作如是言。南無世尊。以此深解殷<lb
+ n="0875a03" ed="T"/>重信心。供養如來舍利寶塔。不以求報不以<lb
+ n="0875a04" ed="T"/>疑惑。未得解脫中間。若千萬億劫不墮惡道。<lb
+ n="0875a05" ed="T"/>師子威諦聽。有陀羅尼名曰華積。我今當說。<lb
+ n="0875a06" ed="T"/>為諸天人多所饒益。若善男子。能於華積陀<lb
+ n="0875a07" ed="T"/>羅尼呪。受持讀誦親近依行。功德勝彼。是人<lb
+ n="0875a08" ed="T"/>世世得一聞持。不墮諸惡險棘道中離諸艱<lb
+ n="0875a09" ed="T"/>難。常見妙寶常見諸佛諸根常具。不生下賤<lb
+ n="0875a10" ed="T"/>卑隷人家。常得不離菩薩弘心。常得種種無<lb
+ n="0875a11" ed="T"/>量慧辯。為無量十方諸佛如來之所知見。乃<lb
+ n="0875a12" ed="T"/>說呪曰。<lb
+ n="0875a13" ed="T"/></ab>
+<ab type='dharani'>但施他杜羅禰拖羅禰拖羅<lb
+ n="0875a14" ed="T"/>尼拖羅尼侔尼波羅婆娑禰悉<lb
+ n="0875a15" ed="T"/>諦栴禘那侔紙嫟訶囇<lb
+ n="0875a16" ed="T"/>魯伽婆底佛陀婆底底囇柯<lb
+ n="0875a17" ed="T"/>羅知羅竪波伽知知杜婆<lb
+ n="0875a18" ed="T"/>底毘捨羅佛地達摩婆徙惡叉<lb
+ n="0875a19" ed="T"/>耶葛俾葛波毘伽知阿媚多葛波<lb
+ n="0875a20" ed="T"/>休多大多禰闍波底哆嫟沙摩<lb
+ n="0875a21" ed="T"/>憙知蜀伽羅婆底陟沙<lb
+ n="0875a22" ed="T"/>拏佛朕地耶佛地瑣訶</ab>
+<ab type='prose'>師子威<lb
+ n="0875a23" ed="T"/>當知。若善男子能於此華積神呪。若讀若誦。<lb
+ n="0875a24" ed="T"/>是人當於三月四月九月。從八日至十五日。<lb
+ n="0875a25" ed="T"/>一心憶念如來相好。夜中三誦華積神呪。日中<lb
+ n="0875a26" ed="T"/>亦三。至月圓時。當以香華燈燭於形像前而<lb
+ n="0875a27" ed="T"/>修供養。并誦華積陀羅尼呪。其人是夜夢見<lb
+ n="0875a28" ed="T"/>如來。相好具足坐蓮華座為眾說法。亦得華<lb
+ n="0875a29" ed="T"/>積陀羅尼呪。於現世中常得強記。智慧深信。<pb n="0875b" id="T21.1356.0875b" ed="T"/><lb
+ n="0875b01" ed="T"/>從今身乃至涅槃。常一聞持一切聞見。一切<lb
+ n="0875b02" ed="T"/>經教一切學解。一切技藝通達無礙。於一切<lb
+ n="0875b03" ed="T"/>三昧深得清淨。解四聖諦無上法輪。說是經<lb
+ n="0875b04" ed="T"/>已。師子威等天龍八部。一切大眾歡喜奉行。<lb
+ n="0875b05" ed="T"/>
+</ab><ab type='juan' subtype='close'>華積陀羅尼神呪經</ab></div>
+</body></text></TEI>

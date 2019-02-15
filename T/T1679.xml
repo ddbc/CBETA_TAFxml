@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛一百八名讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T32</biblScope>
+                    <idno type="Taisho">T32n1679</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0757c11" ed="T"/><lb
+ n="0757c12" ed="T"/><lb
+ n="0757c13" ed="T"/>
+<ab type='juan' subtype='open'>佛一百八名讚</ab><lb
+ n="0757c14" ed="T"/><lb
+ n="0757c15" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚<lb
+ n="0757c16" ed="T"/>卿傳教大師臣法天奉　詔譯</byline><lb
+ n="0757c17" ed="T"/><div type='jing' level='1'><ab type='verse'>
+歸命一切智，　　一切世間師，　　<lb
+ n="0757c18" ed="T"/>牟尼大法王，　　一百八名號。　　<lb
+ n="0757c19" ed="T"/>無邊功德海，　　具足眾吉祥，　　<lb
+ n="0757c20" ed="T"/>能滅諸有情，　　罪業諸煩惱。　　
+</ab><lb
+ n="0757c21" ed="T"/><ab type='verse'>
+我今歸命禮，　　一切大吉祥，　　<lb
+ n="0757c22" ed="T"/>救度諸群生，　　令得大安樂。　　
+</ab><lb
+ n="0757c23" ed="T"/><ab type='verse'>
+我今歸命禮，　　悲愍二足尊，　　<lb
+ n="0757c24" ed="T"/>圓滿於眾生，　　一切吉祥事。　　<lb
+ n="0757c25" ed="T"/>我今歸命禮，　　無相無上尊，　　<lb
+ n="0757c26" ed="T"/>成就天中天，　　祕密大明義。　　<lb
+ n="0757c27" ed="T"/>如來正等覺，　　利樂於世間，　　<lb
+ n="0757c28" ed="T"/>最上百八名，　　我今集彼說。　　
+</ab><lb
+ n="0757c29" ed="T"/><ab type='prose'>南無一切義成就。南無正等覺。南無一切智。<pb n="0758a" ed="T" id="T32.1679.0758a"/><lb
+ n="0758a01" ed="T"/>南無大釋子。南無一切法自在無畏。南無大<lb
+ n="0758a02" ed="T"/>金僊。南無功德海。南無如來。南無應供。南無<lb
+ n="0758a03" ed="T"/>善逝。南無世尊。南無一切世間解。南無離一<lb
+ n="0758a04" ed="T"/>切垢染。南無最上法燈。南無無畏淨飯王子。<lb
+ n="0758a05" ed="T"/>南無甘蔗王種。南無瞿曇。南無日族。南無吉<lb
+ n="0758a06" ed="T"/>祥大牟尼。南無囕儗囉娑族。南無天人師。南<lb
+ n="0758a07" ed="T"/>無十力降魔軍。南無離過除毒。南無調御丈<lb
+ n="0758a08" ed="T"/>夫。南無妙解脫。南無除障暗。南無止息降諸<lb
+ n="0758a09" ed="T"/>根。南無清淨戒。南無無垢王。南無滅罪無我<lb
+ n="0758a10" ed="T"/>相。南無無驚無怖畏。南無第一法圓滿。南無<lb
+ n="0758a11" ed="T"/>無邊無可喻。南無大論師。南無希有不思議<lb
+ n="0758a12" ed="T"/>精進。南無三界親慈父。南無三明知三世。南<lb
+ n="0758a13" ed="T"/>無滅三毒。南無具足三變通。南無說三乘菩<lb
+ n="0758a14" ed="T"/>提。南無無相亦無老。南無無我無二執。南無<lb
+ n="0758a15" ed="T"/>無怨無戲論。南無無業無怖。南無施願無畏。<lb
+ n="0758a16" ed="T"/>南無法師子二足尊。南無調伏除煩惱。南無<lb
+ n="0758a17" ed="T"/>最上意清淨。南無明行足。南無自在變化王。<lb
+ n="0758a18" ed="T"/>南無調伏心清淨。南無離塵無上士。南無止<lb
+ n="0758a19" ed="T"/>息一切罪。南無得清涼。南無得寂靜。南無救<lb
+ n="0758a20" ed="T"/>度世間師。南無勇猛大清淨智。南無圓滿吉<lb
+ n="0758a21" ed="T"/>祥相。南無能除怨。南無沙門月。南無釋師子。<lb
+ n="0758a22" ed="T"/>南無作善清淨業。南無六佛法莊嚴。南無六<lb
+ n="0758a23" ed="T"/>根清淨眼。南無第一六神通。南無六趣海到<lb
+ n="0758a24" ed="T"/>彼岸。南無無師自然覺。南無善逝德成就。南<lb
+ n="0758a25" ed="T"/>無一切世間為愛樂。南無無等大智慧。南無<lb
+ n="0758a26" ed="T"/>恒入三摩地。南無一切有情利益主。南無<lb
+ n="0758a27" ed="T"/>真實降諸根。南無一切世間尊。南無普遍有<lb
+ n="0758a28" ed="T"/>情精進者。南無永過輪迴苦。南無圓滿諸所<lb
+ n="0758a29" ed="T"/>求。南無降伏得最勝說四諦。南無到彼岸度<pb n="0758b" ed="T" id="T32.1679.0758b"/><lb
+ n="0758b01" ed="T"/>他大龍王。南無得最上涅槃。南無尊師大梵<lb
+ n="0758b02" ed="T"/>行。南無第一寂靜樂。南無祕密最勝大丈夫。<lb
+ n="0758b03" ed="T"/>南無調伏聲聞者。南無利益諸有情。南無世<lb
+ n="0758b04" ed="T"/>間供養出世智。南無聖智照世間。南無離世<lb
+ n="0758b05" ed="T"/>法利養。南無出世為如來。南無大法主。南<lb
+ n="0758b06" ed="T"/>無大法王。南無調御明。南無救度第一二足<lb
+ n="0758b07" ed="T"/>尊。南無行忍辱。南無善意端嚴相。南無善持<lb
+ n="0758b08" ed="T"/>善戒相。南無金色光善逝。南無善逾愛尊重。<lb
+ n="0758b09" ed="T"/>南無人師子吉祥雲。南無佛陀。南無無畏獨<lb
+ n="0758b10" ed="T"/>除闇。南無無邊利世間。南無無等三有師。南<lb
+ n="0758b11" ed="T"/>無能斷諸結縛。南無無我最第一。南無普照<lb
+ n="0758b12" ed="T"/>一切眼。南無證理淨慧眼。南無三慧真實眼。<lb
+ n="0758b13" ed="T"/>如是一百八名，若復有人於其辰朝發志誠<lb
+ n="0758b14" ed="T"/>心，或讀誦、或禮念、或憶持、或聽聞，獲得最<lb
+ n="0758b15" ed="T"/>上吉祥福德，所有一切煩惱及諸罪業速得<lb
+ n="0758b16" ed="T"/>清淨，不受輪迴，當得解脫乃至成佛。<lb
+ n="0758b17" ed="T"/></ab>
+<ab type='verse'>
+此大牟尼功德名，　　我今讀誦及禮念，　　<lb
+ n="0758b18" ed="T"/>普將迴施與群生，　　同得證成菩提果。　　
+</ab><lb
+ n="0758b19" ed="T"/>
+<ab type='juan' subtype='close'>佛一百八名讚</ab></div>
+</body></text></TEI>

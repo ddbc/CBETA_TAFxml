@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說善夜經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1362</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0881c" id="T21.1362.0881c" ed="T"/><lb
+ n="0881c01" ed="T"/><lb
+ n="0881c02" ed="T"/><div type='jing' level='1'><lb
+ n="0881c03" ed="T"/>
+<ab type='juan' subtype='open'>佛說善夜經一卷</ab><lb
+ n="0881c04" ed="T"/><lb
+ n="0881c05" ed="T"/><byline>唐三藏法師義淨奉　制譯</byline><lb
+ n="0881c06" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。在王舍城竹林園所。<lb
+ n="0881c07" ed="T"/>去斯不遠有一苾芻住溫泉側。時有一天顏<lb
+ n="0881c08" ed="T"/>貌端嚴光明殊妙。過初夜分詣苾芻所。彼天<lb
+ n="0881c09" ed="T"/>威光周圓赫奕。悉皆照耀普遍溫泉。合掌<lb
+ n="0881c10" ed="T"/>禮敬在一面坐。白苾芻言大德。仁頗先聞善<lb
+ n="0881c11" ed="T"/>夜經不。苾芻答曰我未曾聞如是經典。復問<lb
+ n="0881c12" ed="T"/>天言仁先知不。天曰我亦不知。苾芻曰誰有<lb
+ n="0881c13" ed="T"/>知者。天曰無上慈父在竹林園。仁今可往詣<lb
+ n="0881c14" ed="T"/>彼請問。如佛所說當奉行之。說是語已忽然<lb
+ n="0881c15" ed="T"/>不現。時彼苾芻至天曉已。詣世尊所頂禮雙<lb
+ n="0881c16" ed="T"/>足。在一面立白言世尊。昨夜有天過初更後。<lb
+ n="0881c17" ed="T"/>來詣我所。光明照曜周遍溫泉。而問我言。<lb
+ n="0881c18" ed="T"/>仁頗先聞善夜經不。我言未聞。我問彼天仁<lb
+ n="0881c19" ed="T"/>先知不。答言不知。我復問言誰有知者。彼言<lb
+ n="0881c20" ed="T"/>無上慈父在竹林園。仁可往問。如佛所說當<lb
+ n="0881c21" ed="T"/>奉行之。說是語已忽然不現。我緣斯事故來<lb
+ n="0881c22" ed="T"/>至此請問世尊。佛告苾芻汝識彼天不。答言<lb
+ n="0881c23" ed="T"/>不識。汝今當知彼是三十三天勝妙天子威<lb
+ n="0881c24" ed="T"/>德大將名曰栴檀。為欲利益諸眾生故。來覺<lb
+ n="0881c25" ed="T"/>悟汝問是經名。時彼苾芻復白佛言。世尊我<lb
+ n="0881c26" ed="T"/>今願聞善夜經典。唯願世尊哀愍為說。爾時<lb
+ n="0881c27" ed="T"/>世尊告苾芻言。此善夜經具大功德。若有聞<lb
+ n="0881c28" ed="T"/>者能斷煩惱速證菩提。汝應諦聽善極作意。<lb
+ n="0881c29" ed="T"/>吾當為說。過去諸法不應追念。未來諸法亦<pb n="0882a" id="T21.1362.0882a" ed="T"/><lb
+ n="0882a01" ed="T"/>不希求。現在諸法勿生染著。如是行者名真<lb
+ n="0882a02" ed="T"/>解脫。爾時世尊即說頌曰。<lb
+ n="0882a03" ed="T"/></ab>
+<ab type='verse'>
+過去不應念　　未來不希求　　<lb
+ n="0882a04" ed="T"/>於現在時中　　皆如法觀察　　<lb
+ n="0882a05" ed="T"/>妄想心難遣　　智人應善觀　　<lb
+ n="0882a06" ed="T"/>宜可速勤修　　焉知至明日　　<lb
+ n="0882a07" ed="T"/>由彼死王眾　　與汝鎮相隨　　<lb
+ n="0882a08" ed="T"/>是故我牟尼　　善夜經今說　　<lb
+ n="0882a09" ed="T"/>常願諸有情　　離苦獲安樂　　<lb
+ n="0882a10" ed="T"/>不造諸惡業　　恒修於眾善　　
+</ab><lb
+ n="0882a11" ed="T"/><ab type='prose'>爾時世尊為欲利益一切眾生。令於長夜得<lb
+ n="0882a12" ed="T"/>安隱樂離諸障惱。於生生處增長善根。常遇<lb
+ n="0882a13" ed="T"/>三寶不墮惡趣。復更說此陀羅尼曰。<lb
+ n="0882a14" ed="T"/></ab>
+<ab type='dharani'>怛姪他　毘尼婆喇儞　跋柁摩單滯　摩<lb
+ n="0882a15" ed="T"/>膩儞㨖㨖㨖㨖　瞿里健陀里　旃茶里摩登<lb
+ n="0882a16" ed="T"/>祇薩囉爛帝　莫呼剌膩攝鉢利　斫羯囉<lb
+ n="0882a17" ed="T"/>婆枳　攝伐里莫訶攝伐里　步精揭<lb
+ n="0882a18" ed="T"/>儞　儞弭儞名揭儞　訖栗多儞　莎訶<lb
+ n="0882a19" ed="T"/>僧拽體曇　頞󰪯伽帝　捺囉伽帝<lb
+ n="0882a20" ed="T"/>　謗蘇迦波𧜟　劫布得　迦波𧜟<lb
+ n="0882a21" ed="T"/>　答布檀泥莎訶<lb
+ n="0882a22" ed="T"/></ab>
+<ab type='prose'>若有苾芻苾芻尼鄔波索迦鄔波斯迦及餘<lb
+ n="0882a23" ed="T"/>善男子善女人等。於此善夜經中。若一伽他<lb
+ n="0882a24" ed="T"/>若一句呪。讀誦受持供養尊重。明解其義為<lb
+ n="0882a25" ed="T"/>他演說。當知是人於一切時無諸災厄。亦無<lb
+ n="0882a26" ed="T"/>抂橫及諸衰惱。能知過去七生之事。亦不忘<lb
+ n="0882a27" ed="T"/>失大菩提心。決定能趣涅槃正道。若有善男<lb
+ n="0882a28" ed="T"/>子善女人。受持讀誦此善夜經者。於未來世<lb
+ n="0882a29" ed="T"/>所生之處。必定當得宿住之智。常受尊貴安<pb n="0882b" id="T21.1362.0882b" ed="T"/><lb
+ n="0882b01" ed="T"/>隱快樂。復說頌曰。<lb
+ n="0882b02" ed="T"/></ab>
+<ab type='verse'>
+此人一切時　　無有枉橫事　　<lb
+ n="0882b03" ed="T"/>由造順時業　　永離非時死　　<lb
+ n="0882b04" ed="T"/>擁護諸眾生　　令離病憂怖　　<lb
+ n="0882b05" ed="T"/>不祥及惡夢　　險路常安隱　　<lb
+ n="0882b06" ed="T"/>若男子女人　　戴持此經者　　<lb
+ n="0882b07" ed="T"/>具相人敬重　　所願皆圓滿　　<lb
+ n="0882b08" ed="T"/>若於身語意　　所有諸不善　　<lb
+ n="0882b09" ed="T"/>由此經威力　　終無有惡報　　<lb
+ n="0882b10" ed="T"/>若水火王賊　　雷電毒害等　　<lb
+ n="0882b11" ed="T"/>怨家戰諍時　　念經皆得脫　　<lb
+ n="0882b12" ed="T"/>又復有明呪　　若能讀誦者　　<lb
+ n="0882b13" ed="T"/>於一切時中　　長善滅諸惡　　
+</ab><lb
+ n="0882b14" ed="T"/><ab type='prose'>即說呪曰。<lb
+ n="0882b15" ed="T"/></ab>
+<ab type='dharani'>怛姪他　儞弭尼民達哩　窒哩盧迦盧<lb
+ n="0882b16" ed="T"/>枳儞　窒哩輸攞陀唎儞　惡矩比　姪哩底<lb
+ n="0882b17" ed="T"/>奴麗　矩都軍底　矩都屈此　雞㗚底矩比<lb
+ n="0882b18" ed="T"/>儞　擁護擁護我某甲於一切恐怖處　於一<lb
+ n="0882b19" ed="T"/>切疾病苦痛處　於一切憂愁相惱處於一切<lb
+ n="0882b20" ed="T"/>毒蟲毒藥處　於一切鬼魅厭禱處　於一切<lb
+ n="0882b21" ed="T"/>王賊水火處　於一切猛獸驚怖處　於一切<lb
+ n="0882b22" ed="T"/>謗讟言訟處　於一切怨家鬪諍處　於一切<lb
+ n="0882b23" ed="T"/>身意惡業處　所有語業四過處　於一切厄<lb
+ n="0882b24" ed="T"/>難危亡處　并執金剛神　常衛護我某甲<lb
+ n="0882b25" ed="T"/>并諸眷屬莎訶<lb
+ n="0882b26" ed="T"/></ab>
+<ab type='prose'>復說呪曰。<lb
+ n="0882b27" ed="T"/></ab>
+<ab type='dharani'>恒姪他　呬里呬里弭里弭里　畢舍脂<lb
+ n="0882b28" ed="T"/>鉢拏　攝伐里止里莎訶<lb
+ n="0882b29" ed="T"/></ab>
+<ab type='prose'>爾時世尊說是經已。時彼苾芻及諸大眾。人<pb n="0882c" id="T21.1362.0882c" ed="T"/><lb
+ n="0882c01" ed="T"/>天八部諸鬼神等皆大歡喜信受奉行。<lb
+ n="0882c02" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說善夜經</ab></div>
+</body></text></TEI>

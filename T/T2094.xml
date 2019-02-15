@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">梁京寺記</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T51</biblScope>
+                    <idno type="Taisho">T51n2094</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1024a13" ed="T"/><lb
+ n="1024a14" ed="T"/><lb
+ n="1024a15" ed="T"/><lb
+ n="1024a16" ed="T"/>
+<ab type='juan' subtype='open'>梁京寺記</ab><lb
+ n="1024a17" ed="T"/><lb
+ n="1024a18" ed="T"/><byline>闕名</byline><lb
+ n="1024a19" ed="T"/><head>小莊嚴寺</head><lb
+ n="1024a20" ed="T"/><ab type='prose'>梁小莊嚴寺。在建業定陰里。本是晉零陵王<lb
+ n="1024a21" ed="T"/>廟地。天監六年度禪師起造。時有邵文立者。<lb
+ n="1024a22" ed="T"/>世以烹屠為業。嘗欲殺一鹿。鹿跪而流淚。以<lb
+ n="1024a23" ed="T"/>為不祥。鹿懷一麑。尋當產育。就庖哀切。同<lb
+ n="1024a24" ed="T"/>被刳割。因斯患疾。眉鬚皆落。身瘡並壞。後乃<lb
+ n="1024a25" ed="T"/>深起悔責求道。度禪師發大誓願。罄捨家資<lb
+ n="1024a26" ed="T"/>迴買此地。為立伽藍。<lb
+ n="1024a27" ed="T"/><head>同泰寺</head><lb
+ n="1024a28" ed="T"/>梁武帝改年號大同。起同泰寺。在臺城內。窮<lb
+ n="1024a29" ed="T"/>竭帑藏。造大佛閣七層。為火所焚。武帝捨身<pb n="1024b" id="T51.2094.1024b" ed="T"/><lb
+ n="1024b01" ed="T"/>施財。以祈佛福。自大通以後。無年不幸。<lb
+ n="1024b02" ed="T"/><head>興國禪寺</head><lb
+ n="1024b03" ed="T"/>梁武帝天監十三年。以錢二十萬。易定林前<lb
+ n="1024b04" ed="T"/>前岡獨龍阜。以葬誌公。永定公主以湯沐之<lb
+ n="1024b05" ed="T"/>資。造浮圖五級於其上。十四年。即塔前建開<lb
+ n="1024b06" ed="T"/>善寺。<lb
+ n="1024b07" ed="T"/><head>昇元寺</head><lb
+ n="1024b08" ed="T"/>昇元寺即瓦棺寺也。在城西隅瞰江面。後踞<lb
+ n="1024b09" ed="T"/>崇岡最為古跡。累經兵火。略無彷彿。李王時<lb
+ n="1024b10" ed="T"/>昇元閣猶在。乃梁朝故物。<lb
+ n="1024b11" ed="T"/><head>大愛敬寺</head><lb
+ n="1024b12" ed="T"/>梁武帝普通元年造。在蔣山之北高峯上。<lb
+ n="1024b13" ed="T"/><head>法寶寺</head><lb
+ n="1024b14" ed="T"/>梁同泰寺基之半也。建康剎錄。梁武帝大通<lb
+ n="1024b15" ed="T"/>元年。創同泰寺。寺處宮後。別開一門。名大<lb
+ n="1024b16" ed="T"/>通門。帝晨夕講議。多遊此門。<lb
+ n="1024b17" ed="T"/><head>法光寺</head><lb
+ n="1024b18" ed="T"/>即梁之蕭帝寺。舊傳。天監十三年造。元絳寺<lb
+ n="1024b19" ed="T"/>記云。不知從昔之名。故後人以帝氏目之。<lb
+ n="1024b20" ed="T"/><head>寶林寺</head><lb
+ n="1024b21" ed="T"/>梁天監中。武帝與寶公。同遊此山。見林巒殊<lb
+ n="1024b22" ed="T"/>勝。命建精藍。<lb
+ n="1024b23" ed="T"/><head>長于寺</head><lb
+ n="1024b24" ed="T"/>建康南五里有山岡。其間平地。庶民雜居。有<lb
+ n="1024b25" ed="T"/>大長于．小長于．東長于．並是地名。小長于在<lb
+ n="1024b26" ed="T"/>瓦棺寺南。巷西頭出大江。梁初起長于寺。</ab></div>
+</body></text></TEI>

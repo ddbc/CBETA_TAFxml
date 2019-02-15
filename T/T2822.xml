@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大乘要語</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2822</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1205c23" ed="T"/><lb
+ n="1205c24" ed="T"/><lb
+ n="1205c25" ed="T"/><lb
+ n="1205c26" ed="T"/>
+<ab type='juan' subtype='open'>大乘要語一卷</ab><lb
+ n="1205c27" ed="T"/><lb
+ n="1205c28" ed="T"/><ab type='prose'>水油同形非農人不識來時見事生去時事不現。明了知來去。依相不分別。師<pb n="1206a" id="T85.2822.1206a" ed="T"/><lb
+ n="1206a01" ed="T"/>子逐人不逐塵塊如犬<lb
+ n="1206a02" ed="T"/>逐塵塊不逐人菩提之心如毛<lb
+ n="1206a03" ed="T"/>頭許佛性非有如虛空非無<lb
+ n="1206a04" ed="T"/>知如菟角譬如二象覺力忽一<lb
+ n="1206a05" ed="T"/>被傷退而不復伏師子獨<lb
+ n="1206a06" ed="T"/>行驅六賊禪師射<lb
+ n="1206a07" ed="T"/>殺五平王又問。石女兒有兒否。答。石<lb
+ n="1206a08" ed="T"/>女兒不解生道無耶。既有兒何處去也。答。作<lb
+ n="1206a09" ed="T"/>峯子。何處作峯子去。乾闥婆城裏作峯子得<lb
+ n="1206a10" ed="T"/>何軍器糧食。答。將龜毛箭兔角弓水聚沫作<lb
+ n="1206a11" ed="T"/>糧食去也。在乾闥婆城東西南北何角作峰<lb
+ n="1206a12" ed="T"/>子。答。四角並不坐當心坐耶。四角總不坐當<lb
+ n="1206a13" ed="T"/>心。更誰坐耶。菩薩商人。貿易之處。菩提心<lb
+ n="1206a14" ed="T"/>者。市肆而歸。欲漏不先除<lb
+ n="1206a15" ed="T"/>畜文成過誤將文治佛<lb
+ n="1206a16" ed="T"/>佛何不自聞。聞無依一精明分<lb
+ n="1206a17" ed="T"/>成六和合。一處停休息六用皆不成迷<lb
+ n="1206a18" ed="T"/>時悟心心不異。只為有心心有異。將心覓佛<lb
+ n="1206a19" ed="T"/>歷僧祇受空手携鋤鉤。步行<lb
+ n="1206a20" ed="T"/>騎水牛。騎牛水上過橋流水不流。青青翠柳<lb
+ n="1206a21" ed="T"/>遍真如欝欝黃花無非般若思覺<lb
+ n="1206a22" ed="T"/>不相違病盡藥不起還飛不覺若見是物汝是可見吾<lb
+ n="1206a24" ed="T"/>知見。若同見者名為見吾。吾若不見時何不<lb
+ n="1206a25" ed="T"/>見吾知見。若見不見自然非比。此是日。<lb
+ n="1206a26" ed="T"/>聞伏翳根除。塵溑覺圓淨。淨極光通達。寂照<lb
+ n="1206a27" ed="T"/>合虛空。却來觀世間。猶如夢中事唯覺<pb n="1206b" id="T85.2822.1206b" ed="T"/><lb
+ n="1206b01" ed="T"/>所明稱名明覺儞。為覺不明稱名明覺。<lb
+ n="1206b02" ed="T"/>若覺不名稱名覺者則無無明有所即<lb
+ n="1206b03" ed="T"/>非覺。無明即非名無明。有非覺甚明性。<lb
+ n="1206b04" ed="T"/>若知唯識現離於心所得<lb
+ n="1206b05" ed="T"/>分別不現前亦不住其性<lb
+ n="1206b06" ed="T"/>五蔭叢林蜜。真如土地平一雲垂雨露。<lb
+ n="1206b07" ed="T"/>三草競分明渾渾常不濁。澄澄復不清。<lb
+ n="1206b08" ed="T"/>清濁合不合。故號生無生。一覺是本覺理<lb
+ n="1206b09" ed="T"/>未知本覺者如比得金<lb
+ n="1206b10" ed="T"/>錢所得亦非得空生<lb
+ n="1206b11" ed="T"/>大覺中如海藻發<lb
+ n="1206b12" ed="T"/>有漏微塵國皆從空處生<lb
+ n="1206b13" ed="T"/>漚滅空本無。況復諸三有若法<lb
+ n="1206b14" ed="T"/>生時令滅無見。若法滅時令滅有見<lb
+ n="1206b15" ed="T"/>。<lb
+ n="1206b16" ed="T"/>心用性緣理是真淨<lb
+ n="1206b17" ed="T"/>性用心不可毀壞照真金習<lb
+ n="1206b18" ed="T"/>氣不離心。心亦不似心俱須臾習所前。其體無差別<lb
+ n="1206b20" ed="T"/>結解同所因聖凡無二路如觀茇中性。空有二俱非<lb
+ n="1206b22" ed="T"/>　覺不堅為堅。善住於顛倒極<lb
+ n="1206b23" ed="T"/>煩惱所惱。得成無上道。<lb
+ n="1206b24" ed="T"/>因緣所生法。是義滅非生滅諸生<lb
+ n="1206b25" ed="T"/>滅義。是義生非滅。<lb
+ n="1206b26" ed="T"/>汝等見聞。緣無異生。六塵皆曰有相異生。性<pb n="1206c" id="T85.2822.1206c" ed="T"/><lb
+ n="1206c01" ed="T"/>中相知。用中相皆。同二失准。將知妄聲。<lb
+ n="1206c02" ed="T"/>若知前念是病。令不起後念。若起後念。同還<lb
+ n="1206c03" ed="T"/>不覺。發心畢竟二不別。如是二心先心難。初<lb
+ n="1206c04" ed="T"/>發以為天人師。勝出聲聞及緣覺。<lb
+ n="1206c05" ed="T"/>菩薩清涼月。遊於畢竟空。眾生心氷淨。菩提<lb
+ n="1206c06" ed="T"/>影現中。身是菩提樹。心是明鏡臺。時時拂力<lb
+ n="1206c07" ed="T"/>下。不備若塵埃。無樹而有影風衢以鳥<lb
+ n="1206c08" ed="T"/>跡。此見悉為難。能遣及所造。色亦非色法。於<lb
+ n="1206c09" ed="T"/>彼見如來。其難亦如是。<lb
+ n="1206c10" ed="T"/>樹上千般葉。根從空處生。風吹葉不動。日照<lb
+ n="1206c11" ed="T"/>競分明。欲得明明見。唯須見理明如人覺賊不能違。<lb
+ n="1206c13" ed="T"/>調伏難調伏解脫魔所縛。超然路地坐識蔭<lb
+ n="1206c14" ed="T"/>般涅槃。覺海性澄圓。澄圓覺無妙。無明照生<lb
+ n="1206c15" ed="T"/>死又立見所望。</ab></div>
+</body></text></TEI>

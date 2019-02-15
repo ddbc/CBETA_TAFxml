@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說北斗七星延命經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1307</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0425b" id="T21.1307.0425b" ed="T"/><lb
+ n="0425b01" ed="T"/><lb
+ n="0425b02" ed="T"/><lb
+ n="0425b03" ed="T"/>
+<ab type='juan' subtype='open'>佛說北斗七星延命經</ab><lb
+ n="0425b04" ed="T"/><lb
+ n="0425b05" ed="T"/><byline>婆羅門僧將到此經唐朝受持</byline><lb
+ n="0425b06" ed="T"/><div type='jing' level='2'><ab type='prose'><lb
+ n="0425b07" ed="T"/><lb
+ n="0425b08" ed="T"/><lb
+ n="0425b09" ed="T"/><lb
+ n="0425b10" ed="T"/><lb
+ n="0425b11" ed="T"/><lb
+ n="0425b12" ed="T"/><lb
+ n="0425b13" ed="T"/><lb
+ n="0425b14" ed="T"/><lb
+ n="0425b15" ed="T"/><lb
+ n="0425b16" ed="T"/><lb
+ n="0425b17" ed="T"/><lb
+ n="0425b18" ed="T"/><lb
+ n="0425b19" ed="T"/><lb
+ n="0425b20" ed="T"/><lb
+ n="0425b21" ed="T"/><lb
+ n="0425b22" ed="T"/><lb
+ n="0425b23" ed="T"/><lb
+ n="0425b24" ed="T"/><lb
+ n="0425b25" ed="T"/><lb
+ n="0425b26" ed="T"/><lb
+ n="0425b27" ed="T"/><lb
+ n="0425b28" ed="T"/><lb
+ n="0425b29" ed="T"/><pb n="0425c" id="T21.1307.0425c" ed="T"/><lb
+ n="0425c01" ed="T"/><lb
+ n="0425c02" ed="T"/><lb
+ n="0425c03" ed="T"/><lb
+ n="0425c04" ed="T"/><lb
+ n="0425c05" ed="T"/>　イ<lb
+ n="0425c06" ed="T"/>子生人。向此星下生。祿食黍。有厄宜供養<lb
+ n="0425c07" ed="T"/>此經及帶本星符。大吉。<lb
+ n="0425c08" ed="T"/>　ロ<lb
+ n="0425c09" ed="T"/>丑生亥生人。同向此星下生。祿食粟。有厄宜<lb
+ n="0425c10" ed="T"/>供養此經及帶本星符。大吉。<lb
+ n="0425c11" ed="T"/>　ハ<lb
+ n="0425c12" ed="T"/>寅生戌生人。同向此星下生。祿食粳米。有厄<lb
+ n="0425c13" ed="T"/>宜供養此經及帶本星符。大吉。<lb
+ n="0425c14" ed="T"/><lb
+ n="0425c15" ed="T"/><lb
+ n="0425c16" ed="T"/>　ニ<lb
+ n="0425c17" ed="T"/>卯生酉生人。同向此星下生。祿食小豆。有<lb
+ n="0425c18" ed="T"/>厄宜供養此經及帶本星符。大吉。<lb
+ n="0425c19" ed="T"/>　ホ<lb
+ n="0425c20" ed="T"/>辰生申生人。同向此星下生。祿食麻子。有厄<lb
+ n="0425c21" ed="T"/>宜供養此經及帶本星符。大吉。<lb
+ n="0425c22" ed="T"/><lb
+ n="0425c23" ed="T"/>　ヘト<lb
+ n="0425c24" ed="T"/>巳生未生人。同向此星下生。祿食大豆。有厄<lb
+ n="0425c25" ed="T"/>宜供養此經及帶本星符。大吉。<lb
+ n="0425c26" ed="T"/><lb
+ n="0425c27" ed="T"/>　チ<lb
+ n="0425c28" ed="T"/>午生人。向此星下生。祿食小豆。有厄宜供養<lb
+ n="0425c29" ed="T"/>此經及帶本星符。大吉。<pb n="0426a" id="T21.1307.0426a" ed="T"/><lb
+ n="0426a01" ed="T"/>南無貪狼星。是東方最勝世界運意通證如<lb
+ n="0426a02" ed="T"/>來佛。<lb
+ n="0426a03" ed="T"/>南無巨門星。是東方妙寶世界光音自在如<lb
+ n="0426a04" ed="T"/>來佛。<lb
+ n="0426a05" ed="T"/>南無祿存星。是東方圓滿世界金色成就如<lb
+ n="0426a06" ed="T"/>來佛。<lb
+ n="0426a07" ed="T"/>南無文曲星。是東方無憂世界最勝吉祥如<lb
+ n="0426a08" ed="T"/>來佛。<lb
+ n="0426a09" ed="T"/>南無廉貞星。是東方淨住世界廣達智辨如<lb
+ n="0426a10" ed="T"/>來佛。<lb
+ n="0426a11" ed="T"/>南無武曲星。是東方法意世界法海遊戲如<lb
+ n="0426a12" ed="T"/>來佛。<lb
+ n="0426a13" ed="T"/>南無破軍星。是東方琉璃世界藥師琉璃光<lb
+ n="0426a14" ed="T"/>如來佛。<lb
+ n="0426a15" ed="T"/>若遇行年災厄禮此經七拜。<lb
+ n="0426a16" ed="T"/>爾時佛告文殊師利菩薩。所說此經。有大威<lb
+ n="0426a17" ed="T"/>神有大威力。能救一切眾生重罪能滅一切<lb
+ n="0426a18" ed="T"/>業障。若有比丘僧比丘。宰官居士善男子善<lb
+ n="0426a19" ed="T"/>女人。若貴若賤大小生命。皆屬北斗七星所<lb
+ n="0426a20" ed="T"/>管。若聞此經受持供養轉讀。勸於朋友親族<lb
+ n="0426a21" ed="T"/>骨肉受持者現世獲福後世得生天上。若善<lb
+ n="0426a22" ed="T"/>男子善女人。或先亡過者墮於地獄。或受種<lb
+ n="0426a23" ed="T"/>種苦楚。若聞此經信敬供養。即得先亡離於<lb
+ n="0426a24" ed="T"/>地獄。生於極樂世界　若有善男子善女人。<lb
+ n="0426a25" ed="T"/>或被鬼魅所侵邪魔所嬈。惡夢怪異魂魄驚<lb
+ n="0426a26" ed="T"/>恐。若聞此經受持供養。即得魂魄安寧。永無<lb
+ n="0426a27" ed="T"/>恐怖　若善男子善女人。或有仕官身役善<lb
+ n="0426a28" ed="T"/>發征行。若遇此經信敬供養。即得仕官高遷<lb
+ n="0426a29" ed="T"/>甚大吉　若善男子善女人。或是疾病纏身。<pb n="0426b" id="T21.1307.0426b" ed="T"/><lb
+ n="0426b01" ed="T"/>欲求輕差。當於淨室燒香供養此經。疾病痊<lb
+ n="0426b02" ed="T"/>瘥　若善男子善女人。欲得進達及以出行<lb
+ n="0426b03" ed="T"/>經紀。求財稱遂興生貨賣。若遇此經信敬供<lb
+ n="0426b04" ed="T"/>養。即得求財稱遂出入大吉。若有善男子<lb
+ n="0426b05" ed="T"/>善女人。或養蠶虛耗六畜不安。即於淨室燒<lb
+ n="0426b06" ed="T"/>香供養此經。即得田蠶遂意六畜孳榮。永無<lb
+ n="0426b07" ed="T"/>損失亦無災障　若有女人懷胎難月。若遇<lb
+ n="0426b08" ed="T"/>此經信敬供養。即一得母子分解厄難消除。<lb
+ n="0426b09" ed="T"/>所生兒女。皆得端正長命果報　若善男子<lb
+ n="0426b10" ed="T"/>善女人。須知北斗七星管人生命。一生之中<lb
+ n="0426b11" ed="T"/>所有災厄。官事口舌釜鳴百怪。若遇此經信<lb
+ n="0426b12" ed="T"/>敬供養。一無妨害　爾時文殊師利言善男<lb
+ n="0426b13" ed="T"/>子善女人恭敬信受作禮而散。</ab></div><lb
+ n="0426b14" ed="T"/>
+<ab type='juan' subtype='close'>佛說北斗七星延命經</ab><lb
+ n="0426b15" ed="T"/><div type='w' level='2'><ab type='prose'>。</ab></div></div>
+</body></text></TEI>

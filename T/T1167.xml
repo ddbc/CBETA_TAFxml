@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">八大菩薩曼荼羅經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1167</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0675a16" ed="T"/><lb
+ n="0675a17" ed="T"/><lb
+ n="0675a18" ed="T"/><div type='jing' level='2'><lb
+ n="0675a19" ed="T"/>
+<ab type='juan' subtype='open'>八大菩薩曼荼羅經</ab><lb
+ n="0675a20" ed="T"/><lb
+ n="0675a21" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0675a22" ed="T"/>公食邑三千戶贈司空諡大鑒正號<lb
+ n="0675a23" ed="T"/>大廣智大興善寺三藏法師不空<lb
+ n="0675a24" ed="T"/>奉　詔譯</byline><lb
+ n="0675a25" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。住補怛落伽山聖<lb
+ n="0675a26" ed="T"/>觀自在菩薩宮殿。與百千俱胝那庾多菩薩<lb
+ n="0675a27" ed="T"/>前後圍遶。爾時眾中有一菩薩。名曰寶藏月<lb
+ n="0675a28" ed="T"/>光。從座而起整理衣服。偏袒右肩曲躬合<lb
+ n="0675a29" ed="T"/>掌。白言薄伽梵我有少疑。唯願如來聽許諮<pb n="0675b" id="T20.1167.0675b" ed="T"/><lb
+ n="0675b01" ed="T"/>問。於是寶藏月光菩薩言。若善男子善女<lb
+ n="0675b02" ed="T"/>人。作八曼荼羅者云何建立。復依何法起<lb
+ n="0675b03" ed="T"/>無量福。令修行者速證菩提。爾時如來讚寶<lb
+ n="0675b04" ed="T"/>藏月光菩薩言。善哉善哉善男子。能問如是<lb
+ n="0675b05" ed="T"/>甚深之義。而為利益無量無邊有情與安樂<lb
+ n="0675b06" ed="T"/>故。及能淨除三惡趣故。為證無比無上智故。<lb
+ n="0675b07" ed="T"/>汝今善聽。若諸有情纔聞此密言者。得長壽<lb
+ n="0675b08" ed="T"/>樂。善男子有八曼荼羅。是八大菩薩甚深法<lb
+ n="0675b09" ed="T"/>要。若有有情。依法建立此八曼荼羅一遍者。<lb
+ n="0675b10" ed="T"/>所有十惡五逆謗方等經皆悉銷滅。一切所<lb
+ n="0675b11" ed="T"/>求義利勝願悉得成就。即說如來密言曰。<lb
+ n="0675b12" ed="T"/></ab>
+<ab type='dharani'>唵摩訶尾囉娑嚩賀<lb
+ n="0675b13" ed="T"/></ab>
+<ab type='prose'>即曼荼囉中。想於如來真金色身。三十二<lb
+ n="0675b14" ed="T"/>相坐蓮華臺。次說觀自在菩薩密言曰。<lb
+ n="0675b15" ed="T"/></ab>
+<ab type='dharani'>吽纈唎郝鉢納麼室哩曳娑<lb
+ n="0675b16" ed="T"/>嚩訶<lb
+ n="0675b17" ed="T"/></ab>
+<ab type='prose'>即想曼荼羅中。聖觀自在赤色身。左手持<lb
+ n="0675b18" ed="T"/>蓮華右手施願。頭冠中有無量壽如來。次說<lb
+ n="0675b19" ed="T"/>慈氏菩薩密言曰。<lb
+ n="0675b20" ed="T"/></ab>
+<ab type='dharani'>每訶哩爾娑嚩訶<lb
+ n="0675b21" ed="T"/></ab>
+<ab type='prose'>於觀自在菩薩後。想慈氏菩薩。金色身左手<lb
+ n="0675b22" ed="T"/>執軍持右手施無畏。冠中有窣堵波半跏坐。<lb
+ n="0675b23" ed="T"/>次說虛空藏菩薩密言曰。<lb
+ n="0675b24" ed="T"/></ab>
+<ab type='dharani'>阿孽婆也　娑嚩訶<lb
+ n="0675b25" ed="T"/></ab>
+<ab type='prose'>於佛背後。想虛空藏菩薩。左手持寶安於心<lb
+ n="0675b26" ed="T"/>上。右手施流出無量寶。<lb
+ n="0675b27" ed="T"/>次說普賢菩薩密言曰。<lb
+ n="0675b28" ed="T"/></ab>
+<ab type='dharani'>纈唎惹也娑嚩訶<lb
+ n="0675b29" ed="T"/></ab>
+<ab type='prose'>虛空藏菩薩左邊。想普賢菩薩。戴五佛冠金<pb n="0675c" id="T20.1167.0675c" ed="T"/><lb
+ n="0675c01" ed="T"/>色身。右手持劍左手施願。半跏而坐。<lb
+ n="0675c02" ed="T"/>次說金剛手菩薩密言曰。<lb
+ n="0675c03" ed="T"/></ab>
+<ab type='dharani'>唵鑁囉嚩娑嚩訶<lb
+ n="0675c04" ed="T"/></ab>
+<ab type='prose'>於如來左邊。想金剛手菩薩。右手執金剛杵<lb
+ n="0675c05" ed="T"/>左手安於胯。戴五佛冠。身青色半跏而坐。<lb
+ n="0675c06" ed="T"/>次說曼殊室利菩薩密言曰。<lb
+ n="0675c07" ed="T"/></ab>
+<ab type='dharani'>室利闍㘕誐娑嚩訶<lb
+ n="0675c08" ed="T"/></ab>
+<ab type='prose'>於金剛手菩薩前。想曼殊室利童真菩薩。五<lb
+ n="0675c09" ed="T"/>髻童子形。左手執青蓮花。花中有五股金剛<lb
+ n="0675c10" ed="T"/>杵。右手作施願。身金色半跏而坐。<lb
+ n="0675c11" ed="T"/>次說除蓋障菩薩密言曰。<lb
+ n="0675c12" ed="T"/></ab>
+<ab type='dharani'>匿伐囉拏娑嚩訶<lb
+ n="0675c13" ed="T"/></ab>
+<ab type='prose'>於曼殊室唎菩薩右。想除蓋障菩薩。金色<lb
+ n="0675c14" ed="T"/>身。左手持如意幢。右手施願半跏而坐。<lb
+ n="0675c15" ed="T"/>次說地藏菩薩密言曰。<lb
+ n="0675c16" ed="T"/></ab>
+<ab type='dharani'>乞灑訶囉惹娑嚩賀<lb
+ n="0675c17" ed="T"/></ab>
+<ab type='prose'>於如來前。想地藏菩薩。頭冠瓔珞面貌熙怡<lb
+ n="0675c18" ed="T"/>寂靜。愍念一切有情。左手安臍下拓鉢。右<lb
+ n="0675c19" ed="T"/>手覆掌向下。大指捻頭指作安慰一切有<lb
+ n="0675c20" ed="T"/>情想。此八大菩薩曼荼羅供養觀行法。若善<lb
+ n="0675c21" ed="T"/>男子善女人。受持此八曼荼羅經。一切業障<lb
+ n="0675c22" ed="T"/>悉皆銷滅。速證無上正等菩提。<lb
+ n="0675c23" ed="T"/>佛說是經已諸大菩薩及聲聞眾。一切天龍<lb
+ n="0675c24" ed="T"/>八部聞佛所說歡喜奉行。<lb
+ n="0675c25" ed="T"/>八大菩薩讚。<lb
+ n="0675c26" ed="T"/></ab>
+<ab type='verse'>
+圓寂宮城門　　能摧戶扇者　　<lb
+ n="0675c27" ed="T"/>諸佛法受用　　救世我頂禮　　<lb
+ n="0675c28" ed="T"/>自手流清水　　能除餓鬼渴　　<lb
+ n="0675c29" ed="T"/>三界如意樹　　頂禮蓮華手　　<pb n="0676a" id="T20.1167.0676a" ed="T"/><lb
+ n="0676a01" ed="T"/>大慈水為心　　能息瞋恚火　　<lb
+ n="0676a02" ed="T"/>頂禮慈氏尊　　能斷欲弓弦　　<lb
+ n="0676a03" ed="T"/>虛空藏妙慧　　虛空寂靜尊　　<lb
+ n="0676a04" ed="T"/>生死流解脫　　頂禮佛心子　　<lb
+ n="0676a05" ed="T"/>無邊有情惑　　能息無益心　　<lb
+ n="0676a06" ed="T"/>普賢我頂禮　　善逝上首子　　<lb
+ n="0676a07" ed="T"/>塵勞盡僮僕　　超勝摩羅軍　　<lb
+ n="0676a08" ed="T"/>頂禮金剛手　　能說一切明　　<lb
+ n="0676a09" ed="T"/>頂禮妙吉祥　　持妙童子形　　<lb
+ n="0676a10" ed="T"/>舒遍智慧燈　　攘奪三界冥　　<lb
+ n="0676a11" ed="T"/>一切除蓋障　　是故我頂禮　　<lb
+ n="0676a12" ed="T"/>無盡智慧尊　　能生無竭辯　　<lb
+ n="0676a13" ed="T"/>如地諸有情　　所依一不斷　　<lb
+ n="0676a14" ed="T"/>堅慧悲愍藏　　地藏我頂禮　　<lb
+ n="0676a15" ed="T"/>此真善逝子　　讚揚所獲福　　<lb
+ n="0676a16" ed="T"/>以此諸有情　　如彼成讚器　　
+</ab><lb
+ n="0676a17" ed="T"/>
+<ab type='juan' subtype='close'>八大菩薩曼荼羅經</ab></div><lb
+ n="0676a18" ed="T"/><div type='w' level='2'><ab type='prose'>此中八位文錯今依衡函尊勝佛頂念誦<lb
+ n="0676a19" ed="T"/>法中所明方位而正之云。</ab></div></div>
+</body></text></TEI>

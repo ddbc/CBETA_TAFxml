@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說稱讚如來功德神呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1349</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0863a" id="T21.1349.0863a" ed="T"/><lb
+ n="0863a01" ed="T"/><lb
+ n="0863a02" ed="T"/><lb
+ n="0863a03" ed="T"/><div type='jing' level='1'><lb
+ n="0863a04" ed="T"/>
+<ab type='juan' subtype='open'>佛說稱讚如來功德神呪經一<lb
+ n="0863a05" ed="T"/>卷</ab><lb
+ n="0863a06" ed="T"/><lb
+ n="0863a07" ed="T"/><byline>唐三藏法師義淨奉　制譯</byline><lb
+ n="0863a08" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵在王舍城鷲峯山頂。<lb
+ n="0863a09" ed="T"/>與大苾芻眾千二百五十人俱。菩薩摩訶薩<lb
+ n="0863a10" ed="T"/>萬二千人俱。皆是賢劫大菩薩眾。爾時世尊<lb
+ n="0863a11" ed="T"/>於此眾中。告慈氏菩薩摩訶薩曰。今現在十<lb
+ n="0863a12" ed="T"/>方諸佛如來勝妙吉祥名號。若有善男子善<lb
+ n="0863a13" ed="T"/>女人。於此如來名號。憶念受持一心恭敬。所<lb
+ n="0863a14" ed="T"/>有業障報障破戒重罪悉皆除滅。勝妙善根<lb
+ n="0863a15" ed="T"/>真實功德。勸請隨喜迴向發願一切功德。永<lb
+ n="0863a16" ed="T"/>不退轉菩提之心。我今欲說汝應諦聽。<lb
+ n="0863a17" ed="T"/>南無東方無垢光如來<lb
+ n="0863a18" ed="T"/>南無東南方眾辯莊嚴如來<lb
+ n="0863a19" ed="T"/>南無南方無垢月幢旗王如來<lb
+ n="0863a20" ed="T"/>南無西南方光焰莊嚴如來<lb
+ n="0863a21" ed="T"/>南無西方寶勝如來<lb
+ n="0863a22" ed="T"/>南無西北方俱摩羅光如來<lb
+ n="0863a23" ed="T"/>南無北方無畏無垢稱如來<lb
+ n="0863a24" ed="T"/>南無東北方離怖畏悚懼有大名稱如來<lb
+ n="0863a25" ed="T"/>南無上方師子奮迅意如來<lb
+ n="0863a26" ed="T"/>南無下方金華光如來<lb
+ n="0863a27" ed="T"/>爾時世尊復告慈氏菩薩。東方去此過十不<lb
+ n="0863a28" ed="T"/>可說百千億數微塵佛土。有佛世界名妙真<lb
+ n="0863a29" ed="T"/>珠。彼國有佛。號曰虛空功德目淨無垢光德<pb n="0863b" id="T21.1349.0863b" ed="T"/><lb
+ n="0863b01" ed="T"/>相蓮花焰瑠璃色寶體香上妙供養以眾妙<lb
+ n="0863b02" ed="T"/>彩而為嚴飾頂上肉髻妙相無邊日月光明願<lb
+ n="0863b03" ed="T"/>力莊嚴變化莊嚴廣大莊嚴法界高勝無染寶<lb
+ n="0863b04" ed="T"/>王正遍知如來。授一無比菩薩記。彼佛滅度<lb
+ n="0863b05" ed="T"/>次當成佛。號曰毫相殊勝猶如初日燈光月<lb
+ n="0863b06" ed="T"/>焰波頭摩花身色如金滿虛空界光明廣大無<lb
+ n="0863b07" ed="T"/>礙莊嚴圓光十方普照一切無不明了幢相旗<lb
+ n="0863b08" ed="T"/>王正遍知如來。<lb
+ n="0863b09" ed="T"/>佛言慈氏。當知若有善男子善女人。能於此<lb
+ n="0863b10" ed="T"/>諸佛名受持禮拜專心恭敬。於十日中自說<lb
+ n="0863b11" ed="T"/>罪咎。復以勸請隨喜迴向發願勝妙善根。所<lb
+ n="0863b12" ed="T"/>有業障報障破戒重罪悉皆消滅。雖處生死<lb
+ n="0863b13" ed="T"/>未免流轉。而不退失求菩提心。所生之處族<lb
+ n="0863b14" ed="T"/>姓尊貴。遠離貧窮邊地下賤。六根圓滿眾人<lb
+ n="0863b15" ed="T"/>愛敬端正無比。常值善友不遇惡人。諸有願<lb
+ n="0863b16" ed="T"/>求悉皆隨意。財寶榮位無不遂心。命終之後<lb
+ n="0863b17" ed="T"/>生諸佛國。先作如是禮懺事已。至心讀誦此<lb
+ n="0863b18" ed="T"/>陀羅尼。即說呪曰。<lb
+ n="0863b19" ed="T"/></ab>
+<ab type='dharani'>呾姪他　惡契莫契　三曼多目契騷鞞欲帝<lb
+ n="0863b20" ed="T"/>　陀泥　三摩瑜祇　質多鞞跋多　惡契目<lb
+ n="0863b21" ed="T"/>契　薩多陀泥　毘吠帝　三曼多寠泥<lb
+ n="0863b22" ed="T"/>薩多曷羅謎目帝鉢唎目底　呬囇密麗　牟<lb
+ n="0863b23" ed="T"/>薩麗　阿三謎談謎　阿至麗　末至麗　菩<lb
+ n="0863b24" ed="T"/>提曷囉　膩薄呼𢮓　摩愈揭喇呬　辛底謗<lb
+ n="0863b25" ed="T"/>計　醯摩伐底　樹底伐底　達摩震帝　阿<lb
+ n="0863b26" ed="T"/>躃㿲箄　曷囉敵箄　塞建陀　毘薄帝<lb
+ n="0863b27" ed="T"/>　莎訶<lb
+ n="0863b28" ed="T"/></ab>
+<ab type='prose'>爾時世尊復說頌曰。<lb
+ n="0863b29" ed="T"/></ab>
+<ab type='verse'>
+六十億大仙　　皆受持此呪　　<pb n="0863c" id="T21.1349.0863c" ed="T"/><lb
+ n="0863c01" ed="T"/>彼常念不散　　現在十方住　　<lb
+ n="0863c02" ed="T"/>於所在生中　　常值善知識　　<lb
+ n="0863c03" ed="T"/>所有悕望者　　應念皆隨意　　<lb
+ n="0863c04" ed="T"/>現前見諸佛　　而在蓮華座　　<lb
+ n="0863c05" ed="T"/>常持此呪者　　具相而化生　　<lb
+ n="0863c06" ed="T"/>念定皆安隱　　智慧日增明　　<lb
+ n="0863c07" ed="T"/>所聞能受持　　諸句義不忘　　<lb
+ n="0863c08" ed="T"/>若持諸佛名　　是世歸依處　　<lb
+ n="0863c09" ed="T"/>不墮於惡趣　　常生善道中　　<lb
+ n="0863c10" ed="T"/>此人由佛力　　常得殊勝處　　<lb
+ n="0863c11" ed="T"/>乃至證菩提　　妙行常修習　　<lb
+ n="0863c12" ed="T"/>佛土多千億　　黃金滿持施　　<lb
+ n="0863c13" ed="T"/>若人持佛名　　福聚多於彼　　<lb
+ n="0863c14" ed="T"/>斯人合供養　　隨其所在生　　<lb
+ n="0863c15" ed="T"/>恒生富貴家　　勇健施無悋　　<lb
+ n="0863c16" ed="T"/>一切諸香氣　　天赤栴檀香　　<lb
+ n="0863c17" ed="T"/>經多百億劫　　常從其口生　　<lb
+ n="0863c18" ed="T"/>若人舍宅中　　寫佛名供養　　<lb
+ n="0863c19" ed="T"/>眷屬常安隱　　無諸惱亂事　　<lb
+ n="0863c20" ed="T"/>若人常誦持　　長壽并無病　　<lb
+ n="0863c21" ed="T"/>恒逢於善友　　臨終不亂心　　<lb
+ n="0863c22" ed="T"/>如來功德聚　　福量難思議　　<lb
+ n="0863c23" ed="T"/>智人應誦持　　當勤莫放逸　　
+</ab><lb
+ n="0863c24" ed="T"/><ab type='prose'>爾時薄伽梵。為慈氏菩薩并諸大眾。說是經<lb
+ n="0863c25" ed="T"/>已。慈氏菩薩等及諸苾芻人天大眾。聞佛所<lb
+ n="0863c26" ed="T"/>說。皆大歡喜頂受奉行。<lb
+ n="0863c27" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說稱讚如來功德神呪經一卷</ab></div>
+</body></text></TEI>

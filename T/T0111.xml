@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說相應相可經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0111</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0504b23" ed="T"/><lb
+ n="0504b24" ed="T"/><lb
+ n="0504b25" ed="T"/><div type='jing' level='1'><lb
+ n="0504b26" ed="T"/>
+<ab type='juan' subtype='open'>佛說相應相可經</ab><lb
+ n="0504b27" ed="T"/><lb
+ n="0504b28" ed="T"/><byline>西晉沙門法炬譯</byline><lb
+ n="0504b29" ed="T"/><ab type='prose'>佛在舍衛國請諸比丘，比丘即到。佛告比丘，<pb n="0504c" ed="T" id="T02.0111.0504c"/><lb
+ n="0504c01" ed="T"/>比丘應：「唯然，從佛聞。」佛便說：「是不聞者，不聞<lb
+ n="0504c02" ed="T"/>者俱，相類、相聚、相應、相可；多聞者，多聞者俱，<lb
+ n="0504c03" ed="T"/>相類、相聚、相應、相可。貪婬者，貪婬者俱，相類、<lb
+ n="0504c04" ed="T"/>相聚、相應、相可；不貪婬者，不貪婬者俱相類、<lb
+ n="0504c05" ed="T"/>相聚、相應、相可。瞋恚者，瞋恚者俱，相類、相聚、<lb
+ n="0504c06" ed="T"/>相應、相可；不瞋恚者，不瞋恚者俱，相類、相聚、<lb
+ n="0504c07" ed="T"/>相應、相可。愚癡者，愚癡者俱，相類、相聚、相應、<lb
+ n="0504c08" ed="T"/>相可；慧者，慧者俱，相類、相聚、相應、相可。布施<lb
+ n="0504c09" ed="T"/>者，布施者俱，相類、相聚、相應、相可；慳貪者，慳<lb
+ n="0504c10" ed="T"/>貪者俱，相類、相聚、相應、相可。少欲者，少欲者<lb
+ n="0504c11" ed="T"/>俱，相類、相聚、相應、相可；多欲者，多欲者俱，相<lb
+ n="0504c12" ed="T"/>類、相聚、相應、相可。不持戒者，不持戒者俱，相<lb
+ n="0504c13" ed="T"/>類、相聚、相應、相可；持戒者，持戒者俱，相類、相<lb
+ n="0504c14" ed="T"/>聚、相應、相可。難給者，難給者俱，相類、相聚、相<lb
+ n="0504c15" ed="T"/>應、相可；易給者，易給者俱，相類、相聚、相應、相<lb
+ n="0504c16" ed="T"/>可。不知足者，不知足者俱，相類、相聚、相應、相<lb
+ n="0504c17" ed="T"/>可；知足者，知足者俱，相類、相聚、相應、相可。不<lb
+ n="0504c18" ed="T"/>自守者，不自守者俱，相類、相聚、相應、相可；自<lb
+ n="0504c19" ed="T"/>守者，自守者俱，相類、相聚、相應、相可。」佛說：「比<lb
+ n="0504c20" ed="T"/>丘！如是慧人當分別是因緣，可行者行之，不<lb
+ n="0504c21" ed="T"/>可行者莫行。」佛說如是。比丘受行著意。<lb
+ n="0504c22" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說相應相可經</ab></div>
+</body></text></TEI>

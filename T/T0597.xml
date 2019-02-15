@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">龍王兄弟經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T15</biblScope>
+                    <idno type="Taisho">T15n0597</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0131a07" ed="T"/><lb
+ ed="T" n="0131a08"/><lb
+ n="0131a09" ed="T"/><lb
+ n="0131a10" ed="T"/>
+<ab type='juan' subtype='open'>龍王兄弟經</ab><lb
+ n="0131a11" ed="T"/><lb
+ n="0131a12" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
+ ed="T" n="0131a13"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在舍衛國祇洹阿難邠低阿<lb
+ n="0131a14" ed="T"/>藍。時有無央數比丘僧，皆阿羅漢也。阿難<lb
+ ed="T" n="0131a15"/>邠低至佛所，作禮，却坐。佛言：「人當布施、持<lb
+ ed="T" n="0131a16"/>戒、忍辱、精進、禪定、智慧。」阿難邠低聞之歡喜，<lb
+ ed="T" n="0131a17"/>即起白佛：「明旦請佛及比丘僧降德到舍，設<lb
+ n="0131a18" ed="T"/>麁食。」佛默然。阿難邠低繞佛三匝而去。佛<lb
+ ed="T" n="0131a19"/>告比丘僧：「旦日當上天，投日中下，會阿難邠<lb
+ n="0131a20" ed="T"/>低舍。」佛如伸臂頃，即住虛空中。羅漢名須<lb
+ n="0131a21" ed="T"/>檀，正衣服，於虛空中，長跪白佛：「我恒上下，<lb
+ n="0131a22" ed="T"/>未甞冥如今日也。」佛言：「有兩龍王，瞋恚作<lb
+ ed="T" n="0131a23"/>變，吐氣為雲故也。」復有羅漢名愛波，白佛：<lb
+ ed="T" n="0131a24"/>「欲行止之。」佛言：「此龍大有威神。汝行者，必當<lb
+ n="0131a25" ed="T"/>興惡意，出水沒殺天下人民。」摩訶目揵連<lb
+ n="0131a26" ed="T"/>復正衣服，長跪虛空中問佛：「今日以冥，不復<lb
+ n="0131a27" ed="T"/>見須彌山帝釋宮殿下已質樹子。」佛言：「有兩<lb
+ ed="T" n="0131a28"/>龍王，一名難頭，二名和難，大瞋恚言：『何等<lb
+ n="0131a29" ed="T"/>沙門欲飛過，摩我頭上？』龍身繞須彌山七<pb ed="T" id="T15.0597.0131b" n="0131b"/><lb
+ n="0131b01" ed="T"/>匝，以頭覆其上，吐氣出霧故冥。」目連白佛：「欲<lb
+ ed="T" n="0131b02"/>往訶止之。」佛言：「大善！」目連繞佛三匝而行。<lb
+ n="0131b03" ed="T"/>釋提桓因從八萬八千玉女，於後園相娛樂。<lb
+ n="0131b04" ed="T"/>目連先過其所，天帝迎之，稽首作禮。相問<lb
+ n="0131b05" ed="T"/>訊已，乃到龍所。兩龍見之，大怒，便變化出<lb
+ ed="T" n="0131b06"/>煙，須臾復出火。目連以佛意，亦變化出烟<lb
+ ed="T" n="0131b07"/>必繞兩龍三重。稍前分身入兩龍身中，右目<lb
+ ed="T" n="0131b08"/>入，左目出；左目入，右目出；右耳入，左耳出；<lb
+ ed="T" n="0131b09"/>左耳入，右耳出；復入右鼻，左鼻出；入左鼻，<lb
+ n="0131b10" ed="T"/>右鼻出，飛入其口中。兩龍謂目連在其腹<lb
+ n="0131b11" ed="T"/>中也。目連亦復作龍身，繞兩龍十四重，以<lb
+ n="0131b12" ed="T"/>頭覆須彌及兩龍。兩龍於下悚慄，延動須彌<lb
+ n="0131b13" ed="T"/>山，以尾搏扇海水，百獸震怖。佛遙告目連：<lb
+ n="0131b14" ed="T"/>「此龍今當能出水沒壞天下。汝且須止！」目連<lb
+ n="0131b15" ed="T"/>言：「我從佛聞知此法。我有四神足，當信持<lb
+ n="0131b16" ed="T"/>行之。我能取是兩龍及須彌山，著掌中跳過<lb
+ n="0131b17" ed="T"/>他方天下；亦能取劑磨須彌山，令碎如塵；<lb
+ n="0131b18" ed="T"/>復能磨須彌山及下地，令萬民不覺之。」兩<lb
+ ed="T" n="0131b19"/>龍恐懼，稽首，目連復沙門身。兩龍化作人，<lb
+ ed="T" n="0131b20"/>為目連作禮悔過，目連將至佛所。兩龍言：<lb
+ ed="T" n="0131b21"/>「我迷狂惑，不知尊神，觸犯雷震，哀原其罪！」<lb
+ n="0131b22" ed="T"/>便受五戒而去。阿難邠低到精舍，索佛及比<lb
+ n="0131b23" ed="T"/>丘僧，了不見一人，便長跪白佛：「飯具以嚴<lb
+ n="0131b24" ed="T"/>辦，佛可自屈。」佛即下到其舍。飯已，阿難邠<lb
+ ed="T" n="0131b25"/>低言：「我求佛不見，佛從何所來？」佛言：「目連<lb
+ n="0131b26" ed="T"/>與兩龍王共諍，適從天上來下。」問：「誰勝者？」<lb
+ n="0131b27" ed="T"/>佛言：「目連。」阿難邠低言：「善哉！善哉！此龍乘<lb
+ n="0131b28" ed="T"/>戒堅強，失之毫數，罪至於龍，威神尊重。目<lb
+ n="0131b29" ed="T"/>連迺臣伏之乎！我從今日始，請佛及比丘僧<pb ed="T" id="T15.0597.0131c" n="0131c"/><lb
+ ed="T" n="0131c01"/>宣揚目連功德。」佛呪願迦羅越阿難邠低：「汝<lb
+ ed="T" n="0131c02"/>前後飯食得道人，善鬼神當擁護汝家，皆令<lb
+ ed="T" n="0131c03"/>安隱。」阿難邠低作禮而去。</ab></div><lb
+ ed="T" n="0131c04"/>
+<ab type='juan' subtype='close'>龍王兄弟經</ab>
+</body></text></TEI>

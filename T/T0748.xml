@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說護淨經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0748</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0564c22" ed="T"/><lb
+ ed="T" n="0564c23"/><lb
+ ed="T" n="0564c24"/><lb
+ n="0564c25" ed="T"/>
+<ab type='juan' subtype='open'>佛說護淨經</ab><lb
+ ed="T" n="0564c26"/><lb
+ n="0564c27" ed="T"/><byline>失譯人今附東晉錄</byline><lb
+ ed="T" n="0564c28"/><div type='jing' level='1'><ab type='prose'>往昔，佛共阿難行，遇值一池，東西四十里，<lb
+ n="0564c29" ed="T"/>南北四十里，深四十里。池中有虫，其形似<pb id="T17.0748.0565a" n="0565a" ed="T"/><lb
+ ed="T" n="0565a01"/>科蚪，形黑如墨。佛語阿難：「識此池中虫不？」<lb
+ ed="T" n="0565a02"/>答言：「不識。」佛語阿難：「此池中虫者，十方世界<lb
+ n="0565a03" ed="T"/>大眾僧，食不淨食，墮此臭穢糞屎池中，常<lb
+ ed="T" n="0565a04"/>食不淨，五百萬世中受此苦惱竟；後五百世<lb
+ ed="T" n="0565a05"/>中復墮餓狗中，常食不淨；復墮猪中，五百<lb
+ n="0565a06" ed="T"/>世常食不淨；復墮蜣蜋中常食不淨。亦五<lb
+ ed="T" n="0565a07"/>百世得出為人，常生貧窮家，衣不覆形，食<lb
+ n="0565a08" ed="T"/>不充口，常食糠飯，恒飢不足。」佛語諸比丘：<lb
+ ed="T" n="0565a09"/>「有如是者，受罪尤苦，無量無邊。誡語後世<lb
+ ed="T" n="0565a10"/>末法中，諸比丘不可不慎，一切眾僧有住止<lb
+ ed="T" n="0565a11"/>處，作不淨食不足往食。欲淨食者，一切白。<lb
+ ed="T" n="0565a12"/>衣食如法，著衣持鉢，稱四威儀，如法往造<lb
+ n="0565a13" ed="T"/>乞，是真比丘，除其邪命，如法活命。「佛不妄<lb
+ n="0565a14" ed="T"/>言，福報如影響。往昔比丘，新得阿羅漢，<lb
+ n="0565a15" ed="T"/>有結業身，有便利患。夜闇上廁，見一比丘<lb
+ ed="T" n="0565a16"/>在廁邊呻吟，阿羅漢語是比丘：『汝本好用意<lb
+ n="0565a17" ed="T"/>人，云何墮餓鬼中呻吟如是？』餓鬼比丘答言：<lb
+ ed="T" n="0565a18"/>『我餓渴來久，五百餘年不見漿水，正欲趣<lb
+ ed="T" n="0565a19"/>廁用食不淨，護廁鬼神鐵杖打我，不得近<lb
+ ed="T" n="0565a20"/>廁。憶念本曾作比丘知僧事時，是用觸<lb
+ n="0565a21" ed="T"/>眾僧淨食，以不淨食食眾僧，故致此殃。』遇<lb
+ n="0565a22" ed="T"/>值阿羅漢善知識，阿羅漢為比丘僧中燒<lb
+ n="0565a23" ed="T"/>香呪願，即免餓鬼，還復人道。」佛語諸比丘：<lb
+ ed="T" n="0565a24"/>「不可不慎，一切不得觸眾僧淨食。佛不虛言，<lb
+ ed="T" n="0565a25"/>福報如影響，十八地獄經中出罪福。此餓鬼<lb
+ n="0565a26" ed="T"/>本從人道中來，以不清淨手觸眾僧淨器；<lb
+ ed="T" n="0565a27"/>以不淨手觸沙門淨食，以不淨食著沙門<lb
+ ed="T" n="0565a28"/>淨食中。以不淨食食眾僧故，後五百世中，<lb
+ n="0565a29" ed="T"/>墮餓鬼中，常食不淨；欲趣廁上食糞，于時廁<pb id="T17.0748.0565b" n="0565b" ed="T"/><lb
+ n="0565b01" ed="T"/>神手捉鐵杖打之，令不得近。此鬼食人膿<lb
+ ed="T" n="0565b02"/>血、涕唾及蕩滌惡汁，常伺捕婦女產血不<lb
+ ed="T" n="0565b03"/>淨，以為飲食。復經五百世，墮猪、狗、蜣蜋之<lb
+ n="0565b04" ed="T"/>中，常食臭糞不淨。受斯苦劇，累世如此，<lb
+ n="0565b05" ed="T"/>於百千劫，無有出期，難得解脫，痛不可言。<lb
+ ed="T" n="0565b06"/>「以不淨手觸男根，或觸女根，觸沙門淨器，<lb
+ ed="T" n="0565b07"/>觸沙門淨食；以不淨食，著沙門淨食中；以<lb
+ n="0565b08" ed="T"/>不淨食食眾僧故，致此殃，一切人肉眼不<lb
+ n="0565b09" ed="T"/>知罪福。自今以後，欲得福祐，佐眾僧作食，<lb
+ n="0565b10" ed="T"/>以清淨手捉眾僧淨器、淨手淘米、及以<lb
+ n="0565b11" ed="T"/>淨米著眾僧淨食中者，得福無量。自今以<lb
+ n="0565b12" ed="T"/>後，以此為常，一切眾人普使聞知。一切檀<lb
+ n="0565b13" ed="T"/>越施設法會，供齋調度，持齋者得食，不持齋<lb
+ ed="T" n="0565b14"/>者不得食。此飯一日持齋，得六十萬世餘糧；<lb
+ ed="T" n="0565b15"/>不持齋者，六十萬世墮餓鬼中。何以故？此信<lb
+ n="0565b16" ed="T"/>施難銷故。寧吞熱鐵丸，不食此飯。吞熱鐵丸，<lb
+ n="0565b17" ed="T"/>須臾間耳，食此信施，久受大苦，五百萬世<lb
+ n="0565b18" ed="T"/>中受餓鬼苦。「諸有設食之處，一切如法作齋，<lb
+ ed="T" n="0565b19"/>不得懷挾餘殘食，歸給妻子。若食此飯，若腋<lb
+ ed="T" n="0565b20"/>底挾擔，後五百世，常挾熱鐵輪，左腋底入<lb
+ n="0565b21" ed="T"/>從右腋底出。一切齋飯不可不慎，一米化作<lb
+ ed="T" n="0565b22"/>熱丸。「一切賢者施設福會，於先嘗啜此食，都<lb
+ n="0565b23" ed="T"/>作殘食，唐作此會，不如不作。何以故？諸天不<lb
+ n="0565b24" ed="T"/>歡，鬼神不喜。此人於先甞者，亦五百世中受<lb
+ ed="T" n="0565b25"/>餓鬼苦。自今已後，欲得福者，如法作齋食，可<lb
+ ed="T" n="0565b26"/>得福德，諸天歡喜，百神慶悅，天神擁護。經不<lb
+ n="0565b27" ed="T"/>虛言，福報如影響。」</ab></div><lb
+ ed="T" n="0565b28"/>
+<ab type='juan' subtype='close'>佛說護淨經</ab>
+</body></text></TEI>

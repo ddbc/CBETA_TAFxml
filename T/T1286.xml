@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">堅牢地天儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1286</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0354b16" ed="T"/><lb
+ n="0354b17" ed="T"/><lb
+ n="0354b18" ed="T"/><div type='jing' level='1'><lb
+ n="0354b19" ed="T"/>
+<ab type='juan' subtype='open'>堅牢地天儀軌</ab><lb
+ n="0354b20" ed="T"/><lb
+ n="0354b21" ed="T"/><byline>中天竺國大那蘭陀寺善無畏奉　詔譯<lb
+ n="0354b22" ed="T"/></byline><lb
+ n="0354b23" ed="T"/><ab type='prose'>爾時堅牢地天及大功德天。俱共從座而起<lb
+ n="0354b24" ed="T"/>白佛言。世尊。若有比丘比丘尼優婆塞優婆<lb
+ n="0354b25" ed="T"/>夷童男童女等常攝五根繫念至心我地天<lb
+ n="0354b26" ed="T"/>及功德天。禮拜恭敬供養及念誦我真言者。<lb
+ n="0354b27" ed="T"/>我恒常出地味資潤彼人。令其身中增益壽<lb
+ n="0354b28" ed="T"/>命。是地精氣充溢。行者身中得色力。得念<lb
+ n="0354b29" ed="T"/>得喜得精進。得大智慧得辯財。得三明六<pb n="0354c" id="T21.1286.0354c" ed="T"/><lb
+ n="0354c01" ed="T"/>通。人天愛敬得無比無盡大福德。譬如輪王<lb
+ n="0354c02" ed="T"/>聖主福德。得在在處處行者所住之處。譬如<lb
+ n="0354c03" ed="T"/>忉利天園觀。此生彼生及千生萬生無極。得<lb
+ n="0354c04" ed="T"/>巨多廣大福。得日日千萬眷屬掬養。亦無<lb
+ n="0354c05" ed="T"/>量無數有情艱難之類。活備資生庫倉充溢<lb
+ n="0354c06" ed="T"/>七珍無限。象寶馬寶及輪寶隨心女寶。即不<lb
+ n="0354c07" ed="T"/>呼自來限死生。如是法行比丘。或以種種金<lb
+ n="0354c08" ed="T"/>銀寶珠種種資生種種穀米具足供給。如是<lb
+ n="0354c09" ed="T"/>繫念從初夜至中後夜。坐臥行立念法心無<lb
+ n="0354c10" ed="T"/>彼外緣。行者為營寺舍或造一屋或一樹林<lb
+ n="0354c11" ed="T"/>或復衣食坐臥床鋪。於病患湯藥種種資生<lb
+ n="0354c12" ed="T"/>常供給之。彼得如是無乏少。已身得安穩無<lb
+ n="0354c13" ed="T"/>有憂愁。心常歡喜得好福田成就法器。如是<lb
+ n="0354c14" ed="T"/>施已。當來之世得大果報。深心樂法不生惡<lb
+ n="0354c15" ed="T"/>道不造惡法。我如是護彼人即得修慈悲心。<lb
+ n="0354c16" ed="T"/>如是種種勝妙善根增長不減。佛言善哉善<lb
+ n="0354c17" ed="T"/>哉。此是汝等精進之心。於大乘中速能增長<lb
+ n="0354c18" ed="T"/>福之力。<lb
+ n="0354c19" ed="T"/>爾時地神堅牢及功德天。相與白佛言。為欲<lb
+ n="0354c20" ed="T"/>利益安樂故說心真言。爾時佛告地神功德<lb
+ n="0354c21" ed="T"/>言。汝等善哉為利益一切眾生欲說神呪。隨<lb
+ n="0354c22" ed="T"/>汝恣意說。即說呪曰。<lb
+ n="0354c23" ed="T"/></ab>
+<ab type='dharani'>曩莫三曼多母馱南唵鉢羅婆囉怛<lb
+ n="0354c24" ed="T"/>儞設哩三曼多阿馱阿馱阿豆阿豆比<lb
+ n="0354c25" ed="T"/>里底毘比里底毘曳莎訶<lb
+ n="0354c26" ed="T"/></ab>
+<ab type='prose'>若有人誦持此呪滿足十萬遍。為最初法。誦<lb
+ n="0354c27" ed="T"/>呪供養地天者。富貴無極七珍無限。速成一<lb
+ n="0354c28" ed="T"/>切悉地。<lb
+ n="0354c29" ed="T"/>又次說根本身印。<pb n="0355a" id="T21.1286.0355a" ed="T"/><lb
+ n="0355a01" ed="T"/>合掌以二頭指及二小指叉在掌中。二中二<lb
+ n="0355a02" ed="T"/>無名直立頭相拄。以二大指並立。押二頭指<lb
+ n="0355a03" ed="T"/>側大指來去。成辦諸事業。<lb
+ n="0355a04" ed="T"/>復次說諸成就護摩之法。以稻穀華護摩。得<lb
+ n="0355a05" ed="T"/>五穀豐登成就。<lb
+ n="0355a06" ed="T"/>又法以闍底華護摩。蠶養千斤成就。<lb
+ n="0355a07" ed="T"/>又法以粳米護摩。得無盡福德及殖生生福<lb
+ n="0355a08" ed="T"/>田。<lb
+ n="0355a09" ed="T"/>又法一神居住之處。眾人來集其所護摩。得<lb
+ n="0355a10" ed="T"/>巨多富。<lb
+ n="0355a11" ed="T"/>又法以大麥小麥護摩。富貴。<lb
+ n="0355a12" ed="T"/>又法以兢婁草護摩。得無數六畜財。<lb
+ n="0355a13" ed="T"/>又法大藥叉住古墓前。以闍底華護摩。得大<lb
+ n="0355a14" ed="T"/>富。<lb
+ n="0355a15" ed="T"/>又法以含華護摩。得人愛。<lb
+ n="0355a16" ed="T"/>又法福神所住欲呼得者。以青馬尾各絕截<lb
+ n="0355a17" ed="T"/>一寸二十一支。每時護摩念。福神必來付我<lb
+ n="0355a18" ed="T"/>身。<lb
+ n="0355a19" ed="T"/>又法青馬屎。以前地天明加持二十一遍。即<lb
+ n="0355a20" ed="T"/>壇上及倍人乞大竈額上塗。即得如意富。<lb
+ n="0355a21" ed="T"/>又法以青馬額髮毛。福神祭二十一支。福神<lb
+ n="0355a22" ed="T"/>必悅授福。<lb
+ n="0355a23" ed="T"/>又法有福人家竈額上土取。臘月八日持來<lb
+ n="0355a24" ed="T"/>我所安置。必得富。取土時用前天呪二十一<lb
+ n="0355a25" ed="T"/>遍。須達多優婆塞。壇畢理優婆塞。福寶光明<lb
+ n="0355a26" ed="T"/>優婆夷。行此法。<lb
+ n="0355a27" ed="T"/>又法土氣強盛。為四眾致刑罰。又以前明加<lb
+ n="0355a28" ed="T"/>持得除差。<lb
+ n="0355a29" ed="T"/>又法長者家碓下土取護摩。必得富。<pb n="0355b" id="T21.1286.0355b" ed="T"/><lb
+ n="0355b01" ed="T"/>又法長者墓口裏土取護摩。又得富。<lb
+ n="0355b02" ed="T"/>可畫堅牢地神像法。<lb
+ n="0355b03" ed="T"/>男天肉色。左手持鉢盛華。右手掌向外。女天<lb
+ n="0355b04" ed="T"/>白肉色。右手抱當心。左手抱當股。<lb
+ n="0355b05" ed="T"/>
+</ab><ab type='juan' subtype='close'>地天儀軌一卷</ab></div>
+</body></text></TEI>

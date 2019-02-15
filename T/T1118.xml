@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說十八臂陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1118</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0507a" id="T20.1118.0507a" ed="T"/><lb
+ n="0507a01" ed="T"/><lb
+ n="0507a02" ed="T"/><lb
+ n="0507a03" ed="T"/><lb
+ n="0507a04" ed="T"/>
+<ab type='juan' subtype='open'>佛說十八臂陀羅尼經</ab><lb
+ n="0507a05" ed="T"/><lb
+ n="0507a06" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0507a07" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0507a08" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時世尊告阿難言。世間眾生昧於實智。輪<lb
+ n="0507a09" ed="T"/>迴三界不知苦本。恣身口意造四重罪如是<lb
+ n="0507a10" ed="T"/>之人深可憐愍。我有十八臂大陀羅尼。若有<lb
+ n="0507a11" ed="T"/>眾生得此陀羅尼常持誦者。是人所作根本<lb
+ n="0507a12" ed="T"/>罪業皆悉除滅。復能積集無量功德。爾時世<lb
+ n="0507a13" ed="T"/>尊即說十八臂陀羅尼曰。<lb
+ n="0507a14" ed="T"/></ab>
+<ab type='dharani'>那謨阿彌多婆野怛他誐多野阿<lb
+ n="0507a15" ed="T"/>囉曷帝三藐訖三沒馱野那莫阿<lb
+ n="0507a16" ed="T"/>哩也阿嚩路吉帝說囉野󰂛地薩<lb
+ n="0507a17" ed="T"/>埵野摩賀薩埵野摩賀迦嚕尼<lb
+ n="0507a18" ed="T"/>迦野怛𭔞他唵三滿多伴捺哩三<lb
+ n="0507a19" ed="T"/>滿多嚩魯吉帝尾尸沙哥哩尾塞怖<lb
+ n="0507a20" ed="T"/>吒儞度那播波尾多哩剛摩摩<lb
+ n="0507a21" ed="T"/>薩哩嚩薩埵難左婆誐嚩那哩也<lb
+ n="0507a22" ed="T"/>嚩路吉帝說囉嚩羅末隷嚩羅末<lb
+ n="0507a23" ed="T"/>隷塞怖吒儞塞怖吒儞達髻<lb
+ n="0507a24" ed="T"/>達髻嗢度儞哥謨髻枳嚩尸哥囉尼<lb
+ n="0507a25" ed="T"/>薩哩嚩訥瑟吒那嚩哩惹野<lb
+ n="0507a26" ed="T"/>尾嚩哩惹野薩哩嚩訥瑟鵮<lb
+ n="0507a27" ed="T"/>嚩設摩那野娑嚩賀曷羅曷<lb
+ n="0507a28" ed="T"/>羅左羅左羅鉢左鉢左嚩尸酤<lb
+ n="0507a29" ed="T"/>嚕薩哩嚩部多難嚩娑嚩<pb n="0507b" id="T20.1118.0507b" ed="T"/><lb
+ n="0507b01" ed="T"/>賀<lb
+ n="0507b02" ed="T"/></ab>
+<ab type='prose'>爾時阿難聞佛世尊說此陀羅尼經已。歡喜<lb
+ n="0507b03" ed="T"/>信受作禮而退。<lb
+ n="0507b04" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說十八臂陀羅尼經</ab></div>
+</body></text></TEI>

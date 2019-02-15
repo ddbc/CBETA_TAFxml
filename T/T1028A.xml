@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說護諸童子陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n1028A</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0741b16" ed="T"/><lb
+ n="0741b17" ed="T"/><lb
+ n="0741b18" ed="T"/><div type='jing' level='1'><lb
+ n="0741b19" ed="T"/>
+<ab type='juan' subtype='open'>佛說護諸童子陀羅尼經</ab><lb
+ n="0741b20" ed="T"/><lb
+ n="0741b21" ed="T"/><byline>元魏天竺三藏菩提流支譯</byline><lb
+ n="0741b22" ed="T"/><ab type='prose'>爾時如來初成正覺。有一大梵天王。來詣佛<lb
+ n="0741b23" ed="T"/>所敬禮佛足。而作是言。<lb
+ n="0741b24" ed="T"/></ab>
+<ab type='verse'>
+南無佛陀耶　　南無達摩耶　　<lb
+ n="0741b25" ed="T"/>南無僧伽耶　　我禮佛世尊　　<lb
+ n="0741b26" ed="T"/>照世大法王　　在於閻浮提　　<lb
+ n="0741b27" ed="T"/>最初說神呪　　甘露淨勝法　　<lb
+ n="0741b28" ed="T"/>及禮無著僧　　已禮牟尼足　　<lb
+ n="0741b29" ed="T"/>即時說偈言　　世尊諸如來　　<pb n="0741c" id="T19.1028A.0741c" ed="T"/><lb
+ n="0741c01" ed="T"/>聲聞及辟支　　諸仙護世王　　<lb
+ n="0741c02" ed="T"/>大力龍天神　　如是等諸眾　　<lb
+ n="0741c03" ed="T"/>皆於人中生　　有夜叉羅剎　　<lb
+ n="0741c04" ed="T"/>常憙噉人胎　　非人王境界　　<lb
+ n="0741c05" ed="T"/>強力所不制　　能令人無子　　<lb
+ n="0741c06" ed="T"/>傷害於胞胎　　男女交會時　　<lb
+ n="0741c07" ed="T"/>使其意迷亂　　懷任不成就　　<lb
+ n="0741c08" ed="T"/>或歌羅安浮　　無子以傷胎　　<lb
+ n="0741c09" ed="T"/>及生時奪命　　皆是諸惡鬼　　<lb
+ n="0741c10" ed="T"/>為其作嬈害　　我今說彼名　　<lb
+ n="0741c11" ed="T"/>願佛聽我說　　
+</ab><lb
+ n="0741c12" ed="T"/><ab type='prose'>第一名彌酬迦　第二名彌伽王　第三名騫<lb
+ n="0741c13" ed="T"/>陀　第四名阿波悉魔羅　第五名牟致迦<lb
+ n="0741c14" ed="T"/>　第六名魔致迦　第七名閻彌迦　第八名迦<lb
+ n="0741c15" ed="T"/>彌尼　第九名黎婆坻　第十名富多那<lb
+ n="0741c16" ed="T"/>　第十一名曼多難提　第十二名舍究尼　第<lb
+ n="0741c17" ed="T"/>十三名揵吒波尼尼　第十四名目佉曼荼<lb
+ n="0741c18" ed="T"/>　第十五名藍婆<lb
+ n="0741c19" ed="T"/>此十五鬼神。常遊行世間。為嬰孩小兒。而作<lb
+ n="0741c20" ed="T"/>於恐怖。我今當說此諸鬼神恐怖形相。以此<lb
+ n="0741c21" ed="T"/>形相。令諸小兒皆生驚畏。<lb
+ n="0741c22" ed="T"/>彌酬迦者其形如牛。<lb
+ n="0741c23" ed="T"/>彌迦王者其形如師子。<lb
+ n="0741c24" ed="T"/>騫陀者其形如鳩魔羅天。<lb
+ n="0741c25" ed="T"/>阿波悉魔羅者其形如野狐。<lb
+ n="0741c26" ed="T"/>牟致迦者其形如獼猴。<lb
+ n="0741c27" ed="T"/>魔致迦者其形如羅剎女。<lb
+ n="0741c28" ed="T"/>閻彌迦者其形如馬。<lb
+ n="0741c29" ed="T"/>迦彌尼者其形如婦女。<pb n="0742a" id="T19.1028A.0742a" ed="T"/><lb
+ n="0742a01" ed="T"/>黎婆坻者其形如狗。<lb
+ n="0742a02" ed="T"/>富多那者其形如猪。<lb
+ n="0742a03" ed="T"/>曼多難提者其形如猫兒。<lb
+ n="0742a04" ed="T"/>舍究尼者其形如鳥。<lb
+ n="0742a05" ed="T"/>乾吒婆尼尼者其形如雉。<lb
+ n="0742a06" ed="T"/>目佉曼荼者其形如獯狐。<lb
+ n="0742a07" ed="T"/>藍婆者其形如蛇。<lb
+ n="0742a08" ed="T"/>此十五鬼。神著諸小兒令其驚怖。我今當復<lb
+ n="0742a09" ed="T"/>說諸小兒怖畏之相。<lb
+ n="0742a10" ed="T"/>彌酬迦鬼者著小兒眼睛迴轉。<lb
+ n="0742a11" ed="T"/>彌迦王鬼者著小兒數數嘔吐。<lb
+ n="0742a12" ed="T"/>騫陀鬼者著小兒其兩肩動。<lb
+ n="0742a13" ed="T"/>阿波悉魔羅鬼者著小兒口中沫出。<lb
+ n="0742a14" ed="T"/>牟致迦鬼者著小兒把捲不展。<lb
+ n="0742a15" ed="T"/>魔致迦鬼者著小兒自齧其舌。<lb
+ n="0742a16" ed="T"/>閻彌迦鬼者著小兒憙啼喜笑。<lb
+ n="0742a17" ed="T"/>迦彌尼鬼者著小兒樂著女人。<lb
+ n="0742a18" ed="T"/>黎婆坻鬼者著小兒見種種雜相。<lb
+ n="0742a19" ed="T"/>富多那鬼者著小兒眠中驚怖啼哭。<lb
+ n="0742a20" ed="T"/>曼多難提鬼者著小兒憙啼喜笑。<lb
+ n="0742a21" ed="T"/>金究尼鬼者著小兒不肯飲乳。<lb
+ n="0742a22" ed="T"/>乾吒波尼尼鬼者著小兒咽喉聲塞。<lb
+ n="0742a23" ed="T"/>目佉曼荼鬼者著小兒時氣熱病下痢。<lb
+ n="0742a24" ed="T"/>藍婆鬼者著小兒數數噫噦。<lb
+ n="0742a25" ed="T"/>此十五鬼神。以如是等形。怖諸小兒。及其小<lb
+ n="0742a26" ed="T"/>兒驚怖之相。我皆已說。復有大鬼神王。名栴<lb
+ n="0742a27" ed="T"/>檀乾闥婆於諸鬼神最為上首。當以五色綖。<lb
+ n="0742a28" ed="T"/>誦此陀羅尼一遍一結。作一百八結。并書其<lb
+ n="0742a29" ed="T"/>鬼神名字。使人齎此書綖。語彼使言。汝今疾<pb n="0742b" id="T19.1028A.0742b" ed="T"/><lb
+ n="0742b01" ed="T"/>去急速如風到於四方。隨彼十五鬼神所住<lb
+ n="0742b02" ed="T"/>之處。與栴檀乾闥婆大鬼神王。令以五色線<lb
+ n="0742b03" ed="T"/>縛彼鬼神勿嬈眾生。兼以種種美味飲食香<lb
+ n="0742b04" ed="T"/>華燈明。及以乳粥供養神王。<lb
+ n="0742b05" ed="T"/>爾時。大梵天王。復白佛言。世尊若有女人不<lb
+ n="0742b06" ed="T"/>生男女。或在胎中失壞墮落。或生已奪命。此<lb
+ n="0742b07" ed="T"/>諸女等欲求子息保命長壽者。常當繫念修<lb
+ n="0742b08" ed="T"/>行善法。於月八日十五日受持八戒。清淨洗<lb
+ n="0742b09" ed="T"/>浴著新淨衣。禮十方佛至於中夜。取少芥子<lb
+ n="0742b10" ed="T"/>置已頂上。誦我所說陀羅尼呪者。令此女人<lb
+ n="0742b11" ed="T"/>即得如願。所生童子安隱無患。盡其形壽終<lb
+ n="0742b12" ed="T"/>不中夭。若有鬼神不順我呪者。我當令其頭<lb
+ n="0742b13" ed="T"/>破作七分如阿梨樹枝。即說護諸童子陀<lb
+ n="0742b14" ed="T"/>羅尼呪。<lb
+ n="0742b15" ed="T"/></ab>
+<ab type='dharani'>多𭊾他　阿伽羅　伽甯　那伽　伽甯<lb
+ n="0742b16" ed="T"/>　婆漏隷　秖隷　伽婆隷　婆隷　不隷　羅<lb
+ n="0742b17" ed="T"/>扠禰　修羅俾　遮羅俾　娑尼　波羅呵<lb
+ n="0742b18" ed="T"/>　沙尼　那易　彌那易　穌婆呵<lb
+ n="0742b19" ed="T"/></ab>
+<ab type='prose'>世尊我今說此陀羅尼呪護諸童子。令得安<lb
+ n="0742b20" ed="T"/>隱獲其長壽故。<lb
+ n="0742b21" ed="T"/>爾時世尊一切種智。即說呪曰。<lb
+ n="0742b22" ed="T"/></ab>
+<ab type='dharani'>多𭊾他　菩陀菩陀　菩陀㝹摩帝　菩提<lb
+ n="0742b23" ed="T"/>菩提　摩隷　式叉夜　婆舍利　婆多禰<lb
+ n="0742b24" ed="T"/>　婆羅陀　頭隷　頭隷　婆臘多頭隷　舍摩<lb
+ n="0742b25" ed="T"/>膩　收隷　婆呵膩　陀波膩　穌婆呵<lb
+ n="0742b26" ed="T"/>　膩婆羅膩　穌婆呵<lb
+ n="0742b27" ed="T"/></ab>
+<ab type='prose'>此十五鬼神常食血肉。以此陀羅尼呪力故。<lb
+ n="0742b28" ed="T"/>悉皆遠離不生惡心。令諸童子離於恐怖安<lb
+ n="0742b29" ed="T"/>隱無患。處胎初生無諸患難。誦此呪者。或於<pb n="0742c" id="T19.1028A.0742c" ed="T"/><lb
+ n="0742c01" ed="T"/>城邑聚落隨其住處。亦能令彼嬰孩小兒。長<lb
+ n="0742c02" ed="T"/>得安隱終保年壽。南無佛陀成就此呪。護諸<lb
+ n="0742c03" ed="T"/>童子不為諸惡鬼神之所嬈害。一切諸難一<lb
+ n="0742c04" ed="T"/>切恐怖。悉皆遠離穌婆呵。時此梵天聞說此<lb
+ n="0742c05" ed="T"/>經歡欣奉行。<lb
+ n="0742c06" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說護諸童子陀羅尼經</ab></div>
+</body></text></TEI>

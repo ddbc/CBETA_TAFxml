@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說安宅神呪經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1394</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0911a14" ed="T"/><lb
+ n="0911a15" ed="T"/><lb
+ n="0911a16" ed="T"/><div type='jing' level='1'><lb
+ n="0911a17" ed="T"/>
+<ab type='juan' subtype='open'>佛說安宅神呪經</ab><lb
+ n="0911a18" ed="T"/><lb
+ n="0911a19" ed="T"/><byline>後漢失譯人名</byline><lb
+ n="0911a20" ed="T"/><ab type='prose'>如是我聞。一時佛住舍衛國祇樹給孤獨園。<lb
+ n="0911a21" ed="T"/>與千二百五十比丘。皆阿羅漢諸漏已盡。身<lb
+ n="0911a22" ed="T"/>心澄靜六通無礙。其名曰大智舍利弗摩訶<lb
+ n="0911a23" ed="T"/>目揵連。摩訶迦葉摩訶迦旃延須菩提等。復<lb
+ n="0911a24" ed="T"/>有菩薩摩訶薩八千人俱。文殊師利菩薩導<lb
+ n="0911a25" ed="T"/>師菩薩。虛空藏菩薩觀世音菩薩救脫菩薩。<lb
+ n="0911a26" ed="T"/>如是等菩薩摩訶薩威德自在。復有比丘比<lb
+ n="0911a27" ed="T"/>丘尼優婆塞優婆夷。天龍夜叉八部鬼神共<lb
+ n="0911a28" ed="T"/>相圍繞說微妙法。時有離車長者子五十人<lb
+ n="0911a29" ed="T"/>俱。身坌塵土懷憂愁慼。猶如有人生失父母<pb n="0911b" id="T21.1394.0911b" ed="T"/><lb
+ n="0911b01" ed="T"/>所愛妻子。來至佛所頭面作禮却住一面。<lb
+ n="0911b02" ed="T"/>爾時世尊知而故問。諸長者子以何因緣而<lb
+ n="0911b03" ed="T"/>有惱色。憂愁不樂失於常容。時諸長者子同<lb
+ n="0911b04" ed="T"/>聲俱白佛言。世尊未審人居世間。頗有家<lb
+ n="0911b05" ed="T"/>宅吉凶以不。佛即答言如是。諸事皆由眾生<lb
+ n="0911b06" ed="T"/>心行。夢想所造不得都無。諸離車等白佛言。<lb
+ n="0911b07" ed="T"/>世尊弟子等蒙宿緣一毫之福。得覩如來慈<lb
+ n="0911b08" ed="T"/>化無遺。開甘露門潤以法雨。復有何罪生此<lb
+ n="0911b09" ed="T"/>五濁極惡之世。懷憂抱苦怖懼萬端不捨須<lb
+ n="0911b10" ed="T"/>臾。所以言者自惟弟子德淺福薄。所居舍<lb
+ n="0911b11" ed="T"/>宅災怪頻疊。惡魔日夜競共侵陵。坐臥不安<lb
+ n="0911b12" ed="T"/>如懷湯火。自頃已來失去善心無所恃怙。唯<lb
+ n="0911b13" ed="T"/>願世尊受弟子請臨降所居賜為安宅。勅諸<lb
+ n="0911b14" ed="T"/>守宅諸神及四時禁忌。常來榮衛使日夜安<lb
+ n="0911b15" ed="T"/>吉災禍消滅。佛言善哉善哉。當如汝說吾自<lb
+ n="0911b16" ed="T"/>知時。<lb
+ n="0911b17" ed="T"/>爾時世尊明旦勅諸弟子。可各整衣服當入<lb
+ n="0911b18" ed="T"/>聚落。各持應器往至長者子舍。飯食既畢敷<lb
+ n="0911b19" ed="T"/>轉輪座。為諸長者說微妙法。令離怖畏身心<lb
+ n="0911b20" ed="T"/>悅樂。時諸離車各生歡喜。猶如比丘入第三<lb
+ n="0911b21" ed="T"/>禪。爾時世尊即呼守宅諸神。來到佛所而告<lb
+ n="0911b22" ed="T"/>之言。自今已後是諸神鬼。不得妄作恐動。令<lb
+ n="0911b23" ed="T"/>某等不安恒懷憂怖。吾當使大力鬼神。碎<lb
+ n="0911b24" ed="T"/>滅汝身令如微塵。<lb
+ n="0911b25" ed="T"/>爾時世尊復告大眾。諸善男子善女人等。吾<lb
+ n="0911b26" ed="T"/>涅槃後五百歲中。眾生垢重邪見轉熾　魔道<lb
+ n="0911b27" ed="T"/>競興妖魅妄作。𨶳人門戶各伺人便。覓人長<lb
+ n="0911b28" ed="T"/>短為作不祥種種留難。當爾之時是諸弟子。<lb
+ n="0911b29" ed="T"/>應當一心念佛念法念比丘僧。齋戒清淨奉<pb n="0911c" id="T21.1394.0911c" ed="T"/><lb
+ n="0911c01" ed="T"/>持三歸五戒十善八關齋戒。日夕六時禮拜<lb
+ n="0911c02" ed="T"/>懺悔勤心精進。請清淨僧設安宅齋。燒眾名<lb
+ n="0911c03" ed="T"/>香然燈續明。露出中庭讀是經典。某等安居<lb
+ n="0911c04" ed="T"/>立宅已來。建立南庌北堂東西之廂。碓磨倉<lb
+ n="0911c05" ed="T"/>庫井竈門牆。園林池沼六畜之欄。或復移房<lb
+ n="0911c06" ed="T"/>動土穿鑿非時。或犯觸伏龍騰蛇青龍白虎<lb
+ n="0911c07" ed="T"/>朱雀玄武。六甲禁忌十二時神門庭戶陌井<lb
+ n="0911c08" ed="T"/>竈精露。堂上戶中溷邊之神。我今持諸佛神<lb
+ n="0911c09" ed="T"/>力菩薩威光般若波羅蜜力。勅宅前宅後宅<lb
+ n="0911c10" ed="T"/>左宅右宅中守神神子神母。伏龍騰蛇六甲<lb
+ n="0911c11" ed="T"/>禁忌。十二時神飛屍邪忤魍魎鬼神。因託形<lb
+ n="0911c12" ed="T"/>聲寄名附著。自今已後不得妄嬈我弟子等。<lb
+ n="0911c13" ed="T"/>神子神母宅中諸神邪魅蠱道魍魎弊魔<lb
+ n="0911c14" ed="T"/>各安所在不得妄相侵陵為作衰惱。令某甲<lb
+ n="0911c15" ed="T"/>等驚動怖畏。當如我教。若不順我語令汝等<lb
+ n="0911c16" ed="T"/>頭。破作七分如多羅樹枝。<lb
+ n="0911c17" ed="T"/>爾時世尊而說呪曰。<lb
+ n="0911c18" ed="T"/></ab>
+<ab type='verse'>
+南無佛陀四野　　南無達摩四野　　<lb
+ n="0911c19" ed="T"/>南無僧伽四野　　
+</ab><lb
+ n="0911c20" ed="T"/><ab type='prose'>今為弟子某甲承佛威力而說神呪。<lb
+ n="0911c21" ed="T"/></ab>
+<ab type='verse'>
+一足眾生莫惱我　　二足眾生莫惱我　　<lb
+ n="0911c22" ed="T"/>三足眾生莫惱我　　四足眾生莫惱我　　
+</ab><lb
+ n="0911c23" ed="T"/><ab type='prose'>我有一切大慈大悲愍念一切眾生。汝等惡<lb
+ n="0911c24" ed="T"/>魔各還所屬。不得橫忓擾亂我弟子等。復說<lb
+ n="0911c25" ed="T"/>呪曰。<lb
+ n="0911c26" ed="T"/></ab>
+<ab type='dharani'>白黑龍王　善子龍王　漚鉢羅龍王　阿<lb
+ n="0911c27" ed="T"/>耨大龍王<lb
+ n="0911c28" ed="T"/></ab>
+<ab type='prose'>結界呪文<lb
+ n="0911c29" ed="T"/></ab>
+<ab type='dharani'>伽婆致　伽婆致　悉波呵　東方大神龍<pb n="0912a" id="T21.1394.0912a" ed="T"/><lb
+ n="0912a01" ed="T"/>王　七里結界　金剛宅　南方大神龍王<lb
+ n="0912a02" ed="T"/>　七里結界　金剛宅　西方大神龍王　七里<lb
+ n="0912a03" ed="T"/>結界　金剛宅　北方大神龍王　七里結界<lb
+ n="0912a04" ed="T"/>　金剛宅　如是三說<lb
+ n="0912a05" ed="T"/>東方婆鳩深山娑羅伽扠汝百鬼頸著枷<lb
+ n="0912a06" ed="T"/>　南方婆鳩深山娑羅伽扠汝百鬼頸著枷<lb
+ n="0912a07" ed="T"/>　西方婆鳩深山娑羅伽扠汝百鬼頸著枷<lb
+ n="0912a08" ed="T"/>　北方婆鳩深山娑羅伽扠汝百鬼頸著枷<lb
+ n="0912a09" ed="T"/>　如是三說<lb
+ n="0912a10" ed="T"/></ab>
+<ab type='prose'>主疾病者主頭痛者。主人舍宅門戶者。當歛<lb
+ n="0912a11" ed="T"/>諸毒不得擾我諸弟子。若不順我呪頭破作<lb
+ n="0912a12" ed="T"/>七分。爾時世尊而說偈言。<lb
+ n="0912a13" ed="T"/></ab>
+<ab type='verse'>
+造宅立堂宇　　安育諸群生　　<lb
+ n="0912a14" ed="T"/>園林并池沼　　門牆及與圊　　<lb
+ n="0912a15" ed="T"/>起心興舍室　　動靜應聖靈　　<lb
+ n="0912a16" ed="T"/>稽首歸命佛　　眾魔莫能傾　　<lb
+ n="0912a17" ed="T"/>明燈照無極　　五眼因之生　　<lb
+ n="0912a18" ed="T"/>法王大呪力　　動破魔億千　　<lb
+ n="0912a19" ed="T"/>如來慈普潤　　威光徹無邊　　<lb
+ n="0912a20" ed="T"/>莫等咸歸命　　眾邪各自遷　　
+</ab><lb
+ n="0912a21" ed="T"/><ab type='prose'>佛告日月五星二十八宿天神龍鬼。皆來受<lb
+ n="0912a22" ed="T"/>教明聽　佛告言。不得前却某甲之家。或作<lb
+ n="0912a23" ed="T"/>東廂西廂南𭓟北堂。勅日遊月殺土府將軍。<lb
+ n="0912a24" ed="T"/>青龍白虎朱雀玄武。歲月劫殺六甲禁忌。土<lb
+ n="0912a25" ed="T"/>府伏龍莫妄東西。若有動靜燒香啟聞。某甲<lb
+ n="0912a26" ed="T"/>宅舍是佛金剛之地。面二百步佛有約言。諸<lb
+ n="0912a27" ed="T"/>疫鬼神不得妄。忤忤者頭破作七分。身不<lb
+ n="0912a28" ed="T"/>得全不得水漿。去離本宮宅舍。已成富貴吉<lb
+ n="0912a29" ed="T"/>遷田作大得所願。光榮行來在軍。仕宦宜官<pb n="0912b" id="T21.1394.0912b" ed="T"/><lb
+ n="0912b01" ed="T"/>門戶昌熾。百子千孫父慈子孝。男女忠貞兄<lb
+ n="0912b02" ed="T"/>良弟順。崇義仁賢所願如意。十方證明行如<lb
+ n="0912b03" ed="T"/>菩薩得道如佛。佛告阿難若欲安宅。露出中<lb
+ n="0912b04" ed="T"/>庭然四十九燈。掃灑燒香一心懺悔。禮十方<lb
+ n="0912b05" ed="T"/>諸佛。阿難又白佛言。當何名斯經。佛語阿難。<lb
+ n="0912b06" ed="T"/>此經名如來大悲不可思議神力。亦名愍念<lb
+ n="0912b07" ed="T"/>眾生安宅破魔神呪佛說經竟大眾歡喜作禮<lb
+ n="0912b08" ed="T"/>奉行。<lb
+ n="0912b09" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說安宅神呪經</ab></div>
+</body></text></TEI>

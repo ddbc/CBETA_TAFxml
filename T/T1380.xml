@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說善樂長者經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1380</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0902c16" ed="T"/><lb
+ n="0902c17" ed="T"/><lb
+ n="0902c18" ed="T"/><div type='jing' level='1'><lb
+ n="0902c19" ed="T"/>
+<ab type='juan' subtype='open'>佛說善樂長者經</ab><lb
+ n="0902c20" ed="T"/><lb
+ n="0902c21" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
+ n="0902c22" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0902c23" ed="T"/><ab type='prose'>如是我聞。一時佛在迦毘羅城。與大眾俱。是<lb
+ n="0902c24" ed="T"/>時有一釋種長者。名曰善樂住在本處。而彼<lb
+ n="0902c25" ed="T"/>長者信重三寶。歸依佛歸依法歸依僧。唯信<lb
+ n="0902c26" ed="T"/>佛法僧不復信於諸餘外道。唯求佛法僧善<lb
+ n="0902c27" ed="T"/>解苦集滅道。見真實理獲大果報。而當非大<lb
+ n="0902c28" ed="T"/>即證菩提。時彼長者於所見色忽然不見。<lb
+ n="0902c29" ed="T"/>爾時善樂長者遙向世尊作是願言。我佛世<pb n="0903a" id="T21.1380.0903a" ed="T"/><lb
+ n="0903a01" ed="T"/>尊大慈大悲。願施我眼目施我眼光明施我<lb
+ n="0903a02" ed="T"/>眼清淨除我眼昏暗。發是願已又作是言。我<lb
+ n="0903a03" ed="T"/>今歸依佛歸依善逝。<lb
+ n="0903a04" ed="T"/>爾時世尊以清淨天耳過於人耳。遙聞彼長<lb
+ n="0903a05" ed="T"/>者發願言已。即告尊者阿難言。阿難汝今持<lb
+ n="0903a06" ed="T"/>我祕密神呪。往彼釋種善樂長者處。與作救<lb
+ n="0903a07" ed="T"/>拔護持令得寂靜安樂。乃至與彼四眾亦作<lb
+ n="0903a08" ed="T"/>利益安樂故。<lb
+ n="0903a09" ed="T"/>爾時世尊為善樂長者等。說此清淨眼祕密<lb
+ n="0903a10" ed="T"/>大神呪曰　怛𭔞他呬里彌里企里<lb
+ n="0903a11" ed="T"/>呬係多忽喻忽喻忽夜尾底忽盧忽<lb
+ n="0903a12" ed="T"/>盧忽盧訥訥訥訥盧以此清淨眼祕密神<lb
+ n="0903a13" ed="T"/>呪句力。眼得清淨除去昏暗除去翳障。乃至<lb
+ n="0903a14" ed="T"/>除去風毒眼病黃毒眼病。痰毒眼病癊毒眼<lb
+ n="0903a15" ed="T"/>病。無痛無腫無惱無苦無諸眵淚。如是等病<lb
+ n="0903a16" ed="T"/>皆悉消除。復以戒真實力修行真實力苦。行<lb
+ n="0903a17" ed="T"/>真實力祕密神呪真實力緣生法真實力。苦<lb
+ n="0903a18" ed="T"/>法真實力集法真實力。滅法真實力道法真<lb
+ n="0903a19" ed="T"/>實力。須陀洹真實力斯陀含真實力。阿那含<lb
+ n="0903a20" ed="T"/>真實力阿羅漢真實力。緣覺真實力菩薩真<lb
+ n="0903a21" ed="T"/>實力。佛真實力法真實力聖眾真實力。以如<lb
+ n="0903a22" ed="T"/>是等真實力故。眼得清淨除去昏暗除去翳<lb
+ n="0903a23" ed="T"/>障。所有風毒眼病黃毒眼病。痰毒眼病癊毒<lb
+ n="0903a24" ed="T"/>眼病。皆不能侵。無痛無腫無惱無苦無諸眵<lb
+ n="0903a25" ed="T"/>淚等。<lb
+ n="0903a26" ed="T"/>佛告阿難此祕密神呪。是過去六正等正覺<lb
+ n="0903a27" ed="T"/>同共宣說。所謂尾鉢尸如來正等正覺。室棄<lb
+ n="0903a28" ed="T"/>如來正等正覺。尾說部如來正等正覺。訖囉<lb
+ n="0903a29" ed="T"/>葛忖陀如來正等正覺。葛那葛牟尼如來正<pb n="0903b" id="T21.1380.0903b" ed="T"/><lb
+ n="0903b01" ed="T"/>等正覺。迦葉波如來正等正覺。我今第七釋<lb
+ n="0903b02" ed="T"/>迦牟尼如來正等正覺亦如是說。乃至四大<lb
+ n="0903b03" ed="T"/>天王。謂持國天王增長天王。廣目天王多聞<lb
+ n="0903b04" ed="T"/>天王。及帝釋天主娑婆界主大梵天王等。皆<lb
+ n="0903b05" ed="T"/>亦隨喜宣說。<lb
+ n="0903b06" ed="T"/>佛告阿難。我未見彼天界梵界及諸魔界。乃<lb
+ n="0903b07" ed="T"/>至沙門婆羅門等界。若有人持誦此祕密大<lb
+ n="0903b08" ed="T"/>神呪三遍者。有諸病苦而能侵害。所有昏暗<lb
+ n="0903b09" ed="T"/>內外翳障等。乃至天所作病龍所作病。夜叉<lb
+ n="0903b10" ed="T"/>所作病阿脩羅所作病。迦樓羅所作病乾闥<lb
+ n="0903b11" ed="T"/>婆所作病。鳩盤茶所作病必隷多所作病。富<lb
+ n="0903b12" ed="T"/>單那所作病羯吒富單那所作病。毘舍左所<lb
+ n="0903b13" ed="T"/>作病羅剎所作病。羯枯陀所作病𠯈多拏所<lb
+ n="0903b14" ed="T"/>作病。星曜所持乃至中毒。及諸邪呪法等悉<lb
+ n="0903b15" ed="T"/>皆消除。又復阿難如是祕密大神呪法。若有<lb
+ n="0903b16" ed="T"/>患者日念三遍。是人眼得清淨如前見物此。<lb
+ n="0903b17" ed="T"/>如是清淨眼祕密大神呪有大力故。眼得如<lb
+ n="0903b18" ed="T"/>是清淨。除去昏暗及內外瞖障。乃至風毒障<lb
+ n="0903b19" ed="T"/>黃毒障痰毒障。痰毒障等皆悉消除。無痛無<lb
+ n="0903b20" ed="T"/>苦無諸眵淚。又復清淨戒真實力修行真實<lb
+ n="0903b21" ed="T"/>力。五通仙真實力賢聖真實力聖藥真實力。<lb
+ n="0903b22" ed="T"/>祕密句真實力緣生法真實力。苦法真實力<lb
+ n="0903b23" ed="T"/>集法真實力。滅法真實力道法真實力。須陀<lb
+ n="0903b24" ed="T"/>洹真實力斯陀含真實力。阿那含真實力阿<lb
+ n="0903b25" ed="T"/>羅漢真實力。緣覺真實力菩薩真實力佛真<lb
+ n="0903b26" ed="T"/>實力。以如是等真實力故。眼得清淨。<lb
+ n="0903b27" ed="T"/>爾時世尊復說祕密神呪曰。<lb
+ n="0903b28" ed="T"/></ab>
+<ab type='dharani'>那謨沒馱寫婆誐嚩都悉殿覩滿怛囉<lb
+ n="0903b29" ed="T"/>鉢那莎賀<pb n="0903c" id="T21.1380.0903c" ed="T"/><lb
+ n="0903c01" ed="T"/></ab>
+<ab type='prose'>佛告阿難此祕密大神呪。若人日日三時。與<lb
+ n="0903c02" ed="T"/>前神呪同共依法誦念。是人所有眼病悉皆<lb
+ n="0903c03" ed="T"/>消除。<lb
+ n="0903c04" ed="T"/>爾時尊者阿難白佛言世尊。我今承佛聖旨<lb
+ n="0903c05" ed="T"/>持此祕密大神呪。往彼善樂長者處廣為宣<lb
+ n="0903c06" ed="T"/>說。與彼善樂長者及四眾等作大利益。佛說<lb
+ n="0903c07" ed="T"/>是經已尊者阿難及諸大眾。聞佛所說皆大<lb
+ n="0903c08" ed="T"/>歡喜信受奉行。<lb
+ n="0903c09" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說善樂長者經</ab></div>
+</body></text></TEI>

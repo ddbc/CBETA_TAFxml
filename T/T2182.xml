@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">律宗章疏</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T55</biblScope>
+                    <idno type="Taisho">T55n2182</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1144c06" ed="T"/><lb
+ n="1144c07" ed="T"/><lb
+ n="1144c08" ed="T"/><lb
+ n="1144c09" ed="T"/><lb
+ n="1144c10" ed="T"/>
+<ab type='juan' subtype='open'>律宗章疏</ab><lb
+ n="1144c11" ed="T"/><lb
+ n="1144c12" ed="T"/><byline>藥師寺榮穩大法師奉聖王勅錄上</byline><lb
+ n="1144c13" ed="T"/>鼻奈耶律十卷<lb
+ n="1144c14" ed="T"/>四分律六十卷<lb
+ n="1144c15" ed="T"/>五分律三十卷<lb
+ n="1144c16" ed="T"/>五分比丘尼戒本一卷<lb
+ n="1144c17" ed="T"/>十誦戒本一卷<lb
+ n="1144c18" ed="T"/>十誦律六十一卷<lb
+ n="1144c20" ed="T"/>摩訶僧祇律四十卷<lb
+ n="1144c21" ed="T"/>摩訶僧祇戒本一卷<lb
+ n="1144c22" ed="T"/>毘跋律一卷<pb n="1145a" id="T55.2182.1145a" ed="T"/><lb
+ n="1145a01" ed="T"/>根本薩婆多部律攝二十卷<lb
+ n="1145a02" ed="T"/>根本說一切有部苾芻尼毘奈耶二十卷<lb
+ n="1145a03" ed="T"/>根本說一切有部毘奈耶五十卷<lb
+ n="1145a04" ed="T"/>根本說一切有部毘奈耶雜事四十卷<lb
+ n="1145a05" ed="T"/>根本說一切有部尼陀那目得迦十卷<lb
+ n="1145a06" ed="T"/>根本說一切有部毘奈耶頌五卷<lb
+ n="1145a07" ed="T"/>根本說一切有部毘奈耶雜事攝頌一卷<lb
+ n="1145a08" ed="T"/>根本說一切有部毘奈耶尼陀那目得迦攝頌<lb
+ n="1145a09" ed="T"/>一卷<lb
+ n="1145a10" ed="T"/>根本說一切有部百一羯磨十卷<lb
+ n="1145a11" ed="T"/>沙彌十戒法并威儀一卷<lb
+ n="1145a12" ed="T"/>沙彌威儀一卷<lb
+ n="1145a13" ed="T"/>沙彌尼雜戒文一卷<lb
+ n="1145a14" ed="T"/>優婆塞戒一卷<lb
+ n="1145a15" ed="T"/>大沙門百一羯磨法一卷<lb
+ n="1145a16" ed="T"/>曇無德羯磨一卷<lb
+ n="1145a17" ed="T"/>四分雜羯磨一卷<lb
+ n="1145a18" ed="T"/>四分比丘尼羯磨法一卷<lb
+ n="1145a19" ed="T"/>四分刪補隨機羯磨一卷<lb
+ n="1145a20" ed="T"/>四分僧羯磨三卷<lb
+ n="1145a21" ed="T"/>四分尼羯磨三卷<lb
+ n="1145a22" ed="T"/>五分羯磨一卷<lb
+ n="1145a23" ed="T"/>十誦羯磨比丘要用一卷<lb
+ n="1145a24" ed="T"/>四分戒本鈔三卷<lb
+ n="1145a25" ed="T"/>三卷鈔一卷<lb
+ n="1145a26" ed="T"/>六卷鈔六卷<lb
+ n="1145a27" ed="T"/>四分律疏十卷<lb
+ n="1145a28" ed="T"/>四分戒本疏三卷<pb n="1145b" id="T55.2182.1145b" ed="T"/><lb
+ n="1145b01" ed="T"/>四分律疏十卷<lb
+ n="1145b02" ed="T"/>一卷羯磨疏三卷<lb
+ n="1145b03" ed="T"/>六卷鈔料簡一卷<lb
+ n="1145b04" ed="T"/>六卷鈔記十卷<lb
+ n="1145b05" ed="T"/>六卷鈔記一卷<lb
+ n="1145b06" ed="T"/>飾宗義記十卷<lb
+ n="1145b07" ed="T"/>開宗記十卷<lb
+ n="1145b08" ed="T"/>發正義記十卷<lb
+ n="1145b09" ed="T"/>阿毘曇義記一卷<lb
+ n="1145b10" ed="T"/>四分律輕重儀一卷<lb
+ n="1145b11" ed="T"/>四分律輕重記三卷<lb
+ n="1145b12" ed="T"/>四分律疏鈔記十卷<lb
+ n="1145b13" ed="T"/>諸經要集二十卷<lb
+ n="1145b14" ed="T"/>沙彌沙彌尼未進一卷<lb
+ n="1145b15" ed="T"/>四分律鈔批十四卷<lb
+ n="1145b16" ed="T"/>比丘尼傳四卷<lb
+ n="1145b17" ed="T"/>大唐南海寄歸內法傳四卷<lb
+ n="1145b18" ed="T"/>菩薩戒羯磨一卷<lb
+ n="1145b19" ed="T"/>梵網疏二卷<lb
+ n="1145b20" ed="T"/>梵網疏二卷<lb
+ n="1145b21" ed="T"/>梵網疏五卷<lb
+ n="1145b22" ed="T"/>梵網疏三卷<lb
+ n="1145b23" ed="T"/>梵網古迹記二卷<lb
+ n="1145b24" ed="T"/>梵網文記二卷<lb
+ n="1145b25" ed="T"/>梵網持犯要記一卷<lb
+ n="1145b26" ed="T"/>梵網私鈔二卷</div>
+</body></text></TEI>

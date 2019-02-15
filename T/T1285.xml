@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說寶賢陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1285</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0353c22" ed="T"/><lb
+ n="0353c23" ed="T"/><lb
+ n="0353c24" ed="T"/><div type='jing' level='1'><lb
+ n="0353c25" ed="T"/>
+<ab type='juan' subtype='open'>佛說寶賢陀羅尼經</ab><lb
+ n="0353c26" ed="T"/><lb
+ n="0353c27" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0353c28" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0353c29" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<pb n="0354a" id="T21.1285.0354a" ed="T"/><lb
+ n="0354a01" ed="T"/>與大菩薩眾俱。是時有大夜叉主名曰寶賢。<lb
+ n="0354a02" ed="T"/>來詣佛所。到已頭面禮足。合掌恭敬而白佛<lb
+ n="0354a03" ed="T"/>言。世尊我有大祕密心陀羅尼樂欲宣說。唯<lb
+ n="0354a04" ed="T"/>願世尊加哀覆護。世尊此陀羅尼。若有比丘<lb
+ n="0354a05" ed="T"/>比丘尼優婆塞優婆夷等。一日三時至心誦<lb
+ n="0354a06" ed="T"/>念者。我為彼人常作依怙。於一切事皆得吉<lb
+ n="0354a07" ed="T"/>祥。乃至飲食衣服臥具金銀珍寶財穀等我<lb
+ n="0354a08" ed="T"/>常供給。及作一切勝利悉使成就。亦令一切<lb
+ n="0354a09" ed="T"/>人眾普得愛敬。唯除婬怒癡等惡不善法。餘<lb
+ n="0354a10" ed="T"/>諸所作悉皆隨意。<lb
+ n="0354a11" ed="T"/>爾時世尊知此寶賢大夜叉主誠心信重。為<lb
+ n="0354a12" ed="T"/>欲安樂一切眾生貧苦惱故。而告之言。善哉<lb
+ n="0354a13" ed="T"/>寶賢大夜叉主。能為利益諸眾生故。我亦樂<lb
+ n="0354a14" ed="T"/>聞隨意宣說。時寶賢大夜叉主。即說陀羅尼。<lb
+ n="0354a15" ed="T"/>曰。<lb
+ n="0354a16" ed="T"/></ab>
+<ab type='dharani'>那謨囉怛那怛囉夜野那謨<lb
+ n="0354a17" ed="T"/>摩尼跋捺囉野摩賀藥叉西那鉢多<lb
+ n="0354a18" ed="T"/>曳薩曳替曩呬哩摩尼跋捺囉呬哩<lb
+ n="0354a19" ed="T"/>呬哩摩尼跋捺囉枳哩摩尼跋捺囉<lb
+ n="0354a20" ed="T"/>枳哩枳哩摩尼跋捺囉唧哩摩<lb
+ n="0354a21" ed="T"/>尼跋捺囉唧哩唧哩摩尼跋捺囉祖<lb
+ n="0354a22" ed="T"/>路摩尼跋捺囉祖路祖路摩尼跋捺<lb
+ n="0354a23" ed="T"/>囉祖嚕摩尼跋捺囉祖嚕祖嚕摩<lb
+ n="0354a24" ed="T"/>尼跋捺囉覩嚕摩尼跋捺囉覩嚕覩<lb
+ n="0354a25" ed="T"/>嚕摩尼跋捺囉酤嚕摩尼跋捺囉<lb
+ n="0354a26" ed="T"/>酤嚕酤嚕摩尼跋捺囉蘇嚕摩尼跋<lb
+ n="0354a27" ed="T"/>捺囉蘇嚕蘇嚕摩尼跋捺囉薩哩嚩<lb
+ n="0354a28" ed="T"/>阿哩湯彌娑達野莎賀怛𭔞<lb
+ n="0354a29" ed="T"/>他鉢多泥蘇鉢多泥蘇嚕彌蘇末帝蘇囉替速剎摩閉呬哩<lb
+ n="0354b02" ed="T"/>計呬哩哥哩布蘭尼悉馱跋捺<lb
+ n="0354b03" ed="T"/>哩呬哩呬哩莎賀伊呬酤儞瑟計<lb
+ n="0354b04" ed="T"/>伊呬細儞瑟計伊呬虞尼瑟<lb
+ n="0354b05" ed="T"/>計莎賀<lb
+ n="0354b06" ed="T"/></ab>
+<ab type='prose'>是時寶賢大夜叉主。說是陀羅尼已。復白佛<lb
+ n="0354b07" ed="T"/>言。世尊此陀羅尼。若有人依法持誦七遍。是<lb
+ n="0354b08" ed="T"/>人所作勝利皆得成就。又復有人於白月十<lb
+ n="0354b09" ed="T"/>五日潔淨持戒。一日三時焚沈檀香。誦此陀<lb
+ n="0354b10" ed="T"/>羅尼滿八千遍。是人隨願獲得金銀珍寶悉<lb
+ n="0354b11" ed="T"/>皆如意。爾時大夜叉主。說是陀羅尼已禮佛<lb
+ n="0354b12" ed="T"/>而退。<lb
+ n="0354b13" ed="T"/>佛說是經已。諸菩薩眾聞佛所說。皆大歡喜<lb
+ n="0354b14" ed="T"/>信受奉行。<lb
+ n="0354b15" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說寶賢陀羅尼經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">迦葉仙人說醫女人經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T32</biblScope>
+                    <idno type="Taisho">T32n1691</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0787b21" ed="T"/><lb
+ n="0787b22" ed="T"/><lb
+ n="0787b23" ed="T"/><lb
+ n="0787b24" ed="T"/>
+<ab type='juan' subtype='open'>迦葉仙人說醫女人經</ab><lb
+ n="0787b25" ed="T"/><lb
+ n="0787b26" ed="T"/><byline>西天譯經三藏朝散大夫試光祿<lb
+ n="0787b27" ed="T"/>卿明教大師臣法賢奉　詔譯</byline><lb
+ n="0787b28" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時𠰒嚩迦仙人忽作是念：「世間眾生皆從<lb
+ n="0787b29" ed="T"/>女人而生其身。而彼女人從初懷孕至滿十<pb n="0787c" ed="T" id="T32.1691.0787c"/><lb
+ n="0787c01" ed="T"/>月，或復延胎至十二月方始產生。或於中間<lb
+ n="0787c02" ed="T"/>有其病患，於病患時極受苦痛。我今方便請<lb
+ n="0787c03" ed="T"/>問於師，稟受方藥與作救療。」作是念已，即詣<lb
+ n="0787c04" ed="T"/>於師迦葉仙人，伸師資禮而作問言：「大師迦<lb
+ n="0787c05" ed="T"/>葉是大智者，我今欲有所問，願垂聽許。」迦葉<lb
+ n="0787c06" ed="T"/>仙言：「恣汝所問。」時𠰒嚩迦仙人白言：「女人<lb
+ n="0787c07" ed="T"/>懷孕期當十月或十二月，日滿方生。云何中<lb
+ n="0787c08" ed="T"/>間有諸病患，逐致胎藏轉動不安、或有損者<lb
+ n="0787c09" ed="T"/>苦惱無量。我師大智，願為宣說救療如是病<lb
+ n="0787c10" ed="T"/>苦方藥。」作是問已，聽受而住。<lb
+ n="0787c11" ed="T"/>爾時迦葉仙人告𠰒嚩迦仙言：「女人懷孕不<lb
+ n="0787c12" ed="T"/>知保護，遂使胎藏得不安隱。我今為汝略說<lb
+ n="0787c13" ed="T"/>隨月保護之藥。懷孕之人，第一月內胎藏不<lb
+ n="0787c14" ed="T"/>安者，當用栴檀香、蓮華、優鉢羅花入水同研，<lb
+ n="0787c15" ed="T"/>後入乳汁、乳糖同煎，溫服此藥能令初懷孕<lb
+ n="0787c16" ed="T"/>者無諸損惱而得安樂。」<lb
+ n="0787c17" ed="T"/>復次告𠰒嚩迦仙言：「女人懷孕於第二月胎<lb
+ n="0787c18" ed="T"/>藏不安者，當用青色憂鉢羅花、俱母那花<lb
+ n="0787c19" ed="T"/>根、䔖角仁、羯細嚕迦等藥。諸藥等分，擣篩<lb
+ n="0787c20" ed="T"/>為粖，用乳汁煎，候冷服之。此藥能令胎藏不<lb
+ n="0787c21" ed="T"/>損、疼痛止息，晝夜安隱。<lb
+ n="0787c22" ed="T"/>「復次女人懷孕至第三月胎藏不安者，當用<lb
+ n="0787c23" ed="T"/>迦俱󰱀藥、叱囉迦俱𭋹藥及𦱔麻根等諸藥<lb
+ n="0787c24" ed="T"/>等分，以水相和研令極細，又入乳汁同煎令<lb
+ n="0787c25" ed="T"/>熟，後入乳糖及蜜相和冷服。此藥能安胎<lb
+ n="0787c26" ed="T"/>藏、止息疼痛，若有患者服之安樂。<lb
+ n="0787c27" ed="T"/>「復次女人懷孕至第四月胎藏不安者，當用<lb
+ n="0787c28" ed="T"/>蒺蔾草根并枝葉等、憂鉢羅花并及莖𦼮等<lb
+ n="0787c29" ed="T"/>分用之，以水相和研令極細，復用乳汁同煎<pb n="0788a" ed="T" id="T32.1691.0788a"/><lb
+ n="0788a01" ed="T"/>令熟，候冷服之。此藥能安胎藏、止息疼痛，患<lb
+ n="0788a02" ed="T"/>者服之而得安樂。<lb
+ n="0788a03" ed="T"/>「復次女人懷孕至第五月胎藏不安者，當用<lb
+ n="0788a04" ed="T"/>瓠子根及憂鉢羅花，各用等分擣篩令細，後<lb
+ n="0788a05" ed="T"/>入蒲萄汁、乳汁、乳糖同煎，候冷服之。此藥能<lb
+ n="0788a06" ed="T"/>安胎藏、止息疼痛，患者服之而得安樂。<lb
+ n="0788a07" ed="T"/>「復次女人懷孕至第六月胎藏不安者，當用<lb
+ n="0788a08" ed="T"/>閉阿羅藥、子摩地迦羅惹藥、薩訖多嚩藥各用<lb
+ n="0788a09" ed="T"/>等分，以水相和研令極細，復入乳汁同煎，後<lb
+ n="0788a10" ed="T"/>入乳糖及蜜，候冷服之。此藥能安胎藏、止息<lb
+ n="0788a11" ed="T"/>疼痛，患者服之而得安樂。<lb
+ n="0788a12" ed="T"/>「復次女人懷孕至第七月胎藏不安者，當用<lb
+ n="0788a13" ed="T"/>蒺䔧草枝葉并根擣篩為粖，用乳糖及蜜為<lb
+ n="0788a14" ed="T"/>丸，用肉汁服之。復以肉汁飱飯食之，或食<lb
+ n="0788a15" ed="T"/>菉豆粥飯。此藥及飯能安胎藏，患者服食而<lb
+ n="0788a16" ed="T"/>得安樂。<lb
+ n="0788a17" ed="T"/>「復次女人懷孕至第八月胎藏不安者，當用<lb
+ n="0788a18" ed="T"/>三𤚥誐藥、蓮花、青憂鉢羅花、蒺䔧草各等分，以<lb
+ n="0788a19" ed="T"/>冷水相和研令極細，後入乳汁及糖蜜等同<lb
+ n="0788a20" ed="T"/>煎，候冷服之。此藥能安胎藏、止息疼痛，患<lb
+ n="0788a21" ed="T"/>者服之而得安樂。<lb
+ n="0788a22" ed="T"/>「復次女人懷孕至第九月胎藏不安者，當用<lb
+ n="0788a23" ed="T"/>𦱔麻根、迦俱𭋹藥、舍羅鉢𧹞尼藥、沒哩賀底<lb
+ n="0788a24" ed="T"/>藥各等分，以冷水相和研令極細，入乳汁同<lb
+ n="0788a25" ed="T"/>煎，候冷服之。此藥能安胎藏、止息疼痛，患者<lb
+ n="0788a26" ed="T"/>服之而得安樂。<lb
+ n="0788a27" ed="T"/>「復次女人懷孕至第十月胎藏不安者，當用<lb
+ n="0788a28" ed="T"/>菉豆、憂鉢羅花等分，以水相和研令極細，復<lb
+ n="0788a29" ed="T"/>入乳糖及蜜并乳汁同煎，候冷服之。此藥能<pb n="0788b" ed="T" id="T32.1691.0788b"/><lb
+ n="0788b01" ed="T"/>安胎藏、止息疼痛，患者服之而得安樂。<lb
+ n="0788b02" ed="T"/>「復次女人懷孕延胎十一月胎藏不安者，當<lb
+ n="0788b03" ed="T"/>用青憂鉢羅花、娑路剛藥、蓮花并莖等分以<lb
+ n="0788b04" ed="T"/>冷水相和研令極細，後入乳汁乳糖同煎，候<lb
+ n="0788b05" ed="T"/>冷服之。此藥能安胎藏、止息疼痛，患者服之<lb
+ n="0788b06" ed="T"/>而得安樂。<lb
+ n="0788b07" ed="T"/>「復次女人懷孕延至第十二月胎藏不安者，當<lb
+ n="0788b08" ed="T"/>用迦俱𭋹藥、叱囉迦俱𭋹藥、甘草、憂鉢羅花<lb
+ n="0788b09" ed="T"/>各等分，擣篩令細，以水同研，後入乳汁相和<lb
+ n="0788b10" ed="T"/>煎熟，候冷服之。此藥能安胎藏、止息疼痛，患<lb
+ n="0788b11" ed="T"/>者服之而得安樂。」<lb
+ n="0788b12" ed="T"/>爾時𠰒嚩迦仙人聞師說是女人懷孕保養<lb
+ n="0788b13" ed="T"/>法已，歡喜信受，作禮而退。<lb
+ n="0788b14" ed="T"/>
+</ab><ab type='juan' subtype='close'>迦葉仙人說醫女人經</ab></div>
+</body></text></TEI>

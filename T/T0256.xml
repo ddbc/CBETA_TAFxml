@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">唐梵翻對字音般若波羅蜜多心經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T08</biblScope>
+                    <idno type="Taisho">T08n0256</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0851a02" ed="T"/><lb
+ n="0851a03" ed="T"/><lb
+ n="0851a04" ed="T"/><lb
+ n="0851a05" ed="T"/><div type='xu' level='2'><head>唐梵飜對字音般若波羅蜜多心<lb
+ n="0851a06" ed="T"/>經</head><lb
+ n="0851a07" ed="T"/><lb
+ n="0851a08" ed="T"/><byline>西京大興善寺石璧上錄出慈恩和尚<lb
+ n="0851a09" ed="T"/>奉　詔述序</byline><lb
+ n="0851a10" ed="T"/><ab type='prose'>梵本般若多心經者，大唐三藏之所譯也。三<lb
+ n="0851a11" ed="T"/>藏志遊天竺，路次益州，宿空惠寺道場內。遇<lb
+ n="0851a12" ed="T"/>一僧有疾，詢問行止。因話所之，乃難歎法<lb
+ n="0851a13" ed="T"/>師曰：「為法忘體。甚為希有。然則五天󰍌𮞧十<lb
+ n="0851a14" ed="T"/>萬餘逞，道涉流沙，波深弱水。胡風起處，動<lb
+ n="0851a15" ed="T"/>塞草以愁人；山鬼啼時，對荒兵之落葉。朝行<lb
+ n="0851a16" ed="T"/>雪巘，暮宿氷崖，樹掛猿猱，境多魑魅。層巒<lb
+ n="0851a17" ed="T"/>疊於蔥嶺，縈似帶雪之白雲；群木蔟於鷲峯，<lb
+ n="0851a18" ed="T"/>聳參天之碧嶠。逞途多難，去也如何。我有三<lb
+ n="0851a19" ed="T"/>世諸佛心要法門，師若受持，可保來往。」遂乃<lb
+ n="0851a20" ed="T"/>口受與法師訖。至曉，失其僧焉。三藏結束<lb
+ n="0851a21" ed="T"/>囊裝，漸離唐境。或途經厄難，或時有𮤢齋饈，<lb
+ n="0851a22" ed="T"/>憶而念之四十九遍，失路即化人指引，思食<lb
+ n="0851a23" ed="T"/>則輙現珍󰋳。但有誠祈，皆獲戩祐。至中天竺<lb
+ n="0851a24" ed="T"/>磨竭陀國那爛陀寺，旋遶經藏次，忽見前僧，<lb
+ n="0851a25" ed="T"/>而相謂曰：「逮涉艱嶮，喜達此方。賴我昔在<lb
+ n="0851a26" ed="T"/>支那國所傳三世諸佛心要法門。由斯經歷，<lb
+ n="0851a27" ed="T"/>保爾行途。取經早󰍍，滿爾心願。我是觀音菩<lb
+ n="0851a28" ed="T"/>薩。」言訖冲空。既顯奇祥，為斯經之至驗。信為<lb
+ n="0851a29" ed="T"/>般若，□為聖樞。如說而行，必超覺際。究如來<pb n="0851b" id="T08.0256.0851b" ed="T"/><lb
+ n="0851b01" ed="T"/>旨，巨曆三祇。諷如來經，能銷三障。若人虔誠<lb
+ n="0851b02" ed="T"/>受持者，體理斯而懃焉。</ab></div><lb
+ n="0851b03" ed="T"/><lb
+ n="0851b04" ed="T"/><byline>特進鴻臚卿開府議同三司封肅國公<lb
+ n="0851b05" ed="T"/>贈司空官食邑三千戶<lb
+ n="0851b06" ed="T"/>勅謚大辦正廣不空奉　詔譯</byline><lb
+ n="0851b07" ed="T"/><head>蓮花部等普讚歎三寶</head><lb
+ n="0851b08" ed="T"/><ab type='dharani'>曩謨沒駄野　遇囉吠　曩謨達磨<lb
+ n="0851b09" ed="T"/>野　駄以銘磨　曩謨僧伽野　磨賀諦<lb
+ n="0851b10" ed="T"/>諦󰋫毘藥　毘舍佐　迦磨囉目佉<lb
+ n="0851b11" ed="T"/>　迦磨囉路左曩　迦磨囉攞沙曩　迦磨<lb
+ n="0851b12" ed="T"/>囉賀娑哆　迦磨囉婆母儞　迦磨攞<lb
+ n="0851b13" ed="T"/>　迦磨囉　三婆嚩娑　迦囉磨囉<lb
+ n="0851b14" ed="T"/>　𠧒灑攞曩　娜謨宰堵諦<lb
+ n="0851b15" ed="T"/><lb
+ n="0851b16" ed="T"/><lb
+ n="0851b17" ed="T"/><lb
+ n="0851b18" ed="T"/>
+</ab><ab type='juan' subtype='open'>梵本般若波羅蜜多心經</ab><lb
+ n="0851b19" ed="T"/><byline>觀自在菩薩與三藏法師玄奘親教授梵<lb
+ n="0851b20" ed="T"/>本不潤色</byline><lb
+ n="0851b21" ed="T"/><div type='jing' level='2'><ab type='prose'>鉢囉誐攘播囉弭哆󰌦哩那<lb
+ n="0851b22" ed="T"/>野素怛囕阿哩也嚩嚕枳帝濕嚩<lb
+ n="0851b23" ed="T"/>路冒地娑怛侮　儼鼻囕鉢囉誐攘<lb
+ n="0851b24" ed="T"/>播囉弭哆　左哩焰左囉麼𠯆尾<lb
+ n="0851b25" ed="T"/>也　嚩嚕迦底娑麼畔左　塞建駄<lb
+ n="0851b26" ed="T"/>娑怛室左娑嚩婆嚩戍儞焰<lb
+ n="0851b27" ed="T"/>跛失也底娑麼伊賀　捨哩補怛囉<lb
+ n="0851b28" ed="T"/>　嚕畔戍儞焰戍儞也㗣嚩<pb n="0851c" id="T08.0256.0851c" ed="T"/><lb
+ n="0851c01" ed="T"/>嚕畔　嚕播曩比㗚他戍儞也哆<lb
+ n="0851c02" ed="T"/>　戍儞也哆野　曩比㗚他𮓃嚕<lb
+ n="0851c03" ed="T"/>畔　夜怒嚕畔娑戍儞也哆夜<lb
+ n="0851c04" ed="T"/>　戍儞也哆娑嚕畔　曀嚩弭嚩<lb
+ n="0851c05" ed="T"/>　吠那曩散誐攘散娑迦囉尾誐攘喃<lb
+ n="0851c06" ed="T"/>　伊賀捨哩補怛囉　薩囉嚩達<lb
+ n="0851c07" ed="T"/>麼戍儞也哆落乞叉拏　阿怒哆<lb
+ n="0851c08" ed="T"/>播曩阿寧嚕駄　阿尾麼攞　阿<lb
+ n="0851c09" ed="T"/>怒曩阿播哩補攞拏　哆娑每捨<lb
+ n="0851c10" ed="T"/>哩補怛囉　戍儞也哆焰曩嚕畔<lb
+ n="0851c11" ed="T"/>　曩吠那曩　曩散誐攘　曩<lb
+ n="0851c12" ed="T"/>散娑迦囉　曩尾誐攘喃　曩斫乞<lb
+ n="0851c13" ed="T"/>蒭戍嚕怛囉迦囉拏𡁠賀嚩迦野<lb
+ n="0851c14" ed="T"/>麼曩𭄪　曩嚕畔攝那彥駄囉娑<lb
+ n="0851c15" ed="T"/>娑播囉瑟吒尾也達麼　曩斫蒭<lb
+ n="0851c16" ed="T"/>駄都　哩也嚩曩麼怒尾誐攘誐<lb
+ n="0851c17" ed="T"/>喃駄都　曩尾儞也　曩尾儞也　曩<lb
+ n="0851c18" ed="T"/>尾儞也乞叉喻　曩尾儞也乞叉喻<lb
+ n="0851c19" ed="T"/><lb
+ n="0851c20" ed="T"/>野嚩㘃囉麼囉喃　曩㘃囉麼囉<lb
+ n="0851c21" ed="T"/>拏乞叉喻　曩䅶佉娑敏那野寧嚕<lb
+ n="0851c22" ed="T"/>駄麼誐穰　曩誐攘喃　曩鉢囉<lb
+ n="0851c23" ed="T"/>比底　曩鼻娑麼　哆娑每無那鉢<lb
+ n="0851c24" ed="T"/>囉比府怛嚩　冒地娑怛嚩喃　鉢囉誐攘播囉弭　麼室哩底也<lb
+ n="0851c26" ed="T"/>尾賀囉底也　只跢嚩囉拏<lb
+ n="0851c27" ed="T"/>　尾儞也乞叉喻　曩尾儞也乞叉喻　野嚩㘃囉麼囉喃　曩㘃囉麼<pb n="0852a" id="T08.0256.0852a" ed="T"/><lb
+ n="0852a01" ed="T"/>囉拏乞叉喻　曩䅶佉娑每那野寧<lb
+ n="0852a02" ed="T"/>嚕馱麼哩誐攘　曩誐攘喃　曩<lb
+ n="0852a03" ed="T"/>鉢囉比底　曩鼻娑麼　哆娑每那<lb
+ n="0852a04" ed="T"/>鉢囉比底怛嚩　冒地娑怛嚩<lb
+ n="0852a05" ed="T"/>喃　鉢囉誐攘播囉弭哆　麼<lb
+ n="0852a06" ed="T"/>室哩底也尾賀囉底也　只哆嚩<lb
+ n="0852a07" ed="T"/>囉拏　只跢囉拏<lb
+ n="0852a08" ed="T"/>曩悉底怛嚩那󰌳哩素都　尾播<lb
+ n="0852a09" ed="T"/>哩也娑底伽蘭哆　寧瑟吒寧哩<lb
+ n="0852a10" ed="T"/>也嚩喃　底哩也駄嚩　尾也<lb
+ n="0852a11" ed="T"/>嚩悉體跢娑嚩沒駄　鉢囉誐攘<lb
+ n="0852a12" ed="T"/>播囉弭哆　麼室哩底世耨跢<lb
+ n="0852a13" ed="T"/>蘭󰍙藐世󰍙沒地　麼鼻󰍙沒駄哆<lb
+ n="0852a14" ed="T"/>娑每誐攘哆尾演　鉢囉誐攘<lb
+ n="0852a15" ed="T"/>播囉弭哆　麼賀滿怛嚕　麼賀<lb
+ n="0852a16" ed="T"/>尾儞也滿怛囉　阿耨哆囉滿怛<lb
+ n="0852a17" ed="T"/>囉　娑麼娑底滿<lb
+ n="0852a18" ed="T"/>怛囉　薩嚩䅶佉鉢囉捨曩娑<lb
+ n="0852a19" ed="T"/>底也麼弭贊哩也怛嚩　鉢囉<lb
+ n="0852a20" ed="T"/>誐攘播囉弭哆　目訖姤滿怛囉怛儞也他　誐諦　誐諦　播囉誐諦　播<lb
+ n="0852a22" ed="T"/>囉僧誐諦　冒地　娑嚩賀</ab></div>
+<ab type='juan' subtype='close'>梵語般若波<lb
+ n="0852a23" ed="T"/>羅蜜多心經一卷</ab></div>
+</body></text></TEI>

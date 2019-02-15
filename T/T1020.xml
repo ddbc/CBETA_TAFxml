@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大方廣佛花嚴經入法界品頓證毘盧遮那法身字輪瑜伽儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n1020</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0709b" id="T19.1020.0709b" ed="T"/><lb
+ n="0709b01" ed="T"/><lb
+ n="0709b02" ed="T"/><lb
+ n="0709b03" ed="T"/><div type='jing' level='2'><lb
+ n="0709b04" ed="T"/>
+<ab type='juan' subtype='open'>大方廣佛花嚴經入法界品頓證<lb
+ n="0709b05" ed="T"/>毘盧遮那法身字輪瑜伽儀軌</ab><lb
+ n="0709b06" ed="T"/><lb
+ n="0709b07" ed="T"/><ab type='prose'>夫欲頓入一乘修習毘盧遮那如來法身觀者。<lb
+ n="0709b08" ed="T"/>先應發起普賢菩薩微妙行願。復應以三密<lb
+ n="0709b09" ed="T"/>加持身心。則能悟入文殊師利大智慧海。然<lb
+ n="0709b10" ed="T"/>修行者最初於空閑處。攝念安心閉目端身<lb
+ n="0709b11" ed="T"/>結跏趺坐。運心普緣無邊剎海。諦觀三世一<lb
+ n="0709b12" ed="T"/>切如來遍於一一佛菩薩前。慇勤恭敬禮拜<lb
+ n="0709b13" ed="T"/>旋遶。又以種種供具雲海。奉獻如是等一切<lb
+ n="0709b14" ed="T"/>眾聖。廣大供養已。復應觀自心。心本不生。自<lb
+ n="0709b15" ed="T"/>性成就。光明遍照猶如虛空。復應深起悲念。<lb
+ n="0709b16" ed="T"/>哀愍眾生不悟自心輪迴諸趣。我當普化拔<lb
+ n="0709b17" ed="T"/>濟。令其開悟盡無有餘。復應觀察自心諸眾<lb
+ n="0709b18" ed="T"/>生心及諸佛心。本無有異平等一相。成大菩<lb
+ n="0709b19" ed="T"/>提心。瑩徹清涼廓然周遍。圓明皎潔成大月<lb
+ n="0709b20" ed="T"/>輪。量等虛空無有邊際。復應於月輪內。右旋<lb
+ n="0709b21" ed="T"/>布列四十二梵字。悉皆金色放大光明。照徹<lb
+ n="0709b22" ed="T"/>十方分明顯現。一一光中見無量剎海。有無<lb
+ n="0709b23" ed="T"/>量諸佛。有無量眾前後圍遶。坐菩提場成等<lb
+ n="0709b24" ed="T"/>正覺。智入三際身遍十方。轉大法輪度脫群<lb
+ n="0709b25" ed="T"/>品。悉令現證無住涅槃。復應悟入般若波羅<lb
+ n="0709b26" ed="T"/>蜜四十二字門。了一切法皆無所得。能觀正<lb
+ n="0709b27" ed="T"/>智所觀法界。悉皆平等無異無別。修瑜伽者<lb
+ n="0709b28" ed="T"/>若能與是旋陀羅尼觀行相應。即能現證毘<lb
+ n="0709b29" ed="T"/>盧遮那如來智身。於諸法中得無障礙。</ab></div><pb n="0709c" id="T19.1020.0709c" ed="T"/><lb
+ n="0709c01" ed="T"/><head>圓明字輪</head><lb
+ n="0709c02" ed="T"/><ab type='prose'><lb
+ n="0709c03" ed="T"/><lb
+ n="0709c04" ed="T"/><lb
+ n="0709c05" ed="T"/><lb
+ n="0709c06" ed="T"/><lb
+ n="0709c07" ed="T"/><lb
+ n="0709c08" ed="T"/><lb
+ n="0709c09" ed="T"/><lb
+ n="0709c10" ed="T"/><lb
+ n="0709c11" ed="T"/><lb
+ n="0709c12" ed="T"/><lb
+ n="0709c13" ed="T"/><lb
+ n="0709c14" ed="T"/>四十二字頌曰。<lb
+ n="0709c15" ed="T"/></ab>
+<ab type='dharani'>阿囉跛左曩攞娜麼拏灑嚩䫂野瑟<lb
+ n="0709c16" ed="T"/>吒迦娑莽誐他惹娑嚩馱捨<lb
+ n="0709c17" ed="T"/>佉訖灑娑䫂孃囉他婆<lb
+ n="0709c18" ed="T"/>縒娑麼訶嚩哆娑伽姹<lb
+ n="0709c19" ed="T"/>儜頗娑迦野娑室左吒<lb
+ n="0709c20" ed="T"/>荼<lb
+ n="0709c21" ed="T"/>
+</ab><ab type='juan' subtype='close'>大方廣佛花嚴經入法界品四十二字觀門</ab></div>
+</body></text></TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說療痔病經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1325</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0490b20" ed="T"/><lb
+ n="0490b21" ed="T"/><div type='jing' level='1'><lb
+ n="0490b22" ed="T"/>
+<ab type='juan' subtype='open'>佛說療痔病經</ab><lb
+ n="0490b23" ed="T"/><lb
+ n="0490b24" ed="T"/><byline>大唐三藏義淨奉　制譯</byline><lb
+ n="0490b25" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在王舍大城竹林園<lb
+ n="0490b26" ed="T"/>中，與大苾芻眾五百人俱。時，有眾多苾芻身<lb
+ n="0490b27" ed="T"/>患痔病，形體羸瘦、痛苦縈纏，於日夜中，極受<lb
+ n="0490b28" ed="T"/>憂惱。時，具壽阿難陀見是事已，詣世尊所，頂<lb
+ n="0490b29" ed="T"/>禮雙足，在一面立，白言：「世尊！今王舍城多有<pb n="0490c" ed="T" id="T21.1325.0490c"/><lb
+ n="0490c01" ed="T"/>苾芻身患痔病，形體羸瘦、痛苦縈纏，於日夜<lb
+ n="0490c02" ed="T"/>中，極受憂惱。世尊！此諸痔病，云何救療？」佛<lb
+ n="0490c03" ed="T"/>告阿難陀：「汝可聽此《療痔病經》，讀誦受持、繫<lb
+ n="0490c04" ed="T"/>心勿忘，亦於他人，廣為宣說，此諸痔病，悉得<lb
+ n="0490c05" ed="T"/>除差。所謂：風痔、熱痔、癊痔、三合痔、血痔、腹中<lb
+ n="0490c06" ed="T"/>痔、鼻內痔、齒痔、舌痔、眼痔、耳痔、頂痔、手足痔、<lb
+ n="0490c07" ed="T"/>脊背痔、屎痔……遍身支節所生諸痔，如是痔瘻，<lb
+ n="0490c08" ed="T"/>悉皆乾燥、墮落、消滅，畢差無疑。皆應誦持如<lb
+ n="0490c09" ed="T"/>是神呪。」即說呪曰：<lb
+ n="0490c10" ed="T"/></ab>
+<ab type='dharani'>「怛姪他　揭賴米　室利　室利　魔揭室<lb
+ n="0490c11" ed="T"/>至　三磨𮧔都　莎訶<lb
+ n="0490c12" ed="T"/></ab>
+<ab type='prose'>「此呪：<lb
+ n="0490c13" ed="T"/></ab>
+<ab type='dharani'>「怛姪他　頞闌帝　頞藍謎　室利鞞　室里<lb
+ n="0490c14" ed="T"/>室里　磨羯失質　三婆跋覩　莎訶<lb
+ n="0490c15" ed="T"/></ab>
+<ab type='prose'>「阿難陀！於此北方，有大雪山王。中有大莎羅<lb
+ n="0490c16" ed="T"/>樹，名曰『難勝』。有三種華：一者初生、二者圓滿、<lb
+ n="0490c17" ed="T"/>三者乾枯。猶如彼華，乾燥落時，我諸痔病亦<lb
+ n="0490c18" ed="T"/>復如是，勿復血出，亦勿膿流，永除苦痛，悉皆<lb
+ n="0490c19" ed="T"/>乾燥。又復若常誦此經者，得宿住智，能憶過<lb
+ n="0490c20" ed="T"/>去七生之事。呪法成就，莎訶。」又說呪曰：<pb n="0491a" ed="T" id="T21.1325.0491a"/><lb
+ n="0491a01" ed="T"/></ab>
+<ab type='dharani'>「怛姪他　占米　占米　捨占米　占沒儞　捨<lb
+ n="0491a02" ed="T"/>占泥　莎訶」<lb
+ n="0491a03" ed="T"/></ab>
+<ab type='prose'>佛說是經已，時，具壽阿難陀及諸大眾，皆大<lb
+ n="0491a04" ed="T"/>歡喜，信受奉行。<lb
+ n="0491a05" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說療痔病經</ab></div>
+</body></text></TEI>

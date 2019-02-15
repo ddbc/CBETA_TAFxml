@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛頂經金剛界大道場毘盧遮那如來自受用身內證智眷屬法身異名佛最上乘祕密三摩地禮懺文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0878</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0335c17" ed="T"/><lb
+ n="0335c18" ed="T"/><lb
+ n="0335c19" ed="T"/><lb
+ n="0335c20" ed="T"/>
+<ab type='juan' subtype='open'>金剛頂經金剛界大道場毘盧<lb
+ n="0335c21" ed="T"/>遮那如來自受用身內證智眷屬<lb
+ n="0335c22" ed="T"/>法身異名佛最上乘祕密三摩地<lb
+ n="0335c23" ed="T"/>禮懺文</ab><lb
+ n="0335c24" ed="T"/><lb
+ n="0335c25" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0335c26" ed="T"/>公食邑三千戶賜紫贈司空諡大鑑<lb
+ n="0335c27" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0335c28" ed="T"/>不空奉　詔譯</byline><lb
+ n="0335c29" ed="T"/><div type='jing' level='2'><ab type='prose'>初禮請佛梵歎依常。<pb n="0336a" id="T18.0878.0336a" ed="T"/><lb
+ n="0336a01" ed="T"/>南謨常住三世淨妙法身金剛界大悲毘盧遮<lb
+ n="0336a02" ed="T"/>那佛。<lb
+ n="0336a03" ed="T"/>南謨金剛堅固自性身阿閦佛。<lb
+ n="0336a04" ed="T"/>南謨福德莊嚴聚身寶生佛。<lb
+ n="0336a05" ed="T"/>南謨受用智慧身阿彌陀佛。<lb
+ n="0336a06" ed="T"/>南謨作變化身不空成就佛。<lb
+ n="0336a07" ed="T"/>南謨大圓鏡智金剛波羅蜜出生。盡虛空遍<lb
+ n="0336a08" ed="T"/>法界塵剎波羅蜜等一切諸佛。<lb
+ n="0336a09" ed="T"/>南謨平等性智寶波羅蜜出生。盡虛空遍法<lb
+ n="0336a10" ed="T"/>界塵剎波羅蜜等一切諸佛。<lb
+ n="0336a11" ed="T"/>南謨妙觀察智法波羅蜜出生。盡虛空遍法<lb
+ n="0336a12" ed="T"/>界塵剎波羅蜜等一切諸佛。<lb
+ n="0336a13" ed="T"/>南謨成所作智羯磨波羅蜜出生。盡虛空遍<lb
+ n="0336a14" ed="T"/>法界塵剎波羅蜜等一切諸佛。<lb
+ n="0336a15" ed="T"/>南謨一切如來菩提心金剛薩埵等。盡虛空<lb
+ n="0336a16" ed="T"/>遍法界同一體性金剛界生身一切諸佛。<lb
+ n="0336a17" ed="T"/>南謨一切如來菩提心金剛王等。盡虛空遍<lb
+ n="0336a18" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336a19" ed="T"/>南謨一切如來菩提心金剛愛等。盡虛空遍<lb
+ n="0336a20" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336a21" ed="T"/>南謨一切如來菩提心金剛喜等。盡虛空遍<lb
+ n="0336a22" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336a23" ed="T"/>南謨一切如來福德聚金剛寶等。盡虛空遍<lb
+ n="0336a24" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336a25" ed="T"/>南謨一切如來福德聚金剛光等。盡虛空遍<lb
+ n="0336a26" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336a27" ed="T"/>南謨一切如來福德聚金剛幢等。盡虛空遍<lb
+ n="0336a28" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336a29" ed="T"/>南謨一切如來福德聚金剛笑等。盡虛空遍<pb n="0336b" id="T18.0878.0336b" ed="T"/><lb
+ n="0336b01" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336b02" ed="T"/>南謨一切如來智慧門金剛法等。盡虛空遍<lb
+ n="0336b03" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336b04" ed="T"/>南謨一切如來智慧門金剛利等。盡虛空遍<lb
+ n="0336b05" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336b06" ed="T"/>南謨一切如來智慧門金剛因等。盡虛空遍<lb
+ n="0336b07" ed="T"/>法界同一體性金剛界生身一切諸佛。<lb
+ n="0336b08" ed="T"/>南謨一切如來智慧門金剛語等。盡虛空遍<lb
+ n="0336b09" ed="T"/>法界同一體性金剛生身一切諸佛。<lb
+ n="0336b10" ed="T"/>南謨一切如來大精進金剛業等。盡虛空遍<lb
+ n="0336b11" ed="T"/>法界同一體性金剛生身一切諸佛。<lb
+ n="0336b12" ed="T"/>南謨一切如來大精進金剛護等。盡虛空遍<lb
+ n="0336b13" ed="T"/>法界同一體性金剛生身一切諸佛。<lb
+ n="0336b14" ed="T"/>南謨一切如來大精進金剛牙等。盡虛空遍<lb
+ n="0336b15" ed="T"/>法界同一體性金剛生身一切諸佛。<lb
+ n="0336b16" ed="T"/>南謨一切如來大精進金剛拳等。盡虛空遍<lb
+ n="0336b17" ed="T"/>法界同一體性金剛生身一切諸佛。<lb
+ n="0336b18" ed="T"/>南謨一切如來適悅心金剛嬉戲等。盡虛空<lb
+ n="0336b19" ed="T"/>遍法界一切供養雲海菩薩摩訶薩。<lb
+ n="0336b20" ed="T"/>南謨一切如來大覺分金剛鬘等。盡虛空遍<lb
+ n="0336b21" ed="T"/>法界一切供養雲海菩薩摩訶薩。<lb
+ n="0336b22" ed="T"/>南謨一切如來妙法音金剛歌等。盡虛空遍<lb
+ n="0336b23" ed="T"/>法界一切供養雲海菩薩摩訶薩。<lb
+ n="0336b24" ed="T"/>南謨一切如來神通業金剛舞等。盡虛空遍<lb
+ n="0336b25" ed="T"/>法界一切供養雲海菩薩摩訶薩。<lb
+ n="0336b26" ed="T"/>南謨一切如來真如熏金剛焚香等。盡虛空<lb
+ n="0336b27" ed="T"/>遍法界一切供養雲海菩薩摩訶薩。<lb
+ n="0336b28" ed="T"/>南謨一切如來勝莊嚴金剛花等。盡虛空遍<lb
+ n="0336b29" ed="T"/>法界一切供養雲海菩薩摩訶薩等。<pb n="0336c" id="T18.0878.0336c" ed="T"/><lb
+ n="0336c01" ed="T"/>南謨一切如來常普照金剛燈等。盡虛空遍<lb
+ n="0336c02" ed="T"/>法界一切供養雲海菩薩摩訶薩等。<lb
+ n="0336c03" ed="T"/>南謨一切如來常供養金剛塗香等。盡虛空<lb
+ n="0336c04" ed="T"/>遍法界一切供養雲海菩薩摩訶薩等。<lb
+ n="0336c05" ed="T"/>南謨一切如來四攝智金剛鉤菩薩等。盡虛<lb
+ n="0336c06" ed="T"/>空遍法界一切成辦菩薩摩訶薩。<lb
+ n="0336c07" ed="T"/>南謨一切如來善巧智金剛索菩薩等。盡虛<lb
+ n="0336c08" ed="T"/>空遍法界一切奉教菩薩摩訶薩。<lb
+ n="0336c09" ed="T"/>南謨一切如來堅固智金剛鎖菩薩等。盡虛<lb
+ n="0336c10" ed="T"/>空遍法界一切使者菩薩摩訶薩。<lb
+ n="0336c11" ed="T"/>南謨一切如來歡樂智金剛鈴菩薩等。盡虛<lb
+ n="0336c12" ed="T"/>空遍法界一切隨順菩薩摩訶薩。<lb
+ n="0336c13" ed="T"/>如上金剛界大曼茶羅三十七尊。並是法佛<lb
+ n="0336c14" ed="T"/>現證菩提內眷屬。毘盧遮那互體。<lb
+ n="0336c15" ed="T"/>南謨盡十方蓮花藏世界海不可說不可說微<lb
+ n="0336c16" ed="T"/>塵剎土海會中。常住三世平等一切三寶。普<lb
+ n="0336c17" ed="T"/>為五類諸天世主九際出世父母諸善知識道<lb
+ n="0336c18" ed="T"/>場施主。盡無餘界有情並願斷除諸障歸命<lb
+ n="0336c19" ed="T"/>懺悔　至心懺悔。<lb
+ n="0336c20" ed="T"/></ab>
+<ab type='verse'>
+無始輪迴諸有中　　身口意業所生罪　　<lb
+ n="0336c21" ed="T"/>如佛菩薩所懺悔　　我今陳懺亦如是　　
+</ab><lb
+ n="0336c22" ed="T"/><ab type='prose'>懺悔已至心歸命頂禮大悲毘盧遮那佛　至<lb
+ n="0336c23" ed="T"/>心隨喜。<lb
+ n="0336c24" ed="T"/></ab>
+<ab type='verse'>
+又應深發歡喜心　　隨喜一切福智聚　　<lb
+ n="0336c25" ed="T"/>諸佛菩薩行願中　　金剛三業所生福　　<lb
+ n="0336c26" ed="T"/>緣覺聲聞及有情　　所集善根盡隨喜　　
+</ab><lb
+ n="0336c27" ed="T"/><ab type='prose'>隨喜已至心歸命頂禮大悲盧遮那佛　至心<lb
+ n="0336c28" ed="T"/>勸請。<lb
+ n="0336c29" ed="T"/></ab>
+<ab type='verse'>
+復觀諸佛坐道樹　　己身各請轉法輪　　<pb n="0337a" id="T18.0878.0337a" ed="T"/><lb
+ n="0337a01" ed="T"/>一切世燈坐道場　　覺眼開敷照三有　　<lb
+ n="0337a02" ed="T"/>所有如來三界主　　臨般無餘涅槃者　　<lb
+ n="0337a03" ed="T"/>我皆勸請令久住　　不捨悲願救世間　　
+</ab><lb
+ n="0337a04" ed="T"/><ab type='prose'>勸請已至心歸命頂禮大悲毘盧遮那佛　至<lb
+ n="0337a05" ed="T"/>心迴向。<lb
+ n="0337a06" ed="T"/></ab>
+<ab type='verse'>
+懺悔隨喜勸請福　　願我不失菩提心　　<lb
+ n="0337a07" ed="T"/>諸佛菩薩妙眾中　　常為善友不厭捨　　<lb
+ n="0337a08" ed="T"/>遠離八難生無難　　宿命住智相嚴身　　<lb
+ n="0337a09" ed="T"/>遠離愚迷具悲智　　悉能滿足波羅蜜　　<lb
+ n="0337a10" ed="T"/>富樂豐饒生勝族　　眷屬廣多恒熾盛　　<lb
+ n="0337a11" ed="T"/>四無礙辯十自在　　六通諸禪悉圓滿　　<lb
+ n="0337a12" ed="T"/>如金剛幢及普賢　　願讚迴向亦如是　　
+</ab><lb
+ n="0337a13" ed="T"/><ab type='prose'>迴向發願已至心歸命頂禮大悲毘盧遮那佛。<lb
+ n="0337a14" ed="T"/>已下次第如常。<lb
+ n="0337a15" ed="T"/>白眾等各念此時清淨偈。<lb
+ n="0337a16" ed="T"/></ab>
+<ab type='verse'>
+諸法如影像　　清淨無瑕穢　　<lb
+ n="0337a17" ed="T"/>取說不可得　　皆從因業生　　
+</ab></div><lb
+ n="0337a18" ed="T"/>
+<ab type='juan' subtype='close'>金剛頂經金剛界大道場毘盧遮那如來自受<lb
+ n="0337a19" ed="T"/>用身內證智眷屬法身異名佛最上乘祕密<lb
+ n="0337a20" ed="T"/>三摩地禮懺文</ab><lb
+ n="0337a21" ed="T"/><div type='w' level='2'><ab type='prose'>亦名三十七尊禮懺文。</ab></div></div>
+</body></text></TEI>

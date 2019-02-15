@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">馬頭觀音心陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1072B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0170a10" ed="T"/><lb
+ n="0170a11" ed="T"/><lb
+ n="0170a12" ed="T"/><lb
+ n="0170a13" ed="T"/><lb
+ n="0170a14" ed="T"/>
+<ab type='juan' subtype='open'>馬頭觀音心陀羅尼</ab><lb
+ n="0170a15" ed="T"/><div type='dharani' level='2'><ab type='dharani'>􇖵􄖩􄗭􄗽􅑈􄩞􄗱􄗱􇟄􄖩􄗰􆿆􅝪􄙖􄙒<lb
+ n="0170a16" ed="T"/>􄑂􄕝􈂫􄗾􄗱􇟄􄗕􄕽􄙺􄽙􄗱􇟄􄗥􄚩􄙺<lb
+ n="0170a17" ed="T"/>􄽚􄗱􇟄􄗥􄚩􄑁􄙂􄕍􄑁􄗱􇟄􆿏􄢢􄖩􄗥<lb
+ n="0170a18" ed="T"/>􈃎􄽚􇟄􈇲􄕹􄗦􅝪􄙖􄙒􄑂􄕝􈂫􄗽􇟄􈁃<lb
+ n="0170a19" ed="T"/>􄙪􆥽􆩈􄚨􄗱􄥢􄙖􆱨􄕯􄗱　􄗭􄙖􆩠􄗳<lb
+ n="0170a20" ed="T"/>􄡕􄗧􇖴􆿏􈂯􄚪􄗥􄚩􇟄􄙖􄦽􇥗􄙖􄦽􄖩<lb
+ n="0170a21" ed="T"/>􄑌􇖴􄙖􄦾􄙆􄗥􇟄􄙖􄦽􄑆􄙢􇟄􄙖􄦽􈇵<lb
+ n="0170a22" ed="T"/>􄗽􇥗􄙖􄦽􄕹􈇒􇟄􄚨􄖩􇥗􇟄􄕯􄚨􇥗􇟄<lb
+ n="0170a23" ed="T"/>􄖵􄑼􇥗􇟄􄑘􈁒􇥗􇟄􄙖􄾫􇥗􇟄􄗽􆲫􇥗<lb
+ n="0170a24" ed="T"/>􇟄􄚨􄙺􇥗􄒶􅉺􇥗􇟄􄓎􄧡􇥗􈃁􄖩􇥗􄙘<lb
+ n="0170a25" ed="T"/>􈃁􄖩􇥗􄗥􄕤􇥗􄑀􄢦􇥗􄑀􄗁􇥗􄙺􅞣􄕵<lb
+ n="0170a26" ed="T"/>􈊾􄙺􅞣􄖪􈁲􄙺􅞣􄗱􈃚􇟄􄙺􅞣􄙘􄚪􄚮<lb
+ n="0170a27" ed="T"/>􄓦􈂾􇟄􄙺􅞣􄙘􈉚􄪼􄙘􄙢􇥗􇟄􄚨􄗱􄥢<lb
+ n="0170a28" ed="T"/>􄙖􄙘􄙮􄭫􄗱􇟄􄪼􄺸􄙊􇥗􆿆􄙘􄙢􇥗􄙘<lb
+ n="0170a29" ed="T"/>􄙢􄙖􄦽􈇵􄗽􄗥􄙘􄙔􇟄􈎭􇧹􄕻􈆺􄚦􄑤<pb n="0170b" id="T20.1072B.0170b" ed="T"/><lb
+ n="0170b01" ed="T"/>􄙖􄑼􄖩􇟄􄗥􄖭􅋌􄗽􄒶􄕙􄗥􄖭􅋌􄗽􆱨<lb
+ n="0170b02" ed="T"/>􄕯􄗱􇟄􄗥􄖭􅋌􄗽􄙘􄑃􄗽􇟄􄑘􅗭􇥗􄖩<lb
+ n="0170b03" ed="T"/>􈇤􇥗􄗥􄕯􄑜􈉅􇥗􄙘􄖫􄚨􄖩􄚨􄖩􇩴􇩴<lb
+ n="0170b04" ed="T"/>􄗁􄓚􄗁􈁆􅁥􄚩􇖴</ab></div><lb
+ n="0170b05" ed="T"/><div type='w' level='2'><ab type='prose'>以隆　僧都本書寫之件本大師御筆<lb
+ n="0170b06" ed="T"/>後日以般若寺僧正御手跡本比交以朱付<lb
+ n="0170b07" ed="T"/>點本也。</ab></div></div>
+</body></text></TEI>

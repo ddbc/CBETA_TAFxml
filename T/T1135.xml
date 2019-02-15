@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說一切如來金剛壽命陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1135</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0578a09" ed="T"/><lb
+ n="0578a10" ed="T"/><lb
+ n="0578a11" ed="T"/><lb
+ n="0578a12" ed="T"/>
+<ab type='juan' subtype='open'>佛說一切如來金剛壽命陀羅尼<lb
+ n="0578a13" ed="T"/>經</ab><lb
+ n="0578a14" ed="T"/><lb
+ n="0578a15" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0578a16" ed="T"/>公食邑三千戶賜紫贈司空諡大鑑<lb
+ n="0578a17" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0578a18" ed="T"/>不空奉　詔譯</byline><lb
+ n="0578a19" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛在殑伽河側。與諸比丘及<lb
+ n="0578a20" ed="T"/>大菩薩無量天人大眾俱。爾時世尊告毘沙<lb
+ n="0578a21" ed="T"/>門等四天王言。有四種法甚可怖畏。若男若<lb
+ n="0578a22" ed="T"/>女童男童女。一切有情無能免者。所謂生老<lb
+ n="0578a23" ed="T"/>病死。於中一法最為遍惱。難可對治。所謂<lb
+ n="0578a24" ed="T"/>死怖。我愍是故說對治法。爾時四天王白佛<lb
+ n="0578a25" ed="T"/>言。世尊我於今日為獲大利。唯願世尊為眾<lb
+ n="0578a26" ed="T"/>生故宣說是法。爾時世尊面向東方。彈指召<lb
+ n="0578a27" ed="T"/>集一切如來。作是誓言。所有十方一切如來<lb
+ n="0578a28" ed="T"/>應正等覺。為眾生故。證菩提者咸皆助我。令<lb
+ n="0578a29" ed="T"/>我以一切如來威神力故。悉令一切眾生轉<pb n="0578b" id="T20.1135.0578b" ed="T"/><lb
+ n="0578b01" ed="T"/>非命業。使增壽命。我昔未為眾生轉此法輪。<lb
+ n="0578b02" ed="T"/>於今方轉。能令眾生壽命色力皆得成就無<lb
+ n="0578b03" ed="T"/>夭死怖。如是南西北方四維上下。召集驚告<lb
+ n="0578b04" ed="T"/>亦復如是。爾時十方盡佛眼所到。若干世界<lb
+ n="0578b05" ed="T"/>一切如來皆悉赴集。遍滿虛空數如微塵。爾<lb
+ n="0578b06" ed="T"/>時一切諸佛為加持故。異口同音。即說一切<lb
+ n="0578b07" ed="T"/>如來金剛壽命陀羅尼曰。<lb
+ n="0578b08" ed="T"/></ab>
+<ab type='dharani'>怛胵他者犁者攞者犁彌娜知薩嚩<lb
+ n="0578b09" ed="T"/>薩底稽斫訖浪蘖南鉢囉<lb
+ n="0578b10" ed="T"/>舍滿都薩婆路誐薩婆薩怛嚩南<lb
+ n="0578b11" ed="T"/>阿娜𪘜俱娜𪘨遮㘑遮㘑係麼澆<lb
+ n="0578b12" ed="T"/>哩係麼儞鏟尼係麼尸棄矯囉微<lb
+ n="0578b13" ed="T"/>矯囉迷係俱囉微信囉𠼐俱<lb
+ n="0578b14" ed="T"/>麼底微捨麼抳戍戍毘嚩阿者<lb
+ n="0578b15" ed="T"/>犁彌者犁麼尾覽麼戶毛戶<lb
+ n="0578b16" ed="T"/>毛唵麼折囉諭師薩嚩<lb
+ n="0578b17" ed="T"/>訶<lb
+ n="0578b18" ed="T"/></ab>
+<ab type='prose'>爾時十方佛所。一切執金剛菩薩異口同音<lb
+ n="0578b19" ed="T"/>亦說延命陀羅尼曰。<lb
+ n="0578b20" ed="T"/></ab>
+<ab type='dharani'>吽吽尸棄薩嚩訶<lb
+ n="0578b21" ed="T"/></ab>
+<ab type='prose'>如是一切如來及十方執金剛菩薩。說是陀<lb
+ n="0578b22" ed="T"/>羅尼已隱而不現。<lb
+ n="0578b23" ed="T"/>爾時毘沙門天王白佛言。我亦以佛神力。為<lb
+ n="0578b24" ed="T"/>一切眾生加持護念。除非命故說陀羅尼。<lb
+ n="0578b25" ed="T"/></ab>
+<ab type='dharani'>始尾帝始尾怛犁栗利<lb
+ n="0578b26" ed="T"/></ab>
+<ab type='prose'>爾時毘樓勒叉天王又白佛言。我亦以佛神<lb
+ n="0578b27" ed="T"/>力。為多眾生除夭命故。說陀囉尼。<lb
+ n="0578b28" ed="T"/></ab>
+<ab type='dharani'>摩登霓摩登儗尼輸麼輸麼謀<lb
+ n="0578b29" ed="T"/></ab>
+<ab type='prose'>爾時提頭賴吒天王亦白佛言。我亦為諸眾<pb n="0578c" id="T20.1135.0578c" ed="T"/><lb
+ n="0578c01" ed="T"/>生。除死怖故說陀羅尼。<lb
+ n="0578c02" ed="T"/></ab>
+<ab type='dharani'>者𡅏者𡅏者囉𠼐<lb
+ n="0578c03" ed="T"/></ab>
+<ab type='prose'>爾時毘樓博叉天王亦白佛言。我亦以佛神<lb
+ n="0578c04" ed="T"/>力故。令一切眾生除非命故說陀羅尼。<lb
+ n="0578c05" ed="T"/></ab>
+<ab type='dharani'>未臨麼麼麼<lb
+ n="0578c06" ed="T"/></ab>
+<ab type='prose'>佛告四天王言。若有讀誦此經。日日受持乃<lb
+ n="0578c07" ed="T"/>至一遍。當敬彼善男子善女人。應如佛想終<lb
+ n="0578c08" ed="T"/>不墮三惡道定增壽命。若人每日。為一切眾<lb
+ n="0578c09" ed="T"/>生轉讀此經。終無夭死短命之怖。亦無惡夢<lb
+ n="0578c10" ed="T"/>魘魅呪。咀惡形羅剎鬼神之怖。亦不為水火<lb
+ n="0578c11" ed="T"/>兵毒之所傷害。一切諸佛菩薩攝受護念其<lb
+ n="0578c12" ed="T"/>處。亦為佛所護持。爾時世尊說是經已。毘沙<lb
+ n="0578c13" ed="T"/>門天王等一切大眾。皆大歡喜信受奉行。<lb
+ n="0578c14" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說一切如來金剛壽命陀羅尼經</ab></div>
+</body></text></TEI>

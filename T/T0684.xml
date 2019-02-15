@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說父母恩難報經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T16</biblScope>
+                    <idno type="Taisho">T16n0684</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0778c22" ed="T"/><lb
+ ed="T" n="0778c23"/><lb
+ n="0778c24" ed="T"/><lb
+ ed="T" n="0778c25"/>
+<ab type='juan' subtype='open'>佛說父母恩難報經</ab><lb
+ n="0778c26" ed="T"/><lb
+ n="0778c27" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
+ ed="T" n="0778c28"/><div type='jing' level='1'><ab type='prose'>聞如是：一時婆伽婆在舍衛城祇樹給孤<lb
+ n="0778c29" ed="T"/>獨園。爾時世尊告諸比丘：「父母於子，有大<pb n="0779a" id="T16.0684.0779a" ed="T"/><lb
+ ed="T" n="0779a01"/>增益，乳餔長養，隨時將育，四大得成。右<lb
+ ed="T" n="0779a02"/>肩負父、左肩負母，經歷千年，正使便利背<lb
+ n="0779a03" ed="T"/>上，然無有怨心於父母，此子猶不足報父母<lb
+ ed="T" n="0779a04"/>恩。若父母無信，教令信，獲安隱處；無戒與<lb
+ n="0779a05" ed="T"/>戒，教授獲安隱處；不聞使聞，教授獲安隱<lb
+ ed="T" n="0779a06"/>處；慳貪教令好施，勸樂教授，獲安隱處；無<lb
+ n="0779a07" ed="T"/>智慧教令黠慧，勸樂教授，獲安隱處。如是，<lb
+ ed="T" n="0779a08"/>信如來、至真、等正覺、明行成為、善逝、世間解、無<lb
+ n="0779a09" ed="T"/>上士、道法御、天人師、號佛、世尊，教信法，教授<lb
+ n="0779a10" ed="T"/>獲安隱處。諸法甚深，現身獲果，義味甚深。<lb
+ ed="T" n="0779a11"/>如是，智者明通此行，教令信聖眾。如來聖<lb
+ n="0779a12" ed="T"/>眾甚清淨，行直不曲，常和合，法法成就，戒<lb
+ ed="T" n="0779a13"/>成就、三昧成就、智慧成就、解脫成就、解脫<lb
+ n="0779a14" ed="T"/>見慧成就。所謂聖眾——四雙八輩——是謂如來<lb
+ ed="T" n="0779a15"/>聖眾，最尊最貴，當尊奉敬仰，是世間無上<lb
+ n="0779a16" ed="T"/>福田。如是諸子當教父母行慈。諸比丘！有<lb
+ n="0779a17" ed="T"/>二子：所生子，所養子。是謂，比丘！有二子。是<lb
+ ed="T" n="0779a18"/>故，諸比丘當學所生子，口出法味。如是，諸<lb
+ ed="T" n="0779a19"/>比丘當作是學。」爾時諸比丘聞佛所說，歡<lb
+ ed="T" n="0779a20"/>喜奉行。</ab></div><lb
+ ed="T" n="0779a21"/>
+<ab type='juan' subtype='close'>佛說父母恩難報經</ab>
+</body></text></TEI>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">奇特最勝金輪佛頂念誦儀軌法要</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0949</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0190b15" ed="T"/><lb
+ n="0190b16" ed="T"/><lb
+ n="0190b17" ed="T"/><div type='jing' level='2'><lb
+ n="0190b18" ed="T"/>
+<ab type='juan' subtype='open'>奇特最勝金輪佛頂念誦儀軌法<lb
+ n="0190b19" ed="T"/>要</ab><lb
+ n="0190b20" ed="T"/><lb
+ n="0190b21" ed="T"/><ab type='prose'>夫欲修習一字頂輪王法者。先須入大曼荼羅<lb
+ n="0190b22" ed="T"/>海會。從師親受灌頂。既蒙印可方得諮。學微<lb
+ n="0190b23" ed="T"/>妙軌則真言教門。建立道場。一依本部儀式。<lb
+ n="0190b24" ed="T"/>畫本尊像。如法安置。若欲疾成悉地。先須沐<lb
+ n="0190b25" ed="T"/>浴。著新淨衣。若出家者。精持律儀。不得缺<lb
+ n="0190b26" ed="T"/>犯。若在家者。應受近住八支淨戒。復當殷重<lb
+ n="0190b27" ed="T"/>發廣大心。於阿闍梨所敬仰如佛。愍諸有情<lb
+ n="0190b28" ed="T"/>起大悲願。不惜身命常生濟度。悉令離苦獲<lb
+ n="0190b29" ed="T"/>大利樂。入道場已。五輪投地。虔誠普禮一切<pb n="0190c" id="T19.0949.0190c" ed="T"/><lb
+ n="0190c01" ed="T"/>如來。復對本尊。恒沙聖眾以淨三業悔除罪<lb
+ n="0190c02" ed="T"/>障。勸請諸佛轉妙法輪。隨喜三乘所修福智。<lb
+ n="0190c03" ed="T"/>以斯妙善迴向菩提。法界眾生同階佛果。<lb
+ n="0190c04" ed="T"/>次以塗香塗手。合掌如蓮。觀察本源。自性清<lb
+ n="0190c05" ed="T"/>淨。為諸客塵之所覆蔽。作此觀已。運心廣布。<lb
+ n="0190c06" ed="T"/>我與眾生亦同清淨。為令清淨故。誦此殊勝。<lb
+ n="0190c07" ed="T"/>浴澡真言。<lb
+ n="0190c08" ed="T"/></ab>
+<ab type='dharani'>唵薩嚩婆嚩󰡊度唅<lb
+ n="0190c09" ed="T"/></ab>
+<ab type='prose'>由三誦明故。身口意三業乃至遍法界一切<lb
+ n="0190c10" ed="T"/>悉清淨。<lb
+ n="0190c11" ed="T"/>次結一切諸佛部心三昧耶印。<lb
+ n="0190c12" ed="T"/>止觀十度內叉拳。禪智二度並申合。遍觀諸<lb
+ n="0190c13" ed="T"/>佛滿虛空。三誦真言頂上散。諸佛部心真言<lb
+ n="0190c14" ed="T"/>曰。<lb
+ n="0190c15" ed="T"/></ab>
+<ab type='dharani'>唵爾曩爾迦娑嚩賀<lb
+ n="0190c16" ed="T"/></ab>
+<ab type='prose'>由結前印誦真言故。十方諸佛一切如來。承<lb
+ n="0190c17" ed="T"/>本誓願。皆悉運集。遍滿虛空。舒光照燭。加<lb
+ n="0190c18" ed="T"/>持行人。離諸障惱。三業清淨。速證菩提。<lb
+ n="0190c19" ed="T"/>次結一切諸菩薩蓮華部心三昧耶印。<lb
+ n="0190c20" ed="T"/></ab>
+<ab type='verse'>
+准前結佛部心印　　屈左智度入掌中　　<lb
+ n="0190c21" ed="T"/>禪度直竪或三招　　運心憶念觀自在　　<lb
+ n="0190c22" ed="T"/>一切微塵菩薩眾　　持蓮眷屬滿空中　　<pb n="0191a" id="T19.0949.0191a" ed="T"/><lb
+ n="0191a01" ed="T"/>至心三遍誦真言　　方以印於頂右散　　
+</ab><lb
+ n="0191a02" ed="T"/><ab type='prose'>蓮華部心真言曰。<lb
+ n="0191a03" ed="T"/></ab>
+<ab type='dharani'>唵阿嚕力迦娑嚩賀<lb
+ n="0191a04" ed="T"/></ab>
+<ab type='prose'>由結前印誦真言故。觀自在菩薩承本誓願。<lb
+ n="0191a05" ed="T"/>將諸蓮華眾無量菩薩。遍滿虛空。皆悉運<lb
+ n="0191a06" ed="T"/>集。放大光明。加持行者。令得清淨。所求滿<lb
+ n="0191a07" ed="T"/>足。離諸障難。疾證菩提。<lb
+ n="0191a08" ed="T"/>次結一切金剛部心三昧耶印。<lb
+ n="0191a09" ed="T"/>准前復結佛部心印。<lb
+ n="0191a10" ed="T"/></ab>
+<ab type='verse'>
+屈右禪度入掌中　　智度直竪或三招　　<lb
+ n="0191a11" ed="T"/>塵沙眷屬共圍繞　　威光赫奕遍虛空　　<lb
+ n="0191a12" ed="T"/>至誠三遍誦真言　　方以印於頂左散　　
+</ab><lb
+ n="0191a13" ed="T"/><ab type='prose'>金剛部心真言曰。<lb
+ n="0191a14" ed="T"/></ab>
+<ab type='dharani'>唵嚩日羅地力迦娑縛賀<lb
+ n="0191a15" ed="T"/></ab>
+<ab type='prose'>由結前印誦真言故。十方一切金剛手等承<lb
+ n="0191a16" ed="T"/>本願因。如雲而集。現大威德。加持行人。除障<lb
+ n="0191a17" ed="T"/>摧魔。自在無礙。疾成悉地。速至菩提。<lb
+ n="0191a18" ed="T"/>次結金剛甲冑護身印。<lb
+ n="0191a19" ed="T"/></ab>
+<ab type='verse'>
+止觀羽作金剛拳　　禪智橫屈於掌內　　<lb
+ n="0191a20" ed="T"/>進力如鉤慣甲勢　　加持心額二肩喉　　<lb
+ n="0191a21" ed="T"/>至心三遍誦真言　　印身五處頂上散　　
+</ab><lb
+ n="0191a22" ed="T"/><ab type='prose'>甲冑護身真言曰。<lb
+ n="0191a23" ed="T"/></ab>
+<ab type='dharani'>唵𭊘入嚩攞𤙖<lb
+ n="0191a24" ed="T"/></ab>
+<ab type='prose'>由結甲印誦真言故。加持五處。成大護身。即<lb
+ n="0191a25" ed="T"/>同金剛堅固之體。金剛藏王承本願力。領諸<lb
+ n="0191a26" ed="T"/>眷屬。數如塵沙無量金剛圍遶侍從。光明熾<lb
+ n="0191a27" ed="T"/>盛。現忿怒形。加持行人。威德自在。辟除作<lb
+ n="0191a28" ed="T"/>障。摧壞諸魔。小則能護一身。大則護持國界。<lb
+ n="0191a29" ed="T"/>一切災厄。水火刀兵。毒藥蠱虎狼猛獸。皆<pb n="0191b" id="T19.0949.0191b" ed="T"/><lb
+ n="0191b01" ed="T"/>悉遠離不敢視之。毘那藥迦自然怖走。永無<lb
+ n="0191b02" ed="T"/>惱害。疾證菩提。<lb
+ n="0191b03" ed="T"/>次結辨事印。<lb
+ n="0191b04" ed="T"/></ab>
+<ab type='verse'>
+止觀二羽內叉拳　　禪智雙屈入掌中　　<lb
+ n="0191b05" ed="T"/>然申忍願頭相跓　　頂上三旋成結護　　<lb
+ n="0191b06" ed="T"/>左轉三匝是辟除　　隨心所到作方隅　　<lb
+ n="0191b07" ed="T"/>破法能成一切事　　
+</ab><lb
+ n="0191b08" ed="T"/><ab type='prose'>辦事佛頂真言曰。<lb
+ n="0191b09" ed="T"/></ab>
+<ab type='dharani'>曩莫三漫多母馱南唵拏嚕唵滿馱娑<lb
+ n="0191b10" ed="T"/>嚩賀<lb
+ n="0191b11" ed="T"/></ab>
+<ab type='prose'>由結前印及誦真言。悉能辟除及結護界。是<lb
+ n="0191b12" ed="T"/>名諸佛警悟聖心。能破他法。壞滅魔羅。天龍<lb
+ n="0191b13" ed="T"/>八部。羅剎藥叉。毘那夜迦。忙怖奔走。由結此<lb
+ n="0191b14" ed="T"/>印。世出世間一切事業速能成辦。自在無礙。<lb
+ n="0191b15" ed="T"/>悉地現前。<lb
+ n="0191b16" ed="T"/>次結奉獻閼伽印。<lb
+ n="0191b17" ed="T"/>二羽仰掌捨器形。<lb
+ n="0191b18" ed="T"/></ab>
+<ab type='verse'>
+進力屈於忍願傍　　禪智曲補於進力　　<lb
+ n="0191b19" ed="T"/>捧器三旋當額上　　想浴聖眾淨如蓮　　
+</ab><lb
+ n="0191b20" ed="T"/><ab type='prose'>閼伽浴聖真言曰。<lb
+ n="0191b21" ed="T"/></ab>
+<ab type='dharani'>曩麼三滿多母馱南誐誐曩糝魔沙麼娑<lb
+ n="0191b22" ed="T"/>嚩賀<lb
+ n="0191b23" ed="T"/></ab>
+<ab type='prose'>由結此印誦真言奉獻閼伽浴聖故。表修行<lb
+ n="0191b24" ed="T"/>人無始垢業蕩除清淨。如妙蓮華。當來果獲<lb
+ n="0191b25" ed="T"/>得無染智。<lb
+ n="0191b26" ed="T"/>次結虛空普供印。<lb
+ n="0191b27" ed="T"/></ab>
+<ab type='verse'>
+二羽合掌交初分　　右押左縛如金剛　　<lb
+ n="0191b28" ed="T"/>想成真實微妙供　　無量雲海奉聖眾　　<lb
+ n="0191b29" ed="T"/>供養一切諸如來　　後說四句妙伽他　　<pb n="0191c" id="T19.0949.0191c" ed="T"/><lb
+ n="0191c01" ed="T"/>五誦真言頂上散　　
+</ab><ab type='prose'>虛空大明真言曰<lb
+ n="0191c02" ed="T"/></ab>
+<ab type='dharani'>曩莫三滿多沒馱南薩嚩他欠盟<lb
+ n="0191c03" ed="T"/>娜孽帝薩頗囉呬𤚥誐誐曩劍娑嚩<lb
+ n="0191c04" ed="T"/>賀<lb
+ n="0191c05" ed="T"/></ab>
+<ab type='prose'>由結此印誦真言故。以不思議力。從印流出<lb
+ n="0191c06" ed="T"/>一切供養。無量天眾各持天寶器。盛諸妙供<lb
+ n="0191c07" ed="T"/>養。塞滿虛空所謂塗香燒燈。飲食衣服。幢蓋<lb
+ n="0191c08" ed="T"/>瓔珞。奉獻如來誦一遍故。流出塗香。當來獲<lb
+ n="0191c09" ed="T"/>得戒品塗香。誦二遍故。流出焚香。當來獲得<lb
+ n="0191c10" ed="T"/>定芬馥。誦三遍故。流出花鬘。當來獲得離染<lb
+ n="0191c11" ed="T"/>妙蓮。誦四遍故。流出寶食。當來獲得法喜禪<lb
+ n="0191c12" ed="T"/>悅。誦五遍故。流出寶燈。當來獲得如來五眼。<lb
+ n="0191c13" ed="T"/>當得如上諸功德波羅蜜門皆具足。復以心<lb
+ n="0191c14" ed="T"/>遍法界。以誠實言誦妙伽他。而說偈言。<lb
+ n="0191c15" ed="T"/></ab>
+<ab type='verse'>
+以我功德力　　如來加持力　　<lb
+ n="0191c16" ed="T"/>及以法界力　　普供養而住　　
+</ab><lb
+ n="0191c17" ed="T"/><ab type='prose'>次以梵讚歌詠。本尊相好金身殊勝功德。<lb
+ n="0191c18" ed="T"/></ab>
+<ab type='dharani'>麼禰史膩薩嚩若誐地帶史膩拽捨枲嚩𩕳步嘌步晚禰迦滿馱三麼娑多尾<lb
+ n="0191c20" ed="T"/>儞也地跛訖羅麼哩𩕳曩謨窣覩帝怛囉哆哩左訖羅嚩底𩕳<lb
+ n="0191c22" ed="T"/></ab>
+<ab type='prose'>由讚佛三身。六根諸功德。八萬四千種。殊勝<lb
+ n="0191c23" ed="T"/>不思議。承斯歌詠因。當來獲妙果。福聚海無<lb
+ n="0191c24" ed="T"/>量。等同奇特尊。<lb
+ n="0191c25" ed="T"/>次結佛眼大明印。<lb
+ n="0191c26" ed="T"/></ab>
+<ab type='verse'>
+止觀虛合未開敷　　禪智雙屈在掌中　　<lb
+ n="0191c27" ed="T"/>進力各押忍願背　　如眼開明照一切　　<lb
+ n="0191c28" ed="T"/>安眉心額二肩喉　　起大悲愍怖畏除　　
+</ab><lb
+ n="0191c29" ed="T"/><ab type='prose'>隨誦真言頂上散。<pb n="0192a" id="T19.0949.0192a" ed="T"/><lb
+ n="0192a01" ed="T"/>佛眼大明母真言曰。<lb
+ n="0192a02" ed="T"/></ab>
+<ab type='dharani'>曩莫薩嚩怛他蘗帝毘庾囉褐<lb
+ n="0192a03" ed="T"/>毘藥三藐三沒弟毘藥唵嚕嚕窣<lb
+ n="0192a04" ed="T"/>普嚕入嚩攞底瑟姹悉馱路<lb
+ n="0192a05" ed="T"/>左𩕳薩嚩𡃤他娑馱𩕳娑嚩<lb
+ n="0192a06" ed="T"/>賀<lb
+ n="0192a07" ed="T"/></ab>
+<ab type='prose'>此名一切佛眼大明。能息可畏難調伏者。為<lb
+ n="0192a08" ed="T"/>欲成就世間出世間一切佛頂大輪王法一切<lb
+ n="0192a09" ed="T"/>事位滅諸諍論。亦是一切諸佛種族母。復是<lb
+ n="0192a10" ed="T"/>一切諸大菩薩生養母。為說頂輪真言威德<lb
+ n="0192a11" ed="T"/>奇特。諸大菩薩皆失本心。諸天龍神威力滅<lb
+ n="0192a12" ed="T"/>沒。凡誦一字佛頂明。先須誦佛眼明。念誦畢<lb
+ n="0192a13" ed="T"/>已。亦誦七遍。眾聖歡喜安樂有情。<lb
+ n="0192a14" ed="T"/>次結一字根本印。<lb
+ n="0192a15" ed="T"/></ab>
+<ab type='verse'>
+止觀密縛內叉拳　　由慼忍願如劍形　　<lb
+ n="0192a16" ed="T"/>禪智進力甲柱跓　　是名金剛佛頂印　　<lb
+ n="0192a17" ed="T"/>想身威德同本尊　　流光晃曜遍十方　　
+</ab><lb
+ n="0192a18" ed="T"/><ab type='prose'>印身五處頂上散。<lb
+ n="0192a19" ed="T"/>金輪頂王真言曰。<lb
+ n="0192a20" ed="T"/></ab>
+<ab type='dharani'>曩謨三漫多母馱南唵𤙖𭊘𡄦𤙖<lb
+ n="0192a21" ed="T"/></ab>
+<ab type='verse'>
+此是摩訶印　　所謂如來頂　　<lb
+ n="0192a22" ed="T"/>由斯結誦故　　即同於世尊　　<lb
+ n="0192a23" ed="T"/>演說頂輪明　　三千六反動　　<lb
+ n="0192a24" ed="T"/>山河皆勇沸　　大火遍魔宮　　<lb
+ n="0192a25" ed="T"/>惶怖盡歸依　　地獄眾苦息　　<lb
+ n="0192a26" ed="T"/>菩薩龍天眾　　畏仰如佛身　　
+</ab><lb
+ n="0192a27" ed="T"/><ab type='prose'>次結大慈普護印。<lb
+ n="0192a28" ed="T"/>十度相叉作月形　禪智檀惠相著　印心額<pb n="0192b" id="T19.0949.0192b" ed="T"/><lb
+ n="0192b01" ed="T"/>喉頂上散<lb
+ n="0192b02" ed="T"/>慈護真言曰。<lb
+ n="0192b03" ed="T"/></ab>
+<ab type='dharani'>唵沒馱昧怛哩嚩日囉洛乞灑憾<lb
+ n="0192b04" ed="T"/></ab>
+<ab type='verse'>
+結印誦明除怖畏　　起大悲心遍一切　　<lb
+ n="0192b05" ed="T"/>所有怨敵惡相淩　　願彼皆當大安樂　　<lb
+ n="0192b06" ed="T"/>由此三誦悲護故　　毒害之心自覺悟　　<lb
+ n="0192b07" ed="T"/>深生悔過向菩提　　歡喜敬仰前人所　　<lb
+ n="0192b08" ed="T"/>初後若常誦此明　　惶怖眾生得安慰　　<lb
+ n="0192b09" ed="T"/>護大利益殊勝事　　速滿諸願證悉地　　
+</ab><lb
+ n="0192b10" ed="T"/><ab type='prose'>次結淨珠印。<lb
+ n="0192b11" ed="T"/></ab>
+<ab type='verse'>
+盤珠於掌內　　如蓮未開形　　<lb
+ n="0192b12" ed="T"/>捧合於心上　　三七遍加持　　<lb
+ n="0192b13" ed="T"/>頂戴慇重心　　如法而供養　　
+</ab><lb
+ n="0192b14" ed="T"/><ab type='prose'>淨珠真言曰。<lb
+ n="0192b15" ed="T"/></ab>
+<ab type='dharani'>唵阿𠺶𭊘帝𠳿惹曳悉地悉馱𡃤<lb
+ n="0192b16" ed="T"/>剃娑嚩賀<lb
+ n="0192b17" ed="T"/></ab>
+<ab type='prose'>次結持數印。<lb
+ n="0192b18" ed="T"/></ab>
+<ab type='verse'>
+二羽半金剛　　禪智捻戒方　　<lb
+ n="0192b19" ed="T"/>進力忍願後　　七遍持數明　　
+</ab><lb
+ n="0192b20" ed="T"/><ab type='prose'>然後而念誦。<lb
+ n="0192b21" ed="T"/>持珠真言曰。<lb
+ n="0192b22" ed="T"/></ab>
+<ab type='dharani'>曩莫婆誐嚩帝蘇悉地娑馱也娑馱也娑馱<lb
+ n="0192b23" ed="T"/>囉剃娑嚩賀<lb
+ n="0192b24" ed="T"/></ab>
+<ab type='verse'>
+先當淨三業　　加法而念誦　　<lb
+ n="0192b25" ed="T"/>一心莫散亂　　注想於本尊　　<lb
+ n="0192b26" ed="T"/>字句分明呼　　不緩亦不急　　<lb
+ n="0192b27" ed="T"/>勿生懈怠意　　聲咳及頻申　　<lb
+ n="0192b28" ed="T"/>雜染縱惛沈　　如是諸過咎　　<lb
+ n="0192b29" ed="T"/>少分生忘緣　　皆不得成就　　<pb n="0192c" id="T19.0949.0192c" ed="T"/><lb
+ n="0192c01" ed="T"/>念誦課數畢　　持珠安舊處　　<lb
+ n="0192c02" ed="T"/>方入三昧耶　　當住本尊觀　　<lb
+ n="0192c03" ed="T"/>食頃從定出　　却結根本印　　<lb
+ n="0192c04" ed="T"/>次結佛眼明　　歌詠音讚歎　　<lb
+ n="0192c05" ed="T"/>普供閼伽已　　辟除左解散　　<lb
+ n="0192c06" ed="T"/>三部重護身　　最後慈護印　　<lb
+ n="0192c07" ed="T"/>禮悔依前儀　　讀誦大乘典　　<lb
+ n="0192c08" ed="T"/>隨意任經行　　常時莫間斷　　
+</ab><lb
+ n="0192c09" ed="T"/>
+<ab type='juan' subtype='close'>頂輪王要略一卷</ab><lb
+ n="0192c10" ed="T"/><head>奇特最勝金輪佛頂念誦儀軌法要</head><lb
+ n="0192c11" ed="T"/><ab type='prose'>若不能誦向前大佛眼真言誦此心真言亦得<lb
+ n="0192c12" ed="T"/>佛眼小呪也。<lb
+ n="0192c13" ed="T"/></ab>
+<ab type='dharani'>曩莫三滿多沒馱引喃引􇩂唵􈎭沒􇧺馱引􄙒路􄑼左􄖯𩕳引􅁥娑嚩二合引<lb
+ n="0192c14" ed="T"/><lb
+ n="0192c15" ed="T"/>􄚩賀<lb
+ n="0192c16" ed="T"/><lb
+ n="0192c17" ed="T"/></ab><div type='w' level='3'><ab type='prose'>教舜􈃮<lb
+ n="0192c18" ed="T"/>二交了</ab></div><lb
+ n="0192c19" ed="T"/><head>水壇法</head><lb
+ n="0192c20" ed="T"/><ab type='prose'>取新淨牛糞。不食糟豆特。犢子糞最第一。不<lb
+ n="0192c21" ed="T"/>得直用其生牛糞。取新瓦鑵以汲淨水。不用<lb
+ n="0192c22" ed="T"/>殘水。寫淨𭂭中。以糞和水。攪去其滓。著檀香<lb
+ n="0192c23" ed="T"/>末。取一柳枝。以右手執。左手執金剛杵及其<lb
+ n="0192c24" ed="T"/>數珠。東坐誦佛頂心呪。柳枝攪水。呪一百八<lb
+ n="0192c25" ed="T"/>遍。持呪水器。入道場中。從東北角捕其香水。<lb
+ n="0192c26" ed="T"/>以右手摩地。隨日轉摩。隨摩隨乾。勿令停水。<lb
+ n="0192c27" ed="T"/>道場內地一編摩訖。乃至道場水四邊摩。各<lb
+ n="0192c28" ed="T"/>一步地四角竪標結繩為界。此則名為佛頂<lb
+ n="0192c29" ed="T"/>三昧陀羅尼結界之地。如一編摩。第二第三<lb
+ n="0192c30" ed="T"/>亦如是摩。摩地不得用殘香水。日日別取新<pb n="0193a" id="T19.0949.0193a" ed="T"/><lb
+ n="0193a01" ed="T"/>淨牛糞。准前作用。作此水者。則名佛頂三昧<lb
+ n="0193a02" ed="T"/>陀羅尼八功德水壇地乾竟。<lb
+ n="0193a03" ed="T"/></ab><div type='w' level='3'><ab type='prose'>　　　　　　　　　　　　　二校了</ab></div></div></div>
+</body></text></TEI>

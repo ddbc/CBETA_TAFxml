@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">一字頂輪王念誦儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0954B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0310c14" ed="T"/><lb
+ n="0310c15" ed="T"/><lb
+ n="0310c16" ed="T"/><div type='jing' level='1'><lb
+ n="0310c17" ed="T"/>
+<ab type='juan' subtype='open'>一字頂輪王念誦儀軌</ab><lb
+ n="0310c18" ed="T"/><lb
+ n="0310c19" ed="T"/><ab type='prose'>我今說無比力超勝世間出世間真言上上。<lb
+ n="0310c20" ed="T"/>一切佛頂王佛頂輪王念誦儀則。行者先當<pb n="0311a" id="T19.0954B.0311a" ed="T"/><lb
+ n="0311a01" ed="T"/>清淨。於淨處安本尊像。面西稽首禮。受三歸<lb
+ n="0311a02" ed="T"/>捨身說罪受戒。發菩提心隨喜勸請發願廻<lb
+ n="0311a03" ed="T"/>向已。應結佛部三昧耶印。四頂互內交。二輪<lb
+ n="0311a04" ed="T"/>並合竪。前附於蓋。是名一切如來心印真言<lb
+ n="0311a05" ed="T"/>曰。<lb
+ n="0311a06" ed="T"/></ab>
+<ab type='dharani'>唵邇那匿<lb
+ n="0311a07" ed="T"/></ab>
+<ab type='prose'>次結蓮華三昧耶印。即前印。左輪屈入掌<lb
+ n="0311a08" ed="T"/>中。右輪如前竪。是名蓮華部心印真言曰。<lb
+ n="0311a09" ed="T"/></ab>
+<ab type='dharani'>唵阿嚕力<lb
+ n="0311a10" ed="T"/></ab>
+<ab type='prose'>次結金剛部三昧耶印。即前蓮華部心印。右<lb
+ n="0311a11" ed="T"/>輪屈入掌中。左輪依前竪。是名金剛部心印<lb
+ n="0311a12" ed="T"/>真言曰。<lb
+ n="0311a13" ed="T"/></ab>
+<ab type='dharani'>唵嚩日囉地力<lb
+ n="0311a14" ed="T"/></ab>
+<ab type='prose'>次結甲冑印准根本印。屈二蓋拄二光。背印<lb
+ n="0311a15" ed="T"/>額右肩左肩心喉五處。真言曰。<lb
+ n="0311a16" ed="T"/></ab>
+<ab type='dharani'>唵斫羯囉靺㗚底鉢囉賒弭多<lb
+ n="0311a17" ed="T"/>囉捺囉囉捺囉婆娑摩車盧<lb
+ n="0311a18" ed="T"/>瑟尼沙囉乞沙囉乞沙𤚥吽<lb
+ n="0311a19" ed="T"/>癹娑嚩訶<lb
+ n="0311a20" ed="T"/></ab>
+<ab type='prose'>次結佛眼印。二手合掌。屈二蓋各拄光背。二<lb
+ n="0311a21" ed="T"/>輪屈入掌。印五處真言曰。<lb
+ n="0311a22" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南唵嚕嚕薩怖<lb
+ n="0311a23" ed="T"/>嚕入嚩攞底瑟姹悉馱盧者寧薩<lb
+ n="0311a24" ed="T"/>嚩喇他娑達尼娑嚩訶<lb
+ n="0311a25" ed="T"/></ab>
+<ab type='prose'>次結大海印。二手內相叉。仰掌擘開二輪。右<lb
+ n="0311a26" ed="T"/>旋三匝想大海真言曰。<lb
+ n="0311a27" ed="T"/></ab>
+<ab type='dharani'>唵微摩盧娜地娑嚩訶<lb
+ n="0311a28" ed="T"/></ab>
+<ab type='prose'>次於大海中想須彌盧山。四寶所成。二手內<lb
+ n="0311a29" ed="T"/>相叉急握豎拳真言曰。<pb n="0311b" id="T19.0954B.0311b" ed="T"/><lb
+ n="0311b01" ed="T"/></ab>
+<ab type='dharani'>唵阿者攞吽<lb
+ n="0311b02" ed="T"/></ab>
+<ab type='prose'>次於須彌盧山上想寶樓閣。加持寶樓閣印。<lb
+ n="0311b03" ed="T"/>印二手金剛掌真言曰。<lb
+ n="0311b04" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南唵薩嚩他欠鄔娜<lb
+ n="0311b05" ed="T"/>哦帝薩頗囉呬𤚥哦哦那檢娑嚩<lb
+ n="0311b06" ed="T"/>訶<lb
+ n="0311b07" ed="T"/></ab>
+<ab type='prose'>次結佛頂輪王印。二掌內相叉作拳。竪二光<lb
+ n="0311b08" ed="T"/>屈上節如劍。並竪二輪屈二蓋兩節。相拄於<lb
+ n="0311b09" ed="T"/>二輪上。印五處加護真言曰。<lb
+ n="0311b10" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南步嚕唵<lb
+ n="0311b11" ed="T"/></ab>
+<ab type='prose'>次結網橛印。准前根本印。屈二蓋上節。背不<lb
+ n="0311b12" ed="T"/>相著。以二輪各壓。上下揮轉。即成結上下界<lb
+ n="0311b13" ed="T"/>真言曰。<lb
+ n="0311b14" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0311b15" ed="T"/>娑娜南唵微枳囉拏微特防娑尼<lb
+ n="0311b16" ed="T"/>迦比羅貳縛里尼怛囉娑耶嚩日囉吠賒薩帝呶囉特縛能瑟吒囉<lb
+ n="0311b18" ed="T"/>囉乞沙𤚥癹<lb
+ n="0311b19" ed="T"/></ab>
+<ab type='prose'>次結牆印。准前根本印。屈二蓋兩節相逼。平<lb
+ n="0311b20" ed="T"/>竪二輪附二蓋。右旋三匝即成。金剛牆界真<lb
+ n="0311b21" ed="T"/>言曰。<lb
+ n="0311b22" ed="T"/></ab>
+<ab type='dharani'>噁莫壑<lb
+ n="0311b23" ed="T"/></ab>
+<ab type='prose'>次結車輅印。二手內相叉。仰掌申二蓋。令甲<lb
+ n="0311b24" ed="T"/>側相拄。屈二輪拄蓋根下。想於他方世界奉<lb
+ n="0311b25" ed="T"/>迎本尊。真言曰。<lb
+ n="0311b26" ed="T"/></ab>
+<ab type='dharani'>唵覩嚕覩嚕吽<lb
+ n="0311b27" ed="T"/></ab>
+<ab type='prose'>次結迎輅印。准車輅印。以二輪撥光頭。向身<lb
+ n="0311b28" ed="T"/>三招。真言曰。<lb
+ n="0311b29" ed="T"/></ab>
+<ab type='dharani'>發遣除羯哩灑耶加尾薩哩惹耶<pb n="0311c" id="T19.0954B.0311c" ed="T"/><lb
+ n="0311c01" ed="T"/>娜謨薩底哩野地尾迦南怛他孽<lb
+ n="0311c02" ed="T"/>哆南唵嚩日啷儗儞也羯<lb
+ n="0311c03" ed="T"/>哩灑耶娑嚩訶<lb
+ n="0311c04" ed="T"/></ab>
+<ab type='prose'>次結迎請印。准前根本印。屈右蓋於光後。向<lb
+ n="0311c05" ed="T"/>前三招。真言曰。<lb
+ n="0311c06" ed="T"/></ab>
+<ab type='dharani'>娜謨婆誐嚩帝阿鉢囉底呵覩瑟尼<lb
+ n="0311c07" ed="T"/>沙耶翳呬翳娑誐刎達麼囉惹鉢<lb
+ n="0311c08" ed="T"/>囉底車南遏鉗巘談補瑟貶度<lb
+ n="0311c09" ed="T"/>貶末隣儞半者滿遮避洛乞叉阿鉢<lb
+ n="0311c10" ed="T"/>囉底呵多麼囉鉢囉羯囉麼耶娑<lb
+ n="0311c11" ed="T"/>嚩訶<lb
+ n="0311c12" ed="T"/></ab>
+<ab type='prose'>次結一切辨事佛頂印。二手內相叉。竪二光<lb
+ n="0311c13" ed="T"/>如幢。諸供養物及浴水洗淨土等。並用此真<lb
+ n="0311c14" ed="T"/>言。加持辟除去垢結界皆用此真言。左旋辟<lb
+ n="0311c15" ed="T"/>除右旋結界真言曰。<lb
+ n="0311c16" ed="T"/></ab>
+<ab type='dharani'>娜謨三滿多勃馱南唵吒嚕嚕滿<lb
+ n="0311c17" ed="T"/>馱娑嚩訶<lb
+ n="0311c18" ed="T"/></ab>
+<ab type='prose'>次重結前網橛印。結上方界。<lb
+ n="0311c19" ed="T"/>次結阿娑莽倪尼印。側二手。左掩右。堅<lb
+ n="0311c20" ed="T"/>二輪右轉一匝。即成密縫真言曰。<lb
+ n="0311c21" ed="T"/></ab>
+<ab type='dharani'>唵阿娑莽倪尼吽癹<lb
+ n="0311c22" ed="T"/></ab>
+<ab type='prose'>次結獻閼伽印。准前根本印。屈二蓋相拄。附<lb
+ n="0311c23" ed="T"/>二光。竪二輪各附蓋根側真言曰。<lb
+ n="0311c24" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南唵閼伽囉訶閼<lb
+ n="0311c25" ed="T"/>伽必哩野鉢囉底車娜末鉗娑<lb
+ n="0311c26" ed="T"/>嚩訶<lb
+ n="0311c27" ed="T"/></ab>
+<ab type='prose'>次重結根本印。<lb
+ n="0311c28" ed="T"/>次結獻師子座印。准前根本印。屈二蓋於二<lb
+ n="0311c29" ed="T"/>輪甲側。真言曰。<pb n="0312a" id="T19.0954B.0312a" ed="T"/><lb
+ n="0312a01" ed="T"/></ab>
+<ab type='dharani'>唵阿者囉尾囉耶娑嚩訶<lb
+ n="0312a02" ed="T"/></ab>
+<ab type='prose'>次結塗香印。准前根本印。屈右蓋。倚於右光<lb
+ n="0312a03" ed="T"/>下節真言曰。<lb
+ n="0312a04" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南唵怛嚟盧枳<lb
+ n="0312a05" ed="T"/>也獻馱孽帝吽吽癹癹娑嚩訶<lb
+ n="0312a06" ed="T"/></ab>
+<ab type='prose'>次結獻華印。准前塗香印。改左蓋。倚右光<lb
+ n="0312a07" ed="T"/>下節真言曰。<lb
+ n="0312a08" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南唵薩嚩盧迦補瑟<lb
+ n="0312a09" ed="T"/>波步哆耶吽吽癹癹娑嚩訶<lb
+ n="0312a10" ed="T"/></ab>
+<ab type='prose'>次結燒香印。准前根本印。屈二蓋。各倚於光<lb
+ n="0312a11" ed="T"/>下節真言曰。<lb
+ n="0312a12" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南唵尾囉孽哆微哦<lb
+ n="0312a13" ed="T"/>哆度麼耶吽吽癹癹娑嚩訶<lb
+ n="0312a14" ed="T"/></ab>
+<ab type='prose'>次結獻食印。准前根本印。屈二蓋上節。各附<lb
+ n="0312a15" ed="T"/>於輪側真言曰。<lb
+ n="0312a16" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南唵薩嚩盧迦麼里<lb
+ n="0312a17" ed="T"/>必哩夜耶吽吽癹癹娑嚩訶<lb
+ n="0312a18" ed="T"/></ab>
+<ab type='prose'>次結獻燈明印。准前根本印。屈二蓋兩節令<lb
+ n="0312a19" ed="T"/>不相著二輪各附於蓋上真言曰。<lb
+ n="0312a20" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南唵薩嚩盧迦珊捺<lb
+ n="0312a21" ed="T"/>囉捨娜耶吽吽癹癹娑嚩訶<lb
+ n="0312a22" ed="T"/></ab>
+<ab type='prose'>次結普供養加持印。二手虛心合掌。五頂各<lb
+ n="0312a23" ed="T"/>兩節相交真言曰。<lb
+ n="0312a24" ed="T"/></ab>
+<ab type='dharani'>娜謨薩嚩勃馱冒地薩怛嚩南唵<lb
+ n="0312a25" ed="T"/>薩嚩怛囉僧俱蘇弭多避吉惹囉始那<lb
+ n="0312a26" ed="T"/>慕薩低娑嚩訶<lb
+ n="0312a27" ed="T"/></ab>
+<ab type='prose'>次結遍照佛頂印。二手內相叉合為拳。令二<lb
+ n="0312a28" ed="T"/>光節微起真言曰。<lb
+ n="0312a29" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南噁莫含<pb n="0312b" id="T19.0954B.0312b" ed="T"/><lb
+ n="0312b01" ed="T"/></ab>
+<ab type='prose'>次結白傘蓋佛頂印。二輪各捻二高甲上。側<lb
+ n="0312b02" ed="T"/>相合。二蓋屈如蓋形。二光微屈相合。二勝各<lb
+ n="0312b03" ed="T"/>竪相合真言曰。<lb
+ n="0312b04" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312b05" ed="T"/>娑娜南唵麼麼麼吽匿<lb
+ n="0312b06" ed="T"/></ab>
+<ab type='prose'>次結光聚佛頂印。准前白傘蓋印。坼開二蓋<lb
+ n="0312b07" ed="T"/>真言曰。<lb
+ n="0312b08" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312b09" ed="T"/>娑娜南唵怛他蘖都瑟尼沙阿娜<lb
+ n="0312b10" ed="T"/>嚩盧枳多慕㗚馱帝儒囉始吽入嚩<lb
+ n="0312b11" ed="T"/>攞入嚩攞馱迦馱迦娜囉微娜囉瞋<lb
+ n="0312b12" ed="T"/>那牝那吽吽癹癹娑嚩訶<lb
+ n="0312b13" ed="T"/></ab>
+<ab type='prose'>次結高佛頂印。准前白傘蓋印。屈二蓋拄二<lb
+ n="0312b14" ed="T"/>光中節背真言曰。<lb
+ n="0312b15" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312b16" ed="T"/>娑娜南唵儞𭅤儞卑渝娜哦都瑟尼<lb
+ n="0312b17" ed="T"/>沙吽吽癹癹娑嚩訶<lb
+ n="0312b18" ed="T"/></ab>
+<ab type='prose'>次結勝佛頂印。准高佛頂印。移二蓋向上。兩<lb
+ n="0312b19" ed="T"/>穬麥許真言曰。<lb
+ n="0312b20" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312b21" ed="T"/>娑娜南唵入嚩羅惹踰瑟尼沙<lb
+ n="0312b22" ed="T"/>吽癹娑嚩訶<lb
+ n="0312b23" ed="T"/></ab>
+<ab type='prose'>次結摧毀佛頂印。二手內相叉作拳。竪二<lb
+ n="0312b24" ed="T"/>光屈上節。右光拄左光面。令出半節許真言<lb
+ n="0312b25" ed="T"/>曰。<lb
+ n="0312b26" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312b27" ed="T"/>娑娜南唵尾枳囉那度那度那犢<lb
+ n="0312b28" ed="T"/></ab>
+<ab type='prose'>次結摧碎佛頂印。並准前。改左光拄右光面。<lb
+ n="0312b29" ed="T"/>亦出半節許。真言曰。<pb n="0312c" id="T19.0954B.0312c" ed="T"/><lb
+ n="0312c01" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312c02" ed="T"/>娑娜南唵阿鉢囉底呵都瑟尼<lb
+ n="0312c03" ed="T"/>沙耶薩嚩尾伽那尾持望娑那迦<lb
+ n="0312c04" ed="T"/>囉耶怛嚧吒耶娑嚩訶<lb
+ n="0312c05" ed="T"/></ab>
+<ab type='prose'>次結輪王佛頂心印。准前根本印。屈二蓋拄<lb
+ n="0312c06" ed="T"/>二光上節節上真言曰。<lb
+ n="0312c07" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312c08" ed="T"/>娑娜南唵怛他薩那瑟尼沙那嚩<lb
+ n="0312c09" ed="T"/>盧枳多沒馱尼斫羯囉靺㗚底吽入<lb
+ n="0312c10" ed="T"/>嚩羅入嚩羅馱迦馱迦度那微度<lb
+ n="0312c11" ed="T"/>那怛囉娑耶麼囉逾瑳囉耶呵那呵那<lb
+ n="0312c12" ed="T"/>伴惹伴惹暗音𡳯鉢嚨企尼君<lb
+ n="0312c13" ed="T"/>吒哩尼阿鉢囉爾多薩怛囉馱哩尼吽<lb
+ n="0312c14" ed="T"/>癹娑嚩訶<lb
+ n="0312c15" ed="T"/></ab>
+<ab type='prose'>次結心中印。准前根本印。屈二蓋加於二光<lb
+ n="0312c16" ed="T"/>上節上真言曰。<lb
+ n="0312c17" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312c18" ed="T"/>娑娜南唵阿鉢囉爾多特<lb
+ n="0312c19" ed="T"/></ab>
+<ab type='prose'>普通諸佛頂印。二手虛心金剛合掌。如華在<lb
+ n="0312c20" ed="T"/>掌中。行者若怱遽不能遍結諸佛頂印。但結<lb
+ n="0312c21" ed="T"/>此印誦諸佛頂真言。次結頂印。准前根本印。<lb
+ n="0312c22" ed="T"/>屈右蓋竪。於右光後。令不相著真言曰。<lb
+ n="0312c23" ed="T"/></ab>
+<ab type='dharani'>娜謨三漫多勃馱南阿鉢囉底呵多舍<lb
+ n="0312c24" ed="T"/>娑娜南唵斫羯囉靺㗚底唵吽<lb
+ n="0312c25" ed="T"/></ab>
+<ab type='prose'>次結頭印。准前根本印。開二蓋各直竪於光<lb
+ n="0312c26" ed="T"/>後。令不相著微屈真言曰。<lb
+ n="0312c27" ed="T"/></ab>
+<ab type='dharani'>唵斫羯囉靺㗚底吽癹娑嚩訶<lb
+ n="0312c28" ed="T"/><lb
+ n="0312c29" ed="T"/></ab>
+<ab type='prose'>次又結根本印。<pb n="0313a" id="T19.0954B.0313a" ed="T"/><lb
+ n="0313a01" ed="T"/>次結大三昧耶印。加護本尊。二手內相叉。竪<lb
+ n="0313a02" ed="T"/>二光。屈二蓋於光後如鉤。相去一穬麥許。二<lb
+ n="0313a03" ed="T"/>輪各附蓋根下。右旋三匝真言曰。<lb
+ n="0313a04" ed="T"/></ab>
+<ab type='dharani'>唵商羯哩摩訶三昧鹽娑嚩訶<lb
+ n="0313a05" ed="T"/></ab>
+<ab type='prose'>次誦一百八名讚歎。<lb
+ n="0313a06" ed="T"/>欲念誦。先以五支成本尊。或五相成本尊瑜<lb
+ n="0313a07" ed="T"/>伽。或於處處想一字頂輪。成本尊坐八<lb
+ n="0313a08" ed="T"/>葉蓮華。於一一葉上想七寶。准前蓮華葉<lb
+ n="0313a09" ed="T"/>上想佛眼尊。次應持珠。<lb
+ n="0313a10" ed="T"/>次持珠合掌。捧珠誦清珠真言七遍真言曰。<lb
+ n="0313a11" ed="T"/></ab>
+<ab type='dharani'>唵阿娜步低尾惹曳悉地悉馱囉<lb
+ n="0313a12" ed="T"/>梯娑嚩訶<lb
+ n="0313a13" ed="T"/></ab>
+<ab type='prose'>次結持珠印。二手各以輪捻高甲。直竪二光<lb
+ n="0313a14" ed="T"/>二勝。屈二蓋於光後。令不相著<lb
+ n="0313a15" ed="T"/>真言曰。<lb
+ n="0313a16" ed="T"/></ab>
+<ab type='dharani'>娜謨婆誐嚩底蘇悉第娑馱耶悉馱囉梯<lb
+ n="0313a17" ed="T"/>娑嚩訶<lb
+ n="0313a18" ed="T"/></ab>
+<ab type='verse'>
+次應淨其心　　如法而念誦　　<lb
+ n="0313a19" ed="T"/>持珠令當心　　繫心於鼻端　　<lb
+ n="0313a20" ed="T"/>字句分明呼　　不緩亦不急　　<lb
+ n="0313a21" ed="T"/>不頻伸噦嗌　　咳嗽與唾涕　　<lb
+ n="0313a22" ed="T"/>染等心相應　　及心緣苦受　　<lb
+ n="0313a23" ed="T"/>如是等過患　　皆不得成就　　
+</ab><lb
+ n="0313a24" ed="T"/><ab type='prose'>當念誦時。身心不得疲怠。若勞倦即應結五<lb
+ n="0313a25" ed="T"/>供養印。誦讚歎獻閼伽。念誦畢持珠頂上。次<lb
+ n="0313a26" ed="T"/>結前密縫印。左轉一匝即成解界。<lb
+ n="0313a27" ed="T"/>次結奉送印。准前根本印。左蓋外擲。誦迎請<lb
+ n="0313a28" ed="T"/>真言。除翳呬翳呬。加孽車孽車句。即成奉送。<lb
+ n="0313a29" ed="T"/>次應復結牆及網橛等印。加護處上下及所<pb n="0313b" id="T19.0954B.0313b" ed="T"/><lb
+ n="0313b01" ed="T"/>成就物。次結計里枳里印。左輪壓勝甲上。餘<lb
+ n="0313b02" ed="T"/>三指頂坼開直竪。如三股杵形。右旋轉三匝<lb
+ n="0313b03" ed="T"/>成結界真言曰。<lb
+ n="0313b04" ed="T"/></ab>
+<ab type='dharani'>唵枳里枳里嚩日囉吽癹<lb
+ n="0313b05" ed="T"/></ab>
+<ab type='prose'>次結軍吒利印。二勝於掌中交。屈二高壓。<lb
+ n="0313b06" ed="T"/>以二輪壓高上。竪二光相合。屈二蓋於光<lb
+ n="0313b07" ed="T"/>後。令一麥許不相著。右旋三匝即成結界真<lb
+ n="0313b08" ed="T"/>言曰。<lb
+ n="0313b09" ed="T"/></ab>
+<ab type='dharani'>娜謨囉怛那怛囉夜耶娜謨室戰拏嚩日囉波拏曳摩訶藥乞叉細<lb
+ n="0313b11" ed="T"/>那波多曳娜謨室戰拏嚩日囉句<lb
+ n="0313b12" ed="T"/>𡀔馱耶唵虎嚕虎嚕底瑟姹底瑟<lb
+ n="0313b13" ed="T"/>姹滿馱滿馱呵那呵那阿蜜哩帝<lb
+ n="0313b14" ed="T"/>吽癹娑嚩訶<lb
+ n="0313b15" ed="T"/></ab>
+<ab type='prose'>從一字真言。至於十五字。每計於字數。一字<lb
+ n="0313b16" ed="T"/>一洛叉。乃至三十字。應誦三十洛叉。應作<lb
+ n="0313b17" ed="T"/>先事法。三十字已上。應誦一萬遍。<lb
+ n="0313b18" ed="T"/>
+</ab><ab type='juan' subtype='close'>一字頂輪王念誦儀軌</ab></div>
+</body></text></TEI>

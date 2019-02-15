@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">迴向文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2848</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="1299a" id="T85.2848.1299a" ed="T"/><lb
+ n="1299a01" ed="T"/><lb
+ n="1299a02" ed="T"/><lb
+ n="1299a03" ed="T"/>
+<ab type='juan' subtype='open'>𢌞向文</ab><lb
+ n="1299a04" ed="T"/><lb
+ n="1299a05" ed="T"/><ab type='prose'>復持勝善次用莊嚴。當今大唐聖主。伏願聖<lb
+ n="1299a06" ed="T"/>壽剋昌皇□□□金輪與沈輪齊轉。舜日與<lb
+ n="1299a07" ed="T"/>佛日□□高視百王長新萬劫　皇大子潛星。<lb
+ n="1299a08" ed="T"/>少海澄闌。盤石增高。惟城作鎮。<lb
+ n="1299a09" ed="T"/>故持勝善次用莊嚴。今六和尚伏願長承帝<lb
+ n="1299a10" ed="T"/>澤。為灌頂之國師。永鎮台階。贊明王之<lb
+ n="1299a11" ed="T"/>治化。<lb
+ n="1299a12" ed="T"/>次持勝善次用莊嚴　都僧統和尚。伏願智<lb
+ n="1299a13" ed="T"/>山峯崇聳。德海洪深。命等松筠。福慶遐遠。即<lb
+ n="1299a14" ed="T"/>使長承國寵。永扇慈風。嘉聲溢於□中。雅範<lb
+ n="1299a15" ed="T"/>流於像季。<lb
+ n="1299a16" ed="T"/>次持勝善次用莊嚴　尚書貴體。伏願福山<lb
+ n="1299a17" ed="T"/>永固。神壽無疆。功業高於雲山。德量深於<lb
+ n="1299a18" ed="T"/>巨海。出持旌節以靜萬方。入坐朝堂百寮取<lb
+ n="1299a19" ed="T"/>則。來逢元日恒保□春。命等松筠壽同劫石。<lb
+ n="1299a20" ed="T"/>又持勝福次用莊嚴　大夫伏願形同大地歷<lb
+ n="1299a21" ed="T"/>千載。所恒安福比山河。跨萬齡而永固。然後<lb
+ n="1299a22" ed="T"/>振芳聲於帝里。翔翼雲衢流雅譽。於鸞池濯<lb
+ n="1299a23" ed="T"/>鱗漢水。<lb
+ n="1299a24" ed="T"/>又持勝善次用莊嚴　安姚二侍御。伏願聳<lb
+ n="1299a25" ed="T"/>瓊臺於天外。飛紫蓋於雲衢。命與天長福將<lb
+ n="1299a26" ed="T"/>地遠。保離區□動止獲安。嚮震八方往還清<lb
+ n="1299a27" ed="T"/>吉。<lb
+ n="1299a28" ed="T"/>次持勝善次用莊嚴　尚書姟子紹千秋之<lb
+ n="1299a29" ed="T"/>寵。恒居萬代之榮。忠孝雙全。朱門繼襲。<pb n="1299b" id="T85.2848.1299b" ed="T"/><lb
+ n="1299b01" ed="T"/>次持勝善次用莊嚴　釋門教授等。伏願榮<lb
+ n="1299b02" ed="T"/>貴轉新香名霞布。入信帝坐出統僧拳。群生<lb
+ n="1299b03" ed="T"/>因類次昇高。苦海恒施於寶筏。<lb
+ n="1299b04" ed="T"/>次持勝善次用莊嚴　釋門法律等。惟願色<lb
+ n="1299b05" ed="T"/>力增固。壽命霞延。常為苦海之津梁。鎮作法<lb
+ n="1299b06" ed="T"/>門之牆壍。<lb
+ n="1299b07" ed="T"/>次持勝福次用莊嚴　都督公等。壽遐遠日<lb
+ n="1299b08" ed="T"/>往月來。福慶相暉。天長地久。<lb
+ n="1299b09" ed="T"/>次持勝福次用莊嚴　都部落使等。惟願福<lb
+ n="1299b10" ed="T"/>祿唯承歡誤。日新榮名𠟋昌。美譽霞備城隍<lb
+ n="1299b11" ed="T"/>尞彩。盡亦盡忠。部落官尞。為唯清唯直。<lb
+ n="1299b12" ed="T"/>次持勝福次用莊嚴　尊宿大德等。長垂像<lb
+ n="1299b13" ed="T"/>訓匡護法城。永耀慈燈紀綱梵宇。<lb
+ n="1299b14" ed="T"/>次持勝善次用莊嚴　諸法將大德等。唯願<lb
+ n="1299b15" ed="T"/>智山岌立德水澄清。禪枝茂而覺花敫。戒香<lb
+ n="1299b16" ed="T"/>熏而惠珠朗。<lb
+ n="1299b17" ed="T"/>次持勝福次用莊嚴　諸尼大德等。唯願四<lb
+ n="1299b18" ed="T"/>依恒滿六度專精。意樹恒春心燈永耀。八功<lb
+ n="1299b19" ed="T"/>德水去垢除災。七淨妙花莊嚴法體。<lb
+ n="1299b20" ed="T"/>次持勝福次用莊嚴　卿官父杖等。惟願壽<lb
+ n="1299b21" ed="T"/>同松柏福比江湖。萬歲千秋莫風莫變。<lb
+ n="1299b22" ed="T"/>次持勝福次用莊嚴　諸父杖等。唯願一聞<lb
+ n="1299b23" ed="T"/>千悟得大總持。罪垢不日而消除。功德善芽<lb
+ n="1299b24" ed="T"/>而增長。亦願春秋納慶寒暑順宜。保富貴於<lb
+ n="1299b25" ed="T"/>千齡。演休祥於累劫。<lb
+ n="1299b26" ed="T"/>次持勝福次用莊嚴　李和尚等。但某乙久<lb
+ n="1299b27" ed="T"/>蒙示訓。虛接鼎堂。恨生前不盡指揮。沒後慚<lb
+ n="1299b28" ed="T"/>昇法座。以此思忖倍益□□開讚之物奉申<lb
+ n="1299b29" ed="T"/>迴向。一唯願神遊奈苑欽覺□以尋真。夕慇<pb n="1299c" id="T85.2848.1299c" ed="T"/><lb
+ n="1299c01" ed="T"/>花臺染戒香而奉聖金輪展轉。常馳歡喜之<lb
+ n="1299c02" ed="T"/>園室茂斯遊。逈汎□功德水。<lb
+ n="1299c03" ed="T"/>次持勝福次莊嚴　某乙過□父母所生魂<lb
+ n="1299c04" ed="T"/>路。伏願足步金□神遊□界。過慈舟於定水<lb
+ n="1299c05" ed="T"/>永竭昏河。揮惠劍於相材長被受□。□於親<lb
+ n="1299c06" ed="T"/>族成□□潔遠□枝羅俱霑潤益。</ab></div>
+</body></text></TEI>

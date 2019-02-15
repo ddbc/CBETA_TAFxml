@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說鉢蘭那賒嚩哩大陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1384</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0904c" id="T21.1384.0904c" ed="T"/><lb
+ n="0904c01" ed="T"/><lb
+ n="0904c02" ed="T"/><div type='jing' level='1'><lb
+ n="0904c03" ed="T"/>
+<ab type='juan' subtype='open'>佛說鉢蘭那賖嚩哩大陀羅<lb
+ n="0904c04" ed="T"/>尼經</ab><lb
+ n="0904c05" ed="T"/><lb
+ n="0904c06" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0904c07" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0904c08" ed="T"/><ab type='prose'>爾時世尊告阿難言。我觀世間無量眾生。多<lb
+ n="0904c09" ed="T"/>造罪業墮於惡趣。經無量時方得出離。縱生<lb
+ n="0904c10" ed="T"/>為人身肢不具。設得完具薄福少慧。常為惡<lb
+ n="0904c11" ed="T"/>魔及惡鬼神。於晝夜中伺得其便種種惱害<lb
+ n="0904c12" ed="T"/>不得安隱。我愍斯等與說鉢蘭那賒嚩哩大<lb
+ n="0904c13" ed="T"/>陀羅尼。辟除惡魔及惡鬼神。若有眾生得聞<lb
+ n="0904c14" ed="T"/>此陀羅尼。發至誠心受持讀誦供養恭敬。令<lb
+ n="0904c15" ed="T"/>彼惡魔及惡鬼神悉皆遠離。災害消除無諸<lb
+ n="0904c16" ed="T"/>疾疫。所住之處安隱快樂。爾時世尊即說陀<lb
+ n="0904c17" ed="T"/>羅尼曰。<lb
+ n="0904c18" ed="T"/></ab>
+<ab type='dharani'>那謨囉怛那怛囉夜野那莫阿<lb
+ n="0904c19" ed="T"/>哩也阿彌多婆野怛他誐多<lb
+ n="0904c20" ed="T"/>野阿囉曷帝三藐訖三沒馱野<lb
+ n="0904c21" ed="T"/>那謨阿哩也嚩路吉帝說囉野<lb
+ n="0904c22" ed="T"/>冒提薩埵野摩賀薩埵野摩賀<lb
+ n="0904c23" ed="T"/>哥嚕尼哥野那謨摩賀娑他摩<lb
+ n="0904c24" ed="T"/>鉢囉鉢多鉢多野冒提薩埵<lb
+ n="0904c25" ed="T"/>野摩賀薩埵野嚩摩泥埵那<lb
+ n="0904c26" ed="T"/>莫瀉彌怛網那摩瀉彌嚩摩泥<lb
+ n="0904c27" ed="T"/>必舍唧鉢蘭那舍嚩哩鉢蘭那<lb
+ n="0904c28" ed="T"/>舍嚩哩婆誐嚩底播舍鉢囉輸馱<lb
+ n="0904c29" ed="T"/>哩尼夜儞哥儞左訥婆夜儞<pb n="0905a" id="T21.1384.0905a" ed="T"/><lb
+ n="0905a01" ed="T"/>踰咄鉢殿帝夜哥唧禰怛踰夜哥唧咄摩踰曳計唧訥鉢<lb
+ n="0905a03" ed="T"/>捺囉嚩曳計唧訥播夜娑<lb
+ n="0905a04" ed="T"/>曳計唧捺毘𠆙婆夜曳計唧<lb
+ n="0905a05" ed="T"/>訥波娑哩誐烏波娑哩誐三嚩<lb
+ n="0905a06" ed="T"/>馱嚩烏咄鉢殿帝薩哩嚩<lb
+ n="0905a07" ed="T"/>尼多儞薩哩嚩娑多薩哩微<lb
+ n="0905a08" ed="T"/>帝嚩羅多伊舞咄鉢殿<lb
+ n="0905a09" ed="T"/>帝那半尼多怛捺泥那薩帝那薩爹嚩計那伊毘半尼多提瑟<lb
+ n="0905a11" ed="T"/>吒乃摩賀滿怛囉鉢柰惹惹惹惹摩摩薩波哩嚩囉寫犖<lb
+ n="0905a13" ed="T"/>羼酤嚕玉鉢鼎波哩播羅曩扇<lb
+ n="0905a14" ed="T"/>鼎莎悉爹野曩酤嚕怛𭔞他唵<lb
+ n="0905a15" ed="T"/>阿蜜哩帝末說娑當倪摩<lb
+ n="0905a16" ed="T"/>末囉摩末囉設末鉢囉設末烏<lb
+ n="0905a17" ed="T"/>波設末咄努尾咄努咄隷咄母隷<lb
+ n="0905a18" ed="T"/>娑嚩賀唵鉢蘭那舍嚩哩娑嚩<lb
+ n="0905a19" ed="T"/>賀那莫設嚩囉𧹞摩賀舍嚩<lb
+ n="0905a20" ed="T"/>囉𧹞必舍唧鉢蘭那舍嚩哩<lb
+ n="0905a21" ed="T"/>必舍唧遏設泥末設泥娑嚩賀<lb
+ n="0905a22" ed="T"/>唵必舍唧娑嚩賀盎酤哩<lb
+ n="0905a23" ed="T"/>莽酤哩鉢蘭那舍嚩哩娑嚩賀那莫舍嚩囉𧹞必舍唧鉢蘭那<lb
+ n="0905a25" ed="T"/>舍嚩哩必舍唧娑嚩賀<lb
+ n="0905a26" ed="T"/></ab>
+<ab type='prose'>爾時阿難。得聞世尊說此陀羅尼已。白言世<lb
+ n="0905a27" ed="T"/>尊願勿有慮。我當憶持宣流於世。使諸眾生<pb n="0905b" id="T21.1384.0905b" ed="T"/><lb
+ n="0905b01" ed="T"/>獲大善利。作是語已即用頭頂。禮世尊足歡<lb
+ n="0905b02" ed="T"/>喜而退。<lb
+ n="0905b03" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說鉢蘭那賒嚩哩大陀羅尼經</ab></div>
+</body></text></TEI>

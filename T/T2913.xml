@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">七女觀經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2913</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="1459a10" ed="T"/><lb
+ n="1459a11" ed="T"/><lb
+ n="1459a12" ed="T"/><lb
+ n="1459a13" ed="T"/>
+<ab type='juan' subtype='open'>佛說七女觀經</ab><lb
+ n="1459a14" ed="T"/><lb
+ n="1459a15" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是。一時佛說七女觀經。昔冥緣王有七<lb
+ n="1459a16" ed="T"/>女覺世非常。不著繒綵衣服。不著指鐶臂釧。<lb
+ n="1459a17" ed="T"/>不捉香油塗身。歲三長齋月六齋。姊妹相將<lb
+ n="1459a18" ed="T"/>詣父王殿前。稽首白王。女等前身積罪無福。<lb
+ n="1459a19" ed="T"/>今值女身處。其深宮眼無所見。求王放女出<lb
+ n="1459a20" ed="T"/>城遊觀。王告女言。我作天下之文萬基之主。<lb
+ n="1459a21" ed="T"/>有苑園浴地華臺樓觀。亦可觀之。何用出城<lb
+ n="1459a22" ed="T"/>觀乎。女對王曰。雖有苑園浴池華臺樓觀。可<lb
+ n="1459a23" ed="T"/>悅樂耳。非女遊觀之處。王即聽之。出城東門。<lb
+ n="1459a24" ed="T"/>到其塚間。見一死屍。膖脹爛臭。狐狼踐蹹。形<lb
+ n="1459a25" ed="T"/>骸異處。姊妹相將。遶屍三匝。涕零號泣。我等<lb
+ n="1459a26" ed="T"/>女身會當如是。姊妹七人各說一偈言。<lb
+ n="1459a27" ed="T"/>第一女說偈言。<lb
+ n="1459a28" ed="T"/></ab>
+<ab type='verse'>
+□□重其身　　如似好寶珠　　<lb
+ n="1459a29" ed="T"/>企視鵝容步　　姿則欲入居　　<pb n="1459b" id="T85.2913.1459b" ed="T"/><lb
+ n="1459b01" ed="T"/>□死棄塚間　　禽獸競共疽　　<lb
+ n="1459b02" ed="T"/>一切皆如是　　何用於世殊　　
+</ab><lb
+ n="1459b03" ed="T"/><ab type='prose'>第二女說偈言。<lb
+ n="1459b04" ed="T"/></ab>
+<ab type='verse'>
+譬如一身居　　人去宅無光　　<lb
+ n="1459b05" ed="T"/>身死如神誓　　乃知此非常　　<lb
+ n="1459b06" ed="T"/>今覩死尸觀　　忽然遇犲狼　　<lb
+ n="1459b07" ed="T"/>一切皆如是　　安得有久長　　
+</ab><lb
+ n="1459b08" ed="T"/><ab type='prose'>第三女說偈言。<lb
+ n="1459b09" ed="T"/></ab>
+<ab type='verse'>
+譬如馬駕車　　車破而馬去　　<lb
+ n="1459b10" ed="T"/>四大解散時　　魂神依何住　　<lb
+ n="1459b11" ed="T"/>初集四大時　　來從何所處　　<lb
+ n="1459b12" ed="T"/>乃知此非常　　唯福可恃怙　　
+</ab><lb
+ n="1459b13" ed="T"/><ab type='prose'>第四女說偈言。<lb
+ n="1459b14" ed="T"/></ab>
+<ab type='verse'>
+譬如好城墎　　眾人樂安居　　<lb
+ n="1459b15" ed="T"/>所求未厭足　　何其忽空虛　　<lb
+ n="1459b16" ed="T"/>人命如草木　　春長冬以枯　　<lb
+ n="1459b17" ed="T"/>唯有修福德　　智慧隨身軀　　
+</ab><lb
+ n="1459b18" ed="T"/><ab type='prose'>第五女說偈言。<lb
+ n="1459b19" ed="T"/></ab>
+<ab type='verse'>
+人之不修福　　譬如乘船渡　　<lb
+ n="1459b20" ed="T"/>四大乖離時　　如船捨岸去　　<lb
+ n="1459b21" ed="T"/>地定風不動　　火微水還故　　<lb
+ n="1459b22" ed="T"/>身非神常宅　　安得久長處　　
+</ab><lb
+ n="1459b23" ed="T"/><ab type='prose'>第六女說偈言。<lb
+ n="1459b24" ed="T"/></ab>
+<ab type='verse'>
+如人好莊嚴　　形著諸繒綵　　<lb
+ n="1459b25" ed="T"/>自縱取時榮　　故使欲人待　　<lb
+ n="1459b26" ed="T"/>侹然不動搖　　其神安所在　　<lb
+ n="1459b27" ed="T"/>觀世塚間屍　　將來宜應改　　
+</ab><lb
+ n="1459b28" ed="T"/><ab type='prose'>第七女說偈言。<lb
+ n="1459b29" ed="T"/></ab>
+<ab type='verse'>
+如雀在瓶中　　羅縠覆其口　　<pb n="1459c" id="T85.2913.1459c" ed="T"/><lb
+ n="1459c01" ed="T"/>縠穿雀飛去　　神明隨所受　　<lb
+ n="1459c02" ed="T"/>四大和合時　　如雀瓶中有　　<lb
+ n="1459c03" ed="T"/>唯有修善福　　智慧隨身首　　
+</ab><lb
+ n="1459c04" ed="T"/><ab type='prose'>第四忉利天王從天來下。到諸女前。問女言。<lb
+ n="1459c05" ed="T"/>汝等何所求欲使汝得之。諸女良久不答。復<lb
+ n="1459c06" ed="T"/>問女言。汝等何所求欲使汝得之。一女言乞<lb
+ n="1459c07" ed="T"/>願無根無鬚無枝無葉。於其中生是則為樂。<lb
+ n="1459c08" ed="T"/>一女復願。常無五欲。常處寂靜。耳飡法音。目<lb
+ n="1459c09" ed="T"/>覩聖教。是則為樂。一女復願。幽幽冥冥猶如<lb
+ n="1459c10" ed="T"/>虛空。登願玄覺。常覩聖容。是則為樂。天帝語<lb
+ n="1459c11" ed="T"/>諸女言。止止。汝之所願無想。吾不能得日月<lb
+ n="1459c12" ed="T"/>中王使汝得之。於是七女皆得道果。<lb
+ n="1459c13" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說七女觀經</ab></div>
+</body></text></TEI>

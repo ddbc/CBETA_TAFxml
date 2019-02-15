@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說越難經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0537</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0820b08" ed="T"/><lb
+ ed="T" n="0820b09"/><lb
+ ed="T" n="0820b10"/><lb
+ ed="T" n="0820b11"/>
+<ab type='juan' subtype='open'>佛說越難經</ab><lb
+ n="0820b12" ed="T"/><lb
+ ed="T" n="0820b13"/><byline>西晉居士聶承遠譯</byline><lb
+ ed="T" n="0820b14"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在波羅奈私國，賢者飛鳥<lb
+ n="0820b15" ed="T"/>聚。彼時，國中有四姓長者，名曰越難，大豪<lb
+ n="0820b16" ed="T"/>富，珍奇珠寶、牛馬、田宅甚眾多。難為人慳貪<lb
+ n="0820b17" ed="T"/>嫉妬，不信道德、不喜布施。日未沒，常勅門監，<lb
+ ed="T" n="0820b18"/>有來乞匃者，勿得通也。<lb
+ n="0820b19" ed="T"/>難有一子，名曰栴檀，亦復慳貪。難後壽盡，<lb
+ ed="T" n="0820b20"/>還生其國中，為盲乞婦作子。其夫言：「汝身<lb
+ n="0820b21" ed="T"/>有重病，今復懷軀，我貧窮無以衣食，汝便<lb
+ n="0820b22" ed="T"/>自去。」婦受教出門外，未遠得大聚糞，便止<lb
+ ed="T" n="0820b23"/>其中。至九月生一子，兩目復盲，其母行乞<lb
+ n="0820b24" ed="T"/>食養之。至年七歲，其母言：「我養汝大久，且<lb
+ n="0820b25" ed="T"/>自行拄杖，取食器行乞，當自悲言：『世間貧<lb
+ n="0820b26" ed="T"/>者最為苦惱。今我薄命生貧家，兩目復盲無<lb
+ ed="T" n="0820b27"/>所見，復為人所輕易。今有乞我少所飲<lb
+ n="0820b28" ed="T"/>食，愈我飢者，譬如天雨，渴者得飲。』」兒聞母<lb
+ n="0820b29" ed="T"/>說如是，便行家家乞匃，復到栴檀家。其子<pb ed="T" n="0820c" id="T14.0537.0820c"/><lb
+ n="0820c01" ed="T"/>適到時，守門者適小出，盲兒徑入前到中<lb
+ n="0820c02" ed="T"/>庭，如母教說之。時，栴檀在高觀上聞其語，<lb
+ ed="T" n="0820c03"/>大怒呼守門者問之：「誰內此盲乞兒者？」門<lb
+ n="0820c04" ed="T"/>監大恐怖，即牽盲兒撲於門外，傷其頭面，<lb
+ n="0820c05" ed="T"/>復折右臂，壞其食器，飯散其地，身體大痛。<lb
+ n="0820c06" ed="T"/>兒呼悲啼，其母聞之，即走到兒所，言：「何等<lb
+ ed="T" n="0820c07"/>弊人嬈我子者？我子尚小，兩目復盲，有何<lb
+ ed="T" n="0820c08"/>等過，乃取如是。何壹感天？」兒對母言：「我<lb
+ ed="T" n="0820c09"/>到此門中乞，有高聲人，呼多力人牽撲傷<lb
+ n="0820c10" ed="T"/>我，身體大痛如是，今且死不久。」時門上有<lb
+ n="0820c11" ed="T"/>守神，便謂之言：「汝得是痛，尚為小耳，其<lb
+ n="0820c12" ed="T"/>大在後。汝坐前世有財不布施，故得勤苦。<lb
+ n="0820c13" ed="T"/>世間富貴無有常，富貴而不布施，如無有財<lb
+ ed="T" n="0820c14"/>等也。死更苦痛，乃愁悔，當復何益？」時觀<lb
+ n="0820c15" ed="T"/>者甚眾多，各各自語，其聲遠聞。<lb
+ ed="T" n="0820c16"/>佛時從念道覺，與諸比丘俱入城分衛。佛<lb
+ n="0820c17" ed="T"/>問阿難：「是何等聲？怱怱乃如是。」阿難便<lb
+ ed="T" n="0820c18"/>白佛，說盲子母本事已，便叉手白佛：「願哀<lb
+ n="0820c19" ed="T"/>矜，到此兒所。」佛默然不應。分衛還飯已，便<lb
+ n="0820c20" ed="T"/>往視之。見盲兒創痛，以手摩其頭，目便即<pb ed="T" n="0821a" id="T14.0537.0821a"/><lb
+ n="0821a01" ed="T"/>開，折傷處即愈，因自識宿命。佛問：「汝是前<lb
+ ed="T" n="0821a02"/>世長者字難不？」對言：「是也。」<lb
+ n="0821a03" ed="T"/>佛告阿難：「人居世間甚懃苦愚癡，一世父<lb
+ ed="T" n="0821a04"/>子不相識知。」<lb
+ ed="T" n="0821a05"/>爾時佛說經，解散其意：<lb
+ ed="T" n="0821a06"/></ab>
+<ab type='verse'>
+「人求子索財，　　於此二事中，　　<lb
+ n="0821a07" ed="T"/>甚憂勤苦痛，　　他人而得果。　　<lb
+ n="0821a08" ed="T"/>有身不能保，　　何況子與財？　　<lb
+ ed="T" n="0821a09"/>譬如夏月暑，　　息止樹下涼，　　<lb
+ ed="T" n="0821a10"/>須臾當復去，　　世間無有常。」　　
+</ab><lb
+ ed="T" n="0821a11"/><ab type='prose'>阿難白佛：「此兒命盡，當趣何道？」佛言：「當入大<lb
+ ed="T" n="0821a12"/>泥梨中一宿。」佛說是經時，八萬餘人皆棄三<lb
+ n="0821a13" ed="T"/>垢得法眼。諸弟子皆歡喜，為佛作禮而去。</ab></div><lb
+ ed="T" n="0821a14"/>
+<ab type='juan' subtype='close'>佛說越難經</ab>
+</body></text></TEI>

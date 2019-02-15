@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">六門陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1360</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0878a" id="T21.1360.0878a" ed="T"/><lb
+ n="0878a01" ed="T"/><lb
+ n="0878a02" ed="T"/><div type='jing' level='1'><lb
+ n="0878a03" ed="T"/>
+<ab type='juan' subtype='open'>六門陀羅尼經</ab><lb
+ n="0878a04" ed="T"/><lb
+ n="0878a05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
+ n="0878a06" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。在淨居天上依空而<lb
+ n="0878a07" ed="T"/>住眾妙七寶莊嚴道場。與無央數菩薩眾俱。<lb
+ n="0878a08" ed="T"/>爾時世尊告諸菩薩。善男子若欲利益安樂<lb
+ n="0878a09" ed="T"/>眾生。汝當受此六門陀羅尼法。謂我流轉於<lb
+ n="0878a10" ed="T"/>生死中諸所受苦。勿令眾生同受斯苦。諸有<lb
+ n="0878a11" ed="T"/>所受富貴世樂。願諸眾生同受斯樂。我所作<lb
+ n="0878a12" ed="T"/>惡若未先悔終不發言稱無上法。我諸所有<lb
+ n="0878a13" ed="T"/>眾魔之業若未先覺。終不舉心緣無上法。我<lb
+ n="0878a14" ed="T"/>諸所有波羅蜜多所攝。一切世及出世廣大<lb
+ n="0878a15" ed="T"/>善根。願諸眾生皆當速證無上智果。我證解<lb
+ n="0878a16" ed="T"/>脫亦願眾生皆得解脫。勿令住著生死涅槃。<lb
+ n="0878a17" ed="T"/>陀羅尼曰。<lb
+ n="0878a18" ed="T"/></ab>
+<ab type='dharani'>懺謎懺謎　羼諦羼諦　跋迭麗跋迭麗<lb
+ n="0878a19" ed="T"/>　穌跋迭麗穌跋迭麗　諦誓諦誓戰迭麗戰迭<lb
+ n="0878a20" ed="T"/>麗　戰迭邏伐底低殊伐底　達磨伐<lb
+ n="0878a21" ed="T"/>底　薩縛結隷鑠　毘輸達儞　薩縛阿剌<lb
+ n="0878a22" ed="T"/>託　莎達儞　末諾僧輸達儞莎訶<lb
+ n="0878a23" ed="T"/></ab>
+<ab type='prose'>若有清信善男子善女人。能於日夜六時。讀<lb
+ n="0878a24" ed="T"/>誦如是六門陀羅尼者。此人所有一切業障<lb
+ n="0878a25" ed="T"/>皆悉消滅。疾悟阿耨多羅三藐三菩提。時薄<lb
+ n="0878a26" ed="T"/>伽梵說是經已。一切菩薩摩訶薩及諸天眾。<lb
+ n="0878a27" ed="T"/>聞佛所說皆大歡喜信受奉行。<lb
+ n="0878a28" ed="T"/>
+</ab><ab type='juan' subtype='close'>六門陀羅尼經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說聖觀自在菩薩梵讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1055</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0070c10" ed="T"/><lb
+ n="0070c11" ed="T"/><lb
+ n="0070c12" ed="T"/><lb
+ n="0070c13" ed="T"/><div type='xu' level='2'><head>大明太宗文皇帝御製觀音讚</head><lb
+ n="0070c14" ed="T"/><lb
+ n="0070c15" ed="T"/><ab type='verse'>
+大聖自在觀世音　　百千萬億應無盡　　<lb
+ n="0070c16" ed="T"/>神通無礙無所住　　大慈大悲愍眾生　　<lb
+ n="0070c17" ed="T"/>六根互用智慧深　　聞思修入三摩地　　<lb
+ n="0070c18" ed="T"/>濟度隨機而顯現　　有如一月印千江　　<lb
+ n="0070c19" ed="T"/>一江有月一江明　　明照惟一本無二　　<lb
+ n="0070c20" ed="T"/>世人但以眼觀色　　菩薩乃以目觀聲　　<lb
+ n="0070c21" ed="T"/>彼惟有所窒於觀　　是故不能神妙用　　<lb
+ n="0070c22" ed="T"/>大士有目冥不覩　　耳鼻舌身意亦然　　<lb
+ n="0070c23" ed="T"/>能以此觀如是觀　　終不顛倒成妄想　　<lb
+ n="0070c24" ed="T"/>熏習見聞既寂滅　　亦復無是妙色身　　<lb
+ n="0070c25" ed="T"/>有能洞此十方空　　同證圓通三昧海　　<lb
+ n="0070c26" ed="T"/>身心無量遍沙界　　不動本際應所求　　<lb
+ n="0070c27" ed="T"/>譬如萬卉遇春風　　種種萌芽自生發　　<lb
+ n="0070c28" ed="T"/>敷榮暢達各長茂　　或為枝葉結果成　　<lb
+ n="0070c29" ed="T"/>酸鹹甜苦及青紅　　一切皆令如願足　　<pb n="0071a" id="T20.1055.0071a" ed="T"/><lb
+ n="0071a01" ed="T"/>現前是法不思議　　不著諸相乃為真　　<lb
+ n="0071a02" ed="T"/>一毛遍量法界空　　洗淨五濁諸熱惱　　<lb
+ n="0071a03" ed="T"/>摧裂障山悉消蕩　　無邊苦趣總脫離　　<lb
+ n="0071a04" ed="T"/>娑婆世界為樂城　　妙相恒沙俱顯露　　<lb
+ n="0071a05" ed="T"/>以太虛空為體相　　寶髻攢聚五須彌　　<lb
+ n="0071a06" ed="T"/>以四大海為口門　　曜日月光為兩目　　<lb
+ n="0071a07" ed="T"/>森羅萬像為瓔珞　　發無上願具辯才　　<lb
+ n="0071a08" ed="T"/>引施十四無畏功　　妙顯三十二身應　　<lb
+ n="0071a09" ed="T"/>普為眾生之瞻仰　　廣運諸佛慈悲心　　<lb
+ n="0071a10" ed="T"/>身與眾生為一身　　隨感而應觸處動　　<lb
+ n="0071a11" ed="T"/>爾以正見能見我　　我以無見觀自在　　<lb
+ n="0071a12" ed="T"/>如鏡照鏡谷答響　　含攝朗徹皆自然　　<lb
+ n="0071a13" ed="T"/>證此三昧即超凡　　一法具足一切佛　　<lb
+ n="0071a14" ed="T"/>開啟慈悲功德藏　　溥示善功方便門　　<lb
+ n="0071a15" ed="T"/>賢劫未來諸眾生　　咸證菩提登正覺　　
+</ab></div><lb
+ n="0071a16" ed="T"/><lb
+ n="0071a17" ed="T"/><lb
+ n="0071a18" ed="T"/><lb
+ n="0071a19" ed="T"/>
+<ab type='juan' subtype='open'>佛說聖觀自在菩薩梵讚</ab><lb
+ n="0071a20" ed="T"/><lb
+ n="0071a21" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
+ n="0071a22" ed="T"/>傳教大師臣法賢奉　詔譯</byline><lb
+ n="0071a23" ed="T"/><ab type='verse'>
+歸命佛法僧　　頂禮觀自在　　<lb
+ n="0071a24" ed="T"/>我今稱讚彼　　大悲功德林　　
+</ab><lb
+ n="0071a25" ed="T"/><head>梵讚第一</head><lb
+ n="0071a26" ed="T"/><ab type='dharani'>部嚩曩怛囉野晚禰多路迦虞隴阿摩囉<lb
+ n="0071a27" ed="T"/>地波底孕窣覩帝沒囉憾摩嚩<lb
+ n="0071a28" ed="T"/>覽母儞囉惹覽度魯嚩悉地迦覽鉢囉<lb
+ n="0071a29" ed="T"/>拏摩彌嚩路吉多曩他嚩覽<pb n="0071b" id="T20.1055.0071b" ed="T"/><lb
+ n="0071b01" ed="T"/><head>梵讚第二</head><lb
+ n="0071b02" ed="T"/>酥誐多阿蜜里多魯波酥魯波馱嚩虎洛<lb
+ n="0071b03" ed="T"/>叉拏部史多禰賀嚩覽迦拏建惹尾部史<lb
+ n="0071b04" ed="T"/>多嚩摩迦覽俱胝羅摩羅閉孕誐羅冒<lb
+ n="0071b05" ed="T"/>多惹知降<lb
+ n="0071b06" ed="T"/><head>梵讚第三</head><lb
+ n="0071b07" ed="T"/>舍尸尾孕摩彌冒入嚩羅布囉拏<lb
+ n="0071b08" ed="T"/>目欠羯摩羅野多路左曩左魯嚩覽呬摩<lb
+ n="0071b09" ed="T"/>欠拏地半拏囉巘拏布知降蜜里誐囉<lb
+ n="0071b10" ed="T"/>惹尾冒地多嚩娑怛囉瑜巘<lb
+ n="0071b11" ed="T"/><head>梵讚第四</head><lb
+ n="0071b12" ed="T"/>鉢囉他摩魯拏覽𡁠多囉惹三𤚥阿嚩<lb
+ n="0071b13" ed="T"/>覽儗多半迦𡁠曩努三𤚥娑嚩囉難母那<lb
+ n="0071b14" ed="T"/>誐𡁠多彌伽魯旦嚩護洛叉拏部史多娑嚩也<lb
+ n="0071b15" ed="T"/>迦覽<lb
+ n="0071b16" ed="T"/><head>梵讚第五</head><lb
+ n="0071b17" ed="T"/>多魯俱摩羅娑馱羅波尼多楞蜜里誐<lb
+ n="0071b18" ed="T"/>左里摩儞尾瑟胝多嚩娑迦覽戍伴軍<lb
+ n="0071b19" ed="T"/>拏羅曼尼多路羅馱覽尾摩楞迦摩路那囉曩<lb
+ n="0071b20" ed="T"/>鼻多楞<lb
+ n="0071b21" ed="T"/><head>梵讚第六</head><lb
+ n="0071b22" ed="T"/>摩尼曼尼多彌佉羅呬摩嚩覽迦致尾瑟計多唧怛囉酥嚩悉怛囉嚩覽𡁠曩誐<lb
+ n="0071b24" ed="T"/>也拏摩護那地波囉誐旦嚩護奔拏也<lb
+ n="0071b25" ed="T"/>母波阿里𡁠多囉摩馱波難<lb
+ n="0071b26" ed="T"/><head>梵讚第七</head><lb
+ n="0071b27" ed="T"/>入嚩囉嚩也地賀覽嚩護燥佉也<lb
+ n="0071b28" ed="T"/>迦覽怛里婆嚩阿囉他迦覽娑嚩覽尾<lb
+ n="0071b29" ed="T"/>尾馱俱羅儞里𡁠多摩囉嚩楞嚩囉努<pb n="0071c" id="T20.1055.0071c" ed="T"/><lb
+ n="0071c01" ed="T"/>布囉攝禰多波那嚩覽<lb
+ n="0071c02" ed="T"/><head>梵讚第八</head><lb
+ n="0071c03" ed="T"/>誐惹滿多尾覽彌多憾娑誐帝孕波里布<lb
+ n="0071c04" ed="T"/>囉拏摩賀蜜里多羅沒馱誐帝孕<lb
+ n="0071c05" ed="T"/>嚩囉剎囉摩護那地嚩囉拏馱覽室里<lb
+ n="0071c06" ed="T"/>布多羅迦地儞嚩娑迦覽<lb
+ n="0071c07" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說聖觀自在菩薩梵讚</ab></div>
+</body></text></TEI>

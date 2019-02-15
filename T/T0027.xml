@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">七知經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0027</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0810a" ed="T" id="T01.0027.0810a"/><lb
+ n="0810a01" ed="T"/><lb
+ n="0810a02" ed="T"/><div type='jing' level='1'><lb
+ n="0810a03" ed="T"/>
+<ab type='juan' subtype='open'>佛說七知經</ab><lb
+ n="0810a04" ed="T"/><lb
+ n="0810a05" ed="T"/><byline>吳月支國居士支謙譯</byline><lb
+ n="0810a06" ed="T"/><ab type='prose'>聞如是：佛遊於舍衛祇樹給孤獨園。佛告諸<lb
+ n="0810a07" ed="T"/>比丘：「比丘受教，從佛而聽。」佛告諸比丘：「有<lb
+ n="0810a08" ed="T"/>七法道弟子，現世安隱和悅多行，精進法<lb
+ n="0810a09" ed="T"/>觀令習得盡。何謂七法？一知法，二知義，三知<lb
+ n="0810a10" ed="T"/>時，四知節，五自知，六知眾，七知人。「諸比丘！<lb
+ n="0810a11" ed="T"/>何謂知法？謂能解十二部經：一曰文，二曰<lb
+ n="0810a12" ed="T"/>歌，三曰說，四曰頌，五曰譬喻，六曰本起<lb
+ n="0810a13" ed="T"/>紀，七曰事解，八曰生傅，九曰廣博，十曰<lb
+ n="0810a14" ed="T"/>自然，十一曰行，十二曰章句，是為知法。<lb
+ n="0810a15" ed="T"/>不解十二部經，為不知法。「何謂知義？彼彼<lb
+ n="0810a16" ed="T"/>所說經法，悉曉其義，是為知義。彼彼所說不<lb
+ n="0810a17" ed="T"/>曉不解，為不知義。「何謂知時？知是時可惟寂<lb
+ n="0810a18" ed="T"/>滅想，是時不惟受行想，是時可惟慎護想，<lb
+ n="0810a19" ed="T"/>是為知時。不曉時宜所行，為不知時。「何謂<lb
+ n="0810a20" ed="T"/>知節？能少飲食大小便便得消化，能節出入<lb
+ n="0810a21" ed="T"/>坐起行步，臥覺語默事從約省，是為知節。<lb
+ n="0810a22" ed="T"/>不自約省，為不知節。「何謂自知？自知己身意<lb
+ n="0810a23" ed="T"/>老多少，所信所戒、所聞所施、所慧所解、所至<lb
+ n="0810a24" ed="T"/>所入，深淺厚薄事事自知，是為自知。不知己<lb
+ n="0810a25" ed="T"/>意所入多少，為不自知。「何謂知眾？能知彼眾<lb
+ n="0810a26" ed="T"/>若君子眾、若理家眾，若梵志、若沙門眾，若或<lb
+ n="0810a27" ed="T"/>有時至彼眾，宜坐宜立、宜語宜默，知隨時宜，<lb
+ n="0810a28" ed="T"/>是為知眾。不知相彼眾隨時宜者，為不知眾。<lb
+ n="0810a29" ed="T"/>「何謂知人？如有兩人，一人信道、一人不信道，<pb n="0810b" ed="T" id="T01.0027.0810b"/><lb
+ n="0810b01" ed="T"/>信道者可稱譽，不信者無稱譽。信道有兩輩：<lb
+ n="0810b02" ed="T"/>一人數詣道場樂沙門，一人不數詣道場智<lb
+ n="0810b03" ed="T"/>略沙門。數詣者可稱譽，不數詣者無稱譽。數<lb
+ n="0810b04" ed="T"/>詣道場有兩輩：一人愛敬沙門，一人不愛敬<lb
+ n="0810b05" ed="T"/>沙門。愛敬者可稱譽，不愛敬者無稱譽。愛敬<lb
+ n="0810b06" ed="T"/>有兩輩：一人親習沙門，一人不親習沙門。親<lb
+ n="0810b07" ed="T"/>習者可稱譽，不親習者無稱譽。親習有兩輩：<lb
+ n="0810b08" ed="T"/>一人好問經法，一人不好問經法。好問者可<lb
+ n="0810b09" ed="T"/>稱譽，不好問者無稱譽。好問有兩輩：一人側<lb
+ n="0810b10" ed="T"/>耳聽，一人不側耳聽。側耳聽者可稱譽，不側<lb
+ n="0810b11" ed="T"/>耳聽者無稱譽。側耳聽有兩輩：一人聞法受<lb
+ n="0810b12" ed="T"/>持，一人聞法不受持。聞法受持者可稱譽，不<lb
+ n="0810b13" ed="T"/>受持者無稱譽。受持有兩輩：一人聞而思義，<lb
+ n="0810b14" ed="T"/>一人聞不思義。聞而思義者可稱譽，聞而不<lb
+ n="0810b15" ed="T"/>思義者無稱譽。聞法思義有兩輩：一人如經<lb
+ n="0810b16" ed="T"/>義解，受法如法立，一人不如經義解，不受法<lb
+ n="0810b17" ed="T"/>不如法立。如經義解者可稱譽，不如經義解<lb
+ n="0810b18" ed="T"/>者無稱譽。如經義解有兩輩：一人但自安己，<lb
+ n="0810b19" ed="T"/>不安他人、不多安人、不哀世間、不利天下，一<lb
+ n="0810b20" ed="T"/>人自能安己，亦安他人多安天下，愍傷世間<lb
+ n="0810b21" ed="T"/>利寧天人。諸比丘當別知，其自安己、能安他<lb
+ n="0810b22" ed="T"/>人、多安天下、愍傷世間利寧天下者，是人為<lb
+ n="0810b23" ed="T"/>最上最長最尊極尊。譬如牛乳成酪，酪為酥，<lb
+ n="0810b24" ed="T"/>酥為醍醐，醍醐最上。如是人者，為人中之<lb
+ n="0810b25" ed="T"/>人，乃為上行、尊行、極尊之行，為最勝為上願<lb
+ n="0810b26" ed="T"/>無上也。諸比丘！能見兩人，為智為高，能分別<lb
+ n="0810b27" ed="T"/>此人善、此人勝，是為知人。」佛說是已，皆歡喜<lb
+ n="0810b28" ed="T"/>受。<lb
+ n="0810b29" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說七知經</ab></div>
+</body></text></TEI>

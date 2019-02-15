@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">宗叡僧正於唐國師所口受</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1156B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0650c18" ed="T"/><lb
+ n="0650c19" ed="T"/><lb
+ n="0650c20" ed="T"/><lb
+ n="0650c21" ed="T"/>
+<ab type='juan' subtype='open'>宗󰤗僧正於唐國師所口受</ab><lb
+ n="0650c22" ed="T"/><lb
+ n="0650c23" ed="T"/><head>大隨求根本印第一</head><lb
+ n="0650c24" ed="T"/><ab type='prose'>二手內相叉。二中指合竪。二頭指於中指後<lb
+ n="0650c25" ed="T"/>微屈如鉤。二小指二大指合竪微屈即成。<lb
+ n="0650c26" ed="T"/>梵云嚩日羅　唐云五股金剛杵<lb
+ n="0650c27" ed="T"/><head>一切如來心真言第二</head><lb
+ n="0650c28" ed="T"/>二手左覆右仰背相著。中指互相背鉤竪如<lb
+ n="0650c29" ed="T"/>斧形即成。<pb n="0651a" id="T20.1156B.0651a" ed="T"/><lb
+ n="0651a01" ed="T"/>梵云跛羅戌　唐云鉞斧<lb
+ n="0651a02" ed="T"/><head>一切如來心印真言第三</head><lb
+ n="0651a03" ed="T"/>二手內相叉二中指頭相跓屈令圓即成。<lb
+ n="0651a04" ed="T"/>梵云跛羅播捨　唐云索<lb
+ n="0651a05" ed="T"/><head>一切如來金剛被甲真言印第四</head><lb
+ n="0651a06" ed="T"/>二手合掌。二頭指屈中節令平偃。頭相跓即<lb
+ n="0651a07" ed="T"/>成。<lb
+ n="0651a08" ed="T"/>梵云渴誐　唐云劍<lb
+ n="0651a09" ed="T"/><head>一切如來灌頂真言印</head><lb
+ n="0651a10" ed="T"/>二手外相叉。二無名指合竪。二小指竪交即<lb
+ n="0651a11" ed="T"/>成。<lb
+ n="0651a12" ed="T"/>梵云斫羯羅　唐云輪<lb
+ n="0651a13" ed="T"/><head>一切如來結界真言印</head><lb
+ n="0651a14" ed="T"/>二大指捻二小指甲上。餘指竪合如三戟叉<lb
+ n="0651a15" ed="T"/>形即成。<lb
+ n="0651a16" ed="T"/>梵云底哩戌羅　唐云三股叉<lb
+ n="0651a17" ed="T"/><head>一切如來心中心真言印</head><lb
+ n="0651a18" ed="T"/>二手外相叉。二頭指相跓蹴如寶形。二大指<lb
+ n="0651a19" ed="T"/>並竪即成。<lb
+ n="0651a20" ed="T"/>梵云進跢麼尼　唐云寶<lb
+ n="0651a21" ed="T"/><head>一切如來隨心真言印</head><lb
+ n="0651a22" ed="T"/>以左手仰於當心展五指。以右手覆於左上<lb
+ n="0651a23" ed="T"/>相合令平即成。<lb
+ n="0651a24" ed="T"/>梵云摩訶尾儞也馱羅抳　唐云大明<lb
+ n="0651a25" ed="T"/>總持<lb
+ n="0651a26" ed="T"/><head>慈覺大師大隨求印</head><lb
+ n="0651a27" ed="T"/>內縛五股印是也。<lb
+ n="0651a28" ed="T"/><head>尊勝佛頂印</head><lb
+ n="0651a29" ed="T"/>虛心合掌。屈二風甲相對。以二空捻二風側<pb n="0651b" id="T20.1156B.0651b" ed="T"/><lb
+ n="0651b01" ed="T"/>如彈指勢也。<lb
+ n="0651b02" ed="T"/><head>文殊根本印</head><lb
+ n="0651b03" ed="T"/>虛心合掌。二火覆。捻二水而頭相拄屈二風<lb
+ n="0651b04" ed="T"/>橫捻二空上　又說內縛二地合竪屈二風橫<lb
+ n="0651b05" ed="T"/>二空上。<lb
+ n="0651b06" ed="T"/><head>滿足句印</head><lb
+ n="0651b07" ed="T"/>二地合針。二水內鉤。二火如寶。二風屈捻二<lb
+ n="0651b08" ed="T"/>空上。真言曰。<lb
+ n="0651b09" ed="T"/></ab>
+<ab type='dharani'>阿尾羅吽欠<lb
+ n="0651b10" ed="T"/></ab><div type='w' level='2'><ab type='prose'>　貞觀十九年三月二十二日傳</ab></div></div>
+</body></text></TEI>

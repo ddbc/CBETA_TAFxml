@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說文殊師利一百八名梵讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1197</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0938c" id="T20.1197.0938c" ed="T"/><lb
+ n="0938c01" ed="T"/><lb
+ n="0938c02" ed="T"/><lb
+ n="0938c03" ed="T"/>
+<ab type='juan' subtype='open'>佛說文殊師利一百八名梵讚</ab><lb
+ n="0938c04" ed="T"/><lb
+ n="0938c05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
+ n="0938c06" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
+ n="0938c07" ed="T"/><div type='jing' level='2'><ab type='verse'>
+我今宣說　　文殊師利　　一百八名　　<lb
+ n="0938c08" ed="T"/>殊勝功德　　一日三時　　受持讀誦　　<lb
+ n="0938c09" ed="T"/>所求意願　　決定現前　　依法課持　　<lb
+ n="0938c10" ed="T"/>身恒清淨　　罪障消除　　或入軍陣　　<lb
+ n="0938c11" ed="T"/>諸怖畏中　　文殊現身　　為作守護　　<lb
+ n="0938c12" ed="T"/>若常誦念　　速證菩提　　
+</ab></div><lb
+ n="0938c13" ed="T"/><head>梵讚第一</head><lb
+ n="0938c14" ed="T"/><ab type='dharani'>鉢囉尼鉢怛也牟儞母里馱曩<lb
+ n="0938c15" ed="T"/>酥鉢囉三儞曩唧多娑嚩叉也摩<lb
+ n="0938c16" ed="T"/>也阿儞也曩摩儞三沒泰囉覩嚩<lb
+ n="0938c17" ed="T"/>囉尼旦<lb
+ n="0938c18" ed="T"/><head>梵讚第二</head><lb
+ n="0938c19" ed="T"/>酥魯布魯波馱里左薩里嚩魯布賀也<lb
+ n="0938c20" ed="T"/>凍多囉薩里嚩洛叉拏三布囉拏曼<lb
+ n="0938c21" ed="T"/>祖室里隴多摩室里野<lb
+ n="0938c22" ed="T"/><head>梵讚第三</head><lb
+ n="0938c23" ed="T"/>阿進怛也進怛也尾誐多阿進怛瑜<lb
+ n="0938c24" ed="T"/>部多尾羯囉莫阿進怛也薩里<lb
+ n="0938c25" ed="T"/>嚩達里摩拏阿進怛瑜摩曩<lb
+ n="0938c26" ed="T"/>娑薩怛他<lb
+ n="0938c27" ed="T"/><head>梵讚第四</head><lb
+ n="0938c28" ed="T"/>戍儞也多婆尾多怛摩喃戍<lb
+ n="0938c29" ed="T"/>儞也達里摩娑滿地多戍儞也摩地母訖底室左戍儞也怛里<lb
+ n="0939a02" ed="T"/>婆嚩禰捨迦<lb
+ n="0939a03" ed="T"/><head>梵讚第五</head><lb
+ n="0939a04" ed="T"/>薩里嚩倪也薩里嚩捺里世左<lb
+ n="0939a05" ed="T"/>薩里嚩部彌鉢底里尾部曼祖室<lb
+ n="0939a06" ed="T"/>里嚩舍嚩里底左鉢納摩訖叉<lb
+ n="0939a07" ed="T"/>鉢納摩三婆嚩<lb
+ n="0939a08" ed="T"/><head>梵讚第六</head><lb
+ n="0939a09" ed="T"/>鉢納摩緊惹敢迦嚩囉拏室左<lb
+ n="0939a10" ed="T"/>鉢納摩波里焰迦摩娑曩儞路怛<lb
+ n="0939a11" ed="T"/>波羅馱囉布多波尾怛囉設多摩<lb
+ n="0939a12" ed="T"/>娑曩<lb
+ n="0939a13" ed="T"/><head>梵讚第七</head><lb
+ n="0939a14" ed="T"/>鉢囉怛也迦沒度沒馱娑怛鑁<lb
+ n="0939a15" ed="T"/>阿禰沒度儞嚕左也帝乙里弟<lb
+ n="0939a16" ed="T"/>𤚥麼尸多鉢囉鉢多室贊覩薩<lb
+ n="0939a17" ed="T"/>怛瑜波那舍迦<lb
+ n="0939a18" ed="T"/><head>梵讚第八</head><lb
+ n="0939a19" ed="T"/>路迦播羅娑賀娑囉乞叉伊濕嚩囉娑怛鑁鉢囉惹鉢帝尸嚩娑<lb
+ n="0939a21" ed="T"/>怛鑁薩里嚩部多喃娑怛鑁<lb
+ n="0939a22" ed="T"/>尾都虞拏娑誐囉<lb
+ n="0939a23" ed="T"/><head>梵讚第九</head><lb
+ n="0939a24" ed="T"/>乙里史娑怛鑁奔尼也室里<lb
+ n="0939a25" ed="T"/>瑟跓左濟瑟跓惹底娑摩囉娑<lb
+ n="0939a26" ed="T"/>怛他尾曩野俱尾儞多左𠰒<lb
+ n="0939a27" ed="T"/>曩補怛嚕𠰒曩怛摩惹<lb
+ n="0939a28" ed="T"/><head>梵讚第十</head><lb
+ n="0939a29" ed="T"/>婆覩娑賀娑囉囉濕彌娑怛鑁<pb n="0939b" id="T20.1197.0939b" ed="T"/><lb
+ n="0939b01" ed="T"/>酥摩娑怛鑁左物里賀娑鉢底<lb
+ n="0939b02" ed="T"/>馱曩努嚩魯拏室載嚩娑怛鑁<lb
+ n="0939b03" ed="T"/>尾瑟拏娑怛鑁摩呬濕嚩囉<lb
+ n="0939b04" ed="T"/><head>梵讚第十一</head><lb
+ n="0939b05" ed="T"/>阿難覩曩誐囉惹娑怛鑁娑建<lb
+ n="0939b06" ed="T"/>度細曩鉢底娑多他吠摩唧怛囉<lb
+ n="0939b07" ed="T"/>酥里捺囉娑怛鑁婆摩設訖囉<lb
+ n="0939b08" ed="T"/>多那娑怛他<lb
+ n="0939b09" ed="T"/><head>梵讚第十二</head><lb
+ n="0939b10" ed="T"/>薩里嚩禰嚩摩瑜尾囉薩里嚩禰<lb
+ n="0939b11" ed="T"/>吠曩摩塞訖里多路迦達里摩<lb
+ n="0939b12" ed="T"/>摩羅底覩娑怛鑁路計左誐囉<lb
+ n="0939b13" ed="T"/>補那誐羅<lb
+ n="0939b14" ed="T"/><head>梵讚第十三</head><lb
+ n="0939b15" ed="T"/>路迦誐也路迦尾誐也覩惹帝喃<lb
+ n="0939b16" ed="T"/>鉢囉嚩魯嚩囉嚩囉努羅野曩怛囉<lb
+ n="0939b17" ed="T"/>拏阿度里沙瑜摩囉迦里彌𧹞<lb
+ n="0939b18" ed="T"/><lb
+ n="0939b19" ed="T"/><head>梵讚第十四</head><lb
+ n="0939b20" ed="T"/>儼鼻囉室左曩嚩儞也室左迦羅<lb
+ n="0939b21" ed="T"/>也拏彌怛囉三播那吠捺也娑<lb
+ n="0939b22" ed="T"/>恒鑁舍羅也罕里多左曩囉難<lb
+ n="0939b23" ed="T"/>摩也酥娑囉體<lb
+ n="0939b24" ed="T"/><head>梵讚第十五</head><lb
+ n="0939b25" ed="T"/>摩底𤚥誐底𤚥室載嚩沒弟𤚥室左<lb
+ n="0939b26" ed="T"/>尾左乞叉拏奔拏也鑁羯羅波<lb
+ n="0939b27" ed="T"/>沒里乞叉室左󰂛地孕誐補<lb
+ n="0939b28" ed="T"/>澁波曼尼多<lb
+ n="0939b29" ed="T"/><head>梵讚第十六</head><pb n="0939c" id="T20.1197.0939c" ed="T"/><lb
+ n="0939c01" ed="T"/>尾目訖底頗羅三半曩阿娑囉野薩<lb
+ n="0939c02" ed="T"/>里嚩儞呬喃摩努賀魯摩努誐也<lb
+ n="0939c03" ed="T"/>室左阿曩里具沒囉憾摩左<lb
+ n="0939c04" ed="T"/>里𧹞<lb
+ n="0939c05" ed="T"/><head>梵讚第十七</head><lb
+ n="0939c06" ed="T"/>計覩娑怛鑁誐囉賀室里瑟吒<lb
+ n="0939c07" ed="T"/>娑怛鑁里史鼻母儞布誐嚩曜嚩囉惹<lb
+ n="0939c08" ed="T"/>鼻史訖多怛鑁那舍部彌濕嚩嚕<lb
+ n="0939c09" ed="T"/>鉢囉部<lb
+ n="0939c10" ed="T"/><head>梵讚第十八</head><lb
+ n="0939c11" ed="T"/>娑里他嚩護誐拏室里瑟吒儞<lb
+ n="0939c12" ed="T"/>里嚩尼所多摩禰舍迦佉娑摩<lb
+ n="0939c13" ed="T"/>摩地也羯羅波娑怛鑁怛嚩<lb
+ n="0939c14" ed="T"/>帝𡁠嚩喻里嚩左<lb
+ n="0939c15" ed="T"/><head>梵讚第十九</head><lb
+ n="0939c16" ed="T"/>怛鑁進多摩尼薩怛嚩喃薩里嚩<lb
+ n="0939c17" ed="T"/>舍波里布囉迦曩謨窣覩帝摩賀<lb
+ n="0939c18" ed="T"/>尾儞也薩里嚩部多曩摩塞訖里<lb
+ n="0939c19" ed="T"/>多<lb
+ n="0939c20" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說文殊師利一百八名梵讚</ab></div>
+</body></text></TEI>

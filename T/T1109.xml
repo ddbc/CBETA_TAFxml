@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">白救度佛母讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1109</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0484a07" ed="T"/><lb
+ n="0484a08" ed="T"/><lb
+ n="0484a09" ed="T"/><lb
+ n="0484a10" ed="T"/><lb
+ n="0484a11" ed="T"/><div type='jing' level='1'><ab type='prose'><lb
+ n="0484a12" ed="T"/><lb
+ n="0484a13" ed="T"/><lb
+ n="0484a14" ed="T"/><lb
+ n="0484a15" ed="T"/><lb
+ n="0484a16" ed="T"/><lb
+ n="0484a17" ed="T"/><lb
+ n="0484a18" ed="T"/><lb
+ n="0484a19" ed="T"/>
+</ab><ab type='juan' subtype='open'>白救度佛母讚</ab><lb
+ n="0484a20" ed="T"/><lb
+ n="0484a21" ed="T"/><byline>北京淨住寺住持阿旺扎什譯</byline><lb
+ n="0484a22" ed="T"/><ab type='prose'>納摩至尊聖救度佛母。<lb
+ n="0484a23" ed="T"/></ab>
+<ab type='verse'>
+唵救度輸迴答哷母　　<lb
+ n="0484a24" ed="T"/>以都答哷脫八難　　
+</ab><lb
+ n="0484a25" ed="T"/><ab type='verse'>
+一切病愆都哷救　　救度母前敬讚禮　　<lb
+ n="0484a26" ed="T"/>白淨蓮華之中間　　其上敷陳月輪座　　<lb
+ n="0484a27" ed="T"/>坐現金剛跏趺母　　施願母前致敬禮　　<lb
+ n="0484a28" ed="T"/>面如秋月光明相　　佛母身依皓魄輪　　<lb
+ n="0484a29" ed="T"/>一切莊嚴俱滿足　　持優鉢花前敬禮　　<pb n="0484b" id="T20.1109.0484b" ed="T"/><lb
+ n="0484b01" ed="T"/>體相具圓十六歲　　一切正覺彼之子　　<lb
+ n="0484b02" ed="T"/>勝躬持施隨欲應　　敬禮救度聖母前　　<lb
+ n="0484b03" ed="T"/>皎潔白輪光色白　　八輻條上現八字　　<lb
+ n="0484b04" ed="T"/>而有普同旋轉相　　向具輪前至敬禮　　<lb
+ n="0484b05" ed="T"/>一切剎土皆清淨　　多寶花遍佈其中　　<lb
+ n="0484b06" ed="T"/>誕生三世諸佛母　　是母尊前致敬禮　　<lb
+ n="0484b07" ed="T"/>聖母度母救度母　　增益壽母如意輪　　<lb
+ n="0484b08" ed="T"/>佛母尊前勇祈禱　　為消我等壽緣魔　　<lb
+ n="0484b09" ed="T"/>病及一切苦難中　　仗爾有能祈保護　　<lb
+ n="0484b10" ed="T"/>勝及通常諸成就　　為皆賜我盡無餘　　<lb
+ n="0484b11" ed="T"/>聖母尊前誠敬者　　彼常憶念悉如子　　<lb
+ n="0484b12" ed="T"/>尊前我亦致禱祝　　惟祈常持慈悲鉤　　<lb
+ n="0484b13" ed="T"/>佛母勝身如月色　　窈窕柔善體端嚴　　<lb
+ n="0484b14" ed="T"/>妙相俱著寶莊飾　　而以佳絹為裙裳　　<lb
+ n="0484b15" ed="T"/>蓮華月輪寶座上　　兩足金剛跏趺坐　　<lb
+ n="0484b16" ed="T"/>一面二臂具喜顏　　生三世諸佛之母　　<lb
+ n="0484b17" ed="T"/>佛母尊前常與跪　　今在尊前以微讚　　<lb
+ n="0484b18" ed="T"/>所為我等修道時　　從此以往至菩提　　<lb
+ n="0484b19" ed="T"/>消除其中諸逆緣　　願於順緣獲豐足　　
+</ab><lb
+ n="0484b20" ed="T"/><ab type='dharani'>唵答哷都答哷都嘛嘛阿俞逋<lb
+ n="0484b21" ed="T"/>葉納逋真沽嚕葉娑訶<lb
+ n="0484b23" ed="T"/></ab>
+<ab type='prose'>。<lb
+ n="0484b24" ed="T"/>
+</ab><ab type='juan' subtype='close'>白救度佛母讚竟</ab></div>
+</body></text></TEI>

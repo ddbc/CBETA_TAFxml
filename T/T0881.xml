@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">賢劫十六尊</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0881</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0339a17" ed="T"/><lb
+ n="0339a18" ed="T"/><lb
+ n="0339a19" ed="T"/><lb
+ n="0339a20" ed="T"/><lb
+ n="0339a21" ed="T"/>
+<ab type='juan' subtype='open'>賢劫十六尊</ab><lb
+ n="0339a22" ed="T"/><lb
+ n="0339a23" ed="T"/><div type='jing' level='2'><ab type='verse'>
+於彼輪壇外　　賢劫千佛中　　<lb
+ n="0339a24" ed="T"/>十六為上首　　彌勒持軍持　　<lb
+ n="0339a25" ed="T"/>不空蓮華眼　　除憂梵夾相　　<lb
+ n="0339a26" ed="T"/>除惡三股杵　　香象執蓮華　　<lb
+ n="0339a27" ed="T"/>大精進鏘戟　　虛空藏寶光　　<lb
+ n="0339a28" ed="T"/>智幢幢幖幟　　無量光蓮華　　<lb
+ n="0339a29" ed="T"/>賢護持寶瓶　　綱明綱傘蓋　　<pb n="0339b" id="T18.0881.0339b" ed="T"/><lb
+ n="0339b01" ed="T"/>月光半月幢　　無量意梵夾　　<lb
+ n="0339b02" ed="T"/>辨積持華雲　　金剛藏獨股　　<lb
+ n="0339b03" ed="T"/>普賢五智印　　種子初阿字　　<lb
+ n="0339b04" ed="T"/>吽字左按地　　
+</ab><lb
+ n="0339b05" ed="T"/><ab type='prose'>彼彼真言曰。<lb
+ n="0339b06" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􄗬每去􄩤怛隸二合􄗲夜􄗱野􇩉娑嚩􄚩賀􆿅阿<lb
+ n="0339b07" ed="T"/><lb
+ n="0339b08" ed="T"/>􇩂唵􆿅阿􄗭目􄑤佉引􄕯那􈋧㗚捨二合􄖩曩􄗱野􅁥娑嚩􄚩賀<lb
+ n="0339b09" ed="T"/><lb
+ n="0339b10" ed="T"/>􄑘誐<lb
+ n="0339b11" ed="T"/><lb
+ n="0339b12" ed="T"/>􇩂唵􄙺薩􅞤嚩􄖶幡引􄗱野􄒶惹􄚩賀􄗱野􅁥娑嚩􄚩賀􄗚婆<lb
+ n="0339b13" ed="T"/><lb
+ n="0339b14" ed="T"/>􇩂唵􄙺薩􅞣嚩􄙪戌􄑀迦􄕗怛􄗭母􄖫儞􈋩㗚伽二合􄕗多􄗥摩<lb
+ n="0339b15" ed="T"/><lb
+ n="0339b16" ed="T"/>􄕗多􄗷曳􅁥娑嚩􄚩賀􈂵暗<lb
+ n="0339b17" ed="T"/><lb
+ n="0339b18" ed="T"/>􇩂唵􄑘誐􄾫馱􄚩賀引􆶫悉多二合􄖫儞􅁥娑嚩􄚩賀􄑣虐<lb
+ n="0339b19" ed="T"/><lb
+ n="0339b20" ed="T"/>􇩂唵􄙧󰡊􄗽羅又􄗲野引􅁥娑嚩􄚩賀􄙘尾<lb
+ n="0339b21" ed="T"/><lb
+ n="0339b22" ed="T"/>􇩂唵􄑘誐􄑘誐􄖩曩􄑘彥􄒶惹引􄗱野􅁥娑嚩􄚩賀􆿆惡<lb
+ n="0339b23" ed="T"/><lb
+ n="0339b24" ed="T"/>􇩂唵􈂤枳孃二合􄖩曩􄑆計􄕛都􄙜昧􅁥娑嚩􄚩賀􈂷怛藍二合<lb
+ n="0339b25" ed="T"/><lb
+ n="0339b26" ed="T"/><lb
+ n="0339b27" ed="T"/>􇩂唵􆿅阿􄗧彌􄕗多􄪼鉢羅二合􄗙婆􄗱野􅁥娑嚩􄚩賀􈆮特鑁二合<lb
+ n="0339b28" ed="T"/><lb
+ n="0339b29" ed="T"/><pb n="0339c" id="T18.0881.0339c" ed="T"/><lb
+ n="0339c01" ed="T"/>􇩂唵􄗙跋􄩶捺羅二合􄖵播􄙊邏􄗱野􅁥娑嚩􄚩賀􆯷鉢里二合<lb
+ n="0339c02" ed="T"/><lb
+ n="0339c03" ed="T"/><lb
+ n="0339c04" ed="T"/>􇩂唵􈁊惹引􄙀里􄖫儞􄪼鉢羅二合􄗙婆􄗱野􅁥娑嚩􄚩賀<lb
+ n="0339c05" ed="T"/><lb
+ n="0339c06" ed="T"/>􄓁惹<lb
+ n="0339c07" ed="T"/><lb
+ n="0339c08" ed="T"/>􇩂唵􄑼贊􈁋捺羅二合􄪼鉢羅二合􄗙婆􄗱野􅁥娑嚩􄚩賀<lb
+ n="0339c09" ed="T"/><lb
+ n="0339c10" ed="T"/>􄗥摩<lb
+ n="0339c11" ed="T"/><lb
+ n="0339c12" ed="T"/>􇩂唵􆿅阿􄚴吃叉二合􄗱野􄗥摩􄕗多􄗷曳􅁥娑嚩􄚩賀<lb
+ n="0339c13" ed="T"/><lb
+ n="0339c14" ed="T"/>􈂤吉儞也<lb
+ n="0339c15" ed="T"/><lb
+ n="0339c16" ed="T"/>􇩂唵􄪼鉢羅二合􄕙底􄗙婆􄕯那􄑄俱􄓚吒􄗱野􅁥娑嚩􄚩賀<lb
+ n="0339c17" ed="T"/><lb
+ n="0339c18" ed="T"/>􄙈藍<lb
+ n="0339c19" ed="T"/><lb
+ n="0339c20" ed="T"/>􇩂唵􄙖嚩􄦽日羅二合􄑘蘖􅝑婆􄗱野􅁥娑嚩􄚩賀􄙖縛<lb
+ n="0339c21" ed="T"/><lb
+ n="0339c22" ed="T"/>􇩂唵􄙺三􄗥曼􄕗多􄗙跋􄩶捺羅二合􄗱野􅁥娑嚩􄚩賀􆿔惡<lb
+ n="0339c23" ed="T"/><lb
+ n="0339c24" ed="T"/></ab>
+<ab type='verse'>
+金剛界外院　　地居空行天　　<pb n="0340a" id="T18.0881.0340a" ed="T"/><lb
+ n="0340a01" ed="T"/>略說有五類　　忿怒稱吽字　　<lb
+ n="0340a02" ed="T"/>安布二十天　　芰荷以為座　　<lb
+ n="0340a03" ed="T"/>東北那羅延　　執輪羅剎形　　<lb
+ n="0340a04" ed="T"/>俱摩羅鈴契　　摧碎夜迦天　　<lb
+ n="0340a05" ed="T"/>傘蓋寶東門　　梵天持紅蓮　　<lb
+ n="0340a06" ed="T"/>天帝獨股杵　　火天在東南　　<lb
+ n="0340a07" ed="T"/>三角為標幟　　日天童子形　　<lb
+ n="0340a08" ed="T"/>金剛食持鬘　　焰魔檀荼印　　<lb
+ n="0340a09" ed="T"/>熒惑火光聚　　西南羅剎主　　<lb
+ n="0340a10" ed="T"/>執鎚并眷屬　　歲星天持棒　　<lb
+ n="0340a11" ed="T"/>金剛衣夜迦　　西門持弓箭　　<lb
+ n="0340a12" ed="T"/>水天執羂索　　次置於月天　　<lb
+ n="0340a13" ed="T"/>風幢西北隅　　金剛面執鉤　　<lb
+ n="0340a14" ed="T"/>調伏金剛劍　　門東多門天　　<lb
+ n="0340a15" ed="T"/>掌塔持寶棒　　伊舍那戟印　　
+</ab><lb
+ n="0340a16" ed="T"/><ab type='prose'>彼彼真言曰。<lb
+ n="0340a17" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􄗥摩􄙋羅􄙖縛􄦽日羅二合<lb
+ n="0340a18" ed="T"/><lb
+ n="0340a19" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􈋩健􄓚吒<lb
+ n="0340a20" ed="T"/><lb
+ n="0340a21" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄑞遇􄙀拏<lb
+ n="0340a22" ed="T"/><lb
+ n="0340a23" ed="T"/>􇩂唵􄙖縛􄦽日羅􄗭慕􄖩曩<lb
+ n="0340a24" ed="T"/><lb
+ n="0340a25" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄗱庾􄕻馱<lb
+ n="0340a26" ed="T"/><lb
+ n="0340a27" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄖩曩􄙊攞<lb
+ n="0340a28" ed="T"/><pb n="0340b" id="T18.0881.0340b" ed="T"/><lb
+ n="0340b01" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄑄矩􄕯吒􄙀利<lb
+ n="0340b02" ed="T"/><lb
+ n="0340b03" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄗥摩􄕍尼􄙊攞<lb
+ n="0340b04" ed="T"/><lb
+ n="0340b05" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄑀迦􄙊攞<lb
+ n="0340b06" ed="T"/><lb
+ n="0340b07" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􈂸氷􄑘誐􄗽羅<lb
+ n="0340b08" ed="T"/><lb
+ n="0340b09" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄕯難􆧽拏<lb
+ n="0340b10" ed="T"/><lb
+ n="0340b11" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􈁃母􄙺娑􄙊羅<lb
+ n="0340b12" ed="T"/><lb
+ n="0340b13" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄙖縛􄙥始<lb
+ n="0340b14" ed="T"/><lb
+ n="0340b15" ed="T"/>􇩂唵􄖩曩􄑘誐􄙖縛􄦽日羅二合<lb
+ n="0340b16" ed="T"/><lb
+ n="0340b17" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄪼鉢羅二合􄗙婆<lb
+ n="0340b18" ed="T"/><lb
+ n="0340b19" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄖫儞􄙊羅<lb
+ n="0340b20" ed="T"/><lb
+ n="0340b21" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄑄矩􄙢捨<lb
+ n="0340b22" ed="T"/><lb
+ n="0340b23" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄒶惹􄗱野<lb
+ n="0340b24" ed="T"/><lb
+ n="0340b25" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􄙝陪引􄗽羅􄙖縛<lb
+ n="0340b26" ed="T"/><lb
+ n="0340b27" ed="T"/>􇩂唵􄙂嚕􄩶捺羅二合􄗱野􄙖縛􄦽日囉二合<lb
+ n="0340b28" ed="T"/><lb
+ n="0340b29" ed="T"/></ab>
+<ab type='verse'>
+如是大天眾　　威德有多門　　<pb n="0340c" id="T18.0881.0340c" ed="T"/><lb
+ n="0340c01" ed="T"/>妃后並眷屬　　皆在曼荼羅　　<lb
+ n="0340c02" ed="T"/>應當具開示　　供養夜迦天　　<lb
+ n="0340c03" ed="T"/>應居北門東　　
+</ab><lb
+ n="0340c04" ed="T"/><ab type='prose'>彼真言曰。<lb
+ n="0340c05" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􄙖縛􄦽日羅二合􄙘尾􄖩曩􄗱野􄑀迦􅁥娑嚩二合􄚩賀</ab></div><lb
+ n="0340c06" ed="T"/><lb
+ n="0340c07" ed="T"/>
+<ab type='juan' subtype='close'>十六尊</ab><lb
+ n="0340c08" ed="T"/><div type='w' level='2'><ab type='prose'>享和二壬戌年五月以京兆智積院之本挍。<lb
+ n="0340c09" ed="T"/>豐山小池坊什本梓印行於世。<lb
+ n="0340c10" ed="T"/>長谷妙音院寓居上毛沙門快道誌</ab></div></div>
+</body></text></TEI>

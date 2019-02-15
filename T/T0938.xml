@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">釋迦文尼佛金剛一乘修行儀軌法品</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0938</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0086c12" ed="T"/><lb
+ n="0086c13" ed="T"/><lb
+ n="0086c14" ed="T"/><div type='jing' level='1'><lb
+ n="0086c15" ed="T"/>
+<ab type='juan' subtype='open'>釋迦文尼佛金剛一乘修行儀<lb
+ n="0086c16" ed="T"/>軌法品一卷</ab><lb
+ n="0086c17" ed="T"/><lb
+ n="0086c18" ed="T"/><ab type='prose'>歸命大智海毘盧遮那如來祕密主金剛手大<lb
+ n="0086c19" ed="T"/>菩薩。我善無畏蒙佛聖旨。竊案梵本聊得修<lb
+ n="0086c20" ed="T"/>三密門祕密軌則。所以今說釋迦世尊修瑜<lb
+ n="0086c21" ed="T"/>伽行。欲修此法者先發無上正真之心。身著<lb
+ n="0086c22" ed="T"/>忍辱聖衣。口常讀誦􆿅􄕻􅝝如是三密相應<lb
+ n="0086c23" ed="T"/>不違。然後往詣瑜伽阿闍梨所。受祕密儀持<lb
+ n="0086c24" ed="T"/>念修行速得成就。毘盧遮那言。彼阿闍梨。若<lb
+ n="0086c25" ed="T"/>見眾生堪為法器遠離諸垢有大信解勤勇深<lb
+ n="0086c26" ed="T"/>信常念利他。若弟子具如是相貌者。阿闍梨<lb
+ n="0086c27" ed="T"/>應自往勸發之。復有二種弟子。一者已發菩<lb
+ n="0086c28" ed="T"/>提心。師往弟子所而勸進。二者未發菩提心。<lb
+ n="0086c29" ed="T"/>弟子往師所而勸進。其中有智最為殊勝。如<pb n="0087a" id="T19.0938.0087a" ed="T"/><lb
+ n="0087a01" ed="T"/>是知已乃可傳受。金剛手菩薩白毘盧遮那<lb
+ n="0087a02" ed="T"/>佛言。我見佛色身戴大寶冠。冠中現五佛標<lb
+ n="0087a03" ed="T"/>非因非果。處大月輪住於虛空常寂光處。恒<lb
+ n="0087a04" ed="T"/>說金剛祕密之教。聲聞緣覺所不能知。或居<lb
+ n="0087a05" ed="T"/>蓮華臺上現報佛身。更說金剛一乘法界唯<lb
+ n="0087a06" ed="T"/>心無上祕法。我等依內證之德常見常聞。唯<lb
+ n="0087a07" ed="T"/>諸新發者迷惑不解。唯願世尊隨眾生意。而<lb
+ n="0087a08" ed="T"/>作利益。佛若許可。我欲宣說如來應現釋迦<lb
+ n="0087a09" ed="T"/>牟曩曳法。為諸愚人得佛慧故。唯願如來隨<lb
+ n="0087a10" ed="T"/>機說法聞方便慧。令諸眾生示真實相悟金<lb
+ n="0087a11" ed="T"/>剛乘入阿字門。說是語已。毘盧遮那言。善哉<lb
+ n="0087a12" ed="T"/>普賢能知我心。令我生悅。我於昔時修三密<lb
+ n="0087a13" ed="T"/>門證執金剛。乃坐金剛妙菩提座。降伏眾魔<lb
+ n="0087a14" ed="T"/>成等正覺。從是以來經於多世。而諸眾生由<lb
+ n="0087a15" ed="T"/>宿福故。雖會我所隨機得見。任根得聞如汝<lb
+ n="0087a16" ed="T"/>見我。於色界頂第四靜慮成等正覺。即下蘇<lb
+ n="0087a17" ed="T"/>彌盧頂。於金剛大因陀羅壇。一切如來請我<lb
+ n="0087a18" ed="T"/>轉法四種輪。一一輪中各有三十七聖者。住<lb
+ n="0087a19" ed="T"/>非愍三昧降眾天魔令入正見。今正是時。更<lb
+ n="0087a20" ed="T"/>欲演說大乘無上祕法。然後當歸圓寂之道。<lb
+ n="0087a21" ed="T"/>如來祕密神通之力。無智人中勿妄宣傳我<lb
+ n="0087a22" ed="T"/>今聽許。宜應速說我之應形隨類之法。汝依<lb
+ n="0087a23" ed="T"/>真實法儀。應說應祕。說是語已寂然而坐。<lb
+ n="0087a24" ed="T"/>于時金剛手。心懷踊躍。乃現眾前而說是法。<lb
+ n="0087a25" ed="T"/>若欲報無上世尊恩德者。先作曼荼羅。其中<lb
+ n="0087a26" ed="T"/>央畫釋迦牟曩像。金色之身具四八相。被服<lb
+ n="0087a27" ed="T"/>袈裟應身說法相。智手吉祥印。理手向上置<lb
+ n="0087a28" ed="T"/>智前。於白蓮花臺結跏趺坐。普賢文殊觀<lb
+ n="0087a29" ed="T"/>音彌勒住於四隅。如胎藏說。各坐蓮花半跏<pb n="0087b" id="T19.0938.0087b" ed="T"/><lb
+ n="0087b01" ed="T"/>而居。於佛前有如來鉢。於佛右邊有賢瓶含<lb
+ n="0087b02" ed="T"/>花。於佛後有錫杖。於佛左邊有寶螺。各安蓮<lb
+ n="0087b03" ed="T"/>葉上光炎圍繞。畫曼荼羅已。於空閑寂寞仙<lb
+ n="0087b04" ed="T"/>人得道所。或淨室或舍利塔前或山頂樹下。<lb
+ n="0087b05" ed="T"/>在一處安置曼荼羅。<lb
+ n="0087b06" ed="T"/>次設壇場莊嚴供具。所謂塗香時花燒香飲<lb
+ n="0087b07" ed="T"/>食燈明及與閼伽香水以為六種。或有智慧<lb
+ n="0087b08" ed="T"/>以理為供。晝夜三時澡浴身體。或觀理以真<lb
+ n="0087b09" ed="T"/>實明灑頂為水。<lb
+ n="0087b10" ed="T"/>每到道場時作禮。禮有三種。一者音禮。二者<lb
+ n="0087b11" ed="T"/>心禮。三者身禮。是則三業禮拜也。若行若住<lb
+ n="0087b12" ed="T"/>若坐若臥。稱南謨字是為音禮。復於恒時雖<lb
+ n="0087b13" ed="T"/>不出音。歸唯心中觀世尊德。隨喜歸命是為<lb
+ n="0087b14" ed="T"/>心禮。復五輪著地或作合掌<lb
+ n="0087b15" ed="T"/>低頭是為身禮。禮者要不須身投地。但歸敬<lb
+ n="0087b16" ed="T"/>為禮。所以稽吾上頭。而觸世尊之下足故名<lb
+ n="0087b17" ed="T"/>稽首。<lb
+ n="0087b18" ed="T"/>次懺悔罪障事理二懺。次隨喜聖凡德。次請<lb
+ n="0087b19" ed="T"/>佛住世。次迴向發願然後廣陳供養。而作念<lb
+ n="0087b20" ed="T"/>誦轉大乘經隨意作之。若住此法所須皆成。<lb
+ n="0087b21" ed="T"/>不轉此身見佛色身。生生世世離諸惡趣。常<lb
+ n="0087b22" ed="T"/>得興法利生之德。疾證無上正等菩提。隨根<lb
+ n="0087b23" ed="T"/>得成。若求仙果。佛現瞿曇仙。而為說法。若求<lb
+ n="0087b24" ed="T"/>大乘。普賢現身。而為說法。漸漸誘彼令入佛<lb
+ n="0087b25" ed="T"/>道。<lb
+ n="0087b26" ed="T"/>次說手印　如來鉢印。<lb
+ n="0087b27" ed="T"/>先以右手當心仰掌。次以左手掌覆合右手<lb
+ n="0087b28" ed="T"/>掌上。其左小指頭與右大指頭相拄。其左大<lb
+ n="0087b29" ed="T"/>指頭與右小指頭相拄印呪曰。<pb n="0087c" id="T19.0938.0087c" ed="T"/><lb
+ n="0087c01" ed="T"/></ab>
+<ab type='dharani'>娜莫三曼多勃馱南唵路迦播羅地恥多馱<lb
+ n="0087c02" ed="T"/>羅野馱羅野摩訶那皤嚩勃馱播怛羅<lb
+ n="0087c03" ed="T"/>莎訶<lb
+ n="0087c04" ed="T"/></ab>
+<ab type='prose'>是法印呪具大精進。常為一切如來神力而<lb
+ n="0087c05" ed="T"/>加護之。當結是印并誦此呪一遍。終稱憶地<lb
+ n="0087c06" ed="T"/>獄餓鬼有情滿百八遍。則得地獄一切餓鬼<lb
+ n="0087c07" ed="T"/>飽食諸食。若曠野行亦結此印并誦是呪。則<lb
+ n="0087c08" ed="T"/>得曠野一切鬼神不相嬈。若欲飛鉢亦用此<lb
+ n="0087c09" ed="T"/>印呪也。<lb
+ n="0087c10" ed="T"/>次如來甘露印。<lb
+ n="0087c11" ed="T"/>以右手大母指。橫押頭指中指無名指小指<lb
+ n="0087c12" ed="T"/>甲。呪曰。<lb
+ n="0087c13" ed="T"/></ab>
+<ab type='dharani'>唵印倪𩕳部哆𩕳莎訶<lb
+ n="0087c14" ed="T"/></ab>
+<ab type='prose'>是印呪。能令持者證甘露法大解脫門。<lb
+ n="0087c15" ed="T"/>次如來錫杖印。<lb
+ n="0087c16" ed="T"/>先以右手大母指。橫屈入掌。以頭指無名指<lb
+ n="0087c17" ed="T"/>小指。急握作拳屈肘掌當前平申。其左手把<lb
+ n="0087c18" ed="T"/>袈裟角。出頭四寸。亦屈肘當前平申。呪曰<lb
+ n="0087c19" ed="T"/>。<lb
+ n="0087c20" ed="T"/></ab>
+<ab type='dharani'>唵度那諮馱羅拏吽<lb
+ n="0087c21" ed="T"/></ab>
+<ab type='prose'>是法呪。善根成就慈願圓滿。若遇諸惡一切<lb
+ n="0087c22" ed="T"/>有情。則結是印用擁護身。<lb
+ n="0087c23" ed="T"/>次大法螺真言印。<lb
+ n="0087c24" ed="T"/>定慧虛心合掌屈風空交。呪曰。<lb
+ n="0087c25" ed="T"/></ab>
+<ab type='dharani'>暗<lb
+ n="0087c26" ed="T"/></ab>
+<ab type='prose'>次根本毘盧遮那化身印。<lb
+ n="0087c27" ed="T"/>定手水空相捻。慧手亦爾。二手水空共相著。<lb
+ n="0087c28" ed="T"/>餘地火風三指散竪。釋迦文佛真言曰。<lb
+ n="0087c29" ed="T"/></ab>
+<ab type='dharani'>曩莫糝曼多沒馱喃婆薩縛吃里捨涅<pb n="0088a" id="T19.0938.0088a" ed="T"/><lb
+ n="0088a01" ed="T"/>素娜曩薩嚩達磨嚩始多鉢羅鉢哆<lb
+ n="0088a02" ed="T"/>誐誐曩三摩三摩娑嚩賀<lb
+ n="0088a03" ed="T"/></ab>
+<ab type='prose'>以是真言專注念誦讚應身曰。<lb
+ n="0088a04" ed="T"/></ab>
+<ab type='dharani'>嚩每迦旨囉娑哆擗曩𩕳素多曩娑怛鑁<lb
+ n="0088a05" ed="T"/>跛曬迦賀娑多鼻里俱胝穆佉<lb
+ n="0088a06" ed="T"/>髻迦羅乞懺若悉底哩野地尾<lb
+ n="0088a07" ed="T"/>罽爾娜縛哩鉢羅底僧娑覩多娑<lb
+ n="0088a08" ed="T"/>怛鑁阿哩摘曩麼儞野阿者攞制吒<lb
+ n="0088a09" ed="T"/>南弭地焰<lb
+ n="0088a10" ed="T"/></ab>
+<ab type='prose'>供養儀式勸請奉送。皆依如來部應修之。如<lb
+ n="0088a11" ed="T"/>蘇悉地等說。以佛眼尊為部母。以難勝忿怒<lb
+ n="0088a12" ed="T"/>為結護明王如是勸修然後出道場。轉<lb
+ n="0088a13" ed="T"/>誦大乘心常繫一實境。無有間斷是法易成<lb
+ n="0088a14" ed="T"/>也。釋迦牟曩曳微妙金剛乘法說已竟。<lb
+ n="0088a15" ed="T"/>
+</ab><ab type='juan' subtype='close'>釋迦文佛法一卷</ab></div>
+</body></text></TEI>

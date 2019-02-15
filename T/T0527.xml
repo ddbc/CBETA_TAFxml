@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說逝童子經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0527</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0801c21" ed="T"/><lb
+ ed="T" n="0801c22"/><lb
+ n="0801c23" ed="T"/><lb
+ n="0801c24" ed="T"/>
+<ab type='juan' subtype='open'>佛說逝童子經</ab><lb
+ ed="T" n="0801c25"/><lb
+ ed="T" n="0801c26"/><byline>西晉沙門支法度譯</byline><lb
+ ed="T" n="0801c27"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在羅閱祇耆闍崛山中。平旦<lb
+ ed="T" n="0801c28"/>從諸比丘，被袈裟持應器入城分衛。佛行向<lb
+ n="0801c29" ed="T"/>富迦羅越門，富迦羅越有子，年十六，名曰逝，<pb id="T14.0527.0802a" n="0802a" ed="T"/><lb
+ n="0802a01" ed="T"/>時在第三門內遙見佛來，身有奇相容貌端<lb
+ ed="T" n="0802a02"/>正，心意安靜諸根寂寞，項中光出影耀殊<lb
+ n="0802a03" ed="T"/>絕，炎明熾盛，若日之淨、月盛滿時，悉照門內。<lb
+ n="0802a04" ed="T"/>逝見佛如是，心中歡喜肅然而敬，便趨上<lb
+ ed="T" n="0802a05"/>堂，為母說偈言：<lb
+ ed="T" n="0802a06"/></ab>
+<ab type='verse'>
+「金光色百餘，　　希此所見聞，　　<lb
+ ed="T" n="0802a07"/>今來住在外，　　當給其所求。　　<lb
+ n="0802a08" ed="T"/>威儀過梵王，　　光顏殊諸天，　　<lb
+ n="0802a09" ed="T"/>哀我故來耳，　　願以持與之。」　　
+</ab><lb
+ ed="T" n="0802a10"/><ab type='prose'>其母聞逝言，即告曰：「如汝所稱者，其人豈貧<lb
+ n="0802a11" ed="T"/>窮？何為當乞兒耶？一何惑哉！今所言者殊<lb
+ ed="T" n="0802a12"/>不合義。」爾時，佛便以神足現化，放身光明徹<lb
+ n="0802a13" ed="T"/>照七重門內，盡為大明。逝感佛威神，復為母<lb
+ n="0802a14" ed="T"/>說偈言：<lb
+ ed="T" n="0802a15"/></ab>
+<ab type='verse'>
+「譬如人見火，　　端自投其中，　　<lb
+ n="0802a16" ed="T"/>不善向佛者，　　自賊亦如是。　　<lb
+ ed="T" n="0802a17"/>天人中獨尊，　　至聖無復上，　　<lb
+ ed="T" n="0802a18"/>是最可供養，　　施必得大利。　　<lb
+ n="0802a19" ed="T"/>今所有食分，　　願取用與我，　　<lb
+ n="0802a20" ed="T"/>欲以奉上尊，　　此歡難常值。」　　
+</ab><lb
+ n="0802a21" ed="T"/><ab type='prose'>其母即以所有好衣及食具與逝，逝持出詣<lb
+ n="0802a22" ed="T"/>佛所，以頭面著地，為佛作禮，却住一面，叉手<lb
+ n="0802a23" ed="T"/>白佛言：「今我見如來，虔心恭敬注意於佛，惟<lb
+ ed="T" n="0802a24"/>以加哀受己所施。」佛應時受之，為逝說偈言：<lb
+ ed="T" n="0802a25"/></ab>
+<ab type='verse'>
+「汝以伏慳意，　　能善修治施，　　<lb
+ ed="T" n="0802a26"/>今日供養佛，　　所念莫不吉。」　　
+</ab><lb
+ n="0802a27" ed="T"/><ab type='prose'>逝聞佛所語，即自說偈言：<lb
+ ed="T" n="0802a28"/></ab>
+<ab type='verse'>
+「我不願富貴，　　亦弗望釋梵，　　<lb
+ n="0802a29" ed="T"/>但願最智慧，　　如佛而無上。」　　
+</ab><pb id="T14.0527.0802b" ed="T" n="0802b"/><lb
+ ed="T" n="0802b01"/><ab type='prose'>爾時，天帝釋下立逝前，說偈言：<lb
+ n="0802b02" ed="T"/></ab>
+<ab type='verse'>
+「纔用一布施，　　欲求佛者難，　　<lb
+ n="0802b03" ed="T"/>道常世世施，　　積若須彌寶，　　<lb
+ ed="T" n="0802b04"/>經歷千億劫，　　恒行慈愛心，　　<lb
+ n="0802b05" ed="T"/>不可以一施，　　得覺無上道。」　　
+</ab><lb
+ ed="T" n="0802b06"/><ab type='prose'>逝即答天帝釋，說偈言：<lb
+ ed="T" n="0802b07"/></ab>
+<ab type='verse'>
+「譬如大工匠，　　欲伐巨木者，　　<lb
+ ed="T" n="0802b08"/>猶不一下斧，　　便以斷大樹。　　<lb
+ n="0802b09" ed="T"/>斧斫稍以漸，　　可盡太山木，　　<lb
+ ed="T" n="0802b10"/>剝業從微得，　　求道亦如是。　　<lb
+ ed="T" n="0802b11"/>明不用一施，　　而得成大道，　　<lb
+ n="0802b12" ed="T"/>我有信精進，　　必為世間將。」　　
+</ab><lb
+ ed="T" n="0802b13"/><ab type='prose'>天帝釋復為逝說偈言：<lb
+ ed="T" n="0802b14"/></ab>
+<ab type='verse'>
+「不如求尊天，　　釋梵易可得，　　<lb
+ ed="T" n="0802b15"/>尠能應佛法，　　佛道甚難得。」　　
+</ab><lb
+ ed="T" n="0802b16"/><ab type='prose'>逝答天帝釋，說偈言：<lb
+ ed="T" n="0802b17"/></ab>
+<ab type='verse'>
+「設使一天下，　　滿中火洞然，　　<lb
+ ed="T" n="0802b18"/>吾以身遍投，　　終不捨佛意；　　<lb
+ n="0802b19" ed="T"/>假令一切人，　　皆共賊害我，　　<lb
+ ed="T" n="0802b20"/>願常慈心向，　　終不廢大道。　　<lb
+ n="0802b21" ed="T"/>脆哉釋梵天，　　彼皆為死法，　　<lb
+ ed="T" n="0802b22"/>願歸一切智，　　勇若師子雄。」　　
+</ab><lb
+ ed="T" n="0802b23"/><ab type='prose'>天帝釋復為逝說一偈言：<lb
+ n="0802b24" ed="T"/></ab>
+<ab type='verse'>
+「快哉得善利！　　乃有敬在佛，　　<lb
+ ed="T" n="0802b25"/>專精向大道，　　想汝必作佛。」　　
+</ab><lb
+ n="0802b26" ed="T"/><ab type='prose'>逝答天帝釋，說偈言：<lb
+ ed="T" n="0802b27"/></ab>
+<ab type='verse'>
+「天王且勿疑，　　於斯無上道，　　<lb
+ ed="T" n="0802b28"/>精進吾匪懈，　　會於世為佛。」　　
+</ab><lb
+ ed="T" n="0802b29"/><ab type='prose'>於是，天帝釋默然。時佛為逝說偈言：<pb id="T14.0527.0802c" ed="T" n="0802c"/><lb
+ n="0802c01" ed="T"/></ab>
+<ab type='verse'>
+「汝已於往世，　　敬事八千佛，　　<lb
+ n="0802c02" ed="T"/>心常願大道，　　欲得安群生。　　<lb
+ ed="T" n="0802c03"/>後十二億劫，　　終不墮惡道，　　<lb
+ ed="T" n="0802c04"/>但多修德善，　　恒以興尊意。　　<lb
+ n="0802c05" ed="T"/>汝當百億返，　　作王遮迦越，　　<lb
+ ed="T" n="0802c06"/>亦為四天王，　　每輒行正法。　　<lb
+ ed="T" n="0802c07"/>又當為帝釋，　　未常遠梵行，　　<lb
+ ed="T" n="0802c08"/>後生兜術天，　　然則道德成。　　<lb
+ n="0802c09" ed="T"/>當居千國界，　　中央得作佛，　　<lb
+ ed="T" n="0802c10"/>名曰須彌劫，　　一切莫不事。　　<lb
+ ed="T" n="0802c11"/>千國各橫廣，　　四百八十里，　　<lb
+ ed="T" n="0802c12"/>宮牆之嚴飾，　　一切皆以寶。　　<lb
+ ed="T" n="0802c13"/>初會說法時，　　六十千億人，　　<lb
+ n="0802c14" ed="T"/>為弟子得度，　　皆得阿羅漢；　　<lb
+ ed="T" n="0802c15"/>再會說經時，　　四十千億人，　　<lb
+ n="0802c16" ed="T"/>皆入羅漢慧，　　所度為甚眾；　　<lb
+ ed="T" n="0802c17"/>三會說經時，　　所度甚眾多，　　<lb
+ ed="T" n="0802c18"/>離垢入淨慧，　　悉得無所著。　　<lb
+ ed="T" n="0802c19"/>是時佛剎中，　　無有亂惡眾，　　<lb
+ n="0802c20" ed="T"/>皆悉向道法，　　一切行忠直；　　<lb
+ n="0802c21" ed="T"/>疾病之憂苦，　　都已無是鬼，　　<lb
+ ed="T" n="0802c22"/>時人皆和睦，　　展轉相念安；　　<lb
+ ed="T" n="0802c23"/>天日三時雨，　　纔足掩土塵，　　<lb
+ ed="T" n="0802c24"/>寒暑常調適，　　度人若干種。　　<lb
+ n="0802c25" ed="T"/>族姓之男女，　　若欲興善意，　　<lb
+ n="0802c26" ed="T"/>敬愛於佛者，　　供養當如此。　　<lb
+ ed="T" n="0802c27"/>吾今敷演是，　　菩薩所當行，　　<lb
+ ed="T" n="0802c28"/>面於正覺前，　　即得佛慧眼。　　<lb
+ n="0802c29" ed="T"/>諸佛無有數，　　經法不可盡，　　<pb id="T14.0527.0803a" ed="T" n="0803a"/><lb
+ ed="T" n="0803a01"/>若以無數敬，　　福報亦無量。」　　
+</ab><lb
+ n="0803a02" ed="T"/><ab type='prose'>佛說是決已，迦羅越子逝，天帝釋及諸比<lb
+ ed="T" n="0803a03"/>丘，聞經歡喜，皆前為佛作禮而去。</ab></div><lb
+ ed="T" n="0803a04"/>
+<ab type='juan' subtype='close'>逝童子經</ab>
+</body></text></TEI>

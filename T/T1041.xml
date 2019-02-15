@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">觀自在菩薩心真言一印念誦法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1041</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0032a17" ed="T"/><lb
+ n="0032a18" ed="T"/><lb
+ n="0032a19" ed="T"/><lb
+ n="0032a20" ed="T"/><lb
+ n="0032a21" ed="T"/>
+<ab type='juan' subtype='open'>觀自在菩薩心真言一印念誦法<lb
+ n="0032a22" ed="T"/></ab><lb
+ n="0032a23" ed="T"/><lb
+ n="0032a24" ed="T"/><byline>大興善寺三藏沙門大廣智<lb
+ n="0032a25" ed="T"/>不空奉　詔譯</byline><lb
+ n="0032a26" ed="T"/><div type='jing' level='2'><ab type='prose'>夫修行者欲念誦時。先應誦清淨真言七遍。<lb
+ n="0032a27" ed="T"/>真言曰。<lb
+ n="0032a28" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􄙦󰡊詩聿反􇧼弟􄖭耨􄙣戌引􇧹馱􄖪曩引􄗱野􅁥娑嚩二合引<lb
+ n="0032a29" ed="T"/><pb n="0032b" id="T20.1041.0032b" ed="T"/><lb
+ n="0032b01" ed="T"/>􄚩賀引<lb
+ n="0032b02" ed="T"/><lb
+ n="0032b03" ed="T"/></ab>
+<ab type='prose'>由誦此真言。則獲得三業清淨。則成以功<lb
+ n="0032b04" ed="T"/>德法水灑浴身心。則結觀自在菩薩印。<lb
+ n="0032b05" ed="T"/>二羽相叉作拳。以禪度出外直竪即成。<lb
+ n="0032b06" ed="T"/>誦心真言七遍。真言曰。<lb
+ n="0032b07" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􆿆阿去引􄙆嚧引􄙌力􈅝迦半音􅁥婆嚩二合引<lb
+ n="0032b08" ed="T"/><lb
+ n="0032b09" ed="T"/>􄚩賀引<lb
+ n="0032b10" ed="T"/><lb
+ n="0032b11" ed="T"/></ab>
+<ab type='prose'>由結此印及誦真言。即成三昧耶。又結前<lb
+ n="0032b12" ed="T"/>印誦真言三遍。以印左繞三匝。則成辟除一<lb
+ n="0032b13" ed="T"/>切諸魔障者。又結前印誦真言三遍。以印右<lb
+ n="0032b14" ed="T"/>轉三匝則成結界。<lb
+ n="0032b15" ed="T"/>則想身前八葉蓮華。又結前印誦真言七<lb
+ n="0032b16" ed="T"/>遍。以禪度向身招之。<lb
+ n="0032b17" ed="T"/>則觀自在菩薩。并蓮華部一切聖眾。皆來集<lb
+ n="0032b18" ed="T"/>會。則以二手捧閼伽香水器。當額奉獻誦真<lb
+ n="0032b19" ed="T"/>言七遍。想浴聖眾。<lb
+ n="0032b20" ed="T"/>又結前印誦真言七遍。則成獻蓮華之座。<lb
+ n="0032b21" ed="T"/>又結前印誦真言三遍。則成塗香供養。<lb
+ n="0032b22" ed="T"/>又結前印誦真言三遍。則成華鬘供養。<lb
+ n="0032b23" ed="T"/>又結前印誦真言三遍。則成種種天妙飲<lb
+ n="0032b24" ed="T"/>食供養。<lb
+ n="0032b25" ed="T"/>又結前印誦真言三遍。則成燈燭供養。<lb
+ n="0032b26" ed="T"/>又結前印當心誦真言七遍。則想自身坐於<lb
+ n="0032b27" ed="T"/>八葉蓮華臺中。相好威光具足圓滿等同觀<lb
+ n="0032b28" ed="T"/>自在菩薩。於蓮華八葉。每一一葉上。各有<lb
+ n="0032b29" ed="T"/>一如來入定。面向觀自在菩薩。行者以如是<pb n="0032c" id="T20.1041.0032c" ed="T"/><lb
+ n="0032c01" ed="T"/>觀念極令分明。舉印於頂上散。<lb
+ n="0032c02" ed="T"/>則取念珠蟠於掌中合掌當心。誦加持<lb
+ n="0032c03" ed="T"/>念珠真言七遍。真言曰。<lb
+ n="0032c04" ed="T"/></ab>
+<ab type='dharani'>􇩂唵􄙝尾􄙒嚕引􄑼左􄖩曩引􄗥麼鼻聲􄙊攞􅁥娑嚩二合引<lb
+ n="0032c05" ed="T"/><lb
+ n="0032c06" ed="T"/>􄚩賀引<lb
+ n="0032c07" ed="T"/><lb
+ n="0032c08" ed="T"/></ab>
+<ab type='prose'>則二手當心。各聚五指如未敷蓮華形。當心<lb
+ n="0032c09" ed="T"/>誦真言。不緩不急歷分明不應出聲。寂靜<lb
+ n="0032c10" ed="T"/>念誦每與真言後字聲齊移一珠。於心真<lb
+ n="0032c11" ed="T"/>言句中去初後字。念誦之時勿令散亂。身心<lb
+ n="0032c12" ed="T"/>凝寂更不異緣。唯觀本尊專注念誦。則觀<lb
+ n="0032c13" ed="T"/>想身前八葉蓮華上。有觀自在菩薩相好圓<lb
+ n="0032c14" ed="T"/>滿處月輪中。復觀自身同彼觀自在菩薩等<lb
+ n="0032c15" ed="T"/>無差別。念誦數畢。捧珠頂戴起慈悲心發大<lb
+ n="0032c16" ed="T"/>誓願。一切有情所希望。世間殊勝上願。速<lb
+ n="0032c17" ed="T"/>得成就則安珠本處。<lb
+ n="0032c18" ed="T"/>又結前印當心誦真言七遍。即成三昧耶。<lb
+ n="0032c19" ed="T"/>復以印加持自身五處。所謂額上右肩左<lb
+ n="0032c20" ed="T"/>肩心上及喉是名五處。各誦真言一遍。加<lb
+ n="0032c21" ed="T"/>持頂上散印。<lb
+ n="0032c22" ed="T"/>又結前印如前獻五種供養。各誦真言一遍<pb n="0033a" id="T20.1041.0033a" ed="T"/><lb
+ n="0033a01" ed="T"/>則成廣大供養。則以二手捧閼伽水。當額<lb
+ n="0033a02" ed="T"/>奉獻誦真言一遍。<lb
+ n="0033a03" ed="T"/>又結前印左轉一匝則成解界。<lb
+ n="0033a04" ed="T"/>又結前印以禪度向外擲之誦真言三遍。舉<lb
+ n="0033a05" ed="T"/>印安頂則成奉送一切聖眾。<lb
+ n="0033a06" ed="T"/>又結前印加持。自身五處。各誦真言一遍。<lb
+ n="0033a07" ed="T"/>則成被甲。頂上散印。<lb
+ n="0033a08" ed="T"/>修行者如是依此祕密法要。精誠念誦作<lb
+ n="0033a09" ed="T"/>意修持。一切所為速得成就。世出世間諸願<lb
+ n="0033a10" ed="T"/>圓滿。業障消除三昧現前。不轉此身騰空自<lb
+ n="0033a11" ed="T"/>在隨意。即往十方淨土歷事諸佛。速成無上<lb
+ n="0033a12" ed="T"/>菩提。</ab></div><lb
+ n="0033a13" ed="T"/>
+<ab type='juan' subtype='close'>觀自在菩薩心真言一印念誦法</ab><lb
+ n="0033a14" ed="T"/><div type='w' level='2'><ab type='prose'>八家祕錄云。<lb
+ n="0033a15" ed="T"/>觀自在菩薩心真言一印念誦法不空<lb
+ n="0033a16" ed="T"/>此中仁者圓仁。即慈覺大師之諱也。此本<lb
+ n="0033a17" ed="T"/>則慈覺請來也。</ab></div></div>
+</body></text></TEI>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛藥叉瞋怒王息災大威神驗念誦儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1220</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0098a05" ed="T"/><lb
+ n="0098a06" ed="T"/><lb
+ n="0098a07" ed="T"/><div type='jing' level='1'><lb
+ n="0098a08" ed="T"/>
+<ab type='juan' subtype='open'>金剛藥叉瞋怒王息災大威神驗<lb
+ n="0098a09" ed="T"/>念誦儀軌</ab><lb
+ n="0098a10" ed="T"/><lb
+ n="0098a11" ed="T"/><byline>南天竺三藏金剛智奉　詔譯</byline><lb
+ n="0098a12" ed="T"/><ab type='prose'>爾時金剛手虛空庫菩薩摩訶薩。觀察天宮諸<lb
+ n="0098a13" ed="T"/>大菩薩天龍等八部。而從座起偏袒右肩。白<lb
+ n="0098a14" ed="T"/>釋迦牟尼佛言。乃往古昔無量俱胝大劫。為<lb
+ n="0098a15" ed="T"/>求法故。流轉器世間。多有波旬王等令我<lb
+ n="0098a16" ed="T"/>多退佛法。唯願薄伽梵。聽示現權身說大威<lb
+ n="0098a17" ed="T"/>神驗真言。佛言欲現何權身。答曰願現大<lb
+ n="0098a18" ed="T"/>聖藥叉金剛形。過去佛已現。現在佛今現。未<lb
+ n="0098a19" ed="T"/>來佛當現。我今非過去非現在非未來。現我<lb
+ n="0098a20" ed="T"/>自心三昧忿怒。而守護佛法愍念有情。佛言<lb
+ n="0098a21" ed="T"/>善哉大聖欲護持佛法愍念有情。仁者善可<lb
+ n="0098a22" ed="T"/>現權說大靈驗真言。我與仁加持護念。俱共<lb
+ n="0098a23" ed="T"/>說真言慈護持者。即時未起座。現三面六臂<lb
+ n="0098a24" ed="T"/>大威忿怒為毒形。以七珍瓔珞莊身。其身長<lb
+ n="0098a25" ed="T"/>大無量遍身火焰燃。如劫焰烟威猛。顧視四<lb
+ n="0098a26" ed="T"/>方如獸王象勇猛。誦真言先持行者。捧止<lb
+ n="0098a27" ed="T"/>羽為鈴拳當乳上。以觀羽作劍縛置膝上。以<lb
+ n="0098a28" ed="T"/>止羽共第一噁字反拳縮引。共第二鑁噁返<lb
+ n="0098a29" ed="T"/>觀羽。羽即二手如鳳威粕米勢。共第三噁下<pb n="0098b" id="T21.1220.0098b" ed="T"/><lb
+ n="0098b01" ed="T"/>止上觀拍節出聲。共第四感引二羽磨轉。共<lb
+ n="0098b02" ed="T"/>五發吒互止觀上下三返以拳纏身。置頂左<lb
+ n="0098b03" ed="T"/>三轉成辟除。右三轉成結界。後以印各押四<lb
+ n="0098b04" ed="T"/>合。瞋目怒口。甚怖畏體誦明真言曰。<lb
+ n="0098b05" ed="T"/></ab>
+<ab type='dharani'>曩莫三滿多沒馱南阿󰂛迦也尾曩<lb
+ n="0098b06" ed="T"/>也噁毘只迦也縛日羅菴設咄<lb
+ n="0098b07" ed="T"/>嚧鑁噁達磨薩嚩吒迦爾尾<lb
+ n="0098b08" ed="T"/>伽哩嚀尾伽哩嚀設咄嚧吽噁訖哩訖哩伽𩕳伽𩕳<lb
+ n="0098b10" ed="T"/>伽伽𩕳感嗚祖摩羅𩕳設咄<lb
+ n="0098b11" ed="T"/>嚧吽跋折羅跋折羅多伽𩕳也<lb
+ n="0098b12" ed="T"/>多伽𩕳也娑發吒娑發吒<lb
+ n="0098b13" ed="T"/>吽發吒<lb
+ n="0098b14" ed="T"/></ab>
+<ab type='prose'>爾時佛說此真言。三千大千世界六種震動。<lb
+ n="0098b15" ed="T"/>摩醯首羅等大自在力王眾所居宮殿。皆悉<lb
+ n="0098b16" ed="T"/>散動不得安穩。悉雲集來頂戴藥叉金剛。唯<lb
+ n="0098b17" ed="T"/>願大力尊哀愍。令得我無畏安樂威德。藥叉<lb
+ n="0098b18" ed="T"/>王白佛言。此等魔王等。所憂惱如何願何為。<lb
+ n="0098b19" ed="T"/>佛言猶暫令可愍此等得樂。即許此等已。<lb
+ n="0098b20" ed="T"/>即時魔王白忿怒王言。我俱共加神力守護<lb
+ n="0098b21" ed="T"/>佛法各退散。若有惡人怨結於善人起擾惱。<lb
+ n="0098b22" ed="T"/>法師應當畫神驗忿怒王像隨意大少。作<lb
+ n="0098b23" ed="T"/>三角壇向人所居方。作惡心誦上大靈驗真<lb
+ n="0098b24" ed="T"/>言。每日三時二十一遍。滿三日已。惡人死亡<lb
+ n="0098b25" ed="T"/>眷屬無殘留。若欲甦生取蓮花根擣末。以大<lb
+ n="0098b26" ed="T"/>悲三昧真言一日一夜不飲食。滿一百八遍。<lb
+ n="0098b27" ed="T"/>即惡人及眷屬甦。於佛法起歸敬。二羽合拳<lb
+ n="0098b28" ed="T"/>屈進力。作谷口撥之。心起大悲。真言曰。<lb
+ n="0098b29" ed="T"/></ab>
+<ab type='dharani'>曩莫三曼多沒馱南伽𠳿婆羅設咄<pb n="0098c" id="T21.1220.0098c" ed="T"/><lb
+ n="0098c01" ed="T"/>嚧嗚𤙖莎嚩賀<lb
+ n="0098c02" ed="T"/></ab>
+<ab type='prose'>欲得佛法大靈驗。先像前作四肘方壇。壇中<lb
+ n="0098c03" ed="T"/>安白銅大器。盛滿香水。從月一日迄十五日。<lb
+ n="0098c04" ed="T"/>燒香散花致誠禮敬。誦大靈驗真言。晝夜無<lb
+ n="0098c05" ed="T"/>間不嘗睡眠。全堅固精進。且不安居不安立<lb
+ n="0098c06" ed="T"/>留。十五日間無斷絕。而滿十萬遍。藥叉王<lb
+ n="0098c07" ed="T"/>自現身加持持誦者。即念憐愍有情故。示現<lb
+ n="0098c08" ed="T"/>妙形像。二世菩提何非成就。即隨喜怖畏<lb
+ n="0098c09" ed="T"/>被此忿怒尊加持。時設諸惡人惡魔惡禽獸。<lb
+ n="0098c10" ed="T"/>乃至厭禱蠱術魑魅魍魎惡鬼神等。起惡心<lb
+ n="0098c11" ed="T"/>欲惱害行人。遠近來向行人住處。則路中自<lb
+ n="0098c12" ed="T"/>所殺害。此神驗卅里外圍繞。令無諸障礙。又<lb
+ n="0098c13" ed="T"/>金剛藥叉為施調伏故。說大威怒王根本大<lb
+ n="0098c14" ed="T"/>心真言誦<lb
+ n="0098c15" ed="T"/>此呪時。一切魔王鬼眾。不得安穩怖懼之事。<lb
+ n="0098c16" ed="T"/>如大靈驗真言無異。呪印別。若欲行此呪。如<lb
+ n="0098c17" ed="T"/>聖不動尊念誦儀軌。而作法先右膝著地。至<lb
+ n="0098c18" ed="T"/>心歸命一切佛菩薩。懺悔無始生死罪障。隨<lb
+ n="0098c19" ed="T"/>喜一切諸佛菩薩所集善根。勸請一切如來<lb
+ n="0098c20" ed="T"/>聖眾。發菩提心供養諸佛即勸請真言曰。<lb
+ n="0098c21" ed="T"/></ab>
+<ab type='dharani'>唵嚩日囉藥叉也多多那伽梨那<pb n="0099a" id="T21.1220.0099a" ed="T"/><lb
+ n="0099a01" ed="T"/>尾𮑱吒吽吽莎嚩賀<lb
+ n="0099a02" ed="T"/></ab>
+<ab type='prose'>澡像真言曰。<lb
+ n="0099a03" ed="T"/></ab>
+<ab type='dharani'>唵吽娑婆嚕儞也唅<lb
+ n="0099a04" ed="T"/></ab>
+<ab type='prose'>閼伽真言曰。<lb
+ n="0099a05" ed="T"/></ab>
+<ab type='dharani'>唵阿頗羅底𩕳吽<lb
+ n="0099a06" ed="T"/></ab>
+<ab type='prose'>奉座真言曰。<lb
+ n="0099a07" ed="T"/></ab>
+<ab type='dharani'>唵尾迦尼左羅尼噁<lb
+ n="0099a08" ed="T"/></ab>
+<ab type='prose'>著衣瓔珞真言曰。<lb
+ n="0099a09" ed="T"/></ab>
+<ab type='dharani'>唵矩尼矩尼薩矩尼也伊<lb
+ n="0099a10" ed="T"/></ab>
+<ab type='prose'>獻香花燈塗真言曰。<lb
+ n="0099a11" ed="T"/></ab>
+<ab type='dharani'>唵摩尼娜伽伽娜三摩三摩矩囐提噁莎<lb
+ n="0099a12" ed="T"/>嚩賀<lb
+ n="0099a13" ed="T"/></ab>
+<ab type='prose'>讚嘆藥叉金剛曰。<lb
+ n="0099a14" ed="T"/></ab>
+<ab type='dharani'>嚩日囉噯咄羅藥乞叉嚩日囉底哩𩕳<lb
+ n="0099a15" ed="T"/>尾𮑱梨賀𩕳嚩日囉摩訶藥乞叉<lb
+ n="0099a16" ed="T"/>藥乞叉婆𩕳伽𩕳也噁<lb
+ n="0099a17" ed="T"/></ab>
+<ab type='prose'>生歡喜悅意。可誦此讚嘆偈。<lb
+ n="0099a18" ed="T"/></ab>
+<ab type='verse'>
+善哉善哉噁藥叉　　憐愍有情我等類　　<lb
+ n="0099a19" ed="T"/>無倫比像化含靈　　何者寧為何惱法　　
+</ab><lb
+ n="0099a20" ed="T"/><ab type='prose'>加持數珠真言曰。<lb
+ n="0099a21" ed="T"/></ab>
+<ab type='dharani'>唵縛日囉豎尼<lb
+ n="0099a22" ed="T"/></ab>
+<ab type='prose'>奉送真言曰。<lb
+ n="0099a23" ed="T"/></ab>
+<ab type='dharani'>唵尾訖灑耶吽噁<lb
+ n="0099a24" ed="T"/></ab>
+<ab type='prose'>上所說十種供養讚嘆等真言。皆持用三股<lb
+ n="0099a25" ed="T"/>金剛杵。二羽中受鈷當心誦一一真言。各應<lb
+ n="0099a26" ed="T"/>想流出威德。執持金剛鈷。真言曰。<lb
+ n="0099a27" ed="T"/></ab>
+<ab type='dharani'>唵參㕹縛日羅醯𩕳尾吠縛日羅噁<lb
+ n="0099a28" ed="T"/></ab>
+<ab type='prose'>若欲一切障難解脫。合丸藥二兩。各把左右<lb
+ n="0099a29" ed="T"/>掌。踞著者而誦大靈驗真言七遍。加持著者<pb n="0099b" id="T21.1220.0099b" ed="T"/><lb
+ n="0099b01" ed="T"/>塗背後。一時解脫一切障難一切口舌橫死<lb
+ n="0099b02" ed="T"/>短命等。若又欲急殺惡人。畫人像姓名置調<lb
+ n="0099b03" ed="T"/>伏壇。最初角削竹釘穿立腹中。誦大靈驗真<lb
+ n="0099b04" ed="T"/>言。以嚗噁卒怒心。呪一百八遍。一遍一<lb
+ n="0099b05" ed="T"/>打便斃。又欲急縛惡人令歸佛道。以惡心<lb
+ n="0099b06" ed="T"/>誦大呪三遍。取黑石共後發吒。羽內迴之自<lb
+ n="0099b07" ed="T"/>然被縛。又欲解免者。誦大慈三昧明三遍。<lb
+ n="0099b08" ed="T"/>便得本心即言。自今已後歸依佛道。更不生<lb
+ n="0099b09" ed="T"/>起邪見不善心。又欲好女自得及令他得。松<lb
+ n="0099b10" ed="T"/>皮書好女姓名。繫像前誦大慈三昧真言。七<lb
+ n="0099b11" ed="T"/>遍啟白威怒王。如是每日三時繫念。白啟威<lb
+ n="0099b12" ed="T"/>怒王慈愍故。自乘好女意。不令生他心自從<lb
+ n="0099b13" ed="T"/>宮宅出跉來。愛著夫人。更無他念。寧他妻<lb
+ n="0099b14" ed="T"/>非他夫。夫厭妻妻厭夫。一心一向歸後夫<lb
+ n="0099b15" ed="T"/>婦妻。俱常發菩提心。恒教化夫人矣。又欲<lb
+ n="0099b16" ed="T"/>得官位。像前至心燒香。設種種供養。三日三<lb
+ n="0099b17" ed="T"/>夜乃至七日七夜間。可誦大慈三昧。真言祈<lb
+ n="0099b18" ed="T"/>願。所願無一不成。則作增益法。自成就唯<lb
+ n="0099b19" ed="T"/>修行法時。隨念向望方。細示方如護摩壇作<lb
+ n="0099b20" ed="T"/>法已。欲出道場誦此真言。發遣聖眾。真言曰。<lb
+ n="0099b21" ed="T"/></ab>
+<ab type='dharani'>唵嚩日囉藥乞叉底那底他也毘<lb
+ n="0099b22" ed="T"/>吽吽噁<lb
+ n="0099b23" ed="T"/></ab>
+<ab type='prose'>說此等種雜威德瞋怒法時。一切魔怨調<lb
+ n="0099b24" ed="T"/>伏加衛護。願護持佛法。是故行者修習時。慎<lb
+ n="0099b25" ed="T"/>莫起惡心數損他。有智人善悟是祕道。輒<lb
+ n="0099b26" ed="T"/>亂不得誦呪。唯除耎和忍辱人。年滿四十<lb
+ n="0099b27" ed="T"/>而得自順順他。智者若幼稚人行好習誦時<lb
+ n="0099b28" ed="T"/>不得解脫道。隨自損損他深過。行者多應<lb
+ n="0099b29" ed="T"/>有慈悲利益一切有情界。出堂任意而轉<pb n="0099c" id="T21.1220.0099c" ed="T"/><lb
+ n="0099c01" ed="T"/>讀大乘。住不退轉地。<lb
+ n="0099c02" ed="T"/>
+</ab><ab type='juan' subtype='close'>金剛藥叉念誦儀軌</ab></div>
+</body></text></TEI>

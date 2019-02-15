@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">須達經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0073</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0879a03" ed="T"/><lb
+ n="0879a04" ed="T"/><lb
+ n="0879a05" ed="T"/><lb
+ n="0879a06" ed="T"/><div type='jing' level='1'><lb
+ n="0879a08" ed="T"/>
+<ab type='juan' subtype='open'>佛說須達經</ab><lb
+ n="0879a09" ed="T"/><lb
+ n="0879a10" ed="T"/><byline>蕭齊中印度三藏求那毗地譯</byline><lb
+ n="0879a11" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0879a12" ed="T"/>園。彼時，須達居士至世尊所，到已禮世尊足，<lb
+ n="0879a13" ed="T"/>却坐一面。須達居士却坐一面已，世尊告曰：<lb
+ n="0879a14" ed="T"/>「頗有，居士！在家施與不？」「唯世尊！在家有施與<lb
+ n="0879a15" ed="T"/>者，所有施不能妙食，有雜穬麻子為羹，薑<lb
+ n="0879a16" ed="T"/>一枚以為施。」「此，居士！非妙施。有妙施者，二俱<lb
+ n="0879a17" ed="T"/>有報。此居士！為非妙施者，彼不信施，亦不時<lb
+ n="0879a18" ed="T"/>施，不自手施，亦不就往而施，不知、不有信，亦<lb
+ n="0879a19" ed="T"/>不知有報而行施。當知有如是報，意亦不在<lb
+ n="0879a20" ed="T"/>妙有屋舍，意亦不在諸妙物，意亦不在衣被，<lb
+ n="0879a21" ed="T"/>亦不在妙食，意亦不在妙五樂婬。何以故？此<lb
+ n="0879a22" ed="T"/>居士！行非施報故。居士！行非施者，當有信，隨<lb
+ n="0879a23" ed="T"/>時施、自手施、往而施，有知、有信，知有報因緣<lb
+ n="0879a24" ed="T"/>已而施與。當知彼有此報，意便在妙家業，報<lb
+ n="0879a25" ed="T"/>極妙諸具、極妙衣、有極妙食、意作妙五樂婬。<lb
+ n="0879a26" ed="T"/>何以故？此居士！當知彼有施。此居士！行妙施，<lb
+ n="0879a27" ed="T"/>不信施與，不隨時與，不自以手施與，不往而<lb
+ n="0879a28" ed="T"/>施，亦不知亦不信，亦不知有因緣行果報，而<pb n="0879b" ed="T" id="T01.0073.0879b"/><lb
+ n="0879b01" ed="T"/>行施與。當知彼受如是報，意亦不在妙家業，<lb
+ n="0879b02" ed="T"/>意亦不在好衣，意亦不在好食，意亦不在妙<lb
+ n="0879b03" ed="T"/>五樂婬。何以故？居士！此非施故。此居士！妙好<lb
+ n="0879b04" ed="T"/>施者，信樂施，隨時施，自手施，往而施與，有<lb
+ n="0879b05" ed="T"/>知有信，知有行果報而行施與。當知彼如是<lb
+ n="0879b06" ed="T"/>得報，意在妙家業，至妙五樂婬、意在食。何以<lb
+ n="0879b07" ed="T"/>故？此居士！當如是隨時施報。何以故？此居<lb
+ n="0879b08" ed="T"/>士！昔有過去世，有鞞藍大婆羅門，大富極富，<lb
+ n="0879b09" ed="T"/>多錢財多諸雜物，彼如是作大施，以八十四<lb
+ n="0879b10" ed="T"/>千金鉢碎銀滿中；彼如是行大施，以八十四<lb
+ n="0879b11" ed="T"/>千銀鉢滿中碎金；彼如是行大施，彼以八<lb
+ n="0879b12" ed="T"/>十四千象，諸具嚴飾象白如雪；彼如是行大<lb
+ n="0879b13" ed="T"/>施，以八十四千馬，諸具嚴飾金為珓珞；如<lb
+ n="0879b14" ed="T"/>是行大施，以八十四千牛以衣繫之，𤛓之常<lb
+ n="0879b15" ed="T"/>滿器；彼如是行大施，以八十四千玉女端正<lb
+ n="0879b16" ed="T"/>姝妙，一切諸珓珞極嚴飾之；如是行大施，<lb
+ n="0879b17" ed="T"/>餘不可數餘食諸味。謂彼居士鞞藍大富婆<lb
+ n="0879b18" ed="T"/>羅門作如是大施，施與閻浮提凡夫人，寧施<lb
+ n="0879b19" ed="T"/>與彼一仙人，得福多。雖居士鞞藍大富婆羅<lb
+ n="0879b20" ed="T"/>門作如是大施，施與閻浮提仙人者，不如施<lb
+ n="0879b21" ed="T"/>與一須陀洹，此得福多。雖彼居士鞞藍大富<lb
+ n="0879b22" ed="T"/>婆羅門，施與閻浮提凡夫人及仙人、<lb
+ n="0879b23" ed="T"/>百須陀洹，不如施與一斯陀含，此得福多。雖<lb
+ n="0879b24" ed="T"/>居士鞞藍大富婆羅門，作如是施與閻浮提<lb
+ n="0879b25" ed="T"/>凡夫人、仙人、百須陀洹、百斯陀含，不如施與<lb
+ n="0879b26" ed="T"/>一阿那含，此得福多。雖居士鞞藍大富婆羅<lb
+ n="0879b27" ed="T"/>門，作如是施與閻浮提凡夫人至百阿那含，<lb
+ n="0879b28" ed="T"/>不如施與一阿羅漢，得福多。謂居士！雖鞞藍<pb n="0879c" ed="T" id="T01.0073.0879c"/><lb
+ n="0879c01" ed="T"/>大富婆羅門，作如是施與閻浮提凡夫人至<lb
+ n="0879c02" ed="T"/>百阿羅漢，不如施一辟支佛，得福多。謂居士！<lb
+ n="0879c03" ed="T"/>雖鞞藍大富婆羅門作如是施，施與閻浮提<lb
+ n="0879c04" ed="T"/>凡夫人至百辟支佛，不如施與如來、無所著、<lb
+ n="0879c05" ed="T"/>等正覺，此得福多。謂居士鞞藍大富婆羅門<lb
+ n="0879c06" ed="T"/>作如是施，施與閻浮提凡夫人至百辟支佛，<lb
+ n="0879c07" ed="T"/>作房舍以施與招提僧者，得福多。謂居士鞞<lb
+ n="0879c08" ed="T"/>藍大富婆羅門作如是施，施與閻浮提凡夫<lb
+ n="0879c09" ed="T"/>人，至作房舍已施與招提僧，不如以清淨意<lb
+ n="0879c10" ed="T"/>作三自歸佛法及比丘僧、受其戒，此得福多。<lb
+ n="0879c11" ed="T"/>謂居士鞞藍大富婆羅門作如是大施，施與<lb
+ n="0879c12" ed="T"/>閻浮提凡夫人至以清淨行三自歸佛法及<lb
+ n="0879c13" ed="T"/>比丘僧、受其戒，不如於一切眾生行於慈至<lb
+ n="0879c14" ed="T"/>𤛓牛頃，此得福多。謂居士鞞藍大富婆羅門<lb
+ n="0879c15" ed="T"/>作如是施與閻浮提凡夫人，至謂於一切眾<lb
+ n="0879c16" ed="T"/>生分別行慈，下至𤛓牛頃；謂一切行無常、苦、<lb
+ n="0879c17" ed="T"/>空、無我，思惟念者，下至彈指頃，此得福多。汝<lb
+ n="0879c18" ed="T"/>居士！作如是念：『彼居士鞞藍大富婆羅門異<lb
+ n="0879c19" ed="T"/>耶？』莫作是念，我即是彼名鞞藍大富婆羅門！<lb
+ n="0879c20" ed="T"/>如是，居士！自住於饒益及饒益他、饒益多人，<lb
+ n="0879c21" ed="T"/>愍於世間，以義以樂安隱天及人，如是為說<lb
+ n="0879c22" ed="T"/>法，未至竟盡，未至竟無垢，未至竟梵行，未<lb
+ n="0879c23" ed="T"/>至竟行梵行，彼故未脫生老病死憂慼不樂，<lb
+ n="0879c24" ed="T"/>我說未脫苦。此居士！今如來出世間，無所著、<lb
+ n="0879c25" ed="T"/>等正覺、明行成為、善逝、世間解、無上士、道法御、<lb
+ n="0879c26" ed="T"/>天人師、佛、世尊，今自為故、為他故、為多人故、<lb
+ n="0879c27" ed="T"/>愍世間故，以義以樂安隱天及人。我今為說<lb
+ n="0879c28" ed="T"/>法，至竟盡、至竟無垢、至竟梵行、至竟行梵行，<pb n="0880a" ed="T" id="T01.0073.0880a"/><lb
+ n="0880a01" ed="T"/>今以得脫生老病死憂慼不樂苦，我說已離<lb
+ n="0880a02" ed="T"/>苦。」佛如是說。居士須達聞世尊所說，歡喜<lb
+ n="0880a03" ed="T"/>而樂。<lb
+ n="0880a04" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說須達經</ab></div>
+</body></text></TEI>

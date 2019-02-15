@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">勸善經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2916</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1462a" id="T85.2916.1462a" ed="T"/><lb
+ n="1462a01" ed="T"/><lb
+ n="1462a02" ed="T"/><lb
+ n="1462a03" ed="T"/>
+<ab type='juan' subtype='open'>勸善經一卷</ab><lb
+ n="1462a04" ed="T"/><lb
+ n="1462a05" ed="T"/><div type='jing' level='1'><ab type='prose'>勅左丞相賈。恍頒下諸州善之眾生。每日念<lb
+ n="1462a06" ed="T"/>阿彌陀佛一千。口斷惡行善。今年大熱無人<lb
+ n="1462a07" ed="T"/>收苅。有數眾病死。第一虐病。第二天行病死。<lb
+ n="1462a08" ed="T"/>第三赤白痢病死。第四赤眼病死。第五人產<lb
+ n="1462a09" ed="T"/>病死。第六水痢病死。第七風病死。今勸眾生<lb
+ n="1462a10" ed="T"/>寫此經免一門難。寫本六親。見此經不寫者<lb
+ n="1462a11" ed="T"/>滅門。門上傍之得過此難。無福者不可得見<lb
+ n="1462a12" ed="T"/>此經。其經從南來。正月八日雷電霹靂。空中<lb
+ n="1462a13" ed="T"/>有一童子。年四歲。又見一老人在路中。見一<lb
+ n="1462a14" ed="T"/>蛇身萬尺。人頭鳥□遂呼老人曰。為太山<lb
+ n="1462a15" ed="T"/>崩。要女人萬萬眾須得片萬萬願著病難差。<lb
+ n="1462a16" ed="T"/>寫此經者得免此難。不信者但看四月一日<lb
+ n="1462a17" ed="T"/>三家使一牛五男同一婦僧尼巡門難。寫此<lb
+ n="1462a18" ed="T"/>經流傳聖人真言。若袚𭂩風󱬙却不免難。相<lb
+ n="1462a19" ed="T"/>勸阿彌陀佛不久見太平時。<lb
+ n="1462a20" ed="T"/>
+</ab><ab type='juan' subtype='close'>勸善經一卷</ab></div>
+</body></text></TEI>

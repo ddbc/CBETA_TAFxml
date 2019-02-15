@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">七佛俱胝佛母心大准提陀羅尼法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1078</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0186b04" ed="T"/><lb
+ n="0186b05" ed="T"/><div type='jing' level='2'><lb
+ n="0186b06" ed="T"/>
+<ab type='juan' subtype='open'>七佛俱胝佛母心大准提陀羅尼<lb
+ n="0186b07" ed="T"/>法</ab><lb
+ n="0186b08" ed="T"/><lb
+ n="0186b09" ed="T"/><byline>唐善無畏奉　詔譯</byline><lb
+ n="0186b10" ed="T"/><ab type='prose'>　　獨部別行<lb
+ n="0186b11" ed="T"/></ab>
+<ab type='dharani'>􄖩那􄗰麼􄙺颯􆻤哆􈁀喃去聲􄙺三􄢦藐􇩀三􈎭勃􇧺佗􄑈俱<lb
+ n="0186b12" ed="T"/><lb
+ n="0186b13" ed="T"/>􄓜胝􈁀喃去聲􄕗怛􇩊姪也二合􄕤他􇩂唵􄑼折􄙐戾􈇓主<lb
+ n="0186b14" ed="T"/><lb
+ n="0186b15" ed="T"/>􄙐戾􄑽准􇧼提􅁥娑嚩二合􄚩訶<lb
+ n="0186b16" ed="T"/><lb
+ n="0186b17" ed="T"/></ab>
+<ab type='prose'>總攝二十五部大曼荼羅尼印。以二手無名<lb
+ n="0186b18" ed="T"/>指小指。相叉於內。二中指直竪相拄。二頭指<lb
+ n="0186b19" ed="T"/>屈。附二中指第一節。二母指捻左右手無名<lb
+ n="0186b20" ed="T"/>指中節。若有召請。二頭指來去。佛言此呪<lb
+ n="0186b21" ed="T"/>印能滅十惡五逆一切重罪。成就一切白法。<lb
+ n="0186b22" ed="T"/>具戒清潔速得菩提。若在家人。縱不斷酒肉<lb
+ n="0186b23" ed="T"/>妻子。但依我法無不成就。佛言若求成就<lb
+ n="0186b24" ed="T"/>先依壇法。不同諸部廣修供養。堀地香泥塗<lb
+ n="0186b25" ed="T"/>之所建立。以一面淨鏡未曾用者。於佛像前<lb
+ n="0186b26" ed="T"/>月十五日夜。隨力供養。燒安悉香及清淨水。<lb
+ n="0186b27" ed="T"/>先當靜心無所思惟。然後結印誦呪。呪鏡一<lb
+ n="0186b28" ed="T"/>百八遍。以囊匣盛鏡。常得將隨身。後欲念誦<lb
+ n="0186b29" ed="T"/>但以此鏡。置於面前結印誦呪。依鏡為壇即<pb n="0186c" id="T20.1078.0186c" ed="T"/><lb
+ n="0186c01" ed="T"/>得成就。佛言欲持此呪於十五日夜。清淨<lb
+ n="0186c02" ed="T"/>澡浴著新淨衣。面向東方半跏正坐。置鏡在<lb
+ n="0186c03" ed="T"/>前。隨有香華清淨水諸物。先當靜心絕思。然<lb
+ n="0186c04" ed="T"/>後結印印於心上。誦此呪一百八遍。誦此呪<lb
+ n="0186c05" ed="T"/>時能使短命眾生還得增壽。加摩羅疾尚得<lb
+ n="0186c06" ed="T"/>除差。何況餘病。若不消差無有是處。佛言<lb
+ n="0186c07" ed="T"/>若人一心靜思。誦滿二十萬遍四十六十萬<lb
+ n="0186c08" ed="T"/>遍。世出世法無不稱遂。佛言若在家人。平<lb
+ n="0186c09" ed="T"/>旦清水漱口。未葷血時。面向東方對鏡結印。<lb
+ n="0186c10" ed="T"/>誦呪一百八遍。如是不斷四十九日。有吉祥<lb
+ n="0186c11" ed="T"/>事。准提菩薩令二聖者常隨其人。心有所念<lb
+ n="0186c12" ed="T"/>皆於耳邊一一具說。佛言短命多病眾生。<lb
+ n="0186c13" ed="T"/>月十五日夜。燒安悉香誦呪結印一百八遍。<lb
+ n="0186c14" ed="T"/>魔鬼失心野狐惡病。皆於鏡中現其本身。殺<lb
+ n="0186c15" ed="T"/>放隨意更再不來。增壽無量。佛言若人無<lb
+ n="0186c16" ed="T"/>福德相。求官不遷。對鏡常誦此呪。福德官當<lb
+ n="0186c17" ed="T"/>能稱遂。佛言若人欲有所作。先當思惟准<lb
+ n="0186c18" ed="T"/>提聖者。正念此呪具滿七遍端身。少頃其身<lb
+ n="0186c19" ed="T"/>自然搖動。即知能遂及以吉慶。若身剛強向<lb
+ n="0186c20" ed="T"/>前向後。即知不遂必有災難。佛言欲知此<lb
+ n="0186c21" ed="T"/>法成不成。依法誦呪具滿七日。便於夢中見<lb
+ n="0186c22" ed="T"/>佛菩薩及以華菓。口吐黑物後喫白物。即知<lb
+ n="0186c23" ed="T"/>成就。佛言此陀羅尼有大勢力。至心誦持<lb
+ n="0186c24" ed="T"/>必當自證。能令枯樹生華。何況世間果報。若<pb n="0187a" id="T20.1078.0187a" ed="T"/><lb
+ n="0187a01" ed="T"/>常誦持水火刀兵怨家毒藥皆不能害。若卒<lb
+ n="0187a02" ed="T"/>為鬼神傷死。結印誦呪七遍。以印印心皆令<lb
+ n="0187a03" ed="T"/>却活。舍宅不安鬼神作禍。呪土四塊鎮之即<lb
+ n="0187a04" ed="T"/>去。佛言若人六親不和。不相愛念。依法誦<lb
+ n="0187a05" ed="T"/>呪所向和合。聞名見身皆生歡喜。凡所求無<lb
+ n="0187a06" ed="T"/>不遂心。況能結齊具戒。一心清淨依法誦<lb
+ n="0187a07" ed="T"/>持。不轉此身即證菩提有大功力。佛言若<lb
+ n="0187a08" ed="T"/>人欲長生。於古塔及深山中。或淨房內依鏡<lb
+ n="0187a09" ed="T"/>為壇。具滿二四六十萬遍。青蓮華和安悉香<lb
+ n="0187a10" ed="T"/>燒。於睡夢中夢食仙藥。或授仙方或於鏡中<lb
+ n="0187a11" ed="T"/>有五色光。光中有藥隨意取食。即得長生。<lb
+ n="0187a12" ed="T"/>佛言若依法誦持一心精勤。功力說不可盡。<lb
+ n="0187a13" ed="T"/>此壇鏡法不得人見。若見即不好不成畢。須<lb
+ n="0187a14" ed="T"/>密之此法不可說自當證知。隨意所求速得<lb
+ n="0187a15" ed="T"/>成就受勝妙樂。<lb
+ n="0187a16" ed="T"/>
+</ab><ab type='juan' subtype='close'>七佛俱胝佛母心大準提陀羅尼法</ab></div><lb
+ n="0187a17" ed="T"/><div type='w' level='2'><ab type='prose'>　一校畢　　　　　　　　　　慈順</ab></div></div>
+</body></text></TEI>

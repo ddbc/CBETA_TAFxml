@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">瑜伽金剛頂經釋字母品</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T18</biblScope>
+                    <idno type="Taisho">T18n0880</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0338b11" ed="T"/><lb
+ n="0338b12" ed="T"/><div type='jing' level='1'><lb
+ n="0338b13" ed="T"/>
+<ab type='juan' subtype='open'>瑜伽金剛頂經釋字母品一卷</ab><lb
+ n="0338b14" ed="T"/><lb
+ n="0338b15" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0338b16" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
+ n="0338b17" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0338b18" ed="T"/>不空奉　詔譯</byline><lb
+ n="0338b19" ed="T"/><ab type='prose'>􆿅阿上字門一切法本不生故。<lb
+ n="0338b20" ed="T"/>􆿆阿引去字門一切法寂靜故。<lb
+ n="0338b21" ed="T"/>􆿇伊上字門一切法根不可得故。<lb
+ n="0338b22" ed="T"/>􆿈伊引去字門一切法災禍不可得故。<lb
+ n="0338b23" ed="T"/>􇇳塢字門一切法譬喻不可得故。<lb
+ n="0338b24" ed="T"/>􆿊污引字門一切法損減不可得故。<lb
+ n="0338b25" ed="T"/>􆿋哩字門一切法神通不可得故。<lb
+ n="0338b26" ed="T"/>􆿌哩引字門一切法類例不可得故。<lb
+ n="0338b27" ed="T"/>􆿍󰳆字門一切法染不可得故。<lb
+ n="0338b28" ed="T"/>􆿎𡃖字門一切法沈沒不可得故。<lb
+ n="0338b29" ed="T"/>􆿏曀字門一切法求不可得故。<pb n="0338c" id="T18.0880.0338c" ed="T"/><lb
+ n="0338c01" ed="T"/>􆿐愛字門一切法自在不可得故。<lb
+ n="0338c02" ed="T"/>􆿑污字門一切法瀑流不可得故。<lb
+ n="0338c03" ed="T"/>􆿒奧字門一切法化生不可得故。<lb
+ n="0338c04" ed="T"/>􆿓暗字門一切法邊際不可得故。<lb
+ n="0338c05" ed="T"/>􆿔惡字門一切法遠離不可得故。<lb
+ n="0338c06" ed="T"/>􄑀迦上字門一切法離作業故。<lb
+ n="0338c07" ed="T"/>􄑌佉上字門一切法等虛空不可得故。<lb
+ n="0338c08" ed="T"/>􄑘誐上字門一切法行不可得故。<lb
+ n="0338c09" ed="T"/>􄑤伽去引字門一切法一合不可得故。<lb
+ n="0338c10" ed="T"/>􄑰仰鼻呼字門一切法支分不可得故。<lb
+ n="0338c11" ed="T"/>􄑼左字門一切法離一切遷變故。<lb
+ n="0338c12" ed="T"/>􄒪磋上字門一切法影像不可得故。<lb
+ n="0338c13" ed="T"/>􄒶惹字門一切法生不可得故。<lb
+ n="0338c14" ed="T"/>􄓂酇去字門一切法戰敵不可得故。<lb
+ n="0338c15" ed="T"/>􄓎穰上字門一切法智不可得故。<lb
+ n="0338c16" ed="T"/>􄓚吒上字門一切法慢不可得故。<lb
+ n="0338c17" ed="T"/>􄓦咤上字門一切法長養不可得故。<lb
+ n="0338c18" ed="T"/>􄓲拏上字門一切法怨敵不可得故。<lb
+ n="0338c19" ed="T"/>􄓾荼去字門一切法執持不可得故。<lb
+ n="0338c20" ed="T"/>􄕋拏尼爽反鼻呼字門一切法諍不可得故。<lb
+ n="0338c21" ed="T"/>􄕗多上字門一切法如如不可得故。<lb
+ n="0338c22" ed="T"/>􄕣他上字門一切法住處不可得故。<lb
+ n="0338c23" ed="T"/>􄕯娜字門一切法施不可得故。<lb
+ n="0338c24" ed="T"/>􄕻馱去字門一切法界不可得故。<pb n="0339a" id="T18.0880.0339a" ed="T"/><lb
+ n="0339a01" ed="T"/>􄖩曩字門一切法名不可得故。<lb
+ n="0339a02" ed="T"/>􄖵跛字門一切法第一義諦不可得故。<lb
+ n="0339a03" ed="T"/>􄗁頗字門一切法不堅如聚沫故。<lb
+ n="0339a04" ed="T"/>􄗍麼字門一切法縛不可得故。<lb
+ n="0339a05" ed="T"/>􄗙婆去重字門一切法有不可得故。<lb
+ n="0339a06" ed="T"/>􄗥莽字門一切法吾我不可得故。<lb
+ n="0339a07" ed="T"/>􄗱野字門一切法乘不可得故。<lb
+ n="0339a08" ed="T"/>􄗽囉字門一切法離諸塵染故。<lb
+ n="0339a09" ed="T"/>􄙊邏字門一切法相不可得故。<lb
+ n="0339a10" ed="T"/>􄙖嚩字門一切法語言道斷故。<lb
+ n="0339a11" ed="T"/>􄙢捨字門一切法本性寂故。<lb
+ n="0339a12" ed="T"/>􄙮灑字門一切法性鈍故。<lb
+ n="0339a13" ed="T"/>􄙺娑上字門一切法一切諦不可得故。<lb
+ n="0339a14" ed="T"/>􄚨賀字門一切法因不可得故。<lb
+ n="0339a15" ed="T"/>􄚴乞灑二合字門一切法盡不可得故。<lb
+ n="0339a16" ed="T"/>
+</ab><ab type='juan' subtype='close'>瑜伽金剛頂經釋字母品一卷</ab></div>
+</body></text></TEI>

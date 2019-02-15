@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">根本說一切有部毘奈耶尼陀那目得迦攝頌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T24</biblScope>
+                    <idno type="Taisho">T24n1456</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0517c" ed="T" id="T24.1456.0517c"/><lb
+ n="0517c01" ed="T"/><lb
+ n="0517c02" ed="T"/><lb
+ n="0517c03" ed="T"/>
+<ab type='juan' subtype='open'>根本說一切有部毘奈耶．尼陀那<lb
+ n="0517c04" ed="T"/>目得迦攝頌一卷</ab><lb
+ n="0517c05" ed="T"/><lb
+ n="0517c06" ed="T"/><byline>三藏法師義淨奉　制譯</byline><lb
+ n="0517c07" ed="T"/><div type='jing' level='2'><ab type='prose'>尼陀那五十二頌。目得迦四十八頌。<lb
+ n="0517c08" ed="T"/>大門總攝頌曰：</ab>
+<ab type='verse'>
+初明受近圓，　　次分亡人物，　　<lb
+ n="0517c09" ed="T"/>圓壇并戶鉤，　　菩薩像五門。　　
+</ab><lb
+ n="0517c10" ed="T"/><ab type='prose'>別門初總攝頌曰：<lb
+ n="0517c11" ed="T"/></ab>
+<ab type='verse'>
+近圓知日數，　　界別不入地，　　<lb
+ n="0517c12" ed="T"/>界邊五眾居，　　不截皮生肉。　　
+</ab><lb
+ n="0517c13" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+近圓男女狀，　　非近圓為師；　　<lb
+ n="0517c14" ed="T"/>難等十無師，　　莫授我七歲。　　
+</ab><lb
+ n="0517c15" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+日數每應知，　　告白夜須減；　　<lb
+ n="0517c16" ed="T"/>六日十八日，　　說戒不應頻。　　
+</ab><lb
+ n="0517c17" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+界別不告淨，　　亦不為羯磨；　　<lb
+ n="0517c18" ed="T"/>乘空不持欲，　　解前方結後。　　
+</ab><lb
+ n="0517c19" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+不入界捨界，　　<lb
+ n="0517c20" ed="T"/>樹界有世尊；　　不越及可越，　　羯磨者身死。　　
+</ab><lb
+ n="0517c21" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+地牆等秉事，　　結界無與欲；　　<lb
+ n="0517c22" ed="T"/>但於一處坐，　　得為四羯磨。　　
+</ab><lb
+ n="0517c23" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+大界兩驛半，　　下水上山顛；　　<lb
+ n="0517c24" ed="T"/>異見明相過，　　五眾受七日。　　
+</ab><lb
+ n="0517c25" ed="T"/><ab type='prose'>第七子攝頌曰：</ab>
+<ab type='verse'>
+五眾坐安居，　　親等請日去；　　<lb
+ n="0517c26" ed="T"/>於經有疑問，　　求解者應行。　　
+</ab><lb
+ n="0517c27" ed="T"/><ab type='prose'>第八子攝頌曰：</ab>
+<ab type='verse'>
+假令不截衣，　　有緣皆得著；　　<lb
+ n="0517c28" ed="T"/>衣可隨身量，　　若短作篅衣。　　
+</ab><lb
+ n="0517c29" ed="T"/><ab type='prose'>第九子攝頌曰：</ab>
+<ab type='verse'>
+不畜五種皮，　　由有過失故；　　<pb n="0518a" ed="T" id="T24.1456.0518a"/><lb
+ n="0518a01" ed="T"/>開許得用處，　　齊坐臥容身。　　
+</ab><lb
+ n="0518a02" ed="T"/><ab type='prose'>第十子攝頌曰：</ab>
+<ab type='verse'>
+生肉及諸醋，　　有五種不同；　　<lb
+ n="0518a03" ed="T"/>痔病爪不傷，　　迴施知希望。　　
+</ab><lb
+ n="0518a04" ed="T"/><ab type='prose'>別門第二總攝頌曰：</ab>
+<ab type='verse'>
+分亡及唱導，　　<lb
+ n="0518a05" ed="T"/>張衣授學人；　　重作收攝驅，　　求寂同牆上。　　
+</ab><lb
+ n="0518a06" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+分亡者衣物，　　互無應互取；　　<lb
+ n="0518a07" ed="T"/>見鬪應須諫，　　隨頭向處分。　　
+</ab><lb
+ n="0518a08" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+唱導乘與車，　　得衣應舉掌；　　<lb
+ n="0518a09" ed="T"/>僧伽獲衣利，　　凡聖可同分。　　
+</ab><lb
+ n="0518a10" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+有張有不張，　　有出有不出；　　<lb
+ n="0518a11" ed="T"/>若在於界外，　　聞生隨喜心。　　
+</ab><lb
+ n="0518a12" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+授學等不秉，　　作法不成訶；　　<lb
+ n="0518a13" ed="T"/>十二人成訶，　　不淨犯根本。　　
+</ab><lb
+ n="0518a14" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+更應重作法，　　勿使求寂行；　　<lb
+ n="0518a15" ed="T"/>守護善用心，　　見處離聞處。　　
+</ab><lb
+ n="0518a16" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+收攝於界內，　　於眾心降伏；　　<lb
+ n="0518a17" ed="T"/>截柱及門框，　　尼等同驅擯。　　
+</ab><lb
+ n="0518a18" ed="T"/><ab type='prose'>第七子攝頌曰：</ab>
+<ab type='verse'>
+破戒應驅逐，　　伏處亦皆除；　　<lb
+ n="0518a19" ed="T"/>惱俗應收謝，　　餘眾咸同此。　　
+</ab><lb
+ n="0518a20" ed="T"/><ab type='prose'>第八子攝頌曰：</ab>
+<ab type='verse'>
+與求寂令怖，　　為受成近圓；　　<lb
+ n="0518a21" ed="T"/>五法成就時，　　五夏離依去。　　
+</ab><lb
+ n="0518a22" ed="T"/><ab type='prose'>第九子攝頌曰：</ab>
+<ab type='verse'>
+同分非同分，　　有齊限及無；　　<lb
+ n="0518a23" ed="T"/>有覆無覆殊，　　名一種便異。　　
+</ab><lb
+ n="0518a24" ed="T"/><ab type='prose'>第十子攝頌曰：</ab>
+<ab type='verse'>
+不牆上行法，　　非於一二三；　　<lb
+ n="0518a25" ed="T"/>不對破戒人，　　不取授學欲。　　
+</ab><lb
+ n="0518a26" ed="T"/><ab type='prose'>別門第三總攝頌曰：</ab>
+<ab type='verse'>
+圓壇求寂墮，　　<lb
+ n="0518a27" ed="T"/>一衣烟藥器；　　鐵椎髮及門，　　不應隨鐵作。　　
+</ab><lb
+ n="0518a28" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+圓壇及天廟，　　兩驛半依止；　　<lb
+ n="0518a29" ed="T"/>無鉢不度人，　　鉢等不書字。　　
+</ab><pb n="0518b" ed="T" id="T24.1456.0518b"/><lb
+ n="0518b01" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+求寂墮鉢破，　　開餘存念者；　　<lb
+ n="0518b02" ed="T"/>作二種薰籠，　　并隨所須物。　　
+</ab><lb
+ n="0518b03" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+一衣不互作，　　澡浴可遮人；　　<lb
+ n="0518b04" ed="T"/>於褥不剃頭，　　病人隨服食。　　
+</ab><lb
+ n="0518b05" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+烟筒壞色衣，　　鼻筒飲水器；　　<lb
+ n="0518b06" ed="T"/>針筒非寶物，　　眼藥合并椎。　　
+</ab><lb
+ n="0518b07" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+藥器及𣰽毺，　　承足枮瀉藥；　　<lb
+ n="0518b08" ed="T"/>苾芻不應作，　　當擇死人衣。　　
+</ab><lb
+ n="0518b09" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+鐵椎并杵杓，　　身自不負擔；　　<lb
+ n="0518b10" ed="T"/>以食供父母，　　毛毯不充衣。　　
+</ab><lb
+ n="0518b11" ed="T"/><ab type='prose'>第七子攝頌曰：</ab>
+<ab type='verse'>
+髮爪窣覩波，　　任作鮮白色；　　<lb
+ n="0518b12" ed="T"/>隨意安燈處，　　一畔出高簷。　　
+</ab><lb
+ n="0518b13" ed="T"/><ab type='prose'>第八子攝頌曰：</ab>
+<ab type='verse'>
+門戶并簷屋，　　及以塔下基；　　<lb
+ n="0518b14" ed="T"/>赤石紫礦塗，　　此等皆隨作。　　
+</ab><lb
+ n="0518b15" ed="T"/><ab type='prose'>第九子攝頌曰：</ab>
+<ab type='verse'>
+不應以橛釘，　　及昇窣覩波；　　<lb
+ n="0518b16" ed="T"/>開許金銀花，　　塔上以舍蓋。　　
+</ab><lb
+ n="0518b17" ed="T"/><ab type='prose'>第十子攝頌曰：</ab>
+<ab type='verse'>
+鐵作窣覩波，　　及以金銀等；　　<lb
+ n="0518b18" ed="T"/>許幡旗供養，　　并可用香油。　　
+</ab><lb
+ n="0518b19" ed="T"/><ab type='prose'>別門第四總攝頌曰：</ab>
+<ab type='verse'>
+戶鐶隨處用，　　<lb
+ n="0518b20" ed="T"/>霑衣大小便；　　染衣揁認衣，　　賒衣果無淨。　　
+</ab><lb
+ n="0518b21" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+戶鐶倚帶網，　　取米為眾食；　　<lb
+ n="0518b22" ed="T"/>寺內作私房，　　居人應受用。　　
+</ab><lb
+ n="0518b23" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+隨處當用物，　　營作人所須；　　<lb
+ n="0518b24" ed="T"/>器具食燈油，　　隨施主應用。　　
+</ab><lb
+ n="0518b25" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+令雨霑僧物，　　夜半共分床；　　<lb
+ n="0518b26" ed="T"/>小座並依年，　　敷席咸同此。　　
+</ab><lb
+ n="0518b27" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+大小便利處，　　經行不惱他；　　<lb
+ n="0518b28" ed="T"/>洗足及拭鞋，　　釜篦不奪用。　　
+</ab><lb
+ n="0518b29" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+染釜及水瓶，　　僧鉢并飲器；　　<pb n="0518c" ed="T" id="T24.1456.0518c"/><lb
+ n="0518c01" ed="T"/>刀石爪鼻物，　　支床不問年。　　
+</ab><lb
+ n="0518c02" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+羯恥那衣揁，　　絣線正縫時；　　<lb
+ n="0518c03" ed="T"/>染汁雜物等，　　用時不應奪。　　
+</ab><lb
+ n="0518c04" ed="T"/><ab type='prose'>第七子攝頌曰：</ab>
+<ab type='verse'>
+外道覆認衣，　　作記死時施；　　<lb
+ n="0518c05" ed="T"/>有五種親友，　　得法獨應行。　　
+</ab><lb
+ n="0518c06" ed="T"/><ab type='prose'>第八子攝頌曰：</ab>
+<ab type='verse'>
+賒取他衣去，　　及為他和市；　　<lb
+ n="0518c07" ed="T"/>不高下買衣，　　應二三酬價。　　
+</ab><lb
+ n="0518c08" ed="T"/><ab type='prose'>第九子攝頌曰：</ab>
+<ab type='verse'>
+果園差修理，　　四種不應分；　　<lb
+ n="0518c09" ed="T"/>果熟現前分，　　觀時莫諠戲。　　
+</ab><lb
+ n="0518c10" ed="T"/><ab type='prose'>第十子攝頌曰：</ab>
+<ab type='verse'>
+無淨人自行，　　自取不應食；　　<lb
+ n="0518c11" ed="T"/>不選開其病，　　結界證耕人。　　
+</ab><lb
+ n="0518c12" ed="T"/><ab type='prose'>別門第五總攝頌曰：</ab>
+<ab type='verse'>
+菩薩像供養，　　<lb
+ n="0518c13" ed="T"/>吉祥大眾食；　　大會草稕居，　　集僧鳴大鼓。　　
+</ab><lb
+ n="0518c14" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+聽為菩薩像，　　復許五種旗；　　<lb
+ n="0518c15" ed="T"/>為座置尊儀，　　鐵干隨意作。　　
+</ab><lb
+ n="0518c16" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+供養菩薩像，　　并作諸瓔珞；　　<lb
+ n="0518c17" ed="T"/>塗香及車輿，　　作傘蓋旗幡。　　
+</ab><lb
+ n="0518c18" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+吉祥并供養，　　花鬘及香合；　　<lb
+ n="0518c19" ed="T"/>諸人大集時，　　晝開門夜關。　　
+</ab><lb
+ n="0518c20" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+大眾集會食，　　薜舍佉月生；　　<lb
+ n="0518c21" ed="T"/>香臺五六年，　　並應為大會。　　
+</ab><lb
+ n="0518c22" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+大會為草稕，　　不應雜亂坐；　　<lb
+ n="0518c23" ed="T"/>應打揵稚鼓，　　告時令普知。　　
+</ab><lb
+ n="0518c24" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+集僧鳴大鼓，　　供了去幢幡；　　<lb
+ n="0518c25" ed="T"/>若多獲珍財，　　隨應悉分與。　　
+</ab><lb
+ n="0518c26" ed="T"/><ab type='prose'>大門總攝頌曰：</ab>
+<ab type='verse'>
+最初為懺謝，　　<lb
+ n="0518c27" ed="T"/>第二定屬物，　　第三資具衣，　　目得迦總頌。　　
+</ab><lb
+ n="0518c28" ed="T"/><ab type='prose'>別門第一總攝頌曰：</ab>
+<ab type='verse'>
+懺謝草田中，　　<lb
+ n="0518c29" ed="T"/>合免王影勝；　　糖酥根等聽，　　狗肉盞甘蔗。　　
+</ab><pb n="0519a" ed="T" id="T24.1456.0519a"/><lb
+ n="0519a01" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+懺謝非近圓，　　觀求寂相貌；　　<lb
+ n="0519a02" ed="T"/>苾芻與尼法，　　若互秉皆成。　　
+</ab><lb
+ n="0519a03" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+草田村略說，　　生心褒灑陀；　　<lb
+ n="0519a04" ed="T"/>賊縛不同愆，　　六開僧教罪。　　
+</ab><lb
+ n="0519a05" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+合免者應放，　　穿渠遣眾行；　　<lb
+ n="0519a06" ed="T"/>一日至四旬，　　皮肉皆不淨。　　
+</ab><lb
+ n="0519a07" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+影勝王床施，　　王母物入僧；　　<lb
+ n="0519a08" ed="T"/>烏燕鶴鷲雕，　　苾芻不應食。　　
+</ab><lb
+ n="0519a09" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+狗肉不應噉，　　并食屍鳥獸；　　<lb
+ n="0519a10" ed="T"/>及以同蹄畜，　　亦不食獼猴。　　
+</ab><lb
+ n="0519a11" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+小盞及衣角，　　皮葉等有過；　　<lb
+ n="0519a12" ed="T"/>除其鐵一種，　　餘物任情為。　　
+</ab><lb
+ n="0519a13" ed="T"/><ab type='prose'>第七子攝頌曰：</ab>
+<ab type='verse'>
+甘蔗酪肉麻，　　藥有四種別；　　<lb
+ n="0519a14" ed="T"/>大麻蔓菁粥，　　根等粥應飡。　　
+</ab><lb
+ n="0519a15" ed="T"/><ab type='prose'>第八子攝頌曰：</ab>
+<ab type='verse'>
+開許沙糖飲，　　得為七日藥；　　<lb
+ n="0519a16" ed="T"/>生心為五事，　　益彼應共分。　　
+</ab><lb
+ n="0519a17" ed="T"/><ab type='prose'>第九子攝頌曰：</ab>
+<ab type='verse'>
+醫教應服酥，　　油及餘殘觸；　　<lb
+ n="0519a18" ed="T"/>并開眼藥合，　　除十為淨厨。　　
+</ab><lb
+ n="0519a19" ed="T"/><ab type='prose'>第十子攝頌曰：</ab>
+<ab type='verse'>
+根莖葉花果，　　皆應淡酒浸；　　<lb
+ n="0519a20" ed="T"/>水攪而飲用，　　并許其異食。　　
+</ab><lb
+ n="0519a21" ed="T"/><ab type='prose'>別門第二總攝頌曰：</ab>
+<ab type='verse'>
+定物有主處，　　<lb
+ n="0519a22" ed="T"/>須問憍薩羅；　　從像豫先差，　　大減會尼眾。　　
+</ab><lb
+ n="0519a23" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+定物不應移，　　莫拾賊遺物；　　<lb
+ n="0519a24" ed="T"/>屍林亦復爾，　　隨許並應收。　　
+</ab><lb
+ n="0519a25" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+有主天廟物，　　苾芻不應取；　　<lb
+ n="0519a26" ed="T"/>看病人不應，　　勸他捨法服。　　
+</ab><lb
+ n="0519a27" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+物須問施主，　　眾利可平分；　　<lb
+ n="0519a28" ed="T"/>二大合均分，　　餘眾應加減。　　
+</ab><lb
+ n="0519a29" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+憍薩羅白疊，　　佛子因飡󰉓；　　<pb n="0519b" ed="T" id="T24.1456.0519b"/><lb
+ n="0519b01" ed="T"/>室利笈多緣，　　廣論營造事。　　
+</ab><lb
+ n="0519b02" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+從像入城中，　　受吉祥施物；　　<lb
+ n="0519b03" ed="T"/>旗鼓隨情設，　　苾芻皆不應。　　
+</ab><lb
+ n="0519b04" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+豫先為唱令，　　五眾從行城；　　<lb
+ n="0519b05" ed="T"/>應差掌物人，　　尼無別輪法。　　
+</ab><lb
+ n="0519b06" ed="T"/><ab type='prose'>第七子攝頌曰：</ab>
+<ab type='verse'>
+應差分物人，　　上座宜准價；　　<lb
+ n="0519b07" ed="T"/>不得輒酬直，　　索價返還衣。　　
+</ab><lb
+ n="0519b08" ed="T"/><ab type='prose'>第八子攝頌曰：</ab>
+<ab type='verse'>
+寺大減其層，　　將衣者應用；　　<lb
+ n="0519b09" ed="T"/>恐怖若止息，　　准式用僧祇。　　
+</ab><lb
+ n="0519b10" ed="T"/><ab type='prose'>第九子攝頌曰：</ab>
+<ab type='verse'>
+若有大聚會，　　鳴鼓集眾僧；　　<lb
+ n="0519b11" ed="T"/>眾大別為行，　　檢校人先食。　　
+</ab><lb
+ n="0519b12" ed="T"/><ab type='prose'>第十子攝頌曰：</ab>
+<ab type='verse'>
+凡於尼眾首，　　應安一空座；　　<lb
+ n="0519b13" ed="T"/>為待餘苾芻，　　孤苦勿增價。　　
+</ab><lb
+ n="0519b14" ed="T"/><ab type='prose'>第三別門總攝頌曰：<lb
+ n="0519b15" ed="T"/></ab>
+<ab type='verse'>
+資具衣愚癡，　　若差不用俗；　　<lb
+ n="0519b16" ed="T"/>正作長者施，　　剃刀窣覩波；　　<lb
+ n="0519b17" ed="T"/>飯酪葉承水，　　及洗鉢等事；　　<lb
+ n="0519b18" ed="T"/>此之十二頌，　　總攝要應知。　　
+</ab><lb
+ n="0519b19" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+十三資具物，　　牒名而守持；　　<lb
+ n="0519b20" ed="T"/>自餘諸長衣，　　委寄應分別。　　
+</ab><lb
+ n="0519b21" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+癡不了三藏，　　此等十二人；　　<lb
+ n="0519b22" ed="T"/>失性復本時，　　訶言應採錄。　　
+</ab><lb
+ n="0519b23" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+若差十二人，　　斯語成訶法；　　<lb
+ n="0519b24" ed="T"/>受時言我俗，　　此不成近圓。　　
+</ab><lb
+ n="0519b25" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+不用五種脂，　　隨應為說戒；　　<lb
+ n="0519b26" ed="T"/>因億耳開粥，　　王田眾應受。　　
+</ab><lb
+ n="0519b27" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+俗人求寂等，　　並不合同坐；　　<lb
+ n="0519b28" ed="T"/>兩學有難緣，　　同處非成過。　　
+</ab><lb
+ n="0519b29" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+正作不令起，　　隨年坐染盆；　　<pb n="0519c" ed="T" id="T24.1456.0519c"/><lb
+ n="0519c01" ed="T"/>應共護僧園，　　勿燒營作木。　　
+</ab><lb
+ n="0519c02" ed="T"/><ab type='prose'>第七子攝頌曰：</ab>
+<ab type='verse'>
+長者所施物，　　問已應留舉；　　<lb
+ n="0519c03" ed="T"/>隨處莫廢他，　　洗身方入寺。　　
+</ab><lb
+ n="0519c04" ed="T"/><ab type='prose'>第八子攝頌曰：</ab>
+<ab type='verse'>
+剃刀并鑷子，　　用竟不應留；　　<lb
+ n="0519c05" ed="T"/>便利若了時，　　無宜室中住。　　
+</ab><lb
+ n="0519c06" ed="T"/><ab type='prose'>第九子攝頌曰：</ab>
+<ab type='verse'>
+窣覩波圍繞，　　廣陳諸聖迹；　　<lb
+ n="0519c07" ed="T"/>濁水隨應飲，　　若醎分別知。　　
+</ab><lb
+ n="0519c08" ed="T"/><ab type='prose'>第十子攝頌曰：</ab>
+<ab type='verse'>
+餅酪等非污，　　亦可內瓶中；　　<lb
+ n="0519c09" ed="T"/>洗足五種瓨，　　齊何名口淨。　　葉手承注口，　　<lb
+ n="0519c10" ed="T"/>多疑流鉢中；　　舉糧持渡河，　　縱觸非成過。　　<lb
+ n="0519c11" ed="T"/>洗鉢應用心，　　他觸問方受；　　換食持糧等，　　<lb
+ n="0519c12" ed="T"/>無難並還遮。　　
+</ab><lb
+ n="0519c13" ed="T"/><ab type='prose'>別門第四總攝頌曰：</ab>
+<ab type='verse'>
+與田分不應，　　<lb
+ n="0519c14" ed="T"/>赤體定物施；　　僧衣字還往，　　甘蔗果客裙。　　
+</ab><lb
+ n="0519c15" ed="T"/><ab type='prose'>第一子攝頌曰：</ab>
+<ab type='verse'>
+與田分相助，　　車船沸自取；　　<lb
+ n="0519c16" ed="T"/>鳥󰝾蠅無慚，　　制底信少欲。　　
+</ab><lb
+ n="0519c17" ed="T"/><ab type='prose'>第二子攝頌曰：</ab>
+<ab type='verse'>
+不應令賊住，　　及以黃門等；　　<lb
+ n="0519c18" ed="T"/>乃至授學人，　　行籌破僧眾。　　
+</ab><lb
+ n="0519c19" ed="T"/><ab type='prose'>第三子攝頌曰：</ab>
+<ab type='verse'>
+不赤體披衣，　　冒雨向厨內；　　<lb
+ n="0519c20" ed="T"/>便利宜縫補，　　和泥福久增。　　
+</ab><pb n="0520a" ed="T" id="T24.1456.0520a"/><lb
+ n="0520a01" ed="T"/><ab type='prose'>第四子攝頌曰：</ab>
+<ab type='verse'>
+定物施此中，　　不應餘處食；　　<lb
+ n="0520a02" ed="T"/>若有將去者，　　並須依價還。　　
+</ab><lb
+ n="0520a03" ed="T"/><ab type='prose'>第五子攝頌曰：</ab>
+<ab type='verse'>
+僧衣題施主，　　別人施私記；　　<lb
+ n="0520a04" ed="T"/>氍氀許別人，　　尼夏應修理。　　
+</ab><lb
+ n="0520a05" ed="T"/><ab type='prose'>第六子攝頌曰：</ab>
+<ab type='verse'>
+若還往衣物，　　送來應為受；　　<lb
+ n="0520a06" ed="T"/>為眾取他財，　　將眾物還價。　　
+</ab><lb
+ n="0520a07" ed="T"/><ab type='prose'>第七子攝頌曰：</ab>
+<ab type='verse'>
+甘蔗等平分，　　不應分口腹；　　<lb
+ n="0520a08" ed="T"/>四事無分法，　　臥具夜不行。　　
+</ab><lb
+ n="0520a09" ed="T"/><ab type='prose'>第八子攝頌曰：</ab>
+<ab type='verse'>
+果由藥叉施，　　淨之方受食；　　<lb
+ n="0520a10" ed="T"/>餘者為漿飲，　　不燒地燈臺。　　
+</ab><lb
+ n="0520a11" ed="T"/><ab type='prose'>第九子攝頌曰：</ab>
+<ab type='verse'>
+客舊宜詳審，　　授受分明付；　　<lb
+ n="0520a12" ed="T"/>五開應總閉，　　肘短可隨身。　　
+</ab><lb
+ n="0520a13" ed="T"/><ab type='prose'>第十子攝頌曰：</ab>
+<ab type='verse'>
+裙及僧脚欹，　　香泥污衣洗；　　<lb
+ n="0520a14" ed="T"/>取食除多分，　　須知十種塵。　　
+</ab></div><lb
+ n="0520a15" ed="T"/>
+<ab type='juan' subtype='close'>根本說一切有部毘奈耶尼陀那目得迦攝<lb
+ n="0520a16" ed="T"/>頌一卷</ab><lb
+ n="0520a17" ed="T"/><div type='w' level='2'><ab type='prose'>大唐景龍四年歲次庚戌四月壬午朔十五<lb
+ n="0520a18" ed="T"/>日景申三藏法師大德沙門義淨宣釋梵本<lb
+ n="0520a19" ed="T"/>并綴文正字<lb
+ n="0520a20" ed="T"/>翻經沙門吐火羅大德達摩秫唐證梵義<lb
+ n="0520a21" ed="T"/>翻經沙門中天竺國大德校努證梵義<lb
+ n="0520a22" ed="T"/>翻經沙門罽賓國大德達摩難陀證梵文<lb
+ n="0520a23" ed="T"/>翻經沙門淄州大雲寺大德慧沼證義<lb
+ n="0520a24" ed="T"/>翻經沙門洛州崇光寺大德律師道琳證<lb
+ n="0520a25" ed="T"/>義<lb
+ n="0520a26" ed="T"/>翻經沙門福壽寺寺主大德利明證義<lb
+ n="0520a27" ed="T"/>翻經沙門洛州太平寺大德律師道恪證義<lb
+ n="0520a28" ed="T"/>翻經沙門大薦福寺大德勝莊證義<lb
+ n="0520a29" ed="T"/>翻經沙門相州禪河寺大德玄傘證義筆受<pb n="0520b" ed="T" id="T24.1456.0520b"/><lb
+ n="0520b01" ed="T"/>翻經沙門大薦福寺大德律師智積證義正<lb
+ n="0520b02" ed="T"/>字<lb
+ n="0520b03" ed="T"/>翻經沙門德州大雲寺寺主慧傘證義<lb
+ n="0520b04" ed="T"/>翻經沙門西涼州白塔寺大德慧積讀梵<lb
+ n="0520b05" ed="T"/>本<lb
+ n="0520b06" ed="T"/>翻經婆羅門右驍衛翊府中郎員外置宿衛<lb
+ n="0520b07" ed="T"/>臣李釋迦讀梵本<lb
+ n="0520b08" ed="T"/>翻經婆羅門東天竺國左屯翊府中郎將<lb
+ n="0520b09" ed="T"/>員外置同正員臣瞿金剛證譯<lb
+ n="0520b10" ed="T"/>翻經婆羅門東天竺國大首領臣伊舍羅證<lb
+ n="0520b11" ed="T"/>梵本<lb
+ n="0520b12" ed="T"/>翻經婆羅門東天竺國左執戟直中書省臣<lb
+ n="0520b13" ed="T"/>度頗具讀梵本<lb
+ n="0520b14" ed="T"/>翻經婆羅門龍播國大達官准三品臣李<lb
+ n="0520b15" ed="T"/>輸羅證譯<lb
+ n="0520b16" ed="T"/>金紫光祿大夫守尚書左僕射同中書門<lb
+ n="0520b17" ed="T"/>下三品上柱國館國公臣韋洰源等，及修<lb
+ n="0520b18" ed="T"/>文館學士二十六人同監<lb
+ n="0520b19" ed="T"/>判官朝散大夫行著作佐郎臣劉令植，使金<lb
+ n="0520b20" ed="T"/>紫光祿大夫行祕書監檢校殿中監兼知內<lb
+ n="0520b21" ed="T"/>外閑厩隴右三使上柱國嗣虢王臣邕</ab></div></div>
+</body></text></TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">邪見經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0093</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0917a04" ed="T"/><lb
+ n="0917a05" ed="T"/><lb
+ n="0917a06" ed="T"/><div type='jing' level='1'><lb
+ n="0917a07" ed="T"/>
+<ab type='juan' subtype='open'>佛說邪見經</ab><lb
+ n="0917a08" ed="T"/><lb
+ n="0917a09" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
+ n="0917a10" ed="T"/><ab type='prose'>聞如是：一時，尊者阿難，在羅閱祇城迦蘭陀<lb
+ n="0917a11" ed="T"/>竹園。世尊般涅槃不久，於是有異邪命，是尊<lb
+ n="0917a12" ed="T"/>者阿難𩮰角友，中食後行彷徉而行至尊者<lb
+ n="0917a13" ed="T"/>阿難所，到已共尊者阿難面相慰勞。面相慰<lb
+ n="0917a14" ed="T"/>勞已，却坐一面。彼邪命却坐一面已，語尊者<lb
+ n="0917a15" ed="T"/>阿難曰：「我欲有所問，聽我所問。」「當問，賢者！」邪<lb
+ n="0917a16" ed="T"/>命聞已知之。「此阿難！彼沙門瞿曇！棄邪見、除<lb
+ n="0917a17" ed="T"/>邪見，不記說世間有常、世間無常，世間有邊、<lb
+ n="0917a18" ed="T"/>世間無邊，命是身是、命異身異，有如此命終、<lb
+ n="0917a19" ed="T"/>無有命終，有此、無有此，無、有命終。此阿難！彼<lb
+ n="0917a20" ed="T"/>沙門瞿曇！知邪見，應如此知耶？」「此婆羅門！彼<lb
+ n="0917a21" ed="T"/>世尊有智、有知見，如來、無所著、等正覺，棄邪<lb
+ n="0917a22" ed="T"/>見、除邪見，不記說世間有常至無有命終。此<lb
+ n="0917a23" ed="T"/>婆羅門！彼世尊有智、有見知，此邪見，如來、無<lb
+ n="0917a24" ed="T"/>所著、等正覺應如此知。」「此阿難！彼沙門瞿曇！<lb
+ n="0917a25" ed="T"/>棄邪見、除邪見，不記說世間有常至無有命<lb
+ n="0917a26" ed="T"/>終。云何，阿難！彼沙門瞿曇，知此邪見？此云何<lb
+ n="0917a27" ed="T"/>知？」「此婆羅門！彼世尊有智、有見，如來、無所著、<lb
+ n="0917a28" ed="T"/>等正覺，棄邪見、除邪見，不記說世間有常至<lb
+ n="0917a29" ed="T"/>無有命終。此婆羅門！此邪見者，相應、等相應，<pb n="0917b" ed="T" id="T01.0093.0917b"/><lb
+ n="0917b01" ed="T"/>如是趣、如是生，及後世。此婆羅門！彼世尊如<lb
+ n="0917b02" ed="T"/>是知，有知、有見，如來、無所著、等正覺，知邪見，<lb
+ n="0917b03" ed="T"/>當如是知。」「是故，阿難！我今歸汝。」「汝婆羅門！莫<lb
+ n="0917b04" ed="T"/>歸於我，如我所歸世尊，汝亦當歸之。」「是故，<lb
+ n="0917b05" ed="T"/>阿難！我今便歸彼世尊、法及比丘僧，我於彼<lb
+ n="0917b06" ed="T"/>世尊為優婆塞，從今日始離於殺，今日歸尊者。」<lb
+ n="0917b07" ed="T"/>阿難如是說。彼邪命聞尊者阿難所說，歡喜<lb
+ n="0917b08" ed="T"/>而樂。<lb
+ n="0917b09" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說邪見經</ab></div>
+</body></text></TEI>

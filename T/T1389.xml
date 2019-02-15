@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說無量壽大智陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1389</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0907b" id="T21.1389.0907b" ed="T"/><lb
+ n="0907b01" ed="T"/><lb
+ n="0907b02" ed="T"/><div type='dharani' level='1'><lb
+ n="0907b03" ed="T"/>
+<ab type='juan' subtype='open'>佛說無量壽大智陀羅尼</ab><lb
+ n="0907b04" ed="T"/><lb
+ n="0907b05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0907b06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0907b07" ed="T"/><ab type='dharani'>那謨婆誐嚩帝阿波哩彌多喻倪也<lb
+ n="0907b08" ed="T"/>那酥尾儞室唧多帝儒囉惹<lb
+ n="0907b09" ed="T"/>野怛他誐多野遏囉賀帝三<lb
+ n="0907b10" ed="T"/>藐訖三沒馱野怛𭔞他唵薩<lb
+ n="0907b11" ed="T"/>哩嚩僧塞哥囉波哩󰡊馱達哩摩<lb
+ n="0907b12" ed="T"/>帝誐誐那三母訥誐帝莎婆<lb
+ n="0907b13" ed="T"/>嚩󰡊提摩賀那野波哩嚩哩娑<lb
+ n="0907b14" ed="T"/>嚩賀<lb
+ n="0907b15" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說無量壽大智陀羅尼</ab></div>
+</body></text></TEI>

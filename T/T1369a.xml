@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">百千印陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1369a</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0885c08" ed="T"/><lb
+ n="0885c09" ed="T"/><lb
+ n="0885c10" ed="T"/><div type='jing' level='1'><lb
+ n="0885c11" ed="T"/>
+<ab type='juan' subtype='open'>百千印陀羅尼經一卷</ab><lb
+ n="0885c12" ed="T"/><lb
+ n="0885c13" ed="T"/><byline>大周三藏實叉難陀奉　制譯</byline><lb
+ n="0885c14" ed="T"/><ab type='prose'>如是我聞。一時佛在王舍城耆闍崛山。與大<lb
+ n="0885c15" ed="T"/>比丘眾及大菩薩眾俱。爾時世尊告諸比丘。<lb
+ n="0885c16" ed="T"/>有陀羅尼名百千印。汝等應當受持。所謂歸<lb
+ n="0885c17" ed="T"/>命面貌廣大頂出真金光明幢如來。歸命釋<lb
+ n="0885c18" ed="T"/>迦牟尼如來應正等覺。即說根本陀羅尼曰。<lb
+ n="0885c19" ed="T"/></ab>
+<ab type='dharani'>怛姪他唵部地部地部地部地薩婆怛他<lb
+ n="0885c20" ed="T"/>揭多衢折囉馱囉馱囉訶囉訶囉跋訶<lb
+ n="0885c21" ed="T"/>囉跋訶囉摩訶菩提質多炷魯炷魯設<lb
+ n="0885c22" ed="T"/>多囉濕彌珊招地羝薩婆怛他揭多遏地使<lb
+ n="0885c23" ed="T"/>咃那阿毘色羝衢儜衢那跋羝部陀衢<lb
+ n="0885c24" ed="T"/>那阿婆婆西弭禮弭禮伽伽<lb
+ n="0885c25" ed="T"/>那怛犁薩婆怛他揭多阿地史恥羝納婆娑怛<lb
+ n="0885c26" ed="T"/>犁閃麼閃麼跋閃麼跋閃麼薩婆播波<lb
+ n="0885c27" ed="T"/>跋閃麼寧薩婆播波毘戍燒達寧虎盧<lb
+ n="0885c28" ed="T"/>虎盧菩提末伽三鉢囉瑟恥羝薩婆怛<lb
+ n="0885c29" ed="T"/>他揭多鉢囉羝瑟恥多戍遞娑婆訶<pb n="0886a" id="T21.1369a.0886a" ed="T"/><lb
+ n="0886a01" ed="T"/></ab>
+<ab type='prose'>此是根本陀羅尼。<lb
+ n="0886a02" ed="T"/></ab>
+<ab type='dharani'>唵薩婆怛他揭多毘婆　枳羝社耶社耶<lb
+ n="0886a03" ed="T"/>娑婆訶<lb
+ n="0886a04" ed="T"/></ab>
+<ab type='prose'>此是陀羅尼心呪。<lb
+ n="0886a05" ed="T"/></ab>
+<ab type='dharani'>唵虎嚧虎嚧社耶目佉娑婆訶</ab>
+<ab type='prose'>此是隨心<lb
+ n="0886a06" ed="T"/>呪。<lb
+ n="0886a07" ed="T"/>若有比丘比丘尼優婆塞優婆夷。及餘淨信<lb
+ n="0886a08" ed="T"/>善男子善女人等。能造一塔書寫此百千印<lb
+ n="0886a09" ed="T"/>陀羅尼置其中者。造此一塔所得功德。如造<lb
+ n="0886a10" ed="T"/>百千塔功德無異。佛說此經已。彼諸比丘及<lb
+ n="0886a11" ed="T"/>菩薩眾。天人阿修羅等。聞佛所說皆大歡喜<lb
+ n="0886a12" ed="T"/>信受奉行。<lb
+ n="0886a13" ed="T"/>
+</ab><ab type='juan' subtype='close'>百千印陀羅尼經</ab></div>
+</body></text></TEI>

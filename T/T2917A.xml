@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">新菩薩經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2917A</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="1462a21" ed="T"/><lb
+ n="1462a22" ed="T"/><lb
+ n="1462a23" ed="T"/><lb
+ n="1462a24" ed="T"/>
+<ab type='juan' subtype='open'>新菩薩經一卷</ab><lb
+ n="1462a25" ed="T"/><lb
+ n="1462a26" ed="T"/><div type='jing' level='1'><ab type='prose'>賈耽頒下諸州眾生。每日念阿彌陀佛一千<lb
+ n="1462a27" ed="T"/>口。斷惡行善。今年大熱無人收苅。有數種<lb
+ n="1462a28" ed="T"/>病死。第一虐病死。第二天行病死。第三卒死。<lb
+ n="1462a29" ed="T"/>第四腫病死。第五產坐死。第六患腹死。第<pb n="1462b" id="T85.2917A.1462b" ed="T"/><lb
+ n="1462b01" ed="T"/>七血癰死。第八風黃病死。第九水裏死。第十<lb
+ n="1462b02" ed="T"/>患眼死。勸諸眾生寫一本免一身。寫兩本免<lb
+ n="1462b03" ed="T"/>一門。寫三本免一村。若不寫者滅門。門上傍<lb
+ n="1462b04" ed="T"/>之得過此難。但看七八月三家使一牛五男<lb
+ n="1462b05" ed="T"/>同一婦僧尼巡門。勸寫此經。其經西凉州正<lb
+ n="1462b06" ed="T"/>月二日盛中時。雷鳴雨聲。有一石下大如㪷<lb
+ n="1462b07" ed="T"/>等。石遂兩片即見此經。報諸眾生今戴饒患。<lb
+ n="1462b08" ed="T"/>
+</ab><ab type='juan' subtype='close'>新菩薩經一卷</ab></div>
+</body></text></TEI>

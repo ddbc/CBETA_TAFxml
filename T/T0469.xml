@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">文殊問經字母品第十四</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0469</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0509b" ed="T" id="T14.0469.0509b"/><lb
+ n="0509b01" ed="T"/><lb
+ n="0509b02" ed="T"/><lb
+ n="0509b03" ed="T"/>
+<ab type='juan' subtype='open'>文殊問經字母品第十四</ab><lb
+ n="0509b04" ed="T"/><lb
+ n="0509b05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國公，食<lb
+ n="0509b06" ed="T"/>邑三千戶，賜紫贈司空，謚大鑒，正號大廣<lb
+ n="0509b07" ed="T"/>智，大興善寺三藏沙門不空，奉　詔譯</byline><lb
+ n="0509b08" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時文殊師利白佛言：「世尊！一切諸字母，云<lb
+ n="0509b09" ed="T"/>何一切諸法，入於此及陀羅尼字？」佛告文殊<lb
+ n="0509b10" ed="T"/>師利：「一切諸法，入於字母及陀羅尼字。文殊<lb
+ n="0509b11" ed="T"/>師利！如：<lb
+ n="0509b12" ed="T"/>「稱阿字時，是無常聲。<lb
+ n="0509b13" ed="T"/>「稱阿字時，是遠離我聲。<lb
+ n="0509b14" ed="T"/>「稱伊字時，是諸根廣博聲。<lb
+ n="0509b15" ed="T"/>「稱伊字時，是世間災害聲。<lb
+ n="0509b16" ed="T"/>「稱塢字時，是多種逼迫聲。<lb
+ n="0509b17" ed="T"/>「稱污字時，是損減世間多有情聲。<lb
+ n="0509b18" ed="T"/>「稱𠴊字時，是直軟相續有情聲。<lb
+ n="0509b19" ed="T"/>「稱𠴊字時，是斷染遊戲聲。<lb
+ n="0509b20" ed="T"/>「稱力字時，是生法相聲。<lb
+ n="0509b21" ed="T"/>「稱𡃖字時，是三有染相聲。<lb
+ n="0509b22" ed="T"/>「稱曀字時，是起所求聲。<lb
+ n="0509b23" ed="T"/>「稱愛字時，是威儀勝聲。<lb
+ n="0509b24" ed="T"/>「稱污字時，是取聲。<lb
+ n="0509b25" ed="T"/>「稱奧字時，是化生之聲。<lb
+ n="0509b26" ed="T"/>「稱暗字時，是無我所聲。<lb
+ n="0509b27" ed="T"/>「稱惡字時，是沈沒聲。<lb
+ n="0509b28" ed="T"/>「稱迦字時，是入業異熟聲。<lb
+ n="0509b29" ed="T"/>「稱佉字時，是出一切法等虛空聲。<pb n="0509c" ed="T" id="T14.0469.0509c"/><lb
+ n="0509c01" ed="T"/>「稱誐字時，是甚深法聲。<lb
+ n="0509c02" ed="T"/>「稱伽字時，是摧稠密，無明、闇冥聲。<lb
+ n="0509c03" ed="T"/>「稱仰字時，是五趣清淨聲。<lb
+ n="0509c04" ed="T"/>「稱左字時，是四聖諦聲。<lb
+ n="0509c05" ed="T"/>「稱磋字時，是不覆欲聲。<lb
+ n="0509c06" ed="T"/>「稱惹字時，是超老死聲。<lb
+ n="0509c07" ed="T"/>「稱酇字時，是制伏惡語言聲。<lb
+ n="0509c08" ed="T"/>「稱孃字時，是制伏他魔聲。<lb
+ n="0509c09" ed="T"/>「稱吒字時，是斷語聲。<lb
+ n="0509c10" ed="T"/>「稱咤字時，是出置答聲。<lb
+ n="0509c11" ed="T"/>「稱拏字時，是出攝伏魔諍聲。<lb
+ n="0509c12" ed="T"/>「稱荼字時，是滅穢境界聲。<lb
+ n="0509c13" ed="T"/>「稱拏字時，是除諸煩惱聲。<lb
+ n="0509c14" ed="T"/>「稱多字時，是真如無間斷聲。<lb
+ n="0509c15" ed="T"/>「稱佗字時，是勢力進無畏聲。<lb
+ n="0509c16" ed="T"/>「稱娜字時，是調伏律儀，寂靜安隱聲。<lb
+ n="0509c17" ed="T"/>「稱馱字時，是七聖財聲。<lb
+ n="0509c18" ed="T"/>「稱曩字時，是遍知名色聲。<lb
+ n="0509c19" ed="T"/>「稱跛字時，是勝義聲。<lb
+ n="0509c20" ed="T"/>「稱頗字時，是得果作證聲。<lb
+ n="0509c21" ed="T"/>「稱麼字時，是解脫繫縛聲。<lb
+ n="0509c22" ed="T"/>「稱婆字時，是出生三有聲。<lb
+ n="0509c23" ed="T"/>「稱莽字時，是息憍慢聲。<lb
+ n="0509c24" ed="T"/>「稱野字時，是佛通達聲。<lb
+ n="0509c25" ed="T"/>「稱囉字時，是樂不樂勝義聲。<lb
+ n="0509c26" ed="T"/>「稱砢字時，是斷愛支聲。<lb
+ n="0509c27" ed="T"/>「稱嚩字時，是最上乘聲。<lb
+ n="0509c28" ed="T"/>「稱捨字時，是出信進、念定慧聲。<lb
+ n="0509c29" ed="T"/>「稱灑字時，是制伏六處、得六神通智聲。<pb n="0510a" ed="T" id="T14.0469.0510a"/><lb
+ n="0510a01" ed="T"/>「稱娑字時，是現證一切智聲。<lb
+ n="0510a02" ed="T"/>「稱賀字時，是害煩惱，離欲聲。<lb
+ n="0510a03" ed="T"/>「稱乞灑字時，是一切文字究竟無言說聲。<lb
+ n="0510a04" ed="T"/>「文殊師利！此謂字母義，一切諸字入於此中。」</ab></div><lb
+ n="0510a05" ed="T"/>
+<ab type='juan' subtype='close'>文殊問經字母品</ab>
+</body></text></TEI>

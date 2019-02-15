@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說彌勒菩薩發願王偈</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1144</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0600c10" ed="T"/><lb
+ n="0600c11" ed="T"/><lb
+ n="0600c12" ed="T"/><lb
+ n="0600c13" ed="T"/>
+<ab type='juan' subtype='open'>佛說彌勒菩薩發願王偈</ab><lb
+ n="0600c14" ed="T"/><lb
+ n="0600c15" ed="T"/><byline>內閣掌譯西番蒙古諸文西番學<lb
+ n="0600c16" ed="T"/>總管儀賓工布查布譯</byline><lb
+ n="0600c17" ed="T"/><div type='jing' level='2'><ab type='prose'>梵語阿鴉黑喇巴呢阿納喇<lb
+ n="0600c18" ed="T"/>雜。<lb
+ n="0600c19" ed="T"/>華言聖彌勒願王。<lb
+ n="0600c20" ed="T"/>敬禮一切諸佛菩薩摩訶薩。<lb
+ n="0600c21" ed="T"/>佛告阿難。夫彌勒菩薩摩訶薩。往昔誓行菩<lb
+ n="0600c22" ed="T"/>提行時。晝夜六時。偏袒右肩。右膝著地。合掌<lb
+ n="0600c23" ed="T"/>恭敬。而發如是願文。<lb
+ n="0600c24" ed="T"/></ab>
+<ab type='verse'>
+敬禮一切佛　　及具天眼仙　　<lb
+ n="0600c25" ed="T"/>菩薩摩訶薩　　并諸聲聞眾　　<lb
+ n="0600c26" ed="T"/>令避惡趣𡑞　　而示涅槃路　　<lb
+ n="0600c27" ed="T"/>引入無老死　　敬禮菩提心　　<lb
+ n="0600c28" ed="T"/>我由無明心　　所作一切罪　　<lb
+ n="0600c29" ed="T"/>今於佛面前　　懺悔盡無餘　　<pb n="0601a" id="T20.1144.0601a" ed="T"/><lb
+ n="0601a01" ed="T"/>自我三業門　　所積資糧福　　<lb
+ n="0601a02" ed="T"/>是我普慧種　　願我道無盡　　<lb
+ n="0601a03" ed="T"/>十方諸國中　　所有供養佛　　<lb
+ n="0601a04" ed="T"/>佛昔隨喜者　　我今皆隨喜　　<lb
+ n="0601a05" ed="T"/>懺悔一切罪　　隨喜諸善根　　<lb
+ n="0601a06" ed="T"/>敬禮一切佛　　願得大智慧　　<lb
+ n="0601a07" ed="T"/>十方一切處　　所有大菩薩　　<lb
+ n="0601a08" ed="T"/>止於十地者　　請速等正覺　　<lb
+ n="0601a09" ed="T"/>既證圓覺心　　降伏諸魔軍　　<lb
+ n="0601a10" ed="T"/>為利諸有情　　願請轉法輪　　<lb
+ n="0601a11" ed="T"/>以大法鼓音　　度眾生苦際　　<lb
+ n="0601a12" ed="T"/>願經無量劫　　常住世說法　　<lb
+ n="0601a13" ed="T"/>祈運大悲智　　慈濟諸有情　　<lb
+ n="0601a14" ed="T"/>陷溺貪欲澤　　恩愛所纏縛　　<lb
+ n="0601a15" ed="T"/>眾生被障礙　　諸佛不憎捐　　<lb
+ n="0601a16" ed="T"/>慈悲諸含識　　拔出三有海　　<lb
+ n="0601a17" ed="T"/>一切三世佛　　所行諸道法　　<lb
+ n="0601a18" ed="T"/>我今皆隨學　　願證菩提道　　<lb
+ n="0601a19" ed="T"/>同登六彼岸　　度六道眾生　　<lb
+ n="0601a20" ed="T"/>證得六神通　　願成無上道　　<lb
+ n="0601a21" ed="T"/>無生及本源　　無處無自性　　<lb
+ n="0601a22" ed="T"/>悟此真空理　　無智亦無得　　<lb
+ n="0601a23" ed="T"/>無命無眾生　　無背無取向　　<lb
+ n="0601a24" ed="T"/>願達無我法　　即等大仙佛　　<lb
+ n="0601a25" ed="T"/>願不住二執　　所攝一切物　　<lb
+ n="0601a26" ed="T"/>為利益眾生　　不悋行布施　　<lb
+ n="0601a27" ed="T"/>物種侈靡盛　　我應用豐足　　<lb
+ n="0601a28" ed="T"/>物性等空寂　　圓滿布施度　　<lb
+ n="0601a29" ed="T"/>所受止作品　　無瑕最清淨　　<pb n="0601b" id="T20.1144.0601b" ed="T"/><lb
+ n="0601b01" ed="T"/>及無癡矜慢　　圓滿戒律度　　<lb
+ n="0601b02" ed="T"/>如地水火風　　四大無觸背　　<lb
+ n="0601b03" ed="T"/>侵犯靡瞋恨　　圓滿忍辱度　　<lb
+ n="0601b04" ed="T"/>發心始終勤　　恒喜不懈弛　　<lb
+ n="0601b05" ed="T"/>身心勇猛力　　圓滿精進度　　<lb
+ n="0601b06" ed="T"/>調伏正定聚　　如幻三摩地　　<lb
+ n="0601b07" ed="T"/>金剛禪那等　　圓滿靜慮度　　<lb
+ n="0601b08" ed="T"/>三種解脫門　　三時平等法　　<lb
+ n="0601b09" ed="T"/>聞思修明了　　圓滿智慧度　　<lb
+ n="0601b10" ed="T"/>諸佛所稱讚　　熾盛光赫奕　　<lb
+ n="0601b11" ed="T"/>勤修菩薩行　　圓滿自他志　　<lb
+ n="0601b12" ed="T"/>行此菩提道　　名稱慈氏子　　<lb
+ n="0601b13" ed="T"/>圓滿六度行　　超於十地位　　
+</ab><lb
+ n="0601b14" ed="T"/><ab type='verse'>
+我以此善願眾生　　命終速往兜率宮　　<lb
+ n="0601b15" ed="T"/>受生皆於見法閣　　即為慈氏之長子　　<lb
+ n="0601b16" ed="T"/>十地自在降閻浮　　證得十力大位時　　<lb
+ n="0601b17" ed="T"/>願受妙法甘露味　　圓滿佛行盡無餘　　<lb
+ n="0601b18" ed="T"/>從此命終承願力　　即得上生兜率天　　<lb
+ n="0601b19" ed="T"/>忻慶奉事慈氏尊　　速得承授菩提記　　
+</ab><lb
+ n="0601b20" ed="T"/><ab type='prose'>阿難。當知慈氏菩薩摩訶薩。如此以實善巧<lb
+ n="0601b21" ed="T"/>修淨行業。道路平順。而獲無上菩提。成等正<lb
+ n="0601b22" ed="T"/>覺。成就真實大方便門。</ab></div><lb
+ n="0601b23" ed="T"/><div type='w' level='2'><ab type='prose'>按此經於漢藏未見。而番本亦無出。然西<lb
+ n="0601b24" ed="T"/>國諸賢。頗有註解。且普同作為恒常功課。<lb
+ n="0601b25" ed="T"/>與華嚴行願品。三十五佛行願品。稱為三<lb
+ n="0601b26" ed="T"/>種大懺願。愚略擬之。蓋初自梵文譯時。或<lb
+ n="0601b27" ed="T"/>于彌勒上生下生等經。節取切要者也今時海內清寧。三教並盛。<lb
+ n="0601b29" ed="T"/>資用不乏。人民向善者多。近來常聞修建<pb n="0601c" id="T20.1144.0601c" ed="T"/><lb
+ n="0601c01" ed="T"/>龍華會者。憶為或有欲持誦者。因特譯出<lb
+ n="0601c02" ed="T"/>漢文。便於信氏誦讀仰祈。<lb
+ n="0601c03" ed="T"/>聖慈加護廣布流通為願焉。<lb
+ n="0601c04" ed="T"/>　</ab></div></div>
+</body></text></TEI>

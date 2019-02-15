@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">索法號義𮗿諷誦文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2857</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1306b05" ed="T"/><lb
+ n="1306b06" ed="T"/><lb
+ n="1306b07" ed="T"/><lb
+ n="1306b08" ed="T"/>
+<ab type='juan' subtype='open'>索法號義𮗿諷誦文</ab><lb
+ n="1306b09" ed="T"/><lb
+ n="1306b10" ed="T"/><ab type='prose'>伏以暫乖寢膳臥疾經時。朝風晝觸於帡幃。<lb
+ n="1306b11" ed="T"/>愁雲暮結於庭際。鴛鸞帳下邕邕而憂色潛<lb
+ n="1306b12" ed="T"/>生。翡翠簷間漠漠而清煙亂起。病愈意□公<lb
+ n="1306b13" ed="T"/>謙君子洛之英才。常懷三義之心每有斷金<lb
+ n="1306b14" ed="T"/>之美。頓因璃文動玉質瘵。身羸如雪六月之<lb
+ n="1306b15" ed="T"/>花。貌顇九秋之葉。遂乃仰憑皇覺齋青眼以<lb
+ n="1306b16" ed="T"/>虔誠信啟金父仁蒙素毫而遠照喜得。六根<lb
+ n="1306b17" ed="T"/>清泰如月照秋江。三障雲消似紅蓮舒於碧<lb
+ n="1306b18" ed="T"/>沼。是如信誠不昧。靈鑒昭彰。慈雲布而熱惱<lb
+ n="1306b19" ed="T"/>涼。惠影臨而沈痾頹息。既蒙諸佛衛護念。寧<lb
+ n="1306b20" ed="T"/>無慶賀之心。表於此晨用由慶讚女莊嚴。伏<lb
+ n="1306b21" ed="T"/>願碧山與壽紅樹增春。必期鏤玉之獲展星<lb
+ n="1306b22" ed="T"/>河之慶。<lb
+ n="1306b23" ed="T"/>伏願蓮花點於性海。明月照於心臺。常居翠<lb
+ n="1306b24" ed="T"/>𣓠之年。永鎖芙蓉之帳　伏願青絲不變紅<lb
+ n="1306b25" ed="T"/>粉增春。德齊嵒下之松。壽等月中之桂　伏<lb
+ n="1306b26" ed="T"/>願綠眉狀月長分八字之鮮。玉貌如春獨占<lb
+ n="1306b27" ed="T"/>春之色　朗君子　伏願文搖五彩之筆。高視<lb
+ n="1306b28" ed="T"/>洪流覺畜九經之書。低看鮑謝。折東堂之仙<lb
+ n="1306b29" ed="T"/>桂香。發子中馳儒之曲。墳名傳海內祿蕚相<pb n="1306c" id="T85.2857.1306c" ed="T"/><lb
+ n="1306c01" ed="T"/>映。玉樹蓮芳同禮移庭。長光膝下女莊嚴<lb
+ n="1306c02" ed="T"/>松羅益翠結鳳彩而長卷庭。玉蓮芳欝仙桂<lb
+ n="1306c03" ed="T"/>而恒泰　夫人伏願浩海常流資景福而逾<lb
+ n="1306c04" ed="T"/>遠。壽山聳峻等群岳而轉高　武莊嚴金璋<lb
+ n="1306c05" ed="T"/>永󱫧紫綬長榮。財盈四海之珍福。<lb
+ n="1306c06" ed="T"/>五侯之俸事清吉。榮祿日新所謀長。遂於□<lb
+ n="1306c07" ed="T"/>動靜永康於元吉識亡考。北意將為北。當扇<lb
+ n="1306c08" ed="T"/>枕慶及溫清。何期忽翻浪以傾舟俄庭風而<lb
+ n="1306c09" ed="T"/>滅燭。孤子想幽冥之氣。竭思膝下以增悲。未<lb
+ n="1306c10" ed="T"/>申獻橘之誠。空攀傳衣之意。思立身之孝道<lb
+ n="1306c11" ed="T"/>□地無追。悲風樹之不停。痛寒泉之永隔<lb
+ n="1306c12" ed="T"/>　亡莊嚴。伏願瑠璃殿內踏香砌以經行。寶樹<lb
+ n="1306c13" ed="T"/>林間擿仙花而奉　又碧池授記紅蓮化生。<lb
+ n="1306c14" ed="T"/>法水潤心香風動識　伏願甘露臺側生聞般<lb
+ n="1306c15" ed="T"/>若之音。解脫林中慶現龍花之會　伏願五<lb
+ n="1306c16" ed="T"/>雲捧足逍遙歸解脫之宮。百福資靈放曠出<lb
+ n="1306c17" ed="T"/>愛纏之苦。十歲已下男子芙蓉灼灼。可頹芳<lb
+ n="1306c18" ed="T"/>顏秋月亭亭。同奇麗質親羅。喜門風之望鄉<lb
+ n="1306c19" ed="T"/>隣嘆巷陌之珍。□□氣欲成而忽消。花正芳<lb
+ n="1306c20" ed="T"/>而忽墜。致使嚴父慈哭愛子以長愁樣蕚蓮<lb
+ n="1306c21" ed="T"/>枝痛雁行之空闊夕雲操操　女莊嚴。性閑<lb
+ n="1306c22" ed="T"/>皎月體淨秋霜。幼質也麗南國之風姿。禮儀<lb
+ n="1306c23" ed="T"/>也蓋西施美貌。本冀門榮碎碎𣓠光益宗枝<lb
+ n="1306c24" ed="T"/>四德傳芳輝榮九族奈河黃天不祐籌俄終。<lb
+ n="1306c25" ed="T"/>蓮花靉而桂影沈暉。芳樹彫而蘭姿罷郁。念<lb
+ n="1306c26" ed="T"/>恒娥奔月宮之長往嗟。遊水流還海以不歸<lb
+ n="1306c27" ed="T"/>哀傷。父母之酸痛結姻親之念　文歎德。量<lb
+ n="1306c28" ed="T"/>宏弘深榮欽禮樂。志超今古動合神明。氣高<lb
+ n="1306c29" ed="T"/>玉壘之雲。仁量闊滄渲之水　武德歎。風雲<pb n="1307a" id="T85.2857.1307a" ed="T"/><lb
+ n="1307a01" ed="T"/>稟性星像間生。信立義存仁深德重。秉文秉<lb
+ n="1307a02" ed="T"/>武為紫府之良才。盡忠盡貞作無我之心腹。<lb
+ n="1307a03" ed="T"/>若不然者曷得軍城見重職掌班聲振人寰名<lb
+ n="1307a04" ed="T"/>芳邑　莊嚴尚書。伏願德光金簡為世上之<lb
+ n="1307a05" ed="T"/>股肱。聲振玉堦顯名彰於日下　又願般若<lb
+ n="1307a06" ed="T"/>智水灌注身田。旃檀香風資助性海。榮名剋<lb
+ n="1307a07" ed="T"/>著保祿高遷。金紫與日月而爭輝。福壽比山<lb
+ n="1307a08" ed="T"/>河而永固　女人念誦。高臺寶鏡雲侵絕代<lb
+ n="1307a09" ed="T"/>之容。咲日瓊花霧捹南國之貌。乃知功德之<lb
+ n="1307a10" ed="T"/>嚴淨託佛力以潛。消施上件之名衣表傾誠。<lb
+ n="1307a11" ed="T"/>於投奈苑啟首金人。會七辨之緇流。演千身<lb
+ n="1307a12" ed="T"/>之化佛。是可以修塵累於□劫。是可以逾熱<lb
+ n="1307a13" ed="T"/>惱。於□今晨深願既發。於裏心功德必資於<lb
+ n="1307a14" ed="T"/>貴體。伏願諸天甘露承懇疑而隣臨。大聖加<lb
+ n="1307a15" ed="T"/>威注醍醐於頂內。或有多生累止葉憑念以<lb
+ n="1307a16" ed="T"/>消除現世愆尤賴殊因而殄滅。<lb
+ n="1307a17" ed="T"/>元和七年六月　慰言語間時再査</ab></div>
+</body></text></TEI>

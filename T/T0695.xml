@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說灌洗佛形像經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T16</biblScope>
+                    <idno type="Taisho">T16n0695</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb n="0796c" ed="T" id="T16.0695.0796c"/><lb
+ n="0796c01" ed="T"/><lb
+ n="0796c02" ed="T"/><lb
+ n="0796c03" ed="T"/>
+<ab type='juan' subtype='open'>佛說灌洗佛形像經</ab><lb
+ n="0796c04" ed="T"/><lb
+ n="0796c05" ed="T"/><byline>西晉沙門釋法炬譯</byline><lb
+ n="0796c06" ed="T"/><div type='jing' level='2'><ab type='prose'>爾時佛告摩訶剎頭諸天人民：「皆一心聽。」佛<lb
+ n="0796c07" ed="T"/>言：「人身難得，無為道亦然，佛世難值。吾本<lb
+ n="0796c08" ed="T"/>從阿僧祇劫時，身為白衣累劫積德，每生自<lb
+ n="0796c09" ed="T"/>剋展轉五道，不貪財寶棄身施與無所愛惜。<lb
+ n="0796c10" ed="T"/>自致為王太子，以四月八日夜半明星出時，<lb
+ n="0796c11" ed="T"/>生墮地行七步，舉右手而言：『天上天下唯<lb
+ n="0796c12" ed="T"/>吾為尊，當為天人作無上師。』太子生時地為<lb
+ n="0796c13" ed="T"/>大動，第一四天王，乃至梵天、忉利天王，其<lb
+ n="0796c14" ed="T"/>中諸天各持十二種香和湯雜種名花以浴太<lb
+ n="0796c15" ed="T"/>子。太子得成佛道，開現聖法濟度群氓。」佛<lb
+ n="0796c16" ed="T"/>告諸天人民：「十方諸佛皆用四月八日夜半<lb
+ n="0796c17" ed="T"/>時生，十方諸佛皆用四月八日夜半時出家，<lb
+ n="0796c18" ed="T"/>入山學道。十方諸佛皆用四月八日夜半時<lb
+ n="0796c19" ed="T"/>成佛，十方諸佛皆用四月八日夜半時而般<lb
+ n="0796c20" ed="T"/>涅槃。」佛言：「所以用四月八日者，以春夏之<lb
+ n="0796c21" ed="T"/>際殃罪悉畢，萬物普生毒氣未行，不寒不熱<lb
+ n="0796c22" ed="T"/>時氣和適，正是佛生之日。諸善男子、善女人，<lb
+ n="0796c23" ed="T"/>於佛滅後當至心念佛無量功德之力，浴佛<lb
+ n="0796c24" ed="T"/>形像如佛在時，得福無量不可稱數。」佛言：「我<lb
+ n="0796c25" ed="T"/>本行菩薩道時，三十六返為天王釋，三十六<lb
+ n="0796c26" ed="T"/>反作轉輪聖王，三十六返作飛行皇帝。諸<lb
+ n="0796c27" ed="T"/>有佛弟子信心善意者，當念十方諸佛功德<lb
+ n="0796c28" ed="T"/>善，若以香花雜物浴佛形像者所願皆得，諸<lb
+ n="0796c29" ed="T"/>天龍神常隨擁護皆當證明。」<pb n="0797a" ed="T" id="T16.0695.0797a"/><lb
+ n="0797a01" ed="T"/>佛告諸弟子：「夫人身難得、經法難聞，其有天<lb
+ n="0797a02" ed="T"/>人能自減損妻子之分、五家財物，用浴佛形<lb
+ n="0797a03" ed="T"/>像者，如佛在時，所願悉得。欲求度世取無為<lb
+ n="0797a04" ed="T"/>道生生不與死會者可得，欲求精進勇猛如<lb
+ n="0797a05" ed="T"/>釋迦文佛者可得，欲求如文殊師利阿惟越<lb
+ n="0797a06" ed="T"/>致菩薩者可得，欲求轉輪聖王飛行教化者<lb
+ n="0797a07" ed="T"/>可得，欲求辟支佛阿羅漢者可得，欲求永<lb
+ n="0797a08" ed="T"/>離三惡道者可得，欲求生天上人間富樂者<lb
+ n="0797a09" ed="T"/>可得，欲求百子千孫者可得，欲求長壽無病<lb
+ n="0797a10" ed="T"/>者可得。世間人民貪欲如海，寧割身上一臠<lb
+ n="0797a11" ed="T"/>肉，不肯出一錢物與人。人生時不持一錢來，<lb
+ n="0797a12" ed="T"/>死亦不持一錢去，財物故在世間，人死當獨<lb
+ n="0797a13" ed="T"/>去憶如此苦。乃浴佛形像者，持是功德生<lb
+ n="0797a14" ed="T"/>死相隨，無有斷期。」佛言：「若人有一善之心，作<lb
+ n="0797a15" ed="T"/>是功德者，諸天善神、天龍八部、四天王等，僉<lb
+ n="0797a16" ed="T"/>然擁護。浴佛形像福報所生，常得清淨，從<lb
+ n="0797a17" ed="T"/>是因緣得成佛道。」佛言：「持<lb
+ n="0797a18" ed="T"/>好香浴佛形像者，自得其福，智在清淨功德<lb
+ n="0797a19" ed="T"/>名聞。諸持好華散佛上者，自得其福，端政好<lb
+ n="0797a20" ed="T"/>色無有雙比。諸持繒幡上佛者，自得其福，在<lb
+ n="0797a21" ed="T"/>所從生當得自然好衣無極。」佛言：「我累功積<lb
+ n="0797a22" ed="T"/>德行善至誠，持戒、忍辱、精進、一心、智慧，乃自<lb
+ n="0797a23" ed="T"/>致得作佛。今日賢者某甲皆為慈心好意，信<lb
+ n="0797a24" ed="T"/>向佛道欲求度脫，持種種香花浴佛形像，皆<lb
+ n="0797a25" ed="T"/>為七世父母五種親屬兄弟妻子在厄難中<lb
+ n="0797a26" ed="T"/>故、為十方五道中勤苦故、為佛人民愚癡不<lb
+ n="0797a27" ed="T"/>信佛道故，令其後世生為人，端好潔白眾人<lb
+ n="0797a28" ed="T"/>所敬，塵垢不著身。在所從生，常與佛會；在<lb
+ n="0797a29" ed="T"/>所從生，常與法會；在所從生，常與比丘僧<pb n="0797b" ed="T" id="T16.0695.0797b"/><lb
+ n="0797b01" ed="T"/>會。令某甲明經，智慧曉了，佛十二部經、四<lb
+ n="0797b02" ed="T"/>阿含、安般守意、三十七品、四意止、四意斷、<lb
+ n="0797b03" ed="T"/>四神足、五根、五力、七覺、八直行道，若能<lb
+ n="0797b04" ed="T"/>至心求佛道者，疾得阿惟越致。<lb
+ n="0797b05" ed="T"/>「令其得佛三十二相，八十種好紫磨金色。十<lb
+ n="0797b06" ed="T"/>種力、四無所畏、十八不共。口出八種音聲，<lb
+ n="0797b07" ed="T"/>飛行洞視在所至到。諸天、龍、鬼神、鬼子母官<lb
+ n="0797b08" ed="T"/>屬擁護其身，令行出入當得安隱。若行山中<lb
+ n="0797b09" ed="T"/>不逢虎狼，若入軍旅不被兵甲，若行江湖不<lb
+ n="0797b10" ed="T"/>逢風波。令床上無有病瘦者，當令縣官無呼<lb
+ n="0797b11" ed="T"/>召者，有妻子女產生難令得安隱。若行賈販<lb
+ n="0797b12" ed="T"/>財利百倍，眾邪惡氣不得妄干，水火盜賊怨<lb
+ n="0797b13" ed="T"/>家債主不得妄害。口舌消滅皆令厭伏，令其<lb
+ n="0797b14" ed="T"/>精進莫得中悔，行如菩薩得道如佛。」</ab></div><lb
+ n="0797b15" ed="T"/>
+<ab type='juan' subtype='close'>佛說灌洗佛形像經</ab><lb
+ n="0797b16" ed="T"/><div type='w' level='2'><ab type='prose'>此經宋藏題云摩訶剎頭經聖堅譯，今按《開<lb
+ n="0797b17" ed="T"/>元錄》，宋藏錯亂，故依丹本改為灌洗佛形<lb
+ n="0797b18" ed="T"/>像經，法炬譯。又宋藏此經初首即云「摩訶<lb
+ n="0797b19" ed="T"/>剎等乃至二紙經文」，全是《摩訶剎頭經》文，<lb
+ n="0797b20" ed="T"/>二經不殊。今依丹本，以爾時佛告摩訶剎<lb
+ n="0797b21" ed="T"/>頭乃至從是因緣得成佛道等二紙遆之。<lb
+ n="0797b22" ed="T"/>從佛言浴佛形像已下三十一行經文，於<lb
+ n="0797b23" ed="T"/>宋本中本自有之，而今仍存。</ab></div></div>
+</body></text></TEI>

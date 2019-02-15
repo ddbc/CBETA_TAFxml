@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛頂尊勝陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0974B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0384b15" ed="T"/><lb
+ n="0384b16" ed="T"/><lb
+ n="0384b17" ed="T"/><lb
+ n="0384b18" ed="T"/><lb
+ n="0384b19" ed="T"/><lb
+ n="0384b20" ed="T"/>
+<ab type='juan' subtype='open'>佛頂尊勝陀羅尼</ab><lb
+ n="0384b21" ed="T"/><lb
+ n="0384b22" ed="T"/><div type='dharani' level='2'><ab type='dharani'>􇖵􄖩曩􄗭謨引􄗙婆􄑘誐􄙖縛􄕝帝引􄩥怛󰪯二合引􄙒路<lb
+ n="0384b23" ed="T"/><lb
+ n="0384b24" ed="T"/>􄛁枳也二合􄪼鉢羅二合􄕙底􄙘尾􄙤始􆵋瑟吒二合引<lb
+ n="0384b25" ed="T"/><lb
+ n="0384b26" ed="T"/>􄗱野􈎭沒􇧺馱􄗱野􄗙婆􄑘誐􄙖縛􄕝帝<lb
+ n="0384b27" ed="T"/><lb
+ n="0384b28" ed="T"/>􄕗怛􇩊儞也二合􄕤他􇩂唵<lb
+ n="0384b29" ed="T"/><pb n="0384c" id="T19.0974B.0384c" ed="T"/><lb
+ n="0384c01" ed="T"/>􄙘尾􄙪戍引􄕻馱􄗱野􄙘尾􄙪戍􄕻馱􄗱野􄙺娑上<lb
+ n="0384c02" ed="T"/><lb
+ n="0384c03" ed="T"/>􄗥麼􄙺娑􄗥麼􄙺三去􄗥滿􆩗跢去引􄙖縛􄗙婆􄙺薩<lb
+ n="0384c04" ed="T"/><lb
+ n="0384c05" ed="T"/>􆷱婆頗二合􄗽羅轉舌呼􄕋拏鼻􄑘誐􄕙底􄑘誐􄚩賀􄖩曩<lb
+ n="0384c06" ed="T"/><lb
+ n="0384c07" ed="T"/>􅁥娑縛二合􄗚婆去引􄙖縛􄙘尾􄙦秼􇧼􇟄第<lb
+ n="0384c08" ed="T"/><lb
+ n="0384c09" ed="T"/>􆿅阿􄗛鼻􈁤詵􄑼左􄕛覩􈁝𤚥引􈂼素􄑘誐􄕗哆<lb
+ n="0384c10" ed="T"/><lb
+ n="0384c11" ed="T"/>􄙖縛􄗽羅􄙖縛􄑼左􄖩曩􆿅阿􇩸蜜㗚二合􄕘多去􄗛鼻<lb
+ n="0384c12" ed="T"/><lb
+ n="0384c13" ed="T"/>􄙵麗􄑇罽􄗥摩􄚩訶􄗥曼􈃵怛羅二合􄖵跛􄕶􇟄乃<lb
+ n="0384c14" ed="T"/><lb
+ n="0384c15" ed="T"/>􆿆阿去引􄚨賀􄗽羅􆿅阿去引􄚨賀􄗽羅<lb
+ n="0384c16" ed="T"/><lb
+ n="0384c17" ed="T"/>􆿆阿􈃷庾􄙺散􆩻馱引􄗽羅􄕍抳􄙪戍引<lb
+ n="0384c18" ed="T"/><lb
+ n="0384c19" ed="T"/>􄕻馱􄗱野􄙪戍引􄕻馱􄗱野􄑘誐􄑘誐􄖩曩􄙘尾􄙦秼􇧼第<lb
+ n="0384c20" ed="T"/><lb
+ n="0384c21" ed="T"/>􆿉鄔􈃇瑟抳二合􄙮灑􄙘尾􄒶惹􄗱野􄙘尾􄙦秼<lb
+ n="0384c22" ed="T"/><lb
+ n="0384c23" ed="T"/>􇧼第􄙺娑􄚨賀􄭵娑羅二合􄗽羅􅋎濕茗二合􄚦散<lb
+ n="0384c24" ed="T"/><lb
+ n="0384c25" ed="T"/>􄒦祖􄕱儞􄕝帝􄙺薩􅞣縛􄕗怛􄕤多􄑘誐􄕘多去引􄙖縛<lb
+ n="0384c26" ed="T"/><lb
+ n="0384c27" ed="T"/>􄙒路去􄑀伽􄖫𩕳􄙮娑上􇧺吒憣二合􄗽羅􄗧𭤶􄕘哆去引<lb
+ n="0384c28" ed="T"/><lb
+ n="0384c29" ed="T"/>􄖵跛􄙀哩􄪼布􄗽羅􄕍抳􄙺薩􅞣縛􄕗怛􄕤他去引􄑘誐􄕗多<lb
+ n="0384c30" ed="T"/><pb n="0385a" id="T19.0974B.0385a" ed="T"/><lb
+ n="0385a01" ed="T"/>􆱨仡哩二合􄕯娜􄗲野引􄕽地􆵋瑟姹二合引􄖩曩􄕽地􆵍瑟恥二合<lb
+ n="0385a02" ed="T"/><lb
+ n="0385a03" ed="T"/>􄕗􇟄哆􄗥摩􄚩賀􈁃母􄩸捺隷二合􄙖縛<lb
+ n="0385a04" ed="T"/><lb
+ n="0385a05" ed="T"/>􄦽曰羅二合􄑁迦引􄗱野􄚦僧􄚩賀􄕗哆上􄖩曩􄙘尾􄙦秼<lb
+ n="0385a06" ed="T"/><lb
+ n="0385a07" ed="T"/>􇧼第􄙺薩􅞣縛去􄙖縛􄗽羅􄕍􇟄拏鼻􄖵播􄗱野􄩶訥<lb
+ n="0385a08" ed="T"/><lb
+ n="0385a09" ed="T"/>哩􅖱󰵲二合􄕙底􄖵跛􄙀哩􄙘尾􄙦秼􇧼第<lb
+ n="0385a10" ed="T"/><lb
+ n="0385a11" ed="T"/>􄪼鉢羅二合􄕙底􄖫𩕳􄙖󰨢<lb
+ n="0385a12" ed="T"/><lb
+ n="0385a13" ed="T"/>􇪱囉􇟄多二合􄗱野􆿆阿去引􈃷欲􄙦秼􇧼第􄙺三<lb
+ n="0385a14" ed="T"/><lb
+ n="0385a15" ed="T"/>􄗥麼􄗱野引􄕽地􆵋瑟恥二合􄕝帝􄗥麼􄕍抳􄗥麼􄕍抳<lb
+ n="0385a16" ed="T"/><lb
+ n="0385a17" ed="T"/>􄗥麼􄚩賀􄗥麼􄕍尼􄕗怛<lb
+ n="0385a18" ed="T"/><lb
+ n="0385a19" ed="T"/>􄕤闥􄕘哆去引􄗞部􄕗多􄑈句􄓜致􄖵跛􄙀哩􄙦秼􇧼第<lb
+ n="0385a20" ed="T"/><lb
+ n="0385a21" ed="T"/>􄙘尾􆷵娑普二合􄓚􇟄吒􈎭沒􇧻地􄙦秼􇧼第􄒶惹<lb
+ n="0385a22" ed="T"/><lb
+ n="0385a23" ed="T"/>􄗱野􄒶惹􄗱􇟄野􄙘尾􄒶惹􄗱野􄙘尾􄒶惹􄗱野<lb
+ n="0385a24" ed="T"/><lb
+ n="0385a25" ed="T"/>􅋌娑麼二合􄗽羅􅋌娑麼二合􄗽羅􄙺薩<lb
+ n="0385a26" ed="T"/><lb
+ n="0385a27" ed="T"/>􅞣嚩􈎭沒􇧺馱引􄖩曩􄗭謨􄙘毘􄖵婆􄣊尸􄖯寧􄕗怛􄕤他<lb
+ n="0385a28" ed="T"/><lb
+ n="0385a29" ed="T"/>􄑘󰵲􄕘多􄗱􇟄野􄖩曩􄗭謨􄙤尸􄑎棄􄖯曩􄕗怛􄕤他<lb
+ n="0385a30" ed="T"/><pb n="0385b" id="T19.0974B.0385b" ed="T"/><lb
+ n="0385b01" ed="T"/>􄑘󰵲􄕘多􄗱􇟄野􄖩曩􄗭謨􄙘毘􄙢舍􄗞浮吠􄕗怛􄕤他<lb
+ n="0385b02" ed="T"/><lb
+ n="0385b03" ed="T"/>􄑘󰵲􄕘多􄗱􇟄野􄖩曩􄗭謨􄥇迦羅􄑀拘􄚦孫􄕻馱<lb
+ n="0385b04" ed="T"/><lb
+ n="0385b05" ed="T"/>􄗱野􄕗怛􄕤他􄑘󰵲􄕘多􄗱野􄖩曩􄗭謨􄑀迦􄖩曩<lb
+ n="0385b06" ed="T"/><lb
+ n="0385b07" ed="T"/>􄑀迦􈁃牟􄕍曩􄗷曳􄕗怛􄕤他􄑘󰵲􄕘多􄗱野􄖩曩<lb
+ n="0385b08" ed="T"/><lb
+ n="0385b09" ed="T"/>􄗭謨􄑀迦􄣊葉􄖵婆􄗲野􄕗怛􄕤他􄑘󰵲􄕘多􄗱􇟄野<lb
+ n="0385b10" ed="T"/><lb
+ n="0385b11" ed="T"/>􄖩曩􄗭謨􄙢尺􄛀迦􈁃牟􄖫曩􄗷曳􄕗怛􄕤他􄑘󰵲􄕘多􄗱野<lb
+ n="0385b12" ed="T"/><lb
+ n="0385b13" ed="T"/>􄖩曩􄗭謨􆿆阿􅝩利耶二合􄙖縛􄙒路􄑂枳􄕝帝<lb
+ n="0385b14" ed="T"/><lb
+ n="0385b15" ed="T"/>􈂫濕縛二合􄗽羅􄗱野􄗕󰂛􄕽地􄙺薩􄽙􇟄多縛􄕽地<lb
+ n="0385b16" ed="T"/><lb
+ n="0385b17" ed="T"/>􆵍瑟恥二合􄕗多􄙦秼􇧼第􄙖縛􄦿曰哩二合􄙖縛<lb
+ n="0385b18" ed="T"/><lb
+ n="0385b19" ed="T"/>􄦽曰羅二合引􄑘󰵲􅝗陛􄙖縛􈁺曰覽二合引􄗚婆去引􄙖浮<lb
+ n="0385b20" ed="T"/><lb
+ n="0385b21" ed="T"/>􄕛覩􄗥麼􄗥麼􄙢設<lb
+ n="0385b22" ed="T"/><lb
+ n="0385b23" ed="T"/>􄙀哩􄙈覽􄙺薩􅞣縛􄙺薩􄽙怛縛二合􄖳難上引􄑼左􄑀迦􄗱野<lb
+ n="0385b24" ed="T"/><lb
+ n="0385b25" ed="T"/>􄖵跛􄙀哩􄙘尾􄙦秼􇧼第􄙺薩􅞣縛􄑘誐􄕙底􄖵跛<lb
+ n="0385b26" ed="T"/><lb
+ n="0385b27" ed="T"/>􄙀哩􄙦秼􇧼􇟄第􄙺薩􅞣縛􄕗怛􄕤他􄑘󰵲􄕘多去引<lb
+ n="0385b28" ed="T"/><lb
+ n="0385b29" ed="T"/>􈂽室者二合􄗫銘􄙺三去􄗥麼􈂫濕縛二合引􄙺娑􄗻琰􄕛覩<lb
+ n="0385b30" ed="T"/><pb n="0385c" id="T19.0974B.0385c" ed="T"/><lb
+ n="0385c01" ed="T"/>􄙺薩􅞣縛􄕗怛􄕤他去引􄑘󰵲􄕗多􄙺三去􄗦麼鼻去􈂫濕縛二合<lb
+ n="0385c02" ed="T"/><lb
+ n="0385c03" ed="T"/>􄙻娑􄕽地􆵋瑟恥二合􄕝帝􈎭沒􈁙地野二合<lb
+ n="0385c04" ed="T"/><lb
+ n="0385c05" ed="T"/>􈎭沒􈁙地野二合􄙘尾􈎭沒􈁙地野二合􄙘尾􈎭沒<lb
+ n="0385c06" ed="T"/><lb
+ n="0385c07" ed="T"/>􈁙􇟄地野二合􄗕󰂛􄕻馱􄗱野􄗕󰂛􄕻馱􄗱野􄙘尾􄗕󰂛􄕻馱<lb
+ n="0385c08" ed="T"/><lb
+ n="0385c09" ed="T"/>􄗱野􄙘尾􄗕󰂛􄕻馱􄗱􇟄野􄙺三􄗥滿􆩖跛<lb
+ n="0385c10" ed="T"/><lb
+ n="0385c11" ed="T"/>􄖵跛􄙀哩􄙦秼􇧼􇟄第􄙺薩􅞣縛􄕗怛􄕤他去引􄑘󰵲􄕗多<lb
+ n="0385c12" ed="T"/><lb
+ n="0385c13" ed="T"/>􆱨仡哩二合􄕯娜􄗲野引􄕽地􆵋瑟姹二合引􄖩曩􄕽地<lb
+ n="0385c14" ed="T"/><lb
+ n="0385c15" ed="T"/>􆵋瑟恥二合􄕗􇟄多􄗥麼􄚩賀引􈁃母􄩸捺􇟄哩二合<lb
+ n="0385c16" ed="T"/><lb
+ n="0385c17" ed="T"/>􅁥娑縛二合引􄚩􇥐􄙺􄗥􆻤賀引<lb
+ n="0385c18" ed="T"/><lb
+ n="0385c19" ed="T"/><lb
+ n="0385c20" ed="T"/></ab>
+<ab type='prose'>師云。此陀羅尼凡有九本。所謂杜行鎧月照<lb
+ n="0385c21" ed="T"/>三藏。義淨三藏。佛陀波利善無畏三藏。金剛<lb
+ n="0385c22" ed="T"/>智三藏。不空三藏等所譯本。及法崇注釋。弘<lb
+ n="0385c23" ed="T"/>法大師所傳梵本等也。之中今以弘法大師<lb
+ n="0385c24" ed="T"/>梵本。與金剛智三藏所譯加字具足漢字本<lb
+ n="0385c25" ed="T"/>所雙書也。件梵本是弘法大師在唐之日。惠<lb
+ n="0385c26" ed="T"/>果阿闍梨所授多羅葉梵本也。七佛及觀音<lb
+ n="0385c27" ed="T"/>梵號裁干此中。異他梵本也。後人知之。</ab></div><lb
+ n="0385c28" ed="T"/>
+<ab type='juan' subtype='close'>佛頂尊勝陀羅尼</ab><lb
+ n="0385c29" ed="T"/><div type='w' level='2'><ab type='prose'>　建久二年辛</ab></div></div>
+</body></text></TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">梵志計水淨經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0051</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0843c10" ed="T"/><lb
+ n="0843c11" ed="T"/><div type='jing' level='1'><lb
+ n="0843c13" ed="T"/>
+<ab type='juan' subtype='open'>佛說梵志計水淨經</ab><lb
+ n="0843c14" ed="T"/><lb
+ n="0843c15" ed="T"/><byline>失譯人名附東晉錄</byline><lb
+ n="0843c16" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在欝鞞羅水岸上，<lb
+ n="0843c17" ed="T"/>獨在樹下初成等覺。彼時，有計水淨婆羅門，<lb
+ n="0843c18" ed="T"/>過中食後彷徉行至世尊所，世尊遙見計水<lb
+ n="0843c19" ed="T"/>淨婆羅門從遠而來。世尊見計水淨婆羅門<lb
+ n="0843c20" ed="T"/>已，為彼故便告諸比丘：「若有二十一結著意<lb
+ n="0843c21" ed="T"/>者，當墮惡趣生泥犁中。云何為二十一？邪<lb
+ n="0843c22" ed="T"/>見意著結，非法欲欺世間邪法，貪瞋恚、懈怠、<lb
+ n="0843c23" ed="T"/>睡眠、調戲、無恥、疑、瞋恨恚、慳嫉不捨、諛諂、多<lb
+ n="0843c24" ed="T"/>無羞無恥無、妬嫉增上妬嫉、放逸意結。若<lb
+ n="0843c25" ed="T"/>有此二十一結著意者，墮惡趣生泥犁中，猶<lb
+ n="0843c26" ed="T"/>若穢垢小兒衣，彼主與染師、若染弟子，持<lb
+ n="0843c27" ed="T"/>衣鹵土、若牛糞、若土以漬之，浣濯洗令極淨。<lb
+ n="0843c28" ed="T"/>雖彼染師及染弟子持彼垢穢小兒衣，以鹵<lb
+ n="0843c29" ed="T"/>土、以灰、以牛糞、以土清淨濯洗令極淨，彼小<pb n="0844a" ed="T" id="T01.0051.0844a"/><lb
+ n="0844a01" ed="T"/>兒衣故有黑膩。如是，若有二十一結著意者，<lb
+ n="0844a02" ed="T"/>便墮惡趣生泥犁中。云何二十一？邪見意著<lb
+ n="0844a03" ed="T"/>結至放逸意著結者。若有此二十一結著意<lb
+ n="0844a04" ed="T"/>者，墮惡趣生泥犁中；若有無二十一結著意<lb
+ n="0844a05" ed="T"/>者，便生善處天上。云何二十一？邪見意著<lb
+ n="0844a06" ed="T"/>結至放逸意著結；若無此二十一結著意者，<lb
+ n="0844a07" ed="T"/>便生善處天上。猶若波羅㮈以成衣，彼主<lb
+ n="0844a08" ed="T"/>授與染師、若染弟子，彼染師染弟子，持鹵土、<lb
+ n="0844a09" ed="T"/>灰、牛糞以漬之，浣濯洗極令淨。雖彼波羅<lb
+ n="0844a10" ed="T"/>㮈以成衣，彼染師染弟子，以鹵以灰、牛糞<lb
+ n="0844a11" ed="T"/>上以漬之，浣濯洗極令淨，波羅㮈以成衣，<lb
+ n="0844a12" ed="T"/>極清淨白。如是，若有無二十一結著意者，便<lb
+ n="0844a13" ed="T"/>生善處天上。云何為二十一？邪見意結至<lb
+ n="0844a14" ed="T"/>放逸意著者，便生善處天上。邪見意結，見已<lb
+ n="0844a15" ed="T"/>當棄，至放逸意著結，見已當棄，彼意與慈俱<lb
+ n="0844a16" ed="T"/>滿一方正受住。如是二三四上下一切諸方，<lb
+ n="0844a17" ed="T"/>意與慈俱無二無恚，極廣極大，無極分別，<lb
+ n="0844a18" ed="T"/>滿諸方已正受住。如是意與悲、喜、護，俱滿一<lb
+ n="0844a19" ed="T"/>切諸方已正受住，是為婆羅門內外洗淨，非<lb
+ n="0844a20" ed="T"/>外淨也。」「沙門瞿曇！往詣水浴。」「汝婆羅門！瞿<lb
+ n="0844a21" ed="T"/>曇水洗者，一切世間應戒故、應福故、應度故。」<lb
+ n="0844a22" ed="T"/>「此瞿曇！一切世間水洗者，除一切惡故，在<lb
+ n="0844a23" ed="T"/>水淨洗濡，凡愚常樂。」「此不得除黑黑行，用<lb
+ n="0844a24" ed="T"/>彼水淨，為在水，何所見？人作諸惡行，此水<lb
+ n="0844a25" ed="T"/>何所能淨者？有堅牢淨者，當持戒行、行清淨<lb
+ n="0844a26" ed="T"/>行，行清淨行常得應戒，若不殺盜、不妄<lb
+ n="0844a27" ed="T"/>語為得等度，梵志當住此作一切善，為得安<lb
+ n="0844a28" ed="T"/>隱。汝婆羅門！何須還家？何須水及家？汝婆<lb
+ n="0844a29" ed="T"/>羅門！寧求淨善法，何須弊惡水？但除塵垢<pb n="0844b" ed="T" id="T01.0051.0844b"/><lb
+ n="0844b01" ed="T"/>穢。」「瞿曇或作是念：『寧求淨善法，不須弊惡<lb
+ n="0844b02" ed="T"/>水，用除塵垢穢。』已竟，瞿曇！已竟，瞿曇！我今<lb
+ n="0844b03" ed="T"/>歸世尊、法及比丘僧。世尊！我持優婆塞，從<lb
+ n="0844b04" ed="T"/>今日始，盡命離殺而歸佛。」佛如是說。彼諸<lb
+ n="0844b05" ed="T"/>比丘聞世尊所說，歡喜而歸。<lb
+ n="0844b06" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說梵志計水淨經</ab></div>
+</body></text></TEI>

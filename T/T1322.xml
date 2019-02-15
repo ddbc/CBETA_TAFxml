@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">新集浴像儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1322</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0488b20" ed="T"/><lb
+ n="0488b21" ed="T"/><lb
+ n="0488b22" ed="T"/><lb
+ n="0488b23" ed="T"/>
+<ab type='juan' subtype='open'>新集浴像儀軌一卷</ab><lb
+ n="0488b24" ed="T"/><lb
+ n="0488b25" ed="T"/><byline>慧琳述</byline><lb
+ n="0488b26" ed="T"/><div type='jing' level='1'><ab type='prose'>西國五印度僧眾住持稍加嚴麗。或居伽藍<lb
+ n="0488b27" ed="T"/>寺宇蘭若僧園。每日浴像焚香採眾名華。布<lb
+ n="0488b28" ed="T"/>散供養禮拜讚佛。虔誠恭敬旋遶日日。如是<lb
+ n="0488b29" ed="T"/>精勤畢命為期無替。每日清晨若不修此供<pb n="0488c" id="T21.1322.0488c" ed="T"/><lb
+ n="0488c01" ed="T"/>養誓不自食。遠近諸國共同無有不作之處。<lb
+ n="0488c02" ed="T"/>蓋是眾僧修持常敬奉者也。其像唯除土木<lb
+ n="0488c03" ed="T"/>彩畫不可浴之。若是金銀寶玉銅鑞鍮石如<lb
+ n="0488c04" ed="T"/>是等像悉堪常浴。凡擬明旦所用浴像香水。<lb
+ n="0488c05" ed="T"/>今夕各別浸香細擣絹包經宵水浸。但是諸<lb
+ n="0488c06" ed="T"/>香皆堪浴像。一味香水各別一瓶。亦不以多<lb
+ n="0488c07" ed="T"/>香和雜一處。其瓶可用不受觸者為佳。所謂<lb
+ n="0488c08" ed="T"/>金銀諸寶鐵銅鉛鑞白淨瓷瓶無破損者是<lb
+ n="0488c09" ed="T"/>也。皆須磨洗令其光淨。上題香水名號次第<lb
+ n="0488c10" ed="T"/>輪用。如貧無者可取未曾經用新淨石瓦木<lb
+ n="0488c11" ed="T"/>瓶以充其事。更不得雜用即成穢觸。受得用<lb
+ n="0488c12" ed="T"/>盛浴像已了香水。行此法者於淨觸行護威<lb
+ n="0488c13" ed="T"/>儀。最須精細作意。諸供養器物準此應知。至<lb
+ n="0488c14" ed="T"/>灌浴之時灑掃堂殿。於寬淨之處以淨牛糞<lb
+ n="0488c15" ed="T"/>塗一大壇徑可一丈。置一宣臺於壇中。上安<lb
+ n="0488c16" ed="T"/>一大器物。中施一臺子上安尊像傍置一床。<lb
+ n="0488c17" ed="T"/>油單覆上諸香水瓶次第行列。五種法供養<lb
+ n="0488c18" ed="T"/>物。百索長線新淨軟帛墼等物羅列於上。眾<lb
+ n="0488c19" ed="T"/>既集已。共請明法阿闍梨。或舉眾中最尊上<lb
+ n="0488c20" ed="T"/>座。為眾稱誦浴像經中啟白發願大乘妙偈。<lb
+ n="0488c21" ed="T"/>句句眾人普皆隨誦偈曰。<lb
+ n="0488c22" ed="T"/></ab>
+<ab type='verse'>
+我今灌沐諸如來　　淨智功德莊嚴聚　　<lb
+ n="0488c23" ed="T"/>願彼五濁群生類　　速證如來淨法身　　<lb
+ n="0488c24" ed="T"/>戒定慧解知見香　　遍十方剎常芬馥　　<lb
+ n="0488c25" ed="T"/>願彼香煙亦如是　　無量無邊作佛事　　<lb
+ n="0488c26" ed="T"/>亦願三途苦輪息　　普令除熱得清涼　　<lb
+ n="0488c27" ed="T"/>皆發無上菩提心　　亦出愛河登彼岸　　
+</ab><lb
+ n="0488c28" ed="T"/><ab type='prose'>又令一人手執香爐虔恭䠒跪。梵音稱誦三<lb
+ n="0488c29" ed="T"/>歸依讚。每句眾人作禮一拜。讚曰。<pb n="0489a" id="T21.1322.0489a" ed="T"/><lb
+ n="0489a01" ed="T"/></ab>
+<ab type='dharani'>曩謨母馱野虞囉吠<lb
+ n="0489a02" ed="T"/>曩謨達麼野多以寧<lb
+ n="0489a03" ed="T"/>娜莫僧伽野摩賀帝<lb
+ n="0489a04" ed="T"/>底哩毘喻比娑多單娜莫<lb
+ n="0489a05" ed="T"/></ab>
+<ab type='prose'>又令二人吹螺二人誦讚。種種雅樂絲竹絃<lb
+ n="0489a06" ed="T"/>歌一時俱作。阿闍梨親捧水瓶灌沐佛像。取<lb
+ n="0489a07" ed="T"/>彼長線一頭繫瓶垂下。眾中人人捧線合掌<lb
+ n="0489a08" ed="T"/>當心。專注虔誠稱念諸佛。若有不及捧其線<lb
+ n="0489a09" ed="T"/>者。可取執前人身長衣。意如各各躬親自浴<lb
+ n="0489a10" ed="T"/>佛像之像也。乃至香水瓶次第傾盡一遍。即<lb
+ n="0489a11" ed="T"/>須替換。浴了佛像更安。未浴遍者。又更各添<lb
+ n="0489a12" ed="T"/>本類香水如前灌沐。其吹螺誦讚及以樂音<lb
+ n="0489a13" ed="T"/>直至浴遍。所有尊像方暫停息。既灌洗了。便<lb
+ n="0489a14" ed="T"/>以淨帛揩拭令乾。安於床上依位行列。即取<lb
+ n="0489a15" ed="T"/>塗香人人各以無名指頭搵取翹指當心。阿<lb
+ n="0489a16" ed="T"/>闍梨稱誦獻塗香真言。句句眾人齊聲誦。乃<lb
+ n="0489a17" ed="T"/>至末句。一時向佛遙彈奉獻作一拜。獻塗香<lb
+ n="0489a18" ed="T"/>真言曰。<lb
+ n="0489a19" ed="T"/></ab>
+<ab type='dharani'>唵薩嚩怛佗誐多巘馱布惹謎伽<lb
+ n="0489a20" ed="T"/>娑母捺囉娑頗羅拏三摩<lb
+ n="0489a21" ed="T"/>曳吽<lb
+ n="0489a22" ed="T"/></ab>
+<ab type='prose'>又取華盤。行者與眾人。各捧一華如前齊誦<lb
+ n="0489a23" ed="T"/>獻華真言。向佛遙散奉華真言曰。<lb
+ n="0489a24" ed="T"/></ab>
+<ab type='dharani'>唵薩嚩怛佗誐多補澁跛布惹謎<lb
+ n="0489a25" ed="T"/>伽三母捺囉娑頗囉拏三麼<lb
+ n="0489a26" ed="T"/>曳吽<lb
+ n="0489a27" ed="T"/></ab>
+<ab type='prose'>阿闍梨次執香鑪。令其左右及以眾人互執<lb
+ n="0489a28" ed="T"/>身衣。齊誦焚香真言普心奉獻。真言曰。<lb
+ n="0489a29" ed="T"/></ab>
+<ab type='dharani'>唵薩嚩怛佗誐多度波布惹謎<pb n="0489b" id="T21.1322.0489b" ed="T"/><lb
+ n="0489b01" ed="T"/>伽三母捺囉娑頗囉拏三麼曳<lb
+ n="0489b02" ed="T"/>吽<lb
+ n="0489b03" ed="T"/></ab>
+<ab type='prose'>阿闍梨又捧甜脆餅盤。如前稱誦獻食真言。<lb
+ n="0489b04" ed="T"/>誠心奉獻。真言曰。<lb
+ n="0489b05" ed="T"/></ab>
+<ab type='dharani'>唵薩嚩怛佗誐多沫里布惹<lb
+ n="0489b06" ed="T"/>謎伽三母捺囉娑頗囉拏三<lb
+ n="0489b07" ed="T"/>麼曳吽<lb
+ n="0489b08" ed="T"/></ab>
+<ab type='prose'>次捧燭臺誦奉燈真言一遍真言曰。<lb
+ n="0489b09" ed="T"/></ab>
+<ab type='dharani'>唵薩嚩怛佗誐多儞比野布惹<lb
+ n="0489b10" ed="T"/>謎伽三母捺囉娑頗羅拏三<lb
+ n="0489b11" ed="T"/>麼曳吽<lb
+ n="0489b12" ed="T"/></ab>
+<ab type='prose'>又令誦讚人人。手執香爐高聲誦浴像妙讚。<lb
+ n="0489b13" ed="T"/>讚曰并誦五讚。各各虔跪一偈<lb
+ n="0489b14" ed="T"/>一禮。灌浴供養既已周備。阿闍梨取彼浴佛<lb
+ n="0489b15" ed="T"/>香水。瀝自頂上及灑大眾人人頭上。此是洗<lb
+ n="0489b16" ed="T"/>浴眾聖萬德莊嚴吉祥福水。霑灑身上并飲<lb
+ n="0489b17" ed="T"/>少多。能令身中煩惱消薄。漸次成就無上菩<lb
+ n="0489b18" ed="T"/>提。大眾一時虔誠作禮。然更吹螺并誦行願<lb
+ n="0489b19" ed="T"/>吉祥等讚。音聲絲竹引眾先行。隨日左轉尊<lb
+ n="0489b20" ed="T"/>卑倫次旋行道三匝七匝。隨意所宜各誦大<lb
+ n="0489b21" ed="T"/>乘經中讚佛妙偈。法事既畢禮拜辭佛。人擎<lb
+ n="0489b22" ed="T"/>一尊送本處。此則西方浴像常法。然後眾僧<lb
+ n="0489b23" ed="T"/>上堂方受其食。嗚呼悲哉此方寂無知者。且<lb
+ n="0489b24" ed="T"/>佛像終身不曾一浴。煙熏塵坌烏鼠穢污。舉<lb
+ n="0489b25" ed="T"/>國皆然無能曉悟。設有浴者祖習愚情。別造<lb
+ n="0489b26" ed="T"/>一裸體尊容立於水器之內。以小扚洗。須慢<lb
+ n="0489b27" ed="T"/>心獻弄。殊無敬重之意反招輕忽之罪。哀哉<lb
+ n="0489b28" ed="T"/>不知敬田福之大也。高鑒君子賢明哲人。畏<lb
+ n="0489b29" ed="T"/>罪求福之儔。特宜存意此法。雖不能每日浴<pb n="0489c" id="T21.1322.0489c" ed="T"/><lb
+ n="0489c01" ed="T"/>者。亦可每月為之。所獲殊勝福利如浴像經<lb
+ n="0489c02" ed="T"/>中如來金口所說。</ab></div>
+</body></text></TEI>

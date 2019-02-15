@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">曼殊室利菩薩吉祥伽陀</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1196</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0938a04" ed="T"/><lb
+ n="0938a05" ed="T"/><lb
+ n="0938a06" ed="T"/><lb
+ n="0938a07" ed="T"/>
+<ab type='juan' subtype='open'>曼殊室利菩薩吉祥伽陀</ab><lb
+ n="0938a08" ed="T"/><lb
+ n="0938a09" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0938a10" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0938a11" ed="T"/><div type='dharani' level='1'><ab type='dharani'>鉢囉倪焬誐桑誐酤里隷訥婆嚩冒地唧大曼儒室哩曳尾<lb
+ n="0938a13" ed="T"/>末羅冒地窣珂阿毘世蓋拽訥莽<lb
+ n="0938a14" ed="T"/>誐羅𡁠那嚩哩速窣大窣儗當<lb
+ n="0938a15" ed="T"/>怛訥莽誐朗婆嚩覩帝波囉摩訶毘世<lb
+ n="0938a16" ed="T"/>蓋室哩嚩日囉薩埵誐拏曼<lb
+ n="0938a17" ed="T"/>拏羅三鉢囉吠世曳邏寫禰<lb
+ n="0938a18" ed="T"/>毘部嚩那娑囉尾邏洗泥毘<lb
+ n="0938a19" ed="T"/>拽訥莽誐朗窣珂割囕鉢囉嚩囕<lb
+ n="0938a20" ed="T"/>鉢囉儗當怛訥莽誐朗婆嚩覩<lb
+ n="0938a21" ed="T"/>帝波囉摩阿毘世蓋遏爹多娑<lb
+ n="0938a22" ed="T"/>耨拶哩多底薩曳囉世霜薩<lb
+ n="0938a23" ed="T"/>埵尾冒𠆙薩怛多酥誐多阿毘世蓋<lb
+ n="0938a24" ed="T"/>鉢訥莽誐朗酥囉嚩賴囉必大<lb
+ n="0938a25" ed="T"/>鉢囉儗當怛訥莽誐朗婆嚩覩<lb
+ n="0938a26" ed="T"/>帝波囉摩阿毘世蓋室哩滿<lb
+ n="0938a27" ed="T"/>帝哩路哥尾惹曳嚩囉曼拏羅屹<lb
+ n="0938a28" ed="T"/>黎帝賴路計也囉𡁠也尾<lb
+ n="0938a29" ed="T"/>惹踰怛摩那他細酤拽訥莽<pb n="0938b" id="T20.1196.0938b" ed="T"/><lb
+ n="0938b01" ed="T"/>誐朗酥囉嚩賴颯鉢囉拏帝颯鉢囉<lb
+ n="0938b02" ed="T"/>詣當怛訥莽誐朗婆嚩覩帝<lb
+ n="0938b03" ed="T"/>波囉摩阿毘世蓋那那惹誐訥尾那野薩嚕惹播尼三沒馱囉怛曩<lb
+ n="0938b05" ed="T"/>末酤吒彌怛他毘世蓋拽訥莽<lb
+ n="0938b06" ed="T"/>誐朗哥末羅囉誐尾戍提詣當怛訥莽誐羅婆嚩覩帝波囉摩阿<lb
+ n="0938b08" ed="T"/>毘世蓋阿哥舍誐哩婆末尼<lb
+ n="0938b09" ed="T"/>囉怛曩尾部底囉彌薩哩嚩<lb
+ n="0938b10" ed="T"/>哩他悉提窣珂那寫摩賀阿毘<lb
+ n="0938b11" ed="T"/>世蓋拽訥莽誐朗戍婆尾部底羯<lb
+ n="0938b12" ed="T"/>賴窣詣當怛訥莽誐朗婆嚩覩<lb
+ n="0938b13" ed="T"/>帝波囉摩阿毘世蓋殺竹作訖囉<lb
+ n="0938b14" ed="T"/>嚩哩底󰡊婆莽誐羅詣底哥踰<lb
+ n="0938b15" ed="T"/>拽咄奔尼也囉怛曩摩摩埵<lb
+ n="0938b16" ed="T"/>頓諒末夜鉢當帝那窣覩薩<lb
+ n="0938b17" ed="T"/>哩嚩誐多部彌摩賀阿毘世蓋<lb
+ n="0938b18" ed="T"/>尾󰡊馱嚩囉計哩底薩曼儒那<lb
+ n="0938b19" ed="T"/>他<lb
+ n="0938b20" ed="T"/>
+</ab><ab type='juan' subtype='close'>曼殊室利菩薩吉祥伽陀</ab></div>
+</body></text></TEI>

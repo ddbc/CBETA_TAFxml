@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大寒林聖難拏陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1392</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0908b05" ed="T"/><lb
+ n="0908b06" ed="T"/><lb
+ n="0908b07" ed="T"/><lb
+ n="0908b08" ed="T"/>
+<ab type='juan' subtype='open'>大寒林聖難拏陀羅尼經</ab><lb
+ n="0908b09" ed="T"/><lb
+ n="0908b10" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
+ n="0908b11" ed="T"/>三藏傳教大師賜紫沙門臣<lb
+ n="0908b12" ed="T"/>法天奉　詔譯</byline><lb
+ n="0908b13" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時薄伽梵。在王舍城中。是時尊<lb
+ n="0908b14" ed="T"/>者羅睺羅。遊於孕欺迦耶怛曩地寒林之中。<lb
+ n="0908b15" ed="T"/>於大塚間。彼時有諸天魅龍魅藥叉羅剎緊<lb
+ n="0908b16" ed="T"/>捺囉㜸嚕荼摩護囉誐。及餘一切人非人。餓<lb
+ n="0908b17" ed="T"/>鬼部多比舍佐供畔拏等之所來魅。亦有多<lb
+ n="0908b18" ed="T"/>種異類烏鵲。獯狐豺狼蟲蟻等。極多擾惱。<lb
+ n="0908b19" ed="T"/>于時尊者羅睺羅往詣佛所。到已頭面著地。<lb
+ n="0908b20" ed="T"/>禮世尊足圍遶三匝。涕淚悲泣立世尊前。<lb
+ n="0908b21" ed="T"/>爾時世尊告羅睺羅言。汝今云何涕淚悲泣<lb
+ n="0908b22" ed="T"/>住立我前。羅睺羅言如是世尊。我先住於王<lb
+ n="0908b23" ed="T"/>舍城孕欺迦耶怛曩地寒林之中。於大塚間。<lb
+ n="0908b24" ed="T"/>彼時有諸天魅龍魅藥叉羅剎緊捺囉㜸嚕荼<lb
+ n="0908b25" ed="T"/>摩護囉誐。及餘一切人非人。餓鬼部多比舍<lb
+ n="0908b26" ed="T"/>佐供畔拏等。皆來魅我。亦有多種異類鳥鵲<lb
+ n="0908b27" ed="T"/>獯狐豺狼諸蟲蟻等。極擾惱我。<lb
+ n="0908b28" ed="T"/>爾時世尊告尊者羅睺羅。言羅睺羅汝今諦<lb
+ n="0908b29" ed="T"/>聽此有大明祕密難拏陀羅尼。為擁護聽眾。<pb n="0908c" id="T21.1392.0908c" ed="T"/><lb
+ n="0908c01" ed="T"/>若苾芻苾芻尼鄔播索俱鄔播斯迦。長夜利<lb
+ n="0908c02" ed="T"/>益得安樂故。說此陀羅尼曰。<lb
+ n="0908c03" ed="T"/></ab>
+<ab type='dharani'>怛儞也他阿誐罔誐婆誐嚩㘄誐僧娑囉哆𠻴誐<lb
+ n="0908c05" ed="T"/>娑麼嚩娜娑婆誐𡁠素囉<lb
+ n="0908c06" ed="T"/>翳迦哆囉阿囉尾囉哆囉尾囉哆<lb
+ n="0908c07" ed="T"/>囉哆囉尾囉迦囉尾囉迦囉迦囉尾囉印娜印娜罽娑羅悍娑悍<lb
+ n="0908c09" ed="T"/>娑罽娑囉嗶唧麼攞麼賀<lb
+ n="0908c10" ed="T"/>枳佐尾呬恥迦迦攞砌迦阿<lb
+ n="0908c11" ed="T"/>虞娜囉惹野惹耶梨迦<lb
+ n="0908c12" ed="T"/>際攞翳攞尾跢梨唧唧醯梨醯梨<lb
+ n="0908c13" ed="T"/>三麼底嚩素麼底祖魯曩恥祖魯<lb
+ n="0908c14" ed="T"/>祖魯曩恥祖攞曩嬭矩曩嬭賀<lb
+ n="0908c15" ed="T"/>栗吒枳迦栗吒枳迦栗吒枳<lb
+ n="0908c16" ed="T"/>矯哩巘馱哩贊拏里麼登<lb
+ n="0908c17" ed="T"/>儗達囉抳陀囉抳塢瑟怛囉<lb
+ n="0908c18" ed="T"/>播栗計迦左迦哩計嚩羅曩嬭<lb
+ n="0908c19" ed="T"/>迦羯栗計攞攞麼底囉乞叉<lb
+ n="0908c20" ed="T"/>麼底嚩囉矩禮麼儞也帝<lb
+ n="0908c21" ed="T"/>塢怛跛禮迦囉尾㘑多囉尾㘑哆<lb
+ n="0908c22" ed="T"/>囉哆囉尾㘑矩嚕尾㘑矩嚕矩嚕尾㘑祖<lb
+ n="0908c23" ed="T"/>嚕祖嚕尾㘑麼賀尾㘑誐囉麼底拶<lb
+ n="0908c24" ed="T"/>囉麼底囉乞叉麼底薩嚩<lb
+ n="0908c25" ed="T"/>囉他娑馱𩕳跛囉麼囉他娑<lb
+ n="0908c26" ed="T"/>馱𩕳阿鉢囉底賀帝印捺嚕<lb
+ n="0908c27" ed="T"/>囉惹素謨囉惹嚩嚕𠯆<lb
+ n="0908c28" ed="T"/>囉惹矩吠嚕囉惹麼曩<pb n="0909a" id="T21.1392.0909a" ed="T"/><lb
+ n="0909a01" ed="T"/>悉尾囉惹嚩素罽囉惹<lb
+ n="0909a02" ed="T"/>難拏仡𩕳囉惹沒度娑賀<lb
+ n="0909a03" ed="T"/>娑囉地跛底囉惹沒度婆<lb
+ n="0909a04" ed="T"/>誐挽達麼娑嚩弭囉惹阿弩<lb
+ n="0909a05" ed="T"/>哆嚕路迦努劍跛迦囉乞<lb
+ n="0909a06" ed="T"/>叉囉乞叉𤚥阿呬崩薩<lb
+ n="0909a07" ed="T"/>嚩薩怛嚩難左囉乞產迦嚕<lb
+ n="0909a08" ed="T"/>都跛哩怛囉喃跛哩㜸囉<lb
+ n="0909a09" ed="T"/>憾跛哩播攞能扇底孕娑嚩<lb
+ n="0909a10" ed="T"/>悉底也野能難拏跛哩賀囕<lb
+ n="0909a11" ed="T"/>設娑怛囉跛哩賀囕尾灑努灑喃尾灑曩舍喃枲麼滿鄧陀<lb
+ n="0909a13" ed="T"/>囉抳滿鄧左矩囉挽覩爾<lb
+ n="0909a14" ed="T"/>嚩都挽哩灑舍蹬跛舍野都設囉那設蹬怛儞也他<lb
+ n="0909a16" ed="T"/>嚩攞嚩底拶囉麼底哆攞麼底洛<lb
+ n="0909a17" ed="T"/>乞叉麼底囉乞叉麼底護嚕<lb
+ n="0909a18" ed="T"/>麼底護嚕護嚕普嚕普嚕拶<lb
+ n="0909a19" ed="T"/>囉拶囉設覩嚨詎嚕詎嚕麼<lb
+ n="0909a20" ed="T"/>底麼底普弭贊抳迦里計置<lb
+ n="0909a21" ed="T"/>阿枳娑攞比禰娑麼曩帝護<lb
+ n="0909a22" ed="T"/>禮窣兔禮娑他攞始伽㘑惹野<lb
+ n="0909a23" ed="T"/>窣兔禮惹攞曩嬭祖魯曩嬭<lb
+ n="0909a24" ed="T"/>嚩仡挽馱儞尾嚕賀抳素<lb
+ n="0909a25" ed="T"/>魯呬帝阿拏㘑半拏㘑迦囉<lb
+ n="0909a26" ed="T"/>禮緊曩㘑計庾㘑計都麼底普蹬誐謎普哆麼底歎儞曳瞢誐<pb n="0909b" id="T21.1392.0909b" ed="T"/><lb
+ n="0909b01" ed="T"/>禮曳麼賀嚩攞魯呬多母禮<lb
+ n="0909b02" ed="T"/>阿拶魯抳馱囉馱囉惹野里計<lb
+ n="0909b03" ed="T"/>惹野嬌𡀔賀抳祖嚕祖嚕<lb
+ n="0909b04" ed="T"/>𡃝馱𡃝馱普嚕普嚕麌嚕<lb
+ n="0909b05" ed="T"/>麌嚕詎嚕詎嚕麼底麼底滿<lb
+ n="0909b06" ed="T"/>兔麼底度𡃝馱嚕馱𠼝馱<lb
+ n="0909b07" ed="T"/>㘑馱㘑尾達㘑尾麼底尾瑟劍<lb
+ n="0909b08" ed="T"/>婆禰曩舍禰尾曩舍禰滿<lb
+ n="0909b09" ed="T"/>馱禰謨乞叉抳尾謨拶禰<lb
+ n="0909b10" ed="T"/>謨賀禰婆嚩禰戍馱禰僧戍<lb
+ n="0909b11" ed="T"/>馱禰尾戍馱禰僧契囉抳<lb
+ n="0909b12" ed="T"/>僧髻囉禰僧瑳娜禰僧<lb
+ n="0909b13" ed="T"/>砌那禰娑度跢嚕麼儞<lb
+ n="0909b14" ed="T"/>麼儞賀囉賀囉滿度麼底呬<lb
+ n="0909b15" ed="T"/>哩呬哩企哩企哩伽囉禮護嚕護<lb
+ n="0909b16" ed="T"/>嚕氷誐禮曩謨窣覩沒馱<lb
+ n="0909b17" ed="T"/>喃婆誐嚩蹬娑嚩賀</ab></div><pb n="0909c" id="T21.1392.0909c" ed="T"/><lb
+ n="0909c01" ed="T"/><div type='梵文' level='2'><ab type='prose'>Tad yathā, aṅgā vaṅgā kaliṅgā bhaṅgā varaṅgā saṁsārataraṅgā, sāsadaṅgā, bhagā, asurā, ekataraṅgā, asuravīrā, tara<lb
+ n="0909c02" ed="T"/>vīrā tara tara vīrā, kara vīrā, kara kara vīrā, indrā indra kisarā, hansā hansa kisarā picimalā. Mahāceiccā. Viheṭhikā,<lb
+ n="0909c03" ed="T"/>kālucchikā, aṅgādarā jayā jayā likā delā elā cintāli, cili cili hili hili sumati, vasuvati, culu naḍḍe, culu culu nadre, culu<lb
+ n="0909c04" ed="T"/>3 naḍḍe, culu nāḍi, kunādi, hārīṭaki 2, kārīṭaki 2, varīṭaki 2 gauri 2 gandhāri, caṇḍāli, vctāli, mātaṅgi, vacasi, dharaṅi,<lb
+ n="0909c05" ed="T"/>dharaṅi, taraṅi tāraṅi, ḍaṁṣṭramālike, kaca kācike, kaca vācike, caranāṭike, kaka lipte, lalamati, lakṣamat ,varāha ku-<lb
+ n="0909c06" ed="T"/>le, matpale, utpale, dhārā kuli pārā kuli, karavīre, kara kara vīre, tara vīre, tara tara vīre, kuru vīre, kuru kuru vī-<lb
+ n="0909c07" ed="T"/>re, curu vīre, curu 2 vīre, mahā vīre, iramati, caramati, rakṣamati, sarvārtha sādhani, paramārtha sādhani, aprati hate,<lb
+ n="0909c08" ed="T"/>indro rājā, yamo rājā, varṇo rājā, kuvero rājā, kumbāṇḍo rājā, manasvī rājā, vāsukī rājā, daṇḍakī rājā,daṇḍāgnī rājā,<lb
+ n="0909c09" ed="T"/>dhṛtarāṣṭro rājā, virūḍako rājā, virupakṣo rājā, brahmā sahasrādhipatī rājā, buddho bhagavān dharma svāmī rājā, anutta-<lb
+ n="0909c10" ed="T"/>ro lokānukampakaḥ. Manasaparivārasya sarvasattvāñca rakṣaṁ kurvantu guptiṁ parigrāṇaṁ parigrāhaṁ paripāraṁ śānt-<lb
+ n="0909c11" ed="T"/>iṁ svastyanaṁ daṇḍa parihāraṁ śastra parihāraṁ viṣadūṣaṇaṁ viṣanāśanaṁ śīmāvandhandharaṇī vandhañca kuruvantu<lb
+ n="0909c12" ed="T"/>jīvatu varṣa śataṁ paśyatu śaradāṁ śataṁ. Tad yathā, ilāmilā, utpalā, iramati viramati rakṣamati haramati talamati la-<lb
+ n="0909c13" ed="T"/>kṣamati, kuru 2 mati, hurumati huru 2, phuru 2, curu 2, khara 2, khuru 2 mati 2 bhūmi caṇḍa, kālike, abhisaṁlāṣite, sa-<lb
+ n="0909c14" ed="T"/>malate, hule sthūle sthūle śikhare, jaya sthūle, valavadū, jayanaṅge, cala nāḍi, curu nāḍi, curu curu āḍi, vāg vand-<lb
+ n="0909c15" ed="T"/>hani, virohini, gorohini, aṇḍare paṇḍare, karāle, kinnare, vidure, keyure ketumati, bhūtamati, bhūtaṅgame, dhauye maṅgal-<lb
+ n="0909c16" ed="T"/>ye, hiranye garbhe. Mahāvale, avale, kitamūle, acala caṇḍe, dhurandharā, jayā like, jayā gorohioi, curu 2 phuru 2 cundha<lb
+ n="0909c17" ed="T"/>2 khuru 2 phuru 2 khuramati, vandhamati svāhā, dhurandhare 2 vidhare. vimati, viskambhini, bhāvani vibhāvani, nāśani<lb
+ n="0909c18" ed="T"/>vināśani, vandhani, mokṣaṇi śodhani, sādhani, saṁśodhani, viśodhani, saṁkhiraṇi, saṁkiraṇi saṁcchindani. Sādhu turamā-<lb
+ n="0909c19" ed="T"/>ne, turu 2 manohara 2 vandhumati, hiri 2 khiri 2 khurali, huru 2 khuru 2 piṅgale manośtu buddhānāṁ bhagavatāṁ svāhā.</ab></div><lb
+ n="0909b18" ed="T"/><div type='jing' level='2'><ab type='prose'>復次羅睺羅。此大明陀羅尼念誦之人。能以<lb
+ n="0909b19" ed="T"/>香花而作供養。及結印契志心念誦一百八<lb
+ n="0909b20" ed="T"/>遍結諸線索繫於手上及安頸上。即得周遍<lb
+ n="0909b21" ed="T"/>百踰繕那能為擁護。人非人等悉皆遠離。亦<lb
+ n="0909b22" ed="T"/>迺不被水火之所焚漂刀杖毒藥瘧病沴疾。<lb
+ n="0909b23" ed="T"/>不能侵害亦不中夭尾怛拏病及明呪術。誦<lb
+ n="0909b24" ed="T"/>此真言皆得安樂。若他繫縛即得解脫一切<lb
+ n="0909b25" ed="T"/>災惱。言誦鬪諍亦悉除滅。<lb
+ n="0909b26" ed="T"/>若有鬼魅來作嬈亂不退散者。但專志心誦<lb
+ n="0909b27" ed="T"/>此真言。彼等鬼神見持誦人。如執金剛大藥<lb
+ n="0909b28" ed="T"/>叉主純一金剛。威猛熾盛炎烈火焰。四大天<pb n="0910a" id="T21.1392.0910a" ed="T"/><lb
+ n="0910a01" ed="T"/>王各執鐵輪。鋒利刀劍逐令馳散。頭破七分<lb
+ n="0910a02" ed="T"/>身體劈裂。<lb
+ n="0910a03" ed="T"/>若彼鬼魅還本住處。彼諸同類不容入眾。亦<lb
+ n="0910a04" ed="T"/>不令住阿吒迦嚩底大王都城。復次羅睺羅<lb
+ n="0910a05" ed="T"/>此難拏大明陀羅尼志心誦持。即得遠離王<lb
+ n="0910a06" ed="T"/>賊水火毒氣刀杖。曠野山林險難惡道。往來<lb
+ n="0910a07" ed="T"/>之者一切無畏。<lb
+ n="0910a08" ed="T"/>復次羅睺羅。此難拏大明陀羅尼。九十一殑<lb
+ n="0910a09" ed="T"/>伽沙數諸佛。已說今說當說。具足神通。大神<lb
+ n="0910a10" ed="T"/>通者諸天龍藥叉犍闥婆阿素洛㜸魯荼摩<lb
+ n="0910a11" ed="T"/>護囉誐。一切群生圍遶禮拜。彼諸眾生離一<lb
+ n="0910a12" ed="T"/>切怖皆得安樂。<lb
+ n="0910a13" ed="T"/>時尊者羅睺羅及諸大眾聞世尊說一心信受<lb
+ n="0910a14" ed="T"/>禮佛而退。</ab></div><lb
+ n="0910a15" ed="T"/>
+<ab type='juan' subtype='close'>大寒林聖難拏陀羅尼經</ab></div>
+</body></text></TEI>

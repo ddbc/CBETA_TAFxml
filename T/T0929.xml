@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">淨瑠璃淨土摽</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0929</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0066b23" ed="T"/><lb
+ n="0066b24" ed="T"/><lb
+ n="0066b25" ed="T"/><lb
+ n="0066b26" ed="T"/>
+<ab type='juan' subtype='open'>淨瑠璃淨土摽</ab><lb
+ n="0066b27" ed="T"/><lb
+ n="0066b28" ed="T"/><div type='jing' level='2'><ab type='prose'>藥師瑠璃光如來。通身淺碧色。寶窟中百寶<lb
+ n="0066b29" ed="T"/>蓮華。師座上大空三昧。放無數光明。一一光<pb n="0066c" id="T19.0929.0066c" ed="T"/><lb
+ n="0066c01" ed="T"/>中。無量分身諸佛。悉大空三昧相。右臂揚掌<lb
+ n="0066c02" ed="T"/>調手開葉。左安臍下勾小指。號大寶瑠璃藥。<lb
+ n="0066c03" ed="T"/>其地紺瑠璃色。塵數無量寶花樹。樹華葉形。<lb
+ n="0066c04" ed="T"/>或佛形。放無量光明。名佛波羅蜜。或菩薩形。<lb
+ n="0066c05" ed="T"/>生無量伎樂。名三昧總持。或金堂形。放無量<lb
+ n="0066c06" ed="T"/>百寶雲。名菩提妙嚴。或寶塔形。生無量天眾。<lb
+ n="0066c07" ed="T"/>名覺智樹漠日雨輪樹無量百千幢幡<lb
+ n="0066c08" ed="T"/>行列。無量寶網寶鬘鈴鐸等莊嚴。佛前左右<lb
+ n="0066c09" ed="T"/>四性出家皆入定左第一重作金<lb
+ n="0066c10" ed="T"/>剛藏王菩薩。菩薩通身淺紅青色。坐寶蓮臺<lb
+ n="0066c11" ed="T"/>上。右手真中掌中立三股金剛杵。左手屈臂<lb
+ n="0066c12" ed="T"/>五指𠕀上。大指押小指爪上。以為塵數菩薩<lb
+ n="0066c13" ed="T"/>眾侍者。所謂雲香菩薩。華玉菩薩。金剛合掌<lb
+ n="0066c14" ed="T"/>菩薩。火頭天相菩薩。仙相菩薩等。右第一重<lb
+ n="0066c15" ed="T"/>作蓮花幢金剛手菩薩。通身淺青色。座寶蓮<lb
+ n="0066c16" ed="T"/>花臺上。左手執真陀摩尼。白寶蓮華臺上安<lb
+ n="0066c17" ed="T"/>金剛。右手作與願印塵數菩薩眾以為侍<lb
+ n="0066c18" ed="T"/>者。所謂青蓮花菩薩。三股金剛杵菩薩。一股<lb
+ n="0066c19" ed="T"/>金剛鈴鐸菩薩等也。左第二重作日光菩薩。<lb
+ n="0066c20" ed="T"/>通身赤紅色。左手掌安日。右手執蔓朱赤花<lb
+ n="0066c21" ed="T"/>貌。或開敷。或半開。或未開。或其寶菓為之。<lb
+ n="0066c22" ed="T"/>塵數菩薩以為侍者。所謂持香爐持摩訶蔓<lb
+ n="0066c23" ed="T"/>朱赤花等菩薩也。右第二重作月光菩薩。通<lb
+ n="0066c24" ed="T"/>身白紅色左手掌月輪。右手執紅白蓮花。塵<lb
+ n="0066c25" ed="T"/>數菩薩以為侍者。所謂持鉤持鉤鈴等菩薩。<lb
+ n="0066c26" ed="T"/>白如來近後。作十弟子及二十一三十五等<lb
+ n="0066c27" ed="T"/>羅漢。各以無數聲聞眾以為眷屬。上首各取<lb
+ n="0066c28" ed="T"/>物依本形契眷屬等者各在承法右存法形作<lb
+ n="0066c29" ed="T"/>左右後仰左右後作無數仙人仙女等捧隨時<pb n="0067a" id="T19.0929.0067a" ed="T"/><lb
+ n="0067a01" ed="T"/>采花。佛前左右外院。作無量天眾妓樂形。所<lb
+ n="0067a02" ed="T"/>謂堅達婆女琴天樂奉獻貌。緊那羅自心金<lb
+ n="0067a03" ed="T"/>鼓樂貌。伽樓羅女笛天樂貌。地天女皆鼓樂<lb
+ n="0067a04" ed="T"/>貌。阿修羅女奉天鼓樂貌。摩睺羅女奉笙樂<lb
+ n="0067a05" ed="T"/>貌。大魔侶天眾奉獻舞天樂貌也。外院上下<lb
+ n="0067a06" ed="T"/>八方。作十二神將眾。無數金剛童子眾以為<lb
+ n="0067a07" ed="T"/>眷屬也。所謂十二神將形。<lb
+ n="0067a08" ed="T"/>第一宮毘羅伊舍那方可畏大將。其色黃摽<lb
+ n="0067a09" ed="T"/>駕虎。執戰荼劍。右手拳押左腰。或云作東<lb
+ n="0067a10" ed="T"/>北方。<lb
+ n="0067a11" ed="T"/>第二伐折羅因達方金剛大將。其色青眼赤<lb
+ n="0067a12" ed="T"/>駕㝹。執三股伐折羅。左手屈風仰左。或云作<lb
+ n="0067a13" ed="T"/>東方。<lb
+ n="0067a14" ed="T"/>第三迷企羅阿揭拏方護法大將。其色帶炎<lb
+ n="0067a15" ed="T"/>上青煙駕龍。執鉾上炎旗二手調之。或云作<lb
+ n="0067a16" ed="T"/>東南方。<lb
+ n="0067a17" ed="T"/>第四安儞羅阿揭多方護比大將。其色帶炎<lb
+ n="0067a18" ed="T"/>上黃煙駕蛇。執戰荼鉞。左手拳申風指火珠<lb
+ n="0067a19" ed="T"/>也。或云作南方。<lb
+ n="0067a20" ed="T"/>第五安底羅閻魔羅方正法大將。其色赤放<lb
+ n="0067a21" ed="T"/>炎雷眼火髮駕兩翼馬。左執代月盧。右執鏡<lb
+ n="0067a22" ed="T"/>上炎也。或云作西南方。<lb
+ n="0067a23" ed="T"/>第六珊底羅涅哩堅底方羅剎大將。其色黃<lb
+ n="0067a24" ed="T"/>赤作羅剎像駕羊。左執鏡右執戰荼劍。或執<lb
+ n="0067a25" ed="T"/>代只哩也。或云作西方。<lb
+ n="0067a26" ed="T"/>第七因達羅涅哩底方帝使大將。其色黃色<lb
+ n="0067a27" ed="T"/>駕𮐴。左執白拂。右執鈴令瞻也。或云作西<lb
+ n="0067a28" ed="T"/>方北方。<lb
+ n="0067a29" ed="T"/>第八跋伊羅傳瞢荼方狼龍大將。其色白錯<pb n="0067b" id="T19.0929.0067b" ed="T"/><lb
+ n="0067b01" ed="T"/>駕金翅鳥。左執如意珠。右執金剛鐸。或云作<lb
+ n="0067b02" ed="T"/>北方。<lb
+ n="0067b03" ed="T"/>第九摩睺羅嚩庚方大將。或云折風大將。駕<lb
+ n="0067b04" ed="T"/>狗狗形可畏。所謂天狗。左拳申風指輪。右屈<lb
+ n="0067b05" ed="T"/>風其色如黑風。或云作上方。<lb
+ n="0067b06" ed="T"/>第十真達羅縛庚方折水大將。駕猪右執鈎<lb
+ n="0067b07" ed="T"/>左屈地水其色如黑水。或云作下方。<lb
+ n="0067b08" ed="T"/>第十一招杜羅毘沙門方護世大將。又摩尼<lb
+ n="0067b09" ed="T"/>大將。駕鼠。右執如意珠。左執羂索。其色夏日<lb
+ n="0067b10" ed="T"/>黑雲色也。或云作西方。<lb
+ n="0067b11" ed="T"/>第十二毘羯羅伊舍那方懃忿大將。駕牛即<lb
+ n="0067b12" ed="T"/>水牛也。手執寶弓箭。其色黑青。但稍滅前色。<lb
+ n="0067b13" ed="T"/>或云关方。<lb
+ n="0067b14" ed="T"/>佛前內護作迦陵頻伽白鵠。此鳥諸上首五<lb
+ n="0067b15" ed="T"/>之所說法音悉同音惕說。故號共命鳥也。淨<lb
+ n="0067b16" ed="T"/>瑠璃土可作消息已也。</ab></div><lb
+ n="0067b17" ed="T"/><div type='w' level='2'><ab type='prose'>端題下云　元睿山本<lb
+ n="0067b18" ed="T"/>　　　　　　　　二校了<lb
+ n="0067b19" ed="T"/>　　長治二秊六月二十五日奉寫畢</ab></div></div>
+</body></text></TEI>

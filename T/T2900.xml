@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">齋法清淨經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2900</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1431c" id="T85.2900.1431c" ed="T"/><lb
+ n="1431c01" ed="T"/><lb
+ n="1431c02" ed="T"/><lb
+ n="1431c03" ed="T"/>
+<ab type='juan' subtype='open'>佛說齋法清淨經</ab><lb
+ n="1431c04" ed="T"/><lb
+ n="1431c05" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛在竹林精舍。與二百五十<lb
+ n="1431c06" ed="T"/>比丘比丘尼優婆塞優婆夷。及諸天龍八部<lb
+ n="1431c07" ed="T"/>鬼神菩薩摩訶薩。一時集會。是大目揵連從<lb
+ n="1431c08" ed="T"/>坐而起。為佛作禮。而白佛言。世尊。我昔日時<lb
+ n="1431c09" ed="T"/>入城乞食。道逢見有數千萬人。頭如太山。腹<lb
+ n="1431c10" ed="T"/>如須彌。咽頸如針。行步之時如五百乘車聲。<lb
+ n="1431c11" ed="T"/>烟大口然。何罪所致。唯願世尊為我演說。佛<lb
+ n="1431c12" ed="T"/>言。苦哉苦哉。告目連曰。此餓鬼者。先世之<lb
+ n="1431c13" ed="T"/>時為造齋食供具食訖。中後破齋便得如是<lb
+ n="1431c14" ed="T"/>罪報。食他齋食不持齋者亦得是報。若作齋<lb
+ n="1431c15" ed="T"/>訖。所有餘食不得輒與不齋人。食過齋訖後<lb
+ n="1431c16" ed="T"/>施主啟白。眾僧請乞歡喜。所有餘食眾僧應<lb
+ n="1431c17" ed="T"/>施弟子。然後歡喜隨口意用。若不諮請眾僧<lb
+ n="1431c18" ed="T"/>施主二俱得罪。目連答曰。實如聖教。佛言。<lb
+ n="1431c19" ed="T"/>一切檀越施設法會供齋調度。若能持齋者<lb
+ n="1431c20" ed="T"/>可得與食。若不持齋者不得輒食。此飯獲罪<lb
+ n="1431c21" ed="T"/>無量無邊。若能一日持齋。得六十萬世餘糧。<lb
+ n="1431c22" ed="T"/>若不持齋食齋食者。六十萬世墮餓鬼中。何<lb
+ n="1431c23" ed="T"/>以故。此信施重食。寧可吞熱鐵丸不食此飯。<lb
+ n="1431c24" ed="T"/>吞熱鐵丸須臾間。自食他信施久受懃苦。五<lb
+ n="1431c25" ed="T"/>百萬世受餓鬼苦。但有設會之處。一切如法<lb
+ n="1431c26" ed="T"/>作齋。不得懷俠餘殘。歸給親友宗親。食此<lb
+ n="1431c27" ed="T"/>餅飯。若懷俠餘殘。五百萬世在地獄中。有熱<lb
+ n="1431c28" ed="T"/>鐵輪左右而過腋脅。燋爛受大苦惱。一切齋<lb
+ n="1431c29" ed="T"/>食不可不慎。不粒米麥化作熱鐵丸。一切施<pb n="1432a" id="T85.2900.1432a" ed="T"/><lb
+ n="1432a01" ed="T"/>主欲設福會。於先甞此食者都是殘食。唐作<lb
+ n="1432a02" ed="T"/>此會。不如不作。何以故。諸天鬼神不歡喜<lb
+ n="1432a03" ed="T"/>故。此人於先甞䬽者。亦五百萬世受餓鬼苦。<lb
+ n="1432a04" ed="T"/>自今以後欲得福者。好當清淨如上法作淨。<lb
+ n="1432a05" ed="T"/>洗身手麩糠。於先安置屏處。藏蓋實莫甞䬽。<lb
+ n="1432a06" ed="T"/>如法作齋可得福利。諸天歡喜。百神慶悅。善<lb
+ n="1432a07" ed="T"/>神擁護。經不虛言。福報如影響。此餓鬼本從<lb
+ n="1432a08" ed="T"/>人道中來。以不淨手觸眾僧衣鉢。以不淨手<lb
+ n="1432a09" ed="T"/>濁沙門淨食。以不淨手著沙門食中。以不淨<lb
+ n="1432a10" ed="T"/>食將施眾僧及與父母。後五百世墮餓鬼中。<lb
+ n="1432a11" ed="T"/>常食不淨。始欲上廁食噉糞屎。即彼廁神手<lb
+ n="1432a12" ed="T"/>把鐵杖。逆彼餓鬼不得近廁。恒食膿血涕唾<lb
+ n="1432a13" ed="T"/>及蕩除惡汁。常守穢惡女婦產生血污不淨<lb
+ n="1432a14" ed="T"/>以為資糧。復逕五百萬世墮在䐗豚蜣蜋之<lb
+ n="1432a15" ed="T"/>中。常食臭穢不淨之物。受斯苦切累世懃苦。<lb
+ n="1432a16" ed="T"/>數千萬劫無有出期。難得解脫。痛不可言。或<lb
+ n="1432a17" ed="T"/>以手觸身體男女根等。或以此手觸沙門父<lb
+ n="1432a18" ed="T"/>母淨食。以不淨食著與沙門父母。當致此殃。<lb
+ n="1432a19" ed="T"/>一切肉眼不知罪福。自今已後欲得佐助。眾<lb
+ n="1432a20" ed="T"/>僧作飯食者。以清淨身手捉眾僧食器。以清<lb
+ n="1432a21" ed="T"/>淨手澍米把麵。及以淨水作食。得福無量。自<lb
+ n="1432a22" ed="T"/>今以後廣為一切普使聞知。如說修行。目連<lb
+ n="1432a23" ed="T"/>白佛。我當流布。不敢忘失。至心奉行。<lb
+ n="1432a24" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說齋法清淨經</ab></div>
+</body></text></TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說四泥犁經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0139</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0861b09" ed="T"/><lb
+ n="0861b10" ed="T"/><lb
+ n="0861b11" ed="T"/><div type='jing' level='1'><lb
+ n="0861b12" ed="T"/>
+<ab type='juan' subtype='open'>佛說四泥犁經</ab><lb
+ n="0861b13" ed="T"/><lb
+ n="0861b14" ed="T"/><byline>東晉西域沙門竺曇無蘭譯</byline><lb
+ n="0861b15" ed="T"/><ab type='prose'>聞如是：一時婆伽婆，在舍衛城祇樹給孤獨<lb
+ n="0861b16" ed="T"/>園。爾時，世尊告諸比丘：「有四大泥犁。云何為<lb
+ n="0861b17" ed="T"/>四？諸比丘！提舍大泥犁，瞿波離比丘大泥犁，<lb
+ n="0861b18" ed="T"/>禘婆達兜大泥犁，末佉梨大泥犁。「諸比丘！彼<lb
+ n="0861b19" ed="T"/>提舍大泥犁，身出火焰長二十肘；諸比丘！瞿<lb
+ n="0861b20" ed="T"/>波犁大泥梨，身出火焰長三十肘；諸比丘！<lb
+ n="0861b21" ed="T"/>調達大泥犁，身出火焰長四十肘；末佉梨大<lb
+ n="0861b22" ed="T"/>泥梨身出火焰長六十肘。諸有人民，欲求安<lb
+ n="0861b23" ed="T"/>隱獲其義者，若三十大海水灌彼身上，彼海<lb
+ n="0861b24" ed="T"/>水盡火不滅，猶如融銅。若有人以二十渧水<lb
+ n="0861b25" ed="T"/>著彼融銅中，彼水渧速疾滅，彼提舍比丘亦<lb
+ n="0861b26" ed="T"/>復如是，火焰不滅。若復有人欲求安隱獲其<lb
+ n="0861b27" ed="T"/>義者，復以二十大海水灌其身上，彼水速盡。<lb
+ n="0861b28" ed="T"/>所以然者？彼提舍比丘愚人，遮比丘僧使一<lb
+ n="0861b29" ed="T"/>日不食，以此因緣，使提舍比丘入大地獄。諸<pb n="0861c" ed="T" id="T02.0139.0861c"/><lb
+ n="0861c01" ed="T"/>有比丘，於瞿波離比丘，有一人起欲使安隱<lb
+ n="0861c02" ed="T"/>獲其義者，以三十大海水灌其身上，彼海水<lb
+ n="0861c03" ed="T"/>速盡。譬如二日所融銅；或有一人以三十渧<lb
+ n="0861c04" ed="T"/>水著融銅中，消盡無餘此亦如是。瞿波離比<lb
+ n="0861c05" ed="T"/>丘愚人，或有人起欲使獲安隱義者，以三十<lb
+ n="0861c06" ed="T"/>大海水灌其身上，彼大海水速盡。所以然者？<lb
+ n="0861c07" ed="T"/>彼瞿波離比丘愚人，謗舍利弗、目乾連比丘，<lb
+ n="0861c08" ed="T"/>身壞命終生三惡道，墮鉢頭摩地獄。以此因<lb
+ n="0861c09" ed="T"/>緣，瞿波離比丘入大泥梨。彼調達大泥梨，<lb
+ n="0861c10" ed="T"/>若復有人欲使獲安隱義者，復以四十大海<lb
+ n="0861c11" ed="T"/>水灌其身上，彼大海速盡彼火不滅。譬如三<lb
+ n="0861c12" ed="T"/>日融銅，若有人以四十渧水著融銅中，即<lb
+ n="0861c13" ed="T"/>時消盡無餘，此亦如是。調達愚人，若有人起<lb
+ n="0861c14" ed="T"/>欲使獲安隱義，以四十大海水灌其身上，彼<lb
+ n="0861c15" ed="T"/>大海水速盡，彼火不滅。所以然者？調達愚人<lb
+ n="0861c16" ed="T"/>欲害如來，殺阿羅漢比丘尼，壞亂比丘僧，身<lb
+ n="0861c17" ed="T"/>壞命終趣三惡道，生阿鼻地獄中，由此因緣，<lb
+ n="0861c18" ed="T"/>使彼調達比丘入大地獄，身出火焰長四十<lb
+ n="0861c19" ed="T"/>肘。諸有比丘，彼末佉梨大泥犁，若有一人起<lb
+ n="0861c20" ed="T"/>欲使獲安隱義，以六十大海水灌其身上，彼<lb
+ n="0861c21" ed="T"/>海水速盡，彼火不滅。譬如四日所融銅，若有<lb
+ n="0861c22" ed="T"/>人以六十渧水著融銅中，即時消盡無餘，彼<lb
+ n="0861c23" ed="T"/>末佉梨亦復如是。若有一人起欲使獲安隱<lb
+ n="0861c24" ed="T"/>義者，以六十大海水灌其身上，彼大海水速<lb
+ n="0861c25" ed="T"/>盡，此火不滅。所以然者？此末佉梨愚人，教受<lb
+ n="0861c26" ed="T"/>百拘梨人使行邪見，以此因緣，使末佉梨身<lb
+ n="0861c27" ed="T"/>出火焰長六十肘。如是，諸比丘！四大泥犁。」時，<lb
+ n="0861c28" ed="T"/>諸比丘聞佛所說，歡喜奉行。<lb
+ n="0861c29" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說四泥犁經</ab></div>
+</body></text></TEI>

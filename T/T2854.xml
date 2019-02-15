@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">禮懺文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2854</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1303b14" ed="T"/><lb
+ n="1303b15" ed="T"/><lb
+ n="1303b16" ed="T"/><lb
+ n="1303b17" ed="T"/>
+<ab type='juan' subtype='open'>禮懺文一本</ab><lb
+ n="1303b18" ed="T"/><lb
+ n="1303b19" ed="T"/><ab type='prose'>一切恭敬敬禮常住三寶　是□眾□□□□<lb
+ n="1303b20" ed="T"/>嚴智香□□□食。願此香花雲變滿十方界<lb
+ n="1303b21" ed="T"/>供養一切佛化并菩薩　無數聲聞□□受此<lb
+ n="1303b22" ed="T"/>香花雲。以謂光明臺光以無邊界無邊無量<lb
+ n="1303b23" ed="T"/>作佛是。供養與供敬一切並誦摩訶般若波<lb
+ n="1303b24" ed="T"/>羅蜜。如來妙色身世間無以等無比不思議。<lb
+ n="1303b25" ed="T"/>是故今敬禮如來色。無盡智慧亦復然。一切<lb
+ n="1303b26" ed="T"/>法常住時□□歸敬禮常住三寶歎佛功德。<lb
+ n="1303b27" ed="T"/>佛有三十二相八十隨好。號三界度眾生所<lb
+ n="1303b28" ed="T"/>成佛道。<lb
+ n="1303b29" ed="T"/>南無東方須彌燈光明如來十方佛等一切諸<pb n="1303c" id="T85.2854.1303c" ed="T"/><lb
+ n="1303c01" ed="T"/>佛。<lb
+ n="1303c02" ed="T"/>南無毘婆尸如來過去七佛等一切諸佛。<lb
+ n="1303c03" ed="T"/>南無普光如來五十三佛等一切諸佛　南無<lb
+ n="1303c04" ed="T"/>東方善德如來十方無量佛等一切諸佛　南<lb
+ n="1303c05" ed="T"/>無拘那提如來賢劫千佛等一切諸佛　南無<lb
+ n="1303c06" ed="T"/>釋迦如來三十五佛等一切諸佛　南無東方<lb
+ n="1303c07" ed="T"/>阿閦如來一萬五千佛等一切諸佛　南無保<lb
+ n="1303c08" ed="T"/>集如來二十五佛等一切諸佛　南無法光明<lb
+ n="1303c09" ed="T"/>清淨開方蓮華佛　南無虛空功德清淨微眾<lb
+ n="1303c10" ed="T"/>等目端正功德相光明花波頭磨瑠璃光寶體<lb
+ n="1303c11" ed="T"/>香最上香供養訖種種莊嚴敬敬無量無邊日<lb
+ n="1303c12" ed="T"/>月光明願力莊嚴變化莊嚴法界出生障礙王<lb
+ n="1303c13" ed="T"/>如來　南無豪相日月光明花願寶蓮華堅如<lb
+ n="1303c14" ed="T"/>金剛身如毘盧遮那無障礙眼圓滿十方放光<lb
+ n="1303c15" ed="T"/>照一切佛叉相王如來　普為上界天先龍凡<lb
+ n="1303c16" ed="T"/>八部帝主人王師僧父母十方施主及以邊<lb
+ n="1303c17" ed="T"/>法界眾生。悉願斷持知障歸命懺悔　至心<lb
+ n="1303c18" ed="T"/>懺悔。一切業障海皆從望相生。若欲懺悔者。<lb
+ n="1303c19" ed="T"/>端坐觀實相。眾罪如霜露慧日能消徐。是故<lb
+ n="1303c20" ed="T"/>應至心懃懺六根罪。懺悔以歸命禮三寶　至<lb
+ n="1303c21" ed="T"/>心發願　願我等生生是諸佛世世恒聞解脫<lb
+ n="1303c22" ed="T"/>者。弘誓平等度眾生。必竟造成無上道。發願<lb
+ n="1303c23" ed="T"/>以歸命禮三寶。<lb
+ n="1303c24" ed="T"/>說偈發願　願以此功德普及於一切。我等<lb
+ n="1303c25" ed="T"/>以眾生皆共成佛道。<lb
+ n="1303c26" ed="T"/>白眾等聽說黃昏無常偈　西方日以暮。塵<lb
+ n="1303c27" ed="T"/>勞有微塵。老病死時至。相看不居。念念催<lb
+ n="1303c28" ed="T"/>年足。猶如少水魚。勸諸行道眾。懃學至無<lb
+ n="1303c29" ed="T"/>畏。<pb n="1304a" id="T85.2854.1304a" ed="T"/><lb
+ n="1304a01" ed="T"/>白眾等聽說初夜無常偈。煩惱無底生死海<lb
+ n="1304a02" ed="T"/>無邊。度苦船未至。云何樂睡眠。睡眠當覺<lb
+ n="1304a03" ed="T"/>悟。勿令睡覆心。勇猛懃精進菩提道自然。<lb
+ n="1304a04" ed="T"/>敬禮毘盧遮那佛　敬禮盧舍那佛　敬禮釋<lb
+ n="1304a05" ed="T"/>迦牟尼佛　敬禮東方善德佛　敬禮東南方<lb
+ n="1304a06" ed="T"/>無憂得佛　敬禮南方旃檀佛　敬禮西南方<lb
+ n="1304a07" ed="T"/>寶勝佛　敬禮西方無量明佛　敬禮西北方<lb
+ n="1304a08" ed="T"/>花得佛　敬禮北方相得佛　敬禮東北方三<lb
+ n="1304a09" ed="T"/>勝行佛　敬禮上方廣眾得佛　敬禮下明得<lb
+ n="1304a10" ed="T"/>佛　敬禮當來下生彌勒尊佛敬禮過現未來<lb
+ n="1304a11" ed="T"/>十方三世一切諸佛　敬禮舍利形像無量寶<lb
+ n="1304a12" ed="T"/>塔　敬禮十二部尊經甚深法藏　敬禮諸大<lb
+ n="1304a13" ed="T"/>菩薩摩訶薩眾　敬禮聲聞緣覺一切賢聖一<lb
+ n="1304a14" ed="T"/>切恭敬為龍八部諸善神王　敬禮常住三寶<lb
+ n="1304a15" ed="T"/>為過現諸師恒為道首　敬禮常住三寶為帝<lb
+ n="1304a16" ed="T"/>王聖化無窮　敬禮常住三寶為太子諸王福<lb
+ n="1304a17" ed="T"/>延萬葉　敬禮常住三寶為師僧父母及善知<lb
+ n="1304a18" ed="T"/>識　敬禮常住三寶為十方施主六度圓滿<lb
+ n="1304a19" ed="T"/>　敬禮常住三寶為受苦眾生願皆離苦　敬禮<lb
+ n="1304a20" ed="T"/>常住三寶為文路百官恒其祿位　敬禮常住<lb
+ n="1304a21" ed="T"/>三寶為國土安寧法輪常轉　敬禮常住三寶<lb
+ n="1304a22" ed="T"/>為法界有情　禮佛懺悔至心懺悔十方無量<lb
+ n="1304a23" ed="T"/>佛所知無不盡。我今悉已前發露迴三惡。三<lb
+ n="1304a24" ed="T"/>三合九種。從三煩惱起。今身若前身有罪皆<lb
+ n="1304a25" ed="T"/>懺悔。於三惡道中若應受業報願得。今身常<lb
+ n="1304a26" ed="T"/>不入惡道。受懺悔已歸命禮三寶　至心勸<lb
+ n="1304a27" ed="T"/>請十方諸如來現在成道者。我請轉法輪安<lb
+ n="1304a28" ed="T"/>樂諸眾生。十方一切佛若欲捨受命。我今頭<lb
+ n="1304a29" ed="T"/>命禮勸請令久住。勸請以歸命禮三寶　至<pb n="1304b" id="T85.2854.1304b" ed="T"/><lb
+ n="1304b01" ed="T"/>心隨喜所有布施福。持戒修禪惠。從身口意<lb
+ n="1304b02" ed="T"/>生起來。今所有習學三乘人。具足一乘者。無<lb
+ n="1304b03" ed="T"/>量人天福眾等。皆隨喜隨命禮三寶　至心<lb
+ n="1304b04" ed="T"/>迴向。我所作福業一切皆和合為度群生故。<lb
+ n="1304b05" ed="T"/>政迴向佛道。罪應如是懺勸請隨喜福迴向<lb
+ n="1304b06" ed="T"/>於菩提。迴向以歸命禮三寶　至心發願。願<lb
+ n="1304b07" ed="T"/>諸眾生等悉發菩提心。經心常思念十方一<lb
+ n="1304b08" ed="T"/>切佛。伏願諸眾生永破諸煩惱。了了見佛姓<lb
+ n="1304b09" ed="T"/>猶如妙德佛。發願以歸命禮三寶　白眾等<lb
+ n="1304b10" ed="T"/>聽說寅朝清淨偈。欲救寂滅樂。當學沙門法。<lb
+ n="1304b11" ed="T"/>衣食支身命。精麁諸眾等。今日寅朝清淨。各<lb
+ n="1304b12" ed="T"/>記六念。一切恭敬。自歸佛。當願眾生體學大<lb
+ n="1304b13" ed="T"/>道發無常意。自歸依法。當願眾生深入經藏<lb
+ n="1304b14" ed="T"/>智慧如海。自歸僧。當願眾生統理大眾一切<lb
+ n="1304b15" ed="T"/>無礙。願諸眾生三業清淨奉持佛教。和南一<lb
+ n="1304b16" ed="T"/>切賢聖。<lb
+ n="1304b17" ed="T"/>顯德二年乙卯歲四月二十二日<lb
+ n="1304b18" ed="T"/>大玄寺僧辛願進記</ab></div>
+</body></text></TEI>

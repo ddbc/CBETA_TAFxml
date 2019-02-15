@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說金身陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1414</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0928a" id="T21.1414.0928a" ed="T"/><lb
+ n="0928a01" ed="T"/><lb
+ n="0928a02" ed="T"/><div type='jing' level='1'><lb
+ n="0928a03" ed="T"/>
+<ab type='juan' subtype='open'>佛說金身陀羅尼經</ab><lb
+ n="0928a04" ed="T"/><lb
+ n="0928a05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
+ n="0928a06" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
+ n="0928a07" ed="T"/><ab type='prose'>爾時世尊。普為利益一切眾生。說此陀羅尼<lb
+ n="0928a08" ed="T"/>曰。<lb
+ n="0928a09" ed="T"/></ab>
+<ab type='dharani'>那謨沒馱喃摩帝多那誐多鉢<lb
+ n="0928a10" ed="T"/>囉怛踰怛半那喃那謨阿<lb
+ n="0928a11" ed="T"/>彌多婆野怛他誐多野阿囉喝帝<lb
+ n="0928a12" ed="T"/>三藐訖三沒馱野怛𭔞他<lb
+ n="0928a13" ed="T"/>唵摩尾哩摩尾哩彌馱<lb
+ n="0928a14" ed="T"/>嚩帝彌馱嚩帝阿蜜哩覩訥<lb
+ n="0928a15" ed="T"/>婆吠沒馱摩帝沒馱婆始多<lb
+ n="0928a16" ed="T"/>薩哩嚩達哩謨勒迦入嚩里儞<lb
+ n="0928a17" ed="T"/>沒提沒提摩賀沒提摩賀尾<lb
+ n="0928a18" ed="T"/>哩吠誐嚩底誐嚕拏吠誐嚩底印捺囉嚩日囉吠誐嚩底沒<lb
+ n="0928a20" ed="T"/>馱尾路吉帝牟儞牟儞摩賀牟儞發<lb
+ n="0928a21" ed="T"/>吒那謨沒馱達哩摩僧伽喃末梨<lb
+ n="0928a22" ed="T"/>那薩哩嚩藥叉囉叉娑必舍<lb
+ n="0928a23" ed="T"/>左酤瑟曼拏布怛那<lb
+ n="0928a24" ed="T"/>羯吒布怛那薩哩嚩屹囉賀禰<lb
+ n="0928a25" ed="T"/>嚩𭔞訥瑟吒唧當波囉閉拏<lb
+ n="0928a26" ed="T"/>剛屹哩恨拏屹哩恨拏屹<lb
+ n="0928a27" ed="T"/>囉娑屹囉娑摩囉摩囉<lb
+ n="0928a28" ed="T"/>伴惹伴惹捺賀捺賀鉢左鉢左賀<lb
+ n="0928a29" ed="T"/>那賀那薩哩嚩沒馱喃末梨那<pb n="0928b" id="T21.1414.0928b" ed="T"/><lb
+ n="0928b01" ed="T"/>那設野那設野頻捺頻捺親<lb
+ n="0928b02" ed="T"/>捺親捺牟嚕牟嚕尾捺囉鉢野尾<lb
+ n="0928b03" ed="T"/>捺囉鉢野薩哩嚩囉叉桑阿<lb
+ n="0928b04" ed="T"/>𭔞室左摩耨賒阿摩耨賒滿馱滿馱<lb
+ n="0928b05" ed="T"/>桑酤左桑酤左尾酤左尾酤<lb
+ n="0928b06" ed="T"/>左塞怖吒塞怖吒怛哩惹<lb
+ n="0928b07" ed="T"/>怛哩惹誐哩惹誐哩惹賀那賀<lb
+ n="0928b08" ed="T"/>那薩哩嚩滿怛囕薩哩吠嚕<lb
+ n="0928b09" ed="T"/>昂尾賀那尾賀那犖叉𤚥薩<lb
+ n="0928b10" ed="T"/>波哩囉囉薩哩嚩薩埵難左莎<lb
+ n="0928b11" ed="T"/>賀<lb
+ n="0928b12" ed="T"/></ab>
+<ab type='prose'>佛言此陀羅尼有大功德。若有人能戴於頂<lb
+ n="0928b13" ed="T"/>上。所有一切羅剎必舍左鬼等。於千由旬內<lb
+ n="0928b14" ed="T"/>不能侵害。<lb
+ n="0928b15" ed="T"/>又若有人當誦此陀羅尼一遍。時。有諸天子<lb
+ n="0928b16" ed="T"/>及其眷屬。住千由旬外為作擁護。<lb
+ n="0928b17" ed="T"/>又若有人誦此陀羅尼時。所有一切設咄嚕<lb
+ n="0928b18" ed="T"/>及彼大惡虎狼蟲獸。而自攝伏不能為害。<lb
+ n="0928b19" ed="T"/>又若有人能發至誠。於日日中誦此陀羅尼<lb
+ n="0928b20" ed="T"/>數滿百遍。是人即得安膳那藥成就。當用點<lb
+ n="0928b21" ed="T"/>眼即能見彼三世中事。<lb
+ n="0928b22" ed="T"/>又若有人誦此陀羅尼時。能令忿怒心者生<lb
+ n="0928b23" ed="T"/>敬愛心。<lb
+ n="0928b24" ed="T"/>又若有人至心誦此陀羅尼二洛叉遍。一切<lb
+ n="0928b25" ed="T"/>煩惱悉能息滅　又若有人長時誦此陀羅<lb
+ n="0928b26" ed="T"/>尼。是人即得宿命智。<lb
+ n="0928b27" ed="T"/>又若有人以此陀羅尼。加持淨油塗於頭上<lb
+ n="0928b28" ed="T"/>腹上。是人若有頭病腹病及餘一切惡毒等<lb
+ n="0928b29" ed="T"/>病。隨所塗處病得消散。<pb n="0928c" id="T21.1414.0928c" ed="T"/><lb
+ n="0928c01" ed="T"/>又若有人取一粒胡椒。以此陀羅尼加持二<lb
+ n="0928c02" ed="T"/>十一遍。持詣囉惹處。隨所願求皆得如意。此<lb
+ n="0928c03" ed="T"/>陀羅尼有大功德。若欲成就如上等事。應當<lb
+ n="0928c04" ed="T"/>受持。<lb
+ n="0928c05" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說金身陀羅尼經</ab></div>
+</body></text></TEI>

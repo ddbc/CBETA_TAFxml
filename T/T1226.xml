@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">烏芻澁明王儀軌梵字</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1226</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0141b13" ed="T"/><lb
+ n="0141b14" ed="T"/><lb
+ n="0141b15" ed="T"/><lb
+ n="0141b16" ed="T"/><lb
+ n="0141b17" ed="T"/>
+<ab type='juan' subtype='open'>烏芻澁明王儀軌梵字</ab><lb
+ n="0141b18" ed="T"/><lb
+ n="0141b19" ed="T"/><ab type='dharani'>􈁴􄕗􄕤􄑘􄕟􆹊􄙗􄗱􅁥􄚩􇖴<lb
+ n="0141b20" ed="T"/>􈁴􄖵􈊤􆹊􄙗􄗱􅁥􄚩􇖴<lb
+ n="0141b21" ed="T"/>􈁴􄙖􄧅􆹊􄙗􄗱􅁥􄚩􇖴<lb
+ n="0141b22" ed="T"/>􈁴􄙖􄧅􅍋􄪼􄕲􆻥􄗱􅁥􄚩􇖴<lb
+ n="0141b23" ed="T"/>􈁴􄙖􄦽􄥏􄕻􄗥􄚩􄗍􄙊􄚨􄖩􄕯􄚨􄖵<lb
+ n="0141b24" ed="T"/>􄑼􄙘􄕭􄙺􄗱􇇳􇩹􅋀􄥏􄕻􈅼􄗁􈁆􅁥<lb
+ n="0141b25" ed="T"/>􄚩􇖴<lb
+ n="0141b26" ed="T"/>􈁴􈁊􄙊􈁊􄙊􄙺􅞣􈇚􆵋􆶩􆫌􄗱􆶩􆫌<lb
+ n="0141b27" ed="T"/>􄗱􈇚􅛔􄗽􈇚􆵌􄖫􄙗􄗽􄗱􄗽􄚴􄗽􄚴<lb
+ n="0141b28" ed="T"/>􈁝􅁥􄚩􇖴<lb
+ n="0141b29" ed="T"/>􈁴􄙺􅞤􄑘􄓀􄗥􄚩􄕝􄓀􄙖􄦾􄙢􄖫􄙖<pb n="0141c" id="T21.1226.0141c" ed="T"/><lb
+ n="0141c01" ed="T"/>􄗱􆶩􆫌􄗱􈅼􄗁􈁆􇖴<lb
+ n="0141c02" ed="T"/>􈁴􄥏􄕻􄖩􈅼􄓁􇖴<lb
+ n="0141c03" ed="T"/>􈁴􈅼􄗁􈁆􇇳􄥟􄙧􄙊􄖶􄕍􈅼􈅼􈅼􄗁<lb
+ n="0141c04" ed="T"/>􈁆􄗁􈁆􄗁􈁆􇩂􄝝􄕙􄖫􄖪􄕯􈅼􈅼􈅼<lb
+ n="0141c05" ed="T"/>􄗁􈁆􄗁􈁆􄗁􈁆􈁴􈁴􈁴􄗥􄚩􄙖􄙊􅁥<lb
+ n="0141c06" ed="T"/>􄚩􇖴<lb
+ n="0141c07" ed="T"/>􈁴􄑂􄙌􄑂􄙌􄙖􄦽􄙖􄦿􄗞􅞣􄾫􄙖􄾫<lb
+ n="0141c08" ed="T"/>􈅼􄗁􈁆<lb
+ n="0141c09" ed="T"/>􈁴􄙺􄗽􄙺􄗽􄙖􄦽􄪽􄑀􄗽􈅼􄗁􈁆<lb
+ n="0141c10" ed="T"/>􈁴􄙘􄗥􄙒􄕯􄕽􅁥􄚩<lb
+ n="0141c11" ed="T"/>􈁴􆿅􄑼􄙊􈅼<lb
+ n="0141c12" ed="T"/>􈁴􆿅􄑼􄙊􄙙􄙄􅁥􄚩<lb
+ n="0141c13" ed="T"/>􈁴􄑀􄗥􄙊􅁥􄚩<lb
+ n="0141c14" ed="T"/>􄖩􄗰􄙺􅞣􄕗􄕤􄑘􄕝􄢢􄙘􈂫􈁃􄑒􄢥<lb
+ n="0141c15" ed="T"/>􄙺􅞣􄕤􈆹􇇳􆲪􄕝􆷱􄗽􄚫􄗯􄑘􄑘􄖩<lb
+ n="0141c16" ed="T"/>􄑊􅁥􄚩􇖴<lb
+ n="0141c17" ed="T"/>􈁴􈂼􄙼􇧻􄑀􄙀􈁊􄙌􄕘􄖳􄕗􈇰􇪱􄗷<lb
+ n="0141c18" ed="T"/>􈁊􄙊􈁊􄙊􄗍􈏎􄗍􈏎􄚨􄖩􄚨􄖩􈅼􄗁<lb
+ n="0141c19" ed="T"/>􈁆􇖴<lb
+ n="0141c20" ed="T"/>􈁴􄕛􄙂􄕛􄙂􈅼􇖴<pb n="0142a" id="T21.1226.0142a" ed="T"/><lb
+ n="0142a01" ed="T"/><lb
+ n="0142a02" ed="T"/>􄖩􄗥􈆤􄕥􄑁􈁀􄙺􅞣􄕗􄕤􄑘􄕘􈁀􈁴<lb
+ n="0142a03" ed="T"/>􄙖􄧇􄑚􄡉􄑀􅞻􄗱􈂯􄚪􄗙􄑘􄙠􅁥􄚩<lb
+ n="0142a04" ed="T"/>􇖴<lb
+ n="0142a05" ed="T"/>􈁴􄙖􄦽􆯯􈅝􆿏􈂯􄚪􄗙􄑘􄙠􄙖􄦽􆯯<lb
+ n="0142a06" ed="T"/>􈅝􈁴􄙖􄦽􄥏􄕻􄗥􄚩􄙖􄙊􄑀􄗽􄑀􄗽<lb
+ n="0142a07" ed="T"/>􇩻􆩮􇩻􆩮􈅼􄗁􈁆􇖴<lb
+ n="0142a08" ed="T"/>􈁴􄙘􆷵􄗽􄩶􄚴􄙖􄦽􄖿􄒶􄖩􈅼􄗁􈁆<lb
+ n="0142a09" ed="T"/>􇖴<lb
+ n="0142a10" ed="T"/>􈁴􆿅􄙺􄗯􄑚􄖫􈅼􄗁􈁆􇖴<lb
+ n="0142a11" ed="T"/>􈁴􄙖􄦽􄙙􄗾􄗱􅁥􄚩􇖴<lb
+ n="0142a12" ed="T"/>􄗥􄚩􄗍􄙋􄗱􄑼􆧾􄗱􄙘􄟰􄗾􄒶􄗱􄕯<lb
+ n="0142a13" ed="T"/>􆩀􄖯􄙘􄖪􄗱􄑀􆯯􈅝􄕘􈋍􄗱􄖩􄗰􄥏<lb
+ n="0142a14" ed="T"/>􄕼􄗱􄙖􄦿􄕑􇖴<lb
+ n="0142a15" ed="T"/>􈁴􄑄􄙊􈏎􄙀􄗍􈏎􄗍􈏎􈅼􄗁􈁆􇖴<lb
+ n="0142a16" ed="T"/>􈁴􅁒􄕝􄗥􄚩􅁒􄕝􄑌􄕯􄖯􅁥􄚩􇖴<lb
+ n="0142a17" ed="T"/>􈁴􄙖􄦽􆯯􈅝􇖴<lb
+ n="0142a18" ed="T"/>􈁴􈆥􈁊􄙊􆿁􇖴<lb
+ n="0142a19" ed="T"/>􈁴􄑂􄙌􄑂􄙌􄙖􄦽􈅼􄗁􈁆􇖴<lb
+ n="0142a20" ed="T"/>􈁴􆿏􈂯􄚪􄗥􄚩􄗞􄕗􄕵􄙖􅞽􄽳􄒶􄙺<lb
+ n="0142a21" ed="T"/>􆽕􄗥􈃈􄚪􄽚􈇚􄕙􄗥􄚨􄗽􄗥􅋎􄚦􄖫<lb
+ n="0142a22" ed="T"/>􄚪􄕟􄗙􄙖􆿅􅍋􄗷􄚨􄢾􄑀􄢾􄙗􄚩􄖪<lb
+ n="0142a23" ed="T"/>􄗱􅁥􄚩􇖴<lb
+ n="0142a24" ed="T"/>􈁴􆿅􆱈􄕝􄚨􄖩􄚨􄖩􈅼􄗁􈁆􇖴<lb
+ n="0142a25" ed="T"/>􈁴􄙖􄗽􄕯􄙖􄦽􈊥􇖴<lb
+ n="0142a26" ed="T"/>􆿅􅍉􄗷􄚨􄢾􄑀􄢾􄙗􄚨􄖪􄗱􄕲􄡔􄕲<lb
+ n="0142a27" ed="T"/>􄡔􄕲􄖵􄗱􅁥􄚩􇖴<lb
+ n="0142a28" ed="T"/>􈁂􄒸􄕟􄙼􄗥􄗲􄗙􈊯􄑘􇩹􆿅􅍋􅁤􄗙<lb
+ n="0142a29" ed="T"/>􄙖􈁀􄖹􄖩􄗽􄡕􄑘􄗦􄕯􄗱􅁥􄚩􇖴<pb n="0142b" id="T21.1226.0142b" ed="T"/><lb
+ n="0142b01" ed="T"/>􄖩􄗰􈆤􄕥􄑁􈁀􄙺􅞣􄕗􄕤􄑘􄕗􈁀􈂵<lb
+ n="0142b02" ed="T"/>􄙘􄗽􄒸􄙘􄗽􄒸􄗥􄚩􄙖􄦿􄙺􄕗􄙺􄕗<lb
+ n="0142b03" ed="T"/>􄙻􄗽􄕝􄙻􄗽􄕝􄩞􄗳􄩞􄗳􄙘􄕻􄗥􄖫<lb
+ n="0142b04" ed="T"/>􄙺􆫌􄒶􄖫􄕗􄗽􄗥􄕙􄙼􇧺􄥥􈇅􅁥􄚩<lb
+ n="0142b05" ed="T"/>􇖴<lb
+ n="0142b06" ed="T"/>􈁴􄙂􄩷􄗱􅁥􄚩􇖴<lb
+ n="0142b07" ed="T"/>􈁴􄙢􄥈􄗱􅁥􄚩􇖴<lb
+ n="0142b08" ed="T"/>􈁴􆿅􅍉􄗷􅁥􄚩􇖴<lb
+ n="0142b09" ed="T"/>􈁴􄙝􄙖􅁥􄕘􄗱􅁥􄚩􇖴<lb
+ n="0142b10" ed="T"/>􈁴􄗽􄚴􄙻􄕽􄖵􄕘􄗷􅁥􇖴<lb
+ n="0142b11" ed="T"/>􈁴􄗫􄑤􄙢􄖪􄗱􅁥􄚩􇖴<lb
+ n="0142b12" ed="T"/>􈁴􄙗􄗱􄙜􅁥􄚩􇖴<lb
+ n="0142b13" ed="T"/>􈁴􄗱􄚴􄙘􇩊􄕻􄙀􅁥􄚩􇖴<lb
+ n="0142b14" ed="T"/>
+</ab><ab type='juan' subtype='close'>烏芻澁摩儀軌一卷</ab></div>
+</body></text></TEI>

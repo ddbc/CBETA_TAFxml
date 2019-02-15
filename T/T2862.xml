@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大蕃沙洲釋門教法和尚洪𮗿修功德記</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2862</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1322c06" ed="T"/><lb
+ n="1322c07" ed="T"/><lb
+ n="1322c08" ed="T"/><lb
+ n="1322c09" ed="T"/>
+<ab type='juan' subtype='open'>大蕃沙洲釋門教法和尚洪𮗿修<lb
+ n="1322c10" ed="T"/>功德記</ab><lb
+ n="1322c11" ed="T"/><lb
+ n="1322c12" ed="T"/><ab type='prose'>依門神母及金光明經略述毘沙門功德天。<lb
+ n="1322c13" ed="T"/>爾時世尊左香山。禪定名於初夜分。時三<lb
+ n="1322c14" ed="T"/>十三天眾及毘沙門天王受記　下來將諸音<lb
+ n="1322c15" ed="T"/>樂香花供養世尊。供養訖世尊即與毘沙門<lb
+ n="1322c16" ed="T"/>天王受記。故於來世當得作佛。號泥勿羅遮<lb
+ n="1322c17" ed="T"/>毘沙門天王。得受記已即於佛前發大誓願。<lb
+ n="1322c18" ed="T"/>願我未成佛已來當作大力藥叉王。護此南<lb
+ n="1322c19" ed="T"/>閻浮提。世界一切眾生及國王大臣。作禮王<lb
+ n="1322c20" ed="T"/>子合國人民。若男若女願信受金光明。四部<lb
+ n="1322c21" ed="T"/>之眾為我轉讀於其國內所有曾覺。<lb
+ n="1322c22" ed="T"/>□□□□不成人民飢餓疾病流行。隣國怨<lb
+ n="1322c23" ed="T"/>敵遞相討罰。暴雨惡風不振。時節日月博蝕。<lb
+ n="1322c24" ed="T"/>井內發聲星流動地。國內民人受諸苦惱。有<lb
+ n="1322c25" ed="T"/>如是等無量百千災怪惡事起。時世尊彼人<lb
+ n="1322c26" ed="T"/>王願護國。王常於國內顯敞之。據香水灑地<lb
+ n="1322c27" ed="T"/>置一道場。為我讀一字。師講誦金光明經我。<lb
+ n="1322c28" ed="T"/>於是時無量百千天神。并護國王諸舊善神。<lb
+ n="1322c29" ed="T"/>及我眷屬各自隱形為作護助。今彼怨敵自<pb n="1323a" id="T85.2862.1323a" ed="T"/><lb
+ n="1323a01" ed="T"/>然降伏。憂愁疾疫亦令除差。所有軍兵悉皆<lb
+ n="1323a02" ed="T"/>勇健。國內人民受請使樂。世尊告曰。是事實<lb
+ n="1323a03" ed="T"/>不。時毘沙門天王答。世尊曰。若有人王佐如<lb
+ n="1323a04" ed="T"/>是請召我時。如我不列彼處不護其王。願莫<lb
+ n="1323a05" ed="T"/>見大國兄弟。願破作七分見。未來諸佛發是<lb
+ n="1323a06" ed="T"/>誓已便歸本天。至天時己大眾俱集。阿難從<lb
+ n="1323a07" ed="T"/>座而起偏袒右肩合掌恭敬。白佛言。世尊。我<lb
+ n="1323a08" ed="T"/>是凡夫不知聖意。作夜分時有天香花著。<lb
+ n="1323a09" ed="T"/><lb
+ n="1323a10" ed="T"/>大蕃沙州釋門教法和尚洪辯修功德。大蕃<lb
+ n="1323a11" ed="T"/>國字監博士憲□驥。<lb
+ n="1323a12" ed="T"/>勅河西歸節度□□</ab></div>
+</body></text></TEI>

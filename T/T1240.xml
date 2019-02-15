@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">阿吒薄𤘽付囑呪</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1240</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0202b05" ed="T"/><lb
+ n="0202b06" ed="T"/><lb
+ n="0202b07" ed="T"/><lb
+ n="0202b08" ed="T"/><lb
+ n="0202b09" ed="T"/>
+<ab type='juan' subtype='open'>阿吒薄𤘽付囑呪</ab><lb
+ n="0202b10" ed="T"/><lb
+ n="0202b11" ed="T"/><div type='dharani' level='1'><ab type='dharani'>南無阿吒薄𤘽摩俱吒耶　摩訶藥叉那耶<lb
+ n="0202b12" ed="T"/>　摩醯首羅耶泮毘摩質多羅耶泮　那吒鳩<lb
+ n="0202b13" ed="T"/>伐羅泮呵呵呵呵泮泮泮唅　曳吒曳吒<lb
+ n="0202b14" ed="T"/>曳吒曳吒　尼藍婆耶乾馱婆耶毘舍闍耶<lb
+ n="0202b15" ed="T"/>莎訶南無薄伽梵跋折羅軍荼利耶泮　跋<lb
+ n="0202b16" ed="T"/>折唎薄悉陀耶泮　薄伽跋帝阿吒婆拘耶泮　毘<lb
+ n="0202b17" ed="T"/>沙門那泮波波吒吒耶耶泮泮　因陀羅藥叉賴<lb
+ n="0202b18" ed="T"/>耶泮毘盧釋迦耶泮　毘盧博芻藥叉那泮婆羅<lb
+ n="0202b19" ed="T"/>摩泮速速去去馺婆訶　摩訶藥叉馺婆訶伽伽<lb
+ n="0202b20" ed="T"/>伽伽羅羅泮泮泮泮　摩尼跋陀羅泮那羅<lb
+ n="0202b21" ed="T"/>延都泮　摩訶迦羅泮阿耨陀耶泮甌婆難陀泮<lb
+ n="0202b22" ed="T"/>蘇耆羅耶泮　南單那泮黑布單那泮闍摩羅闍<lb
+ n="0202b23" ed="T"/>耶泮　目真隣耶泮蘇盧鳩槃茶唅泮善女功<lb
+ n="0202b24" ed="T"/>德耶泮降怨泮泮　泮泮藥叉藥叉速<lb
+ n="0202b25" ed="T"/>速速速馺婆呵摩訶藥叉藥叉速速速速馺婆<lb
+ n="0202b26" ed="T"/>呵阿阿阿阿阿阿鉢鉢遮遮勅勅勅勅跋跋<lb
+ n="0202b27" ed="T"/>羅羅跋折羅荷吒吒吒吒曳泮吒馺婆呵<lb
+ n="0202b28" ed="T"/>吞攝馺婆訶阿吒阿吒阿呵阿呵呵呵唅泮<lb
+ n="0202b29" ed="T"/>斫迦羅護帝跋折羅力力力力拔拔拔拔急急<pb n="0202c" id="T21.1240.0202c" ed="T"/><lb
+ n="0202c01" ed="T"/>急急頻陀攝持師子王吼吼吼吼呵呵呵呵<lb
+ n="0202c02" ed="T"/>泮吒阿吒薄𤘽曳莎呵<lb
+ n="0202c03" ed="T"/></ab>
+<ab type='prose'>此呪急惡。若不清淨請不輒誦。有欲心。我遣<lb
+ n="0202c04" ed="T"/>鬼王把金輪破汝頭。法誦舍利。諸法從緣起。<lb
+ n="0202c05" ed="T"/>如來說是因。彼法因緣盡。是大沙門說。</ab></div>
+</body></text></TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大悲啟請</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2843</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1295b23" ed="T"/><lb
+ n="1295b24" ed="T"/><lb
+ n="1295b25" ed="T"/><lb
+ n="1295b26" ed="T"/>
+<ab type='juan' subtype='open'>大悲啟請</ab><lb
+ n="1295b27" ed="T"/><lb
+ n="1295b28" ed="T"/><ab type='prose'>大悲啟請。<lb
+ n="1295b29" ed="T"/></ab>
+<ab type='verse'>
+仰啟月輪觀自在　　廣大圓滿紫金身　　<pb n="1295c" id="T85.2843.1295c" ed="T"/><lb
+ n="1295c01" ed="T"/>千臂恒伸現世間　　千眼光明常遍照　　<lb
+ n="1295c02" ed="T"/>一千二百真言契　　能滿眾生所願心　　<lb
+ n="1295c03" ed="T"/>面安三目遍莊嚴　　頂戴彌陀持寶器　　<lb
+ n="1295c04" ed="T"/>宣讚真言微妙法　　受持當證佛菩提　　<lb
+ n="1295c05" ed="T"/>辯才無礙化人天　　菩薩眾中為上首　　<lb
+ n="1295c06" ed="T"/>暫聞尚滅塵沙業　　諷念惟增成佛因　　<lb
+ n="1295c07" ed="T"/>大悲願力不思議　　是故我今恒讚念　　<lb
+ n="1295c08" ed="T"/>南無大悲觀世音　　願我速知一切法　　<lb
+ n="1295c09" ed="T"/>南無大悲觀世音　　願我早得智慧眼　　<lb
+ n="1295c10" ed="T"/>南無大悲觀世音　　願我速度一切眾　　<lb
+ n="1295c11" ed="T"/>南無大悲觀世音　　願我早得善方便　　<lb
+ n="1295c12" ed="T"/>南無大悲觀世音　　願我速乘般若舡　　<lb
+ n="1295c13" ed="T"/>南無大悲觀世音　　願我早得越苦海　　<lb
+ n="1295c14" ed="T"/>南無大悲觀世音　　願我速得戒定道　　<lb
+ n="1295c15" ed="T"/>南無大悲觀世音　　願我早登涅槃山　　<lb
+ n="1295c16" ed="T"/>南無大悲觀世音　　願我速會無為舍　　<lb
+ n="1295c17" ed="T"/>南無大悲觀世音　　願我早同法性身　　
+</ab><lb
+ n="1295c18" ed="T"/><ab type='verse'>
+我若向刀山刀山自摧折　　<lb
+ n="1295c19" ed="T"/>我若向火湯火湯自消滅　　<lb
+ n="1295c20" ed="T"/>我若向地獄地獄自枯渴　　<lb
+ n="1295c21" ed="T"/>我若向餓鬼餓鬼自飽滿　　<lb
+ n="1295c22" ed="T"/>我若向修羅惡心自調伏　　<lb
+ n="1295c23" ed="T"/>我若向畜生自得大智慧　　
+</ab><lb
+ n="1295c24" ed="T"/><head>千手千眼觀世音菩薩廣大圓滿無障礙大悲<lb
+ n="1295c25" ed="T"/>心陀羅尼神妙章句</head><lb
+ n="1295c26" ed="T"/><ab type='dharani'>南無喝囉怛那哆囉夜耶南無阿唎耶婆<lb
+ n="1295c27" ed="T"/>盧羯帝爍鉢囉耶菩提薩埵婆耶摩訶薩<lb
+ n="1295c28" ed="T"/>埵婆耶摩訶迦盧尼迦耶唵薩皤囉罰<lb
+ n="1295c29" ed="T"/>曳數怛那怛寫南無悉吉㗚埵伊蒙阿唎<pb n="1296a" id="T85.2843.1296a" ed="T"/><lb
+ n="1296a01" ed="T"/>耶婆盧羯帝室佛楞馱婆南無那囉謹<lb
+ n="1296a02" ed="T"/>墀醯唎摩訶皤哆沙咩薩婆阿他豆<lb
+ n="1296a03" ed="T"/>輸朋阿逝孕薩婆薩哆那摩婆伽<lb
+ n="1296a04" ed="T"/>摩罰特豆怛姪他唵阿婆盧醯<lb
+ n="1296a05" ed="T"/>盧迦帝迦囉帝夷醯唎摩訶菩提<lb
+ n="1296a06" ed="T"/>薩埵薩婆薩婆摩囉摩囉<lb
+ n="1296a07" ed="T"/>摩醯摩醯唎馱孕俱盧俱盧羯懞<lb
+ n="1296a08" ed="T"/>度嚧度嚧罰闍耶帝摩訶罰闍耶帝陀<lb
+ n="1296a09" ed="T"/>囉陀囉地唎尼室佛囉耶遮<lb
+ n="1296a10" ed="T"/>囉遮囉摩摩罰摩羅穆帝麗伊醯<lb
+ n="1296a11" ed="T"/>移醯室那室那阿囉嘇佛囉舍利<lb
+ n="1296a12" ed="T"/>罰沙罰嘇佛囉舍利呼盧<lb
+ n="1296a13" ed="T"/>呼盧摩囉呼盧呼盧醯唎娑囉娑囉<lb
+ n="1296a14" ed="T"/>悉唎悉唎蘇盧蘇盧菩提夜菩提<lb
+ n="1296a15" ed="T"/>夜菩馱夜菩馱夜彌帝唎夜那囉<lb
+ n="1296a16" ed="T"/>謹墀他姪唎瑟尼那波夜摩那娑婆訶悉陀夜娑婆訶摩<lb
+ n="1296a18" ed="T"/>訶悉陀夜娑婆訶悉陀喻藝<lb
+ n="1296a19" ed="T"/>室皤囉耶娑婆訶那囉謹墀娑婆訶摩囉那囉娑婆訶<lb
+ n="1296a21" ed="T"/>悉囉僧阿穆佉耶娑婆訶娑婆摩<lb
+ n="1296a22" ed="T"/>阿悉陀耶娑婆訶者吉囉阿悉陀<lb
+ n="1296a23" ed="T"/>耶娑婆訶波陀摩羯悉哆耶娑<lb
+ n="1296a24" ed="T"/>婆訶那囉謹墀皤伽羅耶娑婆訶<lb
+ n="1296a25" ed="T"/>摩婆唎勝羯囉夜娑婆訶南無<lb
+ n="1296a26" ed="T"/>喝囉怛那哆囉夜耶南無阿唎耶<lb
+ n="1296a27" ed="T"/>婆盧吉帝爍皤囉耶娑婆訶悉殿<lb
+ n="1296a28" ed="T"/>都漫多羅佛陀耶娑婆訶<lb
+ n="1296a29" ed="T"/></ab>
+<ab type='prose'>千手千眼觀世音菩薩廣大圓滿無礙大悲心<pb n="1296b" id="T85.2843.1296b" ed="T"/><lb
+ n="1296b01" ed="T"/>陀羅尼迴向。<lb
+ n="1296b02" ed="T"/></ab>
+<ab type='verse'>
+願讀誦功德　　普及諸有情　　<lb
+ n="1296b03" ed="T"/>我等與眾生　　皆共成佛道　　
+</ab></div>
+</body></text></TEI>

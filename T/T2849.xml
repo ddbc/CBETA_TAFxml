@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大乘四齋日</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2849</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1299c07" ed="T"/><lb
+ n="1299c08" ed="T"/><lb
+ n="1299c09" ed="T"/><lb
+ n="1299c10" ed="T"/>
+<ab type='juan' subtype='open'>大乘四齋日</ab><lb
+ n="1299c11" ed="T"/><lb
+ n="1299c12" ed="T"/><ab type='prose'>二月八日。四月八日。五月八日。七月十五日。<lb
+ n="1299c13" ed="T"/>年三長齋月。正月五月九月。六齋日。八日十<lb
+ n="1299c14" ed="T"/>四日十五日二十三日二十八日三十日。十齋<lb
+ n="1299c15" ed="T"/>日。月一日善惡憍童子下念。十四日察命伺<lb
+ n="1299c16" ed="T"/>錄下。十五日五道大神下。十八日閻羅王下。<lb
+ n="1299c17" ed="T"/>二十三日天大將軍下。二十四日帝釋下。二<lb
+ n="1299c18" ed="T"/>十八日太山府軍下。二十九日四天王下。三<lb
+ n="1299c19" ed="T"/>十日天曹地府下。一日童子下念定光如來<lb
+ n="1299c20" ed="T"/>佛除齋除罪四十劫不墮刀槍地獄。八日太<lb
+ n="1299c21" ed="T"/>子下念藥師琉璃光佛除齋除罪三十劫不墮<lb
+ n="1299c22" ed="T"/>粉草地獄。十四日察命下念賢劫千佛除齋<lb
+ n="1299c23" ed="T"/>除罪一千劫不墮鑊湯地獄。十五日五道大<lb
+ n="1299c24" ed="T"/>將軍下念阿彌陀佛除齋除罪二百劫不墮寒<lb
+ n="1299c25" ed="T"/>氷地獄。十八日閻羅王下念觀世音菩薩除<lb
+ n="1299c26" ed="T"/>齋除罪九十劫不墮劍樹地獄。二十三日天<lb
+ n="1299c27" ed="T"/>大將軍下念盧舍那佛除齋除罪一千劫不墮<lb
+ n="1299c28" ed="T"/>餓鬼地獄。二十四日太山府君下念地藏菩<lb
+ n="1299c29" ed="T"/>薩除齋除罪九十劫不墮纔截地獄。二十八<pb n="1300a" id="T85.2849.1300a" ed="T"/><lb
+ n="1300a01" ed="T"/>日天帝釋下念阿彌陀佛除齋除罪一千劫不<lb
+ n="1300a02" ed="T"/>墮鐵鋸地獄。二十九日四天王下念藥王藥<lb
+ n="1300a03" ed="T"/>上菩薩除齋除罪七千劫不墮磑磨地獄。三<lb
+ n="1300a04" ed="T"/>十日大梵天王下念釋迦牟尼佛除齋除罪八<lb
+ n="1300a05" ed="T"/>千劫不墮寒氷。</ab></div>
+</body></text></TEI>

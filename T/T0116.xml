@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說戒德香經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0116</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0507b07" ed="T"/><lb
+ n="0507b08" ed="T"/><lb
+ n="0507b09" ed="T"/><div type='jing' level='1'><lb
+ n="0507b11" ed="T"/>
+<ab type='juan' subtype='open'>佛說戒德香經</ab><lb
+ n="0507b12" ed="T"/><lb
+ n="0507b13" ed="T"/><byline>東晉天竺三藏竺曇無蘭譯</byline><lb
+ n="0507b14" ed="T"/><ab type='prose'>聞如是：一時，佛遊舍衛國祇樹給孤獨園。時，<lb
+ n="0507b15" ed="T"/>賢者阿難閑居獨思：「世有三香，一曰根香，<lb
+ n="0507b16" ed="T"/>二曰枝香，三曰華香，是三品香唯隨風香不<lb
+ n="0507b17" ed="T"/>能逆風，寧有雅香隨風逆風者乎？」賢者阿難<lb
+ n="0507b18" ed="T"/>獨處思惟此義所歸，不知所趣，即從坐起往<lb
+ n="0507b19" ed="T"/>詣佛所，稽首佛足下，長跪叉手而白佛言：<lb
+ n="0507b20" ed="T"/>「我獨處思惟，世有三香，一曰根香，二曰枝香，<lb
+ n="0507b21" ed="T"/>三曰華香，此三品香唯能隨風不能逆風，寧<lb
+ n="0507b22" ed="T"/>有雅香隨風逆風者乎？」佛告阿難：「善哉！善哉！<lb
+ n="0507b23" ed="T"/>誠如汝問，有香真正隨風逆風。」阿難白佛：「願<lb
+ n="0507b24" ed="T"/>聞其香。」佛言：「若於郡國縣邑村落，有善男<lb
+ n="0507b25" ed="T"/>子善女人，修行十善，身不殺、盜、淫，口不妄<lb
+ n="0507b26" ed="T"/>言、兩舌、惡口、綺語，意不嫉妬、恚、癡，孝順父<lb
+ n="0507b27" ed="T"/>母，奉事三尊，仁慈道德威儀禮節，東方無數<lb
+ n="0507b28" ed="T"/>沙門梵志歌頌其德，南西北方四維上下沙<lb
+ n="0507b29" ed="T"/>門梵志咸歌其德：『某郡國土縣邑村落，有善<pb n="0507c" ed="T" id="T02.0116.0507c"/><lb
+ n="0507c01" ed="T"/>男子善女人，奉行十善敬事三寶，孝順仁慈<lb
+ n="0507c02" ed="T"/>道德恩義不失禮節。』是香名曰隨風逆風靡<lb
+ n="0507c03" ed="T"/>不周照，十方宣德一切蒙賴。」佛時頌曰：<lb
+ n="0507c04" ed="T"/></ab>
+<ab type='verse'>
+「雖有美香花，　　不能逆風熏，　　<lb
+ n="0507c05" ed="T"/>不息名栴檀，　　眾雨一切香。　　<lb
+ n="0507c06" ed="T"/>志性能和雅，　　爾乃逆風香，　　<lb
+ n="0507c07" ed="T"/>正士名丈夫，　　普熏于十方。　　<lb
+ n="0507c08" ed="T"/>木蜜及栴檀，　　青蓮諸雨香，　　<lb
+ n="0507c09" ed="T"/>一切此眾香，　　戒香最無上。　　<lb
+ n="0507c10" ed="T"/>是等清淨者，　　所行無放逸，　　<lb
+ n="0507c11" ed="T"/>不知魔徑路，　　不見所歸趣。　　<lb
+ n="0507c12" ed="T"/>此道至永安，　　此道最無上，　　<lb
+ n="0507c13" ed="T"/>所獲斷穢源，　　降伏絕魔網。　　<lb
+ n="0507c14" ed="T"/>用上佛道堂，　　昇無窮之慧，　　<lb
+ n="0507c15" ed="T"/>以此宣經義，　　除去一切弊。」　　
+</ab><lb
+ n="0507c16" ed="T"/><ab type='prose'>佛告阿難：「是香所布，不礙須彌山川天地，不<lb
+ n="0507c17" ed="T"/>礙四種地水火風，通達八極上下亦然，無窮<lb
+ n="0507c18" ed="T"/>之界咸歌其德。一身不殺生，世世長壽，其<lb
+ n="0507c19" ed="T"/>命無橫。不盜竊者，世世富饒又不妄遺財<lb
+ n="0507c20" ed="T"/>寶常存，施為道根。不婬色者，人不犯妻，<lb
+ n="0507c21" ed="T"/>所在化生蓮華之中。不妄言者，口氣香好言<lb
+ n="0507c22" ed="T"/>輒信之。不兩舌者，家常和合無有別離。不<lb
+ n="0507c23" ed="T"/>惡口者，其舌常好言辭辯通。不綺語者，人<lb
+ n="0507c24" ed="T"/>聞其言莫不諮受宣用為珍。不嫉妬者，世世<lb
+ n="0507c25" ed="T"/>所生眾人所敬。不瞋恚者，世世端正人見歡<lb
+ n="0507c26" ed="T"/>喜。除愚癡者，所生智慧靡不諮請，捨于邪<lb
+ n="0507c27" ed="T"/>見常住正道，從行所得各自然生，故當棄邪<lb
+ n="0507c28" ed="T"/>從其真妙。」佛說如是。時，諸比丘聞之歡喜，作<lb
+ n="0507c29" ed="T"/>禮而去。<pb n="0508a" ed="T" id="T02.0116.0508a"/><lb
+ n="0508a01" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說戒德香經</ab></div>
+</body></text></TEI>

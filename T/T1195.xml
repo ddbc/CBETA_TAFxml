@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大聖文殊師利菩薩讚佛法身禮</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1195</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0936c" id="T20.1195.0936c" ed="T"/><lb
+ n="0936c01" ed="T"/><lb
+ n="0936c02" ed="T"/><lb
+ n="0936c03" ed="T"/>
+<ab type='juan' subtype='open'>大聖文殊師利菩薩讚佛法身禮<lb
+ n="0936c04" ed="T"/></ab><lb
+ n="0936c05" ed="T"/><lb
+ n="0936c06" ed="T"/><div type='jing' level='1'><ab type='prose'>　　　此禮出大乘一切境界智光明莊<lb
+ n="0936c07" ed="T"/>嚴經<lb
+ n="0936c08" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0936c09" ed="T"/>公食邑三千戶賜紫贈司空諡大鑑<lb
+ n="0936c10" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0936c11" ed="T"/>不空奉　詔譯</byline><lb
+ n="0936c12" ed="T"/>皇帝以深仁馭宇。大明燭物。普灑甘露。󰪏<lb
+ n="0936c13" ed="T"/>蕩黎元。叨沐<lb
+ n="0936c14" ed="T"/>聖慈。濫當翻譯。特奉<lb
+ n="0936c15" ed="T"/>恩命。令集上都義學沙門良賁等一十六人。<lb
+ n="0936c16" ed="T"/>於內道場。翻仁王護國般若及大乘蜜嚴等<lb
+ n="0936c17" ed="T"/>經畢。願讚揚次。於至覺冀介福於<lb
+ n="0936c18" ed="T"/>聖躬。竊見大聖文殊師利菩薩讚佛法身經。<lb
+ n="0936c19" ed="T"/>據其梵本有四十一禮。先道所行但唯有<lb
+ n="0936c20" ed="T"/>十禮。於文不備歎德未圓。恐乖聖者懇誠。又<lb
+ n="0936c21" ed="T"/>闕群生勝利。不空先有所持梵本。並皆具足<lb
+ n="0936c22" ed="T"/>今譯流傳庶裨弘益。其餘懺悔儀軌等並如<lb
+ n="0936c23" ed="T"/>舊本。此不復云。于時。<lb
+ n="0936c24" ed="T"/>大唐永泰元年維夏四月也。經云。<lb
+ n="0936c25" ed="T"/>如是我聞。一時佛住王舍城鷲峯山中。與大<lb
+ n="0936c26" ed="T"/>比丘眾二萬五千人俱。皆是阿羅漢。與大菩<lb
+ n="0936c27" ed="T"/>薩摩訶薩七十二那庾多俱胝。文殊師利菩<lb
+ n="0936c28" ed="T"/>薩而為上首。爾時文殊師利菩薩。從座而起<lb
+ n="0936c29" ed="T"/>整理衣服。偏袒右肩頂禮佛足。合掌恭敬稱<pb n="0937a" id="T20.1195.0937a" ed="T"/><lb
+ n="0937a01" ed="T"/>揚如來說伽他曰。<lb
+ n="0937a02" ed="T"/></ab>
+<ab type='verse'>
+無色無形相　　無根無住處　　<lb
+ n="0937a03" ed="T"/>不生不滅故　　敬禮無所觀　　<lb
+ n="0937a04" ed="T"/>不去亦不住　　不取亦不捨　　<lb
+ n="0937a05" ed="T"/>遠離六入故　　敬禮無所觀　　<lb
+ n="0937a06" ed="T"/>不住於諸法　　離有離無故　　<lb
+ n="0937a07" ed="T"/>行於平等故　　敬禮無所觀　　<lb
+ n="0937a08" ed="T"/>出過於三界　　等同於虛空　　<lb
+ n="0937a09" ed="T"/>諸欲不染故　　敬禮無所觀　　<lb
+ n="0937a10" ed="T"/>於諸威儀中　　去來及睡寤　　<lb
+ n="0937a11" ed="T"/>常在寂靜故　　敬禮無所觀　　<lb
+ n="0937a12" ed="T"/>去來悉平等　　已住於平等　　<lb
+ n="0937a13" ed="T"/>不壞平等故　　敬禮無所觀　　<lb
+ n="0937a14" ed="T"/>入諸無相定　　見諸法寂靜　　<lb
+ n="0937a15" ed="T"/>常在三昧故　　敬禮無所觀　　<lb
+ n="0937a16" ed="T"/>無住無所觀　　於法得自在　　<lb
+ n="0937a17" ed="T"/>慧用常定故　　敬禮無所觀　　<lb
+ n="0937a18" ed="T"/>不住於六根　　不著於六境　　<lb
+ n="0937a19" ed="T"/>常在一相故　　敬禮無所觀　　<lb
+ n="0937a20" ed="T"/>入於無相中　　能斷於諸染　　<lb
+ n="0937a21" ed="T"/>遠離名色故　　敬禮無所觀　　<lb
+ n="0937a22" ed="T"/>不住於有相　　亦離於諸相　　<lb
+ n="0937a23" ed="T"/>入相於無中　　敬禮無所觀　　<lb
+ n="0937a24" ed="T"/>無分別思惟　　心住無所住　　<lb
+ n="0937a25" ed="T"/>諸念不起故　　敬禮無所觀　　<lb
+ n="0937a26" ed="T"/>無藏識如空　　無染無戲論　　<lb
+ n="0937a27" ed="T"/>遠離三世故　　敬禮無所觀　　<lb
+ n="0937a28" ed="T"/>虛空無中邊　　諸佛心亦然　　<lb
+ n="0937a29" ed="T"/>心同虛空故　　敬禮無所觀　　<pb n="0937b" id="T20.1195.0937b" ed="T"/><lb
+ n="0937b01" ed="T"/>諸佛虛空相　　虛空亦無相　　<lb
+ n="0937b02" ed="T"/>離諸因果故　　敬禮無所觀　　<lb
+ n="0937b03" ed="T"/>不著於諸法　　如水月無取　　<lb
+ n="0937b04" ed="T"/>遠離於我相　　敬禮無所觀　　<lb
+ n="0937b05" ed="T"/>不住於諸蘊　　不著於處界　　<lb
+ n="0937b06" ed="T"/>遠離顛倒故　　敬禮無所觀　　<lb
+ n="0937b07" ed="T"/>常等於法界　　我見悉皆斷　　<lb
+ n="0937b08" ed="T"/>遠離二邊故　　敬禮無所觀　　<lb
+ n="0937b09" ed="T"/>不住於諸色　　非取亦非捨　　<lb
+ n="0937b10" ed="T"/>遠離非法故　　敬禮無所觀　　<lb
+ n="0937b11" ed="T"/>證無障礙法　　通達於諸法　　<lb
+ n="0937b12" ed="T"/>遠離魔法故　　敬禮無所觀　　<lb
+ n="0937b13" ed="T"/>非有亦非無　　有無不可得　　<lb
+ n="0937b14" ed="T"/>離諸言說故　　敬禮無所觀　　<lb
+ n="0937b15" ed="T"/>摧折我慢憧　　非一亦非二　　<lb
+ n="0937b16" ed="T"/>遠離一二故　　敬禮無所觀　　<lb
+ n="0937b17" ed="T"/>身口意無失　　三業常寂靜　　<lb
+ n="0937b18" ed="T"/>遠離譬喻故　　敬禮無所觀　　<lb
+ n="0937b19" ed="T"/>一切智常住　　應現無功用　　<lb
+ n="0937b20" ed="T"/>遠離諸過故　　敬禮無所觀　　<lb
+ n="0937b21" ed="T"/>微妙無漏念　　無限無分別　　<lb
+ n="0937b22" ed="T"/>等情非情故　　敬禮無所觀　　<lb
+ n="0937b23" ed="T"/>以心無礙故　　悉知一切心　　<lb
+ n="0937b24" ed="T"/>不住自他故　　敬禮無所觀　　<lb
+ n="0937b25" ed="T"/>無礙無所觀　　常住無礙法　　<lb
+ n="0937b26" ed="T"/>遠離諸心故　　敬禮無所觀　　<lb
+ n="0937b27" ed="T"/>心常無所緣　　自性不可得　　<lb
+ n="0937b28" ed="T"/>平等難量故　　敬禮無所觀　　<lb
+ n="0937b29" ed="T"/>以無所依心　　悉見諸剎土　　<pb n="0937c" id="T20.1195.0937c" ed="T"/><lb
+ n="0937c01" ed="T"/>知諸有情故　　敬禮無所觀　　<lb
+ n="0937c02" ed="T"/>諸法薩婆若　　畢竟無所有　　<lb
+ n="0937c03" ed="T"/>佛心難測故　　敬禮無所觀　　<lb
+ n="0937c04" ed="T"/>諸法由如幻　　如幻不可得　　<lb
+ n="0937c05" ed="T"/>離諸幻法故　　敬禮無所觀　　<lb
+ n="0937c06" ed="T"/>佛常在世間　　而不染世法　　<lb
+ n="0937c07" ed="T"/>不染世間故　　敬禮無所觀　　<lb
+ n="0937c08" ed="T"/>一切智常住　　空性空境界　　<lb
+ n="0937c09" ed="T"/>言說亦空故　　敬禮無所觀　　<lb
+ n="0937c10" ed="T"/>證無分別定　　得如幻三昧　　<lb
+ n="0937c11" ed="T"/>遊戲神通故　　敬禮無所觀　　<lb
+ n="0937c12" ed="T"/>非一亦非異　　非近亦非遠　　<lb
+ n="0937c13" ed="T"/>於法不動故　　敬禮無所觀　　<lb
+ n="0937c14" ed="T"/>一念金剛定　　剎那成等覺　　<lb
+ n="0937c15" ed="T"/>證無影像故　　敬禮無所觀　　<lb
+ n="0937c16" ed="T"/>於諸三世法　　成就諸方便　　<lb
+ n="0937c17" ed="T"/>不動涅槃故　　敬禮無所觀　　<lb
+ n="0937c18" ed="T"/>涅槃常不動　　無此岸彼岸　　<lb
+ n="0937c19" ed="T"/>通達方便故　　敬禮無所觀　　<lb
+ n="0937c20" ed="T"/>無相無所有　　無患無戲論　　<lb
+ n="0937c21" ed="T"/>不住有無故　　敬禮無所觀　　<lb
+ n="0937c22" ed="T"/>智處悉平等　　寂靜無分別　　<lb
+ n="0937c23" ed="T"/>自他一相故　　敬禮無所觀　　<lb
+ n="0937c24" ed="T"/>一切平等禮　　無禮無不禮　　<lb
+ n="0937c25" ed="T"/>一禮遍含識　　同歸實相體　　
+</ab><lb
+ n="0937c26" ed="T"/><ab type='prose'>爾時世尊讚文殊師利菩薩言。善哉善哉。汝<lb
+ n="0937c27" ed="T"/>今善說如來功德一切諸法本來清淨。文殊<lb
+ n="0937c28" ed="T"/>師利假使有人。教化三千大千世界一切有<lb
+ n="0937c29" ed="T"/>情。成辟支佛。不如有人聞此功德一念信解。<pb n="0938a" id="T20.1195.0938a" ed="T"/><lb
+ n="0938a01" ed="T"/>即超過彼百千萬倍。如是展轉無能稱讚<lb
+ n="0938a02" ed="T"/>譬喻挍量。具如本經所說。<lb
+ n="0938a03" ed="T"/>
+</ab><ab type='juan' subtype='close'>大聖文殊師利菩薩讚佛法身禮</ab></div>
+</body></text></TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大乘破有論</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T30</biblScope>
+                    <idno type="Taisho">T30n1574</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0254a" ed="T" id="T30.1574.0254a"/><lb
+ n="0254a01" ed="T"/><lb
+ n="0254a02" ed="T"/><lb
+ n="0254a03" ed="T"/>
+<ab type='juan' subtype='open'>大乘破有論</ab><lb
+ n="0254a04" ed="T"/><lb
+ n="0254a05" ed="T"/><byline>龍樹菩薩造</byline><lb
+ n="0254a06" ed="T"/><byline>西天譯經三藏朝奉大<lb
+ n="0254a07" ed="T"/>夫試光祿卿傳法大師<lb
+ n="0254a08" ed="T"/>賜紫臣施護奉　詔譯</byline><lb
+ n="0254a09" ed="T"/><div type='jing' level='1'><ab type='prose'>歸命一切佛諸有智者！應當如實了知諸法。<lb
+ n="0254a10" ed="T"/>此中云何？謂一切性從無性生，亦非無性生。<lb
+ n="0254a11" ed="T"/>一切性若有生者，彼性是常。是性無實，猶如<lb
+ n="0254a12" ed="T"/>空華，當知諸法與虛空等。彼諸法生亦與空<lb
+ n="0254a13" ed="T"/>等，一切緣法皆如虛空，彼無實故當云何有？<lb
+ n="0254a14" ed="T"/>諸法無因而復無果，亦無諸業自性可得，此<lb
+ n="0254a15" ed="T"/>中一切而無有實。無世間故無出世間，一切<lb
+ n="0254a16" ed="T"/>無生亦無有性，云何諸法而有所生？世間親<lb
+ n="0254a17" ed="T"/>愛父子眷屬，雖有所生而無其實，不從先世<lb
+ n="0254a18" ed="T"/>之所生故，亦非現世有其相故。此於世間無<lb
+ n="0254a19" ed="T"/>義可轉，猶如月中見諸影像。世間無實從分<lb
+ n="0254a20" ed="T"/>別起，此分別故分別心生，由此心為因即有<lb
+ n="0254a21" ed="T"/>身生，是故有身行於世間。蘊所成故名之為<lb
+ n="0254a22" ed="T"/>身，諸蘊皆空無有自性，蘊無自性而亦無心，<lb
+ n="0254a23" ed="T"/>以無心故是故無身。當知自性離諸分別，若<lb
+ n="0254a24" ed="T"/>無其心亦無有法，若無其身亦無有界，此中<lb
+ n="0254a25" ed="T"/>所說是無二道，此所說者是真實說。此中一<lb
+ n="0254a26" ed="T"/>切離諸所緣，此中所說離諸所緣，此中所作<lb
+ n="0254a27" ed="T"/>離諸所緣，此中所得離諸所緣。所有布施持<lb
+ n="0254a28" ed="T"/>戒忍辱精進禪定智慧諸法如是常行，不久<lb
+ n="0254a29" ed="T"/>時中即能證得無上菩提。以慧方便安住實<pb n="0254b" ed="T" id="T30.1574.0254b"/><lb
+ n="0254b01" ed="T"/>際，起悲愍行廣度眾生，雖復如是有所得相，<lb
+ n="0254b02" ed="T"/>一切智性而不可說得。彼一切法但有名字，<lb
+ n="0254b03" ed="T"/>一切但於有想中住，現前無實差別所生，差<lb
+ n="0254b04" ed="T"/>別生法而無所有。彼一切法本無有名，但以<lb
+ n="0254b05" ed="T"/>假名而表了故，當知諸法而無實體，一切皆<lb
+ n="0254b06" ed="T"/>從分別所生。此中若無分別者，即同虛空離<lb
+ n="0254b07" ed="T"/>諸分別。如說眼者能見於色，作此說者是真<lb
+ n="0254b08" ed="T"/>實語。世間有諸邪執心者，執此所說如實而<lb
+ n="0254b09" ed="T"/>轉，彼一切法聚類所現，當知此說是佛所說。<lb
+ n="0254b10" ed="T"/>是故應知，此中義者眼不見色，乃至意不知<lb
+ n="0254b11" ed="T"/>法。若如是知，是為智者，即能通達第一義諦，<lb
+ n="0254b12" ed="T"/>如是乃名最上真實。我今依經，如是略說。</ab></div><lb
+ n="0254b13" ed="T"/>
+<ab type='juan' subtype='close'>大乘破有論</ab>
+</body></text></TEI>

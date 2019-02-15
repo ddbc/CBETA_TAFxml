@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大花嚴長者問佛那羅延力經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0547</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb id="T14.0547.0853a" n="0853a" ed="T"/><lb
+ n="0853a01" ed="T"/><lb
+ n="0853a02" ed="T"/><lb
+ n="0853a03" ed="T"/>
+<ab type='juan' subtype='open'>大花嚴長者問佛那羅延力經</ab><lb
+ n="0853a04" ed="T"/><lb
+ n="0853a05" ed="T"/><byline>罽賓國三藏般若共利言譯</byline><lb
+ ed="T" n="0853a06"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏悉底國逝<lb
+ n="0853a07" ed="T"/>多林給孤獨園。時大花嚴長者，從坐而起整<lb
+ ed="T" n="0853a08"/>理衣服，長跪合掌而白佛言：「大德世尊！一切<lb
+ n="0853a09" ed="T"/>有情施飲食者，當得何報？」<lb
+ ed="T" n="0853a10"/>爾時，薄伽梵告長者言：「若施食者，得如來力。」<lb
+ ed="T" n="0853a11"/>時大長者復白佛言：「世尊！其如來力，頗有<lb
+ n="0853a12" ed="T"/>譬喻而能宣說，令我聞不？」<lb
+ n="0853a13" ed="T"/>佛告長者言：「有，善男子！不可以少因緣而能<lb
+ n="0853a14" ed="T"/>說之。」復告長者：「如十凡牛力等一犎牛力，<lb
+ n="0853a15" ed="T"/>十犎牛力等一犀牛力，十犀牛力等一凡象<lb
+ ed="T" n="0853a16"/>力，十凡象力等一設臘婆力，十設臘婆力等一鬪<lb
+ ed="T" n="0853a18"/>戰象力，十鬪戰象力等一醉象力，十醉象力<lb
+ ed="T" n="0853a19"/>等一野象力，十野象力等一羯嚟耨迦象力，<lb
+ n="0853a20" ed="T"/>十羯嚟耨迦象力等一拘牟頭花象力，十拘<lb
+ ed="T" n="0853a21"/>牟頭花象力等一嗢鉢羅花象力，十嗢鉢羅<lb
+ ed="T" n="0853a22"/>花象力等一寧盧鉢羅象力，十寧盧鉢羅象<lb
+ ed="T" n="0853a23"/>力等一大香象力，十大香象力等一五色<lb
+ ed="T" n="0853a24"/>師子王力，十師子王力等一人中力士力，十<lb
+ n="0853a25" ed="T"/>力士力等一諾拘羅力，十諾拘羅力等一<lb
+ ed="T" n="0853a26"/>遏主那力，十遏主那力等一毘摩細那力，十<lb
+ n="0853a27" ed="T"/>毘摩細那力等一那羅延力，六百六十三那<lb
+ ed="T" n="0853a28"/>羅延力等佛世尊一毛孔力，八萬四千毛孔<lb
+ ed="T" n="0853a29"/>之中一一皆具如是那羅延力，八萬四千毛<pb ed="T" n="0853b" id="T14.0547.0853b"/><lb
+ ed="T" n="0853b01"/>孔之力等薄伽梵一節之力。」<lb
+ ed="T" n="0853b02"/>佛告長者：「以是當知，諸佛如來一一節中，皆<lb
+ ed="T" n="0853b03"/>具八萬四千六百六十三種那羅延力。」<lb
+ ed="T" n="0853b04"/>佛說此經已，大花嚴長者聞佛所說，歡喜奉<lb
+ ed="T" n="0853b05"/>行。</ab></div><lb
+ ed="T" n="0853b06"/>
+<ab type='juan' subtype='close'>大花嚴長者問佛那羅延力經</ab>
+</body></text></TEI>

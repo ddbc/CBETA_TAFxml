@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說沙曷比丘功德經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0501</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0770a19" ed="T"/><lb
+ n="0770a20" ed="T"/><lb
+ n="0770a21" ed="T"/><lb
+ n="0770a22" ed="T"/>
+<ab type='juan' subtype='open'>佛說沙曷比丘功德經</ab><lb
+ n="0770a23" ed="T"/><lb
+ n="0770a24" ed="T"/><byline>西晉沙門法炬譯</byline><lb
+ n="0770a25" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在舍衛國祇樹給孤獨園，時<lb
+ n="0770a26" ed="T"/>與千二百五十比丘、菩薩萬人。時須耶國有<lb
+ n="0770a27" ed="T"/>貧人，行賃剃小兒頭，所剃者皆約：「到麥熟，<lb
+ n="0770a28" ed="T"/>當各雇麥一斛。」適別未遠，道逢故人，將其<lb
+ n="0770a29" ed="T"/>還。求麥，欲以取酒飲之。遍求，無以麥還者。於<pb n="0770b" ed="T" id="T14.0501.0770b"/><lb
+ n="0770b01" ed="T"/>是便起恚意言：「願我壽終後，作大神龍，當<lb
+ n="0770b02" ed="T"/>陷此國。」後壽終，魂神遂還作龍，其國中歷<lb
+ n="0770b03" ed="T"/>年風雨不時，五穀毀敗。佛念此國人民飢饉，<lb
+ n="0770b04" ed="T"/>即遣沙曷比丘往化之。龍見比丘往，即興惡<lb
+ n="0770b05" ed="T"/>意，欲敗國及殺沙曷比丘。沙曷便變化鉢，覆<lb
+ n="0770b06" ed="T"/>蓋一國。龍雨之，謂國已沒。比丘以佛威神，<lb
+ n="0770b07" ed="T"/>令龍見人民安隱如故。龍復興恚意下雪，比<lb
+ n="0770b08" ed="T"/>丘以鉢受之。雪極，比丘以手掃之，著一處如<lb
+ n="0770b09" ed="T"/>山。比丘乃入龍室，龍即出，比丘復出；龍入，<lb
+ n="0770b10" ed="T"/>比丘復入。如是若干輩，龍極乃止，長跪問言：<lb
+ n="0770b11" ed="T"/>「卿何等神，惱我如此？」比丘言：「吾是佛弟子。」<lb
+ n="0770b12" ed="T"/>龍言：「我欲自歸於卿。」比丘答言：「吾有大師，<lb
+ n="0770b13" ed="T"/>佛三界最尊，卿當自歸之。」龍言：「佛在何所？」<lb
+ n="0770b14" ed="T"/>報言：「佛在舍衛國。」龍言：「乞逐道人去。」比丘<lb
+ n="0770b15" ed="T"/>言：「欲去者善！」便內龍著笥中。人民見比丘<lb
+ n="0770b16" ed="T"/>取龍如是，皆歡喜問言：「道人是何等大神，<lb
+ n="0770b17" ed="T"/>降伏國患？」告言：「吾是佛弟子。」人民問言：「佛<lb
+ n="0770b18" ed="T"/>可得見不？」答言：「欲得見佛，且待吾還。」時<lb
+ n="0770b19" ed="T"/>日向中，道遇分衛，人民或與飯者、與酒者，<lb
+ n="0770b20" ed="T"/>比丘受而食飲之，致酒醉，遇樹下臥，龍鉢、袈<lb
+ n="0770b21" ed="T"/>裟各在一處。佛時笑，五色光出，阿難正<lb
+ n="0770b22" ed="T"/>衣服，叉手白佛言：「佛不妄笑，笑必有意！」佛<lb
+ n="0770b23" ed="T"/>告阿難：「汝為見沙曷比丘不？」阿難言：「不見。」佛<lb
+ n="0770b24" ed="T"/>言：「今在彼樹下醉臥。」時千二百五十比丘、菩<lb
+ n="0770b25" ed="T"/>薩萬人，各相與語言：「沙曷比丘已得阿羅漢，<lb
+ n="0770b26" ed="T"/>何以復醉臥？」佛知諸人意有疑，因說四事：「一<lb
+ n="0770b27" ed="T"/>者，阿羅漢不三昧不得知；二者，不得便現神<lb
+ n="0770b28" ed="T"/>足；三者，不得強勸人分衛；四者，身中尚有<lb
+ n="0770b29" ed="T"/>蟲。阿羅漢以是四事不及佛。」時萬菩薩皆<pb n="0770c" ed="T" id="T14.0501.0770c"/><lb
+ n="0770c01" ed="T"/>迴意欲向羅漢。佛遣目犍連往到沙曷比<lb
+ n="0770c02" ed="T"/>丘所，勅之攝龍來。龍以頭面為佛作禮，佛<lb
+ n="0770c03" ed="T"/>便為說宿命本末，龍心即解，受五戒，奉行<lb
+ n="0770c04" ed="T"/>十善，即得須陀洹道，為佛作禮而去。佛時<lb
+ n="0770c05" ed="T"/>說沙曷比丘功德微妙。阿難叉手啟佛言：「沙<lb
+ n="0770c06" ed="T"/>曷比丘飲酒醉臥，而佛說其功德微妙乃爾？」<lb
+ n="0770c07" ed="T"/>佛告阿難：「阿羅漢不復飢渴，用三事故，現<lb
+ n="0770c08" ed="T"/>醉臥耳：一者，佛欲開化菩薩意；二者，不欲逆<lb
+ n="0770c09" ed="T"/>布施家意；三者，恐諸弟子未得道者，飲酒多<lb
+ n="0770c10" ed="T"/>失故。以此至戒撿之，沙曷比丘雖飲酒，是為<lb
+ n="0770c11" ed="T"/>不醉。」諸菩薩、四輩弟子，聞佛說是，皆起整<lb
+ n="0770c12" ed="T"/>衣服，為佛作禮。沙曷比丘更前長跪白佛言：<lb
+ n="0770c13" ed="T"/>「須耶越國王、人民欲見。」佛默然受之。沙曷比<lb
+ n="0770c14" ed="T"/>丘即承佛教，如彈指頃，還到須耶越國。國<lb
+ n="0770c15" ed="T"/>王、人民見比丘，皆歡喜，有作禮者、有跪者、但<lb
+ n="0770c16" ed="T"/>叉手者。沙曷比丘告言：「佛明日當來到。」此<lb
+ n="0770c17" ed="T"/>王聞佛當來，大歡喜豫，於四衢道掃灑，廣施<lb
+ n="0770c18" ed="T"/>帳幔。佛明日與千二百五十比丘俱，豫行空<lb
+ n="0770c19" ed="T"/>中，皆有自然蓮華，奉佛足下。王及臣民，<lb
+ n="0770c20" ed="T"/>皆以華香，出城迎佛，五體投地，稽首為禮。<lb
+ n="0770c21" ed="T"/>佛及比丘到宮即有自然師子座，布以綩綖，<lb
+ n="0770c22" ed="T"/>七寶華蓋，五色交絡，王施設供養，手自斟<lb
+ n="0770c23" ed="T"/>酌。飯畢，行盥水，祝願。佛為王及人民說龍<lb
+ n="0770c24" ed="T"/>本末，王與人民心解，即受五戒，行十善，或<lb
+ n="0770c25" ed="T"/>得須陀洹者、斯陀含、阿那含、阿羅漢者，不<lb
+ n="0770c26" ed="T"/>可稱數。佛說經竟，四輩弟子、天龍鬼神，歡<lb
+ n="0770c27" ed="T"/>喜奉行。</ab></div><lb
+ n="0770c28" ed="T"/>
+<ab type='juan' subtype='close'>佛說沙曷比丘功德經</ab>
+</body></text></TEI>

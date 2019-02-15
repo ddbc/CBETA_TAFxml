@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說大乘方等要慧經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T12</biblScope>
+                    <idno type="Taisho">T12n0348</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0186b09" ed="T"/><lb
+ n="0186b10" ed="T"/><lb
+ n="0186b11" ed="T"/>
+<ab type='juan' subtype='open'>佛說大乘方等要慧經</ab><lb
+ n="0186b12" ed="T"/><lb
+ n="0186b13" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
+ n="0186b14" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊於舍衛國，爾時彌勒菩薩<lb
+ n="0186b15" ed="T"/>叉手白佛言：<lb
+ n="0186b16" ed="T"/>「世尊！我欲小有所問，若世尊聽所問者乃敢<lb
+ n="0186b17" ed="T"/>陳之。」佛言：「若有所疑便問，吾當為汝解說，使<lb
+ n="0186b18" ed="T"/>意歡喜。」彌勒問言：「云何菩薩摩訶薩不退轉<lb
+ n="0186b19" ed="T"/>法，於大乘有進而不耗減，行菩薩道並降伏<lb
+ n="0186b20" ed="T"/>魔怨，如其狀貌，悉還教知諸法根之相，不<lb
+ n="0186b21" ed="T"/>厭於生死，自有正慧不從他受，疾成無上一<lb
+ n="0186b22" ed="T"/>切智地？」世尊讚曰：「善哉！善哉！所問隨順，甚善<lb
+ n="0186b23" ed="T"/>大佳，吾當為汝解說菩薩所得之行，踰於所<lb
+ n="0186b24" ed="T"/>問。諦聽！善思念之！」於是彌勒受教，一心靜聽。<lb
+ n="0186b25" ed="T"/>佛告彌勒：「菩薩有八法具足，疾逮得無上一<lb
+ n="0186b26" ed="T"/>切智地。何謂為八？一者、內性清淨。二者、所行<lb
+ n="0186b27" ed="T"/>成就。三者、所施成就。四者、所願成就。五者、慈<lb
+ n="0186b28" ed="T"/>成就。六者、悲成就。七者、善權成就。八者、智慧<lb
+ n="0186b29" ed="T"/>成就。是為八事。菩薩疾逮得無上一切智。」<pb n="0186c" id="T12.0348.0186c" ed="T"/><lb
+ n="0186c01" ed="T"/>彌勒菩薩及諸眾會皆歡喜。</ab></div><lb
+ n="0186c02" ed="T"/>
+<ab type='juan' subtype='close'>大乘方等要慧經</ab>
+</body></text></TEI>

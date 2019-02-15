@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">藥師如來念誦儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0924B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0030b03" ed="T"/><lb
+ n="0030b04" ed="T"/><lb
+ n="0030b05" ed="T"/><lb
+ n="0030b06" ed="T"/><div type='jing' level='1'><lb
+ n="0030b07" ed="T"/>
+<ab type='juan' subtype='open'>藥師如來念誦儀軌一卷</ab><lb
+ n="0030b08" ed="T"/><lb
+ n="0030b09" ed="T"/><byline>大興善寺三藏沙門大廣智<lb
+ n="0030b10" ed="T"/>不空奉　詔譯</byline><lb
+ n="0030b11" ed="T"/><ab type='prose'>佛一時在維那離音樂樹下。與三萬六千<lb
+ n="0030b12" ed="T"/>比丘人俱。及十二神王。并諸眷屬天龍八部<lb
+ n="0030b13" ed="T"/>大神王。在如是等大眾會中。說是法已。大眾<lb
+ n="0030b14" ed="T"/>皆聞無不歡喜。是即名為結願神呪。即薄伽<lb
+ n="0030b15" ed="T"/>梵說呪曰。<lb
+ n="0030b16" ed="T"/></ab>
+<ab type='dharani'>南謨薄伽筏帝鞞殺社寠嚕蔽瑠璃鉢唎婆<lb
+ n="0030b17" ed="T"/>喝囉闍耶怛他揭多怛姪他唵鞞殺逝鞞<lb
+ n="0030b18" ed="T"/>殺社三沒揭帝婆婆呵<lb
+ n="0030b19" ed="T"/></ab>
+<ab type='prose'>若有受持此真言。能拔身中過去生死一切<lb
+ n="0030b20" ed="T"/>重罪。不復經歷三塗。免離九橫超越眾苦。<lb
+ n="0030b21" ed="T"/>根本印真言。以左右手頭指以下八指。反<lb
+ n="0030b22" ed="T"/>叉入於掌。以二大指來去呪曰。<lb
+ n="0030b23" ed="T"/></ab>
+<ab type='dharani'>唵戰馱祇哩娑婆呵<lb
+ n="0030b24" ed="T"/></ab>
+<ab type='prose'>次結護讚。<lb
+ n="0030b25" ed="T"/></ab>
+<ab type='dharani'>薩縛勃馱曩薩縛爾曩迦盧拏怛麼<lb
+ n="0030b26" ed="T"/>迦訶羅覩迷俱嚕吠女哩也入縛<lb
+ n="0030b27" ed="T"/>羅怛他誐多麼訶捺耶曩謨悉羯羅<lb
+ n="0030b28" ed="T"/><lb
+ n="0030b29" ed="T"/>
+</ab><ab type='juan' subtype='close'>藥師如來念誦儀軌一卷</ab></div>
+</body></text></TEI>

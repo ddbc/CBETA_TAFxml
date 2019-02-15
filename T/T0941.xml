@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">釋迦牟尼佛成道在菩提樹降魔讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T19</biblScope>
+                    <idno type="Taisho">T19n0941</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0097a02" ed="T"/><lb
+ n="0097a03" ed="T"/><lb
+ n="0097a04" ed="T"/><lb
+ n="0097a05" ed="T"/><lb
+ n="0097a06" ed="T"/>
+<ab type='juan' subtype='open'>釋迦牟尼佛成道在菩提樹降魔<lb
+ n="0097a07" ed="T"/>讚</ab><lb
+ n="0097a08" ed="T"/><lb
+ n="0097a09" ed="T"/><div type='dharani' level='2'><ab type='dharani'>爾多麼羅迦𠻱惹誐禰迦虞𭋳<lb
+ n="0097a10" ed="T"/>素囉藥乞叉麼護囉誐禰儞也<lb
+ n="0097a11" ed="T"/>曩頓拶覩娑𮂥素禰<lb
+ n="0097a12" ed="T"/>始多麼儉弭蒙虞拏銘健麼唅鉢囉<lb
+ n="0097a13" ed="T"/>拏麼弭娑娜婆嚩鼻麼麼護捺<lb
+ n="0097a14" ed="T"/>地末馱也誐旦訖哩鉢捺跢囉鑁<lb
+ n="0097a15" ed="T"/>娑麼吠乞史也惹難鉢哩謨左以頓<lb
+ n="0097a16" ed="T"/>也伊郝鉢囉抳鉢囉左迦<lb
+ n="0097a17" ed="T"/>囉尾唅娑多麼唅鉢囉拏多儗哩<lb
+ n="0097a18" ed="T"/>囉若儞婆捨囉儞嬾地琰素母欠素步<lb
+ n="0097a19" ed="T"/>惹嚩囉嚕鉢馱囕素誐丼誐多麼鉢囉<lb
+ n="0097a20" ed="T"/>底𤚥素誐擔鉢羅拏妬悉弭娑娜<lb
+ n="0097a21" ed="T"/>惹誐達他迦楞迦曩劫鉢囉婆野跛哩<lb
+ n="0097a22" ed="T"/>臂怛妬訥嚩囉訥娜嬾鼻妬拽娜嚩攞麌<lb
+ n="0097a23" ed="T"/>嚕擔誐惹唅娑尾藍弭嚩多地囉誐<lb
+ n="0097a24" ed="T"/>丼始囉娑鼻曩妬悉弭麌嬭迦儞地<lb
+ n="0097a25" ed="T"/>多嚕捺迦娑每囉左㘑囉曩以<lb
+ n="0097a26" ed="T"/>乃娑普嚕訥誐羅麼賀捺儞鼻<lb
+ n="0097a27" ed="T"/>麼囉吠曩母汁鉢囉賀㘑囉悉捨<lb
+ n="0097a28" ed="T"/>乞底馱㘑左里妬悉尾步囉曩<lb
+ n="0097a29" ed="T"/>呬妬尾乞哩戴攞嚩里頗攞半女<pb n="0097b" id="T19.0941.0097b" ed="T"/><lb
+ n="0097b01" ed="T"/>嚕建拏補吒知左婆囉尾曩弭多誐<lb
+ n="0097b02" ed="T"/>怛囉攞跢曩麼捺娑多嚩勢矩<lb
+ n="0097b03" ed="T"/>嚕曩儼素跢濕嚩悉戴娑佉里禿<lb
+ n="0097b04" ed="T"/>囉比迦伽以頓多囉嚩矩素麼娑多<lb
+ n="0097b05" ed="T"/>嚩迦鼻囉拏嚩吽囉怛曩娑賀娑<lb
+ n="0097b06" ed="T"/>囉唧跢室左曩誐曩多他鼻囉<lb
+ n="0097b07" ed="T"/>丼惹暴野鼻娑擔惹曩野乞底野他多<lb
+ n="0097b08" ed="T"/>嚩尾囉麌拏娑普吒唧怛囉鉢<lb
+ n="0097b09" ed="T"/>旦嚩吽欲乞底欲擔誐麼劍嚩左難多<lb
+ n="0097b10" ed="T"/>嚩迦囉拏■■素欠󰡊婆麼<lb
+ n="0097b11" ed="T"/>囉誐頗藍鉢囉娑彌乞史也<lb
+ n="0097b12" ed="T"/>惹難那戍𡃝難帝補諾多哩底<lb
+ n="0097b13" ed="T"/>賀也嚩作伊底嚩捨囉𧹞娑麼吠<lb
+ n="0097b14" ed="T"/>乞史也惹難曩跛多毘葉比羯臘<lb
+ n="0097b15" ed="T"/>波捨戴儞囉曳尾儞賀婆也左禰<lb
+ n="0097b16" ed="T"/>灑哩奔嚩吽礫跛哩延底󰡊婆<lb
+ n="0097b17" ed="T"/>嚩囉謨乞叉補囕多嚩賽麼也多<lb
+ n="0097b18" ed="T"/>野跛也鼻步多嚩曩尾囉惹底施<lb
+ n="0097b19" ed="T"/>底迦𡀔誐誐嬭多嚩建左曩矩矩麼娑<lb
+ n="0097b20" ed="T"/>鉢囉婆野鉢囉婆野鼻賀妬曩<lb
+ n="0097b21" ed="T"/>尾娑底囉刎多嚩曩他󰡊陛嚩娜<lb
+ n="0097b22" ed="T"/>難沒嚕係曩野曩婆㘕麼囉儞跛多<lb
+ n="0097b23" ed="T"/>胝多哩𧹞鉢囉底沒馱娜黎迦<lb
+ n="0097b24" ed="T"/>麼黎尾麼黎婆囉麼囉伊嚩本灑麼<lb
+ n="0097b25" ed="T"/>捨跢矩里擔伊底妬吒迦文涅哩底嚩󰪯囉覩曆跛哩枳多也麼<lb
+ n="0097b27" ed="T"/>野多嚩嚩囉拏覽鑁野耨播呰<lb
+ n="0097b28" ed="T"/>多麼儞也󰡊婆尾補覽始者麼<pb n="0097c" id="T19.0941.0097c" ed="T"/><lb
+ n="0097c01" ed="T"/>娑覩多妬步尾禰嚩涅哩嬭麼<lb
+ n="0097c02" ed="T"/>囉尾若野娑妬怛囕娑麼跛多<lb
+ n="0097c03" ed="T"/>弭底</ab></div><lb
+ n="0097c04" ed="T"/>
+<ab type='juan' subtype='close'>釋迦牟尼佛成道在菩提樹降魔讚</ab><lb
+ n="0097c05" ed="T"/><div type='w' level='2'><ab type='prose'>靈雲校本云　貞享四中春二十一一校了<lb
+ n="0097c06" ed="T"/>　　　　　　　　　　　　淨嚴</ab></div></div>
+</body></text></TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說一切如來名號陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T21</biblScope>
+                    <idno type="Taisho">T21n1350</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0864a" id="T21.1350.0864a" ed="T"/><lb
+ n="0864a01" ed="T"/><lb
+ n="0864a02" ed="T"/><div type='jing' level='1'><lb
+ n="0864a03" ed="T"/>
+<ab type='juan' subtype='open'>佛說一切如來名號陀羅尼經</ab><lb
+ n="0864a04" ed="T"/><lb
+ n="0864a05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0864a06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0864a07" ed="T"/><ab type='prose'>如是我聞。一時佛在摩伽陀國法野大菩提<lb
+ n="0864a08" ed="T"/>道場。初成正覺。與諸菩薩摩訶薩眾八萬人<lb
+ n="0864a09" ed="T"/>俱。復有八萬四千大梵天子亦在道場。悉皆<lb
+ n="0864a10" ed="T"/>圍繞瞻仰世尊。<lb
+ n="0864a11" ed="T"/>爾時會中有菩薩摩訶薩名觀自在。從座而<lb
+ n="0864a12" ed="T"/>起偏袒右肩。右膝著地合掌向佛。而白佛言<lb
+ n="0864a13" ed="T"/>世尊。有一切如來名號陀羅尼。彼一切如來<lb
+ n="0864a14" ed="T"/>名號陀羅尼。乃是莊嚴劫賢劫星宿劫中。諸<lb
+ n="0864a15" ed="T"/>佛如來已說當說。我今承佛威力。亦為利益<lb
+ n="0864a16" ed="T"/>安樂諸眾生故樂欲宣說。唯願世尊加哀覆<lb
+ n="0864a17" ed="T"/>護。<lb
+ n="0864a18" ed="T"/>爾時世尊讚觀自在菩薩摩訶薩言。善哉善<lb
+ n="0864a19" ed="T"/>哉觀自在。汝能為利益一切眾生發大悲心。<lb
+ n="0864a20" ed="T"/>如意宣說。時觀自在菩薩蒙佛許已。復白佛<lb
+ n="0864a21" ed="T"/>言世尊。若人欲誦彼陀羅尼。先當至誠誦諸<lb
+ n="0864a22" ed="T"/>佛如來名號。所謂寶師子自在如來寶雲如<lb
+ n="0864a23" ed="T"/>來。寶莊嚴藏如來師子大雲如來。雲師子如<lb
+ n="0864a24" ed="T"/>來須彌如來。師子吼如來師子利如來。梵音<lb
+ n="0864a25" ed="T"/>如來善愛如來。蓮華上如來燃燈如來。蓮華<lb
+ n="0864a26" ed="T"/>生如來遜那囉如來。持花如來持寶如來。法<lb
+ n="0864a27" ed="T"/>生如來日光如來。日照如來月光如來。無量<lb
+ n="0864a28" ed="T"/>藏如來無量莊嚴藏如來。無量光如來蓮華<lb
+ n="0864a29" ed="T"/>藏如來。天妙音如來拘枳羅音如來。如是等<pb n="0864b" id="T21.1350.0864b" ed="T"/><lb
+ n="0864b01" ed="T"/>諸佛如來名號。若人得聞為他宣說。是人六<lb
+ n="0864b02" ed="T"/>十千劫不聞惡趣之名。何況墮於阿鼻地獄。<lb
+ n="0864b03" ed="T"/>時觀自在菩薩。說是諸佛如來名號已。即說<lb
+ n="0864b04" ed="T"/>陀羅尼曰。<lb
+ n="0864b05" ed="T"/></ab>
+<ab type='dharani'>怛𭔞他拶覩囉尸帝踰惹<lb
+ n="0864b06" ed="T"/>那設多薩賀薩囉尼惹咤婆囉末酤<lb
+ n="0864b07" ed="T"/>吒朗訖哩多馱囉尼莎賀薩<lb
+ n="0864b08" ed="T"/>哩嚩怛他誐多母哩底多馱囉<lb
+ n="0864b09" ed="T"/>尼莎賀阿嚩路吉帝說囉野莎<lb
+ n="0864b10" ed="T"/>賀薩哩嚩怛他誐都烏瑟膩<lb
+ n="0864b11" ed="T"/>沙馱囉尼莎賀薩哩嚩怛他<lb
+ n="0864b12" ed="T"/>誐多婆始多達哩摩塞建馱<lb
+ n="0864b13" ed="T"/>馱囉尼莎賀薩哩嚩怛他誐<lb
+ n="0864b14" ed="T"/>多婆始多颯鉢多馱囉尼莎賀<lb
+ n="0864b15" ed="T"/>鉢訥摩阿婆儞哥野莎賀阿瑟<lb
+ n="0864b16" ed="T"/>吒摩賀跋野馱囉尼莎賀稅<lb
+ n="0864b17" ed="T"/>多嚩蘭拏野莎賀薩哩嚩怛他<lb
+ n="0864b18" ed="T"/>誐多那摩馱囉尼莎賀阿尸帝<lb
+ n="0864b19" ed="T"/>鉢訥摩設儞哥野怛他誐多馱囉尼<lb
+ n="0864b20" ed="T"/>莎賀鉢訥摩賀悉多野莎賀<lb
+ n="0864b21" ed="T"/>薩哩嚩滿怛囉馱囉尼莎賀<lb
+ n="0864b22" ed="T"/><lb
+ n="0864b23" ed="T"/></ab>
+<ab type='prose'>爾時觀自在菩薩。說是陀羅尼已。復白佛言<lb
+ n="0864b24" ed="T"/>世尊。此一切如來名號陀羅尼。若有善男子<lb
+ n="0864b25" ed="T"/>善女人。受持讀誦思惟記念。為他人說。是人<lb
+ n="0864b26" ed="T"/>所有五無間業悉得消除。命終之後生天為<lb
+ n="0864b27" ed="T"/>王。壽八十四百千俱胝劫數。然後得轉輪王<lb
+ n="0864b28" ed="T"/>位壽六十中劫。過是劫已當得成佛。名曰蓮<pb n="0864c" id="T21.1350.0864c" ed="T"/><lb
+ n="0864c01" ed="T"/>華藏如來應供正等正覺。<lb
+ n="0864c02" ed="T"/>爾時世尊說是經已。八萬菩薩摩訶薩眾。及<lb
+ n="0864c03" ed="T"/>八萬四千大梵天子。聞佛所說皆大歡喜信<lb
+ n="0864c04" ed="T"/>受奉行。<lb
+ n="0864c05" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說一切如來名號陀羅尼經</ab></div>
+</body></text></TEI>

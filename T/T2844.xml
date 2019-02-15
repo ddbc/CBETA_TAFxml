@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">文殊師利菩薩無相十禮</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2844</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1296b04" ed="T"/><lb
+ n="1296b05" ed="T"/><lb
+ n="1296b06" ed="T"/><lb
+ n="1296b07" ed="T"/>
+<ab type='juan' subtype='open'>文殊師利菩薩無相十禮</ab><lb
+ n="1296b08" ed="T"/><lb
+ n="1296b09" ed="T"/><ab type='prose'>清涼山中大聖文殊師利菩薩。端坐政看心。<lb
+ n="1296b10" ed="T"/>心亦不可得。至心歸命敬禮。真如法身佛。無<lb
+ n="1296b11" ed="T"/>色無形像。無根無住處。不生不滅故。敬禮無<lb
+ n="1296b12" ed="T"/>數觀。不來亦不去。不取亦不捨。遠離六入故。<lb
+ n="1296b13" ed="T"/>出過於三界。等如虛空。諸慾不染故。於諸威<lb
+ n="1296b14" ed="T"/>儀中。去來及睡悟。常在三昧故。去來悉平等。<lb
+ n="1296b15" ed="T"/>已住於平等。不壞平等故。入諸無相定。見諸<lb
+ n="1296b16" ed="T"/>法寂淨。離諸寂淨故。諸佛虛空相。虛空亦無<lb
+ n="1296b17" ed="T"/>相。離諸因果故。虛空無中邊。諸佛身亦然。心<lb
+ n="1296b18" ed="T"/>同虛空故。佛常在世間。而不染勢法。不分別<lb
+ n="1296b19" ed="T"/>世間故。諸法由如幻。如幻不可得。離諸幻法<lb
+ n="1296b20" ed="T"/>故。一切平等禮。無禮無不禮。一禮遍含識。同<lb
+ n="1296b21" ed="T"/>歸實相體。普為四恩三有及法界眾生同如如。<lb
+ n="1296b22" ed="T"/>歸命懺悔至心懺悔。我於三時求罪性。內外<lb
+ n="1296b23" ed="T"/>中間心實無。已無心故諸法寂。三毒四倒悉<lb
+ n="1296b24" ed="T"/>皆如。懺悔已歸命禮法身如來至心勸請。一<lb
+ n="1296b25" ed="T"/>切諸法本不生。已無生故何有滅。不生不滅<lb
+ n="1296b26" ed="T"/>性常住。唯願諸佛莫涅槃。令諸眾生照本性。<lb
+ n="1296b27" ed="T"/>自然遊戲涅槃城。行者但能照五蘊。無我無<lb
+ n="1296b28" ed="T"/>人兩邊空。勸請已歸命禮法身如來。至心隨<lb
+ n="1296b29" ed="T"/>喜。法本不貪亦不畏。勿我不一亦不異。同觀<pb n="1296c" id="T85.2844.1296c" ed="T"/><lb
+ n="1296c01" ed="T"/>一實證無生。無緣等觀盡隨喜。觀空照有如<lb
+ n="1296c02" ed="T"/>如性。唯願眾生勤照心。心體由來性清淨。妄<lb
+ n="1296c03" ed="T"/>色虛空同智真。隨喜已歸命禮法身如來至<lb
+ n="1296c04" ed="T"/>心迴向。迷於一室隨明想。執明想故我塵生。<lb
+ n="1296c05" ed="T"/>今照我塵無自性。迴向無住涅槃城。五法包<lb
+ n="1296c06" ed="T"/>含於政智。八識清淨淨心王。迴此蔭身成佛<lb
+ n="1296c07" ed="T"/>道。四儀一向現前行。迴向已歸命禮法身如<lb
+ n="1296c08" ed="T"/>來至心發願。令諸眾生妨六賊。悲智二照現<lb
+ n="1296c09" ed="T"/>前行。不斷不常離無量。非空非有惶了行。四<lb
+ n="1296c10" ed="T"/>智三身緣彼體。五眼常照浪三明。三眾意生<lb
+ n="1296c11" ed="T"/>無障礙。菩提樹下度群萠。發願已歸命禮法<lb
+ n="1296c12" ed="T"/>身如來一切恭敬。歸佛德菩提。道心恒不退。<lb
+ n="1296c13" ed="T"/>願共諸眾生。同入真如體。歸法薩般若。得大<lb
+ n="1296c14" ed="T"/>總持門。願共諸眾生。同入真如海。歸僧息諍<lb
+ n="1296c15" ed="T"/>論。同入和合海。願諸眾生等。悉發菩提心。三<lb
+ n="1296c16" ed="T"/>業恒清淨。和南眾法身佛。諸眾等聽說寅朝<lb
+ n="1296c17" ed="T"/>清淨偈。欲求寂滅樂。當學沙門法。衣食之身<lb
+ n="1296c18" ed="T"/>命。精麁隨眾等。諸眾等今日寅朝清淨上中<lb
+ n="1296c19" ed="T"/>下坐各記六念。諸眾等聽說午時無常偈。人<lb
+ n="1296c20" ed="T"/>生不精進。□若樹無根。葉花至日終。能得已<lb
+ n="1296c21" ed="T"/>時新。花亦不久鮮。色亦非常好。人命如剎<lb
+ n="1296c22" ed="T"/>那。須臾難可報。今勸諸眾等。懃修無上道。諸<lb
+ n="1296c23" ed="T"/>眾等聽說黃昏無常偈。此日已過命。即隨減<lb
+ n="1296c24" ed="T"/>如少。</ab></div>
+</body></text></TEI>

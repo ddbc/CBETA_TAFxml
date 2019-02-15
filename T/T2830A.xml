@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">道安法師念佛讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2830A</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1268b23" ed="T"/><lb
+ n="1268b24" ed="T"/><lb
+ n="1268b25" ed="T"/>
+<ab type='juan' subtype='open'>道安法師念佛讚</ab><lb
+ n="1268b26" ed="T"/><lb
+ n="1268b27" ed="T"/><ab type='verse'>
+□十三天佛最尊　　萬物中貴不過人　　<lb
+ n="1268b28" ed="T"/>一世眼□□□□　　妙□相勸入善門　　<lb
+ n="1268b29" ed="T"/>只恐眾生造諸惡　　經律法教□修身　　<pb n="1268c" id="T85.2830A.1268c" ed="T"/><lb
+ n="1268c01" ed="T"/>食肉眾生短命保　　緣佛慈悲徵諫君　　<lb
+ n="1268c02" ed="T"/>莫道□□□□□　　善惡童子每知聞　　<lb
+ n="1268c03" ed="T"/>好事惡事□□□　　□□□□□□□　　<lb
+ n="1268c04" ed="T"/>造惡人多修福少　　所以眾生長受貧　　<lb
+ n="1268c05" ed="T"/>天堂快樂無人去　　地獄苦處競來莽　　<lb
+ n="1268c06" ed="T"/>不是閻羅王倉入　　亦不是諸佛不慈悲　　<lb
+ n="1268c07" ed="T"/>總緣慳貪難勸諫　　百劫千生自□身　　<lb
+ n="1268c08" ed="T"/>第一當官莫誑法　　恃恃形勢乃欺貪　　<lb
+ n="1268c09" ed="T"/>蠢動眾生皆惜命　　負骨埋身不放□　　<lb
+ n="1268c10" ed="T"/>善惡加遭誑橫事　　法外綾遲不敢嗔　　<lb
+ n="1268c11" ed="T"/>狂取一錢徵萬倍　　命終地獄受艱辛　　<lb
+ n="1268c12" ed="T"/>富貴前生希施得　　貧是慳貪宿業因　　<lb
+ n="1268c13" ed="T"/>世人無慈好酒肉　　百味調和勸六親　　<lb
+ n="1268c14" ed="T"/>但著猪羊被宰殺　　苦痛之聲上帝聞　　<lb
+ n="1268c15" ed="T"/>眼光早已隨身落　　四脚高低就血盆　　<lb
+ n="1268c16" ed="T"/>將知食肉屠他命　　地獄恐讐不可論　　<lb
+ n="1268c17" ed="T"/>累月不曾得一類　　終日虛霑喫肉人　　<lb
+ n="1268c18" ed="T"/>死生猶來美生處　　若箇不覓命長存　　<lb
+ n="1268c19" ed="T"/>輪迴六道受諸類　　改頭換面不相知　　<lb
+ n="1268c20" ed="T"/>但取眾生血肉喫　　誰知父母及妻兒　　<lb
+ n="1268c21" ed="T"/>一切猪羊皆惜命　　惜命叫喚口中悲　　<lb
+ n="1268c22" ed="T"/>緣業力劣負他命　　百劫千生不放衣　　<lb
+ n="1268c23" ed="T"/>善惡皆將業鏡照　　寸步驅逐入阿鼻　　<lb
+ n="1268c24" ed="T"/>普勸眾生修萬行　　今逢法教莫生疑　　<lb
+ n="1268c25" ed="T"/>決定至心聞妙法　　當來極樂佛為期　　
+</ab></div>
+</body></text></TEI>

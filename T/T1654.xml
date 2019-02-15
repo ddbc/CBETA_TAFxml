@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">因緣心論頌因緣心論釋</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T32</biblScope>
+                    <idno type="Taisho">T32n1654</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0490a22" ed="T"/><lb
+ n="0490a23" ed="T"/><lb
+ n="0490a24" ed="T"/><lb
+ n="0490a25" ed="T"/><head>因緣心論頌</head><lb
+ n="0490a26" ed="T"/><lb
+ n="0490a27" ed="T"/><byline>龍猛菩薩作</byline><lb
+ n="0490a28" ed="T"/><ab type='verse'>
+差別十二支，　　能仁說緣生，　　<lb
+ n="0490a29" ed="T"/>於煩惱業苦，　　三中俱攝盡。　　<pb n="0490b" ed="T" id="T32.1654.0490b"/><lb
+ n="0490b01" ed="T"/>初八九煩惱，　　二及十是業，　　<lb
+ n="0490b02" ed="T"/>餘七皆是苦，　　十二唯三攝。　　<lb
+ n="0490b03" ed="T"/>從三生於二，　　從二生於七，　　<lb
+ n="0490b04" ed="T"/>一復生於三，　　此有輪數轉。　　<lb
+ n="0490b05" ed="T"/>諸趣唯因果，　　此中無眾生，　　<lb
+ n="0490b06" ed="T"/>唯從於空法，　　還生於空法。　　<lb
+ n="0490b07" ed="T"/>誦燈鏡及印，　　火精種梅聲，　　<lb
+ n="0490b08" ed="T"/>諸蘊相續結，　　不移智應察。　　<lb
+ n="0490b09" ed="T"/>於甚微細事，　　若有見斷者，　　<lb
+ n="0490b10" ed="T"/>彼不善因緣，　　未見緣生義。　　<lb
+ n="0490b11" ed="T"/>此中無可見，　　亦無少安立，　　<lb
+ n="0490b12" ed="T"/>於真以觀真，　　見真而解脫。　　
+</ab><lb
+ n="0490b13" ed="T"/><lb
+ n="0490b14" ed="T"/><lb
+ n="0490b15" ed="T"/><lb
+ n="0490b16" ed="T"/><head>因緣心論釋</head><lb
+ n="0490b17" ed="T"/><lb
+ n="0490b18" ed="T"/><byline>龍猛菩薩造</byline><lb
+ n="0490b19" ed="T"/><ab type='prose'>此中有沙門，樂聞能聽、善能憶持、能悟能<lb
+ n="0490b20" ed="T"/>觀及具簡弃，來詣師所，於如來教中作如<lb
+ n="0490b21" ed="T"/>是問：「薄伽梵差別十二支，能仁說緣生。彼<lb
+ n="0490b22" ed="T"/>於何所攝？今欲樂聞。」知彼問其真義，師即<lb
+ n="0490b23" ed="T"/>呼曰：「汝於煩惱、業、苦三中都攝盡，作此分別<lb
+ n="0490b24" ed="T"/>典切之語。此中十及二，故曰為十二支，即<lb
+ n="0490b25" ed="T"/>差別故言差別。如車支分，故說為支。能<lb
+ n="0490b26" ed="T"/>寂身口，故名能仁。言能仁說者，宣暢解釋，<lb
+ n="0490b27" ed="T"/>說之異名，彼非自性決定士夫。假相自在，<lb
+ n="0490b28" ed="T"/>時自然隨欲、化主偶遇等所生，此是因緣<lb
+ n="0490b29" ed="T"/>所生。此差別十二支法，於煩惱、業、苦遞手相<pb n="0490c" ed="T" id="T32.1654.0490c"/><lb
+ n="0490c01" ed="T"/>依，猶如束蘆，於彼三中並皆攝盡。言盡<lb
+ n="0490c02" ed="T"/>者，即是無餘義也。」問曰：「何者煩惱？何者是<lb
+ n="0490c03" ed="T"/>業？何者是苦？此差別之法，當於何攝？」<lb
+ n="0490c04" ed="T"/>答曰：「初八九煩惱，差別十二支法。初是無<lb
+ n="0490c05" ed="T"/>明、第八是愛、第九是取，此三是煩惱所攝。<lb
+ n="0490c06" ed="T"/>何者是業？二及十是業，二是行、十是有，此<lb
+ n="0490c07" ed="T"/>二法是業所攝。餘七皆是苦。煩惱業之所攝<lb
+ n="0490c08" ed="T"/>之餘，七種是苦。所攝應知，所謂識、名色、<lb
+ n="0490c09" ed="T"/>六入、觸、受、生、老死。言皆者，是惣攝之辭，即<lb
+ n="0490c10" ed="T"/>攝愛別離、怨憎會、求不得苦。是故此十二<lb
+ n="0490c11" ed="T"/>支法，於業煩惱苦中並皆攝盡。言唯者，是<lb
+ n="0490c12" ed="T"/>其遮義。經中所說之法，此中攝盡，更無有<lb
+ n="0490c13" ed="T"/>餘。」問曰：「此義已知。彼煩惱業苦，云何相生？<lb
+ n="0490c14" ed="T"/>請為解說。」答曰：「從三生於二，從三煩惱生於<lb
+ n="0490c15" ed="T"/>二業。從二生於七，謂上所說苦法。七復生<lb
+ n="0490c16" ed="T"/>於三，所謂諸煩惱，復從三煩惱生於二業，<lb
+ n="0490c17" ed="T"/>此有輪數轉。言有者，有其三種，所謂欲、色、<lb
+ n="0490c18" ed="T"/>無色，於中不息而作流轉，彼諸異生世間而<lb
+ n="0490c19" ed="T"/>自流轉浪。言此者，顯不定義。非如流轉，次<lb
+ n="0490c20" ed="T"/>第生於諸有；此不定也。」問曰：「何者是身之<lb
+ n="0490c21" ed="T"/>自在眾生耶？彼之作用其事云何？」答曰：「諸<lb
+ n="0490c22" ed="T"/>趣惟因果，惟除假名，此中無眾生。此是真<lb
+ n="0490c23" ed="T"/>實義，非假立有。假立之境，不成實物。」問曰：<lb
+ n="0490c24" ed="T"/>「若如是者，誰從此世至於他世？」答曰：「無有極<lb
+ n="0490c25" ed="T"/>微等法，從於此世移至他世。雖然，唯從於<lb
+ n="0490c26" ed="T"/>空法還生於空法。從無我我所、煩惱業五<lb
+ n="0490c27" ed="T"/>種空因，還生空無我我所七種苦果之法。彼<lb
+ n="0490c28" ed="T"/>則無我我所，彼此手無我我所。雖然，從自性<lb
+ n="0490c29" ed="T"/>無我之法，還生自性無我之法。應如是知，作<pb n="0491a" ed="T" id="T32.1654.0491a"/><lb
+ n="0491a01" ed="T"/>如是說。此中問曰：從自性無我之法，還生<lb
+ n="0491a02" ed="T"/>自性無我之法者，有何譬喻？此中答曰：誦燈<lb
+ n="0491a03" ed="T"/>鏡及印，火精種梅聲。已如是等喻，及假喻<lb
+ n="0491a04" ed="T"/>立成自性無我，及成就彼世應知。譬如師所<lb
+ n="0491a05" ed="T"/>誦者，若轉至弟子，師後更無言說，是故不<lb
+ n="0491a06" ed="T"/>至。彼弟子誦者，亦不從餘得，成無因果故。<lb
+ n="0491a07" ed="T"/>如師所誦，臨終心識，亦復如是，成常過故。不<lb
+ n="0491a08" ed="T"/>至他世，彼世亦不從餘得，成無因果故。如<lb
+ n="0491a09" ed="T"/>師所誦，與弟子誦者，即彼異彼，不易施設。<lb
+ n="0491a10" ed="T"/>如是依彼臨終心識，生分心識。得生者，亦<lb
+ n="0491a11" ed="T"/>復如是。即彼異彼，不易施設。如是從燈生<lb
+ n="0491a12" ed="T"/>燈，依於面像鏡中現其影像，從印成文，從<lb
+ n="0491a13" ed="T"/>精出火，從種生芽，從梅生涎，從聲出嚮，即<lb
+ n="0491a14" ed="T"/>彼異彼，不易施設。如是諸蘊相續結，不移<lb
+ n="0491a15" ed="T"/>智應察。言蘊者，即色、受、想、行、識蘊也。言<lb
+ n="0491a16" ed="T"/>相續結者，彼已從彼因所生，餘者是也。無<lb
+ n="0491a17" ed="T"/>有極微等法，從於此世移至他世。是故流<lb
+ n="0491a18" ed="T"/>轉，從於虛妄分別習氣而生。後言應者，即是<lb
+ n="0491a19" ed="T"/>逆觀，義當知反。彼應觀諸法無常、苦、空、無我<lb
+ n="0491a20" ed="T"/>者，則不愚諸事。若不愚者則無有貪，若無<lb
+ n="0491a21" ed="T"/>有貪瞋則不生，若無有嗔則無有業，若無有<lb
+ n="0491a22" ed="T"/>業則無有取，若無有取則不造後有，若無<lb
+ n="0491a23" ed="T"/>有者而則不生，若不生者即於身心而苦不<lb
+ n="0491a24" ed="T"/>生。如是不集五種因故，即相餘處而果不<lb
+ n="0491a25" ed="T"/>生，此果解脫，是故斷除斷常等諸惡見也。<lb
+ n="0491a26" ed="T"/>此中有二頌：<lb
+ n="0491a27" ed="T"/></ab>
+<ab type='verse'>
+「於甚微細事，　　若有見斷者，　　<lb
+ n="0491a28" ed="T"/>彼不善因緣，　　未見緣生義。　　<lb
+ n="0491a29" ed="T"/>此中無可見，　　亦無少安立，　　<pb n="0491b" ed="T" id="T32.1654.0491b"/><lb
+ n="0491b01" ed="T"/>於真以觀真，　　見真如解脫。」　　
+</ab><lb
+ n="0491b02" ed="T"/>
+<ab type='juan' subtype='close'>因緣心論釋一卷</ab></div>
+</body></text></TEI>

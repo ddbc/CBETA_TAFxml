@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說大方等修多羅王經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0575</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0948b21" ed="T"/><lb
+ n="0948b22" ed="T"/><lb
+ n="0948b23" ed="T"/><lb
+ n="0948b24" ed="T"/>
+<ab type='juan' subtype='open'>佛說大方等修多羅王經</ab><lb
+ n="0948b25" ed="T"/><lb
+ n="0948b26" ed="T"/><byline>後魏天竺三藏菩提流支譯</byline><lb
+ n="0948b27" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆，在王舍城迦蘭陀竹<lb
+ n="0948b28" ed="T"/>園，與大比丘僧千二百五十人俱，及大菩薩<lb
+ n="0948b29" ed="T"/>摩訶薩眾。爾時，摩伽陀國頻婆娑羅王，出王<pb n="0948c" ed="T" id="T14.0575.0948c"/><lb
+ n="0948c01" ed="T"/>舍城，詣迦蘭陀竹園精舍，至世尊所；頭面<lb
+ n="0948c02" ed="T"/>禮足，遶佛三匝，退坐一面。<lb
+ n="0948c03" ed="T"/>爾時，世尊即告頻婆娑羅王言：「大王！如人夢<lb
+ n="0948c04" ed="T"/>中見於眾人，與諸婇女共相娛樂。此人覺已，<lb
+ n="0948c05" ed="T"/>憶念夢中眾人婇女。大王！於意云何？如是<lb
+ n="0948c06" ed="T"/>夢中眾人婇女，為有實不？」頻婆娑羅王答言：<lb
+ n="0948c07" ed="T"/>「不也；世尊！」佛告大王：「於意云何？是人夢中<lb
+ n="0948c08" ed="T"/>見婇女，與諸人等共相娛樂。覺已憶念，如<lb
+ n="0948c09" ed="T"/>是之人寧有智不？」大王答言：「不也。世尊！何<lb
+ n="0948c10" ed="T"/>以故？世尊！夢中畢竟無有眾人及眾婇女。<lb
+ n="0948c11" ed="T"/>眾人婇女尚不可得，何況當有共相娛樂？」佛<lb
+ n="0948c12" ed="T"/>告大王：「凡夫之人亦復如是，眼見美色便生<lb
+ n="0948c13" ed="T"/>愛著，既生愛著便起欲心，既起欲心起瞋癡<lb
+ n="0948c14" ed="T"/>業，或作身業，或作口業，或作意業。彼所作<lb
+ n="0948c15" ed="T"/>業作已而滅，滅已不依東方而住，亦復不依<lb
+ n="0948c16" ed="T"/>南方而住，亦復不依西方而住，亦復不依北<lb
+ n="0948c17" ed="T"/>方而住，四維、上、下亦復如是。至臨終時行識<lb
+ n="0948c18" ed="T"/>將滅，其意現前。大王！如是行識，自作之業<lb
+ n="0948c19" ed="T"/>必盡受之。大王！如人夢覺，不見婇女及諸人<lb
+ n="0948c20" ed="T"/>眾，行識滅已初識次生，或生天中，或生人<lb
+ n="0948c21" ed="T"/>中，或生地獄，或生畜生，或生餓鬼。大王！以<lb
+ n="0948c22" ed="T"/>初識不斷自心相續，應受報處而生其中。大<lb
+ n="0948c23" ed="T"/>王！觀諸生滅頗有一法，從於今世至未來世。<lb
+ n="0948c24" ed="T"/>大王！如是行識終時，名之為滅。初識起時，<lb
+ n="0948c25" ed="T"/>名之為生。大王！行識滅時，去無所至；初識<lb
+ n="0948c26" ed="T"/>生時，無所從來。何以故？識性離故。大王！行<lb
+ n="0948c27" ed="T"/>識行識空，滅時滅業空，初識初識空，生時生<lb
+ n="0948c28" ed="T"/>業空，觀諸業果亦不失壞。大王當知！以初識<lb
+ n="0948c29" ed="T"/>心相續不斷而受果報。」爾時善逝說此語已，<pb n="0949a" ed="T" id="T14.0575.0949a"/><lb
+ n="0949a01" ed="T"/>而說頌曰：<lb
+ n="0949a02" ed="T"/></ab>
+<ab type='verse'>
+「一切唯名字，　　唯住想分別；　　<lb
+ n="0949a03" ed="T"/>名字分別說，　　而說無所有。　　<lb
+ n="0949a04" ed="T"/>以種種名字，　　說於種種法；　　<lb
+ n="0949a05" ed="T"/>法中無如是，　　此法諸法相。　　<lb
+ n="0949a06" ed="T"/>名字名字空，　　名字離名字；　　<lb
+ n="0949a07" ed="T"/>諸法無名字，　　以名字而說。　　<lb
+ n="0949a08" ed="T"/>此法非實有，　　以分別而生；　　<lb
+ n="0949a09" ed="T"/>彼分別亦無，　　空以分別說。　　<lb
+ n="0949a10" ed="T"/>一切凡夫說，　　眼能見於色；　　<lb
+ n="0949a11" ed="T"/>世間妄分別，　　取之以為實。　　<lb
+ n="0949a12" ed="T"/>佛之所說法，　　眾緣集故見；　　<lb
+ n="0949a13" ed="T"/>此是行次第，　　為說第一義。　　<lb
+ n="0949a14" ed="T"/>非眼見於色，　　意不覺諸法；　　<lb
+ n="0949a15" ed="T"/>此是第一諦，　　非世間所覺。」　　
+</ab><lb
+ n="0949a16" ed="T"/><ab type='prose'>爾時，世尊說此經已，摩伽陀國頻婆娑羅王，<lb
+ n="0949a17" ed="T"/>一切世間天、人、阿修羅、揵闥婆等，聞佛所說，<lb
+ n="0949a18" ed="T"/>皆大歡喜。</ab></div><lb
+ n="0949a19" ed="T"/>
+<ab type='juan' subtype='close'>佛說大方等修多羅王經</ab>
+</body></text></TEI>

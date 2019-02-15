@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">挾注勝鬘經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2763</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0278b08" ed="T"/><lb
+ n="0278b09" ed="T"/><lb
+ n="0278b10" ed="T"/>
+<ab type='juan' subtype='open'>挾注勝鬘經</ab><lb
+ n="0278b11" ed="T"/><lb
+ n="0278b12" ed="T"/><div type='jing' level='1'><ab type='prose'>法有無量無邊功德□□□□□。<lb
+ n="0278b14" ed="T"/>佛告勝鬘汝今更說一切諸佛所說攝受正<lb
+ n="0278b15" ed="T"/>法勝鬘白佛言<lb
+ n="0278b16" ed="T"/>善哉世尊唯然受教即白佛言<lb
+ n="0278b17" ed="T"/>世尊攝受正法者是摩訶衍何以<lb
+ n="0278b18" ed="T"/>故摩訶衍者出生一切聲聞緣覺世<lb
+ n="0278b19" ed="T"/>間出世間善法世尊如阿耨大池出八大河如是摩訶衍出<lb
+ n="0278b22" ed="T"/>生一切聲聞緣覺世間出世間善法世尊。又如<lb
+ n="0278b24" ed="T"/>一切種子皆依於地而得生長。如是一切聲聞<lb
+ n="0278b25" ed="T"/>緣覺世間出世間善法依於大乘而得增長<lb
+ n="0278b26" ed="T"/>。是故世尊。住於大乘攝受大乘即住於<lb
+ n="0278b27" ed="T"/>二乘攝受二乘一切世間出世間善法。如世尊說六處。何等為六。謂正法住正法滅<lb
+ n="0278b29" ed="T"/>波羅提木叉比尼出家受具足為大乘故說此<pb n="0278c" id="T85.2763.0278c" ed="T"/><lb
+ n="0278c01" ed="T"/>六處何以故正法住者為大<lb
+ n="0278c03" ed="T"/>乘故說大乘住者即正法住正法滅者為大乘<lb
+ n="0278c04" ed="T"/>故說大乘滅者即正法滅波羅提木叉比尼此二法者義一名異<lb
+ n="0278c06" ed="T"/>比尼<lb
+ n="0278c07" ed="T"/>者即大乘學何以故以<lb
+ n="0278c08" ed="T"/>依佛出家而受具足是故<lb
+ n="0278c09" ed="T"/>說大乘威儀戒是比尼是出家是受具足是故阿羅漢無別出家受具足何以故<lb
+ n="0278c11" ed="T"/>阿羅漢依如來出家受具足故。<lb
+ n="0278c13" ed="T"/>阿羅漢歸依於佛阿羅漢有恐怖何以故阿羅漢於一切無行怖畏想住如人<lb
+ n="0278c17" ed="T"/>執劍欲來害已是故阿羅漢無<lb
+ n="0278c18" ed="T"/>究竟樂何以故世尊依不求依如眾生無依彼彼恐怖<lb
+ n="0278c20" ed="T"/>以恐怖故則求歸依如是阿羅漢有怖畏以怖<lb
+ n="0278c21" ed="T"/>畏故依於如來世尊<lb
+ n="0278c22" ed="T"/>阿羅漢辟支佛有怖畏是故阿羅漢辟支佛有餘生法不盡故有<lb
+ n="0278c24" ed="T"/>生有餘梵行成故<lb
+ n="0278c25" ed="T"/>不純事不空竟故當有所作<lb
+ n="0278c26" ed="T"/>不度彼故當有所斷以不斷故去涅<pb n="0279a" id="T85.2763.0279a" ed="T"/><lb
+ n="0279a01" ed="T"/>槃界遠何以故唯有如來應等正覺得般涅槃成就一切功<lb
+ n="0279a03" ed="T"/>德故阿羅漢辟支佛不成就一切功德言得涅<lb
+ n="0279a04" ed="T"/>槃者是佛方便唯有<lb
+ n="0279a06" ed="T"/>如來得般涅槃成就無量功德故阿羅漢辟支<lb
+ n="0279a07" ed="T"/>佛成就有量功德言得涅槃者是佛方便唯有如來得般涅槃成就不<lb
+ n="0279a09" ed="T"/>可思議功德故阿羅漢辟支佛成就思議功德<lb
+ n="0279a10" ed="T"/>言得涅槃者是佛方便唯有如來得般涅槃一切所應斷過皆<lb
+ n="0279a12" ed="T"/>悉斷滅成就第一清淨阿羅漢辟支佛有餘過<lb
+ n="0279a13" ed="T"/>非第一清淨言得涅槃者是佛方便唯有如來得般涅槃為一切眾生之<lb
+ n="0279a15" ed="T"/>所瞻仰出過阿羅漢辟支佛菩薩境界是故阿<lb
+ n="0279a16" ed="T"/>羅漢辟支佛去涅槃界遠。<lb
+ n="0279a18" ed="T"/>言阿羅漢辟支佛觀察解脫四智究竟得蘇息<lb
+ n="0279a19" ed="T"/>處者亦是如來方便有餘不了義說<lb
+ n="0279a21" ed="T"/>何以故有二種死何等為二謂分<lb
+ n="0279a22" ed="T"/>段死不思議變易死分<lb
+ n="0279a24" ed="T"/>段死者謂虛偽眾生不思議變易死者謂阿羅<lb
+ n="0279a25" ed="T"/>漢辟支佛大力菩薩意生身乃至究竟無上菩提二種死中以分段死故說阿<pb n="0279b" id="T85.2763.0279b" ed="T"/><lb
+ n="0279b01" ed="T"/>羅漢辟支佛智我生已盡得<lb
+ n="0279b02" ed="T"/>有餘果證故說梵行已立凡夫人天<lb
+ n="0279b03" ed="T"/>所不能辦七種學人先所未作虛偽煩惱斷故<lb
+ n="0279b04" ed="T"/>說所作已辦阿羅漢辟支<lb
+ n="0279b05" ed="T"/>佛所斷煩惱更不能受後有故說不受後有非盡一切煩惱亦非盡一切受<lb
+ n="0279b07" ed="T"/>生故說不受後有何<lb
+ n="0279b08" ed="T"/>以故有煩惱是阿羅漢辟支佛所不能斷煩惱<lb
+ n="0279b12" ed="T"/>有二種何等為二謂住地煩惱及起煩惱住地有四種何等<lb
+ n="0279b15" ed="T"/>為四謂見一處住地欲愛住地色愛住地有愛<lb
+ n="0279b16" ed="T"/>住地此四住地生一切起煩惱<lb
+ n="0279b18" ed="T"/>起者剎那心剎那相應世<lb
+ n="0279b19" ed="T"/>尊心不相應無始無明住地世尊<lb
+ n="0279b27" ed="T"/>此四住地力一切上煩惱依種比無明住地算<pb n="0279c" id="T85.2763.0279c" ed="T"/><lb
+ n="0279c01" ed="T"/>數譬喻所不能及世尊<lb
+ n="0279c03" ed="T"/>如是無明住地力於有愛數四住地其力最大<lb
+ n="0279c04" ed="T"/>譬如惡魔波旬於他<lb
+ n="0279c05" ed="T"/>化自在天色力壽命眷屬眾具自在殊勝如是<lb
+ n="0279c06" ed="T"/>無明住地力於有愛數四住地其力最勝恒沙等數上煩惱依亦令<lb
+ n="0279c08" ed="T"/>四種煩惱久住阿羅漢辟支佛智所不能斷唯如來菩提<lb
+ n="0279c10" ed="T"/>智之所能斷如是世尊<lb
+ n="0279c11" ed="T"/>無明住地最為大力世尊又如取緣有<lb
+ n="0279c12" ed="T"/>漏業因而生三有如是無<lb
+ n="0279c13" ed="T"/>明住地緣無漏業因生阿羅漢辟支佛大力菩<lb
+ n="0279c14" ed="T"/>薩三種意生身此三地彼三種意<lb
+ n="0279c16" ed="T"/>生身生及無漏業生依無明住地有緣非無緣<lb
+ n="0279c17" ed="T"/>是故三種意生身及無漏業緣無明住地世尊如是有愛住地數四住地不<lb
+ n="0279c19" ed="T"/>與無明住地業同無明住<lb
+ n="0279c20" ed="T"/>地異離四住地佛地所斷佛菩提智所斷何以故阿羅漢辟支佛斷四<lb
+ n="0279c22" ed="T"/>種住地無漏不盡不得自在力亦不作證<lb
+ n="0279c25" ed="T"/>無漏不盡者即是無明住地世尊阿<lb
+ n="0279c26" ed="T"/>羅漢辟支佛最後身菩薩為無明住地之所覆<lb
+ n="0279c27" ed="T"/>障故於彼彼法不知不覺以不知見<pb n="0280a" id="T85.2763.0280a" ed="T"/><lb
+ n="0280a01" ed="T"/>故所應斷者不斷不究竟以<lb
+ n="0280a02" ed="T"/>不斷故名有餘過解脫非離一切過解脫名有餘清淨非一切清淨名成就<lb
+ n="0280a04" ed="T"/>有餘功德非一切功德以成就有餘解脫<lb
+ n="0280a05" ed="T"/>有餘清淨有餘功德故知有餘苦斷有餘集證<lb
+ n="0280a06" ed="T"/>有餘滅修有餘道是名得少分涅槃<lb
+ n="0280a07" ed="T"/>得少分涅槃者名向涅槃界。<lb
+ n="0280a08" ed="T"/><lb
+ n="0280a09" ed="T"/>勝鬘夫人經卷上弟子曇受可敦所供養</ab></div>
+</body></text></TEI>

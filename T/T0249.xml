@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說帝釋般若波羅蜜多心經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T08</biblScope>
+                    <idno type="Taisho">T08n0249</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0846b15" ed="T"/><lb
+ n="0846b16" ed="T"/><lb
+ n="0846b17" ed="T"/><lb
+ n="0846b18" ed="T"/>
+<ab type='juan' subtype='open'>佛說帝釋般若波羅蜜多心經</ab><lb
+ n="0846b19" ed="T"/><lb
+ n="0846b20" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
+ n="0846b21" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0846b22" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在王舍城鷲峯山中，有無<lb
+ n="0846b23" ed="T"/>數大苾芻眾，復十俱胝童子相菩薩摩訶薩。<lb
+ n="0846b24" ed="T"/>爾時，世尊告帝釋天主：「憍尸迦！此般若波羅<lb
+ n="0846b25" ed="T"/>蜜，其義甚深。非一非異，非相非無相，非取<lb
+ n="0846b26" ed="T"/>非捨，非增非損，非有煩惱非無煩惱，非捨<lb
+ n="0846b27" ed="T"/>非不捨，非住非不住，非相應非不相應，非<lb
+ n="0846b28" ed="T"/>煩惱非不煩惱，非緣非不緣，非實非不實，非<lb
+ n="0846b29" ed="T"/>法非不法，非有所歸非無所歸，非實際非不<pb n="0846c" id="T08.0249.0846c" ed="T"/><lb
+ n="0846c01" ed="T"/>實際。「憍尸迦！如是一切法平等，般若波羅<lb
+ n="0846c02" ed="T"/>蜜亦平等；一切法寂靜，般若波羅蜜亦寂靜；<lb
+ n="0846c03" ed="T"/>一切法不動，般若波羅蜜亦不動；一切法分<lb
+ n="0846c04" ed="T"/>別，般若波羅蜜亦分別；一切法怖畏，般若波<lb
+ n="0846c05" ed="T"/>羅蜜亦怖畏；一切法了知，般若波羅蜜亦了<lb
+ n="0846c06" ed="T"/>知；一切法一味，般若波羅蜜亦一味；一切法<lb
+ n="0846c07" ed="T"/>不生，般若波羅蜜亦不生；一切法不滅，般若<lb
+ n="0846c08" ed="T"/>波羅蜜亦不滅；一切法虛空妄想，般若波羅<lb
+ n="0846c09" ed="T"/>蜜亦虛空妄想；色無邊，般若波羅蜜亦無<lb
+ n="0846c10" ed="T"/>邊，如是受、想、行、識無邊，般若波羅蜜亦無邊；<lb
+ n="0846c11" ed="T"/>地界無邊，般若波羅蜜亦無邊，如是水界、火<lb
+ n="0846c12" ed="T"/>界、風界、空界、識界無邊，般若波羅蜜亦無邊；<lb
+ n="0846c13" ed="T"/>金剛平等，般若波羅蜜亦平等；一切法不壞，<lb
+ n="0846c14" ed="T"/>般若波羅蜜亦不壞；一切法性不可得，般若<lb
+ n="0846c15" ed="T"/>波羅蜜亦不可得；一切法性平等，般若波羅<lb
+ n="0846c16" ed="T"/>蜜亦平等；一切法無性，般若波羅蜜亦無性；<lb
+ n="0846c17" ed="T"/>一切法不思議，般若波羅蜜亦不思議；如是<lb
+ n="0846c18" ed="T"/>布施波羅蜜、持戒波羅蜜、忍辱波羅蜜、精進<lb
+ n="0846c19" ed="T"/>波羅蜜、禪定波羅蜜、方便波羅蜜、願波羅蜜<lb
+ n="0846c20" ed="T"/>力波羅蜜、智波羅蜜亦不可思議；三業清淨，<lb
+ n="0846c21" ed="T"/>般若波羅蜜亦清淨。如是般若波羅蜜，其義<lb
+ n="0846c22" ed="T"/>無邊。<lb
+ n="0846c23" ed="T"/>「復次，憍尸迦！所有十八空。何等十八空？內空、<lb
+ n="0846c24" ed="T"/>外空、內外空、空空、大空、勝義空、有為空、無<lb
+ n="0846c25" ed="T"/>為空、無際空、無變異空、無始空、本性空、自<lb
+ n="0846c26" ed="T"/>相空、無相空、無性空、自性空、無性自性空、<lb
+ n="0846c27" ed="T"/>一切法空。頌曰：<lb
+ n="0846c28" ed="T"/></ab>
+<ab type='verse'>
+「如星如燈、翳，　　夢、幻及泡、露，　　<lb
+ n="0846c29" ed="T"/>如電亦如雲，　　應作如是觀。　　<pb n="0847a" id="T08.0249.0847a" ed="T"/><lb
+ n="0847a01" ed="T"/>我今略說此，　　般若波羅蜜，　　<lb
+ n="0847a02" ed="T"/>不生亦不滅，　　不斷亦不常，　　<lb
+ n="0847a03" ed="T"/>非一非多義，　　非來亦非去，　　<lb
+ n="0847a04" ed="T"/>如是十二緣，　　止息令寂靜，　　<lb
+ n="0847a05" ed="T"/>正等正覺說。　　恭信最上師，　　<lb
+ n="0847a06" ed="T"/>歸依十方佛，　　過現及未來，　　<lb
+ n="0847a07" ed="T"/>三寶波羅蜜。　　無量功德海，　　<lb
+ n="0847a08" ed="T"/>供養諸如來，　　大明真祕密。　　
+</ab><lb
+ n="0847a09" ed="T"/><ab type='prose'>「真言曰：<lb
+ n="0847a10" ed="T"/>「怛儞也他　鉢囉倪鉢囉倪　摩賀鉢囉<lb
+ n="0847a11" ed="T"/>倪鉢囉倪嚩婆細　鉢囉倪魯迦迦哩<lb
+ n="0847a12" ed="T"/>阿倪也曩尾馱摩儞　悉提　蘇悉提　悉𠆙<lb
+ n="0847a13" ed="T"/>覩𤚥婆誐嚩帝　薩哩鑁誐遜那哩　跋<lb
+ n="0847a14" ed="T"/>訖帝晚娑隷　鉢囉娑哩多賀悉帝<lb
+ n="0847a15" ed="T"/>三摩娑嚩娑迦哩　悉𠆙悉𠆙　沒𠆙沒𠆙<lb
+ n="0847a16" ed="T"/>　劍波劍波　左攞左攞　囉嚩囉嚩　阿誐蹉<lb
+ n="0847a17" ed="T"/>阿誐蹉　婆誐嚩帝摩尾攞　莎娑嚩賀<lb
+ n="0847a18" ed="T"/><lb
+ n="0847a19" ed="T"/>「曩謨達哩謨捺誐多寫冒地薩埵寫　摩賀<lb
+ n="0847a20" ed="T"/>薩埵寫　摩賀迦嚕尼迦寫　曩謨娑那鉢<lb
+ n="0847a21" ed="T"/>囉嚕禰怛寫冒地薩埵寫　摩賀薩埵寫　摩<lb
+ n="0847a22" ed="T"/>賀迦嚕尼迦寫　曩謨鉢囉倪也波囉<lb
+ n="0847a23" ed="T"/>彌多曳怛儞也他牟儞達哩彌　僧誐<lb
+ n="0847a24" ed="T"/>囉賀達哩彌　阿努誐囉賀達哩彌　尾目<lb
+ n="0847a25" ed="T"/>訖多達哩彌薩埵努誐囉賀達哩彌<lb
+ n="0847a26" ed="T"/>　吠室囉嚩拏達哩彌　三滿多努波哩<lb
+ n="0847a27" ed="T"/>嚩哩多曩達哩彌虞拏誐囉賀僧誐<lb
+ n="0847a28" ed="T"/>囉賀達哩彌　薩哩嚩怛囉努誐<lb
+ n="0847a29" ed="T"/>多達哩彌　薩哩嚩迦羅波哩鉢囉<pb n="0847b" id="T08.0249.0847b" ed="T"/><lb
+ n="0847b01" ed="T"/>波拏達哩彌　娑嚩賀　鉢囉倪也<lb
+ n="0847b02" ed="T"/>波囉彌多　曳怛儞也他　阿佉儞曩佉<lb
+ n="0847b03" ed="T"/>儞阿佉曩儞佉儞阿嚩羅晚馱儞半那儞半<lb
+ n="0847b04" ed="T"/>那儞鉢捺哩　娑嚩賀<lb
+ n="0847b05" ed="T"/>「曩謨鉢囉倪也波囉彌多　曳怛儞也<lb
+ n="0847b06" ed="T"/>他昂誐昂誐曩帝囉昂誐曩帝曩<lb
+ n="0847b07" ed="T"/>嚩婆娑昂誐娑嚩賀<lb
+ n="0847b08" ed="T"/>「曩謨鉢囉倪也波囉彌多　曳怛儞也<lb
+ n="0847b09" ed="T"/>他　室哩曳室哩曳　牟儞室哩曳<lb
+ n="0847b10" ed="T"/>　牟儞室哩野細　娑嚩賀　鉢囉倪也<lb
+ n="0847b11" ed="T"/>波囉彌多　曳怛儞也他　唵　嚩𭍒　未<lb
+ n="0847b12" ed="T"/>隷　娑嚩賀<lb
+ n="0847b13" ed="T"/>「曩謨鉢囉倪也波囉禰多曳怛儞也<lb
+ n="0847b14" ed="T"/>他唵紇凌室凌特凌室嚕帝特哩<lb
+ n="0847b15" ed="T"/>帝娑蜜哩誐帝尾曳惹娑嚩賀<lb
+ n="0847b16" ed="T"/>「曩謨鉢囉倪也波囉彌多曳怛儞也<lb
+ n="0847b17" ed="T"/>他鑁嚩哩鑁嚩哩摩賀鑁嚩哩度嚕度嚕<lb
+ n="0847b18" ed="T"/>摩賀度嚕娑嚩賀<lb
+ n="0847b19" ed="T"/>「曩謨鉢囉倪也波囉彌多曳怛儞也<lb
+ n="0847b20" ed="T"/>他虎帝虎帝虎多設儞薩哩嚩迦哩摩<lb
+ n="0847b21" ed="T"/>嚩囉拏儞娑嚩賀<lb
+ n="0847b22" ed="T"/>「曩謨鉢囉倪也波囉彌多曳怛儞也<lb
+ n="0847b23" ed="T"/>他唵阿嚕黎迦娑嚩賀<lb
+ n="0847b24" ed="T"/>「曩謨鉢囉倪也波囉彌多曳怛儞也<lb
+ n="0847b25" ed="T"/>他唵薩哩嚩尾覩娑嚩賀<lb
+ n="0847b26" ed="T"/>「曩謨鉢囉倪也波囉彌多曳怛儞也<lb
+ n="0847b27" ed="T"/>他誐帝誐帝波囕誐帝波囉僧誐帝<lb
+ n="0847b28" ed="T"/>冒地娑嚩賀」<lb
+ n="0847b29" ed="T"/>爾時，世尊說此經已，帝釋天主及諸菩薩摩<pb n="0847c" id="T08.0249.0847c" ed="T"/><lb
+ n="0847c01" ed="T"/>訶薩、天、人、乾闥婆、阿修羅等，一切大眾，聞佛<lb
+ n="0847c02" ed="T"/>所說，皆大歡喜，信受奉行。</ab></div><lb
+ n="0847c03" ed="T"/>
+<ab type='juan' subtype='close'>佛說帝釋般若波羅蜜多心經</ab>
+</body></text></TEI>

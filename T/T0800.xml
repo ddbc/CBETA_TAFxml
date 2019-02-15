@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說無上處經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0800</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0745a09" ed="T"/><lb
+ n="0745a10" ed="T"/><lb
+ n="0745a11" ed="T"/><lb
+ n="0745a12" ed="T"/>
+<ab type='juan' subtype='open'>佛說無上處經</ab><lb
+ n="0745a13" ed="T"/><lb
+ n="0745a14" ed="T"/><byline>失譯人今，附東晉錄</byline><lb
+ n="0745a15" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在舍衛國祇樹給孤獨園。<lb
+ n="0745a16" ed="T"/>爾時，世尊告諸比丘：「有三無上處，汝等諦聽，<lb
+ n="0745a17" ed="T"/>當為汝說。」諸比丘白佛：「唯然受教。」佛告比丘：<lb
+ n="0745a18" ed="T"/>「三無上處者：一、佛無上處；二、法無上處；三、僧<lb
+ n="0745a19" ed="T"/>無上處。若諸眾生，兩足、四足、無足、多足，若色、<lb
+ n="0745a20" ed="T"/>無色，想、無想、非想非無想，如來於中說無<lb
+ n="0745a21" ed="T"/>上處。「諸比丘！若有眾生，能於佛無上處起信<lb
+ n="0745a22" ed="T"/>向心者，於天人中得無上果報。諸比丘！是名<lb
+ n="0745a23" ed="T"/>初無上處。「復次，諸比丘！於有為無為、色無色<lb
+ n="0745a24" ed="T"/>法，離欲法為無上處。諸比丘！若有眾生，能於<lb
+ n="0745a25" ed="T"/>此法無上處，起信向心者，於天人中得無上<lb
+ n="0745a26" ed="T"/>果報。諸比丘！是名第二無上處。「復次，諸比丘！<lb
+ n="0745a27" ed="T"/>僧無上處者，若僧若群、若叢聚、若徒眾中，如<lb
+ n="0745a28" ed="T"/>來弟子僧為無上處。諸比丘！若有眾生，能於<lb
+ n="0745a29" ed="T"/>此僧無上處，起信向心者，於天人中得無上<pb n="0745b" ed="T" id="T17.0800.0745b"/><lb
+ n="0745b01" ed="T"/>果報。是名三無上處。」時諸比丘，聞佛所說，歡<lb
+ n="0745b02" ed="T"/>喜奉行。</ab></div><lb
+ n="0745b03" ed="T"/>
+<ab type='juan' subtype='close'>佛說無上處經</ab>
+</body></text></TEI>

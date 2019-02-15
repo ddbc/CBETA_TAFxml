@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">馬鳴菩薩大神力無比驗法念誦軌儀</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1166</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0674c06" ed="T"/><lb
+ n="0674c07" ed="T"/><lb
+ n="0674c08" ed="T"/><lb
+ n="0674c09" ed="T"/>
+<ab type='juan' subtype='open'>馬鳴菩薩大神力無比驗法念誦<lb
+ n="0674c10" ed="T"/>軌儀</ab><lb
+ n="0674c11" ed="T"/><lb
+ n="0674c12" ed="T"/><byline>金剛智奉　詔譯</byline><lb
+ n="0674c13" ed="T"/><div type='jing' level='1'><ab type='prose'>曩日釋迦如來菩提樹下坐大眾集會中。時<lb
+ n="0674c14" ed="T"/>馬鳴菩薩前白佛言。欲說我莊嚴佛法。及為<lb
+ n="0674c15" ed="T"/>成像末貧窮下賤裸形眾生有情衣服。歷無<lb
+ n="0674c16" ed="T"/>數劫行菩薩行。所得大神呪有大威德。色力<lb
+ n="0674c17" ed="T"/>無比。能於世間行殊勝事。無能礙罣。時即佛<lb
+ n="0674c18" ed="T"/>微㗛告馬鳴菩薩言。善哉大丈夫。汝速可說<lb
+ n="0674c19" ed="T"/>可說。唯然世尊愍念我聽說。合掌歡喜從口<lb
+ n="0674c20" ed="T"/>中放大光明。說光中神呪曰。<lb
+ n="0674c21" ed="T"/></ab>
+<ab type='dharani'>曩謨三曼多沒他那迦迦馬鳴吃哩吒囉佉吒<lb
+ n="0674c22" ed="T"/>囉佉莎縛訶<lb
+ n="0674c23" ed="T"/></ab>
+<ab type='prose'>若欲受持此法。先從師盡財利布施供給。受<lb
+ n="0674c24" ed="T"/>習印契真言。則畫作菩薩像。色相白肉色而<lb
+ n="0674c25" ed="T"/>合掌坐白蓮華。乘白馬著白色衣。以瓔珞莊<lb
+ n="0674c26" ed="T"/>嚴身。首戴花冠垂右足。畫像了泥壇。始自三<lb
+ n="0674c27" ed="T"/>月三日。東面像向西。以種種廣大供具蘇乳<lb
+ n="0674c28" ed="T"/>蘇燈供養。二十八日乃至百日。須清淨潔淨。<lb
+ n="0674c29" ed="T"/>比丘及傳法利生之師恩不已失時。我常檀<pb n="0675a" id="T20.1166.0675a" ed="T"/><lb
+ n="0675a01" ed="T"/>那家及國土放大光明。成就錦繡羅綿財絹<lb
+ n="0675a02" ed="T"/>縺緻之類。金寶積如山岳。世間受用咨。<lb
+ n="0675a03" ed="T"/>若有一國一人。修行我本誓故。普天率土民<lb
+ n="0675a04" ed="T"/>家皆悉如前所說。財利莊嚴具成就。一人<lb
+ n="0675a05" ed="T"/>莫乏有患。我本願皆悉為莊嚴財寶。於若法<lb
+ n="0675a06" ed="T"/>至疑惑之心。發起不信之念。不成就一世之<lb
+ n="0675a07" ed="T"/>願故。後世之果不定。好好以堅固之情歸於<lb
+ n="0675a08" ed="T"/>法。非忌傳授之德。我必日日時時加護念。圓<lb
+ n="0675a09" ed="T"/>滿世間第一妙樂之財利。如向所說係念本<lb
+ n="0675a10" ed="T"/>誓。向寶壇前。作契印念誦。屈左中指無名指。<lb
+ n="0675a11" ed="T"/>以大母指押彼二指甲。舒頭指及小指安心<lb
+ n="0675a12" ed="T"/>上。右手把數珠念真言。此名玉環成就一切<lb
+ n="0675a13" ed="T"/>所願印。此契印末代愚學之妄不可記於文<lb
+ n="0675a14" ed="T"/>字。萬人中撰十人。十人之中撰一人。許可。<lb
+ n="0675a15" ed="T"/>
+</ab><ab type='juan' subtype='close'>成就蠶養儀軌</ab></div>
+</body></text></TEI>

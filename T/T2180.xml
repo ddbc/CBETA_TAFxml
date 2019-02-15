@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">法相宗章疏</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T55</biblScope>
+                    <idno type="Taisho">T55n2180</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="1138b05" ed="T"/><lb
+ n="1138b06" ed="T"/><lb
+ n="1138b07" ed="T"/><lb
+ n="1138b08" ed="T"/>
+<ab type='juan' subtype='open'>法相宗章疏</ab><lb
+ n="1138b09" ed="T"/><lb
+ n="1138b10" ed="T"/><byline>東大寺平祚大法師奉　聖王勅錄上</byline><lb
+ n="1138b11" ed="T"/>金剛般若會釋三卷<lb
+ n="1138b12" ed="T"/>金剛般若玄記十卷<lb
+ n="1138b13" ed="T"/>金剛般若疏二卷<lb
+ n="1138b14" ed="T"/>金剛般若宣演三卷<lb
+ n="1138b15" ed="T"/>金剛般若疏二卷<lb
+ n="1138b16" ed="T"/>金剛般若疏三卷<lb
+ n="1138b17" ed="T"/>能斷金剛般若述贊三卷<lb
+ n="1138b18" ed="T"/>能斷金剛般若疏二卷<lb
+ n="1138b19" ed="T"/>仁王般若疏三卷<lb
+ n="1138b20" ed="T"/>仁王般若疏二卷<lb
+ n="1138b21" ed="T"/>仁王般若疏二卷<lb
+ n="1138b22" ed="T"/>仁王般若疏三卷<lb
+ n="1138b23" ed="T"/>般若理趣分述贊三卷<lb
+ n="1138b24" ed="T"/>般若理趣分幽贊一卷<lb
+ n="1138b25" ed="T"/>般若心經幽贊一卷<lb
+ n="1138b26" ed="T"/>般若心經疏一卷<lb
+ n="1138b27" ed="T"/>般若心經疏一卷<lb
+ n="1138b28" ed="T"/>般若心經疏一卷<lb
+ n="1138b29" ed="T"/>涅槃疏十四卷<pb n="1138c" id="T55.2180.1138c" ed="T"/><lb
+ n="1138c01" ed="T"/>涅槃疏十卷<lb
+ n="1138c02" ed="T"/>涅槃義記五卷<lb
+ n="1138c03" ed="T"/>解深密疏十一卷<lb
+ n="1138c04" ed="T"/>解深密疏十卷<lb
+ n="1138c05" ed="T"/>解深密疏十卷<lb
+ n="1138c06" ed="T"/>解深密疏三卷<lb
+ n="1138c07" ed="T"/>法華玄贊十卷<lb
+ n="1138c08" ed="T"/>法華述贊十卷<lb
+ n="1138c09" ed="T"/>法華疏八卷<lb
+ n="1138c10" ed="T"/>法華疏七卷<lb
+ n="1138c11" ed="T"/>法華義決一卷<lb
+ n="1138c12" ed="T"/>法華攝釋四卷<lb
+ n="1138c13" ed="T"/>法華決擇記八卷<lb
+ n="1138c14" ed="T"/>法華弘贊十二卷<lb
+ n="1138c15" ed="T"/>最勝王經疏六卷<lb
+ n="1138c16" ed="T"/>最勝王經略贊十二卷<lb
+ n="1138c17" ed="T"/>最勝王經疏八卷<lb
+ n="1138c18" ed="T"/>勝鬘經疏一卷<lb
+ n="1138c19" ed="T"/>勝鬘經疏二卷<lb
+ n="1138c20" ed="T"/>十二門陀羅尼經疏一卷<lb
+ n="1138c21" ed="T"/>藥師經疏一卷<lb
+ n="1138c22" ed="T"/>十一面經疏一卷<lb
+ n="1138c23" ed="T"/>盂蘭盆經疏一卷<lb
+ n="1138c24" ed="T"/>彌勒上生經疏二卷<lb
+ n="1138c25" ed="T"/>彌勒上生經疏二卷<lb
+ n="1138c26" ed="T"/>彌勒成佛經疏一卷<lb
+ n="1138c27" ed="T"/>菩薩藏經疏十卷<lb
+ n="1138c28" ed="T"/>梵網經疏二卷<lb
+ n="1138c29" ed="T"/>梵網經疏二卷<pb n="1139a" id="T55.2180.1139a" ed="T"/><lb
+ n="1139a01" ed="T"/>梵網經古迹二卷<lb
+ n="1139a02" ed="T"/>六門陀羅尼經疏一卷<lb
+ n="1139a03" ed="T"/>無垢稱經疏六卷<lb
+ n="1139a04" ed="T"/>無垢稱疏經六卷<lb
+ n="1139a05" ed="T"/>無量義經疏三卷<lb
+ n="1139a06" ed="T"/>無量壽經疏三卷<lb
+ n="1139a07" ed="T"/>稱讚淨土經疏一卷<lb
+ n="1139a08" ed="T"/>西方要決一卷<lb
+ n="1139a09" ed="T"/>大乘十輪經鈔二卷<lb
+ n="1139a10" ed="T"/>楞伽經疏七卷<lb
+ n="1139a11" ed="T"/>尊勝陀羅尼經珠林一卷<lb
+ n="1139a12" ed="T"/>不增不減經疏一卷<lb
+ n="1139a13" ed="T"/>溫室經疏一卷<lb
+ n="1139a14" ed="T"/><ab type='prose'>已上大乘經疏。<lb
+ n="1139a15" ed="T"/>瑜伽論鈔十六卷<lb
+ n="1139a16" ed="T"/>瑜伽論疏二十五卷<lb
+ n="1139a17" ed="T"/>瑜伽論疏十三卷<lb
+ n="1139a18" ed="T"/>瑜伽論疏三十六卷<lb
+ n="1139a19" ed="T"/>瑜伽論中實四卷<lb
+ n="1139a20" ed="T"/>瑜伽論記二十四卷<lb
+ n="1139a21" ed="T"/>瑜伽論集十卷<lb
+ n="1139a22" ed="T"/>百法論玄贊一卷<lb
+ n="1139a23" ed="T"/>百法論疏一卷<lb
+ n="1139a24" ed="T"/>百法論疏一卷<lb
+ n="1139a25" ed="T"/>百法論疏十卷<lb
+ n="1139a26" ed="T"/>百法論鈔七卷<lb
+ n="1139a27" ed="T"/>五蘊論疏一卷<lb
+ n="1139a28" ed="T"/>顯揚論疏八卷<lb
+ n="1139a29" ed="T"/>顯揚疏十卷<pb n="1139b" id="T55.2180.1139b" ed="T"/><lb
+ n="1139b01" ed="T"/>攝大乘論鈔十卷<lb
+ n="1139b02" ed="T"/>攝大乘論疏十一卷<lb
+ n="1139b03" ed="T"/>攝大乘論疏十卷<lb
+ n="1139b04" ed="T"/>攝大乘論疏七卷<lb
+ n="1139b05" ed="T"/>攝大乘論疏七卷<lb
+ n="1139b06" ed="T"/>攝大乘論章五卷<lb
+ n="1139b07" ed="T"/>攝大乘論義決七卷<lb
+ n="1139b08" ed="T"/>對法論鈔七卷<lb
+ n="1139b09" ed="T"/>對法論疏十卷<lb
+ n="1139b10" ed="T"/>對法論疏十六卷<lb
+ n="1139b11" ed="T"/>辨中邊論疏三卷<lb
+ n="1139b12" ed="T"/>辨中邊論疏六卷<lb
+ n="1139b13" ed="T"/>辨中邊論疏三卷<lb
+ n="1139b14" ed="T"/>中邊分別論疏四卷<lb
+ n="1139b15" ed="T"/>二十唯識論疏二卷<lb
+ n="1139b16" ed="T"/>二十唯識論疏二卷<lb
+ n="1139b17" ed="T"/>唯識論疏十卷<lb
+ n="1139b18" ed="T"/>唯識樞要二卷<lb
+ n="1139b19" ed="T"/>唯識別鈔五卷<lb
+ n="1139b20" ed="T"/>唯識疏十卷<lb
+ n="1139b21" ed="T"/>唯識疏四卷<lb
+ n="1139b22" ed="T"/>唯識了義燈七卷<lb
+ n="1139b23" ed="T"/>唯識要集十三卷<lb
+ n="1139b24" ed="T"/>唯識要集十四卷<lb
+ n="1139b25" ed="T"/>唯識貶量二十卷<lb
+ n="1139b26" ed="T"/>唯識解節三卷<lb
+ n="1139b27" ed="T"/>唯識演祕七卷<lb
+ n="1139b28" ed="T"/>唯識義演十三卷<lb
+ n="1139b29" ed="T"/>唯識談微鈔二十卷<pb n="1139c" id="T55.2180.1139c" ed="T"/><lb
+ n="1139c01" ed="T"/>唯識未詳決二卷<lb
+ n="1139c02" ed="T"/>唯識羽足四卷<lb
+ n="1139c03" ed="T"/>唯識太鈔二十四卷<lb
+ n="1139c04" ed="T"/>唯識東鈔三卷<lb
+ n="1139c05" ed="T"/>唯識北鈔三卷<lb
+ n="1139c06" ed="T"/>難知鈔五卷<lb
+ n="1139c07" ed="T"/>唯識義蘊十卷<lb
+ n="1139c08" ed="T"/>大莊嚴論疏十卷<lb
+ n="1139c09" ed="T"/>觀所緣緣論疏二卷<lb
+ n="1139c10" ed="T"/>觀所緣緣論疏一卷<lb
+ n="1139c11" ed="T"/>觀所緣緣論疏一卷<lb
+ n="1139c12" ed="T"/>觀所緣緣論疏一卷<lb
+ n="1139c13" ed="T"/>宗輪論疏一卷<lb
+ n="1139c14" ed="T"/>佛地論疏六卷<lb
+ n="1139c15" ed="T"/>佛地論疏四卷<lb
+ n="1139c16" ed="T"/>佛性論疏四卷<lb
+ n="1139c17" ed="T"/>廣百論鈔十卷<lb
+ n="1139c18" ed="T"/>掌珍論疏二卷<lb
+ n="1139c19" ed="T"/>掌珍論疏二卷<lb
+ n="1139c20" ed="T"/>掌珍論疏二卷<lb
+ n="1139c21" ed="T"/>已上大乘論疏。<lb
+ n="1139c22" ed="T"/>俱舍論疏十五卷<lb
+ n="1139c23" ed="T"/>俱舍論疏二十卷<lb
+ n="1139c24" ed="T"/>俱舍論頌釋六卷<lb
+ n="1139c25" ed="T"/>婆沙論記十卷<pb n="1140a" id="T55.2180.1140a" ed="T"/><lb
+ n="1140a01" ed="T"/>婆沙論疏十四卷<lb
+ n="1140a02" ed="T"/>順正理論疏二十四卷<lb
+ n="1140a03" ed="T"/>天親菩薩傳一卷<lb
+ n="1140a04" ed="T"/>大唐西域記十二卷<lb
+ n="1140a05" ed="T"/>大唐大慈恩寺三藏傳十卷<lb
+ n="1140a06" ed="T"/>慧日論四卷<lb
+ n="1140a07" ed="T"/>法苑旨趣一卷<lb
+ n="1140a08" ed="T"/>法苑決擇記二卷<lb
+ n="1140a09" ed="T"/>樞要記四卷<lb
+ n="1140a10" ed="T"/>了義燈記一卷<lb
+ n="1140a11" ed="T"/>種性差別集三卷<lb
+ n="1140a12" ed="T"/>大乘法苑林章七卷<lb
+ n="1140a13" ed="T"/>二十七賢章一卷<lb
+ n="1140a14" ed="T"/>勝論十句義章一卷<lb
+ n="1140a15" ed="T"/>大乘義林章十二卷<lb
+ n="1140a16" ed="T"/>六十二見章一卷<lb
+ n="1140a17" ed="T"/>入道章一卷<lb
+ n="1140a18" ed="T"/>十因四緣五因章一卷<lb
+ n="1140a19" ed="T"/>道品章一卷<lb
+ n="1140a20" ed="T"/>大乘四善根章一卷<lb
+ n="1140a21" ed="T"/>圓弘師章四卷<lb
+ n="1140a22" ed="T"/>宗法師章四卷<lb
+ n="1140a23" ed="T"/>二障章一卷<lb
+ n="1140a24" ed="T"/>三障章一卷<lb
+ n="1140a25" ed="T"/>中有章一卷<lb
+ n="1140a26" ed="T"/>見道章一卷<lb
+ n="1140a27" ed="T"/>大乘五法章一卷<lb
+ n="1140a28" ed="T"/>雜設難章一卷<pb n="1140b" id="T55.2180.1140b" ed="T"/><lb
+ n="1140b01" ed="T"/>末那四惑章一卷<lb
+ n="1140b02" ed="T"/>補闕章三卷<lb
+ n="1140b03" ed="T"/>菩薩地十法章一卷<lb
+ n="1140b04" ed="T"/>六現觀章一卷<lb
+ n="1140b05" ed="T"/>已上大唐祖師所造。<lb
+ n="1140b06" ed="T"/>研神章五卷<lb
+ n="1140b07" ed="T"/>法苑林章記三卷<lb
+ n="1140b08" ed="T"/>分量決一卷<lb
+ n="1140b09" ed="T"/>明燈鈔十二卷<lb
+ n="1140b10" ed="T"/>法苑林章記一卷<lb
+ n="1140b11" ed="T"/>了義燈記一卷<lb
+ n="1140b12" ed="T"/>了義燈記一卷<lb
+ n="1140b13" ed="T"/>法苑林章記一卷</ab></div>
+</body></text></TEI>

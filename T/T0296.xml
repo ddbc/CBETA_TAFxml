@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">文殊師利發願經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T10</biblScope>
+                    <idno type="Taisho">T10n0296</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0878c19" ed="T"/><lb
+ n="0878c20" ed="T"/><lb
+ n="0878c21" ed="T"/><lb
+ n="0878c22" ed="T"/>
+<ab type='juan' subtype='open'>文殊師利發願經</ab><lb
+ n="0878c23" ed="T"/><lb
+ n="0878c24" ed="T"/><byline>東晉天竺三藏佛陀跋陀羅譯</byline><lb
+ n="0878c25" ed="T"/><div type='jing' level='1'><ab type='verse'>
+身口意清淨，　　除滅諸垢穢，　　<lb
+ n="0878c26" ed="T"/>一心恭敬禮，　　十方三世佛。　　<lb
+ n="0878c27" ed="T"/>普賢願力故，　　悉覩見諸佛，　　<lb
+ n="0878c28" ed="T"/>一一如來所，　　一切剎塵禮。　　<lb
+ n="0878c29" ed="T"/>於一微塵中，　　見一切諸佛，　　<pb n="0879a" ed="T" id="T10.0296.0879a"/><lb
+ n="0879a01" ed="T"/>菩薩眾圍繞，　　法界塵亦然。　　<lb
+ n="0879a02" ed="T"/>以眾妙音聲，　　宣揚諸最勝，　　<lb
+ n="0879a03" ed="T"/>無量功德海，　　不可得窮盡。　　<lb
+ n="0879a04" ed="T"/>以普賢行力，　　無上眾供具，　　<lb
+ n="0879a05" ed="T"/>供養於十方，　　三世一切佛。　　<lb
+ n="0879a06" ed="T"/>以妙香花鬘，　　種種諸伎樂，　　<lb
+ n="0879a07" ed="T"/>一切妙莊嚴，　　普供養諸佛。　　<lb
+ n="0879a08" ed="T"/>我以貪恚癡，　　造一切惡行，　　<lb
+ n="0879a09" ed="T"/>身口意不善，　　悔過悉除滅。　　<lb
+ n="0879a10" ed="T"/>一切眾生福，　　諸聲聞緣覺，　　<lb
+ n="0879a11" ed="T"/>菩薩及諸佛，　　功德悉隨喜。　　<lb
+ n="0879a12" ed="T"/>十方一切佛，　　初成等正覺，　　<lb
+ n="0879a13" ed="T"/>我令悉勸請，　　轉無上法輪。　　<lb
+ n="0879a14" ed="T"/>示現涅槃者，　　合掌恭敬請，　　<lb
+ n="0879a15" ed="T"/>住一切塵劫，　　安樂諸群生。　　<lb
+ n="0879a16" ed="T"/>我所集功德，　　迴向施眾生，　　<lb
+ n="0879a17" ed="T"/>究竟菩薩行，　　逮無上菩提。　　<lb
+ n="0879a18" ed="T"/>悉供養過去，　　現在十方佛，　　<lb
+ n="0879a19" ed="T"/>願未來世尊，　　速成菩提道。　　<lb
+ n="0879a20" ed="T"/>普莊嚴十方，　　一切諸佛剎，　　<lb
+ n="0879a21" ed="T"/>如來坐道場，　　菩薩眾充滿。　　<lb
+ n="0879a22" ed="T"/>令十方眾生，　　除滅諸煩惱，　　<lb
+ n="0879a23" ed="T"/>深解真實義，　　常得安樂住。　　<lb
+ n="0879a24" ed="T"/>我修菩薩行，　　成就宿命智，　　<lb
+ n="0879a25" ed="T"/>除滅一切障，　　永盡無有餘。　　<lb
+ n="0879a26" ed="T"/>悉遠離生死，　　諸魔煩惱業，　　<lb
+ n="0879a27" ed="T"/>猶日處虛空，　　蓮花不著水。　　<lb
+ n="0879a28" ed="T"/>遍行遊十方，　　教化諸群生，　　<lb
+ n="0879a29" ed="T"/>除滅惡道苦，　　具足菩薩行。　　<pb n="0879b" ed="T" id="T10.0296.0879b"/><lb
+ n="0879b01" ed="T"/>雖隨順世間，　　不捨菩薩道，　　<lb
+ n="0879b02" ed="T"/>盡未來際劫，　　具修普賢行。　　<lb
+ n="0879b03" ed="T"/>若有同行者，　　願常集一處，　　<lb
+ n="0879b04" ed="T"/>身口意善業，　　皆悉令同等。　　<lb
+ n="0879b05" ed="T"/>若遇善知識，　　開示普賢行，　　<lb
+ n="0879b06" ed="T"/>於此菩薩所，　　親近常不離。　　<lb
+ n="0879b07" ed="T"/>常見一切佛，　　菩薩眾圍繞，　　<lb
+ n="0879b08" ed="T"/>盡未來際劫，　　悉恭敬供養。　　<lb
+ n="0879b09" ed="T"/>守護諸佛法，　　讚歎菩薩行，　　<lb
+ n="0879b10" ed="T"/>盡未來劫修，　　究竟普賢道。　　<lb
+ n="0879b11" ed="T"/>雖在生死中，　　具無盡功德，　　<lb
+ n="0879b12" ed="T"/>智慧巧方便，　　諸三昧解脫。　　<lb
+ n="0879b13" ed="T"/>一一微塵中，　　見不思議剎，　　<lb
+ n="0879b14" ed="T"/>於一一剎中，　　見不思議佛。　　<lb
+ n="0879b15" ed="T"/>見如是十方，　　一切世界海，　　<lb
+ n="0879b16" ed="T"/>一一世界海，　　悉見諸佛海。　　<lb
+ n="0879b17" ed="T"/>於一言音中，　　具一切妙音，　　<lb
+ n="0879b18" ed="T"/>一一妙音中，　　具足最勝音。　　<lb
+ n="0879b19" ed="T"/>甚深智慧力，　　入無盡妙音，　　<lb
+ n="0879b20" ed="T"/>轉三世諸佛，　　清淨正法輪。　　<lb
+ n="0879b21" ed="T"/>一切未來劫，　　悉能作一念，　　<lb
+ n="0879b22" ed="T"/>三世一切劫，　　悉為一念際。　　<lb
+ n="0879b23" ed="T"/>一念中悉見，　　三世諸如來，　　<lb
+ n="0879b24" ed="T"/>亦普分別知，　　解脫及境界。　　<lb
+ n="0879b25" ed="T"/>於一微塵中，　　出三世淨剎，　　<lb
+ n="0879b26" ed="T"/>一切十方塵，　　莊嚴剎亦然。　　<lb
+ n="0879b27" ed="T"/>悉見未來佛，　　成道轉法輪，　　<lb
+ n="0879b28" ed="T"/>究竟佛事已，　　示現入涅槃。　　<lb
+ n="0879b29" ed="T"/>神力遍遊行，　　大乘力普門，　　<pb n="0879c" ed="T" id="T10.0296.0879c"/><lb
+ n="0879c01" ed="T"/>慈力覆一切，　　行力功德滿。　　<lb
+ n="0879c02" ed="T"/>功德力清淨，　　智慧力無礙，　　<lb
+ n="0879c03" ed="T"/>三昧方便力，　　逮得菩提力。　　<lb
+ n="0879c04" ed="T"/>清淨善業力，　　除滅煩惱力，　　<lb
+ n="0879c05" ed="T"/>壞散諸魔力，　　具普賢行力。　　<lb
+ n="0879c06" ed="T"/>嚴淨佛剎海，　　度脫眾生海，　　<lb
+ n="0879c07" ed="T"/>分別諸業海，　　窮盡智慧海。　　<lb
+ n="0879c08" ed="T"/>清淨諸行海，　　滿足諸願海，　　<lb
+ n="0879c09" ed="T"/>悉見諸佛海，　　我於劫海行。　　<lb
+ n="0879c10" ed="T"/>三世諸佛行，　　及無量大願，　　<lb
+ n="0879c11" ed="T"/>我皆悉具足，　　普賢行成佛。　　<lb
+ n="0879c12" ed="T"/>普賢菩薩名，　　諸佛第一子，　　<lb
+ n="0879c13" ed="T"/>我善根迴向，　　願悉與彼同。　　<lb
+ n="0879c14" ed="T"/>身口意清淨，　　自在莊嚴剎，　　<lb
+ n="0879c15" ed="T"/>逮成等正覺，　　皆悉同普賢。　　<lb
+ n="0879c16" ed="T"/>如文殊師利，　　普賢菩薩行，　　<lb
+ n="0879c17" ed="T"/>我所有善根，　　迴向亦如是。　　<lb
+ n="0879c18" ed="T"/>三世諸如來，　　所歎迴向道，　　<lb
+ n="0879c19" ed="T"/>我迴向善根，　　成滿普賢行。　　<lb
+ n="0879c20" ed="T"/>願我命終時，　　除滅諸障礙，　　<lb
+ n="0879c21" ed="T"/>面見阿彌陀，　　往生安樂國。　　<lb
+ n="0879c22" ed="T"/>生彼佛國已，　　成滿諸大願，　　<lb
+ n="0879c23" ed="T"/>阿彌陀如來，　　現前授我記。　　<lb
+ n="0879c24" ed="T"/>嚴淨普賢行，　　滿足文殊願，　　<lb
+ n="0879c25" ed="T"/>盡未來際劫，　　究竟菩薩行。　　
+</ab></div><lb
+ n="0879c26" ed="T"/>
+<ab type='juan' subtype='close'>文殊師利發願經</ab>
+</body></text></TEI>

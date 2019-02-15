@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">沙彌羅經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0750</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0572b15" ed="T"/><lb
+ n="0572b16" ed="T"/><lb
+ n="0572b17" ed="T"/><lb
+ n="0572b18" ed="T"/>
+<ab type='juan' subtype='open'>沙彌羅經</ab><lb
+ n="0572b19" ed="T"/><lb
+ n="0572b20" ed="T"/><byline>失譯附三秦錄</byline><lb
+ n="0572b21" ed="T"/><div type='jing' level='1'><ab type='prose'>昔有小兒，名曰沙彌羅。年始七歲，意好道德，<lb
+ n="0572b22" ed="T"/>隨一沙門，為作弟子。處在山中，給師所使；誦<lb
+ n="0572b23" ed="T"/>念經法，心不懈怠。至年八歲，得阿羅漢。道眼<lb
+ n="0572b24" ed="T"/>能洞視，所見無極；耳能徹聽，天上、天下所為<lb
+ n="0572b25" ed="T"/>善惡，皆悉聞之；身能飛行，在能至到。能分<lb
+ n="0572b26" ed="T"/>一身，變作萬身；自在現化，無所不作。自知宿<lb
+ n="0572b27" ed="T"/>命，所從來生，及諸人物、蚑行蠕動皆悉知之。<lb
+ n="0572b28" ed="T"/>坐見宿命，為五母作子，時便自笑。時師顧問，<lb
+ n="0572b29" ed="T"/>語沙彌羅：「汝笑何等？此間山中亦無歌舞，汝<pb n="0572c" ed="T" id="T17.0750.0572c"/><lb
+ n="0572c01" ed="T"/>笑我耶？」沙彌羅言：「不敢笑師，我還自笑！一神<lb
+ n="0572c02" ed="T"/>受身，為五母作子，五母為我晝夜啼哭，感傷<lb
+ n="0572c03" ed="T"/>愁毒，不能自止，恒言念子，未曾忽忘。自念<lb
+ n="0572c04" ed="T"/>一身，而愁五家，是以自笑，不敢笑師。「我為第<lb
+ n="0572c05" ed="T"/>一母作子時，有並隣居，亦生一子，與我同日。<lb
+ n="0572c06" ed="T"/>我死以後，同日子出入行步。母見之，便言：<lb
+ n="0572c07" ed="T"/>『悲念我子在家，亦當出入行步如是！』感傷悲<lb
+ n="0572c08" ed="T"/>哀，淚下如雨。「我為第二母作子時，我夭命早<lb
+ n="0572c09" ed="T"/>死。我母見人乳兒，便念乳我，悲念感傷。「我為<lb
+ n="0572c10" ed="T"/>第三母作子時，年始十歲，我命復死。我母<lb
+ n="0572c11" ed="T"/>飯時，便悲淚出：『我子在者，當與俱食；捨我死<lb
+ n="0572c12" ed="T"/>去，使我獨食？』哽咽呼天，怨言念子。「我為第<lb
+ n="0572c13" ed="T"/>四母作子時，薄命先死。我母見我等輩，同時<lb
+ n="0572c14" ed="T"/>因媒娶婦，悲念我言：『今子在者，亦當娶婦！我<lb
+ n="0572c15" ed="T"/>何所犯，而殺我子？』「我為第五母作子時，年始<lb
+ n="0572c16" ed="T"/>七歲，好道辭家；捨母隨師，入山求道；一心思<lb
+ n="0572c17" ed="T"/>禪，得阿羅漢道。我母日日啼哭、念我：『我生一<lb
+ n="0572c18" ed="T"/>子，隨師學道，不知所在？飢渴寒暑，今為死、<lb
+ n="0572c19" ed="T"/>生？』「於是五母共會一處，各各悲哀，言念我子，<lb
+ n="0572c20" ed="T"/>相對啼哭，不能自止。我一魂神，展轉五母腹<lb
+ n="0572c21" ed="T"/>中作子，依因二親，受形成人，而使五母啼哭<lb
+ n="0572c22" ed="T"/>發狂，各念我身，乃欲自殺，是故笑耳！「我念世<lb
+ n="0572c23" ed="T"/>間，欲網因緣、生死罪福，造行根源——惡入地<lb
+ n="0572c24" ed="T"/>獄，善行生天。我畏世苦，辭家入山；精進禪<lb
+ n="0572c25" ed="T"/>定，得道昇仙。覩見餓鬼、地獄、畜生苦痛之處，<lb
+ n="0572c26" ed="T"/>代為恐怖，憐傷五母，不能自脫，又憂我身。我<lb
+ n="0572c27" ed="T"/>所求索，願行如言，永離生死，斷絕身根，如人<lb
+ n="0572c28" ed="T"/>不種，當所泥洹。」善會師說已，飛騰虛空。</ab></div><lb
+ n="0572c29" ed="T"/>
+<ab type='juan' subtype='close'>沙彌羅經</ab>
+</body></text></TEI>

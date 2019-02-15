@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">法海經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T01</biblScope>
+                    <idno type="Taisho">T01n0034</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0818a05" ed="T"/><lb
+ n="0818a06" ed="T"/><lb
+ n="0818a07" ed="T"/><div type='jing' level='1'><lb
+ n="0818a08" ed="T"/>
+<ab type='juan' subtype='open'>法海經</ab><lb
+ n="0818a09" ed="T"/><lb
+ n="0818a10" ed="T"/><byline>西晉沙門法炬譯</byline><lb
+ n="0818a11" ed="T"/><ab type='prose'>聞如是：一時，佛遊瞻波國，漢呿利池上，與大<lb
+ n="0818a12" ed="T"/>比丘眾俱。月十五日，時應說戒。佛坐，集已久，<lb
+ n="0818a13" ed="T"/>而如來默然，不說戒。侍者阿難，更整衣服，跪<lb
+ n="0818a14" ed="T"/>而白佛：「初夜向竟，中夜將至，大眾集久，世尊<lb
+ n="0818a15" ed="T"/>將無疲倦，願以時說戒。」佛猶默然。眾坐既久，<lb
+ n="0818a16" ed="T"/>時有比丘，名曰阿若都盧，更整衣服，長跪白<lb
+ n="0818a17" ed="T"/>佛：「初夜中夜已過，雞將向鳴，世尊得無疲倦，<lb
+ n="0818a18" ed="T"/>眾僧集久，願佛說戒。」世尊復默然。又復白言：<lb
+ n="0818a19" ed="T"/>「明星已出，時將過矣。」佛言：「比丘！且聽，眾僧之<lb
+ n="0818a20" ed="T"/>中有不淨者，故吾不得說戒耳。」<lb
+ n="0818a21" ed="T"/>賢者大目揵連心念：「吾當定意觀之，誰不淨<lb
+ n="0818a22" ed="T"/>者？」目連白佛：「我欲定意觀誰不淨者，不淨者<lb
+ n="0818a23" ed="T"/>命令出眾。」世尊告曰：「卿欲定意觀不淨者令<lb
+ n="0818a24" ed="T"/>其出眾，此言大善，便可觀之。」目連即定意觀<lb
+ n="0818a25" ed="T"/>之，見其弟子犯于重戒。目連從定意起，至犯<lb
+ n="0818a26" ed="T"/>戒比丘前，而數之曰：「汝為沙門，奉戒為本，戒<lb
+ n="0818a27" ed="T"/>猶人之頭首；沙門戒行，宜令清白，如水如<lb
+ n="0818a28" ed="T"/>玉。此如來之座，賢聖之會，度世者之聚，清淨<lb
+ n="0818a29" ed="T"/>道德者之所集處，此座猶如栴檀之林，卿以<pb n="0818b" ed="T" id="T01.0034.0818b"/><lb
+ n="0818b01" ed="T"/>伊蘭臭穢，亂于真正。」目連手自引其弟子出。<lb
+ n="0818b02" ed="T"/>「卿是棄捐之人，不得預如來大眾之清淨集<lb
+ n="0818b03" ed="T"/>也。無以穢濁廁預大僧大集，大海不受穢<lb
+ n="0818b04" ed="T"/>屍，卿自思之，無穢賢眾。」穢人既出，目連白<lb
+ n="0818b05" ed="T"/>曰：「穢濁之人，即以棄遠，眾已清淨，唯願世<lb
+ n="0818b06" ed="T"/>尊，以時說戒。」世尊猶復默然。目連怪之，四向<lb
+ n="0818b07" ed="T"/>觀察，見座上，向比丘已復在座，目連重勅之<lb
+ n="0818b08" ed="T"/>曰：「卿為棄人，何為不自引罪穢，重坐此座為？」<lb
+ n="0818b09" ed="T"/>目連重遣之，乃出座去。目連復白：「世尊！穢<lb
+ n="0818b10" ed="T"/>人已出，大眾已淨，無復穢惡，唯願世尊，以<lb
+ n="0818b11" ed="T"/>時說戒，令眾僧得修淨業。」<lb
+ n="0818b12" ed="T"/>佛告目連：「吾自今後，不復說戒，汝等可自共<lb
+ n="0818b13" ed="T"/>說戒，若我說戒。人於眾中犯戒，默然不自引<lb
+ n="0818b14" ed="T"/>罪，而預如來座者，此為默然妄語。默然妄語，<lb
+ n="0818b15" ed="T"/>頭破七分。如來於大眾說戒，甚為不易，自今<lb
+ n="0818b16" ed="T"/>以後，汝自說戒。」目連白佛：「弟子聞道，如來先<lb
+ n="0818b17" ed="T"/>化之，為非弟子自悟而成道也。如來聖德，厚<lb
+ n="0818b18" ed="T"/>重天地，言真而要，弟子誦習，得成道果。如來<lb
+ n="0818b19" ed="T"/>猶天雨，百穀草木，無不仰榮；弟子德淺道小，<lb
+ n="0818b20" ed="T"/>人不服信。世尊哀愍聾俗，使一切獲安，得信<lb
+ n="0818b21" ed="T"/>得正，以濟其志。」目連慇懃苦請至三四五。世<lb
+ n="0818b22" ed="T"/>尊告目連曰：「汝為一切，請求如來，慇懃乃至四<lb
+ n="0818b23" ed="T"/>五，吾今當為汝等說之。吾僧法，猶如大海，有<lb
+ n="0818b24" ed="T"/>八德，汝等聽之。大海之水，無滿不滿；吾法如<lb
+ n="0818b25" ed="T"/>之，無滿不滿，此第一之德。大海潮水，尋以時<lb
+ n="0818b26" ed="T"/>而來，不失常處；吾四部眾，受吾戒者，不犯禁<lb
+ n="0818b27" ed="T"/>戒違失常法，此第二之德。大海之水，唯有<lb
+ n="0818b28" ed="T"/>一味，無若干味，無不以鹹為味；吾法如是，禪<lb
+ n="0818b29" ed="T"/>定之味，志求寂定，致神通故，四諦之味，志求<pb n="0818c" ed="T" id="T01.0034.0818c"/><lb
+ n="0818c01" ed="T"/>四道，解結縛故，大乘之味，志求大願，度人民<lb
+ n="0818c02" ed="T"/>故，此第三之德。大海既深而廣，無能限者；僧<lb
+ n="0818c03" ed="T"/>法如是，無不深妙，八方之大，莫大於僧法，僧<lb
+ n="0818c04" ed="T"/>法最為弘大，此第四之德。大海之中，金銀琉<lb
+ n="0818c05" ed="T"/>璃、水精珊瑚、車𤦲馬瑙、摩尼之妙，無不備有；<lb
+ n="0818c06" ed="T"/>吾僧法之中，三十七品道寶之妙，神足住壽，<lb
+ n="0818c07" ed="T"/>飛騰十方，靡所不適，瞬息之間，周旋無量<lb
+ n="0818c08" ed="T"/>佛界，到殊勝之剎，能以其道，化導群生，淨己<lb
+ n="0818c09" ed="T"/>佛土，此第五之德。大海之中，神龍所居，沙<lb
+ n="0818c10" ed="T"/>竭龍王，阿耨達、難頭、和羅摩那、私伊羅末，如<lb
+ n="0818c11" ed="T"/>此諸龍，妙德難量，能造天宮，品物之類，無不<lb
+ n="0818c12" ed="T"/>仰之；吾僧法亦復如是，四雙八輩之士，十二<lb
+ n="0818c13" ed="T"/>賢者，菩薩大士，教化之功，彌茂彌美，此第六<lb
+ n="0818c14" ed="T"/>之德。大海吞受百川萬流，江恒之水，無不受<lb
+ n="0818c15" ed="T"/>之，終日終夜，無盈溢滅盡之名；吾僧法之<lb
+ n="0818c16" ed="T"/>中亦如是，梵釋之種，來入僧法，四姓族望，<lb
+ n="0818c17" ed="T"/>或釋或梵，王者之種，捨世豪尊，來入正化，或<lb
+ n="0818c18" ed="T"/>工師小姓，亦入正化，種族雖殊，至於服習大<lb
+ n="0818c19" ed="T"/>道，同為一味，無非釋子，此第七之德。大海清<lb
+ n="0818c20" ed="T"/>淨，不受死屍，無諸穢濁，唯海之類而受之<lb
+ n="0818c21" ed="T"/>耳；吾僧法清淨，亦如大海，不受穢惡，犯戒違<lb
+ n="0818c22" ed="T"/>禁，非清淨梵行者，一不得受，棄之遠之，猶海<lb
+ n="0818c23" ed="T"/>不受死屍，此第八之德。」<lb
+ n="0818c24" ed="T"/>佛告目連：「如來大眾唯清淨，為禁戒業不<lb
+ n="0818c25" ed="T"/>純非釋種子，故吾不說戒耳。卿等善相勅戒，<lb
+ n="0818c26" ed="T"/>無令正法有毀。」佛說如是，諸比丘歡喜奉行。<lb
+ n="0818c27" ed="T"/>
+</ab><ab type='juan' subtype='close'>法海經</ab></div>
+</body></text></TEI>

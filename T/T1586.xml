@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">唯識三十論頌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T31</biblScope>
+                    <idno type="Taisho">T31n1586</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0060a13" ed="T"/><lb
+ n="0060a14" ed="T"/><lb
+ n="0060a15" ed="T"/><lb
+ n="0060a16" ed="T"/>
+<ab type='juan' subtype='open'>唯識三十論頌</ab><lb
+ n="0060a17" ed="T"/><lb
+ n="0060a18" ed="T"/><byline>世親菩薩造</byline><lb
+ n="0060a19" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
+ n="0060a20" ed="T"/><div type='jing' level='1'><ab type='prose'>護法等菩薩約此三十頌造《成唯識》，今略標<lb
+ n="0060a21" ed="T"/>所以。謂此三十頌中，初二十四行頌明唯識<lb
+ n="0060a22" ed="T"/>相；次一行頌明唯識性；後五行頌明唯識行<lb
+ n="0060a23" ed="T"/>位。就二十四行頌中，初一行半略辯唯識相；<lb
+ n="0060a24" ed="T"/>次二十二行半廣辯唯識相。謂外問言：「若唯<lb
+ n="0060a25" ed="T"/>有識，云何世間及諸聖教說有我法？」舉頌詶<lb
+ n="0060a26" ed="T"/>答，頌曰：<lb
+ n="0060a27" ed="T"/></ab>
+<ab type='verse'>
+<head>「１</head>由假說我法，　　有種種相轉。　　<lb
+ n="0060a28" ed="T"/>彼依識所變，　　此能變唯三：　　
+</ab><lb
+ n="0060a29" ed="T"/><ab type='verse'>
+<head>２</head>謂異熟、思量，　　及了別境識。」　　
+</ab><pb n="0060b" id="T31.1586.0060b" ed="T"/><lb
+ n="0060b01" ed="T"/><ab type='prose'>次二十二行半廣辯唯識相者，由前頌文略<lb
+ n="0060b02" ed="T"/>標三能變，今廣明三變相。且初能變其相云<lb
+ n="0060b03" ed="T"/>何？頌曰：<lb
+ n="0060b04" ed="T"/></ab>
+<ab type='verse'>
+「　初阿賴耶識，　　異熟一切種，　　
+</ab><lb
+ n="0060b05" ed="T"/><ab type='verse'>
+<head>３</head>不可知執受，　　處了常與觸、　　<lb
+ n="0060b06" ed="T"/>作意、受、想、思，　　相應唯捨受。　　
+</ab><lb
+ n="0060b07" ed="T"/><ab type='verse'>
+<head>４</head>是無覆無記，　　觸等亦如是，　　<lb
+ n="0060b08" ed="T"/>恒轉如瀑流，　　阿羅漢位捨。」　　
+</ab><lb
+ n="0060b09" ed="T"/><ab type='prose'>已說初能變，第二能變其相云何？頌曰：<lb
+ n="0060b10" ed="T"/></ab>
+<ab type='verse'>
+<head>「５</head>次第二能變，　　是識名末那，　　<lb
+ n="0060b11" ed="T"/>依彼轉緣彼，　　思量為性相。　　
+</ab><lb
+ n="0060b12" ed="T"/><ab type='verse'>
+<head>６</head>四煩惱常俱，　　謂我癡、我見、　　<lb
+ n="0060b13" ed="T"/>并我慢、我愛，　　及餘觸等俱。　　
+</ab><lb
+ n="0060b14" ed="T"/><ab type='verse'>
+<head>７</head>有覆無記攝，　　隨所生所繫，　　<lb
+ n="0060b15" ed="T"/>阿羅漢滅定，　　出世道無有。」　　
+</ab><lb
+ n="0060b16" ed="T"/><ab type='prose'>如是已說第二能變，第三能變其相云何？頌<lb
+ n="0060b17" ed="T"/>曰：<lb
+ n="0060b18" ed="T"/></ab>
+<ab type='verse'>
+<head>「８</head>次第三能變，　　差別有六種，　　<lb
+ n="0060b19" ed="T"/>了境為性相，　　善不善俱非。　　
+</ab><lb
+ n="0060b20" ed="T"/><ab type='verse'>
+<head>９</head>此心所遍行、　　別境、善、煩惱、　　<lb
+ n="0060b21" ed="T"/>隨煩惱、不定，　　皆三受相應。　　
+</ab><lb
+ n="0060b22" ed="T"/><ab type='verse'>
+<head>１０</head>初遍行觸等，　　次別境謂欲、　　<lb
+ n="0060b23" ed="T"/>勝解、念、定、慧，　　所緣事不同。　　
+</ab><lb
+ n="0060b24" ed="T"/><ab type='verse'>
+<head>１１</head>善謂信、慚、愧、　　無貪等三根，　　<lb
+ n="0060b25" ed="T"/>勤、安、不放逸、　　行捨及不害。　　
+</ab><lb
+ n="0060b26" ed="T"/><ab type='verse'>
+<head>１２</head>煩惱謂貪、瞋、　　癡、慢、疑、惡見。　　<lb
+ n="0060b27" ed="T"/>隨煩惱謂忿、　　恨、覆、惱、嫉、慳、　　
+</ab><lb
+ n="0060b28" ed="T"/><ab type='verse'>
+<head>１３</head>誑、諂與害、憍、　　無慚及無愧、　　<lb
+ n="0060b29" ed="T"/>掉舉與惛沈、　　不信并懈怠、　　
+</ab><pb n="0060c" id="T31.1586.0060c" ed="T"/><lb
+ n="0060c01" ed="T"/><ab type='verse'>
+<head>１４</head>放逸及失念、　　散亂、不正知。　　<lb
+ n="0060c02" ed="T"/>不定謂悔、眠，　　尋、伺二各二。」　　
+</ab><lb
+ n="0060c03" ed="T"/><ab type='prose'>已說六識心所相應，云何應知現起分位？頌<lb
+ n="0060c04" ed="T"/>曰：<lb
+ n="0060c05" ed="T"/></ab>
+<ab type='verse'>
+<head>「１５</head>依止根本識，　　五識隨緣現，　　<lb
+ n="0060c06" ed="T"/>或俱或不俱，　　如濤波依水。　　
+</ab><lb
+ n="0060c07" ed="T"/><ab type='verse'>
+<head>１６</head>意識常現起，　　除生無想天，　　<lb
+ n="0060c08" ed="T"/>及無心二定，　　睡眠與悶絕。」　　
+</ab><lb
+ n="0060c09" ed="T"/><ab type='prose'>已廣分別三能變相為自所變二分所依，云<lb
+ n="0060c10" ed="T"/>何應知依識所變假說我、法非別實有，由斯<pb n="0061a" id="T31.1586.0061a" ed="T"/><lb
+ n="0061a01" ed="T"/>一切唯有識耶？頌曰：<lb
+ n="0061a02" ed="T"/></ab>
+<ab type='verse'>
+<head>「１７</head>是諸識轉變，　　分別、所分別，　　<lb
+ n="0061a03" ed="T"/>由此彼皆無，　　故一切唯識。」　　
+</ab><lb
+ n="0061a04" ed="T"/><ab type='prose'>若唯有識，都無外緣，由何而生種種分別？頌<lb
+ n="0061a05" ed="T"/>曰：<lb
+ n="0061a06" ed="T"/></ab>
+<ab type='verse'>
+<head>「１８</head>由一切種識，　　如是如是變，　　<lb
+ n="0061a07" ed="T"/>以展轉力故，　　彼彼分別生。」　　
+</ab><lb
+ n="0061a08" ed="T"/><ab type='prose'>雖有內識而無外緣，由何有情生死相續？頌<lb
+ n="0061a09" ed="T"/>曰：<lb
+ n="0061a10" ed="T"/></ab>
+<ab type='verse'>
+<head>「１９</head>由諸業習氣、　　二取習氣俱，　　<lb
+ n="0061a11" ed="T"/>前異熟既盡，　　復生餘異熟。」　　
+</ab><lb
+ n="0061a12" ed="T"/><ab type='prose'>若唯有識，何故世尊處處經中說有三性？應<lb
+ n="0061a13" ed="T"/>知三性亦不離識，所以者何？頌曰：<lb
+ n="0061a14" ed="T"/></ab>
+<ab type='verse'>
+<head>「２０</head>由彼彼遍計，　　遍計種種物，　　<lb
+ n="0061a15" ed="T"/>此遍計所執，　　自性無所有。　　
+</ab><lb
+ n="0061a16" ed="T"/><ab type='verse'>
+<head>２１</head>依他起自性，　　分別緣所生。　　<lb
+ n="0061a17" ed="T"/>圓成實於彼，　　常遠離前性。　　
+</ab><lb
+ n="0061a18" ed="T"/><ab type='verse'>
+<head>２２</head>故此與依他，　　非異非不異，　　<lb
+ n="0061a19" ed="T"/>如無常等性，　　非不見此彼。」　　
+</ab><lb
+ n="0061a20" ed="T"/><ab type='prose'>若有三性，如何世尊說一切法皆無自性？頌<lb
+ n="0061a21" ed="T"/>曰：<lb
+ n="0061a22" ed="T"/></ab>
+<ab type='verse'>
+<head>「２３</head>即依此三性，　　立彼三無性，　　<lb
+ n="0061a23" ed="T"/>故佛密意說，　　一切法無性。　　
+</ab><lb
+ n="0061a24" ed="T"/><ab type='verse'>
+<head>２４</head>初即相無性，　　次無自然性，　　<lb
+ n="0061a25" ed="T"/>後由遠離前，　　所執我、法性。　　
+</ab><lb
+ n="0061a26" ed="T"/><ab type='verse'>
+<head>２５</head>此諸法勝義，　　亦即是真如，　　<lb
+ n="0061a27" ed="T"/>常如其性故，　　即唯識實性。」　　
+</ab><lb
+ n="0061a28" ed="T"/><ab type='prose'>後五行頌明唯識行位者，論曰：「如是所成唯<lb
+ n="0061a29" ed="T"/>識性、相，誰依幾位？如何悟入？」謂具大乘二種<pb n="0061b" id="T31.1586.0061b" ed="T"/><lb
+ n="0061b01" ed="T"/>種性：一、本性種性，謂無始來依附本識，法爾<lb
+ n="0061b02" ed="T"/>所得無漏法因；二、謂習所成種性，謂聞法界<lb
+ n="0061b03" ed="T"/>等流法已，聞所成等熏習所成。具此二性<lb
+ n="0061b04" ed="T"/>方能悟入。何謂五位？一、資糧位，謂修大乘順<lb
+ n="0061b05" ed="T"/>解脫分，依識性、相能深信解。其相云何？頌曰：<lb
+ n="0061b06" ed="T"/></ab>
+<ab type='verse'>
+<head>「２６</head>乃至未起識，　　求住唯識性，　　<lb
+ n="0061b07" ed="T"/>於二取隨眠，　　猶未能伏滅。」　　
+</ab><lb
+ n="0061b08" ed="T"/><ab type='prose'>二、加行位，謂修大乘順決擇分，在加行位能<lb
+ n="0061b09" ed="T"/>漸伏除所取、能取。其相云何？<lb
+ n="0061b10" ed="T"/></ab>
+<ab type='verse'>
+<head>「２７</head>現前立少物，　　謂是唯識性，　　<lb
+ n="0061b11" ed="T"/>以有所得故，　　非實住唯識。」　　
+</ab><lb
+ n="0061b12" ed="T"/><ab type='prose'>三、通達位，謂諸菩薩所住見道，在通達位如<lb
+ n="0061b13" ed="T"/>實通達。其相云何？<lb
+ n="0061b14" ed="T"/></ab>
+<ab type='verse'>
+<head>「２８</head>若時於所緣，　　智都無所得，　　<lb
+ n="0061b15" ed="T"/>爾時住唯識，　　離二取相故。」　　
+</ab><lb
+ n="0061b16" ed="T"/><ab type='prose'>四、修習位，謂諸菩薩所住修道，修習位中如<lb
+ n="0061b17" ed="T"/>實見理，數數修習。其相云何？<lb
+ n="0061b18" ed="T"/></ab>
+<ab type='verse'>
+<head>「２９</head>無得不思議，　　是出世間智，　　<lb
+ n="0061b19" ed="T"/>捨二麁重故，　　便證得轉依。」　　
+</ab><lb
+ n="0061b20" ed="T"/><ab type='prose'>五、究竟位，謂住無上正等菩提，出障圓明，能<lb
+ n="0061b21" ed="T"/>盡未來化有情類。其相云何？<lb
+ n="0061b22" ed="T"/></ab>
+<ab type='verse'>
+<head>「３０</head>此即無漏界，　　不思議善常，　　<lb
+ n="0061b23" ed="T"/>安樂解脫身，　　大牟尼名法。」　　
+</ab></div><lb
+ n="0061b24" ed="T"/>
+<ab type='juan' subtype='close'>唯識三十論頌</ab>
+</body></text></TEI>

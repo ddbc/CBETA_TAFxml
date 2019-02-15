@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說黑氏梵志經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T14</biblScope>
+                    <idno type="Taisho">T14n0583</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0967a03" ed="T"/><lb
+ ed="T" n="0967a04"/><lb
+ ed="T" n="0967a05"/>
+<ab type='juan' subtype='open'>佛說黑氏梵志經</ab><lb
+ ed="T" n="0967a06"/><lb
+ ed="T" n="0967a07"/><byline>吳月支國居士支謙譯</byline><lb
+ n="0967a08" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊尼連江水邊，在彼一月，<lb
+ ed="T" n="0967a09"/>造十八變，化於迦葉兄弟三人及千弟子，轉<lb
+ n="0967a10" ed="T"/>遊行羅閱祇城，止頓一年，教授國民，為其<lb
+ n="0967a11" ed="T"/>講法。初成佛道竟二年已，乃到舍衛，興隆<lb
+ n="0967a12" ed="T"/>道化，開度天人、世間人民。時香山有梵志，名<lb
+ n="0967a13" ed="T"/>曰迦羅，得備四禪，具足五通：徹視、洞聽、身<lb
+ n="0967a14" ed="T"/>能飛行、自察心念、知人來生。講說經義，感<lb
+ n="0967a15" ed="T"/>動釋梵及四天王、諸鬼神、龍并閻羅王，悉往<lb
+ ed="T" n="0967a16"/>聽之；言語雅妙，聲和猶梵，日日諮受不以<lb
+ n="0967a17" ed="T"/>為懈；音徹于遠，普來歸聽。時閻羅王坐<lb
+ ed="T" n="0967a18"/>聞經法，淚下如雨，舉目觀視，益用悲歎。于時<lb
+ ed="T" n="0967a19"/>梵志問閻羅王：「何為悲泣淚下如雨？」閻羅答<lb
+ ed="T" n="0967a20"/>曰：「事當歸實，不可虛言。仁今說經便辭利<lb
+ n="0967a21" ed="T"/>口，義理甚妙猶如蓮華，若明月珠。而命欲<lb
+ ed="T" n="0967a22"/>盡，餘有七日，恐忽然過，就於後世。是以悲泣，<lb
+ ed="T" n="0967a23"/>不能自勝。又仁命過，墮地獄中，在我部界。今<lb
+ n="0967a24" ed="T"/>自相歸，一心受法，及當取卿拷掠五毒。熟<lb
+ ed="T" n="0967a25"/>思惟此，遂用增懷，不可為喻。」梵志愕然，心<lb
+ ed="T" n="0967a26"/>中沈吟，報閻羅王曰：「吾獲四禪，成五神通，<lb
+ ed="T" n="0967a27"/>獨步四域，超昇梵天，不以為礙。既無罪釁，<lb
+ ed="T" n="0967a28"/>何因當墮地獄閻界？」閻王曰：「仁臨壽終時，<lb
+ n="0967a29" ed="T"/>當值惡對，起瞋恚恨，意欲有所害，失本行義，<pb id="T14.0583.0967b" ed="T" n="0967b"/><lb
+ ed="T" n="0967b01"/>故趣閻界。」梵志聞之，忽然悒懅，不知何計、<lb
+ ed="T" n="0967b02"/>設何方便得濟斯難？愁慼惘惘，心懷湯火，<lb
+ ed="T" n="0967b03"/>坐起不安，為長歎息。釋梵四王諸神問曰：「何<lb
+ n="0967b04" ed="T"/>為不安長太息乎？」梵志答曰：「吾命欲盡，餘有<lb
+ ed="T" n="0967b05"/>七日，且有惡對，來亂吾善心，緣是之故，恐歸<lb
+ n="0967b06" ed="T"/>惡趣。是以反側，不能自勝。」時彼香山有諸善<lb
+ ed="T" n="0967b07"/>神，數詣佛所，諮受經典，謂於梵志：「佛興于世，<lb
+ n="0967b08" ed="T"/>仁不知乎？」梵志答曰：「身沈俗人，安能知之？」其<lb
+ n="0967b09" ed="T"/>神復謂：「佛為一切三界之救，度諸未度，脫未<lb
+ n="0967b10" ed="T"/>脫，安未安，皆濟危厄，令至永寂、無為之道。何<lb
+ n="0967b11" ed="T"/>不詣佛？可脫憂患，長得恬怕，道德合同。」梵<lb
+ n="0967b12" ed="T"/>志聞之，欣然踊躍，如冥覩明，兩手各取梧桐、<lb
+ n="0967b13" ed="T"/>合歡好色華樹，飛到佛所。未到之頃，佛告<lb
+ ed="T" n="0967b14"/>摩夷：「世尊大慈，修無極哀！未曾忘捨應當度<lb
+ n="0967b15" ed="T"/>者。」佛時頌曰：<lb
+ ed="T" n="0967b16"/></ab>
+<ab type='verse'>
+「潮水徑順崖，　　未曾越故際，　　<lb
+ ed="T" n="0967b17"/>儻有水神亂，　　起犯於故流。　　<lb
+ n="0967b18" ed="T"/>佛觀於本無，　　察應當度者，　　<lb
+ ed="T" n="0967b19"/>普使得免濟，　　終無越失耶。」　　
+</ab><lb
+ n="0967b20" ed="T"/><ab type='prose'>於是梵志飛到佛所，住虛空中，正向歸佛。佛<lb
+ ed="T" n="0967b21"/>告梵志謂黑氏曰：「放捨！放捨！」梵志應諾：「如<lb
+ ed="T" n="0967b22"/>世尊教。」即捨右手梧桐之樹，種佛右面。復謂<lb
+ ed="T" n="0967b23"/>梵志：「放捨！放捨！」梵志即捨左手所執合歡之<lb
+ ed="T" n="0967b24"/>樹，種佛左面。佛復重告：「放捨！放捨！」梵志白<lb
+ n="0967b25" ed="T"/>曰：「適有兩樹，捨佛左右，空手而立，當復何<lb
+ ed="T" n="0967b26"/>捨？」佛告梵志：「佛不謂卿捨手中物。佛曰所<lb
+ n="0967b27" ed="T"/>捨，令捨其前，亦當捨後，復捨中間，使無處<lb
+ ed="T" n="0967b28"/>所，乃度生死眾患之難。」佛於是頌曰：<lb
+ ed="T" n="0967b29"/></ab>
+<ab type='verse'>
+「仁當捨其本，　　亦當捨其末，　　<pb ed="T" id="T14.0583.0967c" n="0967c"/><lb
+ ed="T" n="0967c01"/>中間無處所，　　乃度生死原。　　<lb
+ n="0967c02" ed="T"/>內無有六入，　　外衰不得前，　　<lb
+ ed="T" n="0967c03"/>放置於六情，　　乃成無為疾。」　　
+</ab><lb
+ ed="T" n="0967c04"/><ab type='prose'>黑氏梵志聞佛所說，心自念言：「不見吾我，<lb
+ n="0967c05" ed="T"/>則了心無。心者本無，應病與藥，鄙心開解。如<lb
+ ed="T" n="0967c06"/>盲得目，聾者得聽，真為普見，審一切智。今已<lb
+ n="0967c07" ed="T"/>值佛，德不可訾。」尋即來下，稽首佛足，退住<lb
+ ed="T" n="0967c08"/>一面。佛應心本而分別說，顯示道場，演三脫<lb
+ ed="T" n="0967c09"/>門。於時輒住不退轉地，無一憂患，歎佛功<lb
+ n="0967c10" ed="T"/>德，而說頌曰：<lb
+ n="0967c11" ed="T"/></ab>
+<ab type='verse'>
+「光明踰日月，　　智慧猶大海，　　<lb
+ ed="T" n="0967c12"/>大慈無極哀，　　十方悉欣戴。　　<lb
+ ed="T" n="0967c13"/>眾生流三界，　　無數億萬載，　　<lb
+ ed="T" n="0967c14"/>應病授法藥，　　宣暢大辯才。　　<lb
+ ed="T" n="0967c15"/>雖現入生死，　　周旋無往來，　　<lb
+ n="0967c16" ed="T"/>勸化令精進，　　罪福無能代。　　<lb
+ ed="T" n="0967c17"/>努力勤精進，　　勿為欲所災，　　<lb
+ n="0967c18" ed="T"/>降衰四魔除，　　道成無罣礙。」　　
+</ab><lb
+ n="0967c19" ed="T"/><ab type='prose'>梵志白佛：「我迷已來，其日久矣！願見垂愍，<lb
+ n="0967c20" ed="T"/>得為沙門！」佛即聽之。頭髮自墮，袈裟著身，<lb
+ ed="T" n="0967c21"/>威儀齊整，成為寂志。往詣閻王，而謂之曰：<lb
+ n="0967c22" ed="T"/>「卿本謂我餘命七日，當墮地獄。今為沙門，<lb
+ n="0967c23" ed="T"/>神通已具，諸漏已盡，度於四瀆，眾病永<lb
+ n="0967c24" ed="T"/>除，猶大圍屋。一時增壽七七日。諸苦已消，<lb
+ n="0967c25" ed="T"/>超外異術。自在住世，更無數劫。」閻王答曰：<lb
+ ed="T" n="0967c26"/>「仁賴餘福得遇佛，時應病授法，滅婬、怒、癡，<lb
+ ed="T" n="0967c27"/>神通悉備，內外無疑。設不爾者，如鼠遭狸，<lb
+ ed="T" n="0967c28"/>如稻得災，為罪所牽；如魚鉤餌，墮地獄中，<lb
+ n="0967c29" ed="T"/>無有出期。今已永脫，相代歡喜。」說是語時，<pb id="T14.0583.0968a" ed="T" n="0968a"/><lb
+ n="0968a01" ed="T"/>無央數人皆發道意。佛說如是，比丘、菩薩、<lb
+ n="0968a02" ed="T"/>黑氏寂志、天、龍、鬼神、阿須倫、世間人，莫不<lb
+ ed="T" n="0968a03"/>悅豫，作禮而去。</ab></div><lb
+ ed="T" n="0968a04"/>
+<ab type='juan' subtype='close'>佛說黑氏梵志經</ab>
+</body></text></TEI>

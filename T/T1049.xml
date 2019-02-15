@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">聖六字增壽大明陀羅尼經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1049</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0046b12" ed="T"/><lb
+ n="0046b13" ed="T"/><lb
+ n="0046b14" ed="T"/><lb
+ n="0046b15" ed="T"/>
+<ab type='juan' subtype='open'>聖六字增壽大明陀羅尼經</ab><lb
+ n="0046b16" ed="T"/><lb
+ n="0046b17" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
+ n="0046b18" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
+ n="0046b19" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0046b20" ed="T"/>爾時尊者阿難有大疾病。佛自知已即詣彼<lb
+ n="0046b21" ed="T"/>所。敷座而坐告阿難曰。汝今諦聽我有六字<lb
+ n="0046b22" ed="T"/>大明陀羅尼。能消災患增益壽命。汝若受持<lb
+ n="0046b23" ed="T"/>非但自身。復令四眾苾芻苾芻尼優婆塞優<lb
+ n="0046b24" ed="T"/>婆夷。長夜安隱遠離眾苦。<lb
+ n="0046b25" ed="T"/>復次阿難此六字大明陀羅尼。七十七俱胝<lb
+ n="0046b26" ed="T"/>佛。并六大威德師同所宣說。六大師者。一如<lb
+ n="0046b27" ed="T"/>來應正等覺。二帝釋天主。三多聞天王。四持<lb
+ n="0046b28" ed="T"/>國天王。五增長天王。六廣目天王。如是聖賢<lb
+ n="0046b29" ed="T"/>異口同音。說陀羅尼曰。<pb n="0046c" id="T20.1049.0046c" ed="T"/><lb
+ n="0046c01" ed="T"/></ab>
+<ab type='dharani'>難底黎難底黎難覩哩都摩哩半拏哩俱㘓<lb
+ n="0046c02" ed="T"/>致摩度摩帝娑嚩賀<lb
+ n="0046c03" ed="T"/></ab>
+<ab type='prose'>佛告阿難。此六字大明章句有大威力。若復<lb
+ n="0046c04" ed="T"/>有人王法難中驚怖。大水難中驚怖大火難<lb
+ n="0046c05" ed="T"/>中驚怖。賊劫難中驚怖冤家難中驚怖。眾惡<lb
+ n="0046c06" ed="T"/>難中驚怖鬪戰難中驚怖惡曜難中驚怖。如是<lb
+ n="0046c07" ed="T"/>諸難害身之時。一心稱念大明章句。擁護某<lb
+ n="0046c08" ed="T"/>甲令得解脫。作是語已是諸眾難速得消除。<lb
+ n="0046c09" ed="T"/>復次阿難若諸有情。患諸疼痛頭痛項痛眼<lb
+ n="0046c10" ed="T"/>耳鼻痛。牙齒舌痛脣口頰痛。胸脇背痛心痛<lb
+ n="0046c11" ed="T"/>肚痛。腰痛胯痛遍身疼痛。及瀉痢痔瘻風黃<lb
+ n="0046c12" ed="T"/>痰癊諸惡重病。如前稱念大明章句。佛大威<lb
+ n="0046c13" ed="T"/>德令一切日月星曜。羅漢聖賢發真實言。與<lb
+ n="0046c14" ed="T"/>某甲弟子應作擁護。息除災患令得安樂。所<lb
+ n="0046c15" ed="T"/>有刀劍毒藥。虎狼師子蚖蛇蝮蝎。諸惡禽獸<lb
+ n="0046c16" ed="T"/>皆不為害。瘧病不著亦不中天。乃至阿波娑<lb
+ n="0046c17" ed="T"/>摩囉部多毘舍左。鳩盤茶等一切鬼將。悉皆<lb
+ n="0046c18" ed="T"/>遠離不敢為患。<lb
+ n="0046c19" ed="T"/>復次阿難若諸有情鬼魅所著。連年積月而<lb
+ n="0046c20" ed="T"/>不捨離。以此真言加持於線繫患人手。時金<lb
+ n="0046c21" ed="T"/>剛手大藥叉主。以忿怒力破鬼魅頭令作七<lb
+ n="0046c22" ed="T"/>分。又令大智舍利弗大神通目乾連。持戒羅<lb
+ n="0046c23" ed="T"/>睺羅及汝阿難陀。皆來擁護令得安隱。若不<lb
+ n="0046c24" ed="T"/>爾者須彌山王。離於本處大海枯竭。日月墮<lb
+ n="0046c25" ed="T"/>落大地崩裂。如來應正等覺無有妄語。阿難<lb
+ n="0046c26" ed="T"/>此六字大明陀羅尼。神通威德得未曾有。若<lb
+ n="0046c27" ed="T"/>隨喜聽聞。是人恒得長壽無病眾惡不侵。何<lb
+ n="0046c28" ed="T"/>況受持讀誦書寫供養。是名成就最上增益<lb
+ n="0046c29" ed="T"/>之法。阿難聞已信受奉行。<pb n="0047a" id="T20.1049.0047a" ed="T"/><lb
+ n="0047a01" ed="T"/>
+</ab><ab type='juan' subtype='close'>聖六字增壽大明陀羅尼經</ab></div>
+</body></text></TEI>

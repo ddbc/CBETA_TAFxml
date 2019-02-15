@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1113B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ n="0498c04" ed="T"/><lb
+ n="0498c05" ed="T"/><lb
+ n="0498c06" ed="T"/><lb
+ n="0498c07" ed="T"/>
+<ab type='juan' subtype='open'>大慈大悲救苦觀世音自在王<lb
+ n="0498c08" ed="T"/>菩薩廣大圓滿無礙自在青頸<lb
+ n="0498c09" ed="T"/>大悲心陀羅尼</ab><lb
+ n="0498c10" ed="T"/><lb
+ n="0498c11" ed="T"/><byline>大廣智不空譯</byline><lb
+ n="0498c12" ed="T"/><div type='jing' level='2'><ab type='prose'>南無歸命頂禮南方海上蒲陀落淨土。正法<lb
+ n="0498c13" ed="T"/>教主釋迦牟尼如來。觀音本師無量壽如來。<lb
+ n="0498c14" ed="T"/>觀音本正法明如來。南無千手千眼觀世音<lb
+ n="0498c15" ed="T"/>菩薩廣大圓滿無礙大悲心大陀羅尼。救苦<lb
+ n="0498c16" ed="T"/>陀羅尼。延壽陀羅尼。加滅惡趣陀羅尼。破<lb
+ n="0498c17" ed="T"/>業障陀羅尼滿願陀羅尼。隨心自在陀羅尼。<lb
+ n="0498c18" ed="T"/>速超上地陀羅尼。一聞神呪超第八地陀羅<lb
+ n="0498c19" ed="T"/>尼。四百四病一時消滅陀羅尼。<lb
+ n="0498c20" ed="T"/></ab>
+<ab type='dharani'>􄖩南􄗭無喝􄗽羅􅑈怛那􄩞哆羅􄗲夜􄗱㖿<lb
+ n="0498c21" ed="T"/><lb
+ n="0498c22" ed="T"/></ab>
+<ab type='prose'>此觀世音菩薩本身。大須慈悲思勿高聲此<lb
+ n="0498c23" ed="T"/>神性忽。<lb
+ n="0498c24" ed="T"/></ab>
+<ab type='dharani'>􄖩南􄗭無􆿆阿􅝪唎㖿<lb
+ n="0498c25" ed="T"/><lb
+ n="0498c26" ed="T"/></ab>
+<ab type='prose'>是如意輪菩薩本身。到此誦在心。<lb
+ n="0498c27" ed="T"/></ab>
+<ab type='dharani'>􄙖婆􄙒盧􄑂羯􄕝帝􈂫爍鉢􄗾囉􄗱㖿<lb
+ n="0498c28" ed="T"/><lb
+ n="0498c29" ed="T"/></ab>
+<ab type='prose'>此是轉鉢觀音。昔誦此理轉菩薩。<pb n="0499a" id="T20.1113B.0499a" ed="T"/><lb
+ n="0499a01" ed="T"/></ab>
+<ab type='dharani'>􄗕菩􄕽提􄙺薩􄽚哆婆􄗱㖿<lb
+ n="0499a02" ed="T"/><lb
+ n="0499a03" ed="T"/></ab>
+<ab type='prose'>此不空羂索菩薩。降押天兵眾。<lb
+ n="0499a04" ed="T"/></ab>
+<ab type='dharani'>􄗥摩􄚩訶􄙺薩􄽚埵婆􄗱㖿<lb
+ n="0499a05" ed="T"/><lb
+ n="0499a06" ed="T"/></ab>
+<ab type='prose'>是菩薩種子之因。誦呪本身。<lb
+ n="0499a07" ed="T"/></ab>
+<ab type='dharani'>􄗥摩􄚩訶􄑁迦􄙂嚧􄕍昵􄑁迦􄗱㖿<lb
+ n="0499a08" ed="T"/><lb
+ n="0499a09" ed="T"/></ab>
+<ab type='prose'>是馬鳴菩薩本身。手把拔折羅印菩薩自身。<lb
+ n="0499a10" ed="T"/></ab>
+<ab type='dharani'>􇩂唵<lb
+ n="0499a11" ed="T"/><lb
+ n="0499a12" ed="T"/></ab>
+<ab type='prose'>此是神唵語。悉合掌聽誦呪曰。<lb
+ n="0499a13" ed="T"/></ab>
+<ab type='dharani'>􄙺薩􅞣皤􄗽囉􄗙罰􄗷曳<lb
+ n="0499a14" ed="T"/><lb
+ n="0499a15" ed="T"/></ab>
+<ab type='prose'>此是四天大王本身。降伏魔王。<lb
+ n="0499a16" ed="T"/></ab>
+<ab type='dharani'>􄙦數􄕻怛􄖩那􄕯怛􄣢寫<lb
+ n="0499a17" ed="T"/><lb
+ n="0499a18" ed="T"/></ab>
+<ab type='prose'>此是四天大王八部鬼神名字。<lb
+ n="0499a19" ed="T"/></ab>
+<ab type='dharani'>􄖩南􄗭無􈃎悉吉㗚􄕗埵􆿈伊􄗭蒙􆿅阿􇩈唎耶<lb
+ n="0499a20" ed="T"/><lb
+ n="0499a21" ed="T"/></ab>
+<ab type='prose'>此是龍樹菩薩本身。須用心誦勿令疎步菩<lb
+ n="0499a22" ed="T"/>薩性勿也。<lb
+ n="0499a23" ed="T"/></ab>
+<ab type='dharani'>􄗍婆􄙂嚧􄑂吉􄕝帝􈂫室佛􄙈楞􈍡馱􄙖婆<lb
+ n="0499a24" ed="T"/><lb
+ n="0499a25" ed="T"/></ab>
+<ab type='prose'>此是本師毘盧遮那佛本身。廣大圓滿不可<lb
+ n="0499a26" ed="T"/>思議功德。<lb
+ n="0499a27" ed="T"/></ab>
+<ab type='dharani'>􄖩南􄗭無􄖩那􄗽囉􄑂謹􄕽墀<lb
+ n="0499a28" ed="T"/><lb
+ n="0499a29" ed="T"/></ab>
+<ab type='prose'>此是清淨圓滿報身盧舍那佛本身。須用心<pb n="0499b" id="T20.1113B.0499b" ed="T"/><lb
+ n="0499b01" ed="T"/>勿令放逸。<lb
+ n="0499b02" ed="T"/></ab>
+<ab type='dharani'>􄚮醯􄙀利􄗥摩􄙖皤􈍡哆􄙮沙􄗫咩<lb
+ n="0499b03" ed="T"/><lb
+ n="0499b04" ed="T"/></ab>
+<ab type='prose'>此是半頭神王。菊大魔以為眷屬。<lb
+ n="0499b05" ed="T"/></ab>
+<ab type='dharani'>􄙺薩􅞣婆􆿅阿􄕤陀􈇚頭􄙦輸􈁎朋<lb
+ n="0499b06" ed="T"/><lb
+ n="0499b07" ed="T"/></ab>
+<ab type='prose'>此是甘露菩薩亦是觀世音菩薩部落。以為<lb
+ n="0499b08" ed="T"/>眷屬。<lb
+ n="0499b09" ed="T"/></ab>
+<ab type='dharani'>􆿅阿􄒼遊􄗻孕<lb
+ n="0499b10" ed="T"/><lb
+ n="0499b11" ed="T"/></ab>
+<ab type='prose'>此是飛騰夜叉大王。巡歷四方察其是非。<lb
+ n="0499b12" ed="T"/></ab>
+<ab type='dharani'>􄙺薩􅞣婆􄗝菩􄕗哆􄖩那􄗥摩􄙖縛􄑘伽<lb
+ n="0499b13" ed="T"/><lb
+ n="0499b14" ed="T"/></ab>
+<ab type='prose'>此是婆帝王其形黑大。大以豹皮為衣。神手<lb
+ n="0499b15" ed="T"/>把衣叉。<lb
+ n="0499b16" ed="T"/></ab>
+<ab type='dharani'>􄗥摩􄙖罰􈇚特􈇚豆<lb
+ n="0499b17" ed="T"/><lb
+ n="0499b18" ed="T"/></ab>
+<ab type='prose'>此是剎利菩薩本身。鐵輪手把夜叉素有三<lb
+ n="0499b19" ed="T"/>眼是也。<lb
+ n="0499b20" ed="T"/></ab>
+<ab type='dharani'>􄕗怛􇩊姪􄕤他􇩂唵<lb
+ n="0499b21" ed="T"/><lb
+ n="0499b22" ed="T"/></ab>
+<ab type='prose'>此是劍語。<lb
+ n="0499b23" ed="T"/></ab>
+<ab type='dharani'>􆿅阿􄙖波􄙒盧􄑀醯􄙒盧􄑀迦􄕝帝<lb
+ n="0499b24" ed="T"/><lb
+ n="0499b25" ed="T"/></ab>
+<ab type='prose'>此是梵天王本身說佛為部。<lb
+ n="0499b26" ed="T"/></ab>
+<ab type='dharani'>􄑀迦􄗽羅􄕝帝<lb
+ n="0499b27" ed="T"/><lb
+ n="0499b28" ed="T"/></ab>
+<ab type='prose'>此是立門五神。長大黑色。<pb n="0499c" id="T20.1113B.0499c" ed="T"/><lb
+ n="0499c01" ed="T"/></ab>
+<ab type='dharani'>􆿏夷􈋄醯唎<lb
+ n="0499c02" ed="T"/><lb
+ n="0499c03" ed="T"/></ab>
+<ab type='prose'>此是三十三天王。是摩醯首羅天王神領天兵。<lb
+ n="0499c04" ed="T"/></ab>
+<ab type='dharani'>􄗥摩􄚩訶􄗕􄕽菩􄙺薩􄽙埵<lb
+ n="0499c05" ed="T"/><lb
+ n="0499c06" ed="T"/></ab>
+<ab type='prose'>此是寶心更無雜亂心節名薩埵。<lb
+ n="0499c07" ed="T"/></ab>
+<ab type='dharani'>􄙺薩􅞣婆􄙺􅞣薩婆<lb
+ n="0499c08" ed="T"/><lb
+ n="0499c09" ed="T"/></ab>
+<ab type='prose'>此是香積菩薩。押五方兵薩婆為侍從不可<lb
+ n="0499c10" ed="T"/>思議。<lb
+ n="0499c11" ed="T"/></ab>
+<ab type='dharani'>􄗥摩􄙊羅􄗥􄙊摩羅􄗥摩􄗥摩􈋄醯唎􄕯馱􄗻孕<lb
+ n="0499c12" ed="T"/><lb
+ n="0499c13" ed="T"/>􄑄俱􄙂嚧􄑄􄙂俱嚧􄑀羯􅝧蒙<lb
+ n="0499c14" ed="T"/><lb
+ n="0499c15" ed="T"/></ab>
+<ab type='prose'>此是空身菩薩。押夫將軍領二萬億天兵忽。<lb
+ n="0499c16" ed="T"/></ab>
+<ab type='dharani'>􈃁度􄙂嚧􈃁􄙂度嚧􄙖罰􄒶闍􄗱耶􄕝帝<lb
+ n="0499c17" ed="T"/><lb
+ n="0499c18" ed="T"/></ab>
+<ab type='prose'>此是嚴峻菩薩。孔雀王兵。<lb
+ n="0499c19" ed="T"/></ab>
+<ab type='dharani'>􄗥摩􄚨訶􄙖罰􄒶闍􄗱耶􄕝帝<lb
+ n="0499c20" ed="T"/><lb
+ n="0499c21" ed="T"/>􄕻陀􄗽羅􄕻􄗽陀羅<lb
+ n="0499c22" ed="T"/><lb
+ n="0499c23" ed="T"/></ab>
+<ab type='prose'>此是觀世音菩薩。大手把金輪。<lb
+ n="0499c24" ed="T"/></ab>
+<ab type='dharani'>􄕽地􄙀利􄕍尼<lb
+ n="0499c25" ed="T"/><lb
+ n="0499c26" ed="T"/></ab>
+<ab type='prose'>此是師子王。兵驗不調。<lb
+ n="0499c27" ed="T"/></ab>
+<ab type='dharani'>􄗾囉􄗱耶<lb
+ n="0499c28" ed="T"/><lb
+ n="0499c29" ed="T"/></ab>
+<ab type='prose'>是霹靂降伏魔眷屬。<pb n="0500a" id="T20.1113B.0500a" ed="T"/><lb
+ n="0500a01" ed="T"/></ab>
+<ab type='dharani'>􄑼遮􄙊囉􄑼遮􄙊囉<lb
+ n="0500a02" ed="T"/><lb
+ n="0500a03" ed="T"/></ab>
+<ab type='prose'>此是摧碎菩薩。本身手把金輪。<lb
+ n="0500a04" ed="T"/></ab>
+<ab type='dharani'>􄗥摩􄗥摩<lb
+ n="0500a05" ed="T"/><lb
+ n="0500a06" ed="T"/>􄙖罰􄗥摩􄗽羅<lb
+ n="0500a07" ed="T"/><lb
+ n="0500a08" ed="T"/></ab>
+<ab type='prose'>此是大降魔金剛本身。手把金輪。<lb
+ n="0500a09" ed="T"/></ab>
+<ab type='dharani'>􈂼穆􈅯帝􄙐曬<lb
+ n="0500a10" ed="T"/><lb
+ n="0500a11" ed="T"/></ab>
+<ab type='prose'>此是佛合掌。聽誦千手千眼觀世音菩薩善<lb
+ n="0500a12" ed="T"/>神妙章句。<lb
+ n="0500a13" ed="T"/></ab>
+<ab type='dharani'>􆿏伊􄚮醯􆿏移􄚮醯<lb
+ n="0500a14" ed="T"/><lb
+ n="0500a15" ed="T"/></ab>
+<ab type='prose'>此是喚摩醯首羅天。<lb
+ n="0500a16" ed="T"/></ab>
+<ab type='dharani'>􄑾室􆩮那􄑾􆩮室那<lb
+ n="0500a17" ed="T"/><lb
+ n="0500a18" ed="T"/>􆿅阿􅟅羅參􇩄佛羅􄑼舍􄙌利<lb
+ n="0500a19" ed="T"/><lb
+ n="0500a20" ed="T"/></ab>
+<ab type='prose'>此是觀世音菩薩。手把軍弓箭。<lb
+ n="0500a21" ed="T"/></ab>
+<ab type='dharani'>􄙖罰􄙮沙􄙖罰􄙸參􄪼佛羅􄙢舍􄗱耶<lb
+ n="0500a22" ed="T"/><lb
+ n="0500a23" ed="T"/></ab>
+<ab type='prose'>此是阿彌陀佛本身。觀音菩薩師主。<lb
+ n="0500a24" ed="T"/></ab>
+<ab type='dharani'>􈂪呼􄙂嚧􈂪􄙂呼嚧􄗥麼􄗽囉<lb
+ n="0500a25" ed="T"/><lb
+ n="0500a26" ed="T"/></ab>
+<ab type='prose'>此是呼八部鬼神。<lb
+ n="0500a27" ed="T"/></ab>
+<ab type='dharani'>􈂪呼􄙂嚧􈂪􄙂呼嚧􄮥醯唎<lb
+ n="0500a28" ed="T"/><pb n="0500b" id="T20.1113B.0500b" ed="T"/><lb
+ n="0500b01" ed="T"/>􄙺沙􄗽囉􄙺􄗽沙囉<lb
+ n="0500b02" ed="T"/><lb
+ n="0500b03" ed="T"/></ab>
+<ab type='prose'>此是五濁惡世云。<lb
+ n="0500b04" ed="T"/></ab>
+<ab type='dharani'>􄙼悉􄙀唎􄙼􄙀悉唎􈂼蘇􄙂嚧􈂼􄙂蘇嚧<lb
+ n="0500b05" ed="T"/><lb
+ n="0500b06" ed="T"/></ab>
+<ab type='prose'>此是諸佛樹樂木聲也。<lb
+ n="0500b07" ed="T"/></ab>
+<ab type='dharani'>􄗕菩􄕽提􄗱㖿􄗕􄕽􄗱菩提㖿<lb
+ n="0500b08" ed="T"/><lb
+ n="0500b09" ed="T"/></ab>
+<ab type='prose'>此是觀世音豫眾生罪惡。<lb
+ n="0500b10" ed="T"/></ab>
+<ab type='dharani'>􄗕菩􈍡提􄗱耶􄗕􈍡􄗱菩提耶<lb
+ n="0500b11" ed="T"/><lb
+ n="0500b12" ed="T"/></ab>
+<ab type='prose'>此是阿難本身也。<lb
+ n="0500b13" ed="T"/></ab>
+<ab type='dharani'>􄗬彌􄩠帝唎􄗱耶<lb
+ n="0500b14" ed="T"/><lb
+ n="0500b15" ed="T"/></ab>
+<ab type='prose'>此是本車菩薩手把金刀。<lb
+ n="0500b16" ed="T"/></ab>
+<ab type='dharani'>􄖩那􄗽囉􄑂謹􆩰墀<lb
+ n="0500b17" ed="T"/><lb
+ n="0500b18" ed="T"/></ab>
+<ab type='prose'>此是龍樹菩薩。手把金刀之長。<lb
+ n="0500b19" ed="T"/></ab>
+<ab type='dharani'>􄕻他􅞽唎瑟􄕍尼􄖩那􄖵波􄗱夜􄗥摩􄖩那<lb
+ n="0500b20" ed="T"/><lb
+ n="0500b21" ed="T"/></ab>
+<ab type='prose'>此是金光幢菩薩。手把跋折羅杵。<lb
+ n="0500b22" ed="T"/></ab>
+<ab type='dharani'>􅁥娑婆􄚩訶􄙼悉􇧺陀􄗱夜<lb
+ n="0500b23" ed="T"/><lb
+ n="0500b24" ed="T"/></ab>
+<ab type='prose'>此是達一切法門。<lb
+ n="0500b25" ed="T"/></ab>
+<ab type='dharani'>􅁥娑婆􄚩訶􄗥摩􄚩訶􄙼悉􇧺陀􄗱夜􅁥娑婆􄚩訶<lb
+ n="0500b26" ed="T"/><lb
+ n="0500b27" ed="T"/></ab>
+<ab type='prose'>此是施光幢菩薩手把幡。<lb
+ n="0500b28" ed="T"/></ab>
+<ab type='dharani'>􄙼悉􇧺陀􄗹喻􄑞藝<lb
+ n="0500b29" ed="T"/><pb n="0500c" id="T20.1113B.0500c" ed="T"/><lb
+ n="0500c01" ed="T"/></ab>
+<ab type='prose'>此是天大菩薩悉手來把刀或菩薩手把水椀。<lb
+ n="0500c02" ed="T"/></ab>
+<ab type='dharani'>􈂫室皤􄑀伽􄗽羅􄗱耶􅁥娑婆􄚩訶<lb
+ n="0500c03" ed="T"/><lb
+ n="0500c04" ed="T"/></ab>
+<ab type='prose'>此是名安悉香。<lb
+ n="0500c05" ed="T"/></ab>
+<ab type='dharani'>􄖩那􄗽囉􄑂謹􆩰墀􅁥娑婆􄚩訶􄗥摩􄗽囉􄖩那<lb
+ n="0500c06" ed="T"/><lb
+ n="0500c07" ed="T"/>􄗽囉<lb
+ n="0500c08" ed="T"/><lb
+ n="0500c09" ed="T"/></ab>
+<ab type='prose'>此是散水菩薩手把水椀。<lb
+ n="0500c10" ed="T"/></ab>
+<ab type='dharani'>􅁥娑婆􄚩訶􄙼悉􄗽囉􄚦僧􆿆阿􈁃穆􄑍佉􄗱耶<lb
+ n="0500c11" ed="T"/><lb
+ n="0500c12" ed="T"/></ab>
+<ab type='prose'>此是山海惠菩薩手把金鉤。<lb
+ n="0500c13" ed="T"/></ab>
+<ab type='dharani'>􅁥娑婆􄚩訶􄖵婆􄗥摩􄚩訶􄙼悉􇧺陀􄗱夜<lb
+ n="0500c14" ed="T"/><lb
+ n="0500c15" ed="T"/>􅁥娑婆􄚩訶􄑼者􄥈吉囉阿􄙼悉􇧺陀􄗱夜<lb
+ n="0500c16" ed="T"/><lb
+ n="0500c17" ed="T"/></ab>
+<ab type='prose'>此是藥王菩薩本身行魔。<lb
+ n="0500c18" ed="T"/></ab>
+<ab type='dharani'>􅁥娑婆􄚩訶<lb
+ n="0500c19" ed="T"/><lb
+ n="0500c20" ed="T"/>􄖵婆􇪯摩􄑀羯􆶩悉哆􄗱夜<lb
+ n="0500c21" ed="T"/><lb
+ n="0500c22" ed="T"/></ab>
+<ab type='prose'>是藥上菩薩本身行魔痛。<lb
+ n="0500c23" ed="T"/></ab>
+<ab type='dharani'>􅁥娑婆􄚩訶<lb
+ n="0500c24" ed="T"/><lb
+ n="0500c25" ed="T"/>􄖩那􄗽羅􄑂謹􆩰墀􄙖皤􄑘迦􄗽羅􄗱夜􅁥娑婆􄚩訶<lb
+ n="0500c26" ed="T"/><lb
+ n="0500c27" ed="T"/>􄗥摩􄙖婆􄙀唎􄙢勝􆥣羯􄗱夜􅁥娑婆􄚩訶<lb
+ n="0500c28" ed="T"/><pb n="0501a" id="T20.1113B.0501a" ed="T"/><lb
+ n="0501a01" ed="T"/>􄖩南􄗭無喝􄗽囉􅑈怛那􄩞多囉􄗲夜􄗱耶<lb
+ n="0501a02" ed="T"/><lb
+ n="0501a03" ed="T"/>􄖩南􄗭無􆿆阿􅝪唎耶􄙖婆􄙆嚧􄑂吉􄕝帝􈂫爍皤<lb
+ n="0501a04" ed="T"/><lb
+ n="0501a05" ed="T"/>􄗽囉􄗱耶􄗕菩􄕽提􅁥娑婆􄚩呵<lb
+ n="0501a06" ed="T"/><lb
+ n="0501a07" ed="T"/>
+</ab><ab type='juan' subtype='close'>青頸觀音陀羅尼一卷</ab></div><lb
+ n="0501a08" ed="T"/><div type='w' level='2'><ab type='prose'>青頸大悲心印<lb
+ n="0501a09" ed="T"/>虛心合掌屈二頭指。各拘二大指第二節<lb
+ n="0501a10" ed="T"/>二中指竪合二無名指竪圓端二小<lb
+ n="0501a11" ed="T"/>指直竪合於一印具四印。謂法螺蓮華輪<lb
+ n="0501a12" ed="T"/>杖也。</ab></div></div>
+</body></text></TEI>

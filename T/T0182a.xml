@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">鹿母經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T03</biblScope>
+                    <idno type="Taisho">T03n0182a</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0454a03" ed="T"/><lb
+ n="0454a04" ed="T"/><lb
+ n="0454a05" ed="T"/>
+<ab type='juan' subtype='open'>佛說鹿母經</ab><lb
+ n="0454a06" ed="T"/><lb
+ n="0454a07" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
+ n="0454a08" ed="T"/><div type='jing' level='1'><ab type='prose'>佛言：「昔者，有鹿數百為群，隨逐美草侵近人<lb
+ n="0454a09" ed="T"/>邑，國王出獵遂各分迸。有一鹿母懷妊獨逝，<lb
+ n="0454a10" ed="T"/>被逐飢疲失侶悵怏。時生二子捨行求食，煢<lb
+ n="0454a11" ed="T"/>悸失措墮獵弶中，悲鳴欲出不能得脫。獵師<lb
+ n="0454a12" ed="T"/>聞聲便往視之，見鹿心喜適前欲殺。鹿乃叩<lb
+ n="0454a13" ed="T"/>頭求哀自陳：『向生二子尚小無知，始視矇矇<lb
+ n="0454a14" ed="T"/>未曉東西，乞假須臾暫還視子，將示水草使<lb
+ n="0454a15" ed="T"/>得生活，旋來就死不違信誓。』是時，獵者聞鹿<lb
+ n="0454a16" ed="T"/>所語，驚怪甚奇！即答鹿曰：『一切世人尚無至<lb
+ n="0454a17" ed="T"/>誠，況汝鹿身？從死得去，豈當還期？終不放<lb
+ n="0454a18" ed="T"/>汝。』鹿復報言：『聽則子存，留則子亡，母子俱<lb
+ n="0454a19" ed="T"/>死不得生別，分死全子滅三痛劇。』即便說偈，<lb
+ n="0454a20" ed="T"/>以報獵者：<lb
+ n="0454a21" ed="T"/></ab>
+<ab type='verse'>
+「『我身為畜獸，　　遊處於林藪，　　<lb
+ n="0454a22" ed="T"/>賤生貪軀命，　　不能故送死。　　<lb
+ n="0454a23" ed="T"/>今來入君弶，　　分當就刀机，　　<lb
+ n="0454a24" ed="T"/>不惜腥臊身，　　但憐二子耳。』　　
+</ab><lb
+ n="0454a25" ed="T"/><ab type='prose'>「獵者於是聞鹿所語，甚奇甚異！意猶有貪，<lb
+ n="0454a26" ed="T"/>復答鹿曰：『夫巧偽無實奸詐難信，虛華萬端<lb
+ n="0454a27" ed="T"/>狡猾非一，愛身重死少能効命，人之無良猶<lb
+ n="0454a28" ed="T"/>難為期，而況禽獸去豈復還？固不放汝不須<lb
+ n="0454a29" ed="T"/>多方。』鹿復垂淚以偈報言：<pb n="0454b" ed="T" id="T03.0182a.0454b"/><lb
+ n="0454b01" ed="T"/></ab>
+<ab type='verse'>
+「『雖身為賤畜，　　不識人義方，　　<lb
+ n="0454b02" ed="T"/>奈何受慈恩，　　一去不復還。　　<lb
+ n="0454b03" ed="T"/>寧就分裂痛，　　無為虛偽存，　　<lb
+ n="0454b04" ed="T"/>哀傷二子窮，　　乞假須臾間。　　<lb
+ n="0454b05" ed="T"/>世若有惡人，　　鬪亂比丘僧，　　<lb
+ n="0454b06" ed="T"/>破塔壞佛寺，　　及殺阿羅漢，　　<lb
+ n="0454b07" ed="T"/>反逆害父母，　　兄弟及妻子；　　<lb
+ n="0454b08" ed="T"/>設我不還來，　　罪大過於是。』　　
+</ab><lb
+ n="0454b09" ed="T"/><ab type='prose'>「爾時，獵者重聞鹿言，心益悚然，乃却歎曰：『惟<lb
+ n="0454b10" ed="T"/>我處世得生為人，愚惑癡冥背恩薄義，殘害<lb
+ n="0454b11" ed="T"/>眾生殺獵為業，欺偽苟得貪求無恥，不知非<lb
+ n="0454b12" ed="T"/>常識別三尊。鹿之所言有殊於人，信誓邈邈<lb
+ n="0454b13" ed="T"/>情現盡中。』便前解弶放之令去。於是鹿母至<lb
+ n="0454b14" ed="T"/>其子所，低頭鳴吟舐子身體，一悲一喜，而說<lb
+ n="0454b15" ed="T"/>偈言：<lb
+ n="0454b16" ed="T"/></ab>
+<ab type='verse'>
+「『一切恩愛會，　　皆由因緣合，　　<lb
+ n="0454b17" ed="T"/>合會有別離，　　無常難得久。　　<lb
+ n="0454b18" ed="T"/>今我為爾母，　　恒恐不自保，　　<lb
+ n="0454b19" ed="T"/>生世多畏懼，　　命危於晨露。』　　
+</ab><lb
+ n="0454b20" ed="T"/><ab type='prose'>「於是鹿母，將其二子示好水草，垂淚交流，<lb
+ n="0454b21" ed="T"/>即說偈言：<lb
+ n="0454b22" ed="T"/></ab>
+<ab type='verse'>
+「『吾朝行不遇，　　誤墮獵者手，　　<lb
+ n="0454b23" ed="T"/>即當應屠割，　　碎身化糜朽。　　<lb
+ n="0454b24" ed="T"/>念汝求哀來，　　今當還就死，　　<lb
+ n="0454b25" ed="T"/>憐汝小早孤，　　努力自活己。』　　
+</ab><lb
+ n="0454b26" ed="T"/><ab type='prose'>「鹿母說已，便捨而去。二子鳴啼悲泣戀慕，從<lb
+ n="0454b27" ed="T"/>後追尋，頓地復起。母顧命曰：『爾還勿來！無<lb
+ n="0454b28" ed="T"/>得母子併命俱死。吾沒甘心；傷汝未識，世間<lb
+ n="0454b29" ed="T"/>無常皆有別離。我自薄命爾生薄祐，何為悲<pb n="0454c" ed="T" id="T03.0182a.0454c"/><lb
+ n="0454c01" ed="T"/>憐徒益憂患，但當建行畢罪。』於是母復為子，<lb
+ n="0454c02" ed="T"/>說此偈言：<lb
+ n="0454c03" ed="T"/></ab>
+<ab type='verse'>
+「『吾前生貪愛，　　今來為畜身，　　<lb
+ n="0454c04" ed="T"/>生世皆有死，　　無脫不終患。　　<lb
+ n="0454c05" ed="T"/>制意一離貪，　　然後乃大安，　　<lb
+ n="0454c06" ed="T"/>寧就誠信死，　　終不欺殆生。』　　
+</ab><lb
+ n="0454c07" ed="T"/><ab type='prose'>「子猶悲號戀慕相尋，至于弶所東西求索。<lb
+ n="0454c08" ed="T"/>乃見獵者臥於樹下。鹿母住前，說偈覺言：<lb
+ n="0454c09" ed="T"/></ab>
+<ab type='verse'>
+「『前所可放鹿，　　今來還就死，　　<lb
+ n="0454c10" ed="T"/>恩愛愚賤畜，　　得見辭二子。　　<lb
+ n="0454c11" ed="T"/>將行示水草，　　為說非常苦，　　<lb
+ n="0454c12" ed="T"/>万沒無遺恨，　　念恩不敢負。』　　
+</ab><lb
+ n="0454c13" ed="T"/><ab type='prose'>「獵者於是忽覺驚起，鹿復長跪向獵者，重說<lb
+ n="0454c14" ed="T"/>偈言：<lb
+ n="0454c15" ed="T"/></ab>
+<ab type='verse'>
+「『君前見放去，　　德重過天地，　　<lb
+ n="0454c16" ed="T"/>賤畜被慈育，　　赴信還就死。　　<lb
+ n="0454c17" ed="T"/>感仁恩難忘，　　不敢違命旨，　　<lb
+ n="0454c18" ed="T"/>雖懷千返報，　　猶不畢恩紀。』　　
+</ab><lb
+ n="0454c19" ed="T"/><ab type='prose'>「獵者見鹿篤信死義，志節丹誠慈行發中，効<lb
+ n="0454c20" ed="T"/>應徵驗捨生赴誓，母子悲戀相尋而至。慈感<lb
+ n="0454c21" ed="T"/>愍傷，稽首謝曰：<lb
+ n="0454c22" ed="T"/></ab>
+<ab type='verse'>
+「『為天是神祇，　　信義妙乃爾，　　<lb
+ n="0454c23" ed="T"/>恐懼情悚然，　　豈敢加逆害。　　<lb
+ n="0454c24" ed="T"/>寧自殺所親，　　碎身及妻子，　　<lb
+ n="0454c25" ed="T"/>何忍害靈神，　　起想如毛髮。』　　
+</ab><lb
+ n="0454c26" ed="T"/><ab type='prose'>「獵者即便放鹿使去。母子悲喜鳴聲呦呦，偈<lb
+ n="0454c27" ed="T"/>謝獵者：<lb
+ n="0454c28" ed="T"/></ab>
+<ab type='verse'>
+「『賤畜生處世，　　當應充厨宰，　　<lb
+ n="0454c29" ed="T"/>即時分烹煑，　　寬惠辭二子。　　<pb n="0455a" ed="T" id="T03.0182a.0455a"/><lb
+ n="0455a01" ed="T"/>天仁重愛物，　　復蒙放捨原，　　<lb
+ n="0455a02" ed="T"/>德祐積無量，　　非口所能陳。』　　
+</ab><lb
+ n="0455a03" ed="T"/><ab type='prose'>「爾時，獵者具以聞王，國人咸知普感慈信，鹿<lb
+ n="0455a04" ed="T"/>之仁行有喻於義，莫不肅歎！為止殺獵。於<lb
+ n="0455a05" ed="T"/>是鹿還鳴群嘯侶，以遊以集各寧其所。」<lb
+ n="0455a06" ed="T"/>佛語阿難：「昔吾所更勤苦如是。爾時，鹿者我<lb
+ n="0455a07" ed="T"/>身是。二子者羅云及羅漢朱利母是。其國王<lb
+ n="0455a08" ed="T"/>者，舍利弗是。時射獵者，汝身是。我之所入興<lb
+ n="0455a09" ed="T"/>隆道化，種善無厭分德不住，雖在禽獸不忘<lb
+ n="0455a10" ed="T"/>菩薩，權行如應導利一切，普使眾生度濟獲<lb
+ n="0455a11" ed="T"/>安，逮是功德疾成至佛真人，至誠忠信不可<lb
+ n="0455a12" ed="T"/>不作。」<lb
+ n="0455a13" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說鹿母經</ab></div>
+</body></text></TEI>

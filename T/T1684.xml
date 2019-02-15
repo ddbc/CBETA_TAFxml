@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">八大靈塔梵讚</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T32</biblScope>
+                    <idno type="Taisho">T32n1684</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0772b06" ed="T"/><lb
+ n="0772b07" ed="T"/><div type='jing' level='1'><lb
+ n="0772b08" ed="T"/>
+<ab type='juan' subtype='open'>八大靈塔梵讚</ab><lb
+ n="0772b09" ed="T"/><lb
+ n="0772b10" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
+ n="0772b11" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
+ n="0772b12" ed="T"/><ab type='dharani'>惹鼎冒亭鉢囉嚩囉末覩朗達哩摩<lb
+ n="0772b13" ed="T"/>作訖囉左囉藐戴帝煬左禰煬帝哩<lb
+ n="0772b14" ed="T"/>部嚩那摩呬當室哩摩賀鉢囉<lb
+ n="0772b15" ed="T"/>底賀哩煬薩他難際曩呬摩儗哩<lb
+ n="0772b16" ed="T"/>儞羅煬禰縛禰縛嚩多囉滿禰<lb
+ n="0772b17" ed="T"/>喝鉢囉拏摩多室囉娑儞沒哩多拽怛<lb
+ n="0772b18" ed="T"/>囉沒馱吠舍梁達哩摩作訖麗室<lb
+ n="0772b19" ed="T"/>輸摩儗哩怛致毘瑟摩哥踰迭帝<lb
+ n="0772b20" ed="T"/>麗室囉嚩薩爹冐提暮梨拘尸那<lb
+ n="0772b21" ed="T"/>誐囉嚩麗龍彌儞哥必邏契曳<lb
+ n="0772b22" ed="T"/>憍睒咩薩兔羅酤瑟致末吐囉嚩囉<lb
+ n="0772b23" ed="T"/>補麗難那吳播寫囉瑟致麗曳<lb
+ n="0772b24" ed="T"/>左󰱱舍窣都戴爹捺舍嚩囉<lb
+ n="0772b25" ed="T"/>嚩里那薩旦那莫寫彌暮達那<lb
+ n="0772b26" ed="T"/>割濕彌麗際那禰尸朅沙怛吒<lb
+ n="0772b27" ed="T"/>野牟泥末哩嚩麗星賀梨嚩邏<lb
+ n="0772b28" ed="T"/>濃捺麗辛度褒捺麗三摩怛吒摩𦾨<lb
+ n="0772b29" ed="T"/>提末朅梨酤薩梨嚩泥播梨哥<pb n="0772c" ed="T" id="T32.1684.0772c"/><lb
+ n="0772c01" ed="T"/>摩嚕閉割羅舍嚩囉補麗幹唧騷囉<lb
+ n="0772c02" ed="T"/>瑟吒囉囉瑟吒麗曳左󰱱馱<lb
+ n="0772c03" ed="T"/>覩誐哩婆捺舍𭌯囉嚩哩那薩旦<lb
+ n="0772c04" ed="T"/>那莫寫彌暮達那該邏細係<lb
+ n="0772c05" ed="T"/>末酤致呬摩儗哩儞羅曳滿捺麗彌<lb
+ n="0772c06" ed="T"/>嚕室凌詣播怛梨昧惹演帝達<lb
+ n="0772c07" ed="T"/>那鉢底儞羅曳悉馱巘達哩嚩路計<lb
+ n="0772c08" ed="T"/>沒囉吽滿尼尾瑟女部耄鉢輸鉢<lb
+ n="0772c09" ed="T"/>帝婆嚩泥贊捺囉素哩也禰路<lb
+ n="0772c10" ed="T"/>計曳左󰱱馱覩誐哩婆捺舍嚩<lb
+ n="0772c11" ed="T"/>羅嚩里那薩旦那莫寫彌暮達那<lb
+ n="0772c12" ed="T"/>曳左瑟誅馱覩誐哩婆捺舍<lb
+ n="0772c13" ed="T"/>嚩羅嚩里那功婆僧倪也室左載爹盎誐囉契也薩怛他󰱱呬摩囉<lb
+ n="0772c15" ed="T"/>惹多儞婆窣都波囉怛那鉢囉哥<lb
+ n="0772c16" ed="T"/>舍播多梨曳左部咩儗哩室<lb
+ n="0772c17" ed="T"/>朅囉誐多薩哩嚩都馱覩誐哩婆沒馱喃夜儞泯摩鉢囉底禰那<lb
+ n="0772c19" ed="T"/>摩設訖哩多儞暮達那那摩彌<lb
+ n="0772c20" ed="T"/>阿瑟吒摩賀載爹滿捺那三摩鉢多<lb
+ n="0772c21" ed="T"/><lb
+ n="0772c22" ed="T"/>
+</ab><ab type='juan' subtype='close'>八大靈塔梵讚</ab></div>
+</body></text></TEI>

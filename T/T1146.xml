@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大虛空藏菩薩念誦法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1146</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0603a05" ed="T"/><lb
+ n="0603a06" ed="T"/><lb
+ n="0603a07" ed="T"/><lb
+ n="0603a08" ed="T"/>
+<ab type='juan' subtype='open'>大虛空藏菩薩念誦法</ab><lb
+ n="0603a09" ed="T"/><lb
+ n="0603a10" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0603a11" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
+ n="0603a12" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0603a13" ed="T"/>不空奉　詔譯</byline><lb
+ n="0603a14" ed="T"/><div type='jing' level='1'><ab type='prose'>我今依瑜伽金剛頂經。說寶部虛空藏菩薩<lb
+ n="0603a15" ed="T"/>真言教法。為愍念在家山家。薄福少德乏少<lb
+ n="0603a16" ed="T"/>資具者。所求世間出世間勝願多不遂意。若<lb
+ n="0603a17" ed="T"/>依此教法修行。業報等障皆悉消除。福德增<lb
+ n="0603a18" ed="T"/>長心神適悅。淨信大乘利樂有情。心無退轉。<lb
+ n="0603a19" ed="T"/>世出世間所有財寶悉皆獲得。於一切眾生<lb
+ n="0603a20" ed="T"/>能作利益。一稱一念所得福聚尚猶虛空。何<lb
+ n="0603a21" ed="T"/>況作意如法修行。所願必獲殊勝成就。行者<lb
+ n="0603a22" ed="T"/>先應入灌頂道場。親對師前受得儀軌。或<lb
+ n="0603a23" ed="T"/>於山間靜處。或於寺舍隨所樂處。建立精室<lb
+ n="0603a24" ed="T"/>作一方壇。隨其大小。以瞿摩夷塗地。作八曼<lb
+ n="0603a25" ed="T"/>茶羅。周匝懸幡。上安天蓋。於壇西面安虛<lb
+ n="0603a26" ed="T"/>空藏菩薩像。持誦者壇東對像念誦。以種種<lb
+ n="0603a27" ed="T"/>時華散於壇上。燒香燈明飲食菓子。隨力所<lb
+ n="0603a28" ed="T"/>辦以為供養。每入道場。對尊像前五體投<lb
+ n="0603a29" ed="T"/>地。禮一切如來及諸聖眾。即懺悔隨喜勸請<pb n="0603b" id="T20.1146.0603b" ed="T"/><lb
+ n="0603b01" ed="T"/>發願已。然後結跏趺坐。或半跏隨意而坐<lb
+ n="0603b02" ed="T"/>端身正念。當以塗香用塗二手。虛心合掌如<lb
+ n="0603b03" ed="T"/>未敷蓮華。誦清淨真言三遍或七遍頂上散<lb
+ n="0603b04" ed="T"/>印。則三業清淨以成勝義澡浴。淨三業真言<lb
+ n="0603b05" ed="T"/>曰。<lb
+ n="0603b06" ed="T"/></ab>
+<ab type='dharani'>唵舜第耨戍馱曩耶娑囉賀<lb
+ n="0603b07" ed="T"/></ab>
+<ab type='prose'>次結佛部心三昧耶印。<lb
+ n="0603b08" ed="T"/>以止觀十度。內相叉作拳。以禪智並竪。結印<lb
+ n="0603b09" ed="T"/>成已。觀想諸佛遍滿虛空。即誦佛部心真言<lb
+ n="0603b10" ed="T"/>三遍。頂上散印真言曰。<lb
+ n="0603b11" ed="T"/></ab>
+<ab type='dharani'>唵爾曩爾迦娑嚩賀<lb
+ n="0603b12" ed="T"/></ab>
+<ab type='prose'>次結蓮華部心三昧耶印。<lb
+ n="0603b13" ed="T"/>準前佛部心印。智度屈入掌。直竪禪度。結<lb
+ n="0603b14" ed="T"/>此契已。想於一切如來右邊。有觀自在菩薩<lb
+ n="0603b15" ed="T"/>并諸眷屬。印誦蓮華部心真言三遍。頂上<lb
+ n="0603b16" ed="T"/>右散印真言曰。<lb
+ n="0603b17" ed="T"/></ab>
+<ab type='dharani'>唵阿嚧力迦娑嚩賀<lb
+ n="0603b18" ed="T"/></ab>
+<ab type='prose'>次結金剛部心三昧耶印。<lb
+ n="0603b19" ed="T"/>准前佛部心印。以禪度屈入掌。直竪智度。想<lb
+ n="0603b20" ed="T"/>於一切如來左邊。有金剛手菩薩并諸眷屬。<lb
+ n="0603b21" ed="T"/>即誦金剛部心真言三遍。頂左散印真言曰。<lb
+ n="0603b22" ed="T"/></ab>
+<ab type='dharani'>唵嚩日囉地力迦娑嚩賀<lb
+ n="0603b23" ed="T"/></ab>
+<ab type='prose'>次結被甲護身印。<lb
+ n="0603b24" ed="T"/>以觀羽禪度橫於掌內。以進忍戒檀四度。<lb
+ n="0603b25" ed="T"/>握拳結此契成印身五處所謂印額右肩左<lb
+ n="0603b26" ed="T"/>肩心喉。是名五處護身真言曰。<lb
+ n="0603b27" ed="T"/></ab>
+<ab type='dharani'>唵步入嚩羅吽<lb
+ n="0603b28" ed="T"/></ab>
+<ab type='prose'>由結此印加持五處。即成被金剛光焰堅固<lb
+ n="0603b29" ed="T"/>甲冑。一切諸魔不能障難。所持真言速得成<pb n="0603c" id="T20.1146.0603c" ed="T"/><lb
+ n="0603c01" ed="T"/>就。<lb
+ n="0603c02" ed="T"/>次結請虛空藏菩薩印。<lb
+ n="0603c03" ed="T"/>二羽金剛縛。直竪忍願。反蹙如寶形。進力各<lb
+ n="0603c04" ed="T"/>屈如鉤。想於壇中有寶樓閣。於樓閣內有<lb
+ n="0603c05" ed="T"/>八葉開敷蓮華。誦真言四遍。以進力向身招<lb
+ n="0603c06" ed="T"/>之。本尊并及眷屬皆來集會。迎請真言曰。<lb
+ n="0603c07" ed="T"/></ab>
+<ab type='dharani'>唵薩嚩怛他誐哆毘囇迦嚩日囉囉怛曩薩嚩舍跛哩布囉迦弱吽<lb
+ n="0603c09" ed="T"/>鑁斛怛囕<lb
+ n="0603c10" ed="T"/></ab>
+<ab type='prose'>次結軍吒利身印。<lb
+ n="0603c11" ed="T"/>以檀慧右押左。相叉入掌。以戒方並押交上。<lb
+ n="0603c12" ed="T"/>以禪智並押戒方。以忍願直竪頭相拄。進力<lb
+ n="0603c13" ed="T"/>屈如鉤。作三股杵形。即誦軍吒利真言。隨<lb
+ n="0603c14" ed="T"/>誦以印。左旋三匝辟除一切諸魔。右轉三匝<lb
+ n="0603c15" ed="T"/>便成結界真言曰。<lb
+ n="0603c16" ed="T"/></ab>
+<ab type='dharani'>曩謨囉怛曩怛囉夜耶娜莫室戰拏摩賀嚩日囉矩嚕馱耶唵戶<pb n="0604a" id="T20.1146.0604a" ed="T"/><lb
+ n="0604a01" ed="T"/>魯戶魯底瑟姹底瑟姹滿馱滿馱賀<lb
+ n="0604a02" ed="T"/>曩賀曩阿密哩帝吽發吒娑嚩賀<lb
+ n="0604a03" ed="T"/><lb
+ n="0604a04" ed="T"/></ab>
+<ab type='prose'>次獻遏伽水。行者常於壇上。近膝置二<lb
+ n="0604a05" ed="T"/>淨器。滿盛香水以為遏伽。初迎請時獻右邊<lb
+ n="0604a06" ed="T"/>者。後奉送時獻左邊者。每奉獻時二羽捧遏<lb
+ n="0604a07" ed="T"/>伽器。當額奉獻。即誦真言想浴本尊及諸<lb
+ n="0604a08" ed="T"/>聖眾真言曰。<lb
+ n="0604a09" ed="T"/></ab>
+<ab type='dharani'>唵嚩日囉娜迦吽<lb
+ n="0604a10" ed="T"/></ab>
+<ab type='prose'>次結獻蓮華座印。<lb
+ n="0604a11" ed="T"/>以二羽虛心合掌。以檀慧禪智各頭相著。餘<lb
+ n="0604a12" ed="T"/>中間六度微屈。頭相離猶如開敷蓮華葉形<lb
+ n="0604a13" ed="T"/>真言曰。<lb
+ n="0604a14" ed="T"/></ab>
+<ab type='dharani'>唵迦麼攞娑嚩賀<lb
+ n="0604a15" ed="T"/></ab>
+<ab type='prose'>由結此印真言加持。一切聖眾并及本尊。皆<lb
+ n="0604a16" ed="T"/>得七寶蓮華為座。<lb
+ n="0604a17" ed="T"/>次結大虛空藏普通供養印。<lb
+ n="0604a18" ed="T"/>以二羽合掌。以戒方二度外縛。以進力反蹙<lb
+ n="0604a19" ed="T"/>如寶形。結成契已。誦真言四遍。普供養真言<lb
+ n="0604a20" ed="T"/>曰。<lb
+ n="0604a21" ed="T"/></ab>
+<ab type='dharani'>唵誐誐曩三婆嚩嚩日囉斛<lb
+ n="0604a22" ed="T"/></ab>
+<ab type='prose'>想從印出生無量種種供養香花燈燭塗香飲<lb
+ n="0604a23" ed="T"/>食寶幢幡蓋。即於本尊及一切聖眾前。則成<lb
+ n="0604a24" ed="T"/>就真實廣大供養。<lb
+ n="0604a25" ed="T"/>次結羯磨印。<lb
+ n="0604a26" ed="T"/>以止羽當心仰掌。以智力相捻。反屈力度<lb
+ n="0604a27" ed="T"/>如寶形。以觀羽仰掌。向前作施願勢結此契<lb
+ n="0604a28" ed="T"/>已作是思惟。我身即同虛空藏菩薩即誦羯<lb
+ n="0604a29" ed="T"/>磨真言曰。<pb n="0604b" id="T20.1146.0604b" ed="T"/><lb
+ n="0604b01" ed="T"/></ab>
+<ab type='dharani'>唵嚩日囉囉怛弩憾<lb
+ n="0604b02" ed="T"/></ab>
+<ab type='prose'>由作此觀加持故。行者自身即等同本尊虛<lb
+ n="0604b03" ed="T"/>空藏菩薩。<lb
+ n="0604b04" ed="T"/>次結三昧耶印。<lb
+ n="0604b05" ed="T"/>以二羽金剛縛。進力反蹙如寶形。禪智並竪<lb
+ n="0604b06" ed="T"/>置於當心。即誦三昧耶真言七遍真言曰。<lb
+ n="0604b07" ed="T"/></ab>
+<ab type='dharani'>唵嚩日囉囉怛曩吽<lb
+ n="0604b08" ed="T"/></ab>
+<ab type='prose'>即取水精念珠安於掌中。合掌當心。誦加持<lb
+ n="0604b09" ed="T"/>念珠真言三遍真言曰。<lb
+ n="0604b10" ed="T"/></ab>
+<ab type='dharani'>唵尾嚧左曩麼攞娑嚩賀<lb
+ n="0604b11" ed="T"/></ab>
+<ab type='prose'>則捧珠安於頂上。發是願言。十方世界所有<lb
+ n="0604b12" ed="T"/>修真言行者。彼所受持一切真言。願速成就。<lb
+ n="0604b13" ed="T"/>即止羽承珠。觀羽當心。移珠不緩不急。心離<lb
+ n="0604b14" ed="T"/>散亂。或千或百限數畢已。捧珠頂戴又發是<lb
+ n="0604b15" ed="T"/>願。一切有情所希望。世出世間殊勝果報。<lb
+ n="0604b16" ed="T"/>以我念誦福力。速令成就。即安珠於本處。復<lb
+ n="0604b17" ed="T"/>結本尊三昧耶印。誦三昧耶真言七遍。頂上<lb
+ n="0604b18" ed="T"/>散印。又結普供養印誦普通供養真言七遍。<lb
+ n="0604b19" ed="T"/>頂上散印誦虛空藏菩薩讚歎曰。<lb
+ n="0604b20" ed="T"/></ab>
+<ab type='dharani'>嚩日囉囉怛曩素嚩日囉囉<lb
+ n="0604b21" ed="T"/>他嚩日囉迦捨摩賀麼柅<lb
+ n="0604b22" ed="T"/>阿迦捨󰋲婆嚩日囉茶<lb
+ n="0604b23" ed="T"/>嚩日囉󰋲婆曩謨窣堵帝<lb
+ n="0604b24" ed="T"/></ab>
+<ab type='prose'>誦讚歎已。即取左邊閼伽。當額奉獻。即結<lb
+ n="0604b25" ed="T"/>前軍吒利印。左旋一匝解界。次結三昧耶<lb
+ n="0604b26" ed="T"/>印。奉送一切聖眾。奉送真言曰。<lb
+ n="0604b27" ed="T"/></ab>
+<ab type='dharani'>唵嚩日囉囉怛曩穆<lb
+ n="0604b28" ed="T"/></ab>
+<ab type='prose'>舉印安頂上。誦真言七遍。即成奉送一切聖<lb
+ n="0604b29" ed="T"/>眾。復結三部心三昧耶各誦三遍。次結護身<pb n="0604c" id="T20.1146.0604c" ed="T"/><lb
+ n="0604c01" ed="T"/>印。如前印於五處。即禮佛發願隨意出道場。<lb
+ n="0604c02" ed="T"/>轉讀大乘印佛印塔。廣行檀施常須饒益一<lb
+ n="0604c03" ed="T"/>切有情。<lb
+ n="0604c04" ed="T"/>
+</ab><ab type='juan' subtype='close'>大虛空藏菩薩念誦法</ab></div>
+</body></text></TEI>

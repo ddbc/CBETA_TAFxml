@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">聖觀自在菩薩一百八名經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1054</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0069b" id="T20.1054.0069b" ed="T"/><lb
+ n="0069b01" ed="T"/><lb
+ n="0069b02" ed="T"/><lb
+ n="0069b03" ed="T"/>
+<ab type='juan' subtype='open'>聖觀自在菩薩一百八名經</ab><lb
+ n="0069b04" ed="T"/><lb
+ n="0069b05" ed="T"/><byline>宋西天中印度惹爛馱羅國三藏<lb
+ n="0069b06" ed="T"/>明教大師天息災奉　詔譯</byline><lb
+ n="0069b07" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛在補怛落迦山聖觀自在<lb
+ n="0069b08" ed="T"/>菩薩宮。其山峯峙眾寶所成。無垢清淨閻浮<lb
+ n="0069b09" ed="T"/>檀金。摩尼寶王種種珍寶。妙色光明常普照<lb
+ n="0069b10" ed="T"/>曜復有如意天劫波樹。恒時流出阿僧祇數。<lb
+ n="0069b11" ed="T"/>蘇羅鼻香栴檀沈水。俱蘇摩華柔軟適意。妙<lb
+ n="0069b12" ed="T"/>色芬芳處處嚴飾。復有無量百千萬億那由<lb
+ n="0069b13" ed="T"/>他數。天龍夜叉乾闥婆阿修羅迦樓羅緊那<lb
+ n="0069b14" ed="T"/>羅摩睺羅迦人非人等往詣佛所頭面作禮。<lb
+ n="0069b15" ed="T"/>供養恭敬尊重讚歎。一心合掌寂然聽法。爾<lb
+ n="0069b16" ed="T"/>時世尊告梵王言。如來說法初中後善。其義<lb
+ n="0069b17" ed="T"/>深遠其語巧妙。純一無雜圓滿清淨梵行之<lb
+ n="0069b18" ed="T"/>相。隨宜說法利益眾生。是聖觀自在菩薩一<lb
+ n="0069b19" ed="T"/>百八名。若有聞者百千萬億無數劫中不墮<lb
+ n="0069b20" ed="T"/>惡趣。彼人若有五無間業盡得消除。世世生<lb
+ n="0069b21" ed="T"/>生得宿命智。聖觀自在菩薩一百八名祕密<lb
+ n="0069b22" ed="T"/>明曰。<lb
+ n="0069b23" ed="T"/></ab>
+<ab type='dharani'>怛儞野他呬婆嚩曩訖哩哆訖<lb
+ n="0069b24" ed="T"/>哩怛野訖哩哆迦囉抳野賀哩<lb
+ n="0069b25" ed="T"/>哆婆囉阿努鉢囉鉢哆娑嚩迦囉他波哩訖叉拏婆嚩三喻惹<lb
+ n="0069b27" ed="T"/>曩娑弭野誐惹拏曩蘇尾目訖<lb
+ n="0069b28" ed="T"/>哆唧哆蘇尾目訖哆鉢囉惹拏<lb
+ n="0069b29" ed="T"/>阿惹儞喻摩賀曩誐薩哩嚩<pb n="0069c" id="T20.1054.0069c" ed="T"/><lb
+ n="0069c01" ed="T"/>唧覩嚩勢波囉摩波囉弭哆鉢囉鉢<lb
+ n="0069c02" ed="T"/>哆波哩布囉拏惹拏曩三婆囉<lb
+ n="0069c03" ed="T"/>塢諦囉拏婆嚩建哆囉波囉呬<lb
+ n="0069c04" ed="T"/>哆野怛曩迦嚕拏滿馱賀哩那野鉢囉惹波囉摩嚩怛娑囉蘇佉<lb
+ n="0069c06" ed="T"/>鉢囉那娑儞賀鉢囉悉哩<lb
+ n="0069c07" ed="T"/>哆阿難哆薩怛夢哆囉拏怛俱<lb
+ n="0069c08" ed="T"/>舍羅蘇誐哆惹敢摩怛哩部<lb
+ n="0069c09" ed="T"/>嚩乃迦滿馱嚩尾誐哆囉誐尾誐<lb
+ n="0069c10" ed="T"/>哆禰吠灑尾誐哆謨賀怛哩<lb
+ n="0069c11" ed="T"/>摩羅鉢囉呬拏怛󰪯尾儞野波囉誐沙吒鼻惹拏鉢囉鉢哆<lb
+ n="0069c13" ed="T"/>儞野虞嚕馱波哩曼拏羅<lb
+ n="0069c14" ed="T"/>馱怛陵扇摩賀布嚕沙洛訖叉拏馱<lb
+ n="0069c15" ed="T"/>囉阿世怛野努尾焰惹曩楞訖<lb
+ n="0069c16" ed="T"/>哩哆誐怛囉蘇嚩囉拏蘇訖<lb
+ n="0069c17" ed="T"/>叉摩蹉尾鉢蘭輸囉嚩那怛沒<lb
+ n="0069c18" ed="T"/>哩諦曩嚩曩誐計娑囉嚕拏惹吒<lb
+ n="0069c19" ed="T"/>馱囉惹吒迦囉布波虞嗏沒哩地儞阿彌哆婆惹敢母曩那建左曩<lb
+ n="0069c21" ed="T"/>嚩婆娑鉢囉目訖哆囉濕弭入嚩隷哆尾野摩鉢囉婆建<lb
+ n="0069c23" ed="T"/>左曩捺哩鉢囉體哆野舍娑尾<lb
+ n="0069c24" ed="T"/>布羅諦惹塢那喻禰詣囉拏<lb
+ n="0069c25" ed="T"/>禰曩迦嚕瑟抳沙鉢羅入嚩<lb
+ n="0069c26" ed="T"/>隷哆摩抳野詣波尾哆哩馱迦<lb
+ n="0069c27" ed="T"/>野部弭鉢囉尾左野捺舍波囉<lb
+ n="0069c28" ed="T"/>弭哆左囉拏阿欠抳哆尸羅阿砌掩<pb n="0070a" id="T20.1054.0070a" ed="T"/><lb
+ n="0070a01" ed="T"/>囉尸羅僧賀尾訖蘭覩囉瑟迦<lb
+ n="0070a02" ed="T"/>俱摩羅羅隷哆誐怛囉沒哩<lb
+ n="0070a03" ed="T"/>鼻孕捺囉訖叉抳誐諦諾<lb
+ n="0070a04" ed="T"/>訖剎拏挽哩哆曩鼻阿哩馱<lb
+ n="0070a05" ed="T"/>贊捺囉楞訖哩哆諦羅迦尾悉<lb
+ n="0070a06" ed="T"/>諦囉拏羅羅吒鉢囉楞嚩嚩<lb
+ n="0070a07" ed="T"/>護儞囉鑒哆囉部嚕塢覩誐曩<lb
+ n="0070a08" ed="T"/>舍迦羅娑訖哩諦誐哩嚩禰<lb
+ n="0070a09" ed="T"/>哩伽虞隷波哩嚩抳麼哩努哆<lb
+ n="0070a10" ed="T"/>摩囉曩佉惹囉嚩曩馱賀娑哆作訖囉楞訖哩哆波抳哆羅<lb
+ n="0070a12" ed="T"/>娑囉怛迦摩羅儞婆舍羅訖叉𠯆<lb
+ n="0070a13" ed="T"/>波唧哆誐怛囉沒囉憾摩儼<lb
+ n="0070a14" ed="T"/>鼻囉濕嚩囉賀哩那焰誐摩必哩<lb
+ n="0070a15" ed="T"/>麼抳喻捺哩舍儞野囉麼抳野<lb
+ n="0070a16" ed="T"/>迦摩羅婆迦摩路訥婆縛迦<lb
+ n="0070a17" ed="T"/>摩羅三婆嚩迦摩羅薩曩迦摩羅賀娑<lb
+ n="0070a18" ed="T"/>哆迦曼拏路尾野誐囉賀娑哆訖哩瑟拏𠰒曩馱囉難拏馱囉<lb
+ n="0070a20" ed="T"/>阿訖叉馱囉布哆鉢尾怛囉布哩嚩鼻婆史阿蜜哩哆嚩<lb
+ n="0070a22" ed="T"/>哩沙唧哆麼抳迦羅波蘇涅哩<lb
+ n="0070a23" ed="T"/>舍曩沒哩訖叉薩哩嚩薩怛<lb
+ n="0070a24" ed="T"/>嚩沒哩諦迦囉必哩諦迦囉薩哩嚩薩怛󰂛波𠰒尾野沒<lb
+ n="0070a26" ed="T"/>馱儞哩摩拏蘇誐哆尾沙馱囉伊<lb
+ n="0070a27" ed="T"/>罽迦嚕摩俱波薩怛嚩娑囉<pb n="0070b" id="T20.1054.0070b" ed="T"/><lb
+ n="0070b01" ed="T"/>訖哩哆奔抳野訖哩哆俱舍羅<lb
+ n="0070b02" ed="T"/>訖哩哆儞室左野塢哆鉢哆尾哩野僧娑囉諦訖蘭哆薩達哩麼窈嚩囉惹野鼻瑟訖哆<lb
+ n="0070b05" ed="T"/>哆囉努誐哆左囉拏部哩<lb
+ n="0070b06" ed="T"/>俱致訖哩哆惹拏惹野挽覩曩野<lb
+ n="0070b07" ed="T"/>滿哆娑沒哩諦滿哆摩賀尾迦<lb
+ n="0070b08" ed="T"/>囉摩滿哆虞拏挽覩昧怛哩滿<lb
+ n="0070b09" ed="T"/>哆扇哆滿哆尸羅滿哆婆誐野<lb
+ n="0070b10" ed="T"/>滿哆阿哩他滿哆阿哩他<lb
+ n="0070b11" ed="T"/>喃尾孕哆囉商娑野喃親<lb
+ n="0070b12" ed="T"/>哆囉達哩麼𧹞鉢囉嚩訖哆囉路迦喃設娑哆囉波哩<lb
+ n="0070b14" ed="T"/>布囉拏曼拏羅目佉薩哩嚩囉怛<lb
+ n="0070b15" ed="T"/>曩佉唧哆儞檐摩然囉禰舍蘇嚩囉拏嚩囉喻波弭嚩娑他曳<lb
+ n="0070b17" ed="T"/>蘇哩野娑賀娑囉諦哩迦嚕唧囉<lb
+ n="0070b18" ed="T"/>舍哩囉沒囉憾摩捺囉禰曩麼<lb
+ n="0070b19" ed="T"/>娑訖哩哆<lb
+ n="0070b20" ed="T"/></ab>
+<ab type='prose'>爾時佛告梵王及帝釋言。若有受持讀誦此<lb
+ n="0070b21" ed="T"/>聖觀自在菩薩一百八名祕密明者。當知是<lb
+ n="0070b22" ed="T"/>人世世生生。恒得覩見聖觀自在。若恒受持<lb
+ n="0070b23" ed="T"/>得大富貴。獲得聰明獲得勇猛。獲得端嚴獲<lb
+ n="0070b24" ed="T"/>得妙聲。獲得辯才。獲得恒知一切法義入曼<lb
+ n="0070b25" ed="T"/>拏羅。凡有所祈一切真言悉地成就。早晨課<lb
+ n="0070b26" ed="T"/>念永無病苦疥癩氣疾。臨命終時往生西方<lb
+ n="0070b27" ed="T"/>極樂世界。爾時世尊告梵王。言若人受持六<lb
+ n="0070b28" ed="T"/>十二億恒河沙數諸佛名號。復能盡形四事<pb n="0070c" id="T20.1054.0070c" ed="T"/><lb
+ n="0070c01" ed="T"/>供養。是人所獲果報多不。梵王白言甚多世<lb
+ n="0070c02" ed="T"/>尊甚多善逝。佛言若人受持聖觀自在菩薩<lb
+ n="0070c03" ed="T"/>一百八名。乃至須臾禮拜供養。二人果報正<lb
+ n="0070c04" ed="T"/>等無異。梵王當知受持讀誦聖觀自在菩薩<lb
+ n="0070c05" ed="T"/>一百八名。獲得如是無量無邊福報之利。何<lb
+ n="0070c06" ed="T"/>況盡形受持讀誦。所獲功德世世生生不可<lb
+ n="0070c07" ed="T"/>窮盡。爾時世尊說是語已。大梵天王及天帝<lb
+ n="0070c08" ed="T"/>釋。天龍八部一切大眾。聞佛所說信受奉行。<lb
+ n="0070c09" ed="T"/>
+</ab><ab type='juan' subtype='close'>聖觀自在菩薩一百八名經</ab></div>
+</body></text></TEI>

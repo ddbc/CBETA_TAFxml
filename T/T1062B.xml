@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">世尊聖者千眼千首千足千舌千臂觀自在菩提薩埵怛嚩廣大圓滿無礙大悲心陀羅尼</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1062B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="0114b" id="T20.1062B.0114b" ed="T"/><lb
+ n="0114b01" ed="T"/><lb
+ n="0114b02" ed="T"/><lb
+ n="0114b04" ed="T"/>
+<ab type='juan' subtype='open'>世尊聖者千眼千首千足千舌千<lb
+ n="0114b05" ed="T"/>臂觀自在菩提薩埵怛嚩廣大圓<lb
+ n="0114b06" ed="T"/>滿無礙大悲心陀羅尼</ab><lb
+ n="0114b07" ed="T"/><lb
+ n="0114b08" ed="T"/><div type='dharani' level='1'><ab type='dharani'>􇖵􄖩􄗭􄗽􅑈􄩞􄗲􄗱􇟄􄖩􄗰􆿆􅝩􄙖􄙒<lb
+ n="0114b09" ed="T"/>􄑂􄕝􈂫􄗾􄗱　􄗕􄕽􄙺􄽚􄗱　􄗥􄚩􄙺<lb
+ n="0114b10" ed="T"/>􄽚􄗱　􄗥􄚩􄑁􄙂􄕍􄑁􄗱　􄗥􄑁􄙙􄗾<lb
+ n="0114b11" ed="T"/>􄗱　􄙺􄚨􄭶􄚵􄗱　􄙺􄚨􄭵􄙥􄙯􄗱<lb
+ n="0114b12" ed="T"/>􄙺􄚨􄭵􄖵􄕯􄗱　􄙺􄚨􄭵􄒸􄽲􄗱　􄙺<lb
+ n="0114b13" ed="T"/>􄚨􄭵􄗝􄒷􄗱　􆿏􄚪􄗙􄑘􈆯　􄖪􇩈􄙖<lb
+ n="0114b14" ed="T"/>􄙒􄑂􄕝􈂫􄗽　􆿉􄥟􆿅􈇪􄥟　􄗥􄚩􆿉<lb
+ n="0114b15" ed="T"/>􄥟􄗥􄚩􄖪􄕯　􄑂􄙌􄑂􄙌􄑂􄙌􄑂􄙌<lb
+ n="0114b16" ed="T"/>􄗧􄙌􄗧􄙌􄗧􄙌　􄑾􄙌􄑾􄙌􄑾􄙌􄑾􄙌<lb
+ n="0114b17" ed="T"/>􄖩􄓞􄖩􄓞􄖩􄓞􄖩􄓞　􄥇􄙺􄥇􄙺􄥇􄙺<lb
+ n="0114b18" ed="T"/>􄥇􄙺　􄑄􄙂􄑄􄙂􄑄􄙂􄑄􄙂　􆿏􈂯􄚪<lb
+ n="0114b19" ed="T"/>　􄗥􄚩􄙙􄗽　􄙖􄙔􄕯􄕯􄙙􅝳􄕯􄕯􄙺<lb
+ n="0114b20" ed="T"/>􄙠　􄑁􄗯􄗫　􄪼􄗱􇩹􄙥􄥵　􄙖􄙬􄗫<lb
+ n="0114b21" ed="T"/>􄗾􈇒　􄙺􄗾􄒶􄑊􄑄􄙂　􄙺􄚨􄭵􄗝􄒶<lb
+ n="0114b22" ed="T"/>　􄙺􄚨􄭵􄙙􄗽　􄙒􄑆􈂫􄗽　􄙻􄕻􄗱<lb
+ n="0114b23" ed="T"/>　􄙺􄕰􄙼􈂧􄗫􄗙􄙖　􄕻􄗽􄕷􄗙􄙖<lb
+ n="0114b24" ed="T"/>􆿅􄥧􄗙􄙗􄗧　􈁴􄖩􄗭􈁨􄕝　􄗙􄑘􄙠<lb
+ n="0114b25" ed="T"/>􅑉􅝪􄙖􄙒􄑂􄕝􈋯􄗽　􄪼􄖹􄟻􄪼􄙽􄕯<lb
+ n="0114b26" ed="T"/>􄗰􄙖􄗽􄕷􄗥􄗥　􄗙􄙗􄚪　􅁥􄚩􇖴</ab></div>
+</body></text></TEI>

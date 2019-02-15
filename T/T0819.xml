@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說法常住經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T17</biblScope>
+                    <idno type="Taisho">T17n0819</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0833c10" ed="T"/><lb
+ ed="T" n="0833c11"/><lb
+ ed="T" n="0833c12"/><lb
+ ed="T" n="0833c13"/>
+<ab type='juan' subtype='open'>佛說法常住經</ab><lb
+ ed="T" n="0833c14"/><lb
+ ed="T" n="0833c15"/><byline>僧祐錄云安公失譯經人名今附西晉錄</byline><lb
+ n="0833c16" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊舍衛國祇樹給孤獨之園。<lb
+ n="0833c17" ed="T"/>佛告諸比丘：「法者常在，有佛、無佛，法住如<lb
+ ed="T" n="0833c18"/>故。如來至真，出現世間，因為宣解，分別深義，<lb
+ ed="T" n="0833c19"/>敷演至慧。志在小乘，為說四諦：苦、習、盡、道。<lb
+ n="0833c20" ed="T"/>生苦、老苦、病苦、死苦、求不得苦，舉要言之，有<lb
+ n="0833c21" ed="T"/>陰身苦；設無有身，當有何患？是曰苦諦。目貪<lb
+ ed="T" n="0833c22"/>於色，耳、鼻、身、口、意亦復如是，由此因緣，成其<lb
+ n="0833c23" ed="T"/>六衰。從來劫數，甚大久矣，既諦見斯已，知為<lb
+ ed="T" n="0833c24"/>惡習，悉無益身。因守身行，護其心、口十惡，以<lb
+ ed="T" n="0833c25"/>拔十二因緣，根本則滅。滅除三毒，空，無相、願，<lb
+ ed="T" n="0833c26"/>由成羅漢。「緣十二因，知其牽連，斷其根源，輒<lb
+ n="0833c27" ed="T"/>成緣覺。「解身本空，奉六度無極、四等、四恩。道<lb
+ n="0833c28" ed="T"/>品之法，三十有七，空，無相、願，無此三事，不為<lb
+ n="0833c29" ed="T"/>取證。六通善權，常濟危厄，等心一切，無所適<pb n="0834a" ed="T" id="T17.0819.0834a"/><lb
+ n="0834a01" ed="T"/>莫，故曰菩薩。「逮不退轉，當成無上正真之道，<lb
+ n="0834a02" ed="T"/>為最正覺，度脫十方，故號為佛。「道法常存，行<lb
+ ed="T" n="0834a03"/>者與合，無彼無此，猶如眾流，未到海時，各有<lb
+ ed="T" n="0834a04"/>本名；以合于海，無有異號。道德若茲，去來今<lb
+ n="0834a05" ed="T"/>佛，合一法身，行與道合；因為眾生，分別演說。<lb
+ n="0834a06" ed="T"/>陰、衰、諸入、十二牽連，皆為病疾；諸度無極、四<lb
+ ed="T" n="0834a07"/>等、四恩，為大法藥，療眾生病。淨如虛空，明踰<lb
+ ed="T" n="0834a08"/>日光，德超須彌，神聖巍巍，莫能譏謗，眾罪消<lb
+ ed="T" n="0834a09"/>滅，無復諸苦，以大慈悲，度脫十方。」佛說是<lb
+ ed="T" n="0834a10"/>時，諸比丘眾漏盡意解，無數菩薩尋時逮得<lb
+ ed="T" n="0834a11"/>無所從生法忍。佛說如是，諸比丘及諸菩薩、<lb
+ ed="T" n="0834a12"/>諸天龍神，聞佛所說，歡喜奉行。</ab></div><lb
+ ed="T" n="0834a13"/>
+<ab type='juan' subtype='close'>佛說法常住經</ab>
+</body></text></TEI>

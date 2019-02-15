@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">五字陀羅尼頌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T20</biblScope>
+                    <idno type="Taisho">T20n1174</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0713b12" ed="T"/><lb
+ n="0713b13" ed="T"/><lb
+ n="0713b14" ed="T"/><lb
+ n="0713b15" ed="T"/>
+<ab type='juan' subtype='open'>五字陀羅尼頌</ab><lb
+ n="0713b16" ed="T"/><lb
+ n="0713b17" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
+ n="0713b18" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
+ n="0713b19" ed="T"/>正號大廣智大興善寺三藏沙門<lb
+ n="0713b20" ed="T"/>不空奉　詔譯</byline><lb
+ n="0713b21" ed="T"/><div type='jing' level='1'><ab type='verse'>
+百千瑜伽中　　金剛大師說　　<lb
+ n="0713b22" ed="T"/>聖曼殊童子　　五字祕密法　　<lb
+ n="0713b23" ed="T"/>修此三昧者　　疾入諸佛慧　　<lb
+ n="0713b24" ed="T"/>能以凡夫身　　見成就佛身　　<lb
+ n="0713b25" ed="T"/>此法最祕密　　大師口傳授　　<lb
+ n="0713b26" ed="T"/>應被精進鎧　　依法不依人　　<lb
+ n="0713b27" ed="T"/>如來法無二　　淨信者所得　　<lb
+ n="0713b28" ed="T"/>猶如普注雨　　沃土先滋長　　<lb
+ n="0713b29" ed="T"/>世尊所密教　　智者宜修習　　<pb n="0713c" id="T20.1174.0713c" ed="T"/><lb
+ n="0713c01" ed="T"/>眾生性狹劣　　迷入三有苦　　<lb
+ n="0713c02" ed="T"/>雖聞勝上法　　不生勇進意　　<lb
+ n="0713c03" ed="T"/>智者生悲愍　　為此求先覺　　<lb
+ n="0713c04" ed="T"/>猶如近寶山　　智人往採掇　　<lb
+ n="0713c05" ed="T"/>愚者知不往　　長日受眾苦　　<lb
+ n="0713c06" ed="T"/>若有聞此法　　即知最勝路　　<lb
+ n="0713c07" ed="T"/>住於大願者　　如是人堪學　　<lb
+ n="0713c08" ed="T"/>若有聞此法　　悚慄深悲喜　　<lb
+ n="0713c09" ed="T"/>涕泣身毛竪　　如是人堪學　　<lb
+ n="0713c10" ed="T"/>若有聞此法　　一心即不亂　　<lb
+ n="0713c11" ed="T"/>諸根淨適悅　　如是人堪學　　<lb
+ n="0713c12" ed="T"/>若有聞此法　　隨得禪悅味　　<lb
+ n="0713c13" ed="T"/>即不樂世樂　　如是人堪學　　<lb
+ n="0713c14" ed="T"/>若有聞此法　　不待時與日　　<lb
+ n="0713c15" ed="T"/>不求具足法　　唯以心直進　　<lb
+ n="0713c16" ed="T"/>不於諸供具　　作求不得苦　　<lb
+ n="0713c17" ed="T"/>善知法供養　　如是人堪學　　<lb
+ n="0713c18" ed="T"/>誦習真言時　　如味天甘露　　<lb
+ n="0713c19" ed="T"/>一心必願聞　　如是人堪學　　<lb
+ n="0713c20" ed="T"/>二手結祕印　　作大慇重想　　<lb
+ n="0713c21" ed="T"/>猶如捧須彌　　如是人堪學　　<lb
+ n="0713c22" ed="T"/>此法諸佛為　　最上乘者說　　<lb
+ n="0713c23" ed="T"/>根性下劣者　　疑惑不能信　　<lb
+ n="0713c24" ed="T"/>眾生性淨故　　諸佛本誓力　　<lb
+ n="0713c25" ed="T"/>以相應法印　　現成諸聖身　　<lb
+ n="0713c26" ed="T"/>即於一坐中　　便成最正覺　　<lb
+ n="0713c27" ed="T"/>若隨此法者　　應作如是信　　<lb
+ n="0713c28" ed="T"/>或起於一念　　言我是凡夫　　<lb
+ n="0713c29" ed="T"/>同謗三世佛　　法中結重罪　　<pb n="0714a" id="T20.1174.0714a" ed="T"/><lb
+ n="0714a01" ed="T"/>未受灌頂位　　及非同事者　　<lb
+ n="0714a02" ed="T"/>不應妄稱說　　如護髻中珠　　<lb
+ n="0714a03" ed="T"/>如經說處所　　或於阿練若　　<lb
+ n="0714a04" ed="T"/>河池及海岸　　清淨名山峯　　<lb
+ n="0714a05" ed="T"/>得道轉法輪　　仙人成就處　　<lb
+ n="0714a06" ed="T"/>擇地起精舍　　隨順於境界　　<lb
+ n="0714a07" ed="T"/>塗地淨平好　　布散諸時花　　<lb
+ n="0714a08" ed="T"/>助法諸律儀　　如諸部所說　　<lb
+ n="0714a09" ed="T"/>清淨澡浴體　　襲上妙衣服　　<lb
+ n="0714a10" ed="T"/>塗香使嚴好　　趣於精舍門　　<lb
+ n="0714a11" ed="T"/>先想己身形　　作金剛薩埵　　<lb
+ n="0714a12" ed="T"/>左手持金剛　　右執光明磬　　<lb
+ n="0714a13" ed="T"/>門戶稱吽字　　怒目除不祥　　<lb
+ n="0714a14" ed="T"/>即五體投地　　敬禮世尊足　　<lb
+ n="0714a15" ed="T"/>一心以歸命　　作佛常住想　　<lb
+ n="0714a16" ed="T"/>次雙膝長跪　　發露諸過咎　　<lb
+ n="0714a17" ed="T"/>以此清淨句　　懇誠為懺悔　　
+</ab><lb
+ n="0714a18" ed="T"/><ab type='dharani'>唵薩嚩婆嚩戌馱薩嚩達磨薩嚩婆嚩戌度含<lb
+ n="0714a20" ed="T"/></ab>
+<ab type='verse'>
+當默誦一遍　　口稱阿字句　　<lb
+ n="0714a21" ed="T"/>無量所積罪　　清淨無有餘　　<lb
+ n="0714a22" ed="T"/>次以虔請心　　結金剛起印　　<lb
+ n="0714a23" ed="T"/>默誦此密語　　召集十方佛　　<lb
+ n="0714a24" ed="T"/>二手金剛拳　　相鉤檀慧度　　<lb
+ n="0714a25" ed="T"/>進力峯相合　　當心仰三招　　<lb
+ n="0714a26" ed="T"/>即知諸如來　　悉從三昧起　　
+</ab><lb
+ n="0714a27" ed="T"/><ab type='dharani'>唵嚩日𡀔底瑟姹<lb
+ n="0714a28" ed="T"/></ab>
+<ab type='verse'>
+應觀虛空中　　諸佛及聖眾　　<lb
+ n="0714a29" ed="T"/>充滿法界海　　間無有空缺　　<pb n="0714b" id="T20.1174.0714b" ed="T"/><lb
+ n="0714b01" ed="T"/>悉以誓願力　　咸來降道場　　<lb
+ n="0714b02" ed="T"/>結持金剛印　　想禮諸佛足　　<lb
+ n="0714b03" ed="T"/>二羽各相背　　檀慧禪智鉤　　<lb
+ n="0714b04" ed="T"/>想禮諸如來　　長跪頂上散　　
+</ab><lb
+ n="0714b05" ed="T"/><ab type='dharani'>唵嚩日囉勿<lb
+ n="0714b06" ed="T"/></ab>
+<ab type='verse'>
+坐法有四種　　隨事次應作　　<lb
+ n="0714b07" ed="T"/>端身定支節　　趺坐淨月輪　　<lb
+ n="0714b08" ed="T"/>則以麼吒字　　二目為日月　　<lb
+ n="0714b09" ed="T"/>舒放金剛焰　　瞻視諸如來　　<lb
+ n="0714b10" ed="T"/>次迴顧諸方　　燒除作障者　　<lb
+ n="0714b11" ed="T"/>心舌及二羽　　吽字騰金光　　<lb
+ n="0714b12" ed="T"/>猶如諸如來　　說法之妙相　　<lb
+ n="0714b13" ed="T"/>次對十方佛　　結大誓願印　　<lb
+ n="0714b14" ed="T"/>十度金剛縛　　雙建忍願峯　　<lb
+ n="0714b15" ed="T"/>示佛及諸聖　　祈憶昔所願　　
+</ab><lb
+ n="0714b16" ed="T"/><ab type='dharani'>唵三麼耶薩怛鑁<lb
+ n="0714b17" ed="T"/></ab>
+<ab type='verse'>
+次結歡喜印　　獻此三昧悅　　<lb
+ n="0714b18" ed="T"/>十度外相叉　　忍願中交合　　<lb
+ n="0714b19" ed="T"/>檀慧與禪智　　各相合而竪　　
+</ab><lb
+ n="0714b20" ed="T"/><ab type='dharani'>唵三麼耶縠素喇多薩怛鑁<lb
+ n="0714b21" ed="T"/></ab>
+<ab type='verse'>
+觀於二乳上　　右怛囉左吒　　<lb
+ n="0714b22" ed="T"/>如宮室戶扇　　誦此祕言句　　<lb
+ n="0714b23" ed="T"/>即以金剛嚩　　三掣撥令啟　　
+</ab><lb
+ n="0714b24" ed="T"/><ab type='dharani'>唵嚩日囉滿馱怛囉吒<lb
+ n="0714b25" ed="T"/></ab>
+<ab type='verse'>
+觀前八葉蓮　　阿字素光色　　<lb
+ n="0714b26" ed="T"/>二羽金剛縛　　禪智入於中　　<lb
+ n="0714b27" ed="T"/>誦此祕密言　　字流入於殿　　
+</ab><lb
+ n="0714b28" ed="T"/><ab type='dharani'>唵嚩日囉吠舍惡<lb
+ n="0714b29" ed="T"/></ab>
+<ab type='verse'>
+如前入字印　　進力度屈拄　　<pb n="0714c" id="T20.1174.0714c" ed="T"/><lb
+ n="0714c01" ed="T"/>以此闔心門　　智字獲堅固　　
+</ab><lb
+ n="0714c02" ed="T"/><ab type='dharani'>唵嚩日囉母瑟致𤚥<lb
+ n="0714c03" ed="T"/></ab>
+<ab type='verse'>
+次結降三世　　住忿怒三昧　　<lb
+ n="0714c04" ed="T"/>欲作此法者　　先住大悲心　　<lb
+ n="0714c05" ed="T"/>二羽金剛拳　　檀慧反相鉤　　<lb
+ n="0714c06" ed="T"/>進力度竪開　　住於叱唱相　　<lb
+ n="0714c07" ed="T"/>顰眉笑而怒　　四吽如雷音　　<lb
+ n="0714c08" ed="T"/>觀密迹等眾　　受教而侍立　　<lb
+ n="0714c09" ed="T"/>左旋成辟除　　右旋成結界　　
+</ab><lb
+ n="0714c10" ed="T"/><ab type='dharani'>唵遜婆儞遜婆儞吽吃哩恨拏仡<lb
+ n="0714c11" ed="T"/>哩恨拏吽仡哩恨拏播耶<lb
+ n="0714c12" ed="T"/>吽阿曩耶縠薄伽鑁嚩日囉吽發吒<lb
+ n="0714c13" ed="T"/></ab>
+<ab type='verse'>
+次結三昧印　　行者住三昧　　<lb
+ n="0714c14" ed="T"/>二羽外相叉　　仰於跏坐上　　<lb
+ n="0714c15" ed="T"/>端坐合口齒　　數息令心定　　<lb
+ n="0714c16" ed="T"/>先所請如來　　遍滿空界者　　<lb
+ n="0714c17" ed="T"/>彈指警覺我　　令觀阿字門　　<lb
+ n="0714c18" ed="T"/>默誦此密語　　受教而侍立　　
+</ab><lb
+ n="0714c19" ed="T"/><ab type='dharani'>唵唧多鉢囉底味鄧迦𡀔彌<lb
+ n="0714c20" ed="T"/></ab>
+<ab type='verse'>
+當默誦一遍　　便想為月輪　　<lb
+ n="0714c21" ed="T"/>倍欲清淨故　　誦此祕密言　　
+</ab><lb
+ n="0714c22" ed="T"/><ab type='dharani'>唵冒地唧多母怛跛那夜彌<lb
+ n="0714c23" ed="T"/></ab>
+<ab type='verse'>
+於清淨月輪　　觀種子淡字　　<lb
+ n="0714c24" ed="T"/>以成金剛劍　　誦此祕密語　　
+</ab><lb
+ n="0714c25" ed="T"/><ab type='dharani'>唵底瑟姹嚩日囉底乞瑟拏<lb
+ n="0714c26" ed="T"/></ab>
+<ab type='verse'>
+於清淨月輪　　銳利至光徹　　<lb
+ n="0714c27" ed="T"/>次應漸周遍　　引量同虛空　　
+</ab><lb
+ n="0714c28" ed="T"/><ab type='dharani'>唵薩頗囉嚩日囉底乞瑟拏<lb
+ n="0714c29" ed="T"/></ab>
+<ab type='verse'>
+亦不見己身　　及與一切相　　<pb n="0715a" id="T20.1174.0715a" ed="T"/><lb
+ n="0715a01" ed="T"/>次應漸觀劍　　誦此收攝言　　
+</ab><lb
+ n="0715a02" ed="T"/><ab type='dharani'>唵僧賀囉嚩日囉底乞瑟拏<lb
+ n="0715a03" ed="T"/></ab>
+<ab type='verse'>
+虛空諸如來　　悉隨劍而歛　　<lb
+ n="0715a04" ed="T"/>量同己身已　　便成本聖形　　<lb
+ n="0715a05" ed="T"/>身色如紫金　　作妙童子相　　<lb
+ n="0715a06" ed="T"/>五髻被首飾　　冠寶五方冠　　<lb
+ n="0715a07" ed="T"/>右持金剛劍　　上發火焰色　　<lb
+ n="0715a08" ed="T"/>左手持青蓮　　有般若梵夾　　<lb
+ n="0715a09" ed="T"/>住諸妙色相　　身處淨月輪　　<lb
+ n="0715a10" ed="T"/>行者住此已　　應作是思惟　　<lb
+ n="0715a11" ed="T"/>我今堅固住　　金剛劍之身　　<lb
+ n="0715a12" ed="T"/>三昧耶之身　　摩訶三昧耶　　<lb
+ n="0715a13" ed="T"/>三世諸如來　　現成等正覺　　<lb
+ n="0715a14" ed="T"/>我住此三昧　　為金剛劍身　　<lb
+ n="0715a15" ed="T"/>作是思惟己　　同於誦密語　　<lb
+ n="0715a16" ed="T"/>應結本聖印　　加持三昧形　　<lb
+ n="0715a17" ed="T"/>二羽外相叉　　忍願俱申直　　<lb
+ n="0715a18" ed="T"/>屈二度上節　　猶如劍峯狀　　<lb
+ n="0715a19" ed="T"/>心額喉與頂　　各誦此一遍　　
+</ab><lb
+ n="0715a20" ed="T"/><ab type='dharani'>唵耨佉泚娜淡<lb
+ n="0715a21" ed="T"/></ab>
+<ab type='verse'>
+又結五髻印　　令具足諸相　　<lb
+ n="0715a22" ed="T"/>戒慧及檀方　　進禪力智度　　<lb
+ n="0715a23" ed="T"/>忍願等皆合　　印狀如五峯　　<lb
+ n="0715a24" ed="T"/>印心兩肩喉　　最後置頂上　　<lb
+ n="0715a25" ed="T"/>此名五髻印　　誦此本真言　　
+</ab><lb
+ n="0715a26" ed="T"/><ab type='dharani'>曩莫三曼多沒馱南阿鉢囉底賀多舍娑<lb
+ n="0715a27" ed="T"/>娜南怛儞也他唵囉囉三麼囉阿鉢<lb
+ n="0715a28" ed="T"/>囉底賀多舍娑娜南俱摩囉路跛陀哩抳<lb
+ n="0715a29" ed="T"/>吽娑頗吒娑頗吒娑嚩賀<pb n="0715b" id="T20.1174.0715b" ed="T"/><lb
+ n="0715b01" ed="T"/></ab>
+<ab type='verse'>
+次結灌頂印　　雙手合其掌　　<lb
+ n="0715b02" ed="T"/>禪智入於中　　進力摩尼狀　　<lb
+ n="0715b03" ed="T"/>置額誦密語　　想佛灌我頂　　
+</ab><lb
+ n="0715b04" ed="T"/><ab type='dharani'>唵囉怛曩句舍阿仡哩耶吽<lb
+ n="0715b05" ed="T"/></ab>
+<ab type='verse'>
+次結寶鬘印　　前印解而分　　<lb
+ n="0715b06" ed="T"/>額前與頂後　　以印皆三繞　　<lb
+ n="0715b07" ed="T"/>先從壇慧開　　如垂鬘帶勢　　
+</ab><lb
+ n="0715b08" ed="T"/><ab type='dharani'>唵囉怛娜句舍阿仡哩耶麼隷<lb
+ n="0715b09" ed="T"/></ab>
+<ab type='verse'>
+次被堅固甲　　二羽金剛拳　　<lb
+ n="0715b10" ed="T"/>交舒進力度　　唵砧想指面　　<lb
+ n="0715b11" ed="T"/>綠色光不絕　　猶如抽藕絲　　<lb
+ n="0715b12" ed="T"/>心背臍與腰　　二膝與坐後　　<lb
+ n="0715b13" ed="T"/>漸及喉與頸　　次額及頂後　　<lb
+ n="0715b14" ed="T"/>進力皆三繞　　前從壇慧散　　<lb
+ n="0715b15" ed="T"/>二手垂天衣　　此名慈悲甲　　
+</ab><lb
+ n="0715b16" ed="T"/><ab type='dharani'>唵嚩日囉迦嚩制嚩日囉句嚧嚩日囉<lb
+ n="0715b17" ed="T"/>嚩日哩含<lb
+ n="0715b18" ed="T"/></ab>
+<ab type='verse'>
+次於畫像心　　觀淡字為劍　　<lb
+ n="0715b19" ed="T"/>復成本尊體　　如前之所觀　　<lb
+ n="0715b20" ed="T"/>即以鉤印請　　二羽金剛拳　　<lb
+ n="0715b21" ed="T"/>檀慧反相鉤　　力竪進招屈　　
+</ab><lb
+ n="0715b22" ed="T"/><ab type='dharani'>唵嚩日啷句舍弱<lb
+ n="0715b23" ed="T"/></ab>
+<ab type='verse'>
+次以索印入　　印相同於前　　<lb
+ n="0715b24" ed="T"/>唯以進力度　　相拄如環勢　　
+</ab><lb
+ n="0715b25" ed="T"/><ab type='dharani'>唵嚩日囉波舍吽<lb
+ n="0715b26" ed="T"/></ab>
+<ab type='verse'>
+次以鎖印止　　二羽金剛拳　　<lb
+ n="0715b27" ed="T"/>進力如鉤鎖　　以此能止住　　
+</ab><lb
+ n="0715b28" ed="T"/><ab type='dharani'>唵嚩日囉薩普吒𤚥<lb
+ n="0715b29" ed="T"/></ab>
+<ab type='verse'>
+次以磬印喜　　復以此前印　　<pb n="0715c" id="T20.1174.0715c" ed="T"/><lb
+ n="0715c01" ed="T"/>檀慧進力度　　各各反相鉤　　
+</ab><lb
+ n="0715c02" ed="T"/><ab type='dharani'>唵嚩日囉健茶縠<lb
+ n="0715c03" ed="T"/></ab>
+<ab type='verse'>
+次應獻遏伽　　妙器滿香水　　<lb
+ n="0715c04" ed="T"/>并置微妙花　　捧至額以獻　　
+</ab><lb
+ n="0715c05" ed="T"/><ab type='dharani'>唵嚩日𡀔娜迦坼<lb
+ n="0715c06" ed="T"/></ab>
+<ab type='verse'>
+次結四內供　　遍照尊所化　　<lb
+ n="0715c07" ed="T"/>摩訶囉底女　　適悅獻諸聖　　<lb
+ n="0715c08" ed="T"/>二羽金剛縛　　禪智並而申　　<lb
+ n="0715c09" ed="T"/>觀妙妓女雲　　遍滿十方剎　　
+</ab><lb
+ n="0715c10" ed="T"/><ab type='dharani'>唵摩訶囉底<lb
+ n="0715c11" ed="T"/></ab>
+<ab type='verse'>
+次以鬘印獻　　伸臂捧而前　　<lb
+ n="0715c12" ed="T"/>觀妙寶鬘雲　　遍滿虛空界　　
+</ab><lb
+ n="0715c13" ed="T"/><ab type='dharani'>唵𡀔波戌鞞<lb
+ n="0715c14" ed="T"/></ab>
+<ab type='verse'>
+次結歌詠印　　以此而供養　　<lb
+ n="0715c15" ed="T"/>前印從於臍　　漸上至口散　　<lb
+ n="0715c16" ed="T"/>想緊那羅音　　供養諸聖眾　　
+</ab><lb
+ n="0715c17" ed="T"/><ab type='dharani'>唵輸嚧怛囉𤍜企曳<lb
+ n="0715c18" ed="T"/></ab>
+<ab type='verse'>
+次以舞供養　　奉獻十方聖　　<lb
+ n="0715c19" ed="T"/>二手金剛拳　　右旋頂上散　　<lb
+ n="0715c20" ed="T"/>想妙妓樂雲　　遍滿諸世界　　
+</ab><lb
+ n="0715c21" ed="T"/><ab type='dharani'>唵薩嚩補而曳<lb
+ n="0715c22" ed="T"/></ab>
+<ab type='verse'>
+次以焚香印　　普薰諸世界　　<lb
+ n="0715c23" ed="T"/>金剛縛下散　　遍法界香雲　　
+</ab><lb
+ n="0715c24" ed="T"/><ab type='dharani'>唵嚩日囉度閉<lb
+ n="0715c25" ed="T"/></ab>
+<ab type='verse'>
+次以散花印　　莊嚴諸世界　　<lb
+ n="0715c26" ed="T"/>金剛縛上散　　花網遍虛空　　
+</ab><lb
+ n="0715c27" ed="T"/><ab type='dharani'>唵嚩日囉補澁閉<lb
+ n="0715c28" ed="T"/></ab>
+<ab type='verse'>
+次獻智燈印　　普燎諸幽冥　　<lb
+ n="0715c29" ed="T"/>禪智前相逼　　普此智慧光　　
+</ab><pb n="0716a" id="T20.1174.0716a" ed="T"/><lb
+ n="0716a01" ed="T"/><ab type='dharani'>唵嚩日囉魯計<lb
+ n="0716a02" ed="T"/></ab>
+<ab type='verse'>
+次獻塗香印　　當胸塗香勢　　<lb
+ n="0716a03" ed="T"/>以解脫香雲　　普淨眾生界　　
+</ab><lb
+ n="0716a04" ed="T"/><ab type='dharani'>唵嚩日囉巘提<lb
+ n="0716a05" ed="T"/></ab>
+<ab type='verse'>
+內外供養已　　次第當順念　　<lb
+ n="0716a06" ed="T"/>結祕根本印　　誦百字真言　　
+</ab><lb
+ n="0716a07" ed="T"/><ab type='dharani'>唵朅哩誐薩怛嚩參摩耶摩<lb
+ n="0716a08" ed="T"/>弩播攞野朅哩誐薩怛嚩怛<lb
+ n="0716a09" ed="T"/>尾弩跛底瑟姹儞哩住<lb
+ n="0716a10" ed="T"/>銘婆嚩素覩瑟諭銘婆嚩阿怒<lb
+ n="0716a11" ed="T"/>囉訖都寐婆嚩素補瑟諭寐婆嚩<lb
+ n="0716a12" ed="T"/>薩婆悉地弭以鉢囉也瑳薩嚩羯麼素<lb
+ n="0716a13" ed="T"/>者寐止多室唎藥句嚕吽呵呵呵<lb
+ n="0716a14" ed="T"/>呵縠薄誐梵薩嚩怛他蘖多渴㗚誐<lb
+ n="0716a15" ed="T"/>麼寐悶者渴㗚霓婆嚩摩訶三摩耶薩<lb
+ n="0716a16" ed="T"/>怛嚩惡<lb
+ n="0716a17" ed="T"/></ab>
+<ab type='verse'>
+不解根本印　　便稱已念明　　
+</ab><lb
+ n="0716a18" ed="T"/><ab type='dharani'>阿囉跛者娜<lb
+ n="0716a19" ed="T"/></ab>
+<ab type='verse'>
+念法有四種　　一者三摩地　　<lb
+ n="0716a20" ed="T"/>謂觀所念明　　本尊口流出　　<lb
+ n="0716a21" ed="T"/>隨光入我口　　右旋布心月　　<lb
+ n="0716a22" ed="T"/>如以水精珠　　布於明鏡上　　<lb
+ n="0716a23" ed="T"/>阿者無生義　　囉無塵染義　　<lb
+ n="0716a24" ed="T"/>跛無第一義　　諸法性平等　　<lb
+ n="0716a25" ed="T"/>者無諸行義　　娜無性相義　　<lb
+ n="0716a26" ed="T"/>五句雖差別　　其性無有二　　<lb
+ n="0716a27" ed="T"/>心與性合者　　不須重分別　　<lb
+ n="0716a28" ed="T"/>佛所歎無思　　無思亦不思　　<lb
+ n="0716a29" ed="T"/>不思思思已　　乃至陀羅尼　　<pb n="0716b" id="T20.1174.0716b" ed="T"/><lb
+ n="0716b01" ed="T"/>如是四句義　　隨順契經說　　<lb
+ n="0716b02" ed="T"/>二者言音念　　依前觀諸字　　<lb
+ n="0716b03" ed="T"/>離高下緩急　　音勢如搖鈴　　<lb
+ n="0716b04" ed="T"/>三者金剛念　　依前入字觀　　<lb
+ n="0716b05" ed="T"/>密合唇與齒　　小令舌微動　　<lb
+ n="0716b06" ed="T"/>四者降魔念　　以悲心為本　　<lb
+ n="0716b07" ed="T"/>外現威怒相　　顰眉聲亦勵　　<lb
+ n="0716b08" ed="T"/>四種雖差別　　一念為無二　　<lb
+ n="0716b09" ed="T"/>二手持念珠　　菩提與蓮子　　<lb
+ n="0716b10" ed="T"/>當以蓮華印　　或住說法印　　<lb
+ n="0716b11" ed="T"/>朝午昏中夜　　四時為定准　　<lb
+ n="0716b12" ed="T"/>此法最第一　　為祕密中最　　<lb
+ n="0716b13" ed="T"/>應不顧身命　　一心依了義　　<lb
+ n="0716b14" ed="T"/>順理修行人　　住於禪行者　　<lb
+ n="0716b15" ed="T"/>應當觀此法　　為起三昧用　　<lb
+ n="0716b16" ed="T"/>速獲種智故　　下劣根性人　　<lb
+ n="0716b17" ed="T"/>癡愛雜亂者　　亦勸修此法　　<lb
+ n="0716b18" ed="T"/>為消煩惱障　　入寂靜智故　　<lb
+ n="0716b19" ed="T"/>數限終竟已　　復獻遏伽水　　<lb
+ n="0716b20" ed="T"/>應以歡喜心　　妙音誦讚歎　　<lb
+ n="0716b21" ed="T"/>復陳八供養　　戀慕而奉獻　　<lb
+ n="0716b22" ed="T"/>結祕根本印　　從心頂上散　　<lb
+ n="0716b23" ed="T"/>想尊虛空中　　復道還本宮　　
+</ab><lb
+ n="0716b24" ed="T"/><ab type='dharani'>唵嚩日囉底乞瑟拏穆<lb
+ n="0716b25" ed="T"/></ab>
+<ab type='verse'>
+住此三昧人　　最尊無有上　　<lb
+ n="0716b26" ed="T"/>除佛及菩薩　　無人可愛敬　　<lb
+ n="0716b27" ed="T"/>欲隨順世間　　現於禮敬者　　<lb
+ n="0716b28" ed="T"/>當觀彼人首　　有佛菩薩相　　<lb
+ n="0716b29" ed="T"/>誦百字真言　　法中所祕密　　<pb n="0716c" id="T20.1174.0716c" ed="T"/><lb
+ n="0716c01" ed="T"/>心欲有散亂　　應當密稱誦　　<lb
+ n="0716c02" ed="T"/>昔於大師前　　口受要如是　　<lb
+ n="0716c03" ed="T"/>愚力不能述　　如海一渧水　　<lb
+ n="0716c04" ed="T"/>恐違大聖者　　悚懼懷戰慄　　<lb
+ n="0716c05" ed="T"/>猶如愚下人　　手獻少甘露　　<lb
+ n="0716c06" ed="T"/>勿以輕彼故　　上藥為無効　　<lb
+ n="0716c07" ed="T"/>野干羅剎形　　為法故應受　　<lb
+ n="0716c08" ed="T"/>願以此功德　　普覺諸群有　　<lb
+ n="0716c09" ed="T"/>我得離世網　　隨說而修習　　
+</ab><lb
+ n="0716c10" ed="T"/>
+<ab type='juan' subtype='close'>五字陀羅尼頌</ab></div>
+</body></text></TEI>

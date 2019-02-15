@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛為心王菩薩說投陀經卷上</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T85</biblScope>
+                    <idno type="Taisho">T85n2886</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="1401c16" ed="T"/><lb
+ n="1401c17" ed="T"/><lb
+ n="1401c18" ed="T"/><lb
+ n="1401c19" ed="T"/>
+<ab type='juan' subtype='open'>佛為心王菩薩說投陀經卷上</ab><lb
+ n="1401c20" ed="T"/><lb
+ n="1401c21" ed="T"/><byline>五陰山室寺惠辨禪師註</byline><lb
+ n="1401c22" ed="T"/><div type='jing' level='1'><ab type='prose'>若夫至道圓明虛無湛極。慈悲普攝濟生死<lb
+ n="1401c23" ed="T"/>之深。河浮大寶舟廣度四生之難。恩霑大道<lb
+ n="1401c24" ed="T"/>逈秡三界之牢。惠鏡長懸照無明之巨夜。法<lb
+ n="1401c25" ed="T"/>王慈愍接引多方。眾苦之病無窮。設藥之途<lb
+ n="1401c26" ed="T"/>非一。故有照大士垂音五濁之中。悲愍群生<lb
+ n="1401c27" ed="T"/>歡請如來設教遵首。稱佛為心王菩薩說投<lb
+ n="1401c28" ed="T"/>陀經者。以為王心為身之主耳目處。其外任<lb
+ n="1401c29" ed="T"/>持六根。不壞善惡種子。使之亡乍來無有限。<pb n="1402a" id="T85.2886.1402a" ed="T"/><lb
+ n="1402a01" ed="T"/>礙自在如王。言心王菩薩。解脫之別。得道<lb
+ n="1402a02" ed="T"/>之異名。以覺合機故。稱佛說投陀者。西國之<lb
+ n="1402a03" ed="T"/>語。此土往翻名為椒𭫼。煩惱不生。寂然無相。<lb
+ n="1402a04" ed="T"/>故曰投陀經者常也。人能悟道求難死故號<lb
+ n="1402a05" ed="T"/>為常。爾時佛在大林藪山山形大<lb
+ n="1402a07" ed="T"/>小。縱廣八萬四千由延其山四方有無量夜叉<lb
+ n="1402a09" ed="T"/>羅剎虎狼師子毒蛇惡鬼殺害眾生。噉人精<lb
+ n="1402a10" ed="T"/>氣其山四維有無量賢善大士。修學大乘於佛法中決定生信護持禁戒如淨明殊守護心<lb
+ n="1402a22" ed="T"/>城。摧伏外道<lb
+ n="1402a23" ed="T"/>五峯神仙最居山頂仙人我慢。五欲自恣。不悟無<lb
+ n="1402a26" ed="T"/>常佛與迦葉諸大菩薩側塞虛空。前後圍繞<lb
+ n="1402b02" ed="T"/>四部弟子。一時共會爾<lb
+ n="1402b05" ed="T"/>時世尊。在大眾中坐寶蓮華結跏趺坐<lb
+ n="1402b08" ed="T"/>嬉怡微笑威德光明普照<lb
+ n="1402b09" ed="T"/>一切佛告心王<lb
+ n="1402b12" ed="T"/>菩薩汝當為諸大<lb
+ n="1402b13" ed="T"/>眾宣說甚深無上妙法令諸眾生識煩惱性空無所有<lb
+ n="1402b15" ed="T"/>令投陀一心法苦樂一相<lb
+ n="1402b16" ed="T"/>心王菩薩。承佛神<lb
+ n="1402b17" ed="T"/>力。身昇虛空。變現自在於大眾中放大智光。光如百<lb
+ n="1402b19" ed="T"/>千萬億日月。清涼調適隨諸<lb
+ n="1402b21" ed="T"/>眾生所求皆得普照十方招集有緣諸<lb
+ n="1402b22" ed="T"/>來大眾天龍八部護法善神天王等上至有頂。下極空際六道死生蒙光喜悅大眾雲<lb
+ n="1402c02" ed="T"/>集菩薩摩訶薩。大慈所薰<lb
+ n="1402c03" ed="T"/>復放六百萬億最勝光明其光明<lb
+ n="1402c06" ed="T"/>中宣說一切眾生本性清淨無<lb
+ n="1402c07" ed="T"/>生無滅無垢無淨無生死際。無涅槃際二際平<lb
+ n="1402c09" ed="T"/>等。等諸法空故閑居靜住。即<lb
+ n="1402c10" ed="T"/>是投陀寂然念道。絕斷攀緣<lb
+ n="1402c11" ed="T"/>不生分別何以故。以生死涅<lb
+ n="1402c12" ed="T"/>槃不一不二俱假名說說侫<lb
+ n="1402c13" ed="T"/>引愚夫上品眾生體達法相。<lb
+ n="1402c15" ed="T"/>不入涅槃。不出生死中品眾生求涅<lb
+ n="1402c16" ed="T"/>槃無方便惠。實際為<lb
+ n="1402c17" ed="T"/>家下品眾生無<lb
+ n="1402c18" ed="T"/>明癡住不覺不知沈淪苦<lb
+ n="1402c19" ed="T"/>海諸菩薩等。汝當<lb
+ n="1402c24" ed="T"/>諦了。如是光明從何而來。內外推求都無生<lb
+ n="1402c25" ed="T"/>處從心化生。湛然常一一想光明觸<pb n="1403a" id="T85.2886.1403a" ed="T"/><lb
+ n="1403a01" ed="T"/>眾生身。從毛孔入眾生愚者入無量定<lb
+ n="1403a03" ed="T"/>光觸眼者。入妙色三昧光<lb
+ n="1403a04" ed="T"/>觸耳者。入音聲三昧光觸<lb
+ n="1403a05" ed="T"/>鼻者。入香林三昧光觸<lb
+ n="1403a06" ed="T"/>舌者。入法喜三昧光觸<lb
+ n="1403a07" ed="T"/>身者。入智明三昧光<lb
+ n="1403a08" ed="T"/>觸身者。入法明三昧<lb
+ n="1403a09" ed="T"/>光遍十方。仙人蒙光。我慢即除身心清淨。悟無生忍惡鬼<lb
+ n="1403a11" ed="T"/>毒蛇夜叉羅剎噉人精氣者。皆發菩提心二見牛頭鬪諍心息波旬魔王開地獄門。施清淨涼水飢餓眾生自然飽滿發清淨心。飡法喜食。身心解脫<lb
+ n="1403a17" ed="T"/>深入法性自在無為雖得無為察心不住<lb
+ n="1403a19" ed="T"/>學方便故法為妻化生一子。處<lb
+ n="1403a20" ed="T"/>在深宮正念思惟學大方便。不捨有為。不住無為<lb
+ n="1403a22" ed="T"/>二惠方便念念具足其年雖小常<lb
+ n="1403a24" ed="T"/>樂出家。學無上道不樂世事。常修少欲知足之<lb
+ n="1403a26" ed="T"/>行修六和敬。眼與色和<pb n="1403b" id="T85.2886.1403b" ed="T"/><lb
+ n="1403b01" ed="T"/>何以故。心不緣色。妄識不<lb
+ n="1403b02" ed="T"/>生。即是和義餘如上說。動靜<lb
+ n="1403b03" ed="T"/>常一守護心城不令賊<lb
+ n="1403b04" ed="T"/>入語王子言。世<lb
+ n="1403b06" ed="T"/>有極樂。自歎娛長養王身既受樂已。天上伎樂種<lb
+ n="1403b08" ed="T"/>種饌饈。自然來至五欲天女巧轉五心所求皆得<lb
+ n="1403b10" ed="T"/>王子聞已似<lb
+ n="1403b11" ed="T"/>悲復喜我從昔來只為愛網。網我身<lb
+ n="1403b12" ed="T"/>心不能自拔。何能<lb
+ n="1403b13" ed="T"/>救他今日何<lb
+ n="1403b14" ed="T"/>緣復作斯語。誑惑於我。</ab></div>
+</body></text></TEI>

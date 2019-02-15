@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">九橫經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">T02</biblScope>
+                    <idno type="Taisho">T02n0150B</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ n="0883a09" ed="T"/><lb
+ n="0883a10" ed="T"/><lb
+ n="0883a11" ed="T"/><div type='jing' level='1'><lb
+ ed="T" n="0883a12"/>
+<ab type='juan' subtype='open'>佛說九橫經</ab><lb
+ ed="T" n="0883a13"/><lb
+ ed="T" n="0883a14"/><byline>後漢安息國三藏安世高譯</byline><lb
+ n="0883a15" ed="T"/><ab type='prose'>佛在舍衛國祇樹給孤獨園。佛便告比丘：「有<lb
+ n="0883a16" ed="T"/>九輩九因緣，命未盡便橫死：一者、為不應飯<lb
+ n="0883a17" ed="T"/>為飯，二者、為不量飯，三者、為不習飯飯，四者、<lb
+ n="0883a18" ed="T"/>為不出生，五者、為止熟，六者、為不持戒，七者、<lb
+ ed="T" n="0883a19"/>為近惡知識，八者、為入里不時不如法行，九<lb
+ ed="T" n="0883a20"/>者、為可避不避。如是為九因緣，人命為橫盡。<lb
+ n="0883a21" ed="T"/>「一、不應飯者，名為不可意飯，亦為以飽，腹不<lb
+ ed="T" n="0883a22"/>停調。<lb
+ ed="T" n="0883a23"/>「二、不量飯者，名為不知節度，多飯過足。<lb
+ n="0883a24" ed="T"/>「三、不習飯者，名為不知時冬夏，為至他國<lb
+ ed="T" n="0883a25"/>郡，不知俗宜，不能消飯，食未習故。<lb
+ ed="T" n="0883a26"/>「四、不出生者，名為飯物未消，復上飯，不服藥<lb
+ n="0883a27" ed="T"/>吐下，不時消。<lb
+ n="0883a28" ed="T"/>「五、為止熟者，名為大便、小便來時，不即時行，<lb
+ ed="T" n="0883a29"/>噫、吐、啑、下風來時制。<pb n="0883b" id="T02.0150B.0883b" ed="T"/><lb
+ n="0883b01" ed="T"/>「六、不持戒者，名為犯五戒——殺、盜、犯他人婦、兩<lb
+ n="0883b02" ed="T"/>舌、飲酒——亦有餘戒，以犯便入縣官，或絃死，或<lb
+ ed="T" n="0883b03"/>捶杖、利刃所斫刺，或辜飢渴而終；或以得脫，<lb
+ n="0883b04" ed="T"/>從怨家得手死，或驚怖念罪憂死。<lb
+ ed="T" n="0883b05"/>「七、為近惡知識者，名為惡知識已作惡，便反<lb
+ ed="T" n="0883b06"/>坐。何以故坐？不離惡知識故，不覺善惡，不計<lb
+ n="0883b07" ed="T"/>惡知識惡態，不思惡知識惡。<lb
+ n="0883b08" ed="T"/>「八、為入里不時者，名為冥行，亦里有諍時行，<lb
+ ed="T" n="0883b09"/>亦里有縣官長吏追捕不避，不如法行者，入<lb
+ n="0883b10" ed="T"/>里妄入他家舍中，妄見不可見，妄聽不可聽，<lb
+ n="0883b11" ed="T"/>妄犯不可犯，妄說不可說，妄憂不可憂，妄索<lb
+ ed="T" n="0883b12"/>不可索。<lb
+ ed="T" n="0883b13"/>「九、為可避不避者，名為當避弊象、弊馬、牛<lb
+ ed="T" n="0883b14"/>犇、車、蛇虺、坑井、水火、拔刀醉人、惡人，亦餘若<lb
+ ed="T" n="0883b15"/>干惡。如是為九因緣輩人命未盡當坐是盡，<lb
+ ed="T" n="0883b16"/>慧人當識當避是因緣，以避乃得兩福：一者、<lb
+ n="0883b17" ed="T"/>得長壽，二、以長壽乃得聞道，好語言亦能<lb
+ ed="T" n="0883b18"/>行。」諸比丘歡喜受行。<lb
+ n="0883b19" ed="T"/>
+</ab><ab type='juan' subtype='close'>佛說九橫經</ab></div>
+</body></text></TEI>
