@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大智律師禮讚文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X74</biblScope>
+                    <idno type="Taisho">X74n1507</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X74.1507.1083a" n="1083a"/><lb
+ ed="X" n="1083a01"/><lb
+ ed="X" n="1083a02"/><lb
+ ed="X" n="1083a03"/><lb
+ ed="X" n="1083a04"/><lb
+ ed="X" n="1083a05"/><lb
+ ed="X" n="1083a06"/><lb
+ ed="R130" n="0203a01"/>
+<ab type='juan' subtype='open'>錢唐靈芝大智律師禮讚文</ab><lb
+ ed="X" n="1083a07"/><lb
+ ed="X" n="1083a08"/><lb
+ ed="R130" n="0203a02"/><byline>門人巖香練若　則安　述</byline><lb
+ ed="X" n="1083a09"/><lb
+ ed="R130" n="0203a03"/><div type='' level='2'><ab type='prose'>先稟大智律師順寂之後。有同學以諱日贊文見囑。<lb
+ ed="X" n="1083a10"/><lb
+ ed="R130" n="0203a04"/>累年未暇。忽夜夢入一室中。會數道人講及先師生<lb
+ ed="X" n="1083a11"/><lb
+ ed="R130" n="0203a05"/>平懿業。解行絕倫。徐有語曰。扶顛持危。垂世立教。功<lb
+ ed="X" n="1083a12"/><lb
+ ed="R130" n="0203a06"/>不在諸祖下。子之不為贊文何也。既覺。偶得數聯。因<lb
+ ed="X" n="1083a13"/><lb
+ ed="R130" n="0203a07"/>緝綴成章。庶同俚詠。然慎終追遠。在志不在文。固無<lb
+ ed="X" n="1083a14"/><lb
+ ed="R130" n="0203a08"/>愧哉。。<lb
+ ed="X" n="1083a15"/><lb
+ ed="R130" n="0203a09"/>稽首靈芝教主大智律師。慧性夙明。學聲遠著。玅𧷤<lb
+ ed="X" n="1083a16"/><lb
+ ed="R130" n="0203a10"/>潛通於佛智。清修允恊於聖儀。式遵一字之規。克荷<lb
+ ed="X" n="1083a17"/><lb
+ ed="R130" n="0203a11"/>百金之寄。宗承法密。儲貳終南。築兩壇而亘古亘今。<lb
+ ed="X" n="1083a18"/><lb
+ ed="R130" n="0203a12"/>撰三記而變風變雅。發揮極唱。縱天辯以談常。洪贊<lb
+ ed="X" n="1083a19"/><lb
+ ed="R130" n="0203a13"/>上乘。濬祖源而會實。爰以剡浮化滿。尋印壞以東辭。<lb
+ ed="X" n="1083a20"/><lb
+ ed="R130" n="0203a14"/>安養功圓。遽文成而西邁。今則莫秋初啟。諱日斯臨。<lb
+ ed="X" n="1083a21"/><lb
+ ed="R130" n="0203a15"/>由是輙吐蕪言載揚茂績。戒身如在。審雍肅以薦羞。<lb
+ ed="X" n="1083a22"/><lb
+ ed="R130" n="0203a16"/>法語難親。忍悲號而泣血。仰冀曲回慈鑒。聊享哀誠。<lb
+ ed="X" n="1083a23"/><lb
+ ed="R130" n="0203a17"/>俯令負笈之儔。盡預分燈之列。。<lb
+ ed="X" n="1083a24"/><lb
+ ed="R130" n="0203a18"/>一心奉請靈芝教主大智律師。<pb ed="X" id="X74.1507.1083b" n="1083b"/><lb
+ ed="X" n="1083b01"/><lb
+ ed="R130" n="0203b01"/>唯願降臨道場。受我供養。。<lb
+ ed="X" n="1083b02"/><lb
+ ed="R130" n="0203b02"/></ab>
+<ab type='verse'>
+端嚴具足　　相如其心　　耿介孤高　　<lb
+ ed="X" n="1083b03"/><lb
+ ed="R130" n="0203b03"/>心如其相　　謂方則圓　　若拘而放　　<lb
+ ed="X" n="1083b04"/><lb
+ ed="R130" n="0203b04"/>不持不犯　　人天歸向　　
+</ab><lb
+ ed="X" n="1083b05"/><lb
+ ed="R130" n="0203b05"/><ab type='prose'>。<lb
+ ed="X" n="1083b06"/><lb
+ ed="R130" n="0203b06"/>一心頂禮大中名剎棄家入道時身靈芝尊者。<lb
+ ed="X" n="1083b07"/><lb
+ ed="R130" n="0203b07"/></ab>
+<ab type='verse'>
+愛網緣疎思擺脫　　僧園路熟認迂回　　<lb
+ ed="X" n="1083b08"/><lb
+ ed="R130" n="0203b08"/>比方隣子警雙親　　指顧寺神驚廣眾　　<lb
+ ed="X" n="1083b09"/><lb
+ ed="R130" n="0203b09"/>總角筆端先世習　　成童經業試場魁　　<lb
+ ed="X" n="1083b10"/><lb
+ ed="R130" n="0203b10"/>黌堂染翰氣食牛　　宗裔家師當反敬　　
+</ab><lb
+ ed="X" n="1083b11"/><lb
+ ed="R130" n="0203b11"/><ab type='prose'>故我一心歸命頂禮。。<lb
+ ed="X" n="1083b12"/><lb
+ ed="R130" n="0203b12"/>一心頂禮古佛蹊徑入鄽乞食時身。<lb
+ ed="X" n="1083b13"/><lb
+ ed="R130" n="0203b13"/></ab>
+<ab type='verse'>
+一鉢當衢心喻月　　雙環搖處志凌雲　　<lb
+ ed="X" n="1083b14"/><lb
+ ed="R130" n="0203b14"/>寅緣午飯過朱門　　遠離邪求全正命　　<lb
+ ed="X" n="1083b15"/><lb
+ ed="R130" n="0203b15"/>斷取不殊香積供　　獻來差似牧牛糜　　<lb
+ ed="X" n="1083b16"/><lb
+ ed="R130" n="0203b16"/>精新分減及蟲魚　　慚愧等慈均法施　　
+</ab><lb
+ ed="X" n="1083b17"/><lb
+ ed="R130" n="0203b17"/>一心頂禮經律兼授懸河樂說時身。<lb
+ ed="X" n="1083b18"/><lb
+ ed="R130" n="0203b18"/><ab type='verse'>
+夙契鷲峰親囑累　　天教宗匠勸回心　　<lb
+ ed="X" n="1083b19"/><lb
+ ed="R130" n="0204a01"/>風生象扇栢煙浮　　雲擁猊臺四華雨　　<lb
+ ed="X" n="1083b20"/><lb
+ ed="R130" n="0204a02"/>拍肩部主󳭪真域　　擊節洪遵𧷤玅經　　<lb
+ ed="X" n="1083b21"/><lb
+ ed="R130" n="0204a03"/>并汾律虎爪牙成　　禹穴義龍嗟伏鹿　　
+</ab><lb
+ ed="X" n="1083b22"/><lb
+ ed="R130" n="0204a04"/>一心頂禮紹明行事掩關撰記時身。<lb
+ ed="X" n="1083b23"/><lb
+ ed="R130" n="0204a05"/><ab type='verse'>
+大法優柔真自得　　斯文流演在揮毫　　<lb
+ ed="X" n="1083b24"/><lb
+ ed="R130" n="0204a06"/>維持眾網整頹綱　　竝駕五乘回正軌　　<pb ed="X" id="X74.1507.1083c" n="1083c"/><lb
+ ed="X" n="1083c01"/><lb
+ ed="R130" n="0204a07"/>三絕韋編同索隱　　四求墨印類鉤深　　<lb
+ ed="X" n="1083c02"/><lb
+ ed="R130" n="0204a08"/>團蒲小睡夢西明　　六十餘家成蠧簡　　
+</ab><lb
+ ed="X" n="1083c03"/><lb
+ ed="R130" n="0204a09"/>一心頂禮水雲深處擊蒙增受時身。<lb
+ ed="X" n="1083c04"/><lb
+ ed="R130" n="0204a10"/><ab type='verse'>
+遐慕聖蹤京兆日　　高遵玄範蔡江時　　<lb
+ ed="X" n="1083c05"/><lb
+ ed="R130" n="0204a11"/>重增上品趣泥洹　　圓具三因期解脫　　<lb
+ ed="X" n="1083c06"/><lb
+ ed="R130" n="0204a12"/>嶽瀆崩騰來梵侶　　虗空銷殞動天魔　　<lb
+ ed="X" n="1083c07"/><lb
+ ed="R130" n="0204a13"/>聖胎法乳藉斯人　　粉骨碎軀難報德　　
+</ab><lb
+ ed="X" n="1083c08"/><lb
+ ed="R130" n="0204a14"/>一心頂禮碧沼蘭若潛真解疏時身。<lb
+ ed="X" n="1083c09"/><lb
+ ed="R130" n="0204a15"/><ab type='verse'>
+拂衣漸水城邊寺　　躡屐青巒隴上來　　<lb
+ ed="X" n="1083c10"/><lb
+ ed="R130" n="0204a16"/>片石長松愜素懷　　曉猿夜󳬈窺深定　　<lb
+ ed="X" n="1083c11"/><lb
+ ed="R130" n="0204a17"/>濾泉晚沼瑠璃碧　　開卷秋堂薝蔔馨　　<lb
+ ed="X" n="1083c12"/><lb
+ ed="R130" n="0204a18"/>太一遺文太古風　　半千年後知音遇　　
+</ab><lb
+ ed="X" n="1083c13"/><lb
+ ed="R130" n="0204b01"/>一心頂禮台山鄞水築壇授戒時身。<lb
+ ed="X" n="1083c14"/><lb
+ ed="R130" n="0204b02"/><ab type='verse'>
+丹青五級巾山下　　突兀三層貿嶺中　　<lb
+ ed="X" n="1083c15"/><lb
+ ed="R130" n="0204b03"/>珠顆圓明粲日星　　天儀森著懸衡鑒　　<lb
+ ed="X" n="1083c16"/><lb
+ ed="R130" n="0204b04"/>聖模應法如關輔　　寶勢侵雲象玅高　　<lb
+ ed="X" n="1083c17"/><lb
+ ed="R130" n="0204b05"/>光顯毗尼再有人　　遙空想見賓頭禮　　
+</ab><lb
+ ed="X" n="1083c18"/><lb
+ ed="R130" n="0204b06"/>一心頂禮盟誠利物一華不動時身。<lb
+ ed="X" n="1083c19"/><lb
+ ed="R130" n="0204b07"/><ab type='verse'>
+坐徧名藍求寂靜　　湖山勝剎樂棲遲　　<lb
+ ed="X" n="1083c20"/><lb
+ ed="R130" n="0204b08"/>危脆深觀燄幻身　　稽留任笑匏瓜跡　　<lb
+ ed="X" n="1083c21"/><lb
+ ed="R130" n="0204b09"/>百年諍地辭天竺　　一夢塵區謝菊坡　　<lb
+ ed="X" n="1083c22"/><lb
+ ed="R130" n="0204b10"/>大旱潮音講大雲　　廣筵未散番盆雨　　
+</ab><lb
+ ed="X" n="1083c23"/><lb
+ ed="R130" n="0204b11"/>一心頂禮秋高蘭室加趺示滅時身。<lb
+ ed="X" n="1083c24"/><lb
+ ed="R130" n="0204b12"/><ab type='verse'>
+北首曲肱瞻落日　　西馳返照識歸程　　<pb ed="X" id="X74.1507.1084a" n="1084a"/><lb
+ ed="X" n="1084a01"/><lb
+ ed="R130" n="0204b13"/>瞿然而起即加趺　　嗑爾云亡徐瞑目　　<lb
+ ed="X" n="1084a02"/><lb
+ ed="R130" n="0204b14"/>了了神遊端入定　　翹翹首舉儼如生　　<lb
+ ed="X" n="1084a03"/><lb
+ ed="R130" n="0204b15"/>里巷居人寂未知　　但聞天樂鳴空界　　
+</ab><lb
+ ed="X" n="1084a04"/><lb
+ ed="R130" n="0204b16"/>一心頂禮芝園福地塔婆窀窆時身。<lb
+ ed="X" n="1084a05"/><lb
+ ed="R130" n="0204b17"/><ab type='verse'>
+蓮社沍寒襄事日　　杉亭焦卷傲霜枝　　<lb
+ ed="X" n="1084a06"/><lb
+ ed="R130" n="0204b18"/>四簷霧瀉燭還明　　萬竅風號香不散　　<lb
+ ed="X" n="1084a07"/><lb
+ ed="R130" n="0205a01"/>大水結氷如寶砌　　長空攪雪似華飛　　<lb
+ ed="X" n="1084a08"/><lb
+ ed="R130" n="0205a02"/>冠葢旌幢訃󳬈林　　名題墨玅光遺烈　　
+</ab><lb
+ ed="X" n="1084a09"/><lb
+ ed="R130" n="0205a03"/>一心頂禮窣堵顯瑞焚經不壞時身。<lb
+ ed="X" n="1084a10"/><lb
+ ed="R130" n="0205a04"/><ab type='verse'>
+定持梵相經時久　　塔鎮芝園慕永存　　<lb
+ ed="X" n="1084a11"/><lb
+ ed="R130" n="0205a05"/>󱁿火洞然靡子遺　　堅幢兀爾無纖變　　<lb
+ ed="X" n="1084a12"/><lb
+ ed="R130" n="0205a06"/>龍天翊衛彰靈瑞　　貴庶傾瞻歎異逢　　<lb
+ ed="X" n="1084a13"/><lb
+ ed="R130" n="0205a07"/>沒後留形福有緣　　生前濟物何當計　　
+</ab><lb
+ ed="X" n="1084a14"/><lb
+ ed="R130" n="0205a08"/>一心頂禮紫宸懷道追封旌表時身。<lb
+ ed="X" n="1084a15"/><lb
+ ed="R130" n="0205a09"/><ab type='verse'>
+緣謝政和當六稔　　紹興旌顯十年秋　　<lb
+ ed="X" n="1084a16"/><lb
+ ed="R130" n="0205a10"/>後昆安得偃慈風　　耆艾猶能談化迹　　<lb
+ ed="X" n="1084a17"/><lb
+ ed="R130" n="0205a11"/>數紀寢聞追諡禮　　九重澤降錫鴻名　　<lb
+ ed="X" n="1084a18"/><lb
+ ed="R130" n="0205a12"/>大智汪洋擬佛同　　戒光赫奕周沙界　　
+</ab></div><lb
+ ed="X" n="1084a19"/><lb
+ ed="R130" n="0205a13"/><head>至心懺悔</head><lb
+ ed="X" n="1084a20"/><lb
+ ed="R130" n="0205a14"/><ab type='verse'>
+制聽遮性三千戒　　作說威儀八萬條　　<lb
+ ed="X" n="1084a21"/><lb
+ ed="R130" n="0205a15"/>但縱癡頑不節心　　寧思肅慎深防意　　<lb
+ ed="X" n="1084a22"/><lb
+ ed="R130" n="0205a16"/>妄隨相有空難見　　業會因緣果不差　　<lb
+ ed="X" n="1084a23"/><lb
+ ed="R130" n="0205a17"/>恭對慈光悉懺摩　　庶同赫日銷霜雪　　
+</ab><lb
+ ed="X" n="1084a24"/><lb
+ ed="R130" n="0205a18"/><ab type='prose'>懺悔已。至心歸命頂禮。<pb ed="X" id="X74.1507.1084b" n="1084b"/><lb
+ ed="X" n="1084b01"/><lb
+ ed="R130" n="0205b01"/><head>至心發願</head><lb
+ ed="X" n="1084b02"/><lb
+ ed="R130" n="0205b02"/></ab>
+<ab type='verse'>
+此界他方無量劫　　人間天上與師俱　　<lb
+ ed="X" n="1084b03"/><lb
+ ed="R130" n="0205b03"/>智用能乘般若舟　　身通即到菩提岸　　<lb
+ ed="X" n="1084b04"/><lb
+ ed="R130" n="0205b04"/>確爾圓修三聚戒　　毅然不退四弘心　　<lb
+ ed="X" n="1084b05"/><lb
+ ed="R130" n="0205b05"/>去來今世眾怨親　　盡化同歸安養土　　
+</ab><lb
+ ed="X" n="1084b06"/><lb
+ ed="R130" n="0205b06"/><ab type='prose'>發願已。至心歸命頂禮。<lb
+ ed="X" n="1084b07"/><lb
+ ed="R130" n="0205b07"/><lb
+ ed="X" n="1084b08"/><lb
+ ed="R130" n="0205b08"/></ab><div type='w' level='2'><ab type='prose'>右巖香所製禮讚。在於錫號之前。而無大智之稱。<lb
+ ed="X" n="1084b09"/><lb
+ ed="R130" n="0205b09"/>宜特添入。復易天宮以為靈芝。貴使通知其塔。存<lb
+ ed="X" n="1084b10"/><lb
+ ed="R130" n="0205b10"/>封諡之美。廼最後徵異之觀。獨闕贊辭。遂加二章<lb
+ ed="X" n="1084b11"/><lb
+ ed="R130" n="0205b11"/>綴之於後。庶得始末敘事備焉。其間語有未安者。<lb
+ ed="X" n="1084b12"/><lb
+ ed="R130" n="0205b12"/>輙更數字。無傷其理。甞覩<lb
+ ed="X" n="1084b13" type="honorific"/><lb
+ ed="R130" n="0205b13"/>大智律師就諸本禮文頗有加改。敢遵斯例。命刻<lb
+ ed="X" n="1084b14"/><lb
+ ed="R130" n="0205b14"/>諸版。施及同宗。俾臨諱日託此以興追遠之禮也。<lb
+ ed="X" n="1084b15"/><lb
+ ed="R130" n="0205b15"/>紹興甲子中秋日住明慶</ab></div><lb
+ ed="X" n="1084b16"/><lb
+ ed="R130" n="0205b16"/><lb
+ ed="X" n="1084b17"/><lb
+ ed="R130" n="0205b17"/>
+<ab type='juan' subtype='close'>大智律師禮讚文</ab></div>
+</body></text></TEI>

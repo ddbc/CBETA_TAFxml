@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">華嚴心要法門註</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X58</biblScope>
+                    <idno type="Taisho">X58n1005</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X58.1005.0426a" n="0426a"/><lb
+ ed="X" n="0426a01"/><lb
+ ed="X" n="0426a02"/><lb
+ ed="X" n="0426a03"/><lb
+ ed="X" n="0426a04"/><lb
+ ed="X" n="0426a05"/><lb
+ ed="X" n="0426a06"/><lb
+ ed="R103" n="0606a01"/>
+<ab type='juan' subtype='open'>答順宗心要法門</ab><lb
+ ed="X" n="0426a07"/><lb
+ ed="X" n="0426a08"/><lb
+ ed="R103" n="0606a02"/><byline>唐清涼國師　澄觀　撰</byline><lb
+ ed="X" n="0426a09"/><lb
+ ed="R103" n="0606a03"/><byline>圭峰沙門　宗密　注</byline><lb
+ ed="X" n="0426a10"/><lb
+ ed="R103" n="0606a04"/><ab type='prose'>至道本乎其心心法本乎無住。無住心體。靈知不昧。<lb
+ ed="X" n="0426a12"/><lb
+ ed="R103" n="0606a06"/>性相寂默。包含德用。<lb
+ ed="X" n="0426a13"/><lb
+ ed="R103" n="0606a07"/>該攝內外。能廣能深。<lb
+ ed="X" n="0426a14"/><lb
+ ed="R103" n="0606a08"/>非有非空。不生不滅。<lb
+ ed="X" n="0426a15"/><lb
+ ed="R103" n="0606a09"/>求之不得。棄之不離。<lb
+ ed="X" n="0426a16"/><lb
+ ed="R103" n="0606a10"/>迷現量則惑苦紛然。悟真性則空明廓徹。<lb
+ ed="X" n="0426a17"/><lb
+ ed="R103" n="0606a11"/>雖即心即佛。唯證者方知。。<lb
+ ed="X" n="0426a19"/><lb
+ ed="R103" n="0606a13"/>然有證有知。則慧日沈沒於有地。<lb
+ ed="X" n="0426a20"/><lb
+ ed="R103" n="0606a14"/>若無照無悟。則昏雲掩蔽於空門。<lb
+ ed="X" n="0426a22"/><lb
+ ed="R103" n="0606a16"/>但一念不生。前後際斷。照體獨立。物我皆<lb
+ ed="X" n="0426a23"/><lb
+ ed="R103" n="0606a17"/>如。<lb
+ ed="X" n="0426a24"/><lb
+ ed="R103" n="0606a18"/>直造心源。無智無得。不取不<pb ed="X" id="X58.1005.0426b" n="0426b"/><lb
+ ed="X" n="0426b01"/><lb
+ ed="R103" n="0606b01"/>捨。無對無修。。<lb
+ ed="X" n="0426b02"/><lb
+ ed="R103" n="0606b02"/>然迷悟更依。真妄相待。<lb
+ ed="X" n="0426b03"/><lb
+ ed="R103" n="0606b03"/>若求真去妄。如避影以勞形。<lb
+ ed="X" n="0426b04"/><lb
+ ed="R103" n="0606b04"/>若體妄即真。似處陰而影滅。<lb
+ ed="X" n="0426b05"/><lb
+ ed="R103" n="0606b05"/>若無心忘照。則萬累都捐。<lb
+ ed="X" n="0426b06"/><lb
+ ed="R103" n="0606b06"/>若任運寂知。則眾行圓起。<lb
+ ed="X" n="0426b07"/><lb
+ ed="R103" n="0606b07"/>放曠任其去住。靜鑑見其源流。<lb
+ ed="X" n="0426b08"/><lb
+ ed="R103" n="0606b08"/>語默不失玄微。動靜豈離法界。<lb
+ ed="X" n="0426b09"/><lb
+ ed="R103" n="0606b09"/>言止則雙忘智寂。論觀則雙照寂知。<lb
+ ed="X" n="0426b10"/><lb
+ ed="R103" n="0606b10"/>語證不可示人。說理非證不了。<lb
+ ed="X" n="0426b11"/><lb
+ ed="R103" n="0606b11"/>悟寂無寂。真智無知。以知寂不二之<lb
+ ed="X" n="0426b12"/><lb
+ ed="R103" n="0606b12"/>一心。契空有雙融之中道。無住無著。<lb
+ ed="X" n="0426b13"/><lb
+ ed="R103" n="0606b13"/>莫攝莫收。是非兩忘。能所雙絕。<lb
+ ed="X" n="0426b14"/><lb
+ ed="R103" n="0606b14"/>斯絕亦絕。般若現前。<lb
+ ed="X" n="0426b15"/><lb
+ ed="R103" n="0606b15"/>般若非心外新生。智性乃本來具足。<lb
+ ed="X" n="0426b16"/><lb
+ ed="R103" n="0606b16"/>然本寂不能自見。實由般若之功。<lb
+ ed="X" n="0426b17"/><lb
+ ed="R103" n="0606b17"/>般若之與智性。翻覆相成。<lb
+ ed="X" n="0426b18"/><lb
+ ed="R103" n="0606b18"/>本智之與始終。兩體雙絕。<lb
+ ed="X" n="0426b19"/><lb
+ ed="R103" n="0607a01"/>證入則妙覺圓明。悟本則因果交徹。<lb
+ ed="X" n="0426b20"/><lb
+ ed="R103" n="0607a02"/>心心作佛。無一心而非佛心。處處證真。無一塵<lb
+ ed="X" n="0426b21"/><lb
+ ed="R103" n="0607a03"/>而非佛國。<lb
+ ed="X" n="0426b22"/><lb
+ ed="R103" n="0607a04"/>真妄物我。舉一全收。心佛眾生。炳然齊致。<lb
+ ed="X" n="0426b23"/><lb
+ ed="R103" n="0607a05"/>迷則人隨於法。法法萬差而人不同。<lb
+ ed="X" n="0426b24"/><lb
+ ed="R103" n="0607a06"/>悟則法隨於人。人人一致而融萬境。<pb ed="X" id="X58.1005.0426c" n="0426c"/><lb
+ ed="X" n="0426c01"/><lb
+ ed="R103" n="0607a07"/>言窮慮絕。何果何因。體本寂寥。孰同孰異。<lb
+ ed="X" n="0426c02"/><lb
+ ed="R103" n="0607a08"/>唯志懷虗朗。消息沖融。<lb
+ ed="X" n="0426c03"/><lb
+ ed="R103" n="0607a09"/>其猶透水月華。虗而可見。無心鏡像。照而常空矣<lb
+ ed="X" n="0426c04"/><lb
+ ed="R103" n="0607a10"/>。<lb
+ ed="X" n="0426c05"/><lb
+ ed="R103" n="0607a11"/><head>心要法門頌</head><lb
+ ed="X" n="0426c06"/><lb
+ ed="R103" n="0607a12"/></ab>
+<ab type='verse'>
+欲達心源淨　　須知我相空　　<lb
+ ed="X" n="0426c07"/><lb
+ ed="R103" n="0607a13"/>形容何處實　　念慮本無從　　<lb
+ ed="X" n="0426c08"/><lb
+ ed="R103" n="0607a14"/>豁爾靈明現　　翛然世界通　　<lb
+ ed="X" n="0426c09"/><lb
+ ed="R103" n="0607a15"/>真金開伏藏　　赫日出瞑󳑥　　<lb
+ ed="X" n="0426c10"/><lb
+ ed="R103" n="0607a16"/>試將心比佛　　與佛始終同　　
+</ab><lb
+ ed="X" n="0426c11"/><lb
+ ed="R103" n="0607a17"/><lb
+ ed="X" n="0426c12"/><lb
+ ed="R103" n="0607a18"/>
+<ab type='juan' subtype='close'>答順宗心要法門</ab></div>
+</body></text></TEI>

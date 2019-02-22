@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">大藏正教血盆經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X01</biblScope>
+                    <idno type="Taisho">X01n0023</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X01.0023.0414a" n="0414a"/><lb
+ ed="X" n="0414a01"/><lb
+ ed="X" n="0414a02"/><lb
+ ed="X" n="0414a03"/><lb
+ ed="X" n="0414a04"/><lb
+ ed="R087" n="0597a01"/>
+<ab type='juan' subtype='open'>佛說大藏正教血盆經</ab><lb
+ ed="X" n="0414a05"/><lb
+ ed="X" n="0414a06"/><lb
+ ed="R087" n="0597a03"/><div type='' level='1'><ab type='prose'>爾時目連尊者昔日往到羽州追陽縣見一血盆池<lb
+ ed="X" n="0414a07"/><lb
+ ed="R087" n="0597a04"/>地獄闊八萬四千由旬池中有一百二十件事鐵梁<lb
+ ed="X" n="0414a08"/><lb
+ ed="R087" n="0597a05"/>鐵柱鐵枷鐵鎖見南閻浮提女人許多被頭散髮長<lb
+ ed="X" n="0414a09"/><lb
+ ed="R087" n="0597a06"/>枷杻手在地獄中受罪獄卒鬼王一日三度將血勒<lb
+ ed="X" n="0414a10"/><lb
+ ed="R087" n="0597a07"/>教罪人喫此時罪人不甘伏喫遂被獄主將鐵棒打<lb
+ ed="X" n="0414a11"/><lb
+ ed="R087" n="0597a08"/>作呌聲目連悲哀問獄主不見南閻浮提丈夫之人<lb
+ ed="X" n="0414a12"/><lb
+ ed="R087" n="0597a09"/>受此苦報只見許多女人受其苦痛獄主答師言不<lb
+ ed="X" n="0414a13"/><lb
+ ed="R087" n="0597a10"/>干丈夫之事只是女人產下血露污觸地神若穢污<lb
+ ed="X" n="0414a14"/><lb
+ ed="R087" n="0597a11"/>衣裳將去溪河洗澤水流污漫誤諸善男女取水煎<lb
+ ed="X" n="0414a15"/><lb
+ ed="R087" n="0597a12"/>茶供養諸聖致令不淨天大將軍劄下名字附在善<lb
+ ed="X" n="0414a16"/><lb
+ ed="R087" n="0597a13"/>惡部中候百年命終之後受此苦報目連悲哀遂問<lb
+ ed="X" n="0414a17"/><lb
+ ed="R087" n="0597a14"/>獄主將何報答產生阿娘之恩出離血盆池地獄獄<lb
+ ed="X" n="0414a18"/><lb
+ ed="R087" n="0597a15"/>主答師言惟有小心孝順男女敬重三寶更為阿娘<lb
+ ed="X" n="0414a19"/><lb
+ ed="R087" n="0597a16"/>持血盆齋三年仍結血盆勝會請僧轉誦此經一藏<lb
+ ed="X" n="0414a20"/><lb
+ ed="R087" n="0597a17"/>滿日懺散便有般若船載過奈河江岸看見血盆池<lb
+ ed="X" n="0414a21"/><lb
+ ed="R087" n="0597a18"/>中有五朵蓮華出現罪人歡喜心生慙愧便得超生<lb
+ ed="X" n="0414a22"/><lb
+ ed="R087" n="0597b01"/>佛地諸大菩薩及目連尊者啟告來勸南閻浮提人<lb
+ ed="X" n="0414a23"/><lb
+ ed="R087" n="0597b02"/>信善男女早覺修取大辦前程莫教失手萬劫難復<lb
+ ed="X" n="0414a24"/><lb
+ ed="R087" n="0597b03"/>佛告說女人血盆經若有信心書寫受持令得三世<pb ed="X" id="X01.0023.0414b" n="0414b"/><lb
+ ed="X" n="0414b01"/><lb
+ ed="R087" n="0597b04"/>母親盡得生天受諸快樂衣食自然長命富貴爾時<lb
+ ed="X" n="0414b02"/><lb
+ ed="R087" n="0597b05"/>天龍八部人非人等皆大歡喜信受奉行作禮而退。<lb
+ ed="X" n="0414b03"/><lb
+ ed="X" n="0414b04"/><lb
+ ed="R087" n="0597b07"/>
+</ab><ab type='juan' subtype='close'>佛說大藏正教血盆經</ab></div>
+</body></text></TEI>

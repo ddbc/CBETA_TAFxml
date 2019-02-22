@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">阿迦陀密一印千類千轉三使者成就經法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0190</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X02.0190.0852c" n="0852c"/><lb
+ ed="X" n="0852c01"/><lb
+ ed="X" n="0852c02"/><lb
+ ed="X" n="0852c03"/><lb
+ ed="X" n="0852c04"/><lb
+ ed="X" n="0852c05"/><lb
+ ed="R003" n="0761a01"/>
+<ab type='juan' subtype='open'>阿迦陀密一印千類千轉三使者成<lb
+ ed="X" n="0852c06"/><lb
+ ed="R003" n="0761a01"/>就經法</ab><lb
+ ed="X" n="0852c07"/><lb
+ ed="X" n="0852c08"/><lb
+ ed="R003" n="0761a02"/><byline>大興善寺三藏沙門大廣智不<lb
+ ed="X" n="0852c09"/><lb
+ ed="R003" n="0761a03"/>空奉　詔譯</byline><lb
+ ed="X" n="0852c10"/><lb
+ ed="R003" n="0761a04"/><div type='' level='2'><ab type='prose'>爾時觀世音菩薩在大眾會座中而起五體投地禮<lb
+ ed="X" n="0852c11"/><lb
+ ed="R003" n="0761a05"/>佛雙足而白佛言我有一真言一印三使者真言廣<lb
+ ed="X" n="0852c12"/><lb
+ ed="R003" n="0761a06"/>大成就之法願為利益安樂閻浮提諸善男子善女<lb
+ ed="X" n="0852c13"/><lb
+ ed="R003" n="0761a07"/>人故唯願世尊哀愍聽許我今說之真言曰。<lb
+ ed="X" n="0852c14"/><lb
+ ed="R003" n="0761a08"/></ab>
+<ab type='dharani'>那謨羅怛那哆羅夜耶那謨阿利耶婆嚧枳帝<lb
+ ed="X" n="0852c15"/><lb
+ ed="R003" n="0761a09"/>跢姪他闍曳闍曳闍夜婆醯你闍榆跢利<lb
+ ed="X" n="0852c16"/><lb
+ ed="R003" n="0761a10"/>迦囉迦羅摩羅摩羅者羅器拏器拏薩婆羯磨䟦<lb
+ ed="X" n="0852c17"/><lb
+ ed="R003" n="0761a11"/>羅拏你迷婆底莎呵<lb
+ ed="X" n="0852c18"/><lb
+ ed="R003" n="0761a12"/></ab>
+<ab type='prose'>誦此呪已惡業消滅誦至七遍五逆罪滅若滿千遍<lb
+ ed="X" n="0852c19"/><lb
+ ed="R003" n="0761a13"/>已罪無不滅滿十萬遍面見觀音種種莊嚴者七日<lb
+ ed="X" n="0852c20"/><lb
+ ed="R003" n="0761a14"/>之中初作法時唯得食乳糜蘇最後一日勿食十五<lb
+ ed="X" n="0852c21"/><lb
+ ed="R003" n="0761a15"/>日夜佛前念誦無定限數見像搖出聲唱言善哉善<lb
+ ed="X" n="0852c22"/><lb
+ ed="R003" n="0761a16"/>哉故光明照曜復以真珠寶物安呪師頂上即智成<lb
+ ed="X" n="0852c23"/><lb
+ ed="R003" n="0761a17"/>驗面見觀音已得滿一切善願。<lb
+ ed="X" n="0852c24"/><lb
+ ed="R003" n="0761a18"/>又於垂眠中夢見觀音種種莊嚴者一切善事成就<pb ed="X" id="X02.0190.0853a" n="0853a"/><lb
+ ed="X" n="0853a01"/><lb
+ ed="R003" n="0761b01"/>一切惡業消滅直轉讀者亦得滅罪。<lb
+ ed="X" n="0853a02"/><lb
+ ed="R003" n="0761b02"/>次說一印亦利益眾生以一印三十二遍種種成辨<lb
+ ed="X" n="0853a03"/><lb
+ ed="R003" n="0761b03"/>二手合二火背相合以二母指押二頭指為鈎以印<lb
+ ed="X" n="0853a04"/><lb
+ ed="R003" n="0761b04"/>假使向虗空為天蓋境界向十方天上隨處成結界<lb
+ ed="X" n="0853a05"/><lb
+ ed="R003" n="0761b05"/>向本尊為普供養作法為普禮後時為迴向又為發<lb
+ ed="X" n="0853a06"/><lb
+ ed="R003" n="0761b06"/>遣若欲降伏惡人者作手印無二以嗔心誦一百八<lb
+ ed="X" n="0853a07"/><lb
+ ed="R003" n="0761b07"/>遍一切外道所作滅。<lb
+ ed="X" n="0853a08"/><lb
+ ed="R003" n="0761b08"/>若人患心病者加持黃土塗於心除差。<lb
+ ed="X" n="0853a09"/><lb
+ ed="R003" n="0761b09"/>若人患頭病加持大黃二十一遍服之除愈。<lb
+ ed="X" n="0853a10"/><lb
+ ed="R003" n="0761b10"/>若人患眼者加持杏子之油塗除差。<lb
+ ed="X" n="0853a11"/><lb
+ ed="R003" n="0761b11"/>若人患腫者香末加持一百八遍塗除愈。<lb
+ ed="X" n="0853a12"/><lb
+ ed="R003" n="0761b12"/>若人欲令遠去魔事加持苦木一百八遍其人遠去<lb
+ ed="X" n="0853a13"/><lb
+ ed="R003" n="0761b13"/>次使者三印二十八部總攝左右手掌平向天上以<lb
+ ed="X" n="0853a14"/><lb
+ ed="R003" n="0761b14"/>大指來去。<lb
+ ed="X" n="0853a15"/><lb
+ ed="R003" n="0761b15"/>天上使者費迦邏亦名淨滿密語曰。<lb
+ ed="X" n="0853a16"/><lb
+ ed="R003" n="0761b16"/></ab>
+<ab type='dharani'>費迦邏翳醯𠰘娑嚩賀<lb
+ ed="X" n="0853a17"/><lb
+ ed="R003" n="0761b17"/></ab>
+<ab type='prose'>二手合二地來去。<lb
+ ed="X" n="0853a18"/><lb
+ ed="R003" n="0761b18"/>虗空使者大仙亦名嚩斯密語曰。<lb
+ ed="X" n="0853a19"/><lb
+ ed="R003" n="0762a01"/></ab>
+<ab type='dharani'>悉你也娑嚩賀<lb
+ ed="X" n="0853a20"/><lb
+ ed="R003" n="0762a02"/></ab>
+<ab type='prose'>二手向虗空以二大指來去。<lb
+ ed="X" n="0853a21"/><lb
+ ed="R003" n="0762a03"/>下地使者水火雷電自在亦名大羅惹密語曰。<lb
+ ed="X" n="0853a22"/><lb
+ ed="R003" n="0762a04"/></ab>
+<ab type='dharani'>唵闍曳闍曳娑嚩賀<lb
+ ed="X" n="0853a23"/><lb
+ ed="R003" n="0762a05"/></ab>
+<ab type='prose'>此三種使者能滅三灾能滅三種執能滅生生世世<lb
+ ed="X" n="0853a24"/><lb
+ ed="R003" n="0762a06"/>業障生生世世悉地成就。<pb ed="X" id="X02.0190.0853b" n="0853b"/><lb
+ ed="X" n="0853b01"/><lb
+ ed="R003" n="0762a07"/>又此三種使者無相爭力頓生頓滅轉鉢結縛木合<lb
+ ed="X" n="0853b02"/><lb
+ ed="R003" n="0762a08"/>空鉢。<lb
+ ed="X" n="0853b03"/><lb
+ ed="R003" n="0762a09"/>若人得滿呪功者乘空界為仙人召集天龍藥叉鬼<lb
+ ed="X" n="0853b04"/><lb
+ ed="R003" n="0762a10"/>神等任心發遣尤法力也。<lb
+ ed="X" n="0853b05"/><lb
+ ed="R003" n="0762a11"/><lb
+ ed="X" n="0853b06"/><lb
+ ed="R003" n="0762a12"/>
+</ab><ab type='juan' subtype='close'>阿迦陀密一印千類千轉三使者成就經法一卷</ab><lb
+ ed="X" n="0853b07"/><lb
+ ed="R003" n="0762a13"/><lb
+ ed="X" n="0853b08"/><lb
+ ed="R003" n="0762a14"/><div type='w' level='3'><ab type='prose'>久安五年七月六日辰時許奉受了<lb
+ ed="X" n="0853b09"/><lb
+ ed="R003" n="0762a15"/>金剛佛子辨真</ab></div></div></div>
+</body></text></TEI>

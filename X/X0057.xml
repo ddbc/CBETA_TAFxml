@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">十二禮</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0057</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X02.0057.0155a" n="0155a"/><lb
+ ed="X" n="0155a01"/><lb
+ ed="X" n="0155a02"/><lb
+ ed="X" n="0155a03"/><lb
+ ed="X" n="0155a04"/><lb
+ ed="R002" n="0389a01"/>
+<ab type='juan' subtype='open'>十二禮</ab><lb
+ ed="X" n="0155a05"/><lb
+ ed="X" n="0155a06"/><lb
+ ed="R002" n="0389a03"/><div type='' level='2'><ab type='prose'>至心歸命禮西方阿彌陀佛。<lb
+ ed="X" n="0155a07"/><lb
+ ed="R002" n="0389a04"/></ab>
+<ab type='verse'>
+稽首天人所恭敬　　阿彌陀仙兩足尊　　<lb
+ ed="X" n="0155a08"/><lb
+ ed="R002" n="0389a05"/>在彼微妙安樂國　　無量佛子眾圍繞　　
+</ab><lb
+ ed="X" n="0155a09"/><lb
+ ed="R002" n="0389a06"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155a10"/><lb
+ ed="R002" n="0389a07"/></ab>
+<ab type='verse'>
+金色身淨如山王　　奢摩佗行如象步　　<lb
+ ed="X" n="0155a11"/><lb
+ ed="R002" n="0389a08"/>兩目淨若青蓮華　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155a12"/><lb
+ ed="R002" n="0389a09"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155a13"/><lb
+ ed="R002" n="0389a10"/></ab>
+<ab type='verse'>
+面善圓淨如滿月　　威光猶如千日月　　<lb
+ ed="X" n="0155a14"/><lb
+ ed="R002" n="0389a11"/>聲如天鼓俱翅羅　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155a15"/><lb
+ ed="R002" n="0389a12"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155a16"/><lb
+ ed="R002" n="0389a13"/></ab>
+<ab type='verse'>
+觀音頂戴冠中住　　種種妙相寶莊嚴　　<lb
+ ed="X" n="0155a17"/><lb
+ ed="R002" n="0389a14"/>能伏外道魔憍慢　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155a18"/><lb
+ ed="R002" n="0389a15"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155a19"/><lb
+ ed="R002" n="0389a16"/></ab>
+<ab type='verse'>
+無比無垢廣清淨　　眾德皎潔如虗空　　<lb
+ ed="X" n="0155a20"/><lb
+ ed="R002" n="0389a17"/>所作利益得自在　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155a21"/><lb
+ ed="R002" n="0389a18"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155a22"/><lb
+ ed="R002" n="0389b01"/></ab>
+<ab type='verse'>
+十方名聞菩薩眾　　無量諸魔常讚歎　　<lb
+ ed="X" n="0155a23"/><lb
+ ed="R002" n="0389b02"/>為諸眾生願力住　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155a24"/><lb
+ ed="R002" n="0389b03"/><ab type='prose'>願共諸眾生往生安樂國。<pb ed="X" id="X02.0057.0155b" n="0155b"/><lb
+ ed="X" n="0155b01"/><lb
+ ed="R002" n="0389b04"/></ab>
+<ab type='verse'>
+金底寶間池生華　　善根所成妙高座　　<lb
+ ed="X" n="0155b02"/><lb
+ ed="R002" n="0389b05"/>於彼座上如山王　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155b03"/><lb
+ ed="R002" n="0389b06"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155b04"/><lb
+ ed="R002" n="0389b07"/></ab>
+<ab type='verse'>
+十方所來諸佛子　　顯現神通至安樂　　<lb
+ ed="X" n="0155b05"/><lb
+ ed="R002" n="0389b08"/>瞻仰尊顏常恭敬　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155b06"/><lb
+ ed="R002" n="0389b09"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155b07"/><lb
+ ed="R002" n="0389b10"/></ab>
+<ab type='verse'>
+諸有無常無我等　　亦如水月電影露　　<lb
+ ed="X" n="0155b08"/><lb
+ ed="R002" n="0389b11"/>為眾說法無名字　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155b09"/><lb
+ ed="R002" n="0389b12"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155b10"/><lb
+ ed="R002" n="0389b13"/></ab>
+<ab type='verse'>
+彼尊無量方便境　　無有諸趣惡知識　　<lb
+ ed="X" n="0155b11"/><lb
+ ed="R002" n="0389b14"/>往生不退至菩提　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155b12"/><lb
+ ed="R002" n="0389b15"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155b13"/><lb
+ ed="R002" n="0389b16"/></ab>
+<ab type='verse'>
+彼尊佛剎無惡名　　亦無女人惡道怖　　<lb
+ ed="X" n="0155b14"/><lb
+ ed="R002" n="0389b17"/>眾人至心敬彼尊　　故我頂禮彌陀佛　　
+</ab><lb
+ ed="X" n="0155b15"/><lb
+ ed="R002" n="0389b18"/><ab type='prose'>願共諸眾生往生安樂國。<lb
+ ed="X" n="0155b16"/><lb
+ ed="R002" n="0390a01"/></ab>
+<ab type='verse'>
+我說彼尊功德事　　眾善無邊如海水　　<lb
+ ed="X" n="0155b17"/><lb
+ ed="R002" n="0390a02"/>所獲善根清淨者　　迴施眾生生彼國　　
+</ab><lb
+ ed="X" n="0155b18"/><lb
+ ed="R002" n="0390a03"/><ab type='prose'>願共諸眾生往生安樂國。</ab></div><lb
+ ed="X" n="0155b19"/><lb
+ ed="X" n="0155b20"/><lb
+ ed="R002" n="0390a05"/><div type='w' level='2'><head>校異</head><lb
+ ed="X" n="0155b21"/><lb
+ ed="R002" n="0390a06"/><ab type='prose'>。</ab></div></div>
+</body></text></TEI>

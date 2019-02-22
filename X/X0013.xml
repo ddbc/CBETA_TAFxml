@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">念佛超脫輪迴捷徑經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X01</biblScope>
+                    <idno type="Taisho">X01n0013</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X01.0013.0364a" n="0364a"/><lb
+ ed="X" n="0364a01"/><lb
+ ed="X" n="0364a02"/><lb
+ ed="X" n="0364a03"/><lb
+ ed="X" n="0364a04"/><lb
+ ed="R087" n="0580a01"/>
+<ab type='juan' subtype='open'>念佛超脫輪迴捷徑經</ab><lb
+ ed="X" n="0364a05"/><lb
+ ed="X" n="0364a06"/><lb
+ ed="R087" n="0580a03"/><div type='' level='1'><ab type='prose'>先誦佛讚。<lb
+ ed="X" n="0364a07"/><lb
+ ed="R087" n="0580a04"/></ab>
+<ab type='verse'>
+阿彌陀佛身金色　　相好光明無等倫　　<lb
+ ed="X" n="0364a08"/><lb
+ ed="R087" n="0580a05"/>白毫宛轉五須彌　　紺目澄清四大海　　<lb
+ ed="X" n="0364a09"/><lb
+ ed="R087" n="0580a06"/>光中化佛無數億　　化菩薩眾亦無邊　　<lb
+ ed="X" n="0364a10"/><lb
+ ed="R087" n="0580a07"/>四十八願度眾生　　九品咸令登彼岸　　
+</ab><lb
+ ed="X" n="0364a11"/><lb
+ ed="R087" n="0580a08"/>南無西方極樂世界大慈大悲阿彌陀佛<lb
+ ed="X" n="0364a12"/><lb
+ ed="R087" n="0580a09"/>南無阿彌陀佛<lb
+ ed="X" n="0364a13"/><lb
+ ed="R087" n="0580a10"/>南無觀世音菩薩南無大勢至菩薩<lb
+ ed="X" n="0364a14"/><lb
+ ed="R087" n="0580a11"/>南無清淨大海眾菩薩<lb
+ ed="X" n="0364a15"/><lb
+ ed="R087" n="0580a12"/><ab type='prose'>念畢迴向發願頌。<lb
+ ed="X" n="0364a16"/><lb
+ ed="R087" n="0580a13"/></ab>
+<ab type='verse'>
+十方三世佛　　阿彌陀第一　　九品度眾生　　<lb
+ ed="X" n="0364a17"/><lb
+ ed="R087" n="0580a14"/>威德無窮極　　我今大歸依　　懺悔三業罪　　<lb
+ ed="X" n="0364a18"/><lb
+ ed="R087" n="0580a15"/>凡有諸福善　　至心用迴向　　願同念佛人　　<lb
+ ed="X" n="0364a19"/><lb
+ ed="R087" n="0580a16"/>感應隨時現　　臨終西方境　　分明在目前　　<lb
+ ed="X" n="0364a20"/><lb
+ ed="R087" n="0580a17"/>見聞皆精進　　同生極樂國　　見佛了生死　　<lb
+ ed="X" n="0364a21"/><lb
+ ed="R087" n="0580a18"/>如佛度一切　　無邊煩惱斷　　無量法門修　　<lb
+ ed="X" n="0364a22"/><lb
+ ed="R087" n="0580b01"/>誓願度眾生　　總願成佛道　　<lb
+ ed="X" n="0364a23"/><lb
+ ed="R087" n="0580b02"/>虗空有盡　　我願無窮　　情與無情　　<lb
+ ed="X" n="0364a24"/><lb
+ ed="R087" n="0580b03"/>同緣種智　　
+</ab><pb ed="X" id="X01.0013.0364b" n="0364b"/><lb
+ ed="X" n="0364b01"/><lb
+ ed="R087" n="0580b04"/>十方三世一切佛<lb
+ ed="X" n="0364b02"/><lb
+ ed="R087" n="0580b05"/>一切菩薩摩訶薩<lb
+ ed="X" n="0364b03"/><lb
+ ed="R087" n="0580b06"/>摩訶般若波羅蜜<lb
+ ed="X" n="0364b04"/><lb
+ ed="R087" n="0580b07"/>南無阿彌陀佛<ab type='prose'>念畢合掌頂禮而退。<lb
+ ed="X" n="0364b05"/><lb
+ ed="R087" n="0580b08"/><lb
+ ed="X" n="0364b06"/><lb
+ ed="R087" n="0580b09"/>此是還原要術。脫苦神方。不遇此門。真為痛惜。倘<lb
+ ed="X" n="0364b07"/><lb
+ ed="R087" n="0580b10"/>未能頓棄家緣專一修習。但每日正心西向。繫念<lb
+ ed="X" n="0364b08"/><lb
+ ed="R087" n="0580b11"/>阿彌陀佛。或百或千以為常課。此方念佛。極樂池<lb
+ ed="X" n="0364b09"/><lb
+ ed="R087" n="0580b12"/>內。花即標名。勤惰纔分。榮枯頓異。臨命終時。觀世<lb
+ ed="X" n="0364b10"/><lb
+ ed="R087" n="0580b13"/>音菩薩。手執此花。迎取念佛之人。坐於花內。往生<lb
+ ed="X" n="0364b11"/><lb
+ ed="R087" n="0580b14"/>彼國。花開見佛。快樂無窮。我若誑汝。當墮󳫠舌地<lb
+ ed="X" n="0364b12"/><lb
+ ed="R087" n="0580b15"/>獄。代汝念佛之人。受大苦。幸發信心。早修淨業。莫<lb
+ ed="X" n="0364b13"/><lb
+ ed="R087" n="0580b16"/>教一日換了皮。縱有千佛難救汝。火急進步。時不<lb
+ ed="X" n="0364b14"/><lb
+ ed="R087" n="0580b17"/>待人。思之思之。<lb
+ ed="X" n="0364b15"/><lb
+ ed="R087" n="0580b18"/>先原為極忙而設每早定為常課。不可一日間斷。<lb
+ ed="X" n="0364b16"/><lb
+ ed="R087" n="0581a01"/>常課之外。遇有空閒。仍把念佛做一件日用緊要<lb
+ ed="X" n="0364b17"/><lb
+ ed="R087" n="0581a02"/>的事。好像穿衣食飯一般。沒有一時半刻可離。這<lb
+ ed="X" n="0364b18"/><lb
+ ed="R087" n="0581a03"/>纔與古人所說。朝也阿彌陀。暮也阿彌陀。假饒忙<lb
+ ed="X" n="0364b19"/><lb
+ ed="R087" n="0581a04"/>似箭。不離阿彌陀。的意相合。每次所念。不必拘定<lb
+ ed="X" n="0364b20"/><lb
+ ed="R087" n="0581a05"/>遍數。亦不拘四字六字。明念暗念。但念佛時。至心<lb
+ ed="X" n="0364b21"/><lb
+ ed="R087" n="0581a06"/>歸命。莫教有一毫外念夾雜。方為真念。大藏經云。<lb
+ ed="X" n="0364b22"/><lb
+ ed="R087" n="0581a07"/>念阿彌陀佛一聲。滅八十億萬劫生死重罪。苟非<lb
+ ed="X" n="0364b23"/><lb
+ ed="R087" n="0581a08"/>真念純切。那能有此大效。近有一種念佛的人。不<lb
+ ed="X" n="0364b24"/><lb
+ ed="R087" n="0581a09"/>曉得善養喜神。動輒生氣。兼又貪圖口腹。恣意殺<pb ed="X" id="X01.0013.0364c" n="0364c"/><lb
+ ed="X" n="0364c01"/><lb
+ ed="R087" n="0581a10"/>生。自謂無礙於念佛。那曉得怒恨傷生兩業。最是<lb
+ ed="X" n="0364c02"/><lb
+ ed="R087" n="0581a11"/>招惹魔障。到命終時業境現前。纏繞作梗。不是痛<lb
+ ed="X" n="0364c03"/><lb
+ ed="R087" n="0581a12"/>苦。就是昏迷。雖欲念一佛字。將不可得。何況十念。<lb
+ ed="X" n="0364c04"/><lb
+ ed="R087" n="0581a13"/>故修淨業的。要曉得於今所做是因。臨終所得是<lb
+ ed="X" n="0364c05"/><lb
+ ed="R087" n="0581a14"/>果。趁早歡喜戒殺。莫到臨頭後悔。又有一種念佛<lb
+ ed="X" n="0364c06"/><lb
+ ed="R087" n="0581a15"/>的人。自謂生平那裏沒有過惡。未必就能投生極<lb
+ ed="X" n="0364c07"/><lb
+ ed="R087" n="0581a16"/>樂。但得現世安穩。來生富貴。於願足矣。這是信念<lb
+ ed="X" n="0364c08"/><lb
+ ed="R087" n="0581a17"/>不堅。佛不能度。要知從前有個十惡五逆的屠戶。<lb
+ ed="X" n="0364c09"/><lb
+ ed="R087" n="0581a18"/>到命終時。痛苦萬狀。只求速死的時節。纔聽得有<lb
+ ed="X" n="0364c10"/><lb
+ ed="R087" n="0581b01"/>這十念法門。急忙之中。取香安放手掌焚燒。力求<lb
+ ed="X" n="0364c11"/><lb
+ ed="R087" n="0581b02"/>超度。尚可見佛接引。得了下品下生。何況生平行<lb
+ ed="X" n="0364c12"/><lb
+ ed="R087" n="0581b03"/>為。尚不至於十惡五逆。而又起信得早。豈有不遂<lb
+ ed="X" n="0364c13"/><lb
+ ed="R087" n="0581b04"/>往生之理。是故念佛不可希求來世福報。到得福<lb
+ ed="X" n="0364c14"/><lb
+ ed="R087" n="0581b05"/>報盡時。依然要受苦楚。那裏比得跳出輪迴。能彀<lb
+ ed="X" n="0364c15"/><lb
+ ed="R087" n="0581b06"/>永享極樂的好。惟求父母往生。及在世保病。去世<lb
+ ed="X" n="0364c16"/><lb
+ ed="R087" n="0581b07"/>追薦的。皆是孝思。可以求得。但父母在世的。不若<lb
+ ed="X" n="0364c17"/><lb
+ ed="R087" n="0581b08"/>勸其自念的好。昔長蘆頤禪師勸孝文云。能勸父<lb
+ ed="X" n="0364c18"/><lb
+ ed="R087" n="0581b09"/>母修淨土。是為大孝。今世人得見此書。就是有緣。<lb
+ ed="X" n="0364c19"/><lb
+ ed="R087" n="0581b10"/>宜發堅信心。勸父母戚友。一同念佛。莫教當面錯<lb
+ ed="X" n="0364c20"/><lb
+ ed="R087" n="0581b11"/>過。倘或轉勸未能兄信。却已曉得天地間。原有這<lb
+ ed="X" n="0364c21"/><lb
+ ed="R087" n="0581b12"/>超出輪迴。投生極樂的法門。耳根聽熟。日久自然<lb
+ ed="X" n="0364c22"/><lb
+ ed="R087" n="0581b13"/>會信。至於戒殺。但食三淨肉。不傷生命。便是佛家<lb
+ ed="X" n="0364c23"/><lb
+ ed="R087" n="0581b14"/>以眼不見其殺。耳不聞其殺。心不疑其因我而殺。<lb
+ ed="X" n="0364c24"/><lb
+ ed="R087" n="0581b15"/>名為三淨肉。便可食得。如能長年食素更佳。凡修<pb ed="X" id="X01.0013.0365a" n="0365a"/><lb
+ ed="X" n="0365a01"/><lb
+ ed="R087" n="0581b16"/>淨業。除念佛外。惟誦淨土真言。超度一切眾生。往<lb
+ ed="X" n="0365a02"/><lb
+ ed="R087" n="0581b17"/>生西方則可。餘與淨土無涉。昔蓮池大師臨終時。<lb
+ ed="X" n="0365a03"/><lb
+ ed="R087" n="0581b18"/>果然見佛來迎。因叮嚀大眾云。老實念佛。莫換題<lb
+ ed="X" n="0365a04"/><lb
+ ed="R087" n="0582a01"/>目。可見三藏十二部經。同那八萬四千法門。總不<lb
+ ed="X" n="0365a05"/><lb
+ ed="R087" n="0582a02"/>若念佛為第一也。</ab></div>
+</body></text></TEI>

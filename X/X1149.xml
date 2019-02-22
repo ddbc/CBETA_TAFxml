@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">注十疑論</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X61</biblScope>
+                    <idno type="Taisho">X61n1149</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X61.1149.0153b" n="0153b"/><lb
+ ed="X" n="0153b01"/><lb
+ ed="X" n="0153b02"/><lb
+ ed="X" n="0153b03"/><lb
+ ed="X" n="0153b04"/><lb
+ ed="X" n="0153b05"/><div type='xu' level='2'><head>No. 1149-A<lb
+ ed="X" n="0153b06"/><lb
+ ed="R107" n="0714a01"/> 注十疑論并序</head><lb
+ ed="X" n="0153b07"/><lb
+ ed="X" n="0153b08"/><lb
+ ed="R107" n="0714a02"/><byline>天台智者大師說</byline><lb
+ ed="X" n="0153b09"/><lb
+ ed="R107" n="0714a03"/><ab type='prose'>序曰夫談大人境界者卒不可貴信蓋難信之法也<lb
+ ed="X" n="0153b10"/><lb
+ ed="R107" n="0714a04"/>譬若觀君王之尊貴歎曰我必不能親近歟一旦因<lb
+ ed="X" n="0153b11"/><lb
+ ed="R107" n="0714a05"/>依致之于左右此他力之驗也惟智者大師能焉自<lb
+ ed="X" n="0153b12"/><lb
+ ed="R107" n="0714a06"/>登忍力作師子吼吼聲普聞可畏難解喻如卿導之<lb
+ ed="X" n="0153b13"/><lb
+ ed="R107" n="0714a07"/>言不軆異󳬛之路奚通是故吳山澄彧上人揮彌天<lb
+ ed="X" n="0153b14"/><lb
+ ed="R107" n="0714a08"/>之筆章句出焉令披文見意不俣終日也領彼迷兒<lb
+ ed="X" n="0153b15"/><lb
+ ed="R107" n="0714a09"/>歸于父舍末有道贊人者專修淨業誘掖眾多令愚<lb
+ ed="X" n="0153b16"/><lb
+ ed="R107" n="0714a10"/>稱讚於此門約我往生於彼土序冠論首以先啟行。<lb
+ ed="X" n="0153b17"/><lb
+ ed="R107" n="0714a11"/>時大宋太平興國八年初建鶉味月序</ab></div><lb
+ ed="X" n="0153b18"/><lb
+ ed="X" n="0153b19"/><lb
+ ed="X" n="0153b20"/><lb
+ ed="X" n="0153b21"/><lb
+ ed="R107" n="0714a13"/>
+<ab type='juan' subtype='open'>淨土十疑論註</ab><lb
+ ed="X" n="0153b22"/><lb
+ ed="X" n="0153b23"/><lb
+ ed="R107" n="0714a15"/><ab type='prose'>諸佛境界非土非身隨順群機強立依正然括一代<lb
+ ed="X" n="0153b24"/><lb
+ ed="R107" n="0714a16"/>聖教總明四土三身一染淨同居土凡聖同居二方<pb ed="X" id="X61.1149.0153c" n="0153c"/><lb
+ ed="X" n="0153c01"/><lb
+ ed="R107" n="0714a17"/>便有餘土全斷見修煩惱三乘人居三實報無障礙<lb
+ ed="X" n="0153c02"/><lb
+ ed="R107" n="0714a18"/>土分斷根本無明煩惱法身菩薩居四常寂光土唯<lb
+ ed="X" n="0153c03"/><lb
+ ed="R107" n="0714b01"/>妙覺法身所居若二土對明則娑婆同居穢土安養<lb
+ ed="X" n="0153c04"/><lb
+ ed="R107" n="0714b02"/>同居淨土以彼雖無三惡具有人天也一師明四土<lb
+ ed="X" n="0153c05"/><lb
+ ed="R107" n="0714b03"/>云一法性土法身所居二自受身土自受用報身所<lb
+ ed="X" n="0153c06"/><lb
+ ed="R107" n="0714b04"/>居此二土即前常寂光土三他受用土他受用報身<lb
+ ed="X" n="0153c07"/><lb
+ ed="R107" n="0714b05"/>所居為初地已上菩薩現一分細相者即前實報土<lb
+ ed="X" n="0153c08"/><lb
+ ed="R107" n="0714b06"/>四變化土變化身所居為地前菩薩及二乘凡夫現<lb
+ ed="X" n="0153c09"/><lb
+ ed="R107" n="0714b07"/>一分麤相者即前方便有餘染淨同居二乘土今安<lb
+ ed="X" n="0153c10"/><lb
+ ed="R107" n="0714b08"/>養即他受用變化二土以地上菩薩見他受用土地<lb
+ ed="X" n="0153c11"/><lb
+ ed="R107" n="0714b09"/>前菩薩二乘凡夫見變化土也彼土功德快樂不可<lb
+ ed="X" n="0153c12"/><lb
+ ed="R107" n="0714b10"/>勝言故稱讚淨土經云假使經於無量劫以無量舌<lb
+ ed="X" n="0153c13"/><lb
+ ed="R107" n="0714b11"/>一一舌上出無量聲讚其功德亦不能盡若能依經<lb
+ ed="X" n="0153c14"/><lb
+ ed="R107" n="0714b12"/>修三種淨行十六妙觀乃至臨終十念成就者決定<lb
+ ed="X" n="0153c15"/><lb
+ ed="R107" n="0714b13"/>往生而惑者不信多起疑謗損自損他故智者大師<lb
+ ed="X" n="0153c16"/><lb
+ ed="R107" n="0714b14"/>略舉十疑以微妙義往復研覈決問疑網故云淨土<lb
+ ed="X" n="0153c17"/><lb
+ ed="R107" n="0714b15"/>十疑論。<lb
+ ed="X" n="0153c18"/><lb
+ ed="R107" n="0714b16"/></ab><div type='orig' level='2'><ab type='prose'>第一疑　問曰諸佛菩薩以大悲為業若欲救度眾<lb
+ ed="X" n="0153c19"/><lb
+ ed="R107" n="0714b17"/>生只應願生三界於五濁三途中。</ab></div><lb
+ ed="X" n="0153c20"/><lb
+ ed="R107" n="0714b18"/><div type='commentary' level='2'><ab type='prose'>五濁者一劫濁劫名時分謂四濁聚在其時劫減<lb
+ ed="X" n="0153c21"/><lb
+ ed="R107" n="0715a01"/>時俣故名為濁故悲華經云八萬歲至三萬歲皆<lb
+ ed="X" n="0153c22"/><lb
+ ed="R107" n="0715a02"/>未有濁至二萬歲時五濁始也二煩惱濁謂有貪<lb
+ ed="X" n="0153c23"/><lb
+ ed="R107" n="0715a03"/>嗔癡慢疑五鈍使故名為濁三眾生濁謂六道受<lb
+ ed="X" n="0153c24"/><lb
+ ed="R107" n="0715a04"/>生於見慢果報上立此假名故名為濁四見濁有<pb ed="X" id="X61.1149.0154a" n="0154a"/><lb
+ ed="X" n="0154a01"/><lb
+ ed="R107" n="0715a05"/>身見邊見邪見見取見戒禁取五利使并六十二<lb
+ ed="X" n="0154a02"/><lb
+ ed="R107" n="0715a06"/>見故名為濁五命濁謂連持色心為命命短名濁。</ab></div><lb
+ ed="X" n="0154a03"/><lb
+ ed="R107" n="0715a07"/><div type='orig' level='2'><ab type='prose'>救苦眾生因何求生淨土自安其身捨離眾生即是<lb
+ ed="X" n="0154a04"/><lb
+ ed="R107" n="0715a08"/>無大慈悲心專為自利障菩提道。<lb
+ ed="X" n="0154a05"/><lb
+ ed="R107" n="0715a09"/>答曰菩薩有二種一者久行菩薩道得無生忍者實<lb
+ ed="X" n="0154a06"/><lb
+ ed="R107" n="0715a10"/>當所責二者未得無生忍已還及初發心凡夫菩薩<lb
+ ed="X" n="0154a07"/><lb
+ ed="R107" n="0715a11"/>者要須常不離佛忍力成就方堪處三界中於惡世<lb
+ ed="X" n="0154a08"/><lb
+ ed="R107" n="0715a12"/>中救苦眾生為此菩薩願云先證無生忍然後度眾<lb
+ ed="X" n="0154a09"/><lb
+ ed="R107" n="0715a13"/>生故智度論云具縛凡夫。</ab></div><lb
+ ed="X" n="0154a10"/><lb
+ ed="R107" n="0715a14"/><div type='commentary' level='2'><ab type='prose'>縛謂煩惱能纏縛人凡夫具有故名具縛凡夫。</ab></div><lb
+ ed="X" n="0154a11"/><lb
+ ed="R107" n="0715a15"/><div type='orig' level='2'><ab type='prose'>雖有大悲心即願生惡世救苦眾生者無有是處何<lb
+ ed="X" n="0154a12"/><lb
+ ed="R107" n="0715a16"/>以故惡世界煩惱境強自無忍力心隨境所轉聲色<lb
+ ed="X" n="0154a13"/><lb
+ ed="R107" n="0715a17"/>所縛自墮三惡道焉能救眾生假令得生人中聖道<lb
+ ed="X" n="0154a14"/><lb
+ ed="R107" n="0715a18"/>難得或因施戒修福得生人中得作國王大臣長者<lb
+ ed="X" n="0154a15"/><lb
+ ed="R107" n="0715b01"/>富貴自在縱遇善知識不肯信用貪瞋放逸故廣造<lb
+ ed="X" n="0154a16"/><lb
+ ed="R107" n="0715b02"/>眾罪乘此惡業一入三塗經無量劫從地獄出。</ab></div><lb
+ ed="X" n="0154a17"/><lb
+ ed="R107" n="0715b03"/><div type='commentary' level='2'><ab type='prose'>地下獄名為地獄梵云捺落迦此云苦具。</ab></div><lb
+ ed="X" n="0154a18"/><lb
+ ed="R107" n="0715b04"/><div type='orig' level='2'><ab type='prose'>受貧賤人身不逢善知識還墮地獄如此輪迴至於<lb
+ ed="X" n="0154a19"/><lb
+ ed="R107" n="0715b05"/>今日人人皆如是此名難行道也故維摩經云自疾<lb
+ ed="X" n="0154a20"/><lb
+ ed="R107" n="0715b06"/>不能救而焉能救諸疾人又大智度論云譬如二人<lb
+ ed="X" n="0154a21"/><lb
+ ed="R107" n="0715b07"/>各有親屬為水所溺一人情急直入水救為接無方<lb
+ ed="X" n="0154a22"/><lb
+ ed="R107" n="0715b08"/>便力故彼此俱沒一人有方便往趣船筏。</ab></div><lb
+ ed="X" n="0154a23"/><lb
+ ed="R107" n="0715b09"/><div type='commentary' level='2'><ab type='prose'>南人名𥱼北人名筏謂編竹木浮於漢河以運人<lb
+ ed="X" n="0154a24"/><lb
+ ed="R107" n="0715b10"/>物者也。</ab></div><pb ed="X" id="X61.1149.0154b" n="0154b"/><lb
+ ed="X" n="0154b01"/><lb
+ ed="R107" n="0715b11"/><div type='orig' level='2'><ab type='prose'>乘之救接悉皆得脫水溺之難新發意菩薩亦復如<lb
+ ed="X" n="0154b02"/><lb
+ ed="R107" n="0715b12"/>是未得忍力不能救度眾生為此常須近佛得無生<lb
+ ed="X" n="0154b03"/><lb
+ ed="R107" n="0715b13"/>忍已方能救眾生如得船者論云譬如嬰兒。</ab></div><lb
+ ed="X" n="0154b04"/><lb
+ ed="R107" n="0715b14"/><div type='commentary' level='2'><ab type='prose'>釋名曰人始生曰嬰兒𮌎前曰嬰抱之𮌎前而乳<lb
+ ed="X" n="0154b05"/><lb
+ ed="R107" n="0715b15"/>養之名為嬰兒。</ab></div><lb
+ ed="X" n="0154b06"/><lb
+ ed="R107" n="0715b16"/><div type='orig' level='2'><ab type='prose'>不得離母若也離母或墮坑井渴乳而死又如鳥子<lb
+ ed="X" n="0154b07"/><lb
+ ed="R107" n="0715b17"/>羽翅未成只得依樹傅枝不能遠去羽翮成就方能飛空自在無礙凡夫無力唯須專念<lb
+ ed="X" n="0154b09"/><lb
+ ed="R107" n="0716a01"/>阿彌陀佛便得三昧以業成故臨終斂念得生決定<lb
+ ed="X" n="0154b10"/><lb
+ ed="R107" n="0716a02"/>不疑見阿彌陀佛證無生法忍已還來三界乘無生<lb
+ ed="X" n="0154b11"/><lb
+ ed="R107" n="0716a03"/>忍船救苦眾生廣施佛事任意自在故論云遊戲地<lb
+ ed="X" n="0154b12"/><lb
+ ed="R107" n="0716a04"/>獄。</ab></div><lb
+ ed="X" n="0154b13"/><lb
+ ed="R107" n="0716a05"/><div type='commentary' level='2'><ab type='prose'>入獄救苦隨意自在故曰遊戲門。</ab></div><lb
+ ed="X" n="0154b14"/><lb
+ ed="R107" n="0716a06"/><div type='orig' level='2'><ab type='prose'>行者生彼國得無生忍已還入生死國教化地獄救<lb
+ ed="X" n="0154b15"/><lb
+ ed="R107" n="0716a07"/>苦眾生以此因緣求生淨土者願識其教故十住毗<lb
+ ed="X" n="0154b16"/><lb
+ ed="R107" n="0716a08"/>婆娑論名易行道。</ab></div><lb
+ ed="X" n="0154b17"/><lb
+ ed="R107" n="0716a09"/><div type='commentary' level='2'><ab type='prose'>易行道義出第五疑中。</ab></div><lb
+ ed="X" n="0154b18"/><lb
+ ed="R107" n="0716a10"/><div type='orig' level='2'><ab type='prose'>第二疑　問諸法體空。</ab></div><lb
+ ed="X" n="0154b19"/><lb
+ ed="R107" n="0716a11"/><div type='commentary' level='2'><ab type='prose'>法有二種一心法二諸法二種皆空心法空者眾<lb
+ ed="X" n="0154b20"/><lb
+ ed="R107" n="0716a12"/>生真心雖具恒沙性德而本無煩惱無煩惱故名<lb
+ ed="X" n="0154b21"/><lb
+ ed="R107" n="0716a13"/>曰體空二法空者因果諸法從緣而起緣會而生<lb
+ ed="X" n="0154b22"/><lb
+ ed="R107" n="0716a14"/>緣散而滅生滅從緣緣無自性故名體空然此問<lb
+ ed="X" n="0154b23"/><lb
+ ed="R107" n="0716a15"/>詞得理而失事答中自顯。</ab></div><lb
+ ed="X" n="0154b24"/><lb
+ ed="R107" n="0716a16"/><div type='orig' level='2'><ab type='prose'>本來無生平等寂滅今乃捨此求彼生西方阿彌陀<pb ed="X" id="X61.1149.0154c" n="0154c"/><lb
+ ed="X" n="0154c01"/><lb
+ ed="R107" n="0716a17"/>淨土豈乖理哉又經云若求淨土先淨其心心淨故<lb
+ ed="X" n="0154c02"/><lb
+ ed="R107" n="0716a18"/>即佛土淨此云何通。<lb
+ ed="X" n="0154c03"/><lb
+ ed="R107" n="0716b01"/>答曰釋有二義一者總答二者別答總答者汝若言<lb
+ ed="X" n="0154c04"/><lb
+ ed="R107" n="0716b02"/>求西方彌陀淨土即此捨此求彼不中理者汝執住<lb
+ ed="X" n="0154c05"/><lb
+ ed="R107" n="0716b03"/>此不求西方則是捨彼著此此還成病不中理也又<lb
+ ed="X" n="0154c06"/><lb
+ ed="R107" n="0716b04"/>轉計云我亦不求生彼亦不求住此者則斷滅見故<lb
+ ed="X" n="0154c07"/><lb
+ ed="R107" n="0716b05"/>金剛般若經云須菩提汝若作此念發阿耨菩提心<lb
+ ed="X" n="0154c08"/><lb
+ ed="R107" n="0716b06"/>者說諸法斷滅相莫作是念何以故發阿耨菩提心<lb
+ ed="X" n="0154c09"/><lb
+ ed="R107" n="0716b07"/>者不說斷滅相。</ab></div><lb
+ ed="X" n="0154c10"/><lb
+ ed="R107" n="0716b08"/><div type='commentary' level='2'><ab type='prose'>引金剛經證成者彼經善現領解佛意不以此二<lb
+ ed="X" n="0154c11"/><lb
+ ed="R107" n="0716b09"/>相觀如來世尊意云不以相觀但是遮詮須知一<lb
+ ed="X" n="0154c12"/><lb
+ ed="R107" n="0716b10"/>切如來皆具相好功德表詮之義若不爾者墮斷<lb
+ ed="X" n="0154c13"/><lb
+ ed="R107" n="0716b11"/>滅見是知說相而萬法森羅實無所得談性而一<lb
+ ed="X" n="0154c14"/><lb
+ ed="R107" n="0716b12"/>如寂滅不礙隨緣言阿耨菩提具應云阿耨多羅<lb
+ ed="X" n="0154c15"/><lb
+ ed="R107" n="0716b13"/>三藐三菩提此云無上正覺。</ab></div><lb
+ ed="X" n="0154c16"/><lb
+ ed="R107" n="0716b14"/><div type='orig' level='2'><ab type='prose'>二別答者夫不生不滅者於生緣中諸法和合不守<lb
+ ed="X" n="0154c17"/><lb
+ ed="R107" n="0716b15"/>自性求於生體亦不可得此生生時無所從來故名<lb
+ ed="X" n="0154c18"/><lb
+ ed="R107" n="0716b16"/>不生不滅者謂諸法散時不守自性言我散滅此散<pb ed="X" id="X61.1149.0155a" n="0155a"/><lb
+ ed="X" n="0155a01"/><lb
+ ed="R107" n="0716b17"/>滅時去無所至故言不滅非謂因緣生外別有不生<lb
+ ed="X" n="0155a02"/><lb
+ ed="R107" n="0716b18"/>不滅亦非不求生淨土喚作無生為此中論偈云因<lb
+ ed="X" n="0155a03"/><lb
+ ed="R107" n="0717a01"/>緣所生法我說即是空亦名為假名亦是中道義。</ab></div><lb
+ ed="X" n="0155a04"/><lb
+ ed="R107" n="0717a02"/><div type='commentary' level='2'><ab type='prose'>此偈四句初句所觀境下三句能觀觀初句空觀<lb
+ ed="X" n="0155a05"/><lb
+ ed="R107" n="0717a03"/>次句假觀末句中觀此即一心三觀觀一諦三境。</ab></div><lb
+ ed="X" n="0155a06"/><lb
+ ed="R107" n="0717a04"/><div type='orig' level='2'><ab type='prose'>又云諸法不自生亦不從他生不共不無因是故說<lb
+ ed="X" n="0155a07"/><lb
+ ed="R107" n="0717a05"/>無生。</ab></div><lb
+ ed="X" n="0155a08"/><lb
+ ed="R107" n="0717a06"/><div type='commentary' level='2'><ab type='prose'>此偈破四性執計而明無生。</ab></div><lb
+ ed="X" n="0155a09"/><lb
+ ed="R107" n="0717a07"/><div type='orig' level='2'><ab type='prose'>又維摩經云雖知諸佛國及與眾生空而常修淨土<lb
+ ed="X" n="0155a10"/><lb
+ ed="R107" n="0717a08"/>教化諸群生。</ab></div><lb
+ ed="X" n="0155a11"/><lb
+ ed="R107" n="0717a09"/><div type='commentary' level='2'><ab type='prose'>上二句明真諦無相下二句明俗諦宛然真是俗<lb
+ ed="X" n="0155a12"/><lb
+ ed="R107" n="0717a10"/>諦家之真萬差自泯俗是真諦家之俗一生恒殊。</ab></div><lb
+ ed="X" n="0155a13"/><lb
+ ed="R107" n="0717a11"/><div type='orig' level='2'><ab type='prose'>又云如有人造立宮室若依於空地隨意無礙若依<lb
+ ed="X" n="0155a14"/><lb
+ ed="R107" n="0717a12"/>虗空終不能成諸佛說法常依二諦不壞假名而說<lb
+ ed="X" n="0155a15"/><lb
+ ed="R107" n="0717a13"/>諸法實相。</ab></div><lb
+ ed="X" n="0155a16"/><lb
+ ed="R107" n="0717a14"/><div type='commentary' level='2'><ab type='prose'>真俗一際體用共融從本如斯非適今也以不壞<lb
+ ed="X" n="0155a17"/><lb
+ ed="R107" n="0717a15"/>假名故則彼此生滅差別以說諸法實相故則彼<lb
+ ed="X" n="0155a18"/><lb
+ ed="R107" n="0717a16"/>此生滅自亡就不一明不二聖人得其意也於隨<lb
+ ed="X" n="0155a19"/><lb
+ ed="R107" n="0717a17"/>緣所而談不變於成事處而說體空迷徒失其旨<lb
+ ed="X" n="0155a20"/><lb
+ ed="R107" n="0717a18"/>也生滅外而求無生差別外而求平等謂生淨土<lb
+ ed="X" n="0155a21"/><lb
+ ed="R107" n="0717b01"/>而異無生不謬哉。</ab></div><lb
+ ed="X" n="0155a22"/><lb
+ ed="R107" n="0717b02"/><div type='orig' level='2'><ab type='prose'>智者熾然求生淨土達生體不可得即是真見無生<lb
+ ed="X" n="0155a23"/><lb
+ ed="R107" n="0717b03"/>此謂心淨故即佛土淨。</ab></div><lb
+ ed="X" n="0155a24"/><lb
+ ed="R107" n="0717b04"/><div type='commentary' level='2'><ab type='prose'>心淨土淨此有二種一約性德自性清淨心心念<pb ed="X" id="X61.1149.0155b" n="0155b"/><lb
+ ed="X" n="0155b01"/><lb
+ ed="R107" n="0717b05"/>念無非法性之身剎剎塵塵盡是寂光土此則不<lb
+ ed="X" n="0155b02"/><lb
+ ed="R107" n="0717b06"/>明修證不立階梯二約修德離垢清淨三種淨福<lb
+ ed="X" n="0155b03"/><lb
+ ed="R107" n="0717b07"/>十六妙觀假他願力發自信心捨此穢󳬛生彼淨<lb
+ ed="X" n="0155b04"/><lb
+ ed="R107" n="0717b08"/>域此則思修不濫因果歷然雖舉二門終歸一際。</ab></div><lb
+ ed="X" n="0155b05"/><lb
+ ed="R107" n="0717b09"/><div type='orig' level='2'><ab type='prose'>愚者為生所縛聞生即作生解聞無生即作無生解<lb
+ ed="X" n="0155b06"/><lb
+ ed="R107" n="0717b10"/>不知生即是無生無生即是生不達此理橫相是非<lb
+ ed="X" n="0155b07"/><lb
+ ed="R107" n="0717b11"/>瞋他求生淨土幾許誤哉此則是謗法罪人邪見外<lb
+ ed="X" n="0155b08"/><lb
+ ed="R107" n="0717b12"/>道也。</ab></div><lb
+ ed="X" n="0155b09"/><lb
+ ed="R107" n="0717b13"/><div type='orig' level='2'><ab type='prose'>第三疑　問十方諸佛一切淨土法性平等功德亦<lb
+ ed="X" n="0155b10"/><lb
+ ed="R107" n="0717b14"/>等行者普念一切諸佛功德生一切淨土今乃偏念<lb
+ ed="X" n="0155b11"/><lb
+ ed="R107" n="0717b15"/>求生一佛淨土與平等性乖云何得生淨土。<lb
+ ed="X" n="0155b12"/><lb
+ ed="R107" n="0717b16"/>答曰一切諸佛淨土實皆平等但眾生根鈍濁亂者<lb
+ ed="X" n="0155b13"/><lb
+ ed="R107" n="0717b17"/>多若不專繫心一境三昧難成。</ab></div><lb
+ ed="X" n="0155b14"/><lb
+ ed="R107" n="0717b18"/><div type='commentary' level='2'><ab type='prose'>三昧正云三摩地此云正定又云等持謂離沈掉<lb
+ ed="X" n="0155b15"/><lb
+ ed="R107" n="0718a01"/>曰等令心住一境性曰持。</ab></div><lb
+ ed="X" n="0155b16"/><lb
+ ed="R107" n="0718a02"/><div type='orig' level='2'><ab type='prose'>專念阿彌陀佛即是一相三昧以心專志得生彼國<lb
+ ed="X" n="0155b17"/><lb
+ ed="R107" n="0718a03"/>如隨願往生經云普廣菩薩問佛十方悉有淨土世<lb
+ ed="X" n="0155b18"/><lb
+ ed="R107" n="0718a04"/>尊何故偏讚西方彌陀淨土專遣往生佛告普廣菩<lb
+ ed="X" n="0155b19"/><lb
+ ed="R107" n="0718a05"/>薩閻浮提眾生。</ab></div><lb
+ ed="X" n="0155b20"/><lb
+ ed="R107" n="0718a06"/><div type='commentary' level='2'><ab type='prose'>閻浮正云瞻部此是樹名此洲南畔有瞻部樹因<lb
+ ed="X" n="0155b21"/><lb
+ ed="R107" n="0718a07"/>此為名提此云洲。</ab></div><lb
+ ed="X" n="0155b22"/><lb
+ ed="R107" n="0718a08"/><div type='orig' level='2'><ab type='prose'>心多濁亂為此別偏讚西方一佛淨土使諸眾生專<lb
+ ed="X" n="0155b23"/><lb
+ ed="R107" n="0718a09"/>心一境即易得往生者總念一切佛者念佛境多則<lb
+ ed="X" n="0155b24"/><lb
+ ed="R107" n="0718a10"/>心濁散慢以三昧難成故不得往生又求一佛功德<pb ed="X" id="X61.1149.0155c" n="0155c"/><lb
+ ed="X" n="0155c01"/><lb
+ ed="R107" n="0718a11"/>與一切佛功德無異以同一佛法性故為此念阿彌<lb
+ ed="X" n="0155c02"/><lb
+ ed="R107" n="0718a12"/>陀佛即念一切佛生一淨土即生一切淨土故華嚴<lb
+ ed="X" n="0155c03"/><lb
+ ed="R107" n="0718a13"/>經云一切諸佛身即是一佛身一心一智慧力無畏<lb
+ ed="X" n="0155c04"/><lb
+ ed="R107" n="0718a14"/>亦然。</ab></div><lb
+ ed="X" n="0155c05"/><lb
+ ed="R107" n="0718a15"/><div type='commentary' level='2'><ab type='prose'>力謂十力一是處非處力二業智力三定力四根<lb
+ ed="X" n="0155c06"/><lb
+ ed="R107" n="0718a16"/>力五欲力六性力七至處道力八宿命力九天眼<lb
+ ed="X" n="0155c07"/><lb
+ ed="R107" n="0718a17"/>力十漏盡力無畏謂四無所畏一一切智無所畏<lb
+ ed="X" n="0155c08"/><lb
+ ed="R107" n="0718a18"/>二漏盡無所畏三說障道無所畏四說盡苦道無<lb
+ ed="X" n="0155c09"/><lb
+ ed="R107" n="0718b01"/>所畏。</ab></div><lb
+ ed="X" n="0155c10"/><lb
+ ed="R107" n="0718b02"/><div type='orig' level='2'><ab type='prose'>又云譬如淨滿月普應一切水影像雖無量本月未<lb
+ ed="X" n="0155c11"/><lb
+ ed="R107" n="0718b03"/>增有二如是無礙智成就等成覺應現一切剎佛身<lb
+ ed="X" n="0155c12"/><lb
+ ed="R107" n="0718b04"/>無有二智者以譬喻得解智者若能達一切月影則<lb
+ ed="X" n="0155c13"/><lb
+ ed="R107" n="0718b05"/>一月影一月影即一切月影月影無二故一佛即一<lb
+ ed="X" n="0155c14"/><lb
+ ed="R107" n="0718b06"/>切佛一切佛即一佛法身無二故熾然念一佛時即<lb
+ ed="X" n="0155c15"/><lb
+ ed="R107" n="0718b07"/>是念一切佛也。</ab></div><lb
+ ed="X" n="0155c16"/><lb
+ ed="R107" n="0718b08"/><div type='commentary' level='2'><ab type='prose'>問法身寂光可得平等今此土岳陵坑坎西方寶<lb
+ ed="X" n="0155c17"/><lb
+ ed="R107" n="0718b09"/>樹華池云何報應三土亦得平等耶答法身是體<lb
+ ed="X" n="0155c18"/><lb
+ ed="R107" n="0718b10"/>二身是用寂光是體三土是用即體之用故淨穢<lb
+ ed="X" n="0155c19"/><lb
+ ed="R107" n="0718b11"/>宛然即用之體故一味平等況淨穢在機不在化<lb
+ ed="X" n="0155c20"/><lb
+ ed="R107" n="0718b12"/>主故像法決疑經曰佛將涅槃或見佛如沙門像<lb
+ ed="X" n="0155c21"/><lb
+ ed="R107" n="0718b13"/>或見佛威德相好端嚴或見佛坐寶華華說心地<lb
+ ed="X" n="0155c22"/><lb
+ ed="R107" n="0718b14"/>法門或見佛身如虗空無有邊表又云或見󱘰尸<lb
+ ed="X" n="0155c23"/><lb
+ ed="R107" n="0718b15"/>那城土石樹林或見是七寶莊嚴或見三世諸佛<lb
+ ed="X" n="0155c24"/><lb
+ ed="R107" n="0718b16"/>菩薩所遊居處或見是真如實相純佛之境界。</ab></div><pb ed="X" id="X61.1149.0156a" n="0156a"/><lb
+ ed="X" n="0156a01"/><lb
+ ed="R107" n="0718b17"/><div type='orig' level='2'><ab type='prose'>第四疑　問等是念求生一佛淨土何不求十方佛<lb
+ ed="X" n="0156a02"/><lb
+ ed="R107" n="0718b18"/>淨土中隨念一佛淨土隨得往生何須偏念西方阿<lb
+ ed="X" n="0156a03"/><lb
+ ed="R107" n="0719a01"/>彌陀佛耶。<lb
+ ed="X" n="0156a04"/><lb
+ ed="R107" n="0719a02"/>答曰凡夫無智不敢自專專用佛語故能偏念阿彌<lb
+ ed="X" n="0156a05"/><lb
+ ed="R107" n="0719a03"/>陀佛云何用佛語釋迦大師一代聖教處處說法唯<lb
+ ed="X" n="0156a06"/><lb
+ ed="R107" n="0719a04"/>勸眾生專心偏念阿彌陀佛。</ab></div><lb
+ ed="X" n="0156a07"/><lb
+ ed="R107" n="0719a05"/><div type='commentary' level='2'><ab type='prose'>阿彌陀此云無量壽佛此云覺者。</ab></div><lb
+ ed="X" n="0156a08"/><lb
+ ed="R107" n="0719a06"/><div type='orig' level='2'><ab type='prose'>求生西方極樂世界如無量壽經。</ab></div><lb
+ ed="X" n="0156a09"/><lb
+ ed="R107" n="0719a07"/><div type='commentary' level='2'><ab type='prose'>此經二卷曹魏朝天竺三藏康僧鎧譯明彌陀佛<lb
+ ed="X" n="0156a10"/><lb
+ ed="R107" n="0719a08"/>過去名法藏比丘遇世自在王佛發四十八願者。</ab></div><lb
+ ed="X" n="0156a11"/><lb
+ ed="R107" n="0719a09"/><div type='orig' level='2'><ab type='prose'>觀經。</ab></div><lb
+ ed="X" n="0156a12"/><lb
+ ed="R107" n="0719a10"/><div type='commentary' level='2'><ab type='prose'>即觀無量壽佛經此經一卷宋朝三藏畺良耶舍<lb
+ ed="X" n="0156a13"/><lb
+ ed="R107" n="0719a11"/>譯明世尊為韋提希夫人說三種淨業十六行者。</ab></div><lb
+ ed="X" n="0156a14"/><lb
+ ed="R107" n="0719a12"/><div type='orig' level='2'><ab type='prose'>往生論。</ab></div><lb
+ ed="X" n="0156a15"/><lb
+ ed="R107" n="0719a13"/><div type='commentary' level='2'><ab type='prose'>開元錄名無量壽優婆提舍此論一卷婆藪槃頭<lb
+ ed="X" n="0156a16"/><lb
+ ed="R107" n="0719a14"/>造此云天親。</ab></div><lb
+ ed="X" n="0156a17"/><lb
+ ed="R107" n="0719a15"/><div type='orig' level='2'><ab type='prose'>等數十餘部經論等文慇懃指授勸生西方故是偏<lb
+ ed="X" n="0156a18"/><lb
+ ed="R107" n="0719a16"/>念也又阿彌陀佛別有大悲四十八願接引眾生又<lb
+ ed="X" n="0156a19"/><lb
+ ed="R107" n="0719a17"/>觀經云阿彌陀佛有八萬四千相一一相有八萬四<lb
+ ed="X" n="0156a20"/><lb
+ ed="R107" n="0719a18"/>千好一一好放八萬四千光明遍照世界念佛眾生<lb
+ ed="X" n="0156a21"/><lb
+ ed="R107" n="0719b01"/>攝取不捨若有念者機感相應決定得生又阿彌陀<lb
+ ed="X" n="0156a22"/><lb
+ ed="R107" n="0719b02"/>經大無量壽經皷音聲王陀羅尼經等。</ab></div><lb
+ ed="X" n="0156a23"/><lb
+ ed="R107" n="0719b03"/><div type='commentary' level='2'><ab type='prose'>梁朝譯失譯人名此經令人念皷音聲陀羅尼得<lb
+ ed="X" n="0156a24"/><lb
+ ed="R107" n="0719b04"/>生安養。</ab></div><pb ed="X" id="X61.1149.0156b" n="0156b"/><lb
+ ed="X" n="0156b01"/><lb
+ ed="R107" n="0719b05"/><div type='orig' level='2'><ab type='prose'>云釋迦佛說此經時皆有十方世界各恒沙諸佛舒<lb
+ ed="X" n="0156b02"/><lb
+ ed="R107" n="0719b06"/>其舌相遍覆三千世界。</ab></div><lb
+ ed="X" n="0156b03"/><lb
+ ed="R107" n="0719b07"/><div type='commentary' level='2'><ab type='prose'>世人以念佛功德少往生淨土多生疑謗故諸佛<lb
+ ed="X" n="0156b04"/><lb
+ ed="R107" n="0719b08"/>舒廣長舌相以為表證夫妄語舌短舉世皆知諸<lb
+ ed="X" n="0156b05"/><lb
+ ed="R107" n="0719b09"/>佛慈悲舒廣長舌表茲實語遣彼疑情言三千大<lb
+ ed="X" n="0156b06"/><lb
+ ed="R107" n="0719b10"/>千者四洲上至梵天各一千有鐵圍山遶名小千<lb
+ ed="X" n="0156b07"/><lb
+ ed="R107" n="0719b11"/>千箇小千外有鐵圍山遶名中千千箇中千外有<lb
+ ed="X" n="0156b08"/><lb
+ ed="R107" n="0719b12"/>鐵圍山遶名大千若筭其數乃有百億故俱舍頌<lb
+ ed="X" n="0156b09"/><lb
+ ed="R107" n="0719b13"/>云四大洲日月蘇迷盧欲天梵世各一千名一小<lb
+ ed="X" n="0156b10"/><lb
+ ed="R107" n="0719b14"/>千界此小千千倍說名一中千此千倍大千皆同<lb
+ ed="X" n="0156b11"/><lb
+ ed="R107" n="0719b15"/>一成壞。</ab></div><lb
+ ed="X" n="0156b12"/><lb
+ ed="R107" n="0719b16"/><div type='orig' level='2'><ab type='prose'>證誠一切眾生念阿彌陀佛乘佛大悲本願力故決<lb
+ ed="X" n="0156b13"/><lb
+ ed="R107" n="0719b17"/>定得生極樂世界當知阿彌陀佛與此世界偏有因<lb
+ ed="X" n="0156b14"/><lb
+ ed="R107" n="0719b18"/>緣何以得知無量壽經云末世法滅之時特留此經<lb
+ ed="X" n="0156b15"/><lb
+ ed="R107" n="0720a01"/>百年在世接引眾生往生彼國故知彌陀與此世界<lb
+ ed="X" n="0156b16"/><lb
+ ed="R107" n="0720a02"/>極惡眾生偏有因緣其餘諸佛一切淨土雖有一經<lb
+ ed="X" n="0156b17"/><lb
+ ed="R107" n="0720a03"/>兩經略勸往生不如阿彌陀佛國處處經論慇懃叮<lb
+ ed="X" n="0156b18"/><lb
+ ed="R107" n="0720a04"/>嚀勸往生也。</ab></div><lb
+ ed="X" n="0156b19"/><lb
+ ed="R107" n="0720a05"/><div type='commentary' level='2'><ab type='prose'>問諸佛化導平等何故彌陀偏接娑婆答諸佛化<lb
+ ed="X" n="0156b20"/><lb
+ ed="R107" n="0720a06"/>導雖等不妨各有因緣故世人至於嗟歎之時亦<lb
+ ed="X" n="0156b21"/><lb
+ ed="R107" n="0720a07"/>稱阿彌陀佛有緣之驗於斯顯矣。</ab></div><lb
+ ed="X" n="0156b22"/><lb
+ ed="R107" n="0720a08"/><div type='orig' level='2'><ab type='prose'>第五疑　問具縛凡夫惡業厚重一切煩惱一毫不<lb
+ ed="X" n="0156b23"/><lb
+ ed="R107" n="0720a09"/>斷西方淨土出過三界具縛凡夫云何得往生耶。<lb
+ ed="X" n="0156b24"/><lb
+ ed="R107" n="0720a10"/>答曰有二種緣一者自力二者他力自力者在此世<pb ed="X" id="X61.1149.0156c" n="0156c"/><lb
+ ed="X" n="0156c01"/><lb
+ ed="R107" n="0720a11"/>界修道實未得生淨土是故瓔珞經云始從具縛凡<lb
+ ed="X" n="0156c02"/><lb
+ ed="R107" n="0720a12"/>夫未識三寶不知善惡因之與果初發菩提心以信<lb
+ ed="X" n="0156c03"/><lb
+ ed="R107" n="0720a13"/>為本住在佛家以戒為本受菩薩戒身身相續戒行<lb
+ ed="X" n="0156c04"/><lb
+ ed="R107" n="0720a14"/>不闕經一劫二劫三劫始至初發心住如是修行十<lb
+ ed="X" n="0156c05"/><lb
+ ed="R107" n="0720a15"/>信。</ab></div><lb
+ ed="X" n="0156c06"/><lb
+ ed="R107" n="0720a16"/><div type='commentary' level='2'><ab type='prose'>一信心二進心三念心四定心五慧心六不退心<lb
+ ed="X" n="0156c07"/><lb
+ ed="R107" n="0720a17"/>七戒心八護心九願心十迴向心。</ab></div><lb
+ ed="X" n="0156c08"/><lb
+ ed="R107" n="0720a18"/><div type='orig' level='2'><ab type='prose'>十波羅蜜等。</ab></div><lb
+ ed="X" n="0156c09"/><lb
+ ed="R107" n="0720b01"/><div type='commentary' level='2'><ab type='prose'>一施二戒三忍四進五定六慧七方便八願九力<lb
+ ed="X" n="0156c10"/><lb
+ ed="R107" n="0720b02"/>十智若說六度六攝後四若開十度第六唯攝無<lb
+ ed="X" n="0156c11"/><lb
+ ed="R107" n="0720b03"/>分別智後四皆後得智攝又後四度助前六度令<lb
+ ed="X" n="0156c12"/><lb
+ ed="R107" n="0720b04"/>得圓滿方便助前三度願助進力助禪智助般若<lb
+ ed="X" n="0156c13"/><lb
+ ed="R107" n="0720b05"/>也梵云波羅蜜此云彼岸到即到彼岸也彼岸有<lb
+ ed="X" n="0156c14"/><lb
+ ed="R107" n="0720b06"/>二一者行十度究竟名到彼岸二者生死為此岸<lb
+ ed="X" n="0156c15"/><lb
+ ed="R107" n="0720b07"/>煩惱為中流涅槃為彼岸謂行此十度得菩提涅<lb
+ ed="X" n="0156c16"/><lb
+ ed="R107" n="0720b08"/>槃二轉依果名為彼岸。</ab></div><lb
+ ed="X" n="0156c17"/><lb
+ ed="R107" n="0720b09"/><div type='orig' level='2'><ab type='prose'>無量行願相續無間滿一萬劫方初至第六正心住<lb
+ ed="X" n="0156c18"/><lb
+ ed="R107" n="0720b10"/>若更增進至第七不退住即種種住。</ab></div><lb
+ ed="X" n="0156c19"/><lb
+ ed="R107" n="0720b11"/><div type='commentary' level='2'><ab type='prose'>十住者一初發心住二持地住三修行住四生貴<lb
+ ed="X" n="0156c20"/><lb
+ ed="R107" n="0720b12"/>住五具足方便住六正心住七不退住八童真住<lb
+ ed="X" n="0156c21"/><lb
+ ed="R107" n="0720b13"/>九法王子住十灌頂住廣說如華嚴瓔珞。</ab></div><lb
+ ed="X" n="0156c22"/><lb
+ ed="R107" n="0720b14"/><div type='orig' level='2'><ab type='prose'>此約自力此具縛身卒未得生淨土他力者若信阿<lb
+ ed="X" n="0156c23"/><lb
+ ed="R107" n="0720b15"/>彌陀佛大悲願力攝取念佛眾生即能發菩提心行<lb
+ ed="X" n="0156c24"/><lb
+ ed="R107" n="0720b16"/>念佛三昧厭離三界身起行施戒修福於一一行中<pb ed="X" id="X61.1149.0157a" n="0157a"/><lb
+ ed="X" n="0157a01"/><lb
+ ed="R107" n="0720b17"/>迴向願生彼彌陀淨土乘佛願力機感相應即得往<lb
+ ed="X" n="0157a02"/><lb
+ ed="R107" n="0720b18"/>生是故十住毗婆娑論云於此世界修道有二種一<lb
+ ed="X" n="0157a03"/><lb
+ ed="R107" n="0721a01"/>者難行道二者易行道難行道者在於五濁惡世於<lb
+ ed="X" n="0157a04"/><lb
+ ed="R107" n="0721a02"/>無佛時求阿毗跋致甚難可得此難無<lb
+ ed="X" n="0157a05"/><lb
+ ed="R107" n="0721a03"/>數塵沙說不可盡略述三五一者外道相善亂菩薩<lb
+ ed="X" n="0157a06"/><lb
+ ed="R107" n="0721a04"/>法。</ab></div><lb
+ ed="X" n="0157a07"/><lb
+ ed="R107" n="0721a05"/><div type='commentary' level='2'><ab type='prose'>我佛正法小乘即有無常無我寂滅法印大乘則<lb
+ ed="X" n="0157a08"/><lb
+ ed="R107" n="0721a06"/>有一實相印依之行必登聖果外道則不然迷惑<lb
+ ed="X" n="0157a09"/><lb
+ ed="R107" n="0721a07"/>邪見所說之法其相似善而實非善以邪亂正人<lb
+ ed="X" n="0157a10"/><lb
+ ed="R107" n="0721a08"/>不能甄分深成障道。</ab></div><lb
+ ed="X" n="0157a11"/><lb
+ ed="R107" n="0721a09"/><div type='orig' level='2'><ab type='prose'>二者無󳬼惡人破他勝德。</ab></div><lb
+ ed="X" n="0157a12"/><lb
+ ed="R107" n="0721a10"/><div type='commentary' level='2'><ab type='prose'>濁世惡人見修道者不能成人之美反宣破毀之<lb
+ ed="X" n="0157a13"/><lb
+ ed="R107" n="0721a11"/>言漢書注云江淮之間謂小兒子多詐狡獪名無<lb
+ ed="X" n="0157a14"/><lb
+ ed="R107" n="0721a12"/>󳬼。</ab></div><lb
+ ed="X" n="0157a15"/><lb
+ ed="R107" n="0721a13"/><div type='orig' level='2'><ab type='prose'>三者顛倒善果能壞梵行。</ab></div><lb
+ ed="X" n="0157a16"/><lb
+ ed="R107" n="0721a14"/><div type='commentary' level='2'><ab type='prose'>人天之果非無漏善暫樂還苦名為顛倒梵行淨<lb
+ ed="X" n="0157a17"/><lb
+ ed="R107" n="0721a15"/>行也。</ab></div><lb
+ ed="X" n="0157a18"/><lb
+ ed="R107" n="0721a16"/><div type='orig' level='2'><ab type='prose'>四者聲聞自利障於大慈悲。</ab></div><lb
+ ed="X" n="0157a19"/><lb
+ ed="R107" n="0721a17"/><div type='commentary' level='2'><ab type='prose'>慈能與樂二乘雖七品行慈而眾生不得其樂諸<lb
+ ed="X" n="0157a20"/><lb
+ ed="R107" n="0721a18"/>佛菩薩興慈運悲拔苦與樂眾生實得其樂故名<lb
+ ed="X" n="0157a21"/><lb
+ ed="R107" n="0721b01"/>大慈。</ab></div><lb
+ ed="X" n="0157a22"/><lb
+ ed="R107" n="0721b02"/><div type='orig' level='2'><ab type='prose'>五者唯有自利無他力持。</ab></div><lb
+ ed="X" n="0157a23"/><lb
+ ed="R107" n="0721b03"/><div type='commentary' level='2'><ab type='prose'>前四種難非凡斥小此難大乘之行唯自無他既<lb
+ ed="X" n="0157a24"/><lb
+ ed="R107" n="0721b04"/>闕外緣故亦難也。</ab></div><pb ed="X" id="X61.1149.0157b" n="0157b"/><lb
+ ed="X" n="0157b01"/><lb
+ ed="R107" n="0721b05"/><div type='orig' level='2'><ab type='prose'>譬如跛步行一日不過數里極大辛苦謂自力也易<lb
+ ed="X" n="0157b02"/><lb
+ ed="R107" n="0721b06"/>行道者謂信佛語故念佛三昧願生淨土乘佛願力<lb
+ ed="X" n="0157b03"/><lb
+ ed="R107" n="0721b07"/>攝持決定往生不疑也如人水路因船力故須臾即<lb
+ ed="X" n="0157b04"/><lb
+ ed="R107" n="0721b08"/>至千里謂他力也譬如劣夫從轉輪王行一日一夜<lb
+ ed="X" n="0157b05"/><lb
+ ed="R107" n="0721b09"/>周行四天下非是自力轉輪王力也。</ab></div><lb
+ ed="X" n="0157b06"/><lb
+ ed="R107" n="0721b10"/><div type='commentary' level='2'><ab type='prose'>引十住毗婆娑論者彼論第四卷易行品中明阿<lb
+ ed="X" n="0157b07"/><lb
+ ed="R107" n="0721b11"/>毗跋致行相甚難可得因別開方便說易行道云<lb
+ ed="X" n="0157b08"/><lb
+ ed="R107" n="0721b12"/>佛法有無量門世間道有難有易陸道步行即苦<lb
+ ed="X" n="0157b09"/><lb
+ ed="R107" n="0721b13"/>水道乘船則樂若人能念十方佛阿彌陀佛等亦<lb
+ ed="X" n="0157b10"/><lb
+ ed="R107" n="0721b14"/>可疾得阿毗跋致前列外道相善等五義是智者<lb
+ ed="X" n="0157b11"/><lb
+ ed="R107" n="0721b15"/>大師撮彼論意略述難行之事。</ab></div><lb
+ ed="X" n="0157b12"/><lb
+ ed="R107" n="0721b16"/><div type='orig' level='2'><ab type='prose'>若有漏凡夫不得生淨土者亦可有漏凡夫不得見<lb
+ ed="X" n="0157b13"/><lb
+ ed="R107" n="0721b17"/>佛身然念佛三昧並無漏善根所起有漏凡夫隨分<lb
+ ed="X" n="0157b14"/><lb
+ ed="R107" n="0721b18"/>得見佛身麤相也菩薩見微細相。</ab></div><lb
+ ed="X" n="0157b15"/><lb
+ ed="R107" n="0722a01"/><div type='commentary' level='2'><ab type='prose'>麤相謂劣應身如釋迦丈六軟草為座等細相謂<lb
+ ed="X" n="0157b16"/><lb
+ ed="R107" n="0722a02"/>勝應身如釋迦巍巍堂堂天衣為坐等。</ab></div><lb
+ ed="X" n="0157b17"/><lb
+ ed="R107" n="0722a03"/><div type='orig' level='2'><ab type='prose'>淨土亦爾雖是無漏善根所起有漏凡夫發無上菩<lb
+ ed="X" n="0157b18"/><lb
+ ed="R107" n="0722a04"/>提心求生淨土常念佛故伏滅煩惱。</ab></div><lb
+ ed="X" n="0157b19"/><lb
+ ed="R107" n="0722a05"/><div type='commentary' level='2'><ab type='prose'>煩惱即見修九十八使伏謂暫制不起滅謂永斷<lb
+ ed="X" n="0157b20"/><lb
+ ed="R107" n="0722a06"/>其根。</ab></div><lb
+ ed="X" n="0157b21"/><lb
+ ed="R107" n="0722a07"/><div type='orig' level='2'><ab type='prose'>得生淨土隨分得見麤相菩薩見微細相。</ab></div><lb
+ ed="X" n="0157b22"/><lb
+ ed="R107" n="0722a08"/><div type='commentary' level='2'><ab type='prose'>菩薩雙斷煩惱所知二障故見細相。</ab></div><lb
+ ed="X" n="0157b23"/><lb
+ ed="R107" n="0722a09"/><div type='orig' level='2'><ab type='prose'>此何所疑故華嚴經一切諸佛剎平等普嚴淨眾生<lb
+ ed="X" n="0157b24"/><lb
+ ed="R107" n="0722a10"/>業行異所見各不同即其義也。</ab></div><pb ed="X" id="X61.1149.0157c" n="0157c"/><lb
+ ed="X" n="0157c01"/><lb
+ ed="R107" n="0722a11"/><div type='orig' level='2'><ab type='prose'>第六疑　問設令具縛凡夫得生彼國邪見三毒等<lb
+ ed="X" n="0157c02"/><lb
+ ed="R107" n="0722a12"/>常起。</ab></div><lb
+ ed="X" n="0157c03"/><lb
+ ed="R107" n="0722a13"/><div type='commentary' level='2'><ab type='prose'>邪見攝五利使三毒攝五鈍使。</ab></div><lb
+ ed="X" n="0157c04"/><lb
+ ed="R107" n="0722a14"/><div type='orig' level='2'><ab type='prose'>云何得生彼國即得不退超過三界耶。<lb
+ ed="X" n="0157c05"/><lb
+ ed="R107" n="0722a15"/>答曰得生彼國有五種因緣故得不退云何為五一<lb
+ ed="X" n="0157c06"/><lb
+ ed="R107" n="0722a16"/>者阿彌陀佛大悲願力攝持故得不退二者佛光常<lb
+ ed="X" n="0157c07"/><lb
+ ed="R107" n="0722a17"/>照菩提心常增長故得不退三者水鳥樹林風聲樂<lb
+ ed="X" n="0157c08"/><lb
+ ed="R107" n="0722a18"/>音皆說苦空。</ab></div><lb
+ ed="X" n="0157c09"/><lb
+ ed="R107" n="0722b01"/><div type='commentary' level='2'><ab type='prose'>苦集滅道各有四行苦空但空是苦諦下二行小<lb
+ ed="X" n="0157c10"/><lb
+ ed="R107" n="0722b02"/>乘可爾今此不爾豈可彌陀唯談小行應明苦不<lb
+ ed="X" n="0157c11"/><lb
+ ed="R107" n="0722b03"/>苦亦苦亦不苦非苦非不苦空不空亦空亦不空<lb
+ ed="X" n="0157c12"/><lb
+ ed="R107" n="0722b04"/>非空非不空圓音普應佛意甚深依義不依文方<lb
+ ed="X" n="0157c13"/><lb
+ ed="R107" n="0722b05"/>契教旨故涅槃云凡夫有苦無諦二乘有苦有諦<lb
+ ed="X" n="0157c14"/><lb
+ ed="R107" n="0722b06"/>菩薩解苦無苦而有真諦又有漏凡夫生彼初見<lb
+ ed="X" n="0157c15"/><lb
+ ed="R107" n="0722b07"/>彌陀麤相聞有作生滅四諦苦空法後得阿毗跋<lb
+ ed="X" n="0157c16"/><lb
+ ed="R107" n="0722b08"/>致見彌陀細相方聞無作四諦圓妙之理經中且<lb
+ ed="X" n="0157c17"/><lb
+ ed="R107" n="0722b09"/>約凡夫初生故云苦空。</ab></div><lb
+ ed="X" n="0157c18"/><lb
+ ed="R107" n="0722b10"/><div type='orig' level='2'><ab type='prose'>聞者常起念佛念法念僧之心故不退四者彼國純<pb ed="X" id="X61.1149.0158a" n="0158a"/><lb
+ ed="X" n="0158a01"/><lb
+ ed="R107" n="0722b11"/>諸菩薩以為良友。</ab></div><lb
+ ed="X" n="0158a02"/><lb
+ ed="R107" n="0722b12"/><div type='commentary' level='2'><ab type='prose'>案小阿彌陀經云彼佛有無量無邊聲聞弟子又<lb
+ ed="X" n="0158a03"/><lb
+ ed="R107" n="0722b13"/>云眾生生者皆是阿毗䟦致今純諸菩薩者彼此<lb
+ ed="X" n="0158a04"/><lb
+ ed="R107" n="0722b14"/>二土聲聞不同此則穢而多苦故羅漢厭於苦依<lb
+ ed="X" n="0158a05"/><lb
+ ed="R107" n="0722b15"/>欣于󰞆斷彼則淨而唯樂當身便為菩薩如釋迦<lb
+ ed="X" n="0158a06"/><lb
+ ed="R107" n="0722b16"/>在世鹿苑羅漢豈同法華會上佛道聲聞此中約<lb
+ ed="X" n="0158a07"/><lb
+ ed="R107" n="0722b17"/>後故云純諸菩薩也。</ab></div><lb
+ ed="X" n="0158a08"/><lb
+ ed="R107" n="0722b18"/><div type='orig' level='2'><ab type='prose'>無惡緣境外無外道神鬼魔內無邪三毒等煩惱畢<lb
+ ed="X" n="0158a09"/><lb
+ ed="R107" n="0723a01"/>竟不起故不退五者生彼國者壽命永劫共佛齊等<lb
+ ed="X" n="0158a10"/><lb
+ ed="R107" n="0723a02"/>故不退也在此惡世日月短促經三阿僧祇劫後不<lb
+ ed="X" n="0158a11"/><lb
+ ed="R107" n="0723a03"/>起煩惱長時修道云何可得無生忍也。</ab></div><lb
+ ed="X" n="0158a12"/><lb
+ ed="R107" n="0723a04"/><div type='commentary' level='2'><ab type='prose'>智度論第五十云於無生滅諸法實相中信受通<lb
+ ed="X" n="0158a13"/><lb
+ ed="R107" n="0723a05"/>達無礙不退是曰無生法忍別圓地住菩薩方得<lb
+ ed="X" n="0158a14"/><lb
+ ed="R107" n="0723a06"/>此忍又一師云無生是境無所執生法者是教證<lb
+ ed="X" n="0158a15"/><lb
+ ed="R107" n="0723a07"/>無生教忍者是印證義地前昔聞未能智證登地<lb
+ ed="X" n="0158a16"/><lb
+ ed="R107" n="0723a08"/>上智能印證名無生忍。</ab></div><lb
+ ed="X" n="0158a17"/><lb
+ ed="R107" n="0723a09"/><div type='orig' level='2'><ab type='prose'>此理顯然不須疑也。</ab></div><lb
+ ed="X" n="0158a18"/><lb
+ ed="R107" n="0723a10"/><div type='orig' level='2'><ab type='prose'>第七疑　問彌勒菩薩。</ab></div><lb
+ ed="X" n="0158a19"/><lb
+ ed="R107" n="0723a11"/><div type='commentary' level='2'><ab type='prose'>彌勒正云梅怛麗此云慈氏名阿逸多此云無能<lb
+ ed="X" n="0158a20"/><lb
+ ed="R107" n="0723a12"/>勝。</ab></div><lb
+ ed="X" n="0158a21"/><lb
+ ed="R107" n="0723a13"/><div type='orig' level='2'><ab type='prose'>一生補處即得成佛持上品十善。</ab></div><lb
+ ed="X" n="0158a22"/><lb
+ ed="R107" n="0723a14"/><div type='commentary' level='2'><ab type='prose'>十善有三品上品生天中品生人下品生脩羅。</ab></div><lb
+ ed="X" n="0158a23"/><lb
+ ed="R107" n="0723a15"/><div type='orig' level='2'><ab type='prose'>得生彼處見彌勒菩薩隨從下生三會之中。</ab></div><lb
+ ed="X" n="0158a24"/><lb
+ ed="R107" n="0723a16"/><div type='commentary' level='2'><ab type='prose'>智度論第三十四云龍華初會度九十六億聲聞<pb ed="X" id="X61.1149.0158b" n="0158b"/><lb
+ ed="X" n="0158b01"/><lb
+ ed="R107" n="0723a17"/>第二會度九十四億聲聞第三會度九十二億聲<lb
+ ed="X" n="0158b02"/><lb
+ ed="R107" n="0723a18"/>聞。</ab></div><lb
+ ed="X" n="0158b03"/><lb
+ ed="R107" n="0723b01"/><div type='orig' level='2'><ab type='prose'>自然而得聖果何須求生西方淨土耶。<lb
+ ed="X" n="0158b04"/><lb
+ ed="R107" n="0723b02"/>答求生兜率。</ab></div><lb
+ ed="X" n="0158b05"/><lb
+ ed="R107" n="0723b03"/><div type='commentary' level='2'><ab type='prose'>正云都史多此云知足亦云喜足謂於五次樂生<lb
+ ed="X" n="0158b06"/><lb
+ ed="R107" n="0723b04"/>喜足心。</ab></div><lb
+ ed="X" n="0158b07"/><lb
+ ed="R107" n="0723b05"/><div type='orig' level='2'><ab type='prose'>一日聞道見佛勢欲相似若細比挍大有優劣且論<lb
+ ed="X" n="0158b08"/><lb
+ ed="R107" n="0723b06"/>二種一者縱持十善恐不得生何以得知彌勒上生<lb
+ ed="X" n="0158b09"/><lb
+ ed="R107" n="0723b07"/>經云行眾三昧深入正定方始得生更無方便接引<lb
+ ed="X" n="0158b10"/><lb
+ ed="R107" n="0723b08"/>之文不如阿彌陀佛本願力光明力但有念佛眾生<lb
+ ed="X" n="0158b11"/><lb
+ ed="R107" n="0723b09"/>攝取不捨又釋迦佛說九品教門。</ab></div><lb
+ ed="X" n="0158b12"/><lb
+ ed="R107" n="0723b10"/><div type='commentary' level='2'><ab type='prose'>九品者上上上中上下中上中中中下下上下中<lb
+ ed="X" n="0158b13"/><lb
+ ed="R107" n="0723b11"/>下下廣如觀經各有行門。</ab></div><lb
+ ed="X" n="0158b14"/><lb
+ ed="R107" n="0723b12"/><div type='orig' level='2'><ab type='prose'>方便引接慇懃發遣生彼淨土但眾生能念彌陀佛<lb
+ ed="X" n="0158b15"/><lb
+ ed="R107" n="0723b13"/>者機感相應必得生也。</ab></div><lb
+ ed="X" n="0158b16"/><lb
+ ed="R107" n="0723b14"/><div type='commentary' level='2'><ab type='prose'>機弩牙也書云千鈎之弩不為鼷鼠而發機眾生<lb
+ ed="X" n="0158b17"/><lb
+ ed="R107" n="0723b15"/>有善機將發而感動聖人聖人運無緣慈而應赴<lb
+ ed="X" n="0158b18"/><lb
+ ed="R107" n="0723b16"/>之。</ab></div><lb
+ ed="X" n="0158b19"/><lb
+ ed="R107" n="0723b17"/><div type='orig' level='2'><ab type='prose'>如世間慕人能受慕者機會相投必成其事。</ab></div><lb
+ ed="X" n="0158b20"/><lb
+ ed="R107" n="0723b18"/><div type='commentary' level='2'><ab type='prose'>慕人者古謂召軍家召敢軍者舉為者應其慕謂<lb
+ ed="X" n="0158b21"/><lb
+ ed="R107" n="0724a01"/>之此則佛力接引如慕主眾生深信而遵修如受<lb
+ ed="X" n="0158b22"/><lb
+ ed="R107" n="0724a02"/>慕者。</ab></div><lb
+ ed="X" n="0158b23"/><lb
+ ed="R107" n="0724a03"/><div type='orig' level='2'><ab type='prose'>二者兜率天宮是欲界退位者多無有水鳥樹林風<lb
+ ed="X" n="0158b24"/><lb
+ ed="R107" n="0724a04"/>聲音樂眾生聞者皆悉念佛發菩提心伏滅煩惱又<pb ed="X" id="X61.1149.0158c" n="0158c"/><lb
+ ed="X" n="0158c01"/><lb
+ ed="R107" n="0724a05"/>有女人皆長諸天愛著五欲之心。</ab></div><lb
+ ed="X" n="0158c02"/><lb
+ ed="R107" n="0724a06"/><div type='commentary' level='2'><ab type='prose'>五欲謂色聲香味觸。</ab></div><lb
+ ed="X" n="0158c03"/><lb
+ ed="R107" n="0724a07"/><div type='orig' level='2'><ab type='prose'>又天女微妙諸天躭玩不能自勉不如彌陀淨土水<lb
+ ed="X" n="0158c04"/><lb
+ ed="R107" n="0724a08"/>鳥樹林風聲音樂眾生聞者念佛發菩提心伏滅煩<lb
+ ed="X" n="0158c05"/><lb
+ ed="R107" n="0724a09"/>惱又無女人二乘之心純一大乘清淨良伴為此故<lb
+ ed="X" n="0158c06"/><lb
+ ed="R107" n="0724a10"/>煩惱惡業畢竟不起遂至無生之位如此比挍優劣<lb
+ ed="X" n="0158c07"/><lb
+ ed="R107" n="0724a11"/>顯然何須致疑也如釋迦佛在世之時大有眾生見<lb
+ ed="X" n="0158c08"/><lb
+ ed="R107" n="0724a12"/>佛不得聖果者如恒沙。</ab></div><lb
+ ed="X" n="0158c09"/><lb
+ ed="R107" n="0724a13"/><div type='commentary' level='2'><ab type='prose'>智度論第十一云舍衛城有九億家三億家見佛<lb
+ ed="X" n="0158c10"/><lb
+ ed="R107" n="0724a14"/>三億家聞而不見三億家不聞不見舍衛已爾餘<lb
+ ed="X" n="0158c11"/><lb
+ ed="R107" n="0724a15"/>國可知恒沙者正云殑伽河神之名以為河名阿<lb
+ ed="X" n="0158c12"/><lb
+ ed="R107" n="0724a16"/>耨達池出四大河此河即東面銀牛口所出者也<lb
+ ed="X" n="0158c13"/><lb
+ ed="R107" n="0724a17"/>池四方四十里沙多而細佛多近此說法故凡說<lb
+ ed="X" n="0158c14"/><lb
+ ed="R107" n="0724a18"/>時多數皆取為喻。</ab></div><lb
+ ed="X" n="0158c15"/><lb
+ ed="R107" n="0724b01"/><div type='orig' level='2'><ab type='prose'>彌勒出世亦爾大有不得聖果者未如彌陀淨土但<lb
+ ed="X" n="0158c16"/><lb
+ ed="R107" n="0724b02"/>生彼國已悉得無生法忍未有一人退落三界為生<lb
+ ed="X" n="0158c17"/><lb
+ ed="R107" n="0724b03"/>死業縛也又聞西國傳云有三菩薩一名無著二名<lb
+ ed="X" n="0158c18"/><lb
+ ed="R107" n="0724b04"/>世親三名師子覺此三人契志同生兜率願見彌勒<lb
+ ed="X" n="0158c19"/><lb
+ ed="R107" n="0724b05"/>若先亡者得見彌勒誓來相報師子覺前亡一去數<lb
+ ed="X" n="0158c20"/><lb
+ ed="R107" n="0724b06"/>年不來後世親無常臨終之時無著語曰汝見彌勒<lb
+ ed="X" n="0158c21"/><lb
+ ed="R107" n="0724b07"/>即來相報世親去經三年始來無著問曰何意如許<lb
+ ed="X" n="0158c22"/><lb
+ ed="R107" n="0724b08"/>多時始來世親報云至彼天中聽彌勒菩薩一座說<lb
+ ed="X" n="0158c23"/><lb
+ ed="R107" n="0724b09"/>法旋遶即來相報為彼天日長。</ab></div><lb
+ ed="X" n="0158c24"/><lb
+ ed="R107" n="0724b10"/><div type='commentary' level='2'><ab type='prose'>人間五十年四天王天一晝一夜人間百年忉利<pb ed="X" id="X61.1149.0159a" n="0159a"/><lb
+ ed="X" n="0159a01"/><lb
+ ed="R107" n="0724b11"/>天一晝夜人間二百年夜摩天一晝夜人間四百<lb
+ ed="X" n="0159a02"/><lb
+ ed="R107" n="0724b12"/>年兜率天一晝夜人間八百年化樂天一晝夜人<lb
+ ed="X" n="0159a03"/><lb
+ ed="R107" n="0724b13"/>間一千六百年他化自在天一晝夜。</ab></div><lb
+ ed="X" n="0159a04"/><lb
+ ed="R107" n="0724b14"/><div type='orig' level='2'><ab type='prose'>故此處已經三年又問師子覺今在何處世親報云<lb
+ ed="X" n="0159a05"/><lb
+ ed="R107" n="0724b15"/>師子覺為受天樂五欲自娛在外眷屬從去已來總<lb
+ ed="X" n="0159a06"/><lb
+ ed="R107" n="0724b16"/>不見彌勒諸小菩薩生彼尚著五欲何況凡夫為此<lb
+ ed="X" n="0159a07"/><lb
+ ed="R107" n="0724b17"/>願生西方淨土定得不退無此障故不求生兜率也。</ab></div><lb
+ ed="X" n="0159a08"/><lb
+ ed="R107" n="0724b18"/><div type='orig' level='2'><ab type='prose'>第八疑　問眾生無始以來造無量業今生一形不<lb
+ ed="X" n="0159a09"/><lb
+ ed="R107" n="0725a01"/>逢善知識又復作一切罪業無惡不造云何臨終十<lb
+ ed="X" n="0159a10"/><lb
+ ed="R107" n="0725a02"/>念成就即得往生出過三界結業之事云何可通。</ab></div><lb
+ ed="X" n="0159a11"/><lb
+ ed="R107" n="0725a03"/><div type='commentary' level='2'><ab type='prose'>釋曰眾生無始以來善惡業種多少強弱不得知<lb
+ ed="X" n="0159a12"/><lb
+ ed="R107" n="0725a04"/>善惡無記三性種子藏識住持而不失滅非無漏<lb
+ ed="X" n="0159a13"/><lb
+ ed="R107" n="0725a05"/>業不能翻破非但身口七支善惡種子不滅意地<lb
+ ed="X" n="0159a14"/><lb
+ ed="R107" n="0725a06"/>三種更宜謹慎修觀行勿令惡念得起故惟無三<lb
+ ed="X" n="0159a15"/><lb
+ ed="R107" n="0725a07"/>昧經佛告阿難人生人間所以不得道者但坐思<lb
+ ed="X" n="0159a16"/><lb
+ ed="R107" n="0725a08"/>想穢念多故一念來一念去一日一夜有八億四<lb
+ ed="X" n="0159a17"/><lb
+ ed="R107" n="0725a09"/>千萬念念不息一善念者得善果報一惡念者得<lb
+ ed="X" n="0159a18"/><lb
+ ed="R107" n="0725a10"/>惡果報如響應聲如影隨形誰人聞之而不驚覺<lb
+ ed="X" n="0159a19"/><lb
+ ed="R107" n="0725a11"/>有漏善尚不可生況惡念哉。</ab></div><lb
+ ed="X" n="0159a20"/><lb
+ ed="R107" n="0725a12"/><div type='orig' level='2'><ab type='prose'>但能臨終遇善知識十念成就者皆是宿世善業若<lb
+ ed="X" n="0159a21"/><lb
+ ed="R107" n="0725a13"/>善業強十念成就若惡業多者善知識尚不可逢何<lb
+ ed="X" n="0159a22"/><lb
+ ed="R107" n="0725a14"/>況十念成就汝以無始以來惡業為重臨終十念為<lb
+ ed="X" n="0159a23"/><lb
+ ed="R107" n="0725a15"/>輕者今以三種道理校量輕重不定不在時節久近<lb
+ ed="X" n="0159a24"/><lb
+ ed="R107" n="0725a16"/>多少云何為三一者在心二在緣三在決定在心者<pb ed="X" id="X61.1149.0159b" n="0159b"/><lb
+ ed="X" n="0159b01"/><lb
+ ed="R107" n="0725a17"/>造罪之時從自虗妄顛倒心生念佛心者從善知識<lb
+ ed="X" n="0159b02"/><lb
+ ed="R107" n="0725a18"/>聞說阿彌陀佛真實功德名號心生一虗一實豈得<lb
+ ed="X" n="0159b03"/><lb
+ ed="R107" n="0725b01"/>相比譬如萬年闇室日光暫至闇即頓除豈有久來<lb
+ ed="X" n="0159b04"/><lb
+ ed="R107" n="0725b02"/>之闇不肯滅耶在緣者造罪之時從虗妄癡闇心緣<lb
+ ed="X" n="0159b05"/><lb
+ ed="R107" n="0725b03"/>虗妄境界顛倒生。</ab></div><lb
+ ed="X" n="0159b06"/><lb
+ ed="R107" n="0725b04"/><div type='commentary' level='2'><ab type='prose'>虗妄境界謂煞盜婬妄等。</ab></div><lb
+ ed="X" n="0159b07"/><lb
+ ed="R107" n="0725b05"/><div type='orig' level='2'><ab type='prose'>念佛之心從聞佛清淨真實功德名號緣無上菩提<lb
+ ed="X" n="0159b08"/><lb
+ ed="R107" n="0725b06"/>心生一真一偽豈得相比譬如有人被毒箭深毒磣<lb
+ ed="X" n="0159b09"/><lb
+ ed="R107" n="0725b07"/>傷肌破至骨一聞滅除藥皷聲即箭出毒<lb
+ ed="X" n="0159b10"/><lb
+ ed="R107" n="0725b08"/>除豈以深毒而不肯出也在決定者造罪之時以有<lb
+ ed="X" n="0159b11"/><lb
+ ed="R107" n="0725b09"/>間心有後心也。</ab></div><lb
+ ed="X" n="0159b12"/><lb
+ ed="R107" n="0725b10"/><div type='commentary' level='2'><ab type='prose'>有間有後心約未命終前若臨終造惡無間無後<lb
+ ed="X" n="0159b13"/><lb
+ ed="R107" n="0725b11"/>招報亦重故下文云臨終起一念決定邪見墮阿<lb
+ ed="X" n="0159b14"/><lb
+ ed="R107" n="0725b12"/>毗地獄。</ab></div><lb
+ ed="X" n="0159b15"/><lb
+ ed="R107" n="0725b13"/><div type='orig' level='2'><ab type='prose'>念佛之時以無間心無後心。</ab></div><lb
+ ed="X" n="0159b16"/><lb
+ ed="R107" n="0725b14"/><div type='commentary' level='2'><ab type='prose'>臨終猛利善根更無惡來間隔名無間心臨終念<lb
+ ed="X" n="0159b17"/><lb
+ ed="R107" n="0725b15"/>佛即便捨壽時更無餘念在於此後名無後心。</ab></div><lb
+ ed="X" n="0159b18"/><lb
+ ed="R107" n="0725b16"/><div type='orig' level='2'><ab type='prose'>遂即捨命善心猛利是以即生譬如十圍之索千夫<lb
+ ed="X" n="0159b19"/><lb
+ ed="R107" n="0725b17"/>不制童子揮劒須臾兩分。</ab></div><lb
+ ed="X" n="0159b20"/><lb
+ ed="R107" n="0725b18"/><div type='commentary' level='2'><ab type='prose'>索喻無始惡業十圍謂多千夫謂凡夫凡夫不能<lb
+ ed="X" n="0159b21"/><lb
+ ed="R107" n="0726a01"/>制伏童子喻初心行人揮劒十念成就須臾兩分<lb
+ ed="X" n="0159b22"/><lb
+ ed="R107" n="0726a02"/>謂屈伸臂項捨此而生彼。</ab></div><lb
+ ed="X" n="0159b23"/><lb
+ ed="R107" n="0726a03"/><div type='orig' level='2'><ab type='prose'>又如千年積柴以大豆火焚少時即盡。</ab></div><lb
+ ed="X" n="0159b24"/><lb
+ ed="R107" n="0726a04"/><div type='commentary' level='2'><ab type='prose'>此第八問答雖明結業業必兼惑惑即煩惱異名<pb ed="X" id="X61.1149.0159c" n="0159c"/><lb
+ ed="X" n="0159c01"/><lb
+ ed="R107" n="0726a05"/>柴喻煩惱千年謂無始大喻智慧一豆謂至少若<lb
+ ed="X" n="0159c02"/><lb
+ ed="R107" n="0726a06"/>行人聞善友勸化以知深信至念佛即煩惱頓盡<lb
+ ed="X" n="0159c03"/><lb
+ ed="R107" n="0726a07"/>決定往生故涅槃經云煩惱為飯食令諸弟子表<lb
+ ed="X" n="0159c04"/><lb
+ ed="R107" n="0726a08"/>皆耳嗜。</ab></div><lb
+ ed="X" n="0159c05"/><lb
+ ed="R107" n="0726a09"/><div type='orig' level='2'><ab type='prose'>又如有人一生已來修十善業應得生天臨終之時<lb
+ ed="X" n="0159c06"/><lb
+ ed="R107" n="0726a10"/>起一念決定邪見即墮阿鼻地獄惡業虗妄以猛利<lb
+ ed="X" n="0159c07"/><lb
+ ed="R107" n="0726a11"/>故尚能排一生之善業令墮惡道豈況臨<lb
+ ed="X" n="0159c08"/><lb
+ ed="R107" n="0726a12"/>終猛利心念佛真實無間善業不能排無始惡業得<lb
+ ed="X" n="0159c09"/><lb
+ ed="R107" n="0726a13"/>生淨土無有是處又云一念念佛滅八十億劫生死<lb
+ ed="X" n="0159c10"/><lb
+ ed="R107" n="0726a14"/>之重罪為念佛時心猛利伏滅惡業決定得生不須<lb
+ ed="X" n="0159c11"/><lb
+ ed="R107" n="0726a15"/>疑也上古相傳判十念成就作別時意者此定不可<lb
+ ed="X" n="0159c12"/><lb
+ ed="R107" n="0726a16"/>何以得知攝論云唯由發願故全無有行雜集論云<lb
+ ed="X" n="0159c13"/><lb
+ ed="R107" n="0726a17"/>若有願生安樂國土即得往生者若人聞無垢佛名<lb
+ ed="X" n="0159c14"/><lb
+ ed="R107" n="0726a18"/>即得阿耨菩提者並是別時之因全無有行若將臨<lb
+ ed="X" n="0159c15"/><lb
+ ed="R107" n="0726b01"/>終無間十念猛利善行是別時意者幾許誤哉願諸<lb
+ ed="X" n="0159c16"/><lb
+ ed="R107" n="0726b02"/>行者深思此理自牢其心莫信異見自墜陷也。</ab></div><lb
+ ed="X" n="0159c17"/><lb
+ ed="R107" n="0726b03"/><div type='commentary' level='2'><ab type='prose'>時意者梁攝論第六顯了意依章中明四種意一<lb
+ ed="X" n="0159c18"/><lb
+ ed="R107" n="0726b04"/>平等意二別時意三別義意四眾生樂欲意於中<pb ed="X" id="X61.1149.0160a" n="0160a"/><lb
+ ed="X" n="0160a01"/><lb
+ ed="R107" n="0726b05"/>第二別時意云由唯發願於安樂佛土得往彼受<lb
+ ed="X" n="0160a02"/><lb
+ ed="R107" n="0726b06"/>生是別時意論自釋云譬如由一金錢營覓得千<lb
+ ed="X" n="0160a03"/><lb
+ ed="R107" n="0726b07"/>金錢非一日得千由別時得千如來意亦爾此一<lb
+ ed="X" n="0160a04"/><lb
+ ed="R107" n="0726b08"/>金錢為千金錢因發願為往生因亦爾智者大師<lb
+ ed="X" n="0160a05"/><lb
+ ed="R107" n="0726b09"/>意云攝論偏發願生安樂國雜集論單聞佛名得<lb
+ ed="X" n="0160a06"/><lb
+ ed="R107" n="0726b10"/>菩提此二論全無有行乃是別時之意古師妄判<lb
+ ed="X" n="0160a07"/><lb
+ ed="R107" n="0726b11"/>十念猛利善行亦為別時意故斥之夫欲生淨土<lb
+ ed="X" n="0160a08"/><lb
+ ed="R107" n="0726b12"/>方須行願具足有行無願行無所從有願無行願<lb
+ ed="X" n="0160a09"/><lb
+ ed="R107" n="0726b13"/>無所獲行願相資無事不遂矣。</ab></div><lb
+ ed="X" n="0160a10"/><lb
+ ed="R107" n="0726b14"/><div type='orig' level='2'><ab type='prose'>第九疑　問西方去此十萬億佛剎凡夫劣弱云何<lb
+ ed="X" n="0160a11"/><lb
+ ed="R107" n="0726b15"/>可到又往生論云女人及根缺二乘<lb
+ ed="X" n="0160a12"/><lb
+ ed="R107" n="0726b16"/>種不生既有此聖教當知女人及以根缺者必定不<lb
+ ed="X" n="0160a13"/><lb
+ ed="R107" n="0726b17"/>得往生。<lb
+ ed="X" n="0160a14"/><lb
+ ed="R107" n="0726b18"/>答為對凡夫肉眼生死心量說耳西方去此十萬億<lb
+ ed="X" n="0160a15"/><lb
+ ed="R107" n="0727a01"/>剎但使眾生淨土業成者臨終在定之心即是淨土<lb
+ ed="X" n="0160a16"/><lb
+ ed="R107" n="0727a02"/>受生之心動念即是生淨土時為此觀經云彌陀佛<lb
+ ed="X" n="0160a17"/><lb
+ ed="R107" n="0727a03"/>國去此不遠又業力不可思議一念即得生彼不須<lb
+ ed="X" n="0160a18"/><lb
+ ed="R107" n="0727a04"/>愁遠又如人夢身雖在牀而心意識。</ab></div><lb
+ ed="X" n="0160a19"/><lb
+ ed="R107" n="0727a05"/><div type='commentary' level='2'><ab type='prose'>心分真妄而有三種一唯真即自性清淨心從本<lb
+ ed="X" n="0160a20"/><lb
+ ed="R107" n="0727a06"/>已來湛然常住不同木石神解照照二真妄和合<lb
+ ed="X" n="0160a21"/><lb
+ ed="R107" n="0727a07"/>即第八識三唯妄即前七識然即前一是體後二<lb
+ ed="X" n="0160a22"/><lb
+ ed="R107" n="0727a08"/>是用又心意識者集記名心即第八識集種子起<lb
+ ed="X" n="0160a23"/><lb
+ ed="R107" n="0727a09"/>現行故思量名意即第七識執第八識見分以為<lb
+ ed="X" n="0160a24"/><lb
+ ed="R107" n="0727a10"/>內我起四惑故了別名識即前六識分別六塵故<pb ed="X" id="X61.1149.0160b" n="0160b"/><lb
+ ed="X" n="0160b01"/><lb
+ ed="R107" n="0727a11"/>令於此中唯取第六識以其遍緣十方三世故而<lb
+ ed="X" n="0160b02"/><lb
+ ed="R107" n="0727a12"/>第六必依第七第七必依第八故總云意識。</ab></div><lb
+ ed="X" n="0160b03"/><lb
+ ed="R107" n="0727a13"/><div type='orig' level='2'><ab type='prose'>遍至他方一切世界如平生不異也生淨土亦爾動<lb
+ ed="X" n="0160b04"/><lb
+ ed="R107" n="0727a14"/>念即至不須疑也女人及根缺二乘種不生者但論<lb
+ ed="X" n="0160b05"/><lb
+ ed="R107" n="0727a15"/>生彼國無有女人及無盲聾瘖瘂人不道此間女人<lb
+ ed="X" n="0160b06"/><lb
+ ed="R107" n="0727a16"/>根缺人不得生彼若如此說者愚癡全不識經意且<lb
+ ed="X" n="0160b07"/><lb
+ ed="R107" n="0727a17"/>如韋提夫人是請生淨土主及五百侍女授佛記悉<lb
+ ed="X" n="0160b08"/><lb
+ ed="R107" n="0727a18"/>得往生彼國。</ab></div><lb
+ ed="X" n="0160b09"/><lb
+ ed="R107" n="0727b01"/><div type='commentary' level='2'><ab type='prose'>案小阿彌陀經云善男子善女人若有信者應當<lb
+ ed="X" n="0160b10"/><lb
+ ed="R107" n="0727b02"/>發願生彼國土法華經云若如來滅後五百歲中<lb
+ ed="X" n="0160b11"/><lb
+ ed="R107" n="0727b03"/>若有女人聞是經典如說修行於此命終即往安<lb
+ ed="X" n="0160b12"/><lb
+ ed="R107" n="0727b04"/>樂世界阿彌陀佛大菩薩眾圍遶住處生蓮華中<lb
+ ed="X" n="0160b13"/><lb
+ ed="R107" n="0727b05"/>寶座之上是知此間女人必得生彼明矣。</ab></div><lb
+ ed="X" n="0160b14"/><lb
+ ed="R107" n="0727b06"/><div type='orig' level='2'><ab type='prose'>但此處女人及盲聾瘖瘂人心念彌陀佛悉生彼國<lb
+ ed="X" n="0160b15"/><lb
+ ed="R107" n="0727b07"/>已不受女身亦不受根缺身二乘之人但迴心願生<lb
+ ed="X" n="0160b16"/><lb
+ ed="R107" n="0727b08"/>淨土至彼更無二乘執心。</ab></div><lb
+ ed="X" n="0160b17"/><lb
+ ed="R107" n="0727b09"/><div type='commentary' level='2'><ab type='prose'>小乘教中我執已盡不受後有不說更有生處今<lb
+ ed="X" n="0160b18"/><lb
+ ed="R107" n="0727b10"/>云迥向願生乃是大乘之義小阿彌陀經云彼佛<lb
+ ed="X" n="0160b19"/><lb
+ ed="R107" n="0727b11"/>有無量無邊聲聞弟子往生論言無二乘者彼佛<lb
+ ed="X" n="0160b20"/><lb
+ ed="R107" n="0727b12"/>逗機既現麤細相麤相變化土即有二乘細相他<lb
+ ed="X" n="0160b21"/><lb
+ ed="R107" n="0727b13"/>受用土即純是菩薩變化土不但有聲聞亦有女<lb
+ ed="X" n="0160b22"/><lb
+ ed="R107" n="0727b14"/>人故鼓音聲王經云阿彌陀佛父名月上母名殊<lb
+ ed="X" n="0160b23"/><lb
+ ed="R107" n="0727b15"/>勝妙顏文似相違理實相順餘義如釋論題及第<lb
+ ed="X" n="0160b24"/><lb
+ ed="R107" n="0727b16"/>六疑中。</ab></div><pb ed="X" id="X61.1149.0160c" n="0160c"/><lb
+ ed="X" n="0160c01"/><lb
+ ed="R107" n="0727b17"/><div type='orig' level='2'><ab type='prose'>為此故云女人及根缺二乘種不生非謂此處女人<lb
+ ed="X" n="0160c02"/><lb
+ ed="R107" n="0727b18"/>及根缺人不得生也故無量壽經四十八願云設我<lb
+ ed="X" n="0160c03"/><lb
+ ed="R107" n="0728a01"/>得佛十方世界一切女人稱我名號厭惡女身捨命<lb
+ ed="X" n="0160c04"/><lb
+ ed="R107" n="0728a02"/>之後更受女身者不取正覺況生彼國更受女身耶<lb
+ ed="X" n="0160c05"/><lb
+ ed="R107" n="0728a03"/>根缺者亦爾。</ab></div><lb
+ ed="X" n="0160c06"/><lb
+ ed="R107" n="0728a04"/><div type='orig' level='2'><ab type='prose'>第十疑　問今欲決定往生西方未知作何行業以<lb
+ ed="X" n="0160c07"/><lb
+ ed="R107" n="0728a05"/>何為種子得生彼國又凡夫俗人皆有妻子未斷婬<lb
+ ed="X" n="0160c08"/><lb
+ ed="R107" n="0728a06"/>欲得生彼否答曰欲決定往生西方者具有二種行<lb
+ ed="X" n="0160c09"/><lb
+ ed="R107" n="0728a07"/>定得生彼一者厭離行二者欣願行言厭離行者凡<lb
+ ed="X" n="0160c10"/><lb
+ ed="R107" n="0728a08"/>夫無始以來為五欲纏縛輪迴五道。</ab></div><lb
+ ed="X" n="0160c11"/><lb
+ ed="R107" n="0728a09"/><div type='commentary' level='2'><ab type='prose'>開為六道以修羅攝入鬼趣故合為五道。</ab></div><lb
+ ed="X" n="0160c12"/><lb
+ ed="R107" n="0728a10"/><div type='orig' level='2'><ab type='prose'>備受眾苦不起厭心不離五欲未有出期為此常觀<lb
+ ed="X" n="0160c13"/><lb
+ ed="R107" n="0728a11"/>此身膿血屎尿一切惡露不淨臭穢故涅槃經云是<lb
+ ed="X" n="0160c14"/><lb
+ ed="R107" n="0728a12"/>身愚癡羅剎止住其中誰有智者當樂此身又經云<lb
+ ed="X" n="0160c15"/><lb
+ ed="R107" n="0728a13"/>此身眾苦所集一切皆不淨扼縛㿈疽等。</ab></div><lb
+ ed="X" n="0160c16"/><lb
+ ed="R107" n="0728a14"/><div type='commentary' level='2'><ab type='prose'>扼縛爾雅云衡扼也謂轅端橫壓牛領者今體作<lb
+ ed="X" n="0160c17"/><lb
+ ed="R107" n="0728a15"/>轅凡夫為煩惱所縛根本如牛為扼所󱘰。</ab></div><lb
+ ed="X" n="0160c18"/><lb
+ ed="R107" n="0728a16"/><div type='orig' level='2'><ab type='prose'>根本無義利上至諸天身皆亦復如是行者若行若<pb ed="X" id="X61.1149.0161a" n="0161a"/><lb
+ ed="X" n="0161a01"/><lb
+ ed="R107" n="0728a17"/>坐若覺常觀此身唯苦無樂深生厭離縱使妻房不<lb
+ ed="X" n="0161a02"/><lb
+ ed="R107" n="0728a18"/>能頓斷漸漸生厭作七種不淨觀一者觀此婬欲身<lb
+ ed="X" n="0161a03"/><lb
+ ed="R107" n="0728b01"/>從貪煩惱生即是種子不淨。</ab></div><lb
+ ed="X" n="0161a04"/><lb
+ ed="R107" n="0728b02"/><div type='commentary' level='2'><ab type='prose'>煩惱潤業招果報故知煩惱為果報身之種子。</ab></div><lb
+ ed="X" n="0161a05"/><lb
+ ed="R107" n="0728b03"/><div type='orig' level='2'><ab type='prose'>二者父母交會之時赤白和合識託其中即是受生<lb
+ ed="X" n="0161a06"/><lb
+ ed="R107" n="0728b04"/>不淨。</ab></div><lb
+ ed="X" n="0161a07"/><lb
+ ed="R107" n="0728b05"/><div type='commentary' level='2'><ab type='prose'>二渧和合識託其中當最初羯羅藍時。</ab></div><lb
+ ed="X" n="0161a08"/><lb
+ ed="R107" n="0728b06"/><div type='orig' level='2'><ab type='prose'>三者在母胎中生藏下居熟藏上即是住處不淨四<lb
+ ed="X" n="0161a09"/><lb
+ ed="R107" n="0728b07"/>者在母胎時唯食母血即是食噉不淨五者日月滿<lb
+ ed="X" n="0161a10"/><lb
+ ed="R107" n="0728b08"/>足頭向產門膿血俱出臰穢狼藉即是初生不淨六<lb
+ ed="X" n="0161a11"/><lb
+ ed="R107" n="0728b09"/>者薄皮覆上其內膿血遍一切處即是舉體不淨七<lb
+ ed="X" n="0161a12"/><lb
+ ed="R107" n="0728b10"/>者乃至死後膖脹爛壞骨肉縱橫孤狼食噉即是究<lb
+ ed="X" n="0161a13"/><lb
+ ed="R107" n="0728b11"/>竟不淨自身亦爾所愛境界男女等身深生厭離常<lb
+ ed="X" n="0161a14"/><lb
+ ed="R107" n="0728b12"/>觀不淨若能如此觀身不淨之者婬欲煩惱漸漸減<lb
+ ed="X" n="0161a15"/><lb
+ ed="R107" n="0728b13"/>小又作十相等觀。</ab></div><lb
+ ed="X" n="0161a16"/><lb
+ ed="R107" n="0728b14"/><div type='commentary' level='2'><ab type='prose'>十想者一無常想二苦想三無我想四食不淨想<lb
+ ed="X" n="0161a17"/><lb
+ ed="R107" n="0728b15"/>五世間不可樂想六死想七不淨想八斷想九離<lb
+ ed="X" n="0161a18"/><lb
+ ed="R107" n="0728b16"/>想十盡想言等者等取九想乃大不淨觀九想者<lb
+ ed="X" n="0161a19"/><lb
+ ed="R107" n="0728b17"/>一脹想二壞想三血塗漫想四膿爛想五青瘀想<lb
+ ed="X" n="0161a20"/><lb
+ ed="R107" n="0728b18"/>六噉想七散想八骨想九燒想。</ab></div><lb
+ ed="X" n="0161a21"/><lb
+ ed="R107" n="0729a01"/><div type='orig' level='2'><ab type='prose'>廣如經說又發願願我永離三界雜食臰穢膿血不<lb
+ ed="X" n="0161a22"/><lb
+ ed="R107" n="0729a02"/>淨躭苞五欲男女等身願得淨土法性身此謂厭離<lb
+ ed="X" n="0161a23"/><lb
+ ed="R107" n="0729a03"/>行二明欣願行者復有二種一者先明求往生之意<lb
+ ed="X" n="0161a24"/><lb
+ ed="R107" n="0729a04"/>二者觀彼淨土莊嚴等事欣願心求往生意者一者<pb ed="X" id="X61.1149.0161b" n="0161b"/><lb
+ ed="X" n="0161b01"/><lb
+ ed="R107" n="0729a05"/>所以求生淨土為欲救拔一切眾生苦故即自思惟<lb
+ ed="X" n="0161b02"/><lb
+ ed="R107" n="0729a06"/>我今無力若在惡世煩惱境強自為業縛淪溺三塗<lb
+ ed="X" n="0161b03"/><lb
+ ed="R107" n="0729a07"/>動經數劫如此輪轉無始已來未曾休息何時能得<lb
+ ed="X" n="0161b04"/><lb
+ ed="R107" n="0729a08"/>救苦眾生為此故求生淨土親近諸佛若證無生法<lb
+ ed="X" n="0161b05"/><lb
+ ed="R107" n="0729a09"/>忍方能於惡世中救苦眾生故往生論云言發菩提<lb
+ ed="X" n="0161b06"/><lb
+ ed="R107" n="0729a10"/>心者正是願作佛心願作佛心者則是度眾生心度<lb
+ ed="X" n="0161b07"/><lb
+ ed="R107" n="0729a11"/>眾生心者則是攝取眾生生佛國心又願生淨土須<lb
+ ed="X" n="0161b08"/><lb
+ ed="R107" n="0729a12"/>具二行一者必須遠離三種障菩提法門二者須得<lb
+ ed="X" n="0161b09"/><lb
+ ed="R107" n="0729a13"/>三種順菩提法門何者三種障菩提法門一者依智<lb
+ ed="X" n="0161b10"/><lb
+ ed="R107" n="0729a14"/>慧門不求自樂遠離我心貪著自身故。</ab></div><lb
+ ed="X" n="0161b11"/><lb
+ ed="R107" n="0729a15"/><div type='commentary' level='2'><ab type='prose'>凡夫淪沒四生輪迴六道盖由著我我所不能修<lb
+ ed="X" n="0161b12"/><lb
+ ed="R107" n="0729a16"/>出離行我謂正報我所謂依報。</ab></div><lb
+ ed="X" n="0161b13"/><lb
+ ed="R107" n="0729a17"/><div type='orig' level='2'><ab type='prose'>二者依慈悲門󳫠一切眾生苦遠離無安眾生心故<lb
+ ed="X" n="0161b14"/><lb
+ ed="R107" n="0729a18"/>三者依方便門常憐愍一切眾生欲與其樂遠離恭<lb
+ ed="X" n="0161b15"/><lb
+ ed="R107" n="0729b01"/>敬供養自身心故若能遠離三種障菩提法則得三<lb
+ ed="X" n="0161b16"/><lb
+ ed="R107" n="0729b02"/>種順菩提法。</ab></div><lb
+ ed="X" n="0161b17"/><lb
+ ed="R107" n="0729b03"/><div type='commentary' level='2'><ab type='prose'>此三種順菩提法如次翻前三種障菩提法然則<lb
+ ed="X" n="0161b18"/><lb
+ ed="R107" n="0729b04"/>初一種是自行後二種是化他。</ab></div><lb
+ ed="X" n="0161b19"/><lb
+ ed="R107" n="0729b05"/><div type='orig' level='2'><ab type='prose'>一者無染清淨心不為自求諸樂故。</ab></div><lb
+ ed="X" n="0161b20"/><lb
+ ed="R107" n="0729b06"/><div type='commentary' level='2'><ab type='prose'>上是往生論文下是智者大師釋。</ab></div><lb
+ ed="X" n="0161b21"/><lb
+ ed="R107" n="0729b07"/><div type='orig' level='2'><ab type='prose'>是無染清淨處若為自身求生染自心障菩提門是<lb
+ ed="X" n="0161b22"/><lb
+ ed="R107" n="0729b08"/>故無染清淨心是順菩提門二者安清淨心為拔眾<lb
+ ed="X" n="0161b23"/><lb
+ ed="R107" n="0729b09"/>生苦故菩提安一切眾生清淨處若不作心拔<lb
+ ed="X" n="0161b24"/><lb
+ ed="R107" n="0729b10"/>一切眾生令離生死苦即違菩提門是故安清淨心<pb ed="X" id="X61.1149.0161c" n="0161c"/><lb
+ ed="X" n="0161c01"/><lb
+ ed="R107" n="0729b11"/>是順菩提門三者樂清淨心欲令一切眾生得大<lb
+ ed="X" n="0161c02"/><lb
+ ed="R107" n="0729b12"/>菩提故菩提是畢竟常樂處若不作心令一切<lb
+ ed="X" n="0161c03"/><lb
+ ed="R107" n="0729b13"/>眾生得畢竟常樂即違菩提門此菩提因何而得要<lb
+ ed="X" n="0161c04"/><lb
+ ed="R107" n="0729b14"/>因生淨土常不離佛得無生忍已於生死中救苦眾<lb
+ ed="X" n="0161c05"/><lb
+ ed="R107" n="0729b15"/>生悲智圓融。</ab></div><lb
+ ed="X" n="0161c06"/><lb
+ ed="R107" n="0729b16"/><div type='commentary' level='2'><ab type='prose'>悲智圓融即無住行以有悲故不住涅槃豈同小<lb
+ ed="X" n="0161c07"/><lb
+ ed="R107" n="0729b17"/>乘以有智故不住生死豈同凡夫內心具二不偏<lb
+ ed="X" n="0161c08"/><lb
+ ed="R107" n="0729b18"/>用一名為圓融。</ab></div><lb
+ ed="X" n="0161c09"/><lb
+ ed="R107" n="0730a01"/><div type='orig' level='2'><ab type='prose'>定而常有用自在無礙。</ab></div><lb
+ ed="X" n="0161c10"/><lb
+ ed="R107" n="0730a02"/><div type='commentary' level='2'><ab type='prose'>圓融本心妙明真性寂智無二性相直融凡夫背<lb
+ ed="X" n="0161c11"/><lb
+ ed="R107" n="0730a03"/>覺而跉跰諸聖還源而自在故能不動真際宜運<lb
+ ed="X" n="0161c12"/><lb
+ ed="R107" n="0730a04"/>大慈隱顯不常寂用無礙。</ab></div><lb
+ ed="X" n="0161c13"/><lb
+ ed="R107" n="0730a05"/><div type='orig' level='2'><ab type='prose'>即是菩提心此是願生之意二明欣願求心者希心<lb
+ ed="X" n="0161c14"/><lb
+ ed="R107" n="0730a06"/>起想緣彌陀佛若法身報身若應身等金色光明八<lb
+ ed="X" n="0161c15"/><lb
+ ed="R107" n="0730a07"/>萬四千相一一相中八萬四千好一一好放八萬四<lb
+ ed="X" n="0161c16"/><lb
+ ed="R107" n="0730a08"/>千光明常照法界攝取念佛眾生又觀彼淨土七寶<lb
+ ed="X" n="0161c17"/><lb
+ ed="R107" n="0730a09"/>莊嚴事備如觀經十六觀等常行念佛三昧。</ab></div><lb
+ ed="X" n="0161c18"/><lb
+ ed="R107" n="0730a10"/><div type='commentary' level='2'><ab type='prose'>念佛三昧者心中在想口稱名號皆名念佛然諸<pb ed="X" id="X61.1149.0162a" n="0162a"/><lb
+ ed="X" n="0162a01"/><lb
+ ed="R107" n="0730a11"/>經論具明二行皆可得道一無念二有念初無念<lb
+ ed="X" n="0162a02"/><lb
+ ed="R107" n="0730a12"/>者即是真如三昧直須惺惺寂寂不起攀緣實相<lb
+ ed="X" n="0162a03"/><lb
+ ed="R107" n="0730a13"/>相應能所雙泯此亦泯心不同大虗如是安心方<lb
+ ed="X" n="0162a04"/><lb
+ ed="R107" n="0730a14"/>能合道智度論云有念墮魔網無念即得出心動<lb
+ ed="X" n="0162a05"/><lb
+ ed="R107" n="0730a15"/>故非道不動是法印起信論云若得無念則為向<lb
+ ed="X" n="0162a06"/><lb
+ ed="R107" n="0730a16"/>佛智故二有念者即是念佛三昧存想佛之三身<lb
+ ed="X" n="0162a07"/><lb
+ ed="R107" n="0730a17"/>無量功德乃至依報清淨莊嚴專心不亂此想成<lb
+ ed="X" n="0162a08"/><lb
+ ed="R107" n="0730a18"/>時亦得見佛悟道具如觀經般舟三昧經十住毗<lb
+ ed="X" n="0162a09"/><lb
+ ed="R107" n="0730b01"/>婆娑論等今時學人唯重無念不知有念修道之<lb
+ ed="X" n="0162a10"/><lb
+ ed="R107" n="0730b02"/>人切自撿點於二門中何行相應勿於聖言謬生<lb
+ ed="X" n="0162a11"/><lb
+ ed="R107" n="0730b03"/>讚毀如人飲水冷燸自知莫學他人空重無念又<lb
+ ed="X" n="0162a12"/><lb
+ ed="R107" n="0730b04"/>不能端身宴坐萬境既壞縱能暫息攀緣不免無<lb
+ ed="X" n="0162a13"/><lb
+ ed="R107" n="0730b05"/>記昏住六情擾攘三毒熾然妄說多端欺誑聾俗<lb
+ ed="X" n="0162a14"/><lb
+ ed="R107" n="0730b06"/>簡去念佛橫搆是非破他善根罪莫太矣往生一<lb
+ ed="X" n="0162a15"/><lb
+ ed="R107" n="0730b07"/>路平旦易行奉勸後人審辨真偽勿虗度一生耳。</ab></div><lb
+ ed="X" n="0162a16"/><lb
+ ed="R107" n="0730b08"/><div type='orig' level='2'><ab type='prose'>及施戒等修一切善行悉以迴施一切眾生同願生<lb
+ ed="X" n="0162a17"/><lb
+ ed="R107" n="0730b09"/>彼國決定得生此謂欣願門也。</ab></div><lb
+ ed="X" n="0162a18"/><lb
+ ed="R107" n="0730b10"/><lb
+ ed="X" n="0162a19"/><lb
+ ed="R107" n="0730b11"/>
+<ab type='juan' subtype='close'>註十疑論</ab></div>
+</body></text></TEI>

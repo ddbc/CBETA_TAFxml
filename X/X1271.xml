@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">十牛圖和頌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X64</biblScope>
+                    <idno type="Taisho">X64n1271</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X64.1271.0777a" n="0777a"/><lb
+ ed="X" n="0777a01"/>
+<ab type='juan' subtype='open'></ab><lb
+ ed="X" n="0777a02"/><div type='xu' level='2'><head>No. 1271-A<lb
+ ed="X" n="0777a03"/><lb
+ ed="R113" n="0924a01"/> 牧牛圖序</head><lb
+ ed="X" n="0777a04"/><lb
+ ed="X" n="0777a05"/><lb
+ ed="R113" n="0924a02"/><ab type='prose'>遺教經云。譬如牧牛。執杖視之。不令縱逸。犯人苗稼。<lb
+ ed="X" n="0777a06"/><lb
+ ed="R113" n="0924a03"/>則牧牛之說所自起也。嗣是馬祖問石鞏。汝在此何<lb
+ ed="X" n="0777a07"/><lb
+ ed="R113" n="0924a04"/>務。答曰。牧牛。又問。牛作麼生牧。答曰。一回入草去。驀<lb
+ ed="X" n="0777a08"/><lb
+ ed="R113" n="0924a05"/>鼻拽將來。則善牧之人也。又大溈安公之在溈山也。<lb
+ ed="X" n="0777a09"/><lb
+ ed="R113" n="0924a06"/>曰。吾依溈山住。不學溈山禪。但牧一頭水牯牛。又白<lb
+ ed="X" n="0777a10"/><lb
+ ed="R113" n="0924a07"/>雲端公之於郭功輔也。詰之曰。牛淳乎。而若自牧。若<lb
+ ed="X" n="0777a11"/><lb
+ ed="R113" n="0924a08"/>教他牧。層見疊出於古今者。益彰彰矣。後乃有繪之<lb
+ ed="X" n="0777a12"/><lb
+ ed="R113" n="0924a09"/>乎圖。始於未牧。終於雙泯。品而列之為十。其牛則如<lb
+ ed="X" n="0777a13"/><lb
+ ed="R113" n="0924a10"/>次。初黑繼白。以至於無。粲如也。而普明復一一係之<lb
+ ed="X" n="0777a14"/><lb
+ ed="R113" n="0924a11"/>以頌。普明。未詳何許人。圖頌亦不知出一人之手否。<lb
+ ed="X" n="0777a15"/><lb
+ ed="R113" n="0924a12"/>今無論。惟是其為圖也。象顯而意深。其為頌也。言近<lb
+ ed="X" n="0777a16"/><lb
+ ed="R113" n="0924a13"/>而旨遠。學人持為左券。因之審德稽業。俯察其已臻。<lb
+ ed="X" n="0777a17"/><lb
+ ed="R113" n="0924a14"/>仰希其所未到。免使得少為足。以墮於增上慢地。則<lb
+ ed="X" n="0777a18"/><lb
+ ed="R113" n="0924a15"/>裨益良多。遂錄而重壽諸梓。外更有尋牛以至入廛。<lb
+ ed="X" n="0777a19"/><lb
+ ed="R113" n="0924a16"/>亦為圖者十。與今大同小異。并及教中分別進脩次<lb
+ ed="X" n="0777a20"/><lb
+ ed="R113" n="0924a17"/>第。可比例而知者。俱附末簡。以便參考。若夫一超直<lb
+ ed="X" n="0777a21"/><lb
+ ed="R113" n="0924a18"/>入之士。無勞鞭挽而天然露地白牛。不落階級而剎<lb
+ ed="X" n="0777a22"/><lb
+ ed="R113" n="0924b01"/>那能所雙絕。則圖成滯貨。頌成剩語。覧之當發一笑。<lb
+ ed="X" n="0777a23"/><lb
+ ed="R113" n="0924b02"/>吾無強焉。<lb
+ ed="X" n="0777a24"/><lb
+ ed="R113" n="0924b03"/>萬曆己酉如來誕日　後學　袾宏　謹書</ab></div><pb ed="X" id="X64.1271.0777b" n="0777b"/><lb
+ ed="X" n="0777b01"/><lb
+ ed="X" n="0777b02"/><div type='xu' level='2'><head>No. 1271-B<lb
+ ed="X" n="0777b03"/><lb
+ ed="R113" n="0924b05"/> 普明寺牧牛圖頌序</head><lb
+ ed="X" n="0777b04"/><lb
+ ed="X" n="0777b05"/><lb
+ ed="R113" n="0924b06"/><ab type='prose'>咄。盡大地是普明一頭牛。何處更有佛與眾生。毫厘<lb
+ ed="X" n="0777b06"/><lb
+ ed="R113" n="0924b07"/>不隔。本是如如。若道此牛有黑有白。有雄有雌。有饑<lb
+ ed="X" n="0777b07"/><lb
+ ed="R113" n="0924b08"/>有飽。便是一體分別成二。世尊初生。指天指地。周行<lb
+ ed="X" n="0777b08"/><lb
+ ed="R113" n="0924b09"/>目顧。犯人苗稼不少。祖師西來。直指人心。見性成佛。<lb
+ ed="X" n="0777b09"/><lb
+ ed="R113" n="0924b10"/>喫他水草良多。三玄要．四料揀．五位君臣．九十六圓<lb
+ ed="X" n="0777b10"/><lb
+ ed="R113" n="0924b11"/>相。受盡牽制鞭䇿。乃至拈椎竪拂。行棒行喝。種種機<lb
+ ed="X" n="0777b11"/><lb
+ ed="R113" n="0924b12"/>用。皮毛脫落。四足潛踪。許大一頭牛。不知逃向那裡<lb
+ ed="X" n="0777b12"/><lb
+ ed="R113" n="0924b13"/>去了。到這裡地。重關已破。且道向上還有事麼。以拂<lb
+ ed="X" n="0777b13"/><lb
+ ed="R113" n="0924b14"/>子打圓相云。火裡木牛耕白雪。雲中石馬舞春風。會<lb
+ ed="X" n="0777b14"/><lb
+ ed="R113" n="0924b15"/>麼。不會。請看牧牛頌并諸方次韻語句。畢竟還有優<lb
+ ed="X" n="0777b15"/><lb
+ ed="R113" n="0924b16"/>劣也無。<lb
+ ed="X" n="0777b16"/><lb
+ ed="R113" n="0924b17"/>臨濟正宗三十二世𨍏轢道人　嚴大參　謹序</ab></div><lb
+ ed="X" n="0777b17"/><lb
+ ed="X" n="0777b18"/><div type='xu' level='2'><head>No. 1271-C<lb
+ ed="X" n="0777b19"/><lb
+ ed="R113" n="0925a01"/> 普明禪師牧牛圖頌附諸大禪師和<lb
+ ed="X" n="0777b20"/><lb
+ ed="R113" n="0925a01"/>頌目錄</head><lb
+ ed="X" n="0777b21"/><lb
+ ed="R113" n="0925a02"/><ab type='prose'>普明原頌。雲棲蓮太師付梓序云。普明。未詳何許人。<lb
+ ed="X" n="0777b22"/><lb
+ ed="R113" n="0925a03"/>則亦不知道場之所矣。辛丑冬。予來理坊事。壬寅夏。<lb
+ ed="X" n="0777b23"/><lb
+ ed="R113" n="0925a04"/>𨍏轢嚴居士將普明緣起及舊寺圖相示。始知因緣<lb
+ ed="X" n="0777b24"/><lb
+ ed="R113" n="0925a05"/>在此。居士既恢復寺基。初請玄微禪師。繼請明巖耆<pb ed="X" id="X64.1271.0777c" n="0777c"/><lb
+ ed="X" n="0777c01"/><lb
+ ed="R113" n="0925a06"/>德。殿宇煥然。房僚俱備。將來欲成獅窟。余見諸方和<lb
+ ed="X" n="0777c02"/><lb
+ ed="R113" n="0925a07"/>頌。讀之不勝喜躍。效顰和之。并將圖頌和頌。合成一<lb
+ ed="X" n="0777c03"/><lb
+ ed="R113" n="0925a08"/>冊流通。<lb
+ ed="X" n="0777c04"/><lb
+ ed="R113" n="0925a09"/>聞谷大師天隱禪師破山禪師<lb
+ ed="X" n="0777c05"/><lb
+ ed="R113" n="0925a10"/>萬如禪師浮石禪師玉林禪師<lb
+ ed="X" n="0777c06"/><lb
+ ed="R113" n="0925a11"/>箬菴禪師山茨禪師玄微禪師<lb
+ ed="X" n="0777c07"/><lb
+ ed="R113" n="0925a12"/>香幢法主𨍏轢居士跛道人如念<lb
+ ed="X" n="0777c08"/><lb
+ ed="R113" n="0925a13"/>無依道人牧公道人巨徹禪師<lb
+ ed="X" n="0777c09"/><lb
+ ed="R113" n="0925a14"/>康熈元年孟秋月　日寓般若堂　如念空　識</ab></div><lb
+ ed="X" n="0777c10"/><lb
+ ed="X" n="0777c11"/><lb
+ ed="X" n="0777c12"/><lb
+ ed="R113" n="0925a16"/><head>真寂和尚和牧牛圖頌</head><lb
+ ed="X" n="0777c13"/><lb
+ ed="X" n="0777c14"/><lb
+ ed="R113" n="0925a17"/><head>未牧</head><lb
+ ed="X" n="0777c15"/><lb
+ ed="R113" n="0925a18"/><ab type='verse'>
+信足奔馳不憚勞　　東西南北路迢遙　　<lb
+ ed="X" n="0777c16"/><lb
+ ed="R113" n="0925b01"/>只貪蒭草平田濶　　忘却家鄉有異苗　　
+</ab><lb
+ ed="X" n="0777c17"/><lb
+ ed="R113" n="0925b02"/><head>初調</head><lb
+ ed="X" n="0777c18"/><lb
+ ed="R113" n="0925b03"/><ab type='verse'>
+氣性雖頑鼻已穿　　牧童從此痛加鞭　　<lb
+ ed="X" n="0777c19"/><lb
+ ed="R113" n="0925b04"/>渾身血汗芒繩急　　遙望家山儘力牽　　
+</ab><lb
+ ed="X" n="0777c20"/><lb
+ ed="R113" n="0925b05"/><head>受制</head><lb
+ ed="X" n="0777c21"/><lb
+ ed="R113" n="0925b06"/><ab type='verse'>
+暫時出草息奔馳　　好把芒鞋緊自隨　　<lb
+ ed="X" n="0777c22"/><lb
+ ed="R113" n="0925b07"/>到處凍雲霜露滑　　斤斤調伏敢忘疲　　
+</ab><lb
+ ed="X" n="0777c23"/><lb
+ ed="R113" n="0925b08"/><head>迴首</head><lb
+ ed="X" n="0777c24"/><lb
+ ed="R113" n="0925b09"/><ab type='verse'>
+芒繩不引自迴頭　　毛色皤然性已柔　　<pb ed="X" id="X64.1271.0778a" n="0778a"/><lb
+ ed="X" n="0778a01"/><lb
+ ed="R113" n="0925b10"/>水草也知山裏足　　牧童多意尚覊留　　
+</ab><lb
+ ed="X" n="0778a02"/><lb
+ ed="R113" n="0925b11"/><head>馴伏</head><lb
+ ed="X" n="0778a03"/><lb
+ ed="R113" n="0925b12"/><ab type='verse'>
+暖風晴日柳溪邊　　俛首循人意悄然　　<lb
+ ed="X" n="0778a04"/><lb
+ ed="R113" n="0925b13"/>花落郊原春色晚　　相隨歸去不須牽　　
+</ab><lb
+ ed="X" n="0778a05"/><lb
+ ed="R113" n="0925b14"/><head>無碍</head><lb
+ ed="X" n="0778a06"/><lb
+ ed="R113" n="0925b15"/><ab type='verse'>
+調伏多年意自如　　水邊林下總無拘　　<lb
+ ed="X" n="0778a07"/><lb
+ ed="R113" n="0925b16"/>一聲羗笛松風起　　此日忘懷樂有餘　　
+</ab><lb
+ ed="X" n="0778a08"/><lb
+ ed="R113" n="0925b17"/><head>任運</head><lb
+ ed="X" n="0778a09"/><lb
+ ed="R113" n="0925b18"/><ab type='verse'>
+百花溪上柳陰中　　飽食和雲臥綠茸　　<lb
+ ed="X" n="0778a10"/><lb
+ ed="R113" n="0926a01"/>歌罷山童無所事　　遺鞭枕上睡方濃　　
+</ab><lb
+ ed="X" n="0778a11"/><lb
+ ed="R113" n="0926a02"/><head>相忘</head><lb
+ ed="X" n="0778a12"/><lb
+ ed="R113" n="0926a03"/><ab type='verse'>
+在在溪山雲月中　　木人花鳥意相同　　<lb
+ ed="X" n="0778a13"/><lb
+ ed="R113" n="0926a04"/>國王水草從來足　　閒步陂塘西復東　　
+</ab><lb
+ ed="X" n="0778a14"/><lb
+ ed="R113" n="0926a05"/><head>獨照</head><lb
+ ed="X" n="0778a15"/><lb
+ ed="R113" n="0926a06"/><ab type='verse'>
+玉鞭無用草繩閒　　踪跡全無古路間　　<lb
+ ed="X" n="0778a16"/><lb
+ ed="R113" n="0926a07"/>空手獨歸林月下　　更前一步即牢關　　
+</ab><lb
+ ed="X" n="0778a17"/><lb
+ ed="R113" n="0926a08"/><head>雙泯</head><lb
+ ed="X" n="0778a18"/><lb
+ ed="R113" n="0926a09"/><ab type='verse'>
+杳杳人牛不見蹤　　一團新月照秋空　　<lb
+ ed="X" n="0778a19"/><lb
+ ed="R113" n="0926a10"/>個中若問還源旨　　風落岩花點翠叢　　
+</ab><lb
+ ed="X" n="0778a20"/><lb
+ ed="R113" n="0926a11"/><head>報恩和尚和牧牛圖頌</head><lb
+ ed="X" n="0778a21"/><lb
+ ed="R113" n="0926a12"/><head>未牧</head><lb
+ ed="X" n="0778a22"/><lb
+ ed="R113" n="0926a13"/><ab type='verse'>
+水雲渺渺亂聲哮　　密密尋踪路更遙　　<lb
+ ed="X" n="0778a23"/><lb
+ ed="R113" n="0926a14"/>晝夜風霜不知處　　恐伊相犯別家苗　　
+</ab><lb
+ ed="X" n="0778a24"/><lb
+ ed="R113" n="0926a15"/><head>初調</head><pb ed="X" id="X64.1271.0778b" n="0778b"/><lb
+ ed="X" n="0778b01"/><lb
+ ed="R113" n="0926a16"/><ab type='verse'>
+纔獲繩頭把鼻穿　　謾將痛處更加鞭　　<lb
+ ed="X" n="0778b02"/><lb
+ ed="R113" n="0926a17"/>也知鄉井迢迢遠　　拽轉頭來著力牽　　
+</ab><lb
+ ed="X" n="0778b03"/><lb
+ ed="R113" n="0926a18"/><head>受制</head><lb
+ ed="X" n="0778b04"/><lb
+ ed="R113" n="0926b01"/><ab type='verse'>
+不從他性遠驅馳　　寸步提持漫漫隨　　<lb
+ ed="X" n="0778b05"/><lb
+ ed="R113" n="0926b02"/>幾度黑風吹瀑雨　　通身泥水總忘疲　　
+</ab><lb
+ ed="X" n="0778b06"/><lb
+ ed="R113" n="0926b03"/><head>回首</head><lb
+ ed="X" n="0778b07"/><lb
+ ed="R113" n="0926b04"/><ab type='verse'>
+驀地忘機自轉頭　　悄然性氣已調柔　　<lb
+ ed="X" n="0778b08"/><lb
+ ed="R113" n="0926b05"/>山中水草了知足　　不用遲疑在外留　　
+</ab><lb
+ ed="X" n="0778b09"/><lb
+ ed="R113" n="0926b06"/><head>馴伏</head><lb
+ ed="X" n="0778b10"/><lb
+ ed="R113" n="0926b07"/><ab type='verse'>
+閒放林間與水邊　　橫騎短笛任悠然　　<lb
+ ed="X" n="0778b11"/><lb
+ ed="R113" n="0926b08"/>歸來一帶烟霞晚　　瀟灑歌謠不假牽　　
+</ab><lb
+ ed="X" n="0778b12"/><lb
+ ed="R113" n="0926b09"/><head>無碍</head><lb
+ ed="X" n="0778b13"/><lb
+ ed="R113" n="0926b10"/><ab type='verse'>
+出入無欄心自如　　擬思量處更猶拘　　<lb
+ ed="X" n="0778b14"/><lb
+ ed="R113" n="0926b11"/>滿懷風月人牛穩　　鞭索俱忘樂有餘　　
+</ab><lb
+ ed="X" n="0778b15"/><lb
+ ed="R113" n="0926b12"/><head>任運</head><lb
+ ed="X" n="0778b16"/><lb
+ ed="R113" n="0926b13"/><ab type='verse'>
+野岸溪灣花柳中　　一環山水翠林茸　　<lb
+ ed="X" n="0778b17"/><lb
+ ed="R113" n="0926b14"/>逍遙快活無求也　　軟草為氈睡興濃　　
+</ab><lb
+ ed="X" n="0778b18"/><lb
+ ed="R113" n="0926b15"/><head>相忘</head><lb
+ ed="X" n="0778b19"/><lb
+ ed="R113" n="0926b16"/><ab type='verse'>
+拶到忘懷混沌中　　千山一色絕相同　　<lb
+ ed="X" n="0778b20"/><lb
+ ed="R113" n="0926b17"/>風光不覺人牛處　　任運騰騰西復東　　
+</ab><lb
+ ed="X" n="0778b21"/><lb
+ ed="R113" n="0926b18"/><head>獨照</head><lb
+ ed="X" n="0778b22"/><lb
+ ed="R113" n="0927a01"/><ab type='verse'>
+不須收放得安閒　　脫略尋常󳬼盻間　　<lb
+ ed="X" n="0778b23"/><lb
+ ed="R113" n="0927a02"/>散步謾歸明月下　　踏翻從上兩重關　　
+</ab><lb
+ ed="X" n="0778b24"/><lb
+ ed="R113" n="0927a03"/><head>雙泯</head><pb ed="X" id="X64.1271.0778c" n="0778c"/><lb
+ ed="X" n="0778c01"/><lb
+ ed="R113" n="0927a04"/><ab type='verse'>
+人牛處處竟無蹤　　新月孤懸萬象空　　<lb
+ ed="X" n="0778c02"/><lb
+ ed="R113" n="0927a05"/>借問歸源端的旨　　枯樁春到綠叢叢　　
+</ab><lb
+ ed="X" n="0778c03"/><lb
+ ed="R113" n="0927a06"/><head>東塔和尚和牧牛圖頌</head><lb
+ ed="X" n="0778c04"/><lb
+ ed="R113" n="0927a07"/><head>未牧</head><lb
+ ed="X" n="0778c05"/><lb
+ ed="R113" n="0927a08"/><ab type='verse'>
+頭角崢嶸便吼哮　　奔兢烟水路迢遙　　<lb
+ ed="X" n="0778c06"/><lb
+ ed="R113" n="0927a09"/>牧童草料渾無戀　　孰肯平田犯稼苗　　
+</ab><lb
+ ed="X" n="0778c07"/><lb
+ ed="R113" n="0927a10"/><head>初調</head><lb
+ ed="X" n="0778c08"/><lb
+ ed="R113" n="0927a11"/><ab type='verse'>
+牛兒鼻孔被繩穿　　放去收來不假鞭　　<lb
+ ed="X" n="0778c09"/><lb
+ ed="R113" n="0927a12"/>擬向東西兩處觸　　一回入草一回牽　　
+</ab><lb
+ ed="X" n="0778c10"/><lb
+ ed="R113" n="0927a13"/><head>受制</head><lb
+ ed="X" n="0778c11"/><lb
+ ed="R113" n="0927a14"/><ab type='verse'>
+年深日久懶奔馳　　雲影溪光逐漸隨　　<lb
+ ed="X" n="0778c12"/><lb
+ ed="R113" n="0927a15"/>任是上林花鳥過　　聲聲難喚牧兒疲　　
+</ab><lb
+ ed="X" n="0778c13"/><lb
+ ed="R113" n="0927a16"/><head>回首</head><lb
+ ed="X" n="0778c14"/><lb
+ ed="R113" n="0927a17"/><ab type='verse'>
+計窮力極喚回頭　　謾把鞭繩閑放柔　　<lb
+ ed="X" n="0778c15"/><lb
+ ed="R113" n="0927a18"/>七縱八擒縛樹下　　山童猶未肯停留　　
+</ab><lb
+ ed="X" n="0778c16"/><lb
+ ed="R113" n="0927b01"/><head>馴伏</head><lb
+ ed="X" n="0778c17"/><lb
+ ed="R113" n="0927b02"/><ab type='verse'>
+山間林下水溪邊　　一飽無餘慶快然　　<lb
+ ed="X" n="0778c18"/><lb
+ ed="R113" n="0927b03"/>撒手童兒歸路晚　　和牛急向遠村牽　　
+</ab><lb
+ ed="X" n="0778c19"/><lb
+ ed="R113" n="0927b04"/><head>無碍</head><lb
+ ed="X" n="0778c20"/><lb
+ ed="R113" n="0927b05"/><ab type='verse'>
+穩眠露地意如如　　陽𦦨空花何所拘　　<lb
+ ed="X" n="0778c21"/><lb
+ ed="R113" n="0927b06"/>松韻山童弄鐵笛　　輕輕吹醒樂無餘　　
+</ab><lb
+ ed="X" n="0778c22"/><lb
+ ed="R113" n="0927b07"/><head>任運</head><lb
+ ed="X" n="0778c23"/><lb
+ ed="R113" n="0927b08"/><ab type='verse'>
+南北東西任運中　　脚頭脚底草茸茸　　<lb
+ ed="X" n="0778c24"/><lb
+ ed="R113" n="0927b09"/>飽飡只剩些些意　　留與山童瞌睡濃　　
+</ab><pb ed="X" id="X64.1271.0779a" n="0779a"/><lb
+ ed="X" n="0779a01"/><lb
+ ed="R113" n="0927b10"/><head>相忘</head><lb
+ ed="X" n="0779a02"/><lb
+ ed="R113" n="0927b11"/><ab type='verse'>
+雲牛一片白其中　　那有雌黃與異同　　<lb
+ ed="X" n="0779a03"/><lb
+ ed="R113" n="0927b12"/>就裏欲分纖細子　　騰騰運運復西東　　
+</ab><lb
+ ed="X" n="0779a04"/><lb
+ ed="R113" n="0927b13"/><head>獨照</head><lb
+ ed="X" n="0779a05"/><lb
+ ed="R113" n="0927b14"/><ab type='verse'>
+牧童皷掌自閒閒　　始信牛踪沒此間　　<lb
+ ed="X" n="0779a06"/><lb
+ ed="R113" n="0927b15"/>遂得殷懃謾且喜　　猶存星月照幽關　　
+</ab><lb
+ ed="X" n="0779a07"/><lb
+ ed="R113" n="0927b16"/><head>雙泯</head><lb
+ ed="X" n="0779a08"/><lb
+ ed="R113" n="0927b17"/><ab type='verse'>
+人牛頓盡絕形踪　　浩浩光吞宇宙空　　<lb
+ ed="X" n="0779a09"/><lb
+ ed="R113" n="0927b18"/>明月蘆花來問的　　東風吹起自叢叢　　
+</ab><lb
+ ed="X" n="0779a10"/><lb
+ ed="R113" n="0928a01"/><head>萬如禪師和牧牛圖頌</head><lb
+ ed="X" n="0779a11"/><lb
+ ed="R113" n="0928a02"/><head>未牧</head><lb
+ ed="X" n="0779a12"/><lb
+ ed="R113" n="0928a03"/><ab type='verse'>
+劣性麤狂向外迯　　鄉關迢󳯝不知遙　　<lb
+ ed="X" n="0779a13"/><lb
+ ed="R113" n="0928a04"/>分明觸處荒田地　　那肯回頭惜異苗　　
+</ab><lb
+ ed="X" n="0779a14"/><lb
+ ed="R113" n="0928a05"/><head>初調</head><lb
+ ed="X" n="0779a15"/><lb
+ ed="R113" n="0928a06"/><ab type='verse'>
+驀路相逢把鼻穿　　饒伊惡性猛加鞭　　<lb
+ ed="X" n="0779a16"/><lb
+ ed="R113" n="0928a07"/>從今已得繩頭在　　纔要奔趨只一牽　　
+</ab><lb
+ ed="X" n="0779a17"/><lb
+ ed="R113" n="0928a08"/><head>受制</head><lb
+ ed="X" n="0779a18"/><lb
+ ed="R113" n="0928a09"/><ab type='verse'>
+暫息顛頑暫息馳　　頻頻相󳬼也相隨　　<lb
+ ed="X" n="0779a19"/><lb
+ ed="R113" n="0928a10"/>芒繩雖緩鞭尤樸　　不筭工夫不憚疲　　
+</ab><lb
+ ed="X" n="0779a20"/><lb
+ ed="R113" n="0928a11"/><head>迴首</head><lb
+ ed="X" n="0779a21"/><lb
+ ed="R113" n="0928a12"/><ab type='verse'>
+頑劣消除已轉頭　　不加鞭逼性相柔　　<lb
+ ed="X" n="0779a22"/><lb
+ ed="R113" n="0928a13"/>牧童未敢憑他意　　還把繩頭緊繫留　　
+</ab><lb
+ ed="X" n="0779a23"/><lb
+ ed="R113" n="0928a14"/><head>馴伏</head><lb
+ ed="X" n="0779a24"/><lb
+ ed="R113" n="0928a15"/><ab type='verse'>
+萬木叢中芳草邊　　芒繩釋去意翛然　　<pb ed="X" id="X64.1271.0779b" n="0779b"/><lb
+ ed="X" n="0779b01"/><lb
+ ed="R113" n="0928a16"/>夕陽影裡歸鴉噪　　牛自相隨不用牽　　
+</ab><lb
+ ed="X" n="0779b02"/><lb
+ ed="R113" n="0928a17"/><head>無碍</head><lb
+ ed="X" n="0779b03"/><lb
+ ed="R113" n="0928a18"/><ab type='verse'>
+皤白渾身性自如　　海天空濶不相拘　　<lb
+ ed="X" n="0779b04"/><lb
+ ed="R113" n="0928b01"/>牧童閒倚松邊石　　短笛頻吹興有餘　　
+</ab><lb
+ ed="X" n="0779b05"/><lb
+ ed="R113" n="0928b02"/><head>任運</head><lb
+ ed="X" n="0779b06"/><lb
+ ed="R113" n="0928b03"/><ab type='verse'>
+千條溪畔萬山中　　飡飲隨時飽綠茸　　<lb
+ ed="X" n="0779b07"/><lb
+ ed="R113" n="0928b04"/>牧子從教無個事　　鼾鼾枕臂不知濃　　
+</ab><lb
+ ed="X" n="0779b08"/><lb
+ ed="R113" n="0928b05"/><head>相忘</head><lb
+ ed="X" n="0779b09"/><lb
+ ed="R113" n="0928b06"/><ab type='verse'>
+是處雲山牛在中　　兩無心意月相同　　<lb
+ ed="X" n="0779b10"/><lb
+ ed="R113" n="0928b07"/>碧天影落溪流急　　任爾縱橫西復東　　
+</ab><lb
+ ed="X" n="0779b11"/><lb
+ ed="R113" n="0928b08"/><head>獨照</head><lb
+ ed="X" n="0779b12"/><lb
+ ed="R113" n="0928b09"/><ab type='verse'>
+生涯喪盡一身閒　　明月光騰古木間　　<lb
+ ed="X" n="0779b13"/><lb
+ ed="R113" n="0928b10"/>歌罷一聲歸去晚　　芒鞋踏破隔鄉關　　
+</ab><lb
+ ed="X" n="0779b14"/><lb
+ ed="R113" n="0928b11"/><head>雙泯</head><lb
+ ed="X" n="0779b15"/><lb
+ ed="R113" n="0928b12"/><ab type='verse'>
+廓然空絕兩無踪　　寶月孤懸照碧空　　<lb
+ ed="X" n="0779b16"/><lb
+ ed="R113" n="0928b13"/>個事不須重借問　　子規聲斷落花叢　　
+</ab><lb
+ ed="X" n="0779b17"/><lb
+ ed="R113" n="0928b14"/><head>東塔浮石禪師和牧牛圖頌</head><lb
+ ed="X" n="0779b18"/><lb
+ ed="R113" n="0928b15"/><head>未牧</head><lb
+ ed="X" n="0779b19"/><lb
+ ed="R113" n="0928b16"/><ab type='verse'>
+蹉過聲前這一哮　　反生邊見歷途遙　　<lb
+ ed="X" n="0779b20"/><lb
+ ed="R113" n="0928b17"/>披毛帶角渾無慮　　糞草何曾識稼苗　　
+</ab><lb
+ ed="X" n="0779b21"/><lb
+ ed="R113" n="0928b18"/><head>初調</head><lb
+ ed="X" n="0779b22"/><lb
+ ed="R113" n="0929a01"/><ab type='verse'>
+纔識牛兮鼻已穿　　翻然自肯苦加鞭　　<lb
+ ed="X" n="0779b23"/><lb
+ ed="R113" n="0929a02"/>暫詩不在頻偷走　　猶把芒繩緊緊牽　　
+</ab><lb
+ ed="X" n="0779b24"/><lb
+ ed="R113" n="0929a03"/><head>受制</head><pb ed="X" id="X64.1271.0779c" n="0779c"/><lb
+ ed="X" n="0779c01"/><lb
+ ed="R113" n="0929a04"/><ab type='verse'>
+渡水穿雲不亂馳　　任從呼遣總相隨　　<lb
+ ed="X" n="0779c02"/><lb
+ ed="R113" n="0929a05"/>牛兒雖以堪調治　　未許山童暫放疲　　
+</ab><lb
+ ed="X" n="0779c03"/><lb
+ ed="R113" n="0929a06"/><head>回首</head><lb
+ ed="X" n="0779c04"/><lb
+ ed="R113" n="0929a07"/><ab type='verse'>
+一回入草一回頭　　可比初時性已柔　　<lb
+ ed="X" n="0779c05"/><lb
+ ed="R113" n="0929a08"/>滿徑落花思踐履　　客途烟雨豈覊留　　
+</ab><lb
+ ed="X" n="0779c06"/><lb
+ ed="R113" n="0929a09"/><head>馴伏</head><lb
+ ed="X" n="0779c07"/><lb
+ ed="R113" n="0929a10"/><ab type='verse'>
+玲瓏石伴古松邊　　任運騰騰始貼然　　<lb
+ ed="X" n="0779c08"/><lb
+ ed="R113" n="0929a11"/>手裡有鞭須放下　　鼻中去索不須牽　　
+</ab><lb
+ ed="X" n="0779c09"/><lb
+ ed="R113" n="0929a12"/><head>無碍</head><lb
+ ed="X" n="0779c10"/><lb
+ ed="R113" n="0929a13"/><ab type='verse'>
+觸處逢渠得自如　　入泥入水又何拘　　<lb
+ ed="X" n="0779c11"/><lb
+ ed="R113" n="0929a14"/>饑飡渴飲困來睡　　底事從來無欠餘　　
+</ab><lb
+ ed="X" n="0779c12"/><lb
+ ed="R113" n="0929a15"/><head>任運</head><lb
+ ed="X" n="0779c13"/><lb
+ ed="R113" n="0929a16"/><ab type='verse'>
+己眼撑開宇宙中　　胡來胡現任茸茸　　<lb
+ ed="X" n="0779c14"/><lb
+ ed="R113" n="0929a17"/>山童閒唱還鄉曲　　不覺令人歸思濃　　
+</ab><lb
+ ed="X" n="0779c15"/><lb
+ ed="R113" n="0929a18"/><head>相忘</head><lb
+ ed="X" n="0779c16"/><lb
+ ed="R113" n="0929b01"/><ab type='verse'>
+喪盡偷心豁達中　　人牛何異復何同　　<lb
+ ed="X" n="0779c17"/><lb
+ ed="R113" n="0929b02"/>從今兩絕提防力　　可以西兮可以東　　
+</ab><lb
+ ed="X" n="0779c18"/><lb
+ ed="R113" n="0929b03"/><head>獨照</head><lb
+ ed="X" n="0779c19"/><lb
+ ed="R113" n="0929b04"/><ab type='verse'>
+脫盡皮毛赤體閒　　堂堂獨露咲談間　　<lb
+ ed="X" n="0779c20"/><lb
+ ed="R113" n="0929b05"/>不是渠儂能了達　　祇因透徹上頭關　　
+</ab><lb
+ ed="X" n="0779c21"/><lb
+ ed="R113" n="0929b06"/><head>雙泯</head><lb
+ ed="X" n="0779c22"/><lb
+ ed="R113" n="0929b07"/><ab type='verse'>
+空空寂寂杳無踪　　一點靈機盡掃空　　<lb
+ ed="X" n="0779c23"/><lb
+ ed="R113" n="0929b08"/>智理不存悲化普　　一輪明月照幽叢　　
+</ab><lb
+ ed="X" n="0779c24"/><lb
+ ed="R113" n="0929b09"/><head>玉林和尚和牧牛圖頌</head><pb ed="X" id="X64.1271.0780a" n="0780a"/><lb
+ ed="X" n="0780a01"/><lb
+ ed="R113" n="0929b10"/><head>未牧</head><lb
+ ed="X" n="0780a02"/><lb
+ ed="R113" n="0929b11"/><ab type='verse'>
+牛本荷人人不識　　胡行亂躍隔迢遙　　<lb
+ ed="X" n="0780a03"/><lb
+ ed="R113" n="0929b12"/>一回摸著牛兒鼻　　大千沙界沒莖苗　　
+</ab><lb
+ ed="X" n="0780a04"/><lb
+ ed="R113" n="0929b13"/><head>初調</head><lb
+ ed="X" n="0780a05"/><lb
+ ed="R113" n="0929b14"/><ab type='verse'>
+寄言識得牛兒者　　莫學時流強策鞭　　<lb
+ ed="X" n="0780a06"/><lb
+ ed="R113" n="0929b15"/>我是牛兮牛是我　　分明無二若為牽　　
+</ab><lb
+ ed="X" n="0780a07"/><lb
+ ed="R113" n="0929b16"/><head>受制</head><lb
+ ed="X" n="0780a08"/><lb
+ ed="R113" n="0929b17"/><ab type='verse'>
+牧童但不迷頭去　　純白牛兒到處隨　　<lb
+ ed="X" n="0780a09"/><lb
+ ed="R113" n="0929b18"/>非比道途販賣客　　橫騎倒捋自無疲　　
+</ab><lb
+ ed="X" n="0780a10"/><lb
+ ed="R113" n="0930a01"/><head>回首</head><lb
+ ed="X" n="0780a11"/><lb
+ ed="R113" n="0930a02"/><ab type='verse'>
+莫道功深始轉頭　　牛無背面與剛柔　　<lb
+ ed="X" n="0780a12"/><lb
+ ed="R113" n="0930a03"/>山童但得狂心歇　　鼻孔彌天絕去留　　
+</ab><lb
+ ed="X" n="0780a13"/><lb
+ ed="R113" n="0930a04"/><head>馴伏</head><lb
+ ed="X" n="0780a14"/><lb
+ ed="R113" n="0930a05"/><ab type='verse'>
+尋常逐逐營營者　　謾道長調方怗然　　<lb
+ ed="X" n="0780a15"/><lb
+ ed="R113" n="0930a06"/>見徹斯牛無往返　　始如多載枉拘牽　　
+</ab><lb
+ ed="X" n="0780a16"/><lb
+ ed="R113" n="0930a07"/><head>無碍</head><lb
+ ed="X" n="0780a17"/><lb
+ ed="R113" n="0930a08"/><ab type='verse'>
+本自翛然絕絆羈　　知恩豈肯強牽拘　　<lb
+ ed="X" n="0780a18"/><lb
+ ed="R113" n="0930a09"/>縱橫飛舞無留跡　　誰信那伽定有餘　　
+</ab><lb
+ ed="X" n="0780a19"/><lb
+ ed="R113" n="0930a10"/><head>任運</head><lb
+ ed="X" n="0780a20"/><lb
+ ed="R113" n="0930a11"/><ab type='verse'>
+不分內外與邊中　　傍水尋芳入亂叢　　<lb
+ ed="X" n="0780a21"/><lb
+ ed="R113" n="0930a12"/>回首東山吐新月　　騎歸茆屋興猶濃　　
+</ab><lb
+ ed="X" n="0780a22"/><lb
+ ed="R113" n="0930a13"/><head>相忘</head><lb
+ ed="X" n="0780a23"/><lb
+ ed="R113" n="0930a14"/><ab type='verse'>
+強把全軀分二體　　計窮力盡始知同　　<lb
+ ed="X" n="0780a24"/><lb
+ ed="R113" n="0930a15"/>他長我短俱休問　　說甚人西與物東　　
+</ab><pb ed="X" id="X64.1271.0780b" n="0780b"/><lb
+ ed="X" n="0780b01"/><lb
+ ed="R113" n="0930a16"/><head>獨照</head><lb
+ ed="X" n="0780b02"/><lb
+ ed="R113" n="0930a17"/><ab type='verse'>
+頂破虗空蹈碎地　　不留一物雜其間　　<lb
+ ed="X" n="0780b03"/><lb
+ ed="R113" n="0930a18"/>孤孤逈逈雖堪羨　　瞥爾知羞始透關　　
+</ab><lb
+ ed="X" n="0780b04"/><lb
+ ed="R113" n="0930b01"/><head>雙泯</head><lb
+ ed="X" n="0780b05"/><lb
+ ed="R113" n="0930b02"/><ab type='verse'>
+誰為所牧誰為牧　　認影牽風徹底空　　<lb
+ ed="X" n="0780b06"/><lb
+ ed="R113" n="0930b03"/>有問其中端的意　　早知芻犬吠茅叢　　
+</ab><lb
+ ed="X" n="0780b07"/><lb
+ ed="R113" n="0930b04"/><head>箬庵禪師和牧牛圖頌</head><lb
+ ed="X" n="0780b08"/><lb
+ ed="R113" n="0930b05"/><head>未牧</head><lb
+ ed="X" n="0780b09"/><lb
+ ed="R113" n="0930b06"/><ab type='verse'>
+走遍天涯逞意哮　　穿雲涉水路迢遙　　<lb
+ ed="X" n="0780b10"/><lb
+ ed="R113" n="0930b07"/>多年一片閒田地　　蹂踏堪憐損稼苗　　
+</ab><lb
+ ed="X" n="0780b11"/><lb
+ ed="R113" n="0930b08"/><head>初調</head><lb
+ ed="X" n="0780b12"/><lb
+ ed="R113" n="0930b09"/><ab type='verse'>
+鼻孔生獰不易穿　　一回入草一加鞭　　<lb
+ ed="X" n="0780b13"/><lb
+ ed="R113" n="0930b10"/>狂心何計能拴縛　　賴有山童把索牽　　
+</ab><lb
+ ed="X" n="0780b14"/><lb
+ ed="R113" n="0930b11"/><head>受制</head><lb
+ ed="X" n="0780b15"/><lb
+ ed="R113" n="0930b12"/><ab type='verse'>
+擬將何處更驅馳　　暮雨朝烟緊自隨　　<lb
+ ed="X" n="0780b16"/><lb
+ ed="R113" n="0930b13"/>踪跡欲逃難躲避　　任渠奔烈也成疲　　
+</ab><lb
+ ed="X" n="0780b17"/><lb
+ ed="R113" n="0930b14"/><head>回首</head><lb
+ ed="X" n="0780b18"/><lb
+ ed="R113" n="0930b15"/><ab type='verse'>
+翻然自肯便回頭　　滿地殘紅襯草柔　　<lb
+ ed="X" n="0780b19"/><lb
+ ed="R113" n="0930b16"/>故國有懷情未撇　　暗愁春老尚遲留　　
+</ab><lb
+ ed="X" n="0780b20"/><lb
+ ed="R113" n="0930b17"/><head>馴伏</head><lb
+ ed="X" n="0780b21"/><lb
+ ed="R113" n="0930b18"/><ab type='verse'>
+收來放去古溪邊　　風月隨緣自悄然　　<lb
+ ed="X" n="0780b22"/><lb
+ ed="R113" n="0931a01"/>水草不思無底事　　相看撒手竟忘牽　　
+</ab><lb
+ ed="X" n="0780b23"/><lb
+ ed="R113" n="0931a02"/><head>無碍</head><lb
+ ed="X" n="0780b24"/><lb
+ ed="R113" n="0931a03"/><ab type='verse'>
+縱步溪山得自如　　風流兩岸亦何拘　　<pb ed="X" id="X64.1271.0780c" n="0780c"/><lb
+ ed="X" n="0780c01"/><lb
+ ed="R113" n="0931a04"/>橫吹短笛斜陽暮　　溢目春光信有餘　　
+</ab><lb
+ ed="X" n="0780c02"/><lb
+ ed="R113" n="0931a05"/><head>任運</head><lb
+ ed="X" n="0780c03"/><lb
+ ed="R113" n="0931a06"/><ab type='verse'>
+不曾移步出山中　　暖簇晴花五色茸　　<lb
+ ed="X" n="0780c04"/><lb
+ ed="R113" n="0931a07"/>莫恠山童閒瞌睡　　臥雲眠月興偏濃　　
+</ab><lb
+ ed="X" n="0780c05"/><lb
+ ed="R113" n="0931a08"/><head>相忘</head><lb
+ ed="X" n="0780c06"/><lb
+ ed="R113" n="0931a09"/><ab type='verse'>
+相將無事太平中　　渠我情忘逈不同　　<lb
+ ed="X" n="0780c07"/><lb
+ ed="R113" n="0931a10"/>一段閒愁總收拾　　不知花落水流東　　
+</ab><lb
+ ed="X" n="0780c08"/><lb
+ ed="R113" n="0931a11"/><head>獨照</head><lb
+ ed="X" n="0780c09"/><lb
+ ed="R113" n="0931a12"/><ab type='verse'>
+一道寒光萬境閒　　寥寥四󳬼水雲間　　<lb
+ ed="X" n="0780c10"/><lb
+ ed="R113" n="0931a13"/>夜深明月歸來後　　照徹空王向上關　　
+</ab><lb
+ ed="X" n="0780c11"/><lb
+ ed="R113" n="0931a14"/><head>雙泯</head><lb
+ ed="X" n="0780c12"/><lb
+ ed="R113" n="0931a15"/><ab type='verse'>
+從前光影覔無踪　　不見人牛烟水空　　<lb
+ ed="X" n="0780c13"/><lb
+ ed="R113" n="0931a16"/>盡大地回春曉夢　　日高香散百花叢　　
+</ab><lb
+ ed="X" n="0780c14"/><lb
+ ed="R113" n="0931a17"/><head>山茨禪師和牧牛圖頌</head><lb
+ ed="X" n="0780c15"/><lb
+ ed="R113" n="0931a18"/><head>未牧</head><lb
+ ed="X" n="0780c16"/><lb
+ ed="R113" n="0931b01"/><ab type='verse'>
+水草溪邊縱意哮　　鼻頭無繫去迢遙　　<lb
+ ed="X" n="0780c17"/><lb
+ ed="R113" n="0931b02"/>誰知宇宙皆王化　　亂踏雲山犯稼苗　　
+</ab><lb
+ ed="X" n="0780c18"/><lb
+ ed="R113" n="0931b03"/><head>初調</head><lb
+ ed="X" n="0780c19"/><lb
+ ed="R113" n="0931b04"/><ab type='verse'>
+芒繩初把鼻相穿　　熟處難忘痛著鞭　　<lb
+ ed="X" n="0780c20"/><lb
+ ed="R113" n="0931b05"/>分付牧童牢守護　　莫教暫失手中牽　　
+</ab><lb
+ ed="X" n="0780c21"/><lb
+ ed="R113" n="0931b06"/><head>受制</head><lb
+ ed="X" n="0780c22"/><lb
+ ed="R113" n="0931b07"/><ab type='verse'>
+動容頑性好奔馳　　左右旋眸渠緊隨　　<lb
+ ed="X" n="0780c23"/><lb
+ ed="R113" n="0931b08"/>悵望遠山鄉信杳　　披雲帶月正忘疲　　
+</ab><lb
+ ed="X" n="0780c24"/><lb
+ ed="R113" n="0931b09"/><head>回首</head><pb ed="X" id="X64.1271.0781a" n="0781a"/><lb
+ ed="X" n="0781a01"/><lb
+ ed="R113" n="0931b10"/><ab type='verse'>
+知恩逐步肯回頭　　烈氣消融性漸柔　　<lb
+ ed="X" n="0781a02"/><lb
+ ed="R113" n="0931b11"/>騎向平陂深草處　　橫吹短笛絕覊留　　
+</ab><lb
+ ed="X" n="0781a03"/><lb
+ ed="R113" n="0931b12"/><head>馴伏</head><lb
+ ed="X" n="0781a04"/><lb
+ ed="R113" n="0931b13"/><ab type='verse'>
+只在平田烟柳邊　　鞭繩拋却坐翛然　　<lb
+ ed="X" n="0781a05"/><lb
+ ed="R113" n="0931b14"/>暮山鐘動上方月　　恁麼歸來不假牽　　
+</ab><lb
+ ed="X" n="0781a06"/><lb
+ ed="R113" n="0931b15"/><head>無碍</head><lb
+ ed="X" n="0781a07"/><lb
+ ed="R113" n="0931b16"/><ab type='verse'>
+人牛相視體如如　　彼此無心不用拘　　<lb
+ ed="X" n="0781a08"/><lb
+ ed="R113" n="0931b17"/>花柳叢中隨意往　　團團蹄跡更無餘　　
+</ab><lb
+ ed="X" n="0781a09"/><lb
+ ed="R113" n="0931b18"/><head>任運</head><lb
+ ed="X" n="0781a10"/><lb
+ ed="R113" n="0932a01"/><ab type='verse'>
+或時村裡或雲中　　舊地閒田草正茸　　<lb
+ ed="X" n="0781a11"/><lb
+ ed="R113" n="0932a02"/>踏遍一毫無剩跡　　牧童高臥柳陰濃　　
+</ab><lb
+ ed="X" n="0781a12"/><lb
+ ed="R113" n="0932a03"/><head>相忘</head><lb
+ ed="X" n="0781a13"/><lb
+ ed="R113" n="0932a04"/><ab type='verse'>
+撑撑頭角臥林中　　渠我渾忘雲水同　　<lb
+ ed="X" n="0781a14"/><lb
+ ed="R113" n="0932a05"/>為愛山前蒭草細　　夜深乘月過溪東　　
+</ab><lb
+ ed="X" n="0781a15"/><lb
+ ed="R113" n="0932a06"/><head>獨照</head><lb
+ ed="X" n="0781a16"/><lb
+ ed="R113" n="0932a07"/><ab type='verse'>
+個裡風光鎮日閒　　放身穩臥白雲間　　<lb
+ ed="X" n="0781a17"/><lb
+ ed="R113" n="0932a08"/>長歌一曲聲嘹喨　　直透威音劫外關　　
+</ab><lb
+ ed="X" n="0781a18"/><lb
+ ed="R113" n="0932a09"/><head>雙泯</head><lb
+ ed="X" n="0781a19"/><lb
+ ed="R113" n="0932a10"/><ab type='verse'>
+不見人牛不見踪　　清風明月滿長空　　<lb
+ ed="X" n="0781a20"/><lb
+ ed="R113" n="0932a11"/>太平休用歌堯令　　枯木重開花一叢　　
+</ab><lb
+ ed="X" n="0781a21"/><lb
+ ed="R113" n="0932a12"/><head>桐月菴大師和牧牛圖頌</head><lb
+ ed="X" n="0781a22"/><lb
+ ed="R113" n="0932a13"/><head>未牧</head><lb
+ ed="X" n="0781a23"/><lb
+ ed="R113" n="0932a14"/><ab type='verse'>
+黑雲低處一聲哮　　足底程途那信遙　　<lb
+ ed="X" n="0781a24"/><lb
+ ed="R113" n="0932a15"/>童子個時將貫索　　未嘗留意惜良苗　　
+</ab><pb ed="X" id="X64.1271.0781b" n="0781b"/><lb
+ ed="X" n="0781b01"/><lb
+ ed="R113" n="0932a16"/><head>初調</head><lb
+ ed="X" n="0781b02"/><lb
+ ed="R113" n="0932a17"/><ab type='verse'>
+鼻孔今朝始受穿　　十分狂性只宜鞭　　<lb
+ ed="X" n="0781b03"/><lb
+ ed="R113" n="0932a18"/>要渠了了尋常事　　不管通身黑業牽　　
+</ab><lb
+ ed="X" n="0781b04"/><lb
+ ed="R113" n="0932b01"/><head>受制</head><lb
+ ed="X" n="0781b05"/><lb
+ ed="R113" n="0932b02"/><ab type='verse'>
+蹊徑於今不枉馳　　鞭繩緩緩肯相隨　　<lb
+ ed="X" n="0781b06"/><lb
+ ed="R113" n="0932b03"/>家山水草隨時給　　信步風流也不疲　　
+</ab><lb
+ ed="X" n="0781b07"/><lb
+ ed="R113" n="0932b04"/><head>迴首</head><lb
+ ed="X" n="0781b08"/><lb
+ ed="R113" n="0932b05"/><ab type='verse'>
+綠楊堤畔碧溪頭　　景自晴和風自柔　　<lb
+ ed="X" n="0781b09"/><lb
+ ed="R113" n="0932b06"/>水牯轉頭初自肯　　月明歸路謾遲留　　
+</ab><lb
+ ed="X" n="0781b10"/><lb
+ ed="R113" n="0932b07"/><head>馴伏</head><lb
+ ed="X" n="0781b11"/><lb
+ ed="R113" n="0932b08"/><ab type='verse'>
+那裏隨來過這邊　　左盤右轉摠安然　　<lb
+ ed="X" n="0781b12"/><lb
+ ed="R113" n="0932b09"/>黃鸎呌得山花咲　　聲色中能不被牽　　
+</ab><lb
+ ed="X" n="0781b13"/><lb
+ ed="R113" n="0932b10"/><head>無碍</head><lb
+ ed="X" n="0781b14"/><lb
+ ed="R113" n="0932b11"/><ab type='verse'>
+脫落虗空萬象如　　人牛浪蕩不相拘　　<lb
+ ed="X" n="0781b15"/><lb
+ ed="R113" n="0932b12"/>鞭繩颺下無些子　　引興梅花一調餘　　
+</ab><lb
+ ed="X" n="0781b16"/><lb
+ ed="R113" n="0932b13"/><head>任運</head><lb
+ ed="X" n="0781b17"/><lb
+ ed="R113" n="0932b14"/><ab type='verse'>
+我自悠然一覺中　　任渠草徑玩纖茸　　<lb
+ ed="X" n="0781b18"/><lb
+ ed="R113" n="0932b15"/>落花沒膝春山晚　　猶潑紅霞錦繡濃　　
+</ab><lb
+ ed="X" n="0781b19"/><lb
+ ed="R113" n="0932b16"/><head>相忘</head><lb
+ ed="X" n="0781b20"/><lb
+ ed="R113" n="0932b17"/><ab type='verse'>
+白雲拖過月明中　　月與雲和一色同　　<lb
+ ed="X" n="0781b21"/><lb
+ ed="R113" n="0932b18"/>智境此時都不會　　何論南北與西東　　
+</ab><lb
+ ed="X" n="0781b22"/><lb
+ ed="R113" n="0933a01"/><head>獨照</head><lb
+ ed="X" n="0781b23"/><lb
+ ed="R113" n="0933a02"/><ab type='verse'>
+家破蕭然四壁閒　　於今雲淨月明間　　<lb
+ ed="X" n="0781b24"/><lb
+ ed="R113" n="0933a03"/>固非往日程途事　　尚好挨身拶過關　　
+</ab><pb ed="X" id="X64.1271.0781c" n="0781c"/><lb
+ ed="X" n="0781c01"/><lb
+ ed="R113" n="0933a04"/><head>雙泯</head><lb
+ ed="X" n="0781c02"/><lb
+ ed="R113" n="0933a05"/><ab type='verse'>
+劇盡何方覔影蹤　　不應空裏鏤虗空　　<lb
+ ed="X" n="0781c03"/><lb
+ ed="R113" n="0933a06"/>有誰道露堂堂地　　蜂蝶痴迷花底叢　　
+</ab><lb
+ ed="X" n="0781c04"/><lb
+ ed="R113" n="0933a07"/><head>一指菴大師和牧牛圖頌</head><lb
+ ed="X" n="0781c05"/><lb
+ ed="R113" n="0933a08"/><head>未牧</head><lb
+ ed="X" n="0781c06"/><lb
+ ed="R113" n="0933a09"/><ab type='verse'>
+東奔西觸縱狂哮　　越嶺盤溪不憚遙　　<lb
+ ed="X" n="0781c07"/><lb
+ ed="R113" n="0933a10"/>眼底只貪畦畔艸　　那知回首有靈苗　　
+</ab><lb
+ ed="X" n="0781c08"/><lb
+ ed="R113" n="0933a11"/><head>初調</head><lb
+ ed="X" n="0781c09"/><lb
+ ed="R113" n="0933a12"/><ab type='verse'>
+幾年鼻孔未經穿　　今日收來始著鞭　　<lb
+ ed="X" n="0781c10"/><lb
+ ed="R113" n="0933a13"/>揑定索頭無少緩　　一回入草一回牽　　
+</ab><lb
+ ed="X" n="0781c11"/><lb
+ ed="R113" n="0933a14"/><head>受制</head><lb
+ ed="X" n="0781c12"/><lb
+ ed="R113" n="0933a15"/><ab type='verse'>
+頑皮且喜罷驅馳　　我步溪邊他亦隨　　<lb
+ ed="X" n="0781c13"/><lb
+ ed="R113" n="0933a16"/>只恐柳絲拴不住　　孜孜照管略無疲　　
+</ab><lb
+ ed="X" n="0781c14"/><lb
+ ed="R113" n="0933a17"/><head>回首</head><lb
+ ed="X" n="0781c15"/><lb
+ ed="R113" n="0933a18"/><ab type='verse'>
+一自牽歸這一頭　　幾將鞭杖驗剛柔　　<lb
+ ed="X" n="0781c16"/><lb
+ ed="R113" n="0933b01"/>而今已蹈還家路　　嬾聽枝頭黃栗留　　
+</ab><lb
+ ed="X" n="0781c17"/><lb
+ ed="R113" n="0933b02"/><head>馴伏</head><lb
+ ed="X" n="0781c18"/><lb
+ ed="R113" n="0933b03"/><ab type='verse'>
+幾處低坡淺水邊　　相依相狎意陶然　　<lb
+ ed="X" n="0781c19"/><lb
+ ed="R113" n="0933b04"/>山雲欲暮歸村舍　　宛轉隨人不用牽　　
+</ab><lb
+ ed="X" n="0781c20"/><lb
+ ed="R113" n="0933b05"/><head>無碍</head><lb
+ ed="X" n="0781c21"/><lb
+ ed="R113" n="0933b06"/><ab type='verse'>
+水草尋常事事如　　任渠飲󲣅嬾相拘　　<lb
+ ed="X" n="0781c22"/><lb
+ ed="R113" n="0933b07"/>笛聲喚醒珊瑚月　　狼藉清光一點餘　　
+</ab><lb
+ ed="X" n="0781c23"/><lb
+ ed="R113" n="0933b08"/><head>任運</head><lb
+ ed="X" n="0781c24"/><lb
+ ed="R113" n="0933b09"/><ab type='verse'>
+緩步春山平麓中　　風和日暖草蒙茸　　<pb ed="X" id="X64.1271.0782a" n="0782a"/><lb
+ ed="X" n="0782a01"/><lb
+ ed="R113" n="0933b10"/>鼾󳬕一枕藤蘿石　　不管岩花色淡濃　　
+</ab><lb
+ ed="X" n="0782a02"/><lb
+ ed="R113" n="0933b11"/><head>相忘</head><lb
+ ed="X" n="0782a03"/><lb
+ ed="R113" n="0933b12"/><ab type='verse'>
+通身皎潔片雲中　　明月蘆花未許同　　<lb
+ ed="X" n="0782a04"/><lb
+ ed="R113" n="0933b13"/>謾道玉樓牕已曉　　金烏猶在海門東　　
+</ab><lb
+ ed="X" n="0782a05"/><lb
+ ed="R113" n="0933b14"/><head>獨照</head><lb
+ ed="X" n="0782a06"/><lb
+ ed="R113" n="0933b15"/><ab type='verse'>
+牛自空兮人自閑　　翛然獨步水雲間　　<lb
+ ed="X" n="0782a07"/><lb
+ ed="R113" n="0933b16"/>尚湏驀地翻身轉　　靠倒窮途最後關　　
+</ab><lb
+ ed="X" n="0782a08"/><lb
+ ed="R113" n="0933b17"/><head>雙泯</head><lb
+ ed="X" n="0782a09"/><lb
+ ed="R113" n="0933b18"/><ab type='verse'>
+皮毛蓑笠了無踪　　一片寒光墮碧空　　<lb
+ ed="X" n="0782a10"/><lb
+ ed="R113" n="0934a01"/>烟雨故園消息斷　　百花何處聞芳叢　　
+</ab><lb
+ ed="X" n="0782a11"/><lb
+ ed="R113" n="0934a02"/><head>𨍏轢道人嚴大參和牧牛圖頌</head><lb
+ ed="X" n="0782a12"/><lb
+ ed="R113" n="0934a03"/><head>未牧</head><lb
+ ed="X" n="0782a13"/><lb
+ ed="R113" n="0934a04"/><ab type='verse'>
+雲山堆裏一聲哮　　頭角宛然家信遙　　<lb
+ ed="X" n="0782a14"/><lb
+ ed="R113" n="0934a05"/>滿地閒花都踏遍　　那知異草并良苗　　
+</ab><lb
+ ed="X" n="0782a15"/><lb
+ ed="R113" n="0934a06"/><head>初調</head><lb
+ ed="X" n="0782a16"/><lb
+ ed="R113" n="0934a07"/><ab type='verse'>
+生獰如虎鼻難穿　　賴得牧童有索鞭　　<lb
+ ed="X" n="0782a17"/><lb
+ ed="R113" n="0934a08"/>不是一番施辣手　　個時劣性恐難牽　　
+</ab><lb
+ ed="X" n="0782a18"/><lb
+ ed="R113" n="0934a09"/><head>受制</head><lb
+ ed="X" n="0782a19"/><lb
+ ed="R113" n="0934a10"/><ab type='verse'>
+熟徑難忘欲逞馳　　芒繩在手緊相隨　　<lb
+ ed="X" n="0782a20"/><lb
+ ed="R113" n="0934a11"/>豈容逐草尋芳去　　晝夜拘拴不憚疲　　
+</ab><lb
+ ed="X" n="0782a21"/><lb
+ ed="R113" n="0934a12"/><head>迴首</head><lb
+ ed="X" n="0782a22"/><lb
+ ed="R113" n="0934a13"/><ab type='verse'>
+暫時落草即迴頭　　雲凍霜寒足已柔　　<lb
+ ed="X" n="0782a23"/><lb
+ ed="R113" n="0934a14"/>欲緩鞭繩尤未緩　　鄉關不到且拘留　　
+</ab><lb
+ ed="X" n="0782a24"/><lb
+ ed="R113" n="0934a15"/><head>馴伏</head><pb ed="X" id="X64.1271.0782b" n="0782b"/><lb
+ ed="X" n="0782b01"/><lb
+ ed="R113" n="0934a16"/><ab type='verse'>
+高深蹊徑曲無邊　　相押相馴已信然　　<lb
+ ed="X" n="0782b02"/><lb
+ ed="R113" n="0934a17"/>楊柳陰斜紅日轉　　鼻頭繩斷不須牽　　
+</ab><lb
+ ed="X" n="0782b03"/><lb
+ ed="R113" n="0934a18"/><head>無碍</head><lb
+ ed="X" n="0782b04"/><lb
+ ed="R113" n="0934b01"/><ab type='verse'>
+水草皇王總自如　　何須特地苦相拘　　<lb
+ ed="X" n="0782b05"/><lb
+ ed="R113" n="0934b02"/>山童撒手先高坐　　牛亦安然閒有餘　　
+</ab><lb
+ ed="X" n="0782b06"/><lb
+ ed="R113" n="0934b03"/><head>任運</head><lb
+ ed="X" n="0782b07"/><lb
+ ed="R113" n="0934b04"/><ab type='verse'>
+信步行來到此中　　山前山後草茸茸　　<lb
+ ed="X" n="0782b08"/><lb
+ ed="R113" n="0934b05"/>放渠散走陂塘去　　不似當年狂興濃　　
+</ab><lb
+ ed="X" n="0782b09"/><lb
+ ed="R113" n="0934b06"/><head>相忘</head><lb
+ ed="X" n="0782b10"/><lb
+ ed="R113" n="0934b07"/><ab type='verse'>
+太平氣象月明中　　爾我家山色色同　　<lb
+ ed="X" n="0782b11"/><lb
+ ed="R113" n="0934b08"/>袖手低眉忘管帶　　不知西去與來東　　
+</ab><lb
+ ed="X" n="0782b12"/><lb
+ ed="R113" n="0934b09"/><head>獨照</head><lb
+ ed="X" n="0782b13"/><lb
+ ed="R113" n="0934b10"/><ab type='verse'>
+蹤跡寥寥獨個閒　　渾然出處那其間　　<lb
+ ed="X" n="0782b14"/><lb
+ ed="R113" n="0934b11"/>自歌自唱空山下　　多少痴人認過關　　
+</ab><lb
+ ed="X" n="0782b15"/><lb
+ ed="R113" n="0934b12"/><head>雙泯</head><lb
+ ed="X" n="0782b16"/><lb
+ ed="R113" n="0934b13"/><ab type='verse'>
+人牛謾說絕形蹤　　何異吹風欲滿空　　<lb
+ ed="X" n="0782b17"/><lb
+ ed="R113" n="0934b14"/>若問還源親的旨　　參天荊棘亂叢叢　　
+</ab><lb
+ ed="X" n="0782b18"/><lb
+ ed="R113" n="0934b15"/><head>𨍏轢道人再和牧牛圖頌</head><lb
+ ed="X" n="0782b19"/><lb
+ ed="R113" n="0934b16"/><head>未牧</head><lb
+ ed="X" n="0782b20"/><lb
+ ed="R113" n="0934b17"/><ab type='verse'>
+牟牟聲响是渠哮　　欲覔頭踪轉展遙　　<lb
+ ed="X" n="0782b21"/><lb
+ ed="R113" n="0934b18"/>狹路相逢剛識得　　甘心饑餓不甞苗　　
+</ab><lb
+ ed="X" n="0782b22"/><lb
+ ed="R113" n="0935a01"/><head>初調</head><lb
+ ed="X" n="0782b23"/><lb
+ ed="R113" n="0935a02"/><ab type='verse'>
+孃生鼻孔未經穿　　痛處針錐痛處鞭　　<lb
+ ed="X" n="0782b24"/><lb
+ ed="R113" n="0935a03"/>漫道牧童施毒手　　恐渠馳逐倍加牽　　
+</ab><pb ed="X" id="X64.1271.0782c" n="0782c"/><lb
+ ed="X" n="0782c01"/><lb
+ ed="R113" n="0935a04"/><head>受制</head><lb
+ ed="X" n="0782c02"/><lb
+ ed="R113" n="0935a05"/><ab type='verse'>
+古路凄凄作麼馳　　他山岐曲肯相隨　　<lb
+ ed="X" n="0782c03"/><lb
+ ed="R113" n="0935a06"/>痴兒不把繩頭放　　牢繫虗空徒自疲　　
+</ab><lb
+ ed="X" n="0782c04"/><lb
+ ed="R113" n="0935a07"/><head>迴首</head><lb
+ ed="X" n="0782c05"/><lb
+ ed="R113" n="0935a08"/><ab type='verse'>
+自從蹈著這源頭　　骨力雖剛毛色柔　　<lb
+ ed="X" n="0782c06"/><lb
+ ed="R113" n="0935a09"/>日薄虞淵歸意急　　肯貪蒭艸故淹留　　
+</ab><lb
+ ed="X" n="0782c07"/><lb
+ ed="R113" n="0935a10"/><head>馴伏</head><lb
+ ed="X" n="0782c08"/><lb
+ ed="R113" n="0935a11"/><ab type='verse'>
+蹄跡團團古岸邊　　飢飡渴飲恣悠然　　<lb
+ ed="X" n="0782c09"/><lb
+ ed="R113" n="0935a12"/>東來西往皆平貼　　出外歸家總不牽　　
+</ab><lb
+ ed="X" n="0782c10"/><lb
+ ed="R113" n="0935a13"/><head>無碍</head><lb
+ ed="X" n="0782c11"/><lb
+ ed="R113" n="0935a14"/><ab type='verse'>
+嶺頭溪畔自如如　　竪走橫眠更不拘　　<lb
+ ed="X" n="0782c12"/><lb
+ ed="R113" n="0935a15"/>水草國王隨分給　　本來無欠亦無餘　　
+</ab><lb
+ ed="X" n="0782c13"/><lb
+ ed="R113" n="0935a16"/><head>任運</head><lb
+ ed="X" n="0782c14"/><lb
+ ed="R113" n="0935a17"/><ab type='verse'>
+牛兒閒放此山中　　臥草眠花飽綠茸　　<lb
+ ed="X" n="0782c15"/><lb
+ ed="R113" n="0935a18"/>圜圚從來渠不入　　逍遙自在興偏濃　　
+</ab><lb
+ ed="X" n="0782c16"/><lb
+ ed="R113" n="0935b01"/><head>相忘</head><lb
+ ed="X" n="0782c17"/><lb
+ ed="R113" n="0935b02"/><ab type='verse'>
+人牛共住碧岩中　　到處溪山雲月同　　<lb
+ ed="X" n="0782c18"/><lb
+ ed="R113" n="0935b03"/>猿鳥自啼花自咲　　水流西去岸移東　　
+</ab><lb
+ ed="X" n="0782c19"/><lb
+ ed="R113" n="0935b04"/><head>獨照</head><lb
+ ed="X" n="0782c20"/><lb
+ ed="R113" n="0935b05"/><ab type='verse'>
+脫盡皮毛得自閒　　翛然獨步水雲間　　<lb
+ ed="X" n="0782c21"/><lb
+ ed="R113" n="0935b06"/>可憐無限英靈漢　　開眼堂堂入死關　　
+</ab><lb
+ ed="X" n="0782c22"/><lb
+ ed="R113" n="0935b07"/><head>雙泯</head><lb
+ ed="X" n="0782c23"/><lb
+ ed="R113" n="0935b08"/><ab type='verse'>
+處處逢渠沒影踪　　碧天雲淨月輪空　　<lb
+ ed="X" n="0782c24"/><lb
+ ed="R113" n="0935b09"/>個中多少風流趣　　寶鴨香消錦繡叢　　
+</ab><pb ed="X" id="X64.1271.0783a" n="0783a"/><lb
+ ed="X" n="0783a01"/><lb
+ ed="R113" n="0935b10"/><head>𨍏轢道人三和牧牛圖頌</head><lb
+ ed="X" n="0783a02"/><lb
+ ed="R113" n="0935b11"/><head>未牧</head><lb
+ ed="X" n="0783a03"/><lb
+ ed="R113" n="0935b12"/><ab type='verse'>
+黎然體色驀然哮　　震地驚天用不遙　　<lb
+ ed="X" n="0783a04"/><lb
+ ed="R113" n="0935b13"/>嚼盡山花吸盡水　　不留常住一莖苗　　
+</ab><lb
+ ed="X" n="0783a05"/><lb
+ ed="R113" n="0935b14"/><head>初調</head><lb
+ ed="X" n="0783a06"/><lb
+ ed="R113" n="0935b15"/><ab type='verse'>
+鼻孔撩天不受穿　　誰能下手妄加鞭　　<lb
+ ed="X" n="0783a07"/><lb
+ ed="R113" n="0935b16"/>牧童縱有繩頭在　　枉費功夫著力牽　　
+</ab><lb
+ ed="X" n="0783a08"/><lb
+ ed="R113" n="0935b17"/><head>受制</head><lb
+ ed="X" n="0783a09"/><lb
+ ed="R113" n="0935b18"/><ab type='verse'>
+牛兒有脚自驅馳　　堪咲盲兒步步隨　　<lb
+ ed="X" n="0783a10"/><lb
+ ed="R113" n="0936a01"/>泥水溪深渾不染　　牽他入草得毋疲　　
+</ab><lb
+ ed="X" n="0783a11"/><lb
+ ed="R113" n="0936a02"/><head>迴首</head><lb
+ ed="X" n="0783a12"/><lb
+ ed="R113" n="0936a03"/><ab type='verse'>
+轉腦旋蹄錯路頭　　何分頑劣與剛柔　　<lb
+ ed="X" n="0783a13"/><lb
+ ed="R113" n="0936a04"/>驀然直去家鄉到　　不必淹淹在外留　　
+</ab><lb
+ ed="X" n="0783a14"/><lb
+ ed="R113" n="0936a05"/><head>馴伏</head><lb
+ ed="X" n="0783a15"/><lb
+ ed="R113" n="0936a06"/><ab type='verse'>
+散誕溪邊與艸邊　　要騎要下任安然　　<lb
+ ed="X" n="0783a16"/><lb
+ ed="R113" n="0936a07"/>索頭盤結牛頭上　　到處為家不用牽　　
+</ab><lb
+ ed="X" n="0783a17"/><lb
+ ed="R113" n="0936a08"/><head>無碍</head><lb
+ ed="X" n="0783a18"/><lb
+ ed="R113" n="0936a09"/><ab type='verse'>
+柳栢花街到處如　　犯人苗稼又何拘　　<lb
+ ed="X" n="0783a19"/><lb
+ ed="R113" n="0936a10"/>橫衝直撞都無碍　　窠臼掀翻無剩餘　　
+</ab><lb
+ ed="X" n="0783a20"/><lb
+ ed="R113" n="0936a11"/><head>任運</head><lb
+ ed="X" n="0783a21"/><lb
+ ed="R113" n="0936a12"/><ab type='verse'>
+夜半歸來月正中　　三生石上草茸茸　　<lb
+ ed="X" n="0783a22"/><lb
+ ed="R113" n="0936a13"/>太平休斬痴頑漢　　一任橫吹鐵笛濃　　
+</ab><lb
+ ed="X" n="0783a23"/><lb
+ ed="R113" n="0936a14"/><head>相忘</head><lb
+ ed="X" n="0783a24"/><lb
+ ed="R113" n="0936a15"/><ab type='verse'>
+󱕈󱐝㊀󳮀這○中　　黑白元來一色同　　<pb ed="X" id="X64.1271.0783b" n="0783b"/><lb
+ ed="X" n="0783b01"/><lb
+ ed="R113" n="0936a16"/>我不似渠渠似我　　誰分南北與西東　　
+</ab><lb
+ ed="X" n="0783b02"/><lb
+ ed="R113" n="0936a17"/><head>獨照</head><lb
+ ed="X" n="0783b03"/><lb
+ ed="R113" n="0936a18"/><ab type='verse'>
+牧他屎屁不曾閒　　鞭向無生眨眼間　　<lb
+ ed="X" n="0783b04"/><lb
+ ed="R113" n="0936b01"/>有意氣時添意氣　　何妨一鏃破三關　　
+</ab><lb
+ ed="X" n="0783b05"/><lb
+ ed="R113" n="0936b02"/><head>雙泯</head><lb
+ ed="X" n="0783b06"/><lb
+ ed="R113" n="0936b03"/><ab type='verse'>
+泥牛入海杳無蹤　　木馬嘶風向碧空　　<lb
+ ed="X" n="0783b07"/><lb
+ ed="R113" n="0936b04"/>個事若何重話會　　花開鐵樹閙叢叢　　
+</ab><lb
+ ed="X" n="0783b08"/><lb
+ ed="R113" n="0936b05"/><head>跛道人如念牧牛圖頌</head><lb
+ ed="X" n="0783b09"/><lb
+ ed="R113" n="0936b06"/><ab type='prose'>諸佛垂迹。祖師西來。無非發明此事。拈搥竪拂。熱棒<lb
+ ed="X" n="0783b10"/><lb
+ ed="R113" n="0936b07"/>熱喝。單提向上機輪。普明禪師假人法。重設牧牛圖<lb
+ ed="X" n="0783b11"/><lb
+ ed="R113" n="0936b08"/>頌。𨍏轢居士報佛恩。復興祖佛道場。大禪師錦上鋪<lb
+ ed="X" n="0783b12"/><lb
+ ed="R113" n="0936b09"/>花。跛道人𦘕龍點眼。長安風月貫今古。那箇男兒不<lb
+ ed="X" n="0783b13"/><lb
+ ed="R113" n="0936b10"/>丈夫。阿呵呵。好大哥。<lb
+ ed="X" n="0783b14"/><lb
+ ed="R113" n="0936b11"/><head>未牧</head><lb
+ ed="X" n="0783b15"/><lb
+ ed="R113" n="0936b12"/></ab>
+<ab type='verse'>
+頭角崢獰恣意哮　　溪山踏遍路迢遙　　<lb
+ ed="X" n="0783b16"/><lb
+ ed="R113" n="0936b13"/>牧童不把牛穿鼻　　難保狂心不犯苗　　
+</ab><lb
+ ed="X" n="0783b17"/><lb
+ ed="R113" n="0936b14"/><head>初調</head><lb
+ ed="X" n="0783b18"/><lb
+ ed="R113" n="0936b15"/><ab type='verse'>
+繩頭在手鼻兒穿　　性劣難調緊著鞭　　<lb
+ ed="X" n="0783b19"/><lb
+ ed="R113" n="0936b16"/>從此一番休放緩　　牧童須是要頻牽　　
+</ab><lb
+ ed="X" n="0783b20"/><lb
+ ed="R113" n="0936b17"/><head>受制</head><lb
+ ed="X" n="0783b21"/><lb
+ ed="R113" n="0936b18"/><ab type='verse'>
+劣性調柔漸息馳　　牽來步步已相隨　　<lb
+ ed="X" n="0783b22"/><lb
+ ed="R113" n="0937a01"/>牧童猶把精神抖　　到此渾然不覺疲　　
+</ab><lb
+ ed="X" n="0783b23"/><lb
+ ed="R113" n="0937a02"/><head>回首</head><lb
+ ed="X" n="0783b24"/><lb
+ ed="R113" n="0937a03"/><ab type='verse'>
+顛狂心盡始回頭　　功用無間牛自柔　　<pb ed="X" id="X64.1271.0783c" n="0783c"/><lb
+ ed="X" n="0783c01"/><lb
+ ed="R113" n="0937a04"/>信手牽歸明月下　　免從水草又停留　　
+</ab><lb
+ ed="X" n="0783c02"/><lb
+ ed="R113" n="0937a05"/><head>馴伏</head><lb
+ ed="X" n="0783c03"/><lb
+ ed="R113" n="0937a06"/><ab type='verse'>
+不計山邊與水邊　　了然無事自安然　　<lb
+ ed="X" n="0783c04"/><lb
+ ed="R113" n="0937a07"/>森羅萬象渾閑事　　從此牛兒不用牽　　
+</ab><lb
+ ed="X" n="0783c05"/><lb
+ ed="R113" n="0937a08"/><head>無碍</head><lb
+ ed="X" n="0783c06"/><lb
+ ed="R113" n="0937a09"/><ab type='verse'>
+獨露堂堂意自如　　安眠穩坐已無拘　　<lb
+ ed="X" n="0783c07"/><lb
+ ed="R113" n="0937a10"/>牧童短笛閑拈弄　　一曲橫吹樂有餘　　
+</ab><lb
+ ed="X" n="0783c08"/><lb
+ ed="R113" n="0937a11"/><head>任運</head><lb
+ ed="X" n="0783c09"/><lb
+ ed="R113" n="0937a12"/><ab type='verse'>
+識破元來只此中　　閑花野草任茸茸　　<lb
+ ed="X" n="0783c10"/><lb
+ ed="R113" n="0937a13"/>東西南北無遮障　　拍手高歌興正濃　　
+</ab><lb
+ ed="X" n="0783c11"/><lb
+ ed="R113" n="0937a14"/><head>想妄</head><lb
+ ed="X" n="0783c12"/><lb
+ ed="R113" n="0937a15"/><ab type='verse'>
+白牛只在白雲中　　渴飲饑飡總是同　　<lb
+ ed="X" n="0783c13"/><lb
+ ed="R113" n="0937a16"/>閑著山童石上立　　此間那復問西東　　
+</ab><lb
+ ed="X" n="0783c14"/><lb
+ ed="R113" n="0937a17"/><head>獨照</head><lb
+ ed="X" n="0783c15"/><lb
+ ed="R113" n="0937a18"/><ab type='verse'>
+牛兒無跡地閑閑　　明月團圞只此間　　<lb
+ ed="X" n="0783c16"/><lb
+ ed="R113" n="0937b01"/>自有一雙窮相手　　一拳直透萬重關　　
+</ab><lb
+ ed="X" n="0783c17"/><lb
+ ed="R113" n="0937b02"/><head>雙泯</head><lb
+ ed="X" n="0783c18"/><lb
+ ed="R113" n="0937b03"/><ab type='verse'>
+人牛俱泯杳無蹤　　水在長江月在空　　<lb
+ ed="X" n="0783c19"/><lb
+ ed="R113" n="0937b04"/>猿抱子歸青嶂裡　　鳥󰴌花落碧嵓叢　　
+</ab><lb
+ ed="X" n="0783c20"/><lb
+ ed="R113" n="0937b05"/><head>無依道人和牧牛圖頌</head><lb
+ ed="X" n="0783c21"/><lb
+ ed="R113" n="0937b06"/><head>未牧</head><lb
+ ed="X" n="0783c22"/><lb
+ ed="R113" n="0937b07"/><ab type='verse'>
+頭角未露一聲哮　　自在縱橫去路遙　　<lb
+ ed="X" n="0783c23"/><lb
+ ed="R113" n="0937b08"/>黑白始分牝牡相　　生來柔順長靈苗　　
+</ab><lb
+ ed="X" n="0783c24"/><lb
+ ed="R113" n="0937b09"/><head>初調</head><pb ed="X" id="X64.1271.0784a" n="0784a"/><lb
+ ed="X" n="0784a01"/><lb
+ ed="R113" n="0937b10"/><ab type='verse'>
+順性今朝也受穿　　何煩童子又加鞭　　<lb
+ ed="X" n="0784a02"/><lb
+ ed="R113" n="0937b11"/>線索在手隨時轉　　到處風光無掛牽　　
+</ab><lb
+ ed="X" n="0784a03"/><lb
+ ed="R113" n="0937b12"/><head>受制</head><lb
+ ed="X" n="0784a04"/><lb
+ ed="R113" n="0937b13"/><ab type='verse'>
+踏著溪山便騁馳　　朝行暮宿緊相隨　　<lb
+ ed="X" n="0784a05"/><lb
+ ed="R113" n="0937b14"/>一回飲水一回脹　　悠悠負載不辭疲　　
+</ab><lb
+ ed="X" n="0784a06"/><lb
+ ed="R113" n="0937b15"/><head>回首</head><lb
+ ed="X" n="0784a07"/><lb
+ ed="R113" n="0937b16"/><ab type='verse'>
+堪悲烈性不回頭　　幸得天生稟性柔　　<lb
+ ed="X" n="0784a08"/><lb
+ ed="R113" n="0937b17"/>遍界落花忘踐履　　烟雲客路莫停留　　
+</ab><lb
+ ed="X" n="0784a09"/><lb
+ ed="R113" n="0937b18"/><head>馴伏</head><lb
+ ed="X" n="0784a10"/><lb
+ ed="R113" n="0938a01"/><ab type='verse'>
+不分內外與中邊　　束縛無拘意灑然　　<lb
+ ed="X" n="0784a11"/><lb
+ ed="R113" n="0938a02"/>信步行來皆坦道　　騰騰任運總無牽　　
+</ab><lb
+ ed="X" n="0784a12"/><lb
+ ed="R113" n="0938a03"/><head>無碍</head><lb
+ ed="X" n="0784a13"/><lb
+ ed="R113" n="0938a04"/><ab type='verse'>
+萬別千差性本如　　超群惟此性無拘　　<lb
+ ed="X" n="0784a14"/><lb
+ ed="R113" n="0938a05"/>一身負荷皆全力　　本分何曾有欠餘　　
+</ab><lb
+ ed="X" n="0784a15"/><lb
+ ed="R113" n="0938a06"/><head>任運</head><lb
+ ed="X" n="0784a16"/><lb
+ ed="R113" n="0938a07"/><ab type='verse'>
+暫爾息肩臥雲中　　忽長新芽生意茸　　<lb
+ ed="X" n="0784a17"/><lb
+ ed="R113" n="0938a08"/>引重致遠隨意適　　箇中獨步興偏濃　　
+</ab><lb
+ ed="X" n="0784a18"/><lb
+ ed="R113" n="0938a09"/><head>相忘</head><lb
+ ed="X" n="0784a19"/><lb
+ ed="R113" n="0938a10"/><ab type='verse'>
+忽忘管帶太虗中　　渴飲饑餐處處同　　<lb
+ ed="X" n="0784a20"/><lb
+ ed="R113" n="0938a11"/>物我盡捐知解淨　　如日西升夜落東　　
+</ab><lb
+ ed="X" n="0784a21"/><lb
+ ed="R113" n="0938a12"/><head>獨照</head><lb
+ ed="X" n="0784a22"/><lb
+ ed="R113" n="0938a13"/><ab type='verse'>
+得安閒處且安閒　　不留轍跡在人間　　<lb
+ ed="X" n="0784a23"/><lb
+ ed="R113" n="0938a14"/>瞥爾英明了達去　　踢倒銀山鐵壁關　　
+</ab><lb
+ ed="X" n="0784a24"/><lb
+ ed="R113" n="0938a15"/><head>雙泯</head><pb ed="X" id="X64.1271.0784b" n="0784b"/><lb
+ ed="X" n="0784b01"/><lb
+ ed="R113" n="0938a16"/><ab type='verse'>
+隔墻清聽絕無踪　　形影孤寒照碧空　　<lb
+ ed="X" n="0784b02"/><lb
+ ed="R113" n="0938a17"/>窓楞已過渾無事　　又何精舍竹林叢　　
+</ab><lb
+ ed="X" n="0784b03"/><lb
+ ed="R113" n="0938a18"/><head>牧公道人項真本和牧牛圖頌</head><lb
+ ed="X" n="0784b04"/><lb
+ ed="R113" n="0938b01"/><head>未牧</head><lb
+ ed="X" n="0784b05"/><lb
+ ed="R113" n="0938b02"/><ab type='verse'>
+青山綠水恣咆哮　　四顧三回路轉遙　　<lb
+ ed="X" n="0784b06"/><lb
+ ed="R113" n="0938b03"/>只管貪程為太速　　何知日用犯佳苗　　
+</ab><lb
+ ed="X" n="0784b07"/><lb
+ ed="R113" n="0938b04"/><head>初調</head><lb
+ ed="X" n="0784b08"/><lb
+ ed="R113" n="0938b05"/><ab type='verse'>
+纔見牛兮驀鼻穿　　麤浮習氣急加鞭　　<lb
+ ed="X" n="0784b09"/><lb
+ ed="R113" n="0938b06"/>那時掘強橫馳走　　把定繩頭好一牽　　
+</ab><lb
+ ed="X" n="0784b10"/><lb
+ ed="R113" n="0938b07"/><head>受制</head><lb
+ ed="X" n="0784b11"/><lb
+ ed="R113" n="0938b08"/><ab type='verse'>
+四蹄今已息奔馳　　放去收來無不隨　　<lb
+ ed="X" n="0784b12"/><lb
+ ed="R113" n="0938b09"/>且喜鞭繩猶把握　　牧童何肯自為疲　　
+</ab><lb
+ ed="X" n="0784b13"/><lb
+ ed="R113" n="0938b10"/><head>回首</head><lb
+ ed="X" n="0784b14"/><lb
+ ed="R113" n="0938b11"/><ab type='verse'>
+溪山踏徧自回頭　　熟處生時性漸柔　　<lb
+ ed="X" n="0784b15"/><lb
+ ed="R113" n="0938b12"/>鼻貫一條成底事　　不勞腕力暫相留　　
+</ab><lb
+ ed="X" n="0784b16"/><lb
+ ed="R113" n="0938b13"/><head>馴伏</head><lb
+ ed="X" n="0784b17"/><lb
+ ed="R113" n="0938b14"/><ab type='verse'>
+左盤右轉碧溪邊　　撇下鞭繩樂自然　　<lb
+ ed="X" n="0784b18"/><lb
+ ed="R113" n="0938b15"/>幾度綠楊歸夜月　　山童高臥竟忘牽　　
+</ab><lb
+ ed="X" n="0784b19"/><lb
+ ed="R113" n="0938b16"/><head>無碍</head><lb
+ ed="X" n="0784b20"/><lb
+ ed="R113" n="0938b17"/><ab type='verse'>
+掉尾擎頭適自如　　縱橫脫略有何拘　　<lb
+ ed="X" n="0784b21"/><lb
+ ed="R113" n="0938b18"/>悠然一曲寒崖上　　短笛吹開物外餘　　
+</ab><lb
+ ed="X" n="0784b22"/><lb
+ ed="R113" n="0939a01"/><head>任運</head><lb
+ ed="X" n="0784b23"/><lb
+ ed="R113" n="0939a02"/><ab type='verse'>
+飢飡渴飲絕邊中　　倦即和雲臥草茸　　<lb
+ ed="X" n="0784b24"/><lb
+ ed="R113" n="0939a03"/>驟步任教青嶂外　　滿腔風月興偏濃　　
+</ab><pb ed="X" id="X64.1271.0784c" n="0784c"/><lb
+ ed="X" n="0784c01"/><lb
+ ed="R113" n="0939a04"/><head>相忘</head><lb
+ ed="X" n="0784c02"/><lb
+ ed="R113" n="0939a05"/><ab type='verse'>
+人牛共住此山中　　動轉施為絕異同　　<lb
+ ed="X" n="0784c03"/><lb
+ ed="R113" n="0939a06"/>我本是渠渠即我　　不知南北與西東　　
+</ab><lb
+ ed="X" n="0784c04"/><lb
+ ed="R113" n="0939a07"/><head>獨照</head><lb
+ ed="X" n="0784c05"/><lb
+ ed="R113" n="0939a08"/><ab type='verse'>
+牛無方所牧童閒　　懶把虗名落世間　　<lb
+ ed="X" n="0784c06"/><lb
+ ed="R113" n="0939a09"/>盡大地來無我我　　不消彈指透重關　　
+</ab><lb
+ ed="X" n="0784c07"/><lb
+ ed="R113" n="0939a10"/><head>雙泯</head><lb
+ ed="X" n="0784c08"/><lb
+ ed="R113" n="0939a11"/><ab type='verse'>
+人牛兩盡沒形踪　　今古相酧劫亦空　　<lb
+ ed="X" n="0784c09"/><lb
+ ed="R113" n="0939a12"/>本地風光一段事　　歲寒松栢翠叢叢　　
+</ab><lb
+ ed="X" n="0784c10"/><lb
+ ed="R113" n="0939a13"/><head>巨徹禪師和牧牛圖頌</head><lb
+ ed="X" n="0784c11"/><lb
+ ed="R113" n="0939a14"/><head>未牧</head><lb
+ ed="X" n="0784c12"/><lb
+ ed="R113" n="0939a15"/><ab type='verse'>
+縱頑恃劣逞咆哮　　遽隔鄉關十萬遙　　<lb
+ ed="X" n="0784c13"/><lb
+ ed="R113" n="0939a16"/>客路茫茫雲霧黑　　無明草長蔽靈苗　　
+</ab><lb
+ ed="X" n="0784c14"/><lb
+ ed="R113" n="0939a17"/><head>初調</head><lb
+ ed="X" n="0784c15"/><lb
+ ed="R113" n="0939a18"/><ab type='verse'>
+爾慣狂馳我慣穿　　一回繩繫幾回鞭　　<lb
+ ed="X" n="0784c16"/><lb
+ ed="R113" n="0939b01"/>拖泥帶水忘晨夕　　痛徹心頭猛力牽　　
+</ab><lb
+ ed="X" n="0784c17"/><lb
+ ed="R113" n="0939b02"/><head>受制</head><lb
+ ed="X" n="0784c18"/><lb
+ ed="R113" n="0939b03"/><ab type='verse'>
+把定繩頭禁枉馳　　行行住住緊相隨　　<lb
+ ed="X" n="0784c19"/><lb
+ ed="R113" n="0939b04"/>施為動轉憑渠力　　從此心神爾不疲　　
+</ab><lb
+ ed="X" n="0784c20"/><lb
+ ed="R113" n="0939b05"/><head>迴首</head><lb
+ ed="X" n="0784c21"/><lb
+ ed="R113" n="0939b06"/><ab type='verse'>
+繫轉從前這一頭　　消融劣性至溫柔　　<lb
+ ed="X" n="0784c22"/><lb
+ ed="R113" n="0939b07"/>波光雲影香風度　　柳岸花溪得意留　　
+</ab><lb
+ ed="X" n="0784c23"/><lb
+ ed="R113" n="0939b08"/><head>馴伏</head><lb
+ ed="X" n="0784c24"/><lb
+ ed="R113" n="0939b09"/><ab type='verse'>
+灑落殘山剩水邊　　縱橫收放總恬然　　<pb ed="X" id="X64.1271.0785a" n="0785a"/><lb
+ ed="X" n="0785a01"/><lb
+ ed="R113" n="0939b10"/>歸途坦蕩渾無滯　　所欲從心了不牽　　
+</ab><lb
+ ed="X" n="0785a02"/><lb
+ ed="R113" n="0939b11"/><head>無碍</head><lb
+ ed="X" n="0785a03"/><lb
+ ed="R113" n="0939b12"/><ab type='verse'>
+霽月光風得晏如　　牛閒何物可相拘　　<lb
+ ed="X" n="0785a04"/><lb
+ ed="R113" n="0939b13"/>山童箕踞長松下　　一曲無生笛尚餘　　
+</ab><lb
+ ed="X" n="0785a05"/><lb
+ ed="R113" n="0939b14"/><head>任運</head><lb
+ ed="X" n="0785a06"/><lb
+ ed="R113" n="0939b15"/><ab type='verse'>
+閒閒不繫有無中　　任運餐憑空翠茸　　<lb
+ ed="X" n="0785a07"/><lb
+ ed="R113" n="0939b16"/>野鳥競啼花競笑　　黑甜石上味深濃　　
+</ab><lb
+ ed="X" n="0785a08"/><lb
+ ed="R113" n="0939b17"/><head>相忘</head><lb
+ ed="X" n="0785a09"/><lb
+ ed="R113" n="0939b18"/><ab type='verse'>
+白淨牛全在個中　　渾忘爾我本然同　　<lb
+ ed="X" n="0785a10"/><lb
+ ed="R113" n="0940a01"/>溪山是處堪憑眺　　南北無拘西與東　　
+</ab><lb
+ ed="X" n="0785a11"/><lb
+ ed="R113" n="0940a02"/><head>獨照</head><lb
+ ed="X" n="0785a12"/><lb
+ ed="R113" n="0940a03"/><ab type='verse'>
+生涯廓徹賣清閒　　空手高擡到此間　　<lb
+ ed="X" n="0785a13"/><lb
+ ed="R113" n="0940a04"/>滿口難酧無比價　　幾人買過劫前關　　
+</ab><lb
+ ed="X" n="0785a14"/><lb
+ ed="R113" n="0940a05"/><head>雙泯</head><lb
+ ed="X" n="0785a15"/><lb
+ ed="R113" n="0940a06"/><ab type='verse'>
+韜光晦迹絕遺蹤　　不二人牛泯太空　　<lb
+ ed="X" n="0785a16"/><lb
+ ed="R113" n="0940a07"/>無極香風流劫外　　莫教蜂蝶誤花叢　　
+</ab><lb
+ ed="X" n="0785a17"/><lb
+ ed="R113" n="0940a08"/><head>巨徹禪師和白牛圖頌</head><lb
+ ed="X" n="0785a18"/><lb
+ ed="R113" n="0940a09"/><head>失牛</head><lb
+ ed="X" n="0785a19"/><lb
+ ed="R113" n="0940a10"/><ab type='verse'>
+牛尚牛兮童尚童　　童牛背向各西東　　<lb
+ ed="X" n="0785a20"/><lb
+ ed="R113" n="0940a11"/>纖塵不隔何霄壤　　曠劫來今枉自懵　　
+</ab><lb
+ ed="X" n="0785a21"/><lb
+ ed="R113" n="0940a12"/><head>尋牛</head><lb
+ ed="X" n="0785a22"/><lb
+ ed="R113" n="0940a13"/><ab type='verse'>
+忽向山童問白牛　　山童罔措不知求　　<lb
+ ed="X" n="0785a23"/><lb
+ ed="R113" n="0940a14"/>傍人識得牛蹤跡　　指點山童急轉頭　　
+</ab><lb
+ ed="X" n="0785a24"/><lb
+ ed="R113" n="0940a15"/><head>見迹</head><pb ed="X" id="X64.1271.0785b" n="0785b"/><lb
+ ed="X" n="0785b01"/><lb
+ ed="R113" n="0940a16"/><ab type='verse'>
+堤回陌轉向溪西　　一路深蹄間淺蹄　　<lb
+ ed="X" n="0785b02"/><lb
+ ed="R113" n="0940a17"/>端的新知尋舊識　　人牛到此兩無迷　　
+</ab><lb
+ ed="X" n="0785b03"/><lb
+ ed="R113" n="0940a18"/><head>見牛</head><lb
+ ed="X" n="0785b04"/><lb
+ ed="R113" n="0940b01"/><ab type='verse'>
+行盡山村過水村　　草中忽見白牛蹲　　<lb
+ ed="X" n="0785b05"/><lb
+ ed="R113" n="0940b02"/>欣欣穩步方輕快　　喘息初調與細論　　
+</ab><lb
+ ed="X" n="0785b06"/><lb
+ ed="R113" n="0940b03"/><head>得牛</head><lb
+ ed="X" n="0785b07"/><lb
+ ed="R113" n="0940b04"/><ab type='verse'>
+䟦涉溪山豈憚勞　　白牛頓獲價彌高　　<lb
+ ed="X" n="0785b08"/><lb
+ ed="R113" n="0940b05"/>快心久別重相契　　善撫從容喜伏弢　　
+</ab><lb
+ ed="X" n="0785b09"/><lb
+ ed="R113" n="0940b06"/><head>護牛</head><lb
+ ed="X" n="0785b10"/><lb
+ ed="R113" n="0940b07"/><ab type='verse'>
+牛適人閒却瘦肥　　風清月白久忘飢　　<lb
+ ed="X" n="0785b11"/><lb
+ ed="R113" n="0940b08"/>幽香野綠盈山谷　　幾度朝暉映夕暉　　
+</ab><lb
+ ed="X" n="0785b12"/><lb
+ ed="R113" n="0940b09"/><head>騎歸</head><lb
+ ed="X" n="0785b13"/><lb
+ ed="R113" n="0940b10"/><ab type='verse'>
+放曠騎歸世所稀　　柳絲鞭影任風揮　　<lb
+ ed="X" n="0785b14"/><lb
+ ed="R113" n="0940b11"/>山童吹徹無生曲　　笛韻餘暉入禁闈　　
+</ab><lb
+ ed="X" n="0785b15"/><lb
+ ed="R113" n="0940b12"/><head>忘牛</head><lb
+ ed="X" n="0785b16"/><lb
+ ed="R113" n="0940b13"/><ab type='verse'>
+白牯渾忘無剩蹤　　踈狂牧竪嘯孤峯　　<lb
+ ed="X" n="0785b17"/><lb
+ ed="R113" n="0940b14"/>山河倒映蟾蜍轉　　玉露泠泠光影重　　
+</ab><lb
+ ed="X" n="0785b18"/><lb
+ ed="R113" n="0940b15"/><head>雙泯</head><lb
+ ed="X" n="0785b19"/><lb
+ ed="R113" n="0940b16"/><ab type='verse'>
+樓閣重重彈指開　　本無餘欠七般財　　<lb
+ ed="X" n="0785b20"/><lb
+ ed="R113" n="0940b17"/>空傳五十三家醜　　泯却人牛大夢回　　
+</ab><lb
+ ed="X" n="0785b21"/><lb
+ ed="R113" n="0940b18"/><head>入廛</head><lb
+ ed="X" n="0785b22"/><lb
+ ed="R113" n="0941a01"/><ab type='verse'>
+賣弄閒閒白牯牛　　入廛垂手恣遨遊　　<lb
+ ed="X" n="0785b23"/><lb
+ ed="R113" n="0941a02"/>同流九界慈風度　　心佛眾生無別求　　
+</ab></div>
+</body></text></TEI>

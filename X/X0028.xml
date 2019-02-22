@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">造像量度經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X01</biblScope>
+                    <idno type="Taisho">X01n0028</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X01.0028.0454c" n="0454c"/><lb
+ ed="X" n="0454c01"/><lb
+ ed="X" n="0454c02"/><lb
+ ed="X" n="0454c03"/><lb
+ ed="X" n="0454c04"/><lb
+ ed="X" n="0454c05"/><lb
+ ed="X" n="0454c06"/><lb
+ ed="R087" n="0678a01"/>
+<ab type='juan' subtype='open'>佛說造像量度經</ab><lb
+ ed="X" n="0454c07"/><lb
+ ed="X" n="0454c08"/><lb
+ ed="R087" n="0678a02"/><byline>大清內閣掌譯番蒙諸文西番學總管儀賓<lb
+ ed="X" n="0454c09"/><lb
+ ed="R087" n="0678a03"/>　工布查布　譯</byline><lb
+ ed="X" n="0454c10"/><lb
+ ed="R087" n="0678a04"/><div type='' level='1'><ab type='prose'>如是我聞。一時佛在舍衛國。祇樹給孤獨園。與諸菩<lb
+ ed="X" n="0454c11"/><lb
+ ed="R087" n="0678a05"/>薩聲聞弟子。一切人天龍神。無量眷屬大眾俱。正乃<lb
+ ed="X" n="0454c12"/><lb
+ ed="R087" n="0678a06"/>世尊。因為母說法。將升忉利天土時也。爾時賢者舍<lb
+ ed="X" n="0454c13"/><lb
+ ed="R087" n="0678a07"/>利弗。向佛敬禮而作是言。世尊不住斯間。若有善人<lb
+ ed="X" n="0454c14"/><lb
+ ed="R087" n="0678a08"/>不勝懷慕。思覩世尊。願造容像者。則其法如何為之。<lb
+ ed="X" n="0454c15"/><lb
+ ed="R087" n="0678a09"/>佛言。善哉舍利弗。我今暫升天土。未旋斯間。或示無<lb
+ ed="X" n="0454c16"/><lb
+ ed="R087" n="0678a10"/>餘涅槃之後。若有善人。思覩瞻仰。及為自他利益作<lb
+ ed="X" n="0454c17"/><lb
+ ed="R087" n="0678a11"/>福田故。願造容像者。則須遵準量度法為之。如來身<lb
+ ed="X" n="0454c18"/><lb
+ ed="R087" n="0678a12"/>量。縱廣相稱。如尼拘𡀩陀樹。滿自一尋。今其體肢<lb
+ ed="X" n="0454c19"/><lb
+ ed="R087" n="0678a13"/>大小節分。豎橫制度。起從頂髻。略說於汝。諦聽。善思<lb
+ ed="X" n="0454c20"/><lb
+ ed="R087" n="0678a14"/>念之。於是世尊即說伽陀曰。<lb
+ ed="X" n="0454c21"/><lb
+ ed="R087" n="0678a15"/>以自手指量。百有二十指。肉髻崇四指。髮際亦如此。<lb
+ ed="X" n="0454c22"/><lb
+ ed="R087" n="0678a16"/>面輪豎縱度。帶半十二指。分三為額鼻。及頦俱得一。<lb
+ ed="X" n="0454c23"/><lb
+ ed="R087" n="0678a17"/>下分四指半。頦身只二指。廣向十六足。深分逕四指。<lb
+ ed="X" n="0454c24"/><lb
+ ed="R087" n="0678a18"/>上唇長二指。寬有其半矣。中顯頻婆形。邊角各一指。<pb ed="X" id="X01.0028.0455a" n="0455a"/><lb
+ ed="X" n="0455a01"/><lb
+ ed="R087" n="0678b01"/>口長度四指。賢者須要知。牙齒數四十。堅密白淨齊。<lb
+ ed="X" n="0455a02"/><lb
+ ed="R087" n="0678b02"/>下唇長六足。寬深亦如是。人中凹槽闊。三分指之一。<lb
+ ed="X" n="0455a03"/><lb
+ ed="R087" n="0678b03"/>鼻寬二指量。準高指半矣。鼻孔圓且藏。竅闊有半指。<lb
+ ed="X" n="0455a04"/><lb
+ ed="R087" n="0678b04"/>雙翅勻真圓。鼻柱橫半指。目間曠八足。長分應四指。<lb
+ ed="X" n="0455a05"/><lb
+ ed="R087" n="0678b05"/>白黑睛三分。各分得滿指。黑珠作五分。正中是眸子。<lb
+ ed="X" n="0455a06"/><lb
+ ed="R087" n="0678b06"/>眼寬只一足。其胞有三指。式如蓮花瓣。清瑩金精色。<lb
+ ed="X" n="0455a07"/><lb
+ ed="R087" n="0678b07"/>印堂白毫地。廣帶半一指。眉如初月牙。中高長四指。<lb
+ ed="X" n="0455a08"/><lb
+ ed="R087" n="0678b08"/>耳廣有二指。尖等眉中齊。洞明寬四足。竅孔得半指。<lb
+ ed="X" n="0455a09"/><lb
+ ed="R087" n="0678b09"/>耳朵高四麥。橫分應滿指。耳內上下略。四分指之一。<lb
+ ed="X" n="0455a10"/><lb
+ ed="R087" n="0678b10"/>連槽深分總。二指加半指。耳葉四指半。耳垂長五指。<lb
+ ed="X" n="0455a11"/><lb
+ ed="R087" n="0678b11"/>輪郭髮際邊。可愛盡難比。首圍面三倍。如寶葢適意。<lb
+ ed="X" n="0455a12"/><lb
+ ed="R087" n="0678b12"/>兩耳面相去。十有八布指。復其背後間。相去十四指。<lb
+ ed="X" n="0455a13"/><lb
+ ed="R087" n="0678b13"/>合較週匝度。三十有六指。頸瓶廣八指。圓二十四指。<lb
+ ed="X" n="0455a14"/><lb
+ ed="R087" n="0678b14"/>頸邊至肩甲。平量十二指。手長總四搩。臑長二十指。<lb
+ ed="X" n="0455a15"/><lb
+ ed="R087" n="0678b15"/>臂有十六指。巨週亦如此。肩尖圓且滿。根圍二十四。<lb
+ ed="X" n="0455a16"/><lb
+ ed="R087" n="0678b16"/>從起中指尖。手頭正一搩。掌縱應七指。廣分是五指。<lb
+ ed="X" n="0455a17"/><lb
+ ed="R087" n="0678b17"/>掌肉平飽滿。滋潤光滑赤。顯諸吉祥紋。螺輪華鈎飾。<lb
+ ed="X" n="0455a18"/><lb
+ ed="R087" n="0678b18"/>將指之長分。前面得五指。此指梢節中。食指之尖至。<lb
+ ed="X" n="0455a19"/><lb
+ ed="R087" n="0679a01"/>屈指之長分。比將矮半指。小梅指頭尖。至屈末半節。<lb
+ ed="X" n="0455a20"/><lb
+ ed="R087" n="0679a02"/>四皆具三節。甲葢半節矣。巨指長四指。其週亦如是。<lb
+ ed="X" n="0455a21"/><lb
+ ed="R087" n="0679a03"/>此指只兩節。甲遮如前矣。巨指食指根。相去應三指。<lb
+ ed="X" n="0455a22"/><lb
+ ed="R087" n="0679a04"/>小指根以下。四指半至基。項心󰏩乳間。帶半十二指。<lb
+ ed="X" n="0455a23"/><lb
+ ed="R087" n="0679a05"/>自乳尖至腋。平量六指矣。兩腋相去度。二十有五指。<lb
+ ed="X" n="0455a24"/><lb
+ ed="R087" n="0679a06"/>胸堂週圍繞。正五十六指。自從雙乳絣。十六指至󰏩。<pb ed="X" id="X01.0028.0455b" n="0455b"/><lb
+ ed="X" n="0455b01"/><lb
+ ed="R087" n="0679a07"/>󰏩圓有摺旋。深闊皆一指。此處腰圍繞。四十有八指。<lb
+ ed="X" n="0455b02"/><lb
+ ed="R087" n="0679a08"/>髀樞邊向裏。平量廿四指。從󰏩至陰藏。滿搩加半指。<lb
+ ed="X" n="0455b03"/><lb
+ ed="R087" n="0679a09"/>陰藏如馬王。密囊有四指。股奘三十二。長二十五指。<lb
+ ed="X" n="0455b04"/><lb
+ ed="R087" n="0679a10"/>近膝圍繞度。二十有八指。連節膝四指。踝骨縱三指。<lb
+ ed="X" n="0455b05"/><lb
+ ed="R087" n="0679a11"/>鹿腨纖圓直。長二十五指。中間週圍繞。二十有一指。<lb
+ ed="X" n="0455b06"/><lb
+ ed="R087" n="0679a12"/>踝圍十四指。其邊寬二指。以下四指踵。凸闊得三指。<lb
+ ed="X" n="0455b07"/><lb
+ ed="R087" n="0679a13"/>足底豎一搩。厚分有二指。四指俱三節。甲遮末半矣。<lb
+ ed="X" n="0455b08"/><lb
+ ed="R087" n="0679a14"/>將指惟二節。圍繞五指是。長度滿三指。食指亦如是。<lb
+ ed="X" n="0455b09"/><lb
+ ed="R087" n="0679a15"/>十六次八分。中屈及小指。大指厚六足。餘漸止滿指。<lb
+ ed="X" n="0455b10"/><lb
+ ed="R087" n="0679a16"/>指根連縵網。趺高如龜背。掌平滿柔輭。滋潤色丹赤。<lb
+ ed="X" n="0455b11"/><lb
+ ed="R087" n="0679a17"/>輪螺吉祥字。諸妙相深微。如是如來相。一切福德備。<lb
+ ed="X" n="0455b12"/><lb
+ ed="R087" n="0679a18"/>佛說此經已。賢者舍利弗。及諸弟子。一切大眾。聞佛<lb
+ ed="X" n="0455b13"/><lb
+ ed="R087" n="0679b01"/>所說。皆大歡喜。信受奉行。<lb
+ ed="X" n="0455b14"/><lb
+ ed="X" n="0455b15"/><lb
+ ed="R087" n="0679b03"/>
+</ab><ab type='juan' subtype='close'>佛說造像量度經</ab></div>
+</body></text></TEI>

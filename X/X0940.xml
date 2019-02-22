@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">學天台宗法門大意</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X56</biblScope>
+                    <idno type="Taisho">X56n0940</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X56.0940.0669b" n="0669b"/><lb
+ ed="X" n="0669b01"/><lb
+ ed="X" n="0669b02"/><lb
+ ed="X" n="0669b03"/><lb
+ ed="X" n="0669b04"/><lb
+ ed="X" n="0669b05"/><lb
+ ed="X" n="0669b06"/><lb
+ ed="R100" n="0803a01"/>
+<ab type='juan' subtype='open'>學天台宗法門大意</ab><lb
+ ed="X" n="0669b07"/><lb
+ ed="X" n="0669b08"/><lb
+ ed="R100" n="0803a02"/><byline>天台沙門　行滿</byline><lb
+ ed="X" n="0669b09"/><lb
+ ed="R100" n="0803a03"/><div type='' level='1'><ab type='prose'>今依大師教門五時說經八教釋義如來出世一代<lb
+ ed="X" n="0669b10"/><lb
+ ed="R100" n="0803a04"/>化儀不出此八收攝具足言五時者依大經云從牛<lb
+ ed="X" n="0669b11"/><lb
+ ed="R100" n="0803a05"/>出乳喻佛說十二部經圓滿修多羅華嚴頓教最初<lb
+ ed="X" n="0669b12"/><lb
+ ed="R100" n="0803a06"/>之說名第一時次從乳出酪喻佛從修多羅說四阿<lb
+ ed="X" n="0669b13"/><lb
+ ed="R100" n="0803a07"/>含十二年前小乘三藏名第二時次從酪出生蘇喻<lb
+ ed="X" n="0669b14"/><lb
+ ed="R100" n="0803a08"/>佛十二年後說方等典名第三時次從生蘇出熟蘇<lb
+ ed="X" n="0669b15"/><lb
+ ed="R100" n="0803a09"/>喻佛從方等後說諸部般若始自色心終乎種智皆<lb
+ ed="X" n="0669b16"/><lb
+ ed="R100" n="0803a10"/>摩訶衍名第四時次從熟蘇出醍醐喻佛從摩訶般<lb
+ ed="X" n="0669b17"/><lb
+ ed="R100" n="0803a11"/>若說大涅槃法華開權同一醍醐五味具足法華一<lb
+ ed="X" n="0669b18"/><lb
+ ed="R100" n="0803a12"/>乘開前四味會三歸一無非佛乘成醍醐教獨得妙<lb
+ ed="X" n="0669b19"/><lb
+ ed="R100" n="0803a13"/>名言八教者謂頓漸不定祕密藏通別圓頓等<lb
+ ed="X" n="0669b20"/><lb
+ ed="R100" n="0803a14"/>四教是佛化儀藏等四教是佛化法會漸歸頓更無<lb
+ ed="X" n="0669b21"/><lb
+ ed="R100" n="0803a15"/>餘乘藏等四教出自天台亦云神僧授與亦云<lb
+ ed="X" n="0669b22"/><lb
+ ed="R100" n="0803a16"/>大師義立是故大經云下智觀故得聲聞菩提中智<lb
+ ed="X" n="0669b23"/><lb
+ ed="R100" n="0803a17"/>觀故得緣覺菩提上智觀故得菩薩菩提上上智觀<lb
+ ed="X" n="0669b24"/><lb
+ ed="R100" n="0803a18"/>故得諸佛菩提即其義也言三觀者依中論四<pb ed="X" id="X56.0940.0669c" n="0669c"/><lb
+ ed="X" n="0669c01"/><lb
+ ed="R100" n="0803b01"/>句偈云因緣所生法我說即是空亦名為假名亦是<lb
+ ed="X" n="0669c02"/><lb
+ ed="R100" n="0803b02"/>中道義三觀一心中得故云一心三觀耳因中用心<lb
+ ed="X" n="0669c03"/><lb
+ ed="R100" n="0803b03"/>名為三觀果時證得名為三德入祕密藏是故經云<lb
+ ed="X" n="0669c04"/><lb
+ ed="R100" n="0803b04"/>安置諸子祕密藏中我亦不久自住其中四教用觀<lb
+ ed="X" n="0669c05"/><lb
+ ed="R100" n="0803b05"/>各有區分巧拙不同藏教拙度折色名空空觀猶拙<lb
+ ed="X" n="0669c06"/><lb
+ ed="R100" n="0803b06"/>通教巧度體色名空猶來入似根有利鈍利根菩薩<lb
+ ed="X" n="0669c07"/><lb
+ ed="R100" n="0803b07"/>八地已上道觀雙流接入初住三觀具足別教菩薩<lb
+ ed="X" n="0669c08"/><lb
+ ed="R100" n="0803b08"/>次第而修先空次假後中用前二觀為方便道得入<lb
+ ed="X" n="0669c09"/><lb
+ ed="R100" n="0803b09"/>中道第一義諦別別而修未能圓融故云別耳別小<lb
+ ed="X" n="0669c10"/><lb
+ ed="R100" n="0803b10"/>別大亦名為別得三觀名圓教用觀者初心之人一<lb
+ ed="X" n="0669c11"/><lb
+ ed="R100" n="0803b11"/>心三觀觀於三諦三諦是境名為所觀是觀名為能<lb
+ ed="X" n="0669c12"/><lb
+ ed="R100" n="0803b12"/>觀境觀具足證三智理初後不二大論燋炷即其義<lb
+ ed="X" n="0669c13"/><lb
+ ed="R100" n="0803b13"/>也論言三智實是一心中得說時次第令人易解故<lb
+ ed="X" n="0669c14"/><lb
+ ed="R100" n="0803b14"/>分次第耳涅槃法華同醍醐教大之與妙一體異名<lb
+ ed="X" n="0669c15"/><lb
+ ed="R100" n="0803b15"/>大師判之涅槃稱為捃拾教扶律說常何者法華開<lb
+ ed="X" n="0669c16"/><lb
+ ed="R100" n="0803b16"/>權三周記莂上中下根皆悉入實如秋收冬藏更無<lb
+ ed="X" n="0669c17"/><lb
+ ed="R100" n="0803b17"/>所作大陣已破餘黨不難涅槃終窮無非常住十仙<lb
+ ed="X" n="0669c18"/><lb
+ ed="R100" n="0803b18"/>外道增上之徒廣開常宗純陀妙義皆以得悟捃拾<lb
+ ed="X" n="0669c19"/><lb
+ ed="R100" n="0804a01"/>之說其在茲乎摩訶止觀一部大意不出法華<lb
+ ed="X" n="0669c20"/><lb
+ ed="R100" n="0804a02"/>三昧之異名依經修觀非數他寶期心有地四種四<lb
+ ed="X" n="0669c21"/><lb
+ ed="R100" n="0804a03"/>諦簡非顯是發菩提心後約六即令朱紫不濫六位<lb
+ ed="X" n="0669c22"/><lb
+ ed="R100" n="0804a04"/>具足初後不二夫言六者簡其濫即者簡其顯不同<lb
+ ed="X" n="0669c23"/><lb
+ ed="R100" n="0804a05"/>他云即佛濫於上位故以六即簡定發菩提心四弘<lb
+ ed="X" n="0669c24"/><lb
+ ed="R100" n="0804a06"/>之說依境發心上求下化誓豈境如壞驢車正南而<pb ed="X" id="X56.0940.0670a" n="0670a"/><lb
+ ed="X" n="0670a01"/><lb
+ ed="R100" n="0804a07"/>遊略述大猷廣在諸文云。<lb
+ ed="X" n="0670a02"/><lb
+ ed="R100" n="0804a08"/>貞元二十年十月二十日因日本國求法僧最澄<lb
+ ed="X" n="0670a03"/><lb
+ ed="R100" n="0804a09"/>故記。<lb
+ ed="X" n="0670a04"/><lb
+ ed="R100" n="0804a10"/>此依大師教門華嚴法華同是一乘之伴不異若論<lb
+ ed="X" n="0670a05"/><lb
+ ed="R100" n="0804a11"/>開權華嚴別教主伴未融猶不自在法華白牛開漸<lb
+ ed="X" n="0670a06"/><lb
+ ed="R100" n="0804a12"/>歸頓別教主伴即是法華白牛一乘無別名不次第<lb
+ ed="X" n="0670a07"/><lb
+ ed="R100" n="0804a13"/>華嚴別教名為次第未證白牛法華開顯皆同頓說<lb
+ ed="X" n="0670a08"/><lb
+ ed="R100" n="0804a14"/>前後之殊耳。<lb
+ ed="X" n="0670a09"/><lb
+ ed="R100" n="0804a15"/><lb
+ ed="X" n="0670a10"/><lb
+ ed="R100" n="0804a16"/>
+</ab><ab type='juan' subtype='close'>天台宗法門大意一卷</ab></div>
+</body></text></TEI>

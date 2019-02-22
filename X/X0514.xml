@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">仁王經疏會本</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X26</biblScope>
+                    <idno type="Taisho">X26n0514</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X26.0514.0189a" n="0189a"/><lb
+ ed="X" n="0189a01"/>
+<ab type='juan' subtype='open'></ab><lb
+ ed="X" n="0189a02"/><div type='xu' level='1'><head>No. 514-A<lb
+ ed="X" n="0189a03"/><lb
+ ed="R040" n="0830a01"/> 會刻仁王護國般若經疏序</head><lb
+ ed="X" n="0189a04"/><lb
+ ed="X" n="0189a05"/><lb
+ ed="R040" n="0830a02"/><ab type='prose'>仁王護國般若經者。乃八部般若之結經也。夫般若<lb
+ ed="X" n="0189a06"/><lb
+ ed="R040" n="0830a03"/>之談。時長理詣。莫不蕩空釋滯。絕想袪情。良由眾生<lb
+ ed="X" n="0189a07"/><lb
+ ed="R040" n="0830a04"/>迷執久固。真性難顯。故佛且不揀善惡垢淨性相。一<lb
+ ed="X" n="0189a08"/><lb
+ ed="R040" n="0830a05"/>切訶破。雖真性及妙用不無。而姑云無。直待情忘理<lb
+ ed="X" n="0189a09"/><lb
+ ed="R040" n="0830a06"/>喪。纖毫不容。然後引出匿王之問端。高張五忍之法<lb
+ ed="X" n="0189a10"/><lb
+ ed="R040" n="0830a07"/>網。婆心徹底。巧運錐鎚。密接通別之初機。淘鎔凡聖<lb
+ ed="X" n="0189a11"/><lb
+ ed="R040" n="0830a08"/>之玄路。來至法華開顯。領付家業。點示般若之離相。<lb
+ ed="X" n="0189a12"/><lb
+ ed="R040" n="0830a09"/>咸成諸法之實相。究論實相之功。功由般若。般若之<lb
+ ed="X" n="0189a13"/><lb
+ ed="R040" n="0830a10"/>要。要當妙悟。故曰無量義者。從一法生。是也。唯我天<lb
+ ed="X" n="0189a14"/><lb
+ ed="R040" n="0830a11"/>台智者大師。深愍當來。劫運漸衰。鬪諍堅固。般若緣<lb
+ ed="X" n="0189a15"/><lb
+ ed="R040" n="0830a12"/>疎。經云若國欲亂。鬼神先亂。鬼神亂故。即萬人亂。是<lb
+ ed="X" n="0189a16"/><lb
+ ed="R040" n="0830a13"/>諸難起。皆應受持講讀此般若波羅蜜多。而護國法<lb
+ ed="X" n="0189a17"/><lb
+ ed="R040" n="0830a14"/>要。尤在解說此經。此大師經疏所由作焉。惜乎此疏。<lb
+ ed="X" n="0189a18"/><lb
+ ed="R040" n="0830a15"/>盛行海東。中華失傳。昔四明尊者。搆仁王疏而弗獲。<lb
+ ed="X" n="0189a19"/><lb
+ ed="R040" n="0830a16"/>亦猶天台大師拜楞嚴經而未得。先後求法。苦心有<lb
+ ed="X" n="0189a20"/><lb
+ ed="R040" n="0830a17"/>同揆歟。幸有宋老僧如恂師。得之海賈。晁說之敘於<lb
+ ed="X" n="0189a21"/><lb
+ ed="R040" n="0830a18"/>簡端今龍藏雖載。而講筵無聞。適天台敏老法師。應<lb
+ ed="X" n="0189a22"/><lb
+ ed="R040" n="0830b01"/>吳門諸縉紳請。於戊戌冬。住報恩北寺。時值邊疆多<lb
+ ed="X" n="0189a23"/><lb
+ ed="R040" n="0830b02"/>故。臣民不安。乃於己亥春。屬成蓮演講仁王護國般<lb
+ ed="X" n="0189a24"/><lb
+ ed="R040" n="0830b03"/>若經。求佛保安。惟成蓮所講。係當世通行唐不空譯<pb ed="X" id="X26.0514.0189b" n="0189b"/><lb
+ ed="X" n="0189b01"/><lb
+ ed="R040" n="0830b04"/>本。而大師所疏。為什公譯本。經文互有異同。大旨正<lb
+ ed="X" n="0189b02"/><lb
+ ed="R040" n="0830b05"/>堪補備。且龍藏本。經與疏各自為帙。研究維艱。爰遵<lb
+ ed="X" n="0189b03"/><lb
+ ed="R040" n="0830b06"/>天台大部之軌。華嚴三合之例。分經會疏。合鐫方冊。<lb
+ ed="X" n="0189b04"/><lb
+ ed="R040" n="0830b07"/>排科文於經前。繫疏解於經後。重加句讀。庶幾條分<lb
+ ed="X" n="0189b05"/><lb
+ ed="R040" n="0830b08"/>縷析。開卷瞭然。成蓮復據北藏。校勘一周。合掌恭敬。<lb
+ ed="X" n="0189b06"/><lb
+ ed="R040" n="0830b09"/>　而說頌曰。<lb
+ ed="X" n="0189b07"/><lb
+ ed="R040" n="0830b10"/></ab>
+<ab type='verse'>
+般若如虗空　　功德不可量　　付囑諸國王　　<lb
+ ed="X" n="0189b08"/><lb
+ ed="R040" n="0830b11"/>依教而信受　　菩薩金剛手　　承佛威神力　　<lb
+ ed="X" n="0189b09"/><lb
+ ed="R040" n="0830b12"/>一聞說是經　　頃刻為護持　　能令其國界　　<lb
+ ed="X" n="0189b10"/><lb
+ ed="R040" n="0830b13"/>無復諸災難　　疾疫與刀兵　　一切悉消除　　<lb
+ ed="X" n="0189b11"/><lb
+ ed="R040" n="0830b14"/>法施利羣生　　同發菩提心　　
+</ab><lb
+ ed="X" n="0189b12"/><lb
+ ed="R040" n="0830b15"/><ab type='prose'>時在光緒二十六年荷月普門示現日　台宗後學<lb
+ ed="X" n="0189b13"/><lb
+ ed="R040" n="0830b16"/>比丘成蓮敘於吳門報恩北寺之西齋</ab></div><lb
+ ed="X" n="0189b14"/>
+</body></text></TEI>

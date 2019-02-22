@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">道德經順硃</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">J36</biblScope>
+                    <idno type="Taisho">J36nB351</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="J" id="J36.B351.0513a" n="0513a"/><lb
+ ed="J" n="0513a01"/><head>道德經順硃敘</head><lb
+ ed="J" n="0513a02"/><ab type='prose'>余閱玄聖言質而不文樸而非器與素王言西方聖<lb
+ ed="J" n="0513a03"/>人言合故取而釋之蓋由學者請箋禪林寶訓順硃<lb
+ ed="J" n="0513a04"/>訖復請曰道德經講解者累數百家咸各出己意讀<lb
+ ed="J" n="0513a05"/>者更是難曉乞師順文淺顯開諭季而許之遂就正<lb
+ ed="J" n="0513a06"/>文順硃填墨略增意義雖薄而無味不過使讀之者<lb
+ ed="J" n="0513a07"/>不離言不即言易于領會焉耳若果於此五千言中<lb
+ ed="J" n="0513a08"/>領會得則不唯看易言學言庸言易即看圓覺言楞<lb
+ ed="J" n="0513a09"/>嚴言華嚴言亦不難矣。華岩德玉敘。<lb
+ ed="J" n="0513a10"/>讚曰王者師民之寶指李非姓白髮非老尼父稱<lb
+ ed="J" n="0513a11"/>猶龍嬰兒恒自抱憲宗尊諡上皇七聖列封祖考<lb
+ ed="J" n="0513a12"/>灼然紫氣徹關頭眾妙之門人難造元始天尊<lb
+ ed="J" n="0513a13"/>辭侯成子變名變姓百矣千矣生李兮何嘗生死<lb
+ ed="J" n="0513a14"/>槐兮何嘗死身騎青牛兮示荷負而不恃手持真<lb
+ ed="J" n="0513a15"/>經兮發玄文于袖裏直斯陳跡五千言詎止流傳<lb
+ ed="J" n="0513a16"/>一尹喜。<lb
+ ed="J" n="0513a17"/><lb
+ ed="J" n="0513a18"/><lb
+ ed="J" n="0513a19"/><lb
+ ed="J" n="0513a20"/><lb
+ ed="J" n="0513a21"/><lb
+ ed="J" n="0513a22"/><lb
+ ed="J" n="0513a23"/><lb
+ ed="J" n="0513a24"/><lb
+ ed="J" n="0513a25"/><lb
+ ed="J" n="0513a26"/><lb
+ ed="J" n="0513a27"/><lb
+ ed="J" n="0513a28"/><lb
+ ed="J" n="0513a29"/><lb
+ ed="J" n="0513a30"/><pb ed="J" id="J36.B351.0513b" n="0513b"/><lb
+ ed="J" n="0513b01"/>
+</ab><ab type='juan' subtype='open'>道德經順硃卷上</ab><lb
+ ed="J" n="0513b02"/><byline>蜀渝華岩季而關聖可德玉順硃</byline><lb
+ ed="J" n="0513b03"/><head>體道一章</head><lb
+ ed="J" n="0513b04"/><div type='orig' level='2'><ab type='prose'>道可道非常道名可名非常名無名天地之始有名<lb
+ ed="J" n="0513b05"/>萬物之母故常無欲以觀其妙常有欲以觀其竅此<lb
+ ed="J" n="0513b06"/>兩者同出而異名同謂之玄玄之又玄眾妙之門。</ab></div><lb
+ ed="J" n="0513b07"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0513b17"/><head>養身二章</head><lb
+ ed="J" n="0513b18"/><div type='orig' level='2'><ab type='prose'>天下皆知美之為美斯惡已皆知善之為善斯不善<lb
+ ed="J" n="0513b19"/>已故有無相生難易相成長短相形高下相傾音聲<lb
+ ed="J" n="0513b20"/>相和前後相隨是以聖人處無為之事行不言之教<lb
+ ed="J" n="0513b21"/>萬物作焉而不辭生而不有為而不恃功成而弗居<lb
+ ed="J" n="0513b22"/>夫惟弗居是以不去。</ab></div><lb
+ ed="J" n="0513b23"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0513c02"/><head>安民三章</head><lb
+ ed="J" n="0513c03"/><div type='orig' level='2'><ab type='prose'>不尚賢使民不爭不貴難得之貨使民不為盜不見<lb
+ ed="J" n="0513c04"/>可欲使心不亂是以聖人之治虛其心實其腹弱其<lb
+ ed="J" n="0513c05"/>志疆其骨常使民無知無欲使夫知者不敢為也為<lb
+ ed="J" n="0513c06"/>無為則無不治。</ab></div><lb
+ ed="J" n="0513c07"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0513c15"/><head>無源四章</head><lb
+ ed="J" n="0513c16"/><div type='orig' level='2'><ab type='prose'>道沖而用之或不盈淵乎似萬物之宗挫其銳解其<lb
+ ed="J" n="0513c17"/>紛和其光同其塵湛兮似若存吾不知誰之子象帝<lb
+ ed="J" n="0513c18"/>之先。</ab></div><lb
+ ed="J" n="0513c19"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0513c26"/><head>虛用五章</head><lb
+ ed="J" n="0513c27"/><div type='orig' level='2'><ab type='prose'>天地不仁以萬物為芻狗聖人不仁以百姓為芻狗<lb
+ ed="J" n="0513c28"/>天地之間其猶橐籥乎虛而不屈動而愈出多言數<lb
+ ed="J" n="0513c29"/>窮不如守中。</ab></div><lb
+ ed="J" n="0513c30"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0514a08"/><head>成象六章</head><lb
+ ed="J" n="0514a09"/><div type='orig' level='2'><ab type='prose'>谷神不死是謂玄牝玄牝之門是謂天地根綿綿若<lb
+ ed="J" n="0514a10"/>存用之不動。</ab></div><lb
+ ed="J" n="0514a11"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0514a16"/><head>韜光七章</head><lb
+ ed="J" n="0514a17"/><div type='orig' level='2'><ab type='prose'>天長地久天地所以能長且久者以其不自生故能<lb
+ ed="J" n="0514a18"/>長生是以聖人後其身而身先外其身而身存非以<lb
+ ed="J" n="0514a19"/>其無私邪故能成其私。</ab></div><lb
+ ed="J" n="0514a20"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0514a26"/><head>易性八章</head><lb
+ ed="J" n="0514a27"/><div type='orig' level='2'><ab type='prose'>上善若水水善利萬物而不爭處眾人之所惡故幾<lb
+ ed="J" n="0514a28"/>於道居善地心善淵與善仁言善信正善治事善能<lb
+ ed="J" n="0514a29"/>動善時夫惟不爭故無尤。</ab></div><lb
+ ed="J" n="0514a30"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0514b07"/><head>運夷九章</head><lb
+ ed="J" n="0514b08"/><div type='orig' level='2'><ab type='prose'>持而盈之不如其已揣而銳之不可長保金玉滿堂<lb
+ ed="J" n="0514b09"/>莫之能守富貴而驕自遺其咎功成名遂身退天之<lb
+ ed="J" n="0514b10"/>道。</ab></div><lb
+ ed="J" n="0514b11"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0514b16"/><head>能為十章</head><lb
+ ed="J" n="0514b17"/><div type='orig' level='2'><ab type='prose'>載營魄抱一能無離乎專氣致柔能嬰兒乎滌除玄<lb
+ ed="J" n="0514b18"/>覽能無疵乎愛民治國能無為乎天門開闔能無雌<lb
+ ed="J" n="0514b19"/>乎明白四達能無知乎生之畜之生而不有為而不<lb
+ ed="J" n="0514b20"/>恃長而不宰是謂玄德。</ab></div><lb
+ ed="J" n="0514b21"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0514c02"/><head>無用十一章</head><lb
+ ed="J" n="0514c03"/><div type='orig' level='2'><ab type='prose'>三十輻共一轂當其無有車之用埏埴以為器當其<lb
+ ed="J" n="0514c04"/>無有器之用鑿戶牖以為室當其無有室之用故有<lb
+ ed="J" n="0514c05"/>之以為利無之以為用。</ab></div><lb
+ ed="J" n="0514c06"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0514c15"/><head>檢欲十二章</head><lb
+ ed="J" n="0514c16"/><div type='orig' level='2'><ab type='prose'>五色令人目盲五音令人耳聾五味令人口爽馳騁<lb
+ ed="J" n="0514c17"/>田獵令人心發狂難得之貨令人行妨是以聖人為<lb
+ ed="J" n="0514c18"/>腹不為目故去彼取此。</ab></div><lb
+ ed="J" n="0514c19"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0514c27"/><head>厭恥十三章</head><lb
+ ed="J" n="0514c28"/><div type='orig' level='2'><ab type='prose'>寵辱若驚貴大患若身何謂寵辱寵為下得之若驚<lb
+ ed="J" n="0514c29"/>失之若驚是謂寵辱若驚何謂貴大患若身吾所以<lb
+ ed="J" n="0514c30"/>有大患者為吾有身及吾無身吾有何患故貴以身<pb ed="J" id="J36.B351.0515a" n="0515a"/><lb
+ ed="J" n="0515a01"/>為天下者則可寄於天下愛以身為天下者乃可以<lb
+ ed="J" n="0515a02"/>託於天下。</ab></div><lb
+ ed="J" n="0515a03"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0515a12"/><head>贊玄十四章</head><lb
+ ed="J" n="0515a13"/><div type='orig' level='2'><ab type='prose'>視之不見名曰夷聽之不聞名曰希摶之不得名曰<lb
+ ed="J" n="0515a14"/>微此三者不可致詰故混而為一其上不皦其下不<lb
+ ed="J" n="0515a15"/>昧繩繩兮不可名復歸於無物是謂無狀之狀無象<lb
+ ed="J" n="0515a16"/>之象是謂惚恍迎之不見其首隨之不見其後執古<lb
+ ed="J" n="0515a17"/>之道以御今之有能知古始是謂道紀。</ab></div><lb
+ ed="J" n="0515a18"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0515a29"/><head>顯德十五章</head><lb
+ ed="J" n="0515a30"/><div type='orig' level='2'><ab type='prose'>古之善為士者微妙玄通深不可識夫唯不可識故<pb ed="J" id="J36.B351.0515b" n="0515b"/><lb
+ ed="J" n="0515b01"/>強為之容豫兮若冬涉川猶兮若畏四鄰儼若客渙<lb
+ ed="J" n="0515b02"/>若冰將釋敦兮其若樸曠兮其若谷渾兮其若濁孰<lb
+ ed="J" n="0515b03"/>能濁以靜之徐清孰能安以久之徐生保此道者不<lb
+ ed="J" n="0515b04"/>欲盈夫唯不盈故能敝不新成。</ab></div><lb
+ ed="J" n="0515b05"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0515b17"/><head>歸根十六章</head><lb
+ ed="J" n="0515b18"/><div type='orig' level='2'><ab type='prose'>致虛極守靜篤萬物並作吾以觀其復夫物芸芸各<lb
+ ed="J" n="0515b19"/>歸其根歸根曰靜靜曰復命復命曰常知常曰明不<lb
+ ed="J" n="0515b20"/>知常妄作凶知常容容乃公公乃王王乃天天乃道<lb
+ ed="J" n="0515b21"/>道乃久沒身不殆。</ab></div><lb
+ ed="J" n="0515b22"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0515b30"/><head>淳風十七章</head><pb ed="J" id="J36.B351.0515c" n="0515c"/><lb
+ ed="J" n="0515c01"/><div type='orig' level='2'><ab type='prose'>太上下知有之其次親之譽之其次畏之其次侮之<lb
+ ed="J" n="0515c02"/>故信不足焉有不信猶兮其貴言功成事遂百姓皆<lb
+ ed="J" n="0515c03"/>曰我自然。</ab></div><lb
+ ed="J" n="0515c04"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0515c11"/><head>俗薄十八章</head><lb
+ ed="J" n="0515c12"/><div type='orig' level='2'><ab type='prose'>大道廢有仁義智慧出有大偽六親不和有孝慈國<lb
+ ed="J" n="0515c13"/>家昏亂有忠臣。</ab></div><lb
+ ed="J" n="0515c14"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0515c19"/><head>還淳十九章</head><lb
+ ed="J" n="0515c20"/><div type='orig' level='2'><ab type='prose'>絕聖棄智民利百倍絕仁棄義民復孝慈絕巧棄利<lb
+ ed="J" n="0515c21"/>盜賊無有此三者以為文不足故令有所屬見素抱<lb
+ ed="J" n="0515c22"/>樸少私寡欲。</ab></div><lb
+ ed="J" n="0515c23"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0515c29"/><head>異俗二十章</head><lb
+ ed="J" n="0515c30"/><div type='orig' level='2'><ab type='prose'>絕學無憂唯之與阿相去幾何善之與惡相去何若<pb ed="J" id="J36.B351.0516a" n="0516a"/><lb
+ ed="J" n="0516a01"/>人之所畏不可不畏荒兮其未央哉眾人熙熙如享<lb
+ ed="J" n="0516a02"/>太牢如登春臺我獨泊兮其未兆如嬰兒之未孩乘<lb
+ ed="J" n="0516a03"/>乘兮若無所歸眾人皆有餘而我獨若遺我愚人之<lb
+ ed="J" n="0516a04"/>心也哉沌沌兮俗人昭昭我獨若昏俗人察察我獨<lb
+ ed="J" n="0516a05"/>悶悶忽兮若晦漂兮若無止眾人皆有以我獨頑似<lb
+ ed="J" n="0516a06"/>鄙我獨異於人而貴食母。</ab></div><lb
+ ed="J" n="0516a07"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0516a20"/><head>虛心二十一章</head><lb
+ ed="J" n="0516a21"/><div type='orig' level='2'><ab type='prose'>孔德之容唯道是從道之為物唯怳唯惚惚兮怳兮<lb
+ ed="J" n="0516a22"/>其中有象怳兮惚兮其中有物窈兮冥兮其中有精<lb
+ ed="J" n="0516a23"/>其精甚真其中有信自古及今其名不去以閱眾甫<lb
+ ed="J" n="0516a24"/>吾何以知眾甫之然哉以此。</ab></div><lb
+ ed="J" n="0516a25"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0516b03"/><head>益謙二十二章</head><lb
+ ed="J" n="0516b04"/><div type='orig' level='2'><ab type='prose'>曲則全枉則直窪則盈敝則新少則得多則惑是以<lb
+ ed="J" n="0516b05"/>聖人抱一為天下式不自見故明不自是故彰不自<lb
+ ed="J" n="0516b06"/>伐故有功不自矜故長夫唯不爭故天下莫能與之<lb
+ ed="J" n="0516b07"/>爭古之所謂曲則全者豈虛言哉誠全而歸之。</ab></div><lb
+ ed="J" n="0516b08"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0516b17"/><head>虛無二十三章</head><lb
+ ed="J" n="0516b18"/><div type='orig' level='2'><ab type='prose'>希言自然飄風不終朝驟雨不終日孰為此者天地<lb
+ ed="J" n="0516b19"/>天地尚不能久而況於人乎故從事於道者道者同<lb
+ ed="J" n="0516b20"/>於道德者同於德失者同於失同於道者道亦樂得<lb
+ ed="J" n="0516b21"/>之同於德者德亦樂得之同於失者失亦樂失之信<lb
+ ed="J" n="0516b22"/>不足有不信。</ab></div><lb
+ ed="J" n="0516b23"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0516c02"/><head>苦恩二十四章</head><lb
+ ed="J" n="0516c03"/><div type='orig' level='2'><ab type='prose'>跂者不立跨者不行自見者不明自是者不彰自伐<lb
+ ed="J" n="0516c04"/>者無功自矜者不長其於道也曰餘食贅行物或惡<lb
+ ed="J" n="0516c05"/>之故有道者不處也。</ab></div><lb
+ ed="J" n="0516c06"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0516c13"/><head>象元二十五章</head><lb
+ ed="J" n="0516c14"/><div type='orig' level='2'><ab type='prose'>有物混成先天地生寂兮寥兮獨立而不改周行而<lb
+ ed="J" n="0516c15"/>不殆可以為天下母吾不知其名字之曰道強為之<lb
+ ed="J" n="0516c16"/>名曰大大曰逝逝曰遠遠曰反故道大天大地大王<lb
+ ed="J" n="0516c17"/>亦大域中有四大而王處一焉人法地地法天天法<lb
+ ed="J" n="0516c18"/>道道法自然。</ab></div><lb
+ ed="J" n="0516c19"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><pb ed="J" id="J36.B351.0517a" n="0517a"/><lb
+ ed="J" n="0517a01"/><head>重德二十六章</head><lb
+ ed="J" n="0517a02"/><div type='orig' level='2'><ab type='prose'>重為輕根靜為躁君是以聖人終日行不離輜重雖<lb
+ ed="J" n="0517a03"/>有榮觀燕處超然奈何萬乘之主而以身輕天下輕<lb
+ ed="J" n="0517a04"/>則失臣躁則失君。</ab></div><lb
+ ed="J" n="0517a05"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0517a14"/><head>巧用二十七章</head><lb
+ ed="J" n="0517a15"/><div type='orig' level='2'><ab type='prose'>善行無輒跡善言無瑕謫善計不用籌策善閉無關<lb
+ ed="J" n="0517a16"/>楗而不可開善結無繩約而不可解是以聖人常善<lb
+ ed="J" n="0517a17"/>救人故無棄人常善救物故無棄物是謂襲明故善<lb
+ ed="J" n="0517a18"/>人不善人之師不善人善人之資不貴其師不愛其<lb
+ ed="J" n="0517a19"/>資雖智大迷是謂要玅。</ab></div><lb
+ ed="J" n="0517a20"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0517a30"/><head>反朴二十八章</head><pb ed="J" id="J36.B351.0517b" n="0517b"/><lb
+ ed="J" n="0517b01"/><div type='orig' level='2'><ab type='prose'>知其雄守其雌為天下谿為天下谿常德不離復歸<lb
+ ed="J" n="0517b02"/>於嬰兒知其白守其黑為天下式為天下式常德不<lb
+ ed="J" n="0517b03"/>忒復歸於無極知其榮守其辱為天下谷為天下谷<lb
+ ed="J" n="0517b04"/>常德乃足復歸於樸樸散則為器聖人用之則為官<lb
+ ed="J" n="0517b05"/>長故大制不割。</ab></div><lb
+ ed="J" n="0517b06"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0517b16"/><head>無為二十九章</head><lb
+ ed="J" n="0517b17"/><div type='orig' level='2'><ab type='prose'>將欲取天下而為之者吾見其不得已天下神器不<lb
+ ed="J" n="0517b18"/>可為也為者敗之執者失之凡物或行或隨或呴或<lb
+ ed="J" n="0517b19"/>吹或疆或贏或載或隳是以聖人去甚去奢去泰。</ab></div><lb
+ ed="J" n="0517b20"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0517c02"/><head>儉武三十章</head><lb
+ ed="J" n="0517c03"/><div type='orig' level='2'><ab type='prose'>以道佐人主者不以兵疆天下其事好還師之所處<lb
+ ed="J" n="0517c04"/>荊棘生焉大軍之後必有凶年故善者果而已矣不<lb
+ ed="J" n="0517c05"/>敢以取疆焉果而勿矜果而勿伐果而勿驕果而不<lb
+ ed="J" n="0517c06"/>得已果而勿疆勿壯則老是謂不道不道早已。</ab></div><lb
+ ed="J" n="0517c07"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0517c18"/><head>偃武三十一章</head><lb
+ ed="J" n="0517c19"/><div type='orig' level='2'><ab type='prose'>夫佳兵者不祥之器物或惡之故有道者不處是以<lb
+ ed="J" n="0517c20"/>君子居則貴左用兵則貴右兵者不祥之器非君子<lb
+ ed="J" n="0517c21"/>之器不得已而用之恬淡為上勝而不美而美之者<lb
+ ed="J" n="0517c22"/>是樂殺人也夫樂殺人者不可以得志於天下矣故<lb
+ ed="J" n="0517c23"/>吉事尚左凶事尚右是以偏將軍處左上將軍處右<lb
+ ed="J" n="0517c24"/>言居士勢則以喪禮處之殺人眾多以悲哀泣之戰<lb
+ ed="J" n="0517c25"/>勝以喪禮處之。</ab></div><lb
+ ed="J" n="0517c26"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0518a07"/><head>聖德三十二章</head><lb
+ ed="J" n="0518a08"/><div type='orig' level='2'><ab type='prose'>道常無名樸雖小天下不敢臣侯王若能守萬物將<lb
+ ed="J" n="0518a09"/>自賓天地相合以降甘露民莫之令而自均始制有<lb
+ ed="J" n="0518a10"/>名名亦既有夫亦將知止知止所以不殆譬道之在<lb
+ ed="J" n="0518a11"/>天下猶川谷之與江海。</ab></div><lb
+ ed="J" n="0518a12"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0518a21"/><head>辯德三十三章</head><lb
+ ed="J" n="0518a22"/><div type='orig' level='2'><ab type='prose'>知人者智自知者明勝人者有力自勝者強知足者<lb
+ ed="J" n="0518a23"/>富強行者有志不失其所者久死而不亡者壽。</ab></div><lb
+ ed="J" n="0518a24"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><pb ed="J" id="J36.B351.0518b" n="0518b"/><lb
+ ed="J" n="0518b01"/><head>任成三十四章</head><lb
+ ed="J" n="0518b02"/><div type='orig' level='2'><ab type='prose'>大道汜兮其可左右萬物恃之以生而不辭功成不<lb
+ ed="J" n="0518b03"/>居衣被萬物而不為主故常無欲可名於小萬物歸<lb
+ ed="J" n="0518b04"/>焉而不知止可名於大是以聖人能成其大也以其<lb
+ ed="J" n="0518b05"/>不自大故能成其大。</ab></div><lb
+ ed="J" n="0518b06"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0518b12"/><head>仁德三十五章</head><lb
+ ed="J" n="0518b13"/><div type='orig' level='2'><ab type='prose'>執大象天下往往而不害安平泰樂與餌過客止道<lb
+ ed="J" n="0518b14"/>之出口澹乎其無味視之不足見聽之不足聞用之<lb
+ ed="J" n="0518b15"/>不可既。</ab></div><lb
+ ed="J" n="0518b16"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0518b21"/><head>微明三十六章</head><lb
+ ed="J" n="0518b22"/><div type='orig' level='2'><ab type='prose'>將欲歙之必固張之將使弱之必固強之將欲廢之<lb
+ ed="J" n="0518b23"/>必固興之將欲奪之必固與之是謂微明柔弱勝剛<lb
+ ed="J" n="0518b24"/>強魚不可脫於淵國之利器不可以示人。</ab></div><lb
+ ed="J" n="0518b25"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0518c02"/><head>為政三十七章</head><lb
+ ed="J" n="0518c03"/><div type='orig' level='2'><ab type='prose'>道常無為而無不為侯王若能守萬物將自化化而<lb
+ ed="J" n="0518c04"/>欲作吾將鎮之以無名之樸無名之樸亦將不欲不<lb
+ ed="J" n="0518c05"/>欲以靜天下將自正。</ab></div><lb
+ ed="J" n="0518c06"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0518c13"/>
+<ab type='juan' subtype='close'>道德經順硃卷上</ab><lb
+ ed="J" n="0518c14"/><lb
+ ed="J" n="0518c15"/><div type='w' level='2'><ab type='prose'></ab></div><pb ed="J" id="J36.B351.0519a" n="0519a"/><lb
+ ed="J" n="0519a01"/>
+<ab type='juan' subtype='open'>道德經順硃卷下</ab><lb
+ ed="J" n="0519a02"/><byline>蜀渝季而關華岩德玉順硃</byline><lb
+ ed="J" n="0519a03"/><head>論德三十八章</head><lb
+ ed="J" n="0519a04"/><div type='orig' level='2'><ab type='prose'>上德不德是以有德下德不失德是以無德上德無<lb
+ ed="J" n="0519a05"/>為而無以為下德為之而有以為上仁為之而無以<lb
+ ed="J" n="0519a06"/>為上義為之而有以為上禮為之而莫之應則攘臂<lb
+ ed="J" n="0519a07"/>而仍之故失道而後德失德而後仁失仁而後義失<lb
+ ed="J" n="0519a08"/>義而後禮夫禮者忠信之薄而亂之首前識者道之<lb
+ ed="J" n="0519a09"/>華而愚之始是以大丈夫處其厚不處其薄居其實<lb
+ ed="J" n="0519a10"/>不居其華故去彼取此。</ab></div><lb
+ ed="J" n="0519a11"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0519a23"/><head>法本第三十九章</head><lb
+ ed="J" n="0519a24"/><div type='orig' level='2'><ab type='prose'>昔之得一者天得一以清地得一以寧神得一以靈<lb
+ ed="J" n="0519a25"/>谷得一以盈萬物得一以生侯王得一以為天下貞<lb
+ ed="J" n="0519a26"/>其致之一也天無以清將恐製地無以寧將恐發神<lb
+ ed="J" n="0519a27"/>無以靈將恐歇谷無以盈將恐竭萬物無以生將恐<lb
+ ed="J" n="0519a28"/>滅侯王無以為貞而貴高將恐蹶故貴以賤為本高<lb
+ ed="J" n="0519a29"/>以下為基是以侯王自稱孤寡不穀此其以賤為本<lb
+ ed="J" n="0519a30"/>邪非乎故致數車無車不欲琭琭如玉落落如石。</ab></div><pb ed="J" id="J36.B351.0519b" n="0519b"/><lb
+ ed="J" n="0519b01"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0519b14"/><head>去用第四十章</head><lb
+ ed="J" n="0519b15"/><div type='orig' level='2'><ab type='prose'>反者道之動弱者道之用天下萬物生於有有生於<lb
+ ed="J" n="0519b16"/>無。</ab></div><lb
+ ed="J" n="0519b17"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0519b21"/><head>同異第四十一章</head><lb
+ ed="J" n="0519b22"/><div type='orig' level='2'><ab type='prose'>上士聞道勤而行之中士聞道若存若亡下士聞道<lb
+ ed="J" n="0519b23"/>大笑之不笑不足以為道故建言有之明道若昧進<lb
+ ed="J" n="0519b24"/>道若退夷道若類上德若谷大白若辱廣德若不足<lb
+ ed="J" n="0519b25"/>建德若偷質貞若渝大方無隅大器晚成大音希聲<lb
+ ed="J" n="0519b26"/>大象無形道隱無名夫惟道善貸且成。</ab></div><lb
+ ed="J" n="0519b27"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0519c09"/><head>道化第四十二章</head><lb
+ ed="J" n="0519c10"/><div type='orig' level='2'><ab type='prose'>道生一一生二二生三三生萬物萬物負陰而抱陽<lb
+ ed="J" n="0519c11"/>沖氣以為和人之所惡唯孤寡不穀而王公以為稱<lb
+ ed="J" n="0519c12"/>故物或損之而益或益之而損人之所教我亦教之<lb
+ ed="J" n="0519c13"/>強梁者不得其死吾將以為教父。</ab></div><lb
+ ed="J" n="0519c14"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0519c25"/><head>遍用第四十三章</head><lb
+ ed="J" n="0519c26"/><div type='orig' level='2'><ab type='prose'>天下之至柔馳騁天下之至堅無有入於無間吾是<lb
+ ed="J" n="0519c27"/>以知無為之有益不言之教無為之益天下希及之。</ab></div><lb
+ ed="J" n="0519c28"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0520a02"/><head>立戒第四十四章</head><lb
+ ed="J" n="0520a03"/><div type='orig' level='2'><ab type='prose'>多與身孰親身與貨孰多得與亡孰病甚愛必大費<lb
+ ed="J" n="0520a04"/>多藏必厚亡知足不辱知止不殆可以長久。</ab></div><lb
+ ed="J" n="0520a05"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0520a13"/><head>洪德第四十五章</head><lb
+ ed="J" n="0520a14"/><div type='orig' level='2'><ab type='prose'>大成若缺其用不弊大盈若沖其用不窮大直若屈<lb
+ ed="J" n="0520a15"/>大巧若拙大辯若訥躁勝寒靜勝熱清靜為天下正。</ab></div><lb
+ ed="J" n="0520a16"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0520a23"/><head>儉欲第四十六章</head><lb
+ ed="J" n="0520a24"/><div type='orig' level='2'><ab type='prose'>天下有道卻走馬以糞天下無道戎馬生於郊罪莫<lb
+ ed="J" n="0520a25"/>大於可欲禍莫大於不知足咎莫大於欲得故知足<lb
+ ed="J" n="0520a26"/>之足常足矣。</ab></div><lb
+ ed="J" n="0520a27"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0520b03"/><head>鑒遠第四十七章</head><lb
+ ed="J" n="0520b04"/><div type='orig' level='2'><ab type='prose'>不出戶知天下不窺牖見天道其出彌遠其知彌少<lb
+ ed="J" n="0520b05"/>是以聖人不行而知不見而名不為而成。</ab></div><lb
+ ed="J" n="0520b06"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0520b12"/><head>忘知第四十八章</head><lb
+ ed="J" n="0520b13"/><div type='orig' level='2'><ab type='prose'>為學日益為道日損損之又損以至於無為無為而<lb
+ ed="J" n="0520b14"/>無不為取天下常以無事及其有事不足以取天下。</ab></div><lb
+ ed="J" n="0520b15"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0520b20"/><head>任德第四十九章</head><lb
+ ed="J" n="0520b21"/><div type='orig' level='2'><ab type='prose'>聖人無常心以百姓心為心善者吾善之不善者吾<lb
+ ed="J" n="0520b22"/>亦善之德善信者吾信之不信者吾亦信之德信聖<lb
+ ed="J" n="0520b23"/>人之在天下惵惵為天下渾其心百姓皆注其耳目<lb
+ ed="J" n="0520b24"/>聖人皆孩之。</ab></div><lb
+ ed="J" n="0520b25"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0520c03"/><head>貴生第五十章</head><lb
+ ed="J" n="0520c04"/><div type='orig' level='2'><ab type='prose'>出生入死生之徒十有三死之徒十有三民之生動<lb
+ ed="J" n="0520c05"/>之死地亦十有三夫何故以其生生之厚蓋聞善攝<lb
+ ed="J" n="0520c06"/>生者陸行不遇兕虎入軍不避甲兵兕無所投其角<lb
+ ed="J" n="0520c07"/>虎無所措其爪兵無所容其刃夫何故以其無死地。</ab></div><lb
+ ed="J" n="0520c08"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0520c19"/><head>養德第五十一章</head><lb
+ ed="J" n="0520c20"/><div type='orig' level='2'><ab type='prose'>道生之德畜之物形之勢成之是以萬物莫不遵道<lb
+ ed="J" n="0520c21"/>而貴德道之遵德之貴夫莫之命而常自然故道生<lb
+ ed="J" n="0520c22"/>之德畜之長之育之成之熟之養之覆之生而不有<lb
+ ed="J" n="0520c23"/>為而不恃長而不宰是謂玄德。</ab></div><lb
+ ed="J" n="0520c24"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><pb ed="J" id="J36.B351.0521a" n="0521a"/><lb
+ ed="J" n="0521a01"/><head>歸原第五十二章</head><lb
+ ed="J" n="0521a02"/><div type='orig' level='2'><ab type='prose'>天下有始以為天下母既得其母復知其子既知其<lb
+ ed="J" n="0521a03"/>子復守其母沒身不殆塞其兌閉其門終身不勤開<lb
+ ed="J" n="0521a04"/>其兌濟其事終身不救見小曰明守柔曰強用其光<lb
+ ed="J" n="0521a05"/>復歸其明無遺身殃是謂襲常。</ab></div><lb
+ ed="J" n="0521a06"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0521a18"/><head>益證第五十三章</head><lb
+ ed="J" n="0521a19"/><div type='orig' level='2'><ab type='prose'>使我介然有知行於大道唯施是畏大道甚夷而民<lb
+ ed="J" n="0521a20"/>好徑朝甚除田甚蕪倉甚虛服文綵帶利劍厭飲食<lb
+ ed="J" n="0521a21"/>財貨有餘是謂盜夸非道哉。</ab></div><lb
+ ed="J" n="0521a22"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0521b02"/><head>修觀第五十四章</head><lb
+ ed="J" n="0521b03"/><div type='orig' level='2'><ab type='prose'>善建者不拔善抱者不脫子孫祭祀不輟修之身其<lb
+ ed="J" n="0521b04"/>德乃真修之家其德乃餘修之鄉其德乃長修之國<lb
+ ed="J" n="0521b05"/>其德乃豐修之天下其德乃普故以身觀身以家觀<lb
+ ed="J" n="0521b06"/>家以鄉觀鄉以國觀國以天下觀天下吾何以知天<lb
+ ed="J" n="0521b07"/>下之然哉以此。</ab></div><lb
+ ed="J" n="0521b08"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0521b19"/><head>玄符第五十五章</head><lb
+ ed="J" n="0521b20"/><div type='orig' level='2'><ab type='prose'>含德之厚比於赤子毒蟲不螫猛獸不據玃鳥不搏<lb
+ ed="J" n="0521b21"/>骨弱筋柔而握固未知牝牡之合而脧作精之至也<lb
+ ed="J" n="0521b22"/>終日號而嗌不嗄和之至也知和曰常知常曰明益<lb
+ ed="J" n="0521b23"/>生曰祥心使氣曰強物壯則老謂之不道不道早已。</ab></div><lb
+ ed="J" n="0521b24"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0521c06"/><head>玄德第五十六章</head><lb
+ ed="J" n="0521c07"/><div type='orig' level='2'><ab type='prose'>知者不言言者不知塞其兌閉其門挫其銳解其紛<lb
+ ed="J" n="0521c08"/>和其光同其塵是謂玄同不可得而親不可得而疏<lb
+ ed="J" n="0521c09"/>不可得而利不可得而害不可得而貴不可得而賤<lb
+ ed="J" n="0521c10"/>故為天下貴。</ab></div><lb
+ ed="J" n="0521c11"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0521c16"/><head>淳風第五十七章</head><lb
+ ed="J" n="0521c17"/><div type='orig' level='2'><ab type='prose'>以正治國以奇用兵以無事取天下吾何以知其然<lb
+ ed="J" n="0521c18"/>哉以此天下多忌諱而民彌貧民多利器國家滋昏<lb
+ ed="J" n="0521c19"/>人多伎巧奇物滋起法令滋章盜賊多有故聖人云<lb
+ ed="J" n="0521c20"/>我無為而民自化我好靜而民自正我無事而民自<lb
+ ed="J" n="0521c21"/>富我無欲而民自樸。</ab></div><lb
+ ed="J" n="0521c22"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0521c30"/><head>順化第五十八章</head><pb ed="J" id="J36.B351.0522a" n="0522a"/><lb
+ ed="J" n="0522a01"/><div type='orig' level='2'><ab type='prose'>其政悶悶其民醇醇其政察察其民缺缺禍兮福所<lb
+ ed="J" n="0522a02"/>倚福兮禍所伏孰知其極其無正邪正復為奇善復<lb
+ ed="J" n="0522a03"/>為訞民之迷其日固久是以聖人方而不割廉而不<lb
+ ed="J" n="0522a04"/>劌直而不肆光而不曜。</ab></div><lb
+ ed="J" n="0522a05"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0522a13"/><head>守道第五十九章</head><lb
+ ed="J" n="0522a14"/><div type='orig' level='2'><ab type='prose'>治人事天莫如嗇夫唯嗇是謂早復早復謂之重積<lb
+ ed="J" n="0522a15"/>德重積德則無不剋無不剋則莫知其極莫知其極<lb
+ ed="J" n="0522a16"/>可以有國有國之母可以長久是謂深根固蒂長生<lb
+ ed="J" n="0522a17"/>久視之道。</ab></div><lb
+ ed="J" n="0522a18"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0522a25"/><head>居位第六十章</head><lb
+ ed="J" n="0522a26"/><div type='orig' level='2'><ab type='prose'>治大國若烹小鮮以道蒞天下其鬼不神非其鬼不<lb
+ ed="J" n="0522a27"/>神其神不傷人非其神不傷人聖人亦不傷之夫兩<lb
+ ed="J" n="0522a28"/>不相傷故德交歸焉。</ab></div><lb
+ ed="J" n="0522a29"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0522b05"/><head>謙德第六十一章</head><lb
+ ed="J" n="0522b06"/><div type='orig' level='2'><ab type='prose'>大國者下流天下之交天下之牝牝常以靜勝牡以<lb
+ ed="J" n="0522b07"/>靜為下故大國以下小國則取小國小國以下大國<lb
+ ed="J" n="0522b08"/>則取大國故或下以取或下而取大國不過欲兼畜<lb
+ ed="J" n="0522b09"/>人小國不過欲入事人夫兩者各得其所欲故大者<lb
+ ed="J" n="0522b10"/>宜為下。</ab></div><lb
+ ed="J" n="0522b11"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0522b19"/><head>為道第六十二章</head><lb
+ ed="J" n="0522b20"/><div type='orig' level='2'><ab type='prose'>道者萬物之奧善人之寶不善人之所保美言可以<lb
+ ed="J" n="0522b21"/>市尊行可以加人人之不善何棄之有故立天子置<lb
+ ed="J" n="0522b22"/>三公雖有拱璧以先駟馬不如坐進此道古之所以<lb
+ ed="J" n="0522b23"/>貴此道者何不日以求得有罪以免耶故為天下貴。</ab></div><lb
+ ed="J" n="0522b24"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0522c05"/><head>恩始第六十三章</head><lb
+ ed="J" n="0522c06"/><div type='orig' level='2'><ab type='prose'>為無為事無事味無味大小多少報怨以德圖難於<lb
+ ed="J" n="0522c07"/>其易為大於其細天下難事必作於易天下大事必<lb
+ ed="J" n="0522c08"/>作於細是以聖人終不為大故能成其大夫輕諾必<lb
+ ed="J" n="0522c09"/>寡信多易必多難是以聖人猶難之故終無難。</ab></div><lb
+ ed="J" n="0522c10"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0522c19"/><head>守微第六十四章</head><lb
+ ed="J" n="0522c20"/><div type='orig' level='2'><ab type='prose'>其安易持其未兆易謀其脆易破其微易散為之於<lb
+ ed="J" n="0522c21"/>未有治之於未亂合抱之木生於毫末九層之臺起<lb
+ ed="J" n="0522c22"/>於累土千里之行始於足下為者敗之執者失之聖<lb
+ ed="J" n="0522c23"/>人無為故無敗無執故無失民之從事常於幾成而<lb
+ ed="J" n="0522c24"/>敗之慎終如始則無敗事是以聖人欲不欲不貴難<lb
+ ed="J" n="0522c25"/>得之貨學不學復眾人之所過以輔萬物之自然而<lb
+ ed="J" n="0522c26"/>不敢為。</ab></div><lb
+ ed="J" n="0522c27"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0523a10"/><head>淳德第六十五章</head><lb
+ ed="J" n="0523a11"/><div type='orig' level='2'><ab type='prose'>古之善為道者非以明民將以愚之民之難治以其<lb
+ ed="J" n="0523a12"/>智多以智治國國之賊不以智治國國之福知此兩<lb
+ ed="J" n="0523a13"/>者亦楷式能知楷式是謂玄德玄德深矣遠矣與物<lb
+ ed="J" n="0523a14"/>反矣乃至於大順。</ab></div><lb
+ ed="J" n="0523a15"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0523a24"/><head>後巳第六十六章</head><lb
+ ed="J" n="0523a25"/><div type='orig' level='2'><ab type='prose'>江海所以能為百谷王者以其善下之故能為百谷<lb
+ ed="J" n="0523a26"/>王是以聖人欲上民必以言下之欲先民必以身後<lb
+ ed="J" n="0523a27"/>之是以聖人處上而民不重處前而民不害是以天<lb
+ ed="J" n="0523a28"/>下樂推而不厭以其不爭故天下莫能與之爭。</ab></div><lb
+ ed="J" n="0523a29"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0523b05"/><head>三寶第六十七章</head><lb
+ ed="J" n="0523b06"/><div type='orig' level='2'><ab type='prose'>天下皆謂我大似不肖夫唯大故似不肖若肖久矣<lb
+ ed="J" n="0523b07"/>其細我有三寶持而寶之一曰慈二曰儉三曰不敢<lb
+ ed="J" n="0523b08"/>為天下先慈故能勇儉故能廣不敢為天下先故能<lb
+ ed="J" n="0523b09"/>成器長今舍慈且勇舍儉且廣舍後且先死矣夫慈<lb
+ ed="J" n="0523b10"/>以戰則勝以守則固天將救之以慈衛之。</ab></div><lb
+ ed="J" n="0523b11"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0523b23"/><head>配天第六十八章</head><lb
+ ed="J" n="0523b24"/><div type='orig' level='2'><ab type='prose'>善為士者不武善戰者不怒善戰勝者不與善用人<lb
+ ed="J" n="0523b25"/>者為下是謂不爭之德是謂用人之力是謂配天古<lb
+ ed="J" n="0523b26"/>之極。</ab></div><lb
+ ed="J" n="0523b27"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0523c05"/><head>玄用第六十九章</head><lb
+ ed="J" n="0523c06"/><div type='orig' level='2'><ab type='prose'>用兵有言吾不敢為主而為客不敢進寸而退尺是<lb
+ ed="J" n="0523c07"/>謂行無行攘與臂仍無敵執無兵禍莫大於輕敵輕<lb
+ ed="J" n="0523c08"/>敵幾喪吾寶故抗兵相加哀者勝矣。</ab></div><lb
+ ed="J" n="0523c09"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0523c17"/><head>知難第七十章</head><lb
+ ed="J" n="0523c18"/><div type='orig' level='2'><ab type='prose'>吾言甚易知甚易行天下莫能知莫能行言有宗事<lb
+ ed="J" n="0523c19"/>有君夫唯無知是以不我知知我者希則我者貴是<lb
+ ed="J" n="0523c20"/>以聖人被褐懷玉。</ab></div><lb
+ ed="J" n="0523c21"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0523c27"/><head>知病七十一章</head><lb
+ ed="J" n="0523c28"/><div type='orig' level='2'><ab type='prose'>知不知上不知知病夫唯病病是以不病聖人不病<lb
+ ed="J" n="0523c29"/>以其病病是以不病。</ab></div><lb
+ ed="J" n="0523c30"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0524a05"/><head>愛巳第七十二章</head><lb
+ ed="J" n="0524a06"/><div type='orig' level='2'><ab type='prose'>民不畏威大威至矣無狹其所居無厭其所生夫唯<lb
+ ed="J" n="0524a07"/>不厭是以不厭是以聖人自知不自見自愛不自貴<lb
+ ed="J" n="0524a08"/>故去彼取此。</ab></div><lb
+ ed="J" n="0524a09"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0524a16"/><head>任為七十三章</head><lb
+ ed="J" n="0524a17"/><div type='orig' level='2'><ab type='prose'>勇於敢則殺勇於不敢則活此兩者或利或害天之<lb
+ ed="J" n="0524a18"/>所惡孰知其故是以聖人猶難之天之道不爭而善<lb
+ ed="J" n="0524a19"/>勝不言而善應不召而自來繟然而善謀天網恢恢<lb
+ ed="J" n="0524a20"/>疏而不失。</ab></div><lb
+ ed="J" n="0524a21"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0524a30"/><head>制惑第七十四章</head><pb ed="J" id="J36.B351.0524b" n="0524b"/><lb
+ ed="J" n="0524b01"/><div type='orig' level='2'><ab type='prose'>民不畏死奈何以死懼之若使民常畏死而為奇者<lb
+ ed="J" n="0524b02"/>吾得執而殺之孰敢常有司殺者殺夫代司殺者殺<lb
+ ed="J" n="0524b03"/>是謂代大匠斲夫代大匠斲希有不傷手矣。</ab></div><lb
+ ed="J" n="0524b04"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0524b11"/><head>貪損第七十五章</head><lb
+ ed="J" n="0524b12"/><div type='orig' level='2'><ab type='prose'>民之饑以其上食稅之多是以饑民之難治以其上<lb
+ ed="J" n="0524b13"/>之有為是以難治民之輕死以其求生之厚是以輕<lb
+ ed="J" n="0524b14"/>死夫唯無以生為者是賢於貴生。</ab></div><lb
+ ed="J" n="0524b15"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0524b22"/><head>戒強第七十六章</head><lb
+ ed="J" n="0524b23"/><div type='orig' level='2'><ab type='prose'>人之生也柔弱其死也堅強萬物草木之生也柔脆<lb
+ ed="J" n="0524b24"/>其死也枯槁堅強者死之徒柔弱者生之徒是以兵<lb
+ ed="J" n="0524b25"/>強則不勝木強則共強大處下柔弱處上。</ab></div><lb
+ ed="J" n="0524b26"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0524c04"/><head>天道第七十七章</head><lb
+ ed="J" n="0524c05"/><div type='orig' level='2'><ab type='prose'>天之道其猶張弓乎高者抑之下者舉之有餘者損<lb
+ ed="J" n="0524c06"/>之不足者與之天之道損有餘而補不足人之道則<lb
+ ed="J" n="0524c07"/>不然損不足以奉有餘孰能有餘以奉天下唯有道<lb
+ ed="J" n="0524c08"/>者是以聖人為而不恃功成而不處其不欲見賢。</ab></div><lb
+ ed="J" n="0524c09"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0524c16"/><head>任疆第七十八章</head><lb
+ ed="J" n="0524c17"/><div type='orig' level='2'><ab type='prose'>天下柔弱莫過於水而攻堅強者莫之能勝其無以<lb
+ ed="J" n="0524c18"/>易之弱之勝強柔之勝剛天下莫不知莫能行故聖<lb
+ ed="J" n="0524c19"/>人云受國之垢是謂社稷主受國之不祥是謂天下<lb
+ ed="J" n="0524c20"/>王正言若反。</ab></div><lb
+ ed="J" n="0524c21"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0524c28"/><head>任契第七十九章</head><lb
+ ed="J" n="0524c29"/><div type='orig' level='2'><ab type='prose'>和大怨必有餘怨安可以為善是以聖人執左契而<lb
+ ed="J" n="0524c30"/>不責于人有德司契無德司徹天道無親常與善人。</ab></div><pb ed="J" id="J36.B351.0525a" n="0525a"/><lb
+ ed="J" n="0525a01"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0525a10"/><head>獨立第八十章</head><lb
+ ed="J" n="0525a11"/><div type='orig' level='2'><ab type='prose'>小國寡民使有什伯人之器而不用使民重死而不<lb
+ ed="J" n="0525a12"/>遠徙雖有舟輿無所乘之雖有甲兵無所陳之使民<lb
+ ed="J" n="0525a13"/>復繩結而用之甘其食美其服安其居樂其俗鄰國<lb
+ ed="J" n="0525a14"/>相望雞犬之聲相聞民至老死不相往來。</ab></div><lb
+ ed="J" n="0525a15"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0525a24"/><head>顯質第八十一章</head><lb
+ ed="J" n="0525a25"/><div type='orig' level='2'><ab type='prose'>信言不美美言不信善者不辯辯者不善知者不博<lb
+ ed="J" n="0525a26"/>博者不知聖人不積既以為人己愈有既以與人己<lb
+ ed="J" n="0525a27"/>愈多天之道利而不害聖人之道為而不爭。</ab></div><lb
+ ed="J" n="0525a28"/><div type='commentary' level='2'><ab type='prose'>。</ab></div><lb
+ ed="J" n="0525b09"/>
+<ab type='juan' subtype='close'>道德經順硃卷下</ab></div>
+</body></text></TEI>

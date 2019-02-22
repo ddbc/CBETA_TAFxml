@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">成就夢想法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X59</biblScope>
+                    <idno type="Taisho">X59n1052</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X59.1052.0051a" n="0051a"/><lb
+ ed="X" n="0051a01"/><lb
+ ed="X" n="0051a02"/><lb
+ ed="X" n="0051a03"/><lb
+ ed="R104" n="0442a01"/>
+<ab type='juan' subtype='open'>成就夢想法一卷</ab><lb
+ ed="X" n="0051a04"/><lb
+ ed="X" n="0051a05"/><lb
+ ed="R104" n="0442a02"/><byline>大興善寺翻經院灌頂阿闍梨述</byline><lb
+ ed="X" n="0051a06"/><lb
+ ed="R104" n="0442a03"/><div type='' level='2'><ab type='prose'>我今披見秘藏要文有成就夢想法為末世眾生故<lb
+ ed="X" n="0051a07"/><lb
+ ed="R104" n="0442a04"/>說是次第儀則於淨室中作一方壇隨意大小其壇<lb
+ ed="X" n="0051a08"/><lb
+ ed="R104" n="0442a05"/>中辦備供物謂香花油燈飲食菓子蘇蜜歡喜團等<lb
+ ed="X" n="0051a09"/><lb
+ ed="R104" n="0442a06"/>如是種種不可具說隨時取新者用之。<lb
+ ed="X" n="0051a10"/><lb
+ ed="R104" n="0442a07"/>次說勸請法曰。<lb
+ ed="X" n="0051a11"/><lb
+ ed="R104" n="0442a08"/></ab>
+<ab type='verse'>
+我今勸請佛眼尊　　文殊玅幢諸眷屬　　<lb
+ ed="X" n="0051a12"/><lb
+ ed="R104" n="0442a09"/>北斗七曜九執等　　二十八宿十二宮　　<lb
+ ed="X" n="0051a13"/><lb
+ ed="R104" n="0442a10"/>十二天王二六神　　諸龍藥叉羅剎等　　<lb
+ ed="X" n="0051a14"/><lb
+ ed="R104" n="0442a11"/>山王河王大樹王　　所有十方大善神　　<lb
+ ed="X" n="0051a15"/><lb
+ ed="R104" n="0442a12"/>不越勸請淨心力　　降臨影向受玅具　　<lb
+ ed="X" n="0051a16"/><lb
+ ed="R104" n="0442a13"/>護持某甲除不祥　　成就好夢與諸願　　
+</ab><lb
+ ed="X" n="0051a17"/><lb
+ ed="R104" n="0442a14"/><ab type='prose'>次說大鈎召呪曰。<lb
+ ed="X" n="0051a18"/><lb
+ ed="R104" n="0442a15"/></ab>
+<ab type='dharani'>歸命惡薩縛怛羅鉢羅底賀帝怛他誐黨矩奢󰂛地<lb
+ ed="X" n="0051a19"/><lb
+ ed="R104" n="0442a16"/>淅哩也鉢哩布羅迦耶娑婆賀<lb
+ ed="X" n="0051a20"/><lb
+ ed="R104" n="0442a17"/></ab>
+<ab type='prose'>若有眾生誦此呪時一切聖眾天龍鬼神皆隨喜來<lb
+ ed="X" n="0051a21"/><lb
+ ed="R104" n="0442a18"/>詣。<lb
+ ed="X" n="0051a22"/><lb
+ ed="R104" n="0442b01"/>復次說成就好夢法禮北方而作是念言。<lb
+ ed="X" n="0051a23"/><lb
+ ed="R104" n="0442b02"/></ab>
+<ab type='verse'>
+我今歸依佛法僧　　文殊玅幢北斗星　　<lb
+ ed="X" n="0051a24"/><lb
+ ed="R104" n="0442b03"/>十二天王諸星宿　　知見吉夢成所願　　
+</ab><pb ed="X" id="X59.1052.0051b" n="0051b"/><lb
+ ed="X" n="0051b01"/><lb
+ ed="R104" n="0442b04"/><ab type='prose'>復次說真言曰。<lb
+ ed="X" n="0051b02"/><lb
+ ed="R104" n="0442b05"/></ab>
+<ab type='dharani'>唵阿味羅吽佉左𠸪<lb
+ ed="X" n="0051b03"/><lb
+ ed="R104" n="0442b06"/></ab>
+<ab type='prose'>若有眾生得見好夢不得成就者由此教法念文殊<lb
+ ed="X" n="0051b04"/><lb
+ ed="R104" n="0442b07"/>師利菩薩及妙幢菩薩等若臥時誦一百八遍常得<lb
+ ed="X" n="0051b05"/><lb
+ ed="R104" n="0442b08"/>好夢能知善惡之事若有人得吉夢欲成就者加持<lb
+ ed="X" n="0051b06"/><lb
+ ed="R104" n="0442b09"/>飲食七遍食者不久得成就唯除思夢忙想來夢也。<lb
+ ed="X" n="0051b07"/><lb
+ ed="R104" n="0442b10"/>復次誰思除滅惡夢法禮北斗方而作是念言。<lb
+ ed="X" n="0051b08"/><lb
+ ed="R104" n="0442b11"/></ab>
+<ab type='verse'>
+我今歸依佛法僧　　文殊玅幢北斗星　　<lb
+ ed="X" n="0051b09"/><lb
+ ed="R104" n="0442b12"/>十二天王諸星宿　　願除惡夢得善事　　
+</ab><lb
+ ed="X" n="0051b10"/><lb
+ ed="R104" n="0442b13"/><ab type='prose'>復次說真言曰。<lb
+ ed="X" n="0051b11"/><lb
+ ed="R104" n="0442b14"/></ab>
+<ab type='dharani'>唵瑟置哩迦攞嚕跛吽欠薩嚩呵<lb
+ ed="X" n="0051b12"/><lb
+ ed="R104" n="0442b15"/></ab>
+<ab type='prose'>若有善男子善女人等得見惡夢不祥出現者以命<lb
+ ed="X" n="0051b13"/><lb
+ ed="R104" n="0442b16"/>木作人形書彼那麼加持七遍三日終竟彼人形置<lb
+ ed="X" n="0051b14"/><lb
+ ed="R104" n="0442b17"/>山野及大河邊不祥消滅心神安樂若有人常得吉<lb
+ ed="X" n="0051b15"/><lb
+ ed="R104" n="0442b18"/>夢如是不修行者不得久成就乃至消滅雖見惡夢<lb
+ ed="X" n="0051b16"/><lb
+ ed="R104" n="0443a01"/>如是修行者不應還成吉事又取白線作索呪二十<lb
+ ed="X" n="0051b17"/><lb
+ ed="R104" n="0443a02"/>一結繫身出入三度惡夢不應。<lb
+ ed="X" n="0051b18"/><lb
+ ed="R104" n="0443a03"/>復次說供養真言曰。<lb
+ ed="X" n="0051b19"/><lb
+ ed="R104" n="0443a04"/></ab>
+<ab type='dharani'>唵阿謨佉布惹麼柅跛納麼嚩曰󲲇怛他蘖多尾路<lb
+ ed="X" n="0051b20"/><lb
+ ed="R104" n="0443a05"/>枳帝三滿多鉢羅薩羅吽<lb
+ ed="X" n="0051b21"/><lb
+ ed="R104" n="0443a06"/></ab>
+<ab type='prose'>若有眾生誦此真言供養三寶時流出無量供養雲<lb
+ ed="X" n="0051b22"/><lb
+ ed="R104" n="0443a07"/>海供養一切聖眾。<lb
+ ed="X" n="0051b23"/><lb
+ ed="R104" n="0443a08"/>復次說施食呪曰。<pb ed="X" id="X59.1052.0051c" n="0051c"/><lb
+ ed="X" n="0051c01"/><lb
+ ed="R104" n="0443a10"/></ab>
+<ab type='dharani'>曩莫薩縛怛他蘖哆縛嚕枳帝唵三婆羅三婆羅吽<lb
+ ed="X" n="0051c02"/><lb
+ ed="R104" n="0443a11"/></ab>
+<ab type='prose'>若有人以此呪加持飲食施與一切天龍藥叉羅剎<lb
+ ed="X" n="0051c03"/><lb
+ ed="R104" n="0443a12"/>娑等山王海王河王大樹王一切諸鬼神等各各皆<lb
+ ed="X" n="0051c04"/><lb
+ ed="R104" n="0443a13"/>得摩伽陀國所用斗七七斛食皆悉飽滿。<lb
+ ed="X" n="0051c05"/><lb
+ ed="R104" n="0443a14"/>次發遣頌曰。<lb
+ ed="X" n="0051c06"/><lb
+ ed="R104" n="0443a15"/></ab>
+<ab type='verse'>
+唯願聖眾　　并諸眷屬　　加持某甲　　<lb
+ ed="X" n="0051c07"/><lb
+ ed="R104" n="0443a16"/>還歸大宮　　
+</ab><lb
+ ed="X" n="0051c08"/><lb
+ ed="R104" n="0443a17"/><lb
+ ed="X" n="0051c09"/><lb
+ ed="R104" n="0443a18"/>
+<ab type='juan' subtype='close'>成就夢想法一卷</ab><lb
+ ed="X" n="0051c10"/><lb
+ ed="X" n="0051c11"/><lb
+ ed="R104" n="0443b01"/><div type='w' level='3'><ab type='prose'>保延六年正月十八日書寫之移點了<lb
+ ed="X" n="0051c12"/><lb
+ ed="R104" n="0443b02"/>嘉祿元年六月三日奉隨日光房僧都御房於堀<lb
+ ed="X" n="0051c13"/><lb
+ ed="R104" n="0443b03"/>川壇所奉受了　圓俊記之<lb
+ ed="X" n="0051c14"/><lb
+ ed="R104" n="0443b04"/>文永元年六月二十八日奉寫之　繁承記<lb
+ ed="X" n="0051c15"/><lb
+ ed="R104" n="0443b05"/>同七月十一日奉從修月房僧都御房奉受云了<lb
+ ed="X" n="0051c16" type="honorific"/><lb
+ ed="R104" n="0443b06"/>繁承<lb
+ ed="X" n="0051c17"/><lb
+ ed="R104" n="0443b07"/>同十八日以或本見合加墨點了</ab></div></div></div>
+</body></text></TEI>

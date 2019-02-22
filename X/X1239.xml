@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">溈山警策註</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X63</biblScope>
+                    <idno type="Taisho">X63n1239</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X63.1239.0224b" n="0224b"/><lb
+ ed="X" n="0224b01"/><lb
+ ed="X" n="0224b02"/><lb
+ ed="X" n="0224b03"/><lb
+ ed="X" n="0224b04"/><lb
+ ed="X" n="0224b05"/><div type='xu' level='2'><head>No. 1239-A<lb
+ ed="X" n="0224b06"/><lb
+ ed="R111" n="0284a01"/> 注溈山警策序</head><lb
+ ed="X" n="0224b07"/><lb
+ ed="X" n="0224b08"/><lb
+ ed="R111" n="0284a02"/><byline>左朝奉大夫新廣南東路轉運判官張銖撰</byline><lb
+ ed="X" n="0224b09"/><lb
+ ed="R111" n="0284a03"/><ab type='prose'>自六祖而下有五派。溈仰居其一。惜乎其後不得其<lb
+ ed="X" n="0224b10"/><lb
+ ed="R111" n="0284a04"/>傳。然其法則傳萬世而無弊。不以人為存亡。溈山之<lb
+ ed="X" n="0224b11"/><lb
+ ed="R111" n="0284a05"/>警䇿是。以夫警䇿之行於世尚矣。學者每患其辭雖<lb
+ ed="X" n="0224b12"/><lb
+ ed="R111" n="0284a06"/>顯而其義則難窮。字有舛錯而久未能辨。不有宗師<lb
+ ed="X" n="0224b13"/><lb
+ ed="R111" n="0284a07"/>大匠安能發揚其義而校正其舛錯乎。大洪淨巖禪<lb
+ ed="X" n="0224b14"/><lb
+ ed="R111" n="0284a08"/>師禪學冠世。每因暇日游戲筆硯。己未安居因學者<lb
+ ed="X" n="0224b15"/><lb
+ ed="R111" n="0284a09"/>請益。遂為之註解。其義坦然明白。字之舛錯者又從<lb
+ ed="X" n="0224b16"/><lb
+ ed="R111" n="0284a10"/>而校正之。晚學後進有所矜式。俾溈山二百年湮沒<lb
+ ed="X" n="0224b17"/><lb
+ ed="R111" n="0284a11"/>之迹一旦光輝著見。因以傳無窮而施罔極。固不韙<lb
+ ed="X" n="0224b18"/><lb
+ ed="R111" n="0284a12"/>歟。門人史德賢欲鏤板以廣其傳。余嘉其志輙為之<lb
+ ed="X" n="0224b19"/><lb
+ ed="R111" n="0284a13"/>序而冠于篇首。紹興九年十二月旦日謹序。</ab></div><lb
+ ed="X" n="0224b20"/><lb
+ ed="X" n="0224b21"/><lb
+ ed="X" n="0224b22"/><lb
+ ed="X" n="0224b23"/><lb
+ ed="X" n="0224b24"/><pb ed="X" id="X63.1239.0224c" n="0224c"/><lb
+ ed="X" n="0224c01"/><lb
+ ed="X" n="0224c02"/>
+<ab type='juan' subtype='open'>溈山警策註</ab><lb
+ ed="X" n="0224c03"/><lb
+ ed="X" n="0224c04"/><lb
+ ed="R111" n="0284b01"/><div type='orig' level='2'><ab type='prose'>溈山警策</ab></div><lb
+ ed="X" n="0224c05"/><lb
+ ed="R111" n="0284b02"/><div type='commentary' level='2'><ab type='prose'>大洪嗣祖沙門　守遂　註</ab></div><lb
+ ed="X" n="0224c06"/><lb
+ ed="R111" n="0284b03"/><div type='orig' level='2'><ab type='prose'>溈山大圓禪師</ab></div><lb
+ ed="X" n="0224c07"/><lb
+ ed="R111" n="0284b04"/><div type='commentary' level='2'><ab type='prose'>師諱靈祐。初參百丈大智禪師。侍立夜深。丈云撥<lb
+ ed="X" n="0224c08"/><lb
+ ed="R111" n="0284b05"/>爐中火看。師撥云爐中無火。丈自起深撥乃得一<lb
+ ed="X" n="0224c09"/><lb
+ ed="R111" n="0284b06"/>星火。夾起云。你道無。者箇是什麼。師因此悟入。丈<lb
+ ed="X" n="0224c10"/><lb
+ ed="R111" n="0284b07"/>令司馬頭陀選得溈山堪建道場。因謂眾曰。若有<lb
+ ed="X" n="0224c11"/><lb
+ ed="R111" n="0284b08"/>人道得一轉語便去住溈山。乃指淨瓶問云。若喚<lb
+ ed="X" n="0224c12"/><lb
+ ed="R111" n="0284b09"/>作淨瓶則觸。若不喚作淨瓶則背。時華林為首座。<lb
+ ed="X" n="0224c13"/><lb
+ ed="R111" n="0284b10"/>云不可喚作木𣔻。丈不肯。時師為典座。丈乃問師。<lb
+ ed="X" n="0224c14"/><lb
+ ed="R111" n="0284b11"/>師踢倒淨瓶。丈云首座輸却山子了也。師居溈山。<lb
+ ed="X" n="0224c15"/><lb
+ ed="R111" n="0284b12"/>建溈仰一宗。道傳天下。乃作警䇿。警其未悟。䇿其<lb
+ ed="X" n="0224c16"/><lb
+ ed="R111" n="0284b13"/>未進者也。</ab></div><lb
+ ed="X" n="0224c17"/><lb
+ ed="R111" n="0284b14"/><div type='orig' level='2'><ab type='prose'>夫業繫受身。未免形累。</ab></div><lb
+ ed="X" n="0224c18"/><lb
+ ed="R111" n="0284b15"/><div type='commentary' level='2'><ab type='prose'>身為苦本。故先標之。令悟妄本。方可進道。此業繫<lb
+ ed="X" n="0224c19"/><lb
+ ed="R111" n="0284b16"/>兩字從最初一念不覺心動。謂之業相。次為轉相。<lb
+ ed="X" n="0224c20"/><lb
+ ed="R111" n="0284b17"/>後為現相。乃三細相也。由現相而生境界相。相續<lb
+ ed="X" n="0224c21"/><lb
+ ed="R111" n="0284b18"/>相。執取相。計名字相。造業相。業繫苦相。為六麤相。<lb
+ ed="X" n="0224c22"/><lb
+ ed="R111" n="0285a01"/>前五猶可對治。此末後苦相繫縛眾生不可對治。<lb
+ ed="X" n="0224c23"/><lb
+ ed="R111" n="0285a02"/>此身既由三細六麤無明種習而成。豈免形質負<lb
+ ed="X" n="0224c24"/><lb
+ ed="R111" n="0285a03"/>累。</ab></div><pb ed="X" id="X63.1239.0225a" n="0225a"/><lb
+ ed="X" n="0225a01"/><lb
+ ed="R111" n="0285a04"/><div type='orig' level='2'><ab type='prose'>稟父母之遺體。假眾緣而共成。</ab></div><lb
+ ed="X" n="0225a02"/><lb
+ ed="R111" n="0285a05"/><div type='commentary' level='2'><ab type='prose'>由稟識妄想。故於父母赤白中受身。假乳哺洗濯<lb
+ ed="X" n="0225a03"/><lb
+ ed="R111" n="0285a06"/>飲食衣服眾緣得存。佛云。觀身不淨。觀受是苦也。</ab></div><lb
+ ed="X" n="0225a04"/><lb
+ ed="R111" n="0285a07"/><div type='orig' level='2'><ab type='prose'>雖乃四大扶持。常相違背。</ab></div><lb
+ ed="X" n="0225a05"/><lb
+ ed="R111" n="0285a08"/><div type='commentary' level='2'><ab type='prose'>內四大地水火風。其性各異。</ab></div><lb
+ ed="X" n="0225a06"/><lb
+ ed="R111" n="0285a09"/><div type='orig' level='2'><ab type='prose'>無常老病。不與人期。</ab></div><lb
+ ed="X" n="0225a07"/><lb
+ ed="R111" n="0285a10"/><div type='commentary' level='2'><ab type='prose'>四大五蘊念念生滅。</ab></div><lb
+ ed="X" n="0225a08"/><lb
+ ed="R111" n="0285a11"/><div type='orig' level='2'><ab type='prose'>朝存夕亡。剎那異世。</ab></div><lb
+ ed="X" n="0225a09"/><lb
+ ed="R111" n="0285a12"/><div type='commentary' level='2'><ab type='prose'>剎那是極促之時分。</ab></div><lb
+ ed="X" n="0225a10"/><lb
+ ed="R111" n="0285a13"/><div type='orig' level='2'><ab type='prose'>譬如春霜曉露。倐忽即無。</ab></div><lb
+ ed="X" n="0225a11"/><lb
+ ed="R111" n="0285a14"/><div type='commentary' level='2'><ab type='prose'>無常之相須臾變滅。</ab></div><lb
+ ed="X" n="0225a12"/><lb
+ ed="R111" n="0285a15"/><div type='orig' level='2'><ab type='prose'>岸樹井藤。豈能長久。</ab></div><lb
+ ed="X" n="0225a13"/><lb
+ ed="R111" n="0285a16"/><div type='commentary' level='2'><ab type='prose'>危脆不久。亦復如是。</ab></div><lb
+ ed="X" n="0225a14"/><lb
+ ed="R111" n="0285a17"/><div type='orig' level='2'><ab type='prose'>念念迅速。一剎那間。</ab></div><lb
+ ed="X" n="0225a15"/><lb
+ ed="R111" n="0285a18"/><div type='commentary' level='2'><ab type='prose'>如四大力士同時各發一箭射於四方。又有一人<lb
+ ed="X" n="0225a16"/><lb
+ ed="R111" n="0285b01"/>同時收得此四箭。時名一剎那。</ab></div><lb
+ ed="X" n="0225a17"/><lb
+ ed="R111" n="0285b02"/><div type='orig' level='2'><ab type='prose'>轉息即是來生。何乃晏然空過。</ab></div><lb
+ ed="X" n="0225a18"/><lb
+ ed="R111" n="0285b03"/><div type='commentary' level='2'><ab type='prose'>自章初至此過。敘在家出家妄身妄世。無常迅速<lb
+ ed="X" n="0225a19"/><lb
+ ed="R111" n="0285b04"/>過患如此。警策令悟。不可空度光陰。自此以下唯<lb
+ ed="X" n="0225a20"/><lb
+ ed="R111" n="0285b05"/>敘出家者因由。各令思察。</ab></div><lb
+ ed="X" n="0225a21"/><lb
+ ed="R111" n="0285b06"/><div type='orig' level='2'><ab type='prose'>父母不供甘旨。六親固以弃離。</ab></div><lb
+ ed="X" n="0225a22"/><lb
+ ed="R111" n="0285b07"/><div type='commentary' level='2'><ab type='prose'>親緣皆弃乃反常合道。</ab></div><lb
+ ed="X" n="0225a23"/><lb
+ ed="R111" n="0285b08"/><div type='orig' level='2'><ab type='prose'>不能安國治󳬛。</ab></div><lb
+ ed="X" n="0225a24"/><lb
+ ed="R111" n="0285b09"/><div type='commentary' level='2'><ab type='prose'>辭父母割親緣。又不能竭節奉公致君澤民。當為<pb ed="X" id="X63.1239.0225b" n="0225b"/><lb
+ ed="X" n="0225b01"/><lb
+ ed="R111" n="0285b10"/>何事。</ab></div><lb
+ ed="X" n="0225b02"/><lb
+ ed="R111" n="0285b11"/><div type='orig' level='2'><ab type='prose'>家業頓捐繼嗣。</ab></div><lb
+ ed="X" n="0225b03"/><lb
+ ed="R111" n="0285b12"/><div type='commentary' level='2'><ab type='prose'>絕嗣為不孝。出家弘道。真大孝也。</ab></div><lb
+ ed="X" n="0225b04"/><lb
+ ed="R111" n="0285b13"/><div type='orig' level='2'><ab type='prose'>緬離鄉黨。剃髮稟師。</ab></div><lb
+ ed="X" n="0225b05"/><lb
+ ed="R111" n="0285b14"/><div type='commentary' level='2'><ab type='prose'>頓捨世緣。斷其情愛。稟師剃髮。行古佛之大道。同<lb
+ ed="X" n="0225b06"/><lb
+ ed="R111" n="0285b15"/>古佛之相儀。</ab></div><lb
+ ed="X" n="0225b07"/><lb
+ ed="R111" n="0285b16"/><div type='orig' level='2'><ab type='prose'>內勤尅念之功。外弘不諍之德。</ab></div><lb
+ ed="X" n="0225b08"/><lb
+ ed="R111" n="0285b17"/><div type='commentary' level='2'><ab type='prose'>履踐出家之功德。要須內外相符。</ab></div><lb
+ ed="X" n="0225b09"/><lb
+ ed="R111" n="0285b18"/><div type='orig' level='2'><ab type='prose'>逈脫塵世。冀期出離。</ab></div><lb
+ ed="X" n="0225b10"/><lb
+ ed="R111" n="0286a01"/><div type='commentary' level='2'><ab type='prose'>志存出離塵世。方合出家深旨。</ab></div><lb
+ ed="X" n="0225b11"/><lb
+ ed="R111" n="0286a02"/><div type='orig' level='2'><ab type='prose'>何乃纔登戒品。便言我是比丘。</ab></div><lb
+ ed="X" n="0225b12"/><lb
+ ed="R111" n="0286a03"/><div type='commentary' level='2'><ab type='prose'>自謂是比丘。則我相現前可驗。</ab></div><lb
+ ed="X" n="0225b13"/><lb
+ ed="R111" n="0286a04"/><div type='orig' level='2'><ab type='prose'>檀越所須。喫用常住。</ab></div><lb
+ ed="X" n="0225b14"/><lb
+ ed="R111" n="0286a05"/><div type='commentary' level='2'><ab type='prose'>不蠶而衣。不耕而食。</ab></div><lb
+ ed="X" n="0225b15"/><lb
+ ed="R111" n="0286a06"/><div type='orig' level='2'><ab type='prose'>不解忖思來處。</ab></div><lb
+ ed="X" n="0225b16"/><lb
+ ed="R111" n="0286a07"/><div type='commentary' level='2'><ab type='prose'>比丘受食當作五觀。想彼來處。計功多少。古德觀<lb
+ ed="X" n="0225b17"/><lb
+ ed="R111" n="0286a08"/>一粒米經七十三遍功夫。忖己德行全缺應供。證<lb
+ ed="X" n="0225b18"/><lb
+ ed="R111" n="0286a09"/>羅漢已方合全應供。餘皆名缺應供也。</ab></div><lb
+ ed="X" n="0225b19"/><lb
+ ed="R111" n="0286a10"/><div type='orig' level='2'><ab type='prose'>謂言法爾合供。</ab></div><lb
+ ed="X" n="0225b20"/><lb
+ ed="R111" n="0286a11"/><div type='commentary' level='2'><ab type='prose'>妄計情執。寧忖己非。</ab></div><lb
+ ed="X" n="0225b21"/><lb
+ ed="R111" n="0286a12"/><div type='orig' level='2'><ab type='prose'>喫了聚頭喧喧。但說人間雜話。</ab></div><lb
+ ed="X" n="0225b22"/><lb
+ ed="R111" n="0286a13"/><div type='commentary' level='2'><ab type='prose'>出家志求無為大道。不研佛語佛意。反徇世諦喧<lb
+ ed="X" n="0225b23"/><lb
+ ed="R111" n="0286a14"/>譁。自何乃已下。忘本乖志也。</ab></div><lb
+ ed="X" n="0225b24"/><lb
+ ed="R111" n="0286a15"/><div type='orig' level='2'><ab type='prose'>然則一期趂樂。不知樂是苦因。</ab></div><pb ed="X" id="X63.1239.0225c" n="0225c"/><lb
+ ed="X" n="0225c01"/><lb
+ ed="R111" n="0286a16"/><div type='commentary' level='2'><ab type='prose'>世諦之樂盡為苦本。虗受信施負債何疑。𭊷鐵負<lb
+ ed="X" n="0225c02"/><lb
+ ed="R111" n="0286a17"/>鞍猶是輕輕之報。</ab></div><lb
+ ed="X" n="0225c03"/><lb
+ ed="R111" n="0286a18"/><div type='orig' level='2'><ab type='prose'>曩劫徇塵。未甞返省。</ab></div><lb
+ ed="X" n="0225c04"/><lb
+ ed="R111" n="0286b01"/><div type='commentary' level='2'><ab type='prose'>曠劫徇塵背覺。何嘗暫自回光。</ab></div><lb
+ ed="X" n="0225c05"/><lb
+ ed="R111" n="0286b02"/><div type='orig' level='2'><ab type='prose'>時光淹沒。歲月蹉跎。受用殷繁。施利濃厚。</ab></div><lb
+ ed="X" n="0225c06"/><lb
+ ed="R111" n="0286b03"/><div type='commentary' level='2'><ab type='prose'>世利所惑。未省回光。</ab></div><lb
+ ed="X" n="0225c07"/><lb
+ ed="R111" n="0286b04"/><div type='orig' level='2'><ab type='prose'>動經年載。不擬弃離。</ab></div><lb
+ ed="X" n="0225c08"/><lb
+ ed="R111" n="0286b05"/><div type='commentary' level='2'><ab type='prose'>戀著處所不知過患。</ab></div><lb
+ ed="X" n="0225c09"/><lb
+ ed="R111" n="0286b06"/><div type='orig' level='2'><ab type='prose'>積聚滋多。保持幻質。</ab></div><lb
+ ed="X" n="0225c10"/><lb
+ ed="R111" n="0286b07"/><div type='commentary' level='2'><ab type='prose'>唯保幻妄之質。違背清淨法身。</ab></div><lb
+ ed="X" n="0225c11"/><lb
+ ed="R111" n="0286b08"/><div type='orig' level='2'><ab type='prose'>導師有勑戒勗比丘。進道嚴身三常不足。</ab></div><lb
+ ed="X" n="0225c12"/><lb
+ ed="R111" n="0286b09"/><div type='commentary' level='2'><ab type='prose'>佛遺教經。一云當自摩頭以捨飾好著壞色衣。執<lb
+ ed="X" n="0225c13"/><lb
+ ed="R111" n="0286b10"/>持應器以乞自活。二云受人飲食當如服藥。於好<lb
+ ed="X" n="0225c14"/><lb
+ ed="R111" n="0286b11"/>於惡勿生增減。趣得支身以除飢渴。如蜂採花但<lb
+ ed="X" n="0225c15"/><lb
+ ed="R111" n="0286b12"/>取其味不損色香。比丘亦爾。受人供養趣自除惱。<lb
+ ed="X" n="0225c16"/><lb
+ ed="R111" n="0286b13"/>無得多求壞其善心。三云晝則勤心修習善法無<lb
+ ed="X" n="0225c17"/><lb
+ ed="R111" n="0286b14"/>令失時。初夜後夜亦勿有廢。中夜誦經以自消息。<lb
+ ed="X" n="0225c18"/><lb
+ ed="R111" n="0286b15"/>無以睡眠因緣令一生空過。謂衣食睡眠知是三<lb
+ ed="X" n="0225c19"/><lb
+ ed="R111" n="0286b16"/>事不可恣情取足也。</ab></div><lb
+ ed="X" n="0225c20"/><lb
+ ed="R111" n="0286b17"/><div type='orig' level='2'><ab type='prose'>人多於此。躭味不休。</ab></div><lb
+ ed="X" n="0225c21"/><lb
+ ed="R111" n="0286b18"/><div type='commentary' level='2'><ab type='prose'>味謂味著。</ab></div><lb
+ ed="X" n="0225c22"/><lb
+ ed="R111" n="0287a01"/><div type='orig' level='2'><ab type='prose'>日往月來。䬃然白首。</ab></div><lb
+ ed="X" n="0225c23"/><lb
+ ed="R111" n="0287a02"/><div type='commentary' level='2'><ab type='prose'>古云。只知事逐眼前過。不覺老從頭上來。</ab></div><lb
+ ed="X" n="0225c24"/><lb
+ ed="R111" n="0287a03"/><div type='orig' level='2'><ab type='prose'>後學未聞旨趣。</ab></div><pb ed="X" id="X63.1239.0226a" n="0226a"/><lb
+ ed="X" n="0226a01"/><lb
+ ed="R111" n="0287a04"/><div type='commentary' level='2'><ab type='prose'>出家旨趣。</ab></div><lb
+ ed="X" n="0226a02"/><lb
+ ed="R111" n="0287a05"/><div type='orig' level='2'><ab type='prose'>應須博問先知。</ab></div><lb
+ ed="X" n="0226a03"/><lb
+ ed="R111" n="0287a06"/><div type='commentary' level='2'><ab type='prose'>不可守愚自是。</ab></div><lb
+ ed="X" n="0226a04"/><lb
+ ed="R111" n="0287a07"/><div type='orig' level='2'><ab type='prose'>將謂出家。貴求衣食。</ab></div><lb
+ ed="X" n="0226a05"/><lb
+ ed="R111" n="0287a08"/><div type='commentary' level='2'><ab type='prose'>出家者為無為法。私情愚見反謂求衣食爾。</ab></div><lb
+ ed="X" n="0226a06"/><lb
+ ed="R111" n="0287a09"/><div type='orig' level='2'><ab type='prose'>佛先制律。啟創發蒙。</ab></div><lb
+ ed="X" n="0226a07"/><lb
+ ed="R111" n="0287a10"/><div type='commentary' level='2'><ab type='prose'>啟發蒙昧。</ab></div><lb
+ ed="X" n="0226a08"/><lb
+ ed="R111" n="0287a11"/><div type='orig' level='2'><ab type='prose'>軌則威儀。</ab></div><lb
+ ed="X" n="0226a09"/><lb
+ ed="R111" n="0287a12"/><div type='commentary' level='2'><ab type='prose'>有威可敬有儀可則。</ab></div><lb
+ ed="X" n="0226a10"/><lb
+ ed="R111" n="0287a13"/><div type='orig' level='2'><ab type='prose'>淨如冰雪。</ab></div><lb
+ ed="X" n="0226a11"/><lb
+ ed="R111" n="0287a14"/><div type='commentary' level='2'><ab type='prose'>不同外道雜戒皆不清淨。</ab></div><lb
+ ed="X" n="0226a12"/><lb
+ ed="R111" n="0287a15"/><div type='orig' level='2'><ab type='prose'>止持作犯。束斂初心。</ab></div><lb
+ ed="X" n="0226a13"/><lb
+ ed="R111" n="0287a16"/><div type='commentary' level='2'><ab type='prose'>攝律儀戒。止惡為持。作惡為犯。攝善法戒。止善為<lb
+ ed="X" n="0226a14"/><lb
+ ed="R111" n="0287a17"/>犯。作善為持。</ab></div><lb
+ ed="X" n="0226a15"/><lb
+ ed="R111" n="0287a18"/><div type='orig' level='2'><ab type='prose'>微細條章。革諸猥弊。</ab></div><lb
+ ed="X" n="0226a16"/><lb
+ ed="R111" n="0287b01"/><div type='commentary' level='2'><ab type='prose'>五篇七聚。性戒遮戒。佛成道十二年後方乃制律。<lb
+ ed="X" n="0226a17"/><lb
+ ed="R111" n="0287b02"/>阿難問佛因何十二年前不制戒。佛言。如世補衣。<lb
+ ed="X" n="0226a18"/><lb
+ ed="R111" n="0287b03"/>衣若未破補則招謗。吾亦如是。因事立戒云。</ab></div><lb
+ ed="X" n="0226a19"/><lb
+ ed="R111" n="0287b04"/><div type='orig' level='2'><ab type='prose'>毗尼法席曾未叨陪。了義上乘豈能甄別。</ab></div><lb
+ ed="X" n="0226a20"/><lb
+ ed="R111" n="0287b05"/><div type='commentary' level='2'><ab type='prose'>毗尼。律學也。因戒生定。因定發慧。律學尚昧了義。<lb
+ ed="X" n="0226a21"/><lb
+ ed="R111" n="0287b06"/>深旨安可通達耶。</ab></div><lb
+ ed="X" n="0226a22"/><lb
+ ed="R111" n="0287b07"/><div type='orig' level='2'><ab type='prose'>可惜一生空過。後悔難追。</ab></div><lb
+ ed="X" n="0226a23"/><lb
+ ed="R111" n="0287b08"/><div type='commentary' level='2'><ab type='prose'>少不努力。老無所成。悔之於後。復何益哉。</ab></div><lb
+ ed="X" n="0226a24"/><lb
+ ed="R111" n="0287b09"/><div type='orig' level='2'><ab type='prose'>教理未甞措懷。玄道無因契悟。</ab></div><pb ed="X" id="X63.1239.0226b" n="0226b"/><lb
+ ed="X" n="0226b01"/><lb
+ ed="R111" n="0287b10"/><div type='commentary' level='2'><ab type='prose'>聖教理趣尚未留心。玄妙之道若為契悟。</ab></div><lb
+ ed="X" n="0226b02"/><lb
+ ed="R111" n="0287b11"/><div type='orig' level='2'><ab type='prose'>及至年高臈長。空腹高心。不肯親附良朋。唯知倨傲。</ab></div><lb
+ ed="X" n="0226b03"/><lb
+ ed="R111" n="0287b12"/><div type='commentary' level='2'><ab type='prose'>有年無德。護短飾非。無明習成。傲然自大。</ab></div><lb
+ ed="X" n="0226b04"/><lb
+ ed="R111" n="0287b13"/><div type='orig' level='2'><ab type='prose'>未諳法律。戢斂全無。</ab></div><lb
+ ed="X" n="0226b05"/><lb
+ ed="R111" n="0287b14"/><div type='commentary' level='2'><ab type='prose'>不親良朋焉知法律。三業四儀動乖律制。</ab></div><lb
+ ed="X" n="0226b06"/><lb
+ ed="R111" n="0287b15"/><div type='orig' level='2'><ab type='prose'>或大語高聲。出言無度。</ab></div><lb
+ ed="X" n="0226b07"/><lb
+ ed="R111" n="0287b16"/><div type='commentary' level='2'><ab type='prose'>戢斂全無。身業也。大語高聲。語業也。</ab></div><lb
+ ed="X" n="0226b08"/><lb
+ ed="R111" n="0287b17"/><div type='orig' level='2'><ab type='prose'>不敬上中下座。婆羅門聚會無殊。</ab></div><lb
+ ed="X" n="0226b09"/><lb
+ ed="R111" n="0287b18"/><div type='commentary' level='2'><ab type='prose'>不敬。意業也。準律有上中下次。佛制先受戒者為<lb
+ ed="X" n="0226b10"/><lb
+ ed="R111" n="0288a01"/>先。後受戒者為後。外道則不然。自此已下展轉警<lb
+ ed="X" n="0226b11"/><lb
+ ed="R111" n="0288a02"/>其過失。</ab></div><lb
+ ed="X" n="0226b12"/><lb
+ ed="R111" n="0288a03"/><div type='orig' level='2'><ab type='prose'>椀鉢作聲。食畢先起。</ab></div><lb
+ ed="X" n="0226b13"/><lb
+ ed="R111" n="0288a04"/><div type='commentary' level='2'><ab type='prose'>椀是唐言。鉢是梵語。具云鉢多羅。此方云應量器。<lb
+ ed="X" n="0226b14"/><lb
+ ed="R111" n="0288a05"/>若作聲則餓鬼咽中火起。</ab></div><lb
+ ed="X" n="0226b15"/><lb
+ ed="R111" n="0288a06"/><div type='orig' level='2'><ab type='prose'>去就乖角。僧體全無。</ab></div><lb
+ ed="X" n="0226b16"/><lb
+ ed="R111" n="0288a07"/><div type='commentary' level='2'><ab type='prose'>僧。具足梵語云僧伽耶。此云眾和合。理事和合為<lb
+ ed="X" n="0226b17"/><lb
+ ed="R111" n="0288a08"/>僧體。去就既不法。何僧體之有耶。</ab></div><lb
+ ed="X" n="0226b18"/><lb
+ ed="R111" n="0288a09"/><div type='orig' level='2'><ab type='prose'>起坐忪諸動他心念。</ab></div><lb
+ ed="X" n="0226b19"/><lb
+ ed="R111" n="0288a10"/><div type='commentary' level='2'><ab type='prose'>忪諸心神不寧之謂。出家惱他人。不名為沙門。</ab></div><lb
+ ed="X" n="0226b20"/><lb
+ ed="R111" n="0288a11"/><div type='orig' level='2'><ab type='prose'>不存󳸃󳸃軌則小小威儀。將何束斂後昆。新學無因<lb
+ ed="X" n="0226b21"/><lb
+ ed="R111" n="0288a12"/>倣俲。</ab></div><lb
+ ed="X" n="0226b22"/><lb
+ ed="R111" n="0288a13"/><div type='commentary' level='2'><ab type='prose'>若自不能修行正行。令他修者無有是處。</ab></div><lb
+ ed="X" n="0226b23"/><lb
+ ed="R111" n="0288a14"/><div type='orig' level='2'><ab type='prose'>纔相覺察。便言我是山僧。</ab></div><lb
+ ed="X" n="0226b24"/><lb
+ ed="R111" n="0288a15"/><div type='commentary' level='2'><ab type='prose'>人我貢高。欺壓後學。</ab></div><pb ed="X" id="X63.1239.0226c" n="0226c"/><lb
+ ed="X" n="0226c01"/><lb
+ ed="R111" n="0288a16"/><div type='orig' level='2'><ab type='prose'>未聞佛教行持。一向情存麤糙。</ab></div><lb
+ ed="X" n="0226c02"/><lb
+ ed="R111" n="0288a17"/><div type='commentary' level='2'><ab type='prose'>行解無取。世諦純熟。</ab></div><lb
+ ed="X" n="0226c03"/><lb
+ ed="R111" n="0288a18"/><div type='orig' level='2'><ab type='prose'>如斯之見。蓋為初心慵惰。饕餮因循。</ab></div><lb
+ ed="X" n="0226c04"/><lb
+ ed="R111" n="0288b01"/><div type='commentary' level='2'><ab type='prose'>貪財曰饕。貪食曰餮。</ab></div><lb
+ ed="X" n="0226c05"/><lb
+ ed="R111" n="0288b02"/><div type='orig' level='2'><ab type='prose'>荏苒人間。遂成疎野。</ab></div><lb
+ ed="X" n="0226c06"/><lb
+ ed="R111" n="0288b03"/><div type='commentary' level='2'><ab type='prose'>荏苒塵俗豈識清閑。</ab></div><lb
+ ed="X" n="0226c07"/><lb
+ ed="R111" n="0288b04"/><div type='orig' level='2'><ab type='prose'>不覺躘蹱老朽。觸事面牆。</ab></div><lb
+ ed="X" n="0226c08"/><lb
+ ed="R111" n="0288b05"/><div type='commentary' level='2'><ab type='prose'>躘蹱。行不進貌。面牆。一無所知。</ab></div><lb
+ ed="X" n="0226c09"/><lb
+ ed="R111" n="0288b06"/><div type='orig' level='2'><ab type='prose'>後學咨詢。無言接引。</ab></div><lb
+ ed="X" n="0226c10"/><lb
+ ed="R111" n="0288b07"/><div type='commentary' level='2'><ab type='prose'>自己智慧不明。將何開發晚進。</ab></div><lb
+ ed="X" n="0226c11"/><lb
+ ed="R111" n="0288b08"/><div type='orig' level='2'><ab type='prose'>縱有談說。不涉典章。</ab></div><lb
+ ed="X" n="0226c12"/><lb
+ ed="R111" n="0288b09"/><div type='commentary' level='2'><ab type='prose'>孟浪臆說。取笑傍觀。</ab></div><lb
+ ed="X" n="0226c13"/><lb
+ ed="R111" n="0288b10"/><div type='orig' level='2'><ab type='prose'>或被輕言。便責後生無禮。</ab></div><lb
+ ed="X" n="0226c14"/><lb
+ ed="R111" n="0288b11"/><div type='commentary' level='2'><ab type='prose'>不省己非。更責他過。</ab></div><lb
+ ed="X" n="0226c15"/><lb
+ ed="R111" n="0288b12"/><div type='orig' level='2'><ab type='prose'>瞋心忿起。言語該人。</ab></div><lb
+ ed="X" n="0226c16"/><lb
+ ed="R111" n="0288b13"/><div type='commentary' level='2'><ab type='prose'>一念瞋心起。百萬障門開。三毒既縱於凡情。四實<lb
+ ed="X" n="0226c17"/><lb
+ ed="R111" n="0288b14"/>寧思於佛語。</ab></div><lb
+ ed="X" n="0226c18"/><lb
+ ed="R111" n="0288b15"/><div type='orig' level='2'><ab type='prose'>一朝臥疾在牀。眾苦縈纏逼迫。曉夕思忖。心裏恛惶。</ab></div><lb
+ ed="X" n="0226c19"/><lb
+ ed="R111" n="0288b16"/><div type='commentary' level='2'><ab type='prose'>眾苦逼迫恛惶怖憂。</ab></div><lb
+ ed="X" n="0226c20"/><lb
+ ed="R111" n="0288b17"/><div type='orig' level='2'><ab type='prose'>前路茫茫。未知何往。</ab></div><lb
+ ed="X" n="0226c21"/><lb
+ ed="R111" n="0288b18"/><div type='commentary' level='2'><ab type='prose'>妄宰幻身。曷悟真歸。</ab></div><lb
+ ed="X" n="0226c22"/><lb
+ ed="R111" n="0289a01"/><div type='orig' level='2'><ab type='prose'>從茲始知悔過。臨渴掘井奚為。</ab></div><lb
+ ed="X" n="0226c23"/><lb
+ ed="R111" n="0289a02"/><div type='commentary' level='2'><ab type='prose'>縱然悔過知非。功行何由得辦。</ab></div><lb
+ ed="X" n="0226c24"/><lb
+ ed="R111" n="0289a03"/><div type='orig' level='2'><ab type='prose'>自恨早不預修。年晚多諸過咎。</ab></div><pb ed="X" id="X63.1239.0227a" n="0227a"/><lb
+ ed="X" n="0227a01"/><lb
+ ed="R111" n="0289a04"/><div type='commentary' level='2'><ab type='prose'>過咎已彰。悔之何補。</ab></div><lb
+ ed="X" n="0227a02"/><lb
+ ed="R111" n="0289a05"/><div type='orig' level='2'><ab type='prose'>臨行揮霍。</ab></div><lb
+ ed="X" n="0227a03"/><lb
+ ed="R111" n="0289a06"/><div type='commentary' level='2'><ab type='prose'>苦無定力。甘伏死門。</ab></div><lb
+ ed="X" n="0227a04"/><lb
+ ed="R111" n="0289a07"/><div type='orig' level='2'><ab type='prose'>怕怖慞惶。</ab></div><lb
+ ed="X" n="0227a05"/><lb
+ ed="R111" n="0289a08"/><div type='commentary' level='2'><ab type='prose'>無善可恃。無德可怙。</ab></div><lb
+ ed="X" n="0227a06"/><lb
+ ed="R111" n="0289a09"/><div type='orig' level='2'><ab type='prose'>縠穿󳭋飛。識心隨業。</ab></div><lb
+ ed="X" n="0227a07"/><lb
+ ed="R111" n="0289a10"/><div type='commentary' level='2'><ab type='prose'>七賢女經云。󳭋來入瓶中。以縠覆其口。縠穿󳭋飛<lb
+ ed="X" n="0227a08"/><lb
+ ed="R111" n="0289a11"/>去。識心隨業走。</ab></div><lb
+ ed="X" n="0227a09"/><lb
+ ed="R111" n="0289a12"/><div type='orig' level='2'><ab type='prose'>如人負債。強者先牽。</ab></div><lb
+ ed="X" n="0227a10"/><lb
+ ed="R111" n="0289a13"/><div type='commentary' level='2'><ab type='prose'>善惡業力。皆因妄識為主。力強者牽之。無自由分。</ab></div><lb
+ ed="X" n="0227a11"/><lb
+ ed="R111" n="0289a14"/><div type='orig' level='2'><ab type='prose'>心緒多端。重處偏墜。</ab></div><lb
+ ed="X" n="0227a12"/><lb
+ ed="R111" n="0289a15"/><div type='commentary' level='2'><ab type='prose'>六道四生。隨情想而受報。</ab></div><lb
+ ed="X" n="0227a13"/><lb
+ ed="R111" n="0289a16"/><div type='orig' level='2'><ab type='prose'>無常殺鬼。念念不停。</ab></div><lb
+ ed="X" n="0227a14"/><lb
+ ed="R111" n="0289a17"/><div type='commentary' level='2'><ab type='prose'>生時即有滅。不為愚者說。</ab></div><lb
+ ed="X" n="0227a15"/><lb
+ ed="R111" n="0289a18"/><div type='orig' level='2'><ab type='prose'>命不可延。</ab></div><lb
+ ed="X" n="0227a16"/><lb
+ ed="R111" n="0289b01"/><div type='commentary' level='2'><ab type='prose'>古云。無常若也黃昏至。更不留君到一更。</ab></div><lb
+ ed="X" n="0227a17"/><lb
+ ed="R111" n="0289b02"/><div type='orig' level='2'><ab type='prose'>時不可待。</ab></div><lb
+ ed="X" n="0227a18"/><lb
+ ed="R111" n="0289b03"/><div type='commentary' level='2'><ab type='prose'>勿謂今日不學有明日。今年不學有明年。嗚呼老<lb
+ ed="X" n="0227a19"/><lb
+ ed="R111" n="0289b04"/>矣是誰之愆。</ab></div><lb
+ ed="X" n="0227a20"/><lb
+ ed="R111" n="0289b05"/><div type='orig' level='2'><ab type='prose'>人天三有。應未免之。</ab></div><lb
+ ed="X" n="0227a21"/><lb
+ ed="R111" n="0289b06"/><div type='commentary' level='2'><ab type='prose'>三界無安猶如火宅。</ab></div><lb
+ ed="X" n="0227a22"/><lb
+ ed="R111" n="0289b07"/><div type='orig' level='2'><ab type='prose'>如是受身。非論劫數。</ab></div><lb
+ ed="X" n="0227a23"/><lb
+ ed="R111" n="0289b08"/><div type='commentary' level='2'><ab type='prose'>如汲井輪互為高下。</ab></div><lb
+ ed="X" n="0227a24"/><lb
+ ed="R111" n="0289b09"/><div type='orig' level='2'><ab type='prose'>感傷歎訝。哀哉切心。</ab></div><pb ed="X" id="X63.1239.0227b" n="0227b"/><lb
+ ed="X" n="0227b01"/><lb
+ ed="R111" n="0289b10"/><div type='commentary' level='2'><ab type='prose'>溈山悲傷未悟如此情切。</ab></div><lb
+ ed="X" n="0227b02"/><lb
+ ed="R111" n="0289b11"/><div type='orig' level='2'><ab type='prose'>豈可緘言。󱠛相警䇿。</ab></div><lb
+ ed="X" n="0227b03"/><lb
+ ed="R111" n="0289b12"/><div type='commentary' level='2'><ab type='prose'>眾生輪迴苦趣。懷寶迷󳬛。既為善知識。安可緘默<lb
+ ed="X" n="0227b04"/><lb
+ ed="R111" n="0289b13"/>而不啟發耶。</ab></div><lb
+ ed="X" n="0227b05"/><lb
+ ed="R111" n="0289b14"/><div type='orig' level='2'><ab type='prose'>所恨同生像季。去聖時遙。</ab></div><lb
+ ed="X" n="0227b06"/><lb
+ ed="R111" n="0289b15"/><div type='commentary' level='2'><ab type='prose'>像法之季。乃佛滅後二千年間。是造警䇿時。今又<lb
+ ed="X" n="0227b07"/><lb
+ ed="R111" n="0289b16"/>二百餘年。聖時愈遠矣。</ab></div><lb
+ ed="X" n="0227b08"/><lb
+ ed="R111" n="0289b17"/><div type='orig' level='2'><ab type='prose'>佛法生疎。人多懈怠。</ab></div><lb
+ ed="X" n="0227b09"/><lb
+ ed="R111" n="0289b18"/><div type='commentary' level='2'><ab type='prose'>根機皆劣。豈可比況佛正法之時。</ab></div><lb
+ ed="X" n="0227b10"/><lb
+ ed="R111" n="0290a01"/><div type='orig' level='2'><ab type='prose'>略伸管見。以曉後來。</ab></div><lb
+ ed="X" n="0227b11"/><lb
+ ed="R111" n="0290a02"/><div type='commentary' level='2'><ab type='prose'>溈山謙辭謂如管窺天之見。以曉喻後學爾。</ab></div><lb
+ ed="X" n="0227b12"/><lb
+ ed="R111" n="0290a03"/><div type='orig' level='2'><ab type='prose'>若不蠲矜。誠難輪逭。</ab></div><lb
+ ed="X" n="0227b13"/><lb
+ ed="R111" n="0290a04"/><div type='commentary' level='2'><ab type='prose'>若不蠲除矜伐前來過患。則實難逃逭於業報苦<lb
+ ed="X" n="0227b14"/><lb
+ ed="R111" n="0290a05"/>輪也。永嘉云。蠲矜怠慢。不顧形骸。專秘至道者。可<lb
+ ed="X" n="0227b15"/><lb
+ ed="R111" n="0290a06"/>謂契神方寸歟。自此下別敘決志出家之本意。參<lb
+ ed="X" n="0227b16"/><lb
+ ed="R111" n="0290a07"/>訪知識親近師友發明大事因緣。暨履踐一代時<lb
+ ed="X" n="0227b17"/><lb
+ ed="R111" n="0290a08"/>教佛語心宗。要須行解相應。續佛慧命之始末也。</ab></div><lb
+ ed="X" n="0227b18"/><lb
+ ed="R111" n="0290a09"/><div type='orig' level='2'><ab type='prose'>夫出家者。發足超方。心形異俗。</ab></div><lb
+ ed="X" n="0227b19"/><lb
+ ed="R111" n="0290a10"/><div type='commentary' level='2'><ab type='prose'>獨步大方。心超物哀。</ab></div><lb
+ ed="X" n="0227b20"/><lb
+ ed="R111" n="0290a11"/><div type='orig' level='2'><ab type='prose'>紹隆聖種。震攝魔軍。</ab></div><lb
+ ed="X" n="0227b21"/><lb
+ ed="R111" n="0290a12"/><div type='commentary' level='2'><ab type='prose'>志齊古佛。力降眾魔。</ab></div><lb
+ ed="X" n="0227b22"/><lb
+ ed="R111" n="0290a13"/><div type='orig' level='2'><ab type='prose'>用報四恩。</ab></div><lb
+ ed="X" n="0227b23"/><lb
+ ed="R111" n="0290a14"/><div type='commentary' level='2'><ab type='prose'>佛恩。國王恩。父母恩。施主恩。</ab></div><lb
+ ed="X" n="0227b24"/><lb
+ ed="R111" n="0290a15"/><div type='orig' level='2'><ab type='prose'>拔濟三有。</ab></div><pb ed="X" id="X63.1239.0227c" n="0227c"/><lb
+ ed="X" n="0227c01"/><lb
+ ed="R111" n="0290a16"/><div type='commentary' level='2'><ab type='prose'>欲有。色有。無色有。乃三界眾生也。</ab></div><lb
+ ed="X" n="0227c02"/><lb
+ ed="R111" n="0290a17"/><div type='orig' level='2'><ab type='prose'>若不如此。濫廁僧倫。</ab></div><lb
+ ed="X" n="0227c03"/><lb
+ ed="R111" n="0290a18"/><div type='commentary' level='2'><ab type='prose'>反此則皆為混濫。非釋子也。</ab></div><lb
+ ed="X" n="0227c04"/><lb
+ ed="R111" n="0290b01"/><div type='orig' level='2'><ab type='prose'>言行荒疎。虗霑信施。</ab></div><lb
+ ed="X" n="0227c05"/><lb
+ ed="R111" n="0290b02"/><div type='commentary' level='2'><ab type='prose'>信施本為福田。荒疎則彼此無益。</ab></div><lb
+ ed="X" n="0227c06"/><lb
+ ed="R111" n="0290b03"/><div type='orig' level='2'><ab type='prose'>昔年行處。寸步不移。</ab></div><lb
+ ed="X" n="0227c07"/><lb
+ ed="R111" n="0290b04"/><div type='commentary' level='2'><ab type='prose'>古云。但改舊時行履處。莫改舊時人。</ab></div><lb
+ ed="X" n="0227c08"/><lb
+ ed="R111" n="0290b05"/><div type='orig' level='2'><ab type='prose'>恍惚一生。將何憑恃。</ab></div><lb
+ ed="X" n="0227c09"/><lb
+ ed="R111" n="0290b06"/><div type='commentary' level='2'><ab type='prose'>恍惚如夢未覺。何功行而可憑。</ab></div><lb
+ ed="X" n="0227c10"/><lb
+ ed="R111" n="0290b07"/><div type='orig' level='2'><ab type='prose'>況乃堂堂僧相。容皃可觀。</ab></div><lb
+ ed="X" n="0227c11"/><lb
+ ed="R111" n="0290b08"/><div type='commentary' level='2'><ab type='prose'>相皃可觀。非容易所致也。</ab></div><lb
+ ed="X" n="0227c12"/><lb
+ ed="R111" n="0290b09"/><div type='orig' level='2'><ab type='prose'>皆是宿植善根。感斯異報。</ab></div><lb
+ ed="X" n="0227c13"/><lb
+ ed="R111" n="0290b10"/><div type='commentary' level='2'><ab type='prose'>今生因是前生種。未來果是今世修。</ab></div><lb
+ ed="X" n="0227c14"/><lb
+ ed="R111" n="0290b11"/><div type='orig' level='2'><ab type='prose'>便擬端然拱手。不貴寸陰。</ab></div><lb
+ ed="X" n="0227c15"/><lb
+ ed="R111" n="0290b12"/><div type='commentary' level='2'><ab type='prose'>古人重寸陰輕尺璧。</ab></div><lb
+ ed="X" n="0227c16"/><lb
+ ed="R111" n="0290b13"/><div type='orig' level='2'><ab type='prose'>事業不勤。功果無因克就。</ab></div><lb
+ ed="X" n="0227c17"/><lb
+ ed="R111" n="0290b14"/><div type='commentary' level='2'><ab type='prose'>古佛經三無數劫。發四洪誓願。歷修萬行。福慧兩<lb
+ ed="X" n="0227c18"/><lb
+ ed="R111" n="0290b15"/>嚴。纖瑕障盡。片善無遺。方證佛果。豈可具足凡夫<lb
+ ed="X" n="0227c19"/><lb
+ ed="R111" n="0290b16"/>不勤戒定慧學而欲希求無上大果耶。</ab></div><lb
+ ed="X" n="0227c20"/><lb
+ ed="R111" n="0290b17"/><div type='orig' level='2'><ab type='prose'>豈可一生空過。抑亦來業無裨。</ab></div><lb
+ ed="X" n="0227c21"/><lb
+ ed="R111" n="0290b18"/><div type='commentary' level='2'><ab type='prose'>非惟自悞一生。亦乃來生靡託。</ab></div><lb
+ ed="X" n="0227c22"/><lb
+ ed="R111" n="0291a01"/><div type='orig' level='2'><ab type='prose'>辭親決志披緇。意欲等超何所。</ab></div><lb
+ ed="X" n="0227c23"/><lb
+ ed="R111" n="0291a02"/><div type='commentary' level='2'><ab type='prose'>出家本志。當為何事。</ab></div><lb
+ ed="X" n="0227c24"/><lb
+ ed="R111" n="0291a03"/><div type='orig' level='2'><ab type='prose'>曉夕思忖。豈可遷延過時。</ab></div><pb ed="X" id="X63.1239.0228a" n="0228a"/><lb
+ ed="X" n="0228a01"/><lb
+ ed="R111" n="0291a04"/><div type='commentary' level='2'><ab type='prose'>退步反思。聞健進學。</ab></div><lb
+ ed="X" n="0228a02"/><lb
+ ed="R111" n="0291a05"/><div type='orig' level='2'><ab type='prose'>心期佛法棟梁。用作後來龜鏡。</ab></div><lb
+ ed="X" n="0228a03"/><lb
+ ed="R111" n="0291a06"/><div type='commentary' level='2'><ab type='prose'>勇志慕佛法之棟梁。乘範作後學之龜鏡。龜知未<lb
+ ed="X" n="0228a04"/><lb
+ ed="R111" n="0291a07"/>來禍福。鏡驗現在妍𡟎。</ab></div><lb
+ ed="X" n="0228a05"/><lb
+ ed="R111" n="0291a08"/><div type='orig' level='2'><ab type='prose'>常以如此。未能少分相應。</ab></div><lb
+ ed="X" n="0228a06"/><lb
+ ed="R111" n="0291a09"/><div type='commentary' level='2'><ab type='prose'>雖有志願而行解未充。故云未也。</ab></div><lb
+ ed="X" n="0228a07"/><lb
+ ed="R111" n="0291a10"/><div type='orig' level='2'><ab type='prose'>出言須涉於典章。</ab></div><lb
+ ed="X" n="0228a08"/><lb
+ ed="R111" n="0291a11"/><div type='commentary' level='2'><ab type='prose'>言不干典。非君子所談。</ab></div><lb
+ ed="X" n="0228a09"/><lb
+ ed="R111" n="0291a12"/><div type='orig' level='2'><ab type='prose'>談說乃傍於稽古。</ab></div><lb
+ ed="X" n="0228a10"/><lb
+ ed="R111" n="0291a13"/><div type='commentary' level='2'><ab type='prose'>語是心苗。豈恣𦚾臆孟浪之說無稽之言乎。</ab></div><lb
+ ed="X" n="0228a11"/><lb
+ ed="R111" n="0291a14"/><div type='orig' level='2'><ab type='prose'>形儀挺特。</ab></div><lb
+ ed="X" n="0228a12"/><lb
+ ed="R111" n="0291a15"/><div type='commentary' level='2'><ab type='prose'>形端表正。</ab></div><lb
+ ed="X" n="0228a13"/><lb
+ ed="R111" n="0291a16"/><div type='orig' level='2'><ab type='prose'>意氣高閑。</ab></div><lb
+ ed="X" n="0228a14"/><lb
+ ed="R111" n="0291a17"/><div type='commentary' level='2'><ab type='prose'>川有珠則川媚。人蘊道則高閑。</ab></div><lb
+ ed="X" n="0228a15"/><lb
+ ed="R111" n="0291a18"/><div type='orig' level='2'><ab type='prose'>遠行要假良朋。數數清於耳目。</ab></div><lb
+ ed="X" n="0228a16"/><lb
+ ed="R111" n="0291b01"/><div type='commentary' level='2'><ab type='prose'>佛問阿難。善知識為幾梵行。阿難云半梵行。佛言。<lb
+ ed="X" n="0228a17"/><lb
+ ed="R111" n="0291b02"/>不然。善知識者為全梵行。又古云。三人行必有我<lb
+ ed="X" n="0228a18"/><lb
+ ed="R111" n="0291b03"/>師焉。擇其善者而從之。</ab></div><lb
+ ed="X" n="0228a19"/><lb
+ ed="R111" n="0291b04"/><div type='orig' level='2'><ab type='prose'>住止必須擇伴。時時聞於未聞。</ab></div><lb
+ ed="X" n="0228a20"/><lb
+ ed="R111" n="0291b05"/><div type='commentary' level='2'><ab type='prose'>開發未聞。警悟迷倒。皆道伴之力也。</ab></div><lb
+ ed="X" n="0228a21"/><lb
+ ed="R111" n="0291b06"/><div type='orig' level='2'><ab type='prose'>故云生我者父母。成我者朋友。</ab></div><lb
+ ed="X" n="0228a22"/><lb
+ ed="R111" n="0291b07"/><div type='commentary' level='2'><ab type='prose'>同門曰朋。同志曰友。父母能生色身。不能令出離<lb
+ ed="X" n="0228a23"/><lb
+ ed="R111" n="0291b08"/>惡道。惟善知識成立法身。開真正知見。入聖超凡。<lb
+ ed="X" n="0228a24"/><lb
+ ed="R111" n="0291b09"/>生成恩德豈可忽哉。</ab></div><pb ed="X" id="X63.1239.0228b" n="0228b"/><lb
+ ed="X" n="0228b01"/><lb
+ ed="R111" n="0291b10"/><div type='orig' level='2'><ab type='prose'>親附善者如霧露中行。雖不濕衣。時時有潤。</ab></div><lb
+ ed="X" n="0228b02"/><lb
+ ed="R111" n="0291b11"/><div type='commentary' level='2'><ab type='prose'>善友道伴滋潤善根。其利叵量。</ab></div><lb
+ ed="X" n="0228b03"/><lb
+ ed="R111" n="0291b12"/><div type='orig' level='2'><ab type='prose'>狎習惡者長惡知見。曉夕造惡。即目交報。</ab></div><lb
+ ed="X" n="0228b04"/><lb
+ ed="R111" n="0291b13"/><div type='commentary' level='2'><ab type='prose'>狎近非友隨邪逐惡。冒犯王法。人所惡賤。</ab></div><lb
+ ed="X" n="0228b05"/><lb
+ ed="R111" n="0291b14"/><div type='orig' level='2'><ab type='prose'>歿後沉淪。一失人身。萬劫不復。</ab></div><lb
+ ed="X" n="0228b06"/><lb
+ ed="R111" n="0291b15"/><div type='commentary' level='2'><ab type='prose'>惡友薰習造作非理。生遭王法。死入阿鼻。</ab></div><lb
+ ed="X" n="0228b07"/><lb
+ ed="R111" n="0291b16"/><div type='orig' level='2'><ab type='prose'>忠言逆耳。豈不銘心者哉。</ab></div><lb
+ ed="X" n="0228b08"/><lb
+ ed="R111" n="0291b17"/><div type='commentary' level='2'><ab type='prose'>苦口忠言必須逆耳。聞當改過。銘刻於心。</ab></div><lb
+ ed="X" n="0228b09"/><lb
+ ed="R111" n="0291b18"/><div type='orig' level='2'><ab type='prose'>便能澡心育德。晦迹韜名。</ab></div><lb
+ ed="X" n="0228b10"/><lb
+ ed="R111" n="0292a01"/><div type='commentary' level='2'><ab type='prose'>澡其心而心淨。育其德而德充。隱晦其迹而和光<lb
+ ed="X" n="0228b11"/><lb
+ ed="R111" n="0292a02"/>同塵。韜藏虗名而去華務實。</ab></div><lb
+ ed="X" n="0228b12"/><lb
+ ed="R111" n="0292a03"/><div type='orig' level='2'><ab type='prose'>蘊素精神。喧囂止絕。</ab></div><lb
+ ed="X" n="0228b13"/><lb
+ ed="R111" n="0292a04"/><div type='commentary' level='2'><ab type='prose'>養性憺怕。清閑絕慮。此下先敘參學。次敘窮教。</ab></div><lb
+ ed="X" n="0228b14"/><lb
+ ed="R111" n="0292a05"/><div type='orig' level='2'><ab type='prose'>若欲參禪學道。頓超方便之門。</ab></div><lb
+ ed="X" n="0228b15"/><lb
+ ed="R111" n="0292a06"/><div type='commentary' level='2'><ab type='prose'>正直捨方便。但說無上道。</ab></div><lb
+ ed="X" n="0228b16"/><lb
+ ed="R111" n="0292a07"/><div type='orig' level='2'><ab type='prose'>心契玄津。</ab></div><lb
+ ed="X" n="0228b17"/><lb
+ ed="R111" n="0292a08"/><div type='commentary' level='2'><ab type='prose'>心無緣異。</ab></div><lb
+ ed="X" n="0228b18"/><lb
+ ed="R111" n="0292a09"/><div type='orig' level='2'><ab type='prose'>研幾精妙。</ab></div><lb
+ ed="X" n="0228b19"/><lb
+ ed="R111" n="0292a10"/><div type='commentary' level='2'><ab type='prose'>研究諸法。窮徹精妙。</ab></div><lb
+ ed="X" n="0228b20"/><lb
+ ed="R111" n="0292a11"/><div type='orig' level='2'><ab type='prose'>決擇深奧。</ab></div><lb
+ ed="X" n="0228b21"/><lb
+ ed="R111" n="0292a12"/><div type='commentary' level='2'><ab type='prose'>探賾索隱。決擇幽微。</ab></div><lb
+ ed="X" n="0228b22"/><lb
+ ed="R111" n="0292a13"/><div type='orig' level='2'><ab type='prose'>啟悟真源。</ab></div><lb
+ ed="X" n="0228b23"/><lb
+ ed="R111" n="0292a14"/><div type='commentary' level='2'><ab type='prose'>開悟真諦之淵源。</ab></div><lb
+ ed="X" n="0228b24"/><lb
+ ed="R111" n="0292a15"/><div type='orig' level='2'><ab type='prose'>愽問先知。</ab></div><pb ed="X" id="X63.1239.0228c" n="0228c"/><lb
+ ed="X" n="0228c01"/><lb
+ ed="R111" n="0292a16"/><div type='commentary' level='2'><ab type='prose'>不可居暗室而守愚迷。當愽學問而資定慧。</ab></div><lb
+ ed="X" n="0228c02"/><lb
+ ed="R111" n="0292a17"/><div type='orig' level='2'><ab type='prose'>親近善友。</ab></div><lb
+ ed="X" n="0228c03"/><lb
+ ed="R111" n="0292a18"/><div type='commentary' level='2'><ab type='prose'>善財南詢諸友。一生參學事畢。古云。明正為南。方<lb
+ ed="X" n="0228c04"/><lb
+ ed="R111" n="0292b01"/>盡南矣。益我為友。人皆友焉。遇三毒而三德圓。入<lb
+ ed="X" n="0228c05"/><lb
+ ed="R111" n="0292b02"/>一塵而一心靜。契文殊之妙智。宛是初心入普賢<lb
+ ed="X" n="0228c06"/><lb
+ ed="R111" n="0292b03"/>之玄門。曾無別體。此可謂親近善友也。書云。於吾<lb
+ ed="X" n="0228c07"/><lb
+ ed="R111" n="0292b04"/>善者吾亦善之。於吾惡者吾亦惡之。況釋子乎。</ab></div><lb
+ ed="X" n="0228c08"/><lb
+ ed="R111" n="0292b05"/><div type='orig' level='2'><ab type='prose'>此宗難得其妙。切須子細用心。</ab></div><lb
+ ed="X" n="0228c09"/><lb
+ ed="R111" n="0292b06"/><div type='commentary' level='2'><ab type='prose'>此心地法門若得之於心。則伊蘭作栴檀之樹。若<lb
+ ed="X" n="0228c10"/><lb
+ ed="R111" n="0292b07"/>失之於旨。則甘露乃蒺䔧之園。豈容易麤心乎。</ab></div><lb
+ ed="X" n="0228c11"/><lb
+ ed="R111" n="0292b08"/><div type='orig' level='2'><ab type='prose'>可中頓悟正因。便是出塵階漸。</ab></div><lb
+ ed="X" n="0228c12"/><lb
+ ed="R111" n="0292b09"/><div type='commentary' level='2'><ab type='prose'>若頓悟正因兩字。則百川會海不辨源流。一念相<lb
+ ed="X" n="0228c13"/><lb
+ ed="R111" n="0292b10"/>應前後際斷。照體獨立。物我皆如。超出塵勞。理則<lb
+ ed="X" n="0228c14"/><lb
+ ed="R111" n="0292b11"/>頓悟乘悟併消。事非頓除因次第盡。</ab></div><lb
+ ed="X" n="0228c15"/><lb
+ ed="R111" n="0292b12"/><div type='orig' level='2'><ab type='prose'>此則破三界二十五有。</ab></div><lb
+ ed="X" n="0228c16"/><lb
+ ed="R111" n="0292b13"/><div type='commentary' level='2'><ab type='prose'>論云。四洲四惡趣。梵王六欲天。無想及淨居。四空<lb
+ ed="X" n="0228c17"/><lb
+ ed="R111" n="0292b14"/>并四禪。為二十五有也。</ab></div><lb
+ ed="X" n="0228c18"/><lb
+ ed="R111" n="0292b15"/><div type='orig' level='2'><ab type='prose'>內外諸法盡知不實。從心變起悉是假名。</ab></div><lb
+ ed="X" n="0228c19"/><lb
+ ed="R111" n="0292b16"/><div type='commentary' level='2'><ab type='prose'>內心外境虗妄不實。皆妄識所變。若悟三界唯心<lb
+ ed="X" n="0228c20"/><lb
+ ed="R111" n="0292b17"/>萬法唯識。寂照光中了不可得。</ab></div><lb
+ ed="X" n="0228c21"/><lb
+ ed="R111" n="0292b18"/><div type='orig' level='2'><ab type='prose'>不用將心湊泊。</ab></div><lb
+ ed="X" n="0228c22"/><lb
+ ed="R111" n="0293a01"/><div type='commentary' level='2'><ab type='prose'>將心用心豈非大錯。</ab></div><lb
+ ed="X" n="0228c23"/><lb
+ ed="R111" n="0293a02"/><div type='orig' level='2'><ab type='prose'>但情不附物。物豈礙人。</ab></div><lb
+ ed="X" n="0228c24"/><lb
+ ed="R111" n="0293a03"/><div type='commentary' level='2'><ab type='prose'>情偽不真。物本非物。</ab></div><pb ed="X" id="X63.1239.0229a" n="0229a"/><lb
+ ed="X" n="0229a01"/><lb
+ ed="R111" n="0293a04"/><div type='orig' level='2'><ab type='prose'>任他法性周流。莫斷莫續。</ab></div><lb
+ ed="X" n="0229a02"/><lb
+ ed="R111" n="0293a05"/><div type='commentary' level='2'><ab type='prose'>不必斷妄而續真。法性周流而自適。</ab></div><lb
+ ed="X" n="0229a03"/><lb
+ ed="R111" n="0293a06"/><div type='orig' level='2'><ab type='prose'>聞聲見色。蓋是尋常。</ab></div><lb
+ ed="X" n="0229a04"/><lb
+ ed="R111" n="0293a07"/><div type='commentary' level='2'><ab type='prose'>只此見聞非見聞。無餘聲色可呈君。箇中若了全<lb
+ ed="X" n="0229a05"/><lb
+ ed="R111" n="0293a08"/>無事。體用不妨分不分。</ab></div><lb
+ ed="X" n="0229a06"/><lb
+ ed="R111" n="0293a09"/><div type='orig' level='2'><ab type='prose'>者邊那邊。應用不闕。</ab></div><lb
+ ed="X" n="0229a07"/><lb
+ ed="R111" n="0293a10"/><div type='commentary' level='2'><ab type='prose'>空劫今時理事無隔。不動道場遍遊塵剎。</ab></div><lb
+ ed="X" n="0229a08"/><lb
+ ed="R111" n="0293a11"/><div type='orig' level='2'><ab type='prose'>如斯行止。實不枉披法服。</ab></div><lb
+ ed="X" n="0229a09"/><lb
+ ed="R111" n="0293a12"/><div type='commentary' level='2'><ab type='prose'>行解既正。表裏相應。</ab></div><lb
+ ed="X" n="0229a10"/><lb
+ ed="R111" n="0293a13"/><div type='orig' level='2'><ab type='prose'>亦乃酬報四恩。拔濟三有。</ab></div><lb
+ ed="X" n="0229a11"/><lb
+ ed="R111" n="0293a14"/><div type='commentary' level='2'><ab type='prose'>兼濟之道。自他獲益。</ab></div><lb
+ ed="X" n="0229a12"/><lb
+ ed="R111" n="0293a15"/><div type='orig' level='2'><ab type='prose'>生生若能不退。佛階決定可期。</ab></div><lb
+ ed="X" n="0229a13"/><lb
+ ed="R111" n="0293a16"/><div type='commentary' level='2'><ab type='prose'>履踐玄途。非止一生兩生。步步蹈佛階梯。更無退<lb
+ ed="X" n="0229a14"/><lb
+ ed="R111" n="0293a17"/>轉。</ab></div><lb
+ ed="X" n="0229a15"/><lb
+ ed="R111" n="0293a18"/><div type='orig' level='2'><ab type='prose'>往來三界之賓。出沒為他作則。</ab></div><lb
+ ed="X" n="0229a16"/><lb
+ ed="R111" n="0293b01"/><div type='commentary' level='2'><ab type='prose'>佛為三界導師。經云。今此三界皆是我有。其中眾<lb
+ ed="X" n="0229a17"/><lb
+ ed="R111" n="0293b02"/>生悉是吾子。既行古佛之道。為眾生作軌則。引令<lb
+ ed="X" n="0229a18"/><lb
+ ed="R111" n="0293b03"/>出離。</ab></div><lb
+ ed="X" n="0229a19"/><lb
+ ed="R111" n="0293b04"/><div type='orig' level='2'><ab type='prose'>此之一學最妙最玄。但辦肯心必不相賺。</ab></div><lb
+ ed="X" n="0229a20"/><lb
+ ed="R111" n="0293b05"/><div type='commentary' level='2'><ab type='prose'>祖師西來直指人心見性成佛。超凡入聖決定不<lb
+ ed="X" n="0229a21"/><lb
+ ed="R111" n="0293b06"/>悞。唯恐學者不肯留心。如存如亡或進或退。則不<lb
+ ed="X" n="0229a22"/><lb
+ ed="R111" n="0293b07"/>可造入。自此已下。別就根機當窮教意。</ab></div><lb
+ ed="X" n="0229a23"/><lb
+ ed="R111" n="0293b08"/><div type='orig' level='2'><ab type='prose'>若有中流之士未能頓超。且於教法留心溫尋貝葉。</ab></div><lb
+ ed="X" n="0229a24"/><lb
+ ed="R111" n="0293b09"/><div type='commentary' level='2'><ab type='prose'>根機不等。別開方便之門。溫故知新。要須因指見<pb ed="X" id="X63.1239.0229b" n="0229b"/><lb
+ ed="X" n="0229b01"/><lb
+ ed="R111" n="0293b10"/>月。</ab></div><lb
+ ed="X" n="0229b02"/><lb
+ ed="R111" n="0293b11"/><div type='orig' level='2'><ab type='prose'>精搜義理。傳唱敷揚。接引後來。報佛恩德。時光亦不<lb
+ ed="X" n="0229b03"/><lb
+ ed="R111" n="0293b12"/>虗弃。必須以此扶持。</ab></div><lb
+ ed="X" n="0229b04"/><lb
+ ed="R111" n="0293b13"/><div type='commentary' level='2'><ab type='prose'>傳教導迷須具教眼。故云必須以此扶持。</ab></div><lb
+ ed="X" n="0229b05"/><lb
+ ed="R111" n="0293b14"/><div type='orig' level='2'><ab type='prose'>住止威儀。便是僧中法器。</ab></div><lb
+ ed="X" n="0229b06"/><lb
+ ed="R111" n="0293b15"/><div type='commentary' level='2'><ab type='prose'>威儀肅靜行止可觀。內德既充方為法器。</ab></div><lb
+ ed="X" n="0229b07"/><lb
+ ed="R111" n="0293b16"/><div type='orig' level='2'><ab type='prose'>豈不見倚松之葛上聳千尋。附託勝因方能廣益。</ab></div><lb
+ ed="X" n="0229b08"/><lb
+ ed="R111" n="0293b17"/><div type='commentary' level='2'><ab type='prose'>前喻從法。古云。青蘿因緣直上寒松之頂。以內因<lb
+ ed="X" n="0229b09"/><lb
+ ed="R111" n="0293b18"/>外緣互相成之。方趣無上之果。廣利群生。</ab></div><lb
+ ed="X" n="0229b10"/><lb
+ ed="R111" n="0294a01"/><div type='orig' level='2'><ab type='prose'>懇修齋戒。莫謾虧踰。</ab></div><lb
+ ed="X" n="0229b11"/><lb
+ ed="R111" n="0294a02"/><div type='commentary' level='2'><ab type='prose'>虧者缺也。踰者越也。</ab></div><lb
+ ed="X" n="0229b12"/><lb
+ ed="R111" n="0294a03"/><div type='orig' level='2'><ab type='prose'>世世生生。殊妙因果。</ab></div><lb
+ ed="X" n="0229b13"/><lb
+ ed="R111" n="0294a04"/><div type='commentary' level='2'><ab type='prose'>因果歷然。</ab></div><lb
+ ed="X" n="0229b14"/><lb
+ ed="R111" n="0294a05"/><div type='orig' level='2'><ab type='prose'>不可等閑過日。兀兀度時。可惜光陰。不求升進。</ab></div><lb
+ ed="X" n="0229b15"/><lb
+ ed="R111" n="0294a06"/><div type='commentary' level='2'><ab type='prose'>若善用其心。則得佛法分。</ab></div><lb
+ ed="X" n="0229b16"/><lb
+ ed="R111" n="0294a07"/><div type='orig' level='2'><ab type='prose'>徒消十方信施。</ab></div><lb
+ ed="X" n="0229b17"/><lb
+ ed="R111" n="0294a08"/><div type='commentary' level='2'><ab type='prose'>為資道業施將來。道業不成爭消得。</ab></div><lb
+ ed="X" n="0229b18"/><lb
+ ed="R111" n="0294a09"/><div type='orig' level='2'><ab type='prose'>亦乃辜負四恩。</ab></div><lb
+ ed="X" n="0229b19"/><lb
+ ed="R111" n="0294a10"/><div type='commentary' level='2'><ab type='prose'>自己沉淪反成辜負。</ab></div><lb
+ ed="X" n="0229b20"/><lb
+ ed="R111" n="0294a11"/><div type='orig' level='2'><ab type='prose'>積累轉深。心塵易壅。</ab></div><lb
+ ed="X" n="0229b21"/><lb
+ ed="R111" n="0294a12"/><div type='commentary' level='2'><ab type='prose'>過累積之日深日重。心塵污坌杜塞靈源。</ab></div><lb
+ ed="X" n="0229b22"/><lb
+ ed="R111" n="0294a13"/><div type='orig' level='2'><ab type='prose'>髑途成滯。人所輕欺。</ab></div><lb
+ ed="X" n="0229b23"/><lb
+ ed="R111" n="0294a14"/><div type='commentary' level='2'><ab type='prose'>根塵滯塞解行顛邪。背本逐末被人輕賤。</ab></div><lb
+ ed="X" n="0229b24"/><lb
+ ed="R111" n="0294a15"/><div type='orig' level='2'><ab type='prose'>古云彼既丈夫我亦爾。不應自輕而退屈。</ab></div><pb ed="X" id="X63.1239.0229c" n="0229c"/><lb
+ ed="X" n="0229c01"/><lb
+ ed="R111" n="0294a16"/><div type='commentary' level='2'><ab type='prose'>教云。十方世界諸菩薩。念念趣求善逝果。彼既丈<lb
+ ed="X" n="0229c02"/><lb
+ ed="R111" n="0294a17"/>夫我亦爾。不應自輕而退屈。</ab></div><lb
+ ed="X" n="0229c03"/><lb
+ ed="R111" n="0294a18"/><div type='orig' level='2'><ab type='prose'>若不如此。徒在緇門。荏苒一生。殊無所益。</ab></div><lb
+ ed="X" n="0229c04"/><lb
+ ed="R111" n="0294b01"/><div type='commentary' level='2'><ab type='prose'>不如上所說修行。則可知理也。</ab></div><lb
+ ed="X" n="0229c05"/><lb
+ ed="R111" n="0294b02"/><div type='orig' level='2'><ab type='prose'>伏望興決烈之志。開特達之懷。舉措看他上流。莫擅<lb
+ ed="X" n="0229c06"/><lb
+ ed="R111" n="0294b03"/>隨於庸鄙。</ab></div><lb
+ ed="X" n="0229c07"/><lb
+ ed="R111" n="0294b04"/><div type='commentary' level='2'><ab type='prose'>見賢思齊。見不賢而內自省。</ab></div><lb
+ ed="X" n="0229c08"/><lb
+ ed="R111" n="0294b05"/><div type='orig' level='2'><ab type='prose'>今生便須決斷。想料不由別人。</ab></div><lb
+ ed="X" n="0229c09"/><lb
+ ed="R111" n="0294b06"/><div type='commentary' level='2'><ab type='prose'>好惡自看。無人替代。</ab></div><lb
+ ed="X" n="0229c10"/><lb
+ ed="R111" n="0294b07"/><div type='orig' level='2'><ab type='prose'>息意忘緣。</ab></div><lb
+ ed="X" n="0229c11"/><lb
+ ed="R111" n="0294b08"/><div type='commentary' level='2'><ab type='prose'>內息意外忘緣。</ab></div><lb
+ ed="X" n="0229c12"/><lb
+ ed="R111" n="0294b09"/><div type='orig' level='2'><ab type='prose'>不與諸塵作對。</ab></div><lb
+ ed="X" n="0229c13"/><lb
+ ed="R111" n="0294b10"/><div type='commentary' level='2'><ab type='prose'>內若不動。外無所為。</ab></div><lb
+ ed="X" n="0229c14"/><lb
+ ed="R111" n="0294b11"/><div type='orig' level='2'><ab type='prose'>心空境寂。</ab></div><lb
+ ed="X" n="0229c15"/><lb
+ ed="R111" n="0294b12"/><div type='commentary' level='2'><ab type='prose'>心本空。境本寂。</ab></div><lb
+ ed="X" n="0229c16"/><lb
+ ed="R111" n="0294b13"/><div type='orig' level='2'><ab type='prose'>只為久滯不通。</ab></div><lb
+ ed="X" n="0229c17"/><lb
+ ed="R111" n="0294b14"/><div type='commentary' level='2'><ab type='prose'>無始迷昧。背覺合塵。</ab></div><lb
+ ed="X" n="0229c18"/><lb
+ ed="R111" n="0294b15"/><div type='orig' level='2'><ab type='prose'>熟覽斯文。時時警䇿。</ab></div><lb
+ ed="X" n="0229c19"/><lb
+ ed="R111" n="0294b16"/><div type='commentary' level='2'><ab type='prose'>覺斯文。警斯意。</ab></div><lb
+ ed="X" n="0229c20"/><lb
+ ed="R111" n="0294b17"/><div type='orig' level='2'><ab type='prose'>強作主宰。莫徇人情。</ab></div><lb
+ ed="X" n="0229c21"/><lb
+ ed="R111" n="0294b18"/><div type='commentary' level='2'><ab type='prose'>人情濃。道情微。</ab></div><lb
+ ed="X" n="0229c22"/><lb
+ ed="R111" n="0295a01"/><div type='orig' level='2'><ab type='prose'>業果所牽。誠難逃避。</ab></div><lb
+ ed="X" n="0229c23"/><lb
+ ed="R111" n="0295a02"/><div type='commentary' level='2'><ab type='prose'>天作孽猶可逃。自作孽不可逭。</ab></div><lb
+ ed="X" n="0229c24"/><lb
+ ed="R111" n="0295a03"/><div type='orig' level='2'><ab type='prose'>聲和響順。形直影端。</ab></div><pb ed="X" id="X63.1239.0230a" n="0230a"/><lb
+ ed="X" n="0230a01"/><lb
+ ed="R111" n="0295a04"/><div type='commentary' level='2'><ab type='prose'>因果酬答。譬之影響。</ab></div><lb
+ ed="X" n="0230a02"/><lb
+ ed="R111" n="0295a05"/><div type='orig' level='2'><ab type='prose'>因根歷然。豈無憂懼。</ab></div><lb
+ ed="X" n="0230a03"/><lb
+ ed="R111" n="0295a06"/><div type='commentary' level='2'><ab type='prose'>識法者懼。</ab></div><lb
+ ed="X" n="0230a04"/><lb
+ ed="R111" n="0295a07"/><div type='orig' level='2'><ab type='prose'>故經云。</ab></div><lb
+ ed="X" n="0230a05"/><lb
+ ed="R111" n="0295a08"/><div type='commentary' level='2'><ab type='prose'>說一切有部經。</ab></div><lb
+ ed="X" n="0230a06"/><lb
+ ed="R111" n="0295a09"/><div type='orig' level='2'><ab type='prose'>假使百千劫。所作業不亡。因緣會遇時。果報還自受。</ab></div><lb
+ ed="X" n="0230a07"/><lb
+ ed="R111" n="0295a10"/><div type='commentary' level='2'><ab type='prose'>因惑造業如影隨形。未證聖果業熟須受。</ab></div><lb
+ ed="X" n="0230a08"/><lb
+ ed="R111" n="0295a11"/><div type='orig' level='2'><ab type='prose'>故知三界刑罰縈絆殺人。</ab></div><lb
+ ed="X" n="0230a09"/><lb
+ ed="R111" n="0295a12"/><div type='commentary' level='2'><ab type='prose'>三界覊縻猶如牢獄。</ab></div><lb
+ ed="X" n="0230a10"/><lb
+ ed="R111" n="0295a13"/><div type='orig' level='2'><ab type='prose'>弩力勤修。莫空過日。</ab></div><lb
+ ed="X" n="0230a11"/><lb
+ ed="R111" n="0295a14"/><div type='commentary' level='2'><ab type='prose'>念念不迷方真修。莫空過。</ab></div><lb
+ ed="X" n="0230a12"/><lb
+ ed="R111" n="0295a15"/><div type='orig' level='2'><ab type='prose'>深知過患。方乃相勸行持。</ab></div><lb
+ ed="X" n="0230a13"/><lb
+ ed="R111" n="0295a16"/><div type='commentary' level='2'><ab type='prose'>自未得度先度人者。菩薩發心。自覺已圓復度他<lb
+ ed="X" n="0230a14"/><lb
+ ed="R111" n="0295a17"/>者。如來應世。溈山自知三界眾生過患如此。更能<lb
+ ed="X" n="0230a15"/><lb
+ ed="R111" n="0295a18"/>勸他行持。非地位之人安能如是。次證誓願。</ab></div><lb
+ ed="X" n="0230a16"/><lb
+ ed="R111" n="0295b01"/><div type='orig' level='2'><ab type='prose'>願百劫千生處處同為法侶。</ab></div><lb
+ ed="X" n="0230a17"/><lb
+ ed="R111" n="0295b02"/><div type='commentary' level='2'><ab type='prose'>信茲言。行茲行。皆佛法之伴侶也。</ab></div><lb
+ ed="X" n="0230a18"/><lb
+ ed="R111" n="0295b03"/><div type='orig' level='2'><ab type='prose'>乃為銘曰。</ab></div><lb
+ ed="X" n="0230a19"/><lb
+ ed="R111" n="0295b04"/><div type='commentary' level='2'><ab type='prose'>重頌前來警䇿之大略。</ab></div><lb
+ ed="X" n="0230a20"/><lb
+ ed="R111" n="0295b05"/><div type='orig' level='2'><ab type='prose'>幻身夢宅。</ab></div><lb
+ ed="X" n="0230a21"/><lb
+ ed="R111" n="0295b06"/><div type='commentary' level='2'><ab type='prose'>四大幻身。三界夢宅。</ab></div><lb
+ ed="X" n="0230a22"/><lb
+ ed="R111" n="0295b07"/><div type='orig' level='2'><ab type='prose'>空中物色。</ab></div><lb
+ ed="X" n="0230a23"/><lb
+ ed="R111" n="0295b08"/><div type='commentary' level='2'><ab type='prose'>不實如空花。</ab></div><lb
+ ed="X" n="0230a24"/><lb
+ ed="R111" n="0295b09"/><div type='orig' level='2'><ab type='prose'>前際無窮。後際寧剋。</ab></div><pb ed="X" id="X63.1239.0230b" n="0230b"/><lb
+ ed="X" n="0230b01"/><lb
+ ed="R111" n="0295b10"/><div type='commentary' level='2'><ab type='prose'>妄法非三際可得。</ab></div><lb
+ ed="X" n="0230b02"/><lb
+ ed="R111" n="0295b11"/><div type='orig' level='2'><ab type='prose'>出此沒彼。升沉疲極。</ab></div><lb
+ ed="X" n="0230b03"/><lb
+ ed="R111" n="0295b12"/><div type='commentary' level='2'><ab type='prose'>生死出沒無有定所。升謂人天。沉則苦趣。</ab></div><lb
+ ed="X" n="0230b04"/><lb
+ ed="R111" n="0295b13"/><div type='orig' level='2'><ab type='prose'>未免三輪。何時休息。</ab></div><lb
+ ed="X" n="0230b05"/><lb
+ ed="R111" n="0295b14"/><div type='commentary' level='2'><ab type='prose'>三界如蟻循環。輪轉無已。</ab></div><lb
+ ed="X" n="0230b06"/><lb
+ ed="R111" n="0295b15"/><div type='orig' level='2'><ab type='prose'>貪戀世間。陰緣成質。</ab></div><lb
+ ed="X" n="0230b07"/><lb
+ ed="R111" n="0295b16"/><div type='commentary' level='2'><ab type='prose'>世間有三種。智正覺世間。有情世間。器世間。此論<lb
+ ed="X" n="0230b08"/><lb
+ ed="R111" n="0295b17"/>迷情貪戀有情。器世間非謂智正覺世間也。</ab></div><lb
+ ed="X" n="0230b09"/><lb
+ ed="R111" n="0295b18"/><div type='orig' level='2'><ab type='prose'>從生至老。一無所得。</ab></div><lb
+ ed="X" n="0230b10"/><lb
+ ed="R111" n="0296a01"/><div type='commentary' level='2'><ab type='prose'>妄法本空。</ab></div><lb
+ ed="X" n="0230b11"/><lb
+ ed="R111" n="0296a02"/><div type='orig' level='2'><ab type='prose'>根本無明。因茲被惑。</ab></div><lb
+ ed="X" n="0230b12"/><lb
+ ed="R111" n="0296a03"/><div type='commentary' level='2'><ab type='prose'>根本智受無明熏。真隨妄轉。妄認四大為身。六塵<lb
+ ed="X" n="0230b13"/><lb
+ ed="R111" n="0296a04"/>緣影為心。我執法執。計著親疎。愛憎名字。造業受<lb
+ ed="X" n="0230b14"/><lb
+ ed="R111" n="0296a05"/>報。皆無明所惑。</ab></div><lb
+ ed="X" n="0230b15"/><lb
+ ed="R111" n="0296a06"/><div type='orig' level='2'><ab type='prose'>光陰可惜。剎那不測。</ab></div><lb
+ ed="X" n="0230b16"/><lb
+ ed="R111" n="0296a07"/><div type='commentary' level='2'><ab type='prose'>剎那生滅。不可虗弃光陰。不進古佛之道。</ab></div><lb
+ ed="X" n="0230b17"/><lb
+ ed="R111" n="0296a08"/><div type='orig' level='2'><ab type='prose'>今生空過。來世窒塞。</ab></div><lb
+ ed="X" n="0230b18"/><lb
+ ed="R111" n="0296a09"/><div type='commentary' level='2'><ab type='prose'>非但空過一生。未來憑何通達。</ab></div><lb
+ ed="X" n="0230b19"/><lb
+ ed="R111" n="0296a10"/><div type='orig' level='2'><ab type='prose'>從迷至迷。皆因六賊。</ab></div><lb
+ ed="X" n="0230b20"/><lb
+ ed="R111" n="0296a11"/><div type='commentary' level='2'><ab type='prose'>六識之賊自劫家寶。若悟八識可為四智。前五識<lb
+ ed="X" n="0230b21"/><lb
+ ed="R111" n="0296a12"/>為成所作智。第六識為妙觀察智。第七識為平等<lb
+ ed="X" n="0230b22"/><lb
+ ed="R111" n="0296a13"/>性智。第八識為大圓鏡智。則六門皆智為前導。何<lb
+ ed="X" n="0230b23"/><lb
+ ed="R111" n="0296a14"/>迷可得。</ab></div><lb
+ ed="X" n="0230b24"/><lb
+ ed="R111" n="0296a15"/><div type='orig' level='2'><ab type='prose'>六道往還。三界匍匐。</ab></div><pb ed="X" id="X63.1239.0230c" n="0230c"/><lb
+ ed="X" n="0230c01"/><lb
+ ed="R111" n="0296a16"/><div type='commentary' level='2'><ab type='prose'>三界六道何由出離。</ab></div><lb
+ ed="X" n="0230c02"/><lb
+ ed="R111" n="0296a17"/><div type='orig' level='2'><ab type='prose'>早訪明師。親近高德。</ab></div><lb
+ ed="X" n="0230c03"/><lb
+ ed="R111" n="0296a18"/><div type='commentary' level='2'><ab type='prose'>訪求明眼師友。示真出離之要。</ab></div><lb
+ ed="X" n="0230c04"/><lb
+ ed="R111" n="0296b01"/><div type='orig' level='2'><ab type='prose'>決擇身心。去其荊𣗥。</ab></div><lb
+ ed="X" n="0230c05"/><lb
+ ed="R111" n="0296b02"/><div type='commentary' level='2'><ab type='prose'>明心達本。去其偽妄。</ab></div><lb
+ ed="X" n="0230c06"/><lb
+ ed="R111" n="0296b03"/><div type='orig' level='2'><ab type='prose'>世自浮虗。眾緣豈逼。</ab></div><lb
+ ed="X" n="0230c07"/><lb
+ ed="R111" n="0296b04"/><div type='commentary' level='2'><ab type='prose'>既知四大根塵三際無實。眾苦皆空。</ab></div><lb
+ ed="X" n="0230c08"/><lb
+ ed="R111" n="0296b05"/><div type='orig' level='2'><ab type='prose'>研窮法理。以悟為則。</ab></div><lb
+ ed="X" n="0230c09"/><lb
+ ed="R111" n="0296b06"/><div type='commentary' level='2'><ab type='prose'>窮究淵源。頓悟佛之知見。</ab></div><lb
+ ed="X" n="0230c10"/><lb
+ ed="R111" n="0296b07"/><div type='orig' level='2'><ab type='prose'>心境俱捐。莫記莫憶。</ab></div><lb
+ ed="X" n="0230c11"/><lb
+ ed="R111" n="0296b08"/><div type='commentary' level='2'><ab type='prose'>內心外境放之自然。體無去住。</ab></div><lb
+ ed="X" n="0230c12"/><lb
+ ed="R111" n="0296b09"/><div type='orig' level='2'><ab type='prose'>六根怡然。行住寂默。</ab></div><lb
+ ed="X" n="0230c13"/><lb
+ ed="R111" n="0296b10"/><div type='commentary' level='2'><ab type='prose'>法喜禪悅卷舒任運。四威儀中止觀齊運。</ab></div><lb
+ ed="X" n="0230c14"/><lb
+ ed="R111" n="0296b11"/><div type='orig' level='2'><ab type='prose'>一心不生。萬法俱息。</ab></div><lb
+ ed="X" n="0230c15"/><lb
+ ed="R111" n="0296b12"/><div type='commentary' level='2'><ab type='prose'>一念不生。諸緣頓息。末後一句始到牢關。把斷要<lb
+ ed="X" n="0230c16"/><lb
+ ed="R111" n="0296b13"/>津。不通凡聖。誰是知音者。不須更憶龐居士。天上<lb
+ ed="X" n="0230c17"/><lb
+ ed="R111" n="0296b14"/>人間只自知。</ab></div><lb
+ ed="X" n="0230c18"/><lb
+ ed="R111" n="0296b15"/><lb
+ ed="X" n="0230c19"/><lb
+ ed="R111" n="0296b16"/>
+<ab type='juan' subtype='close'>注溈山警䇿</ab><lb
+ ed="X" n="0230c20"/><lb
+ ed="X" n="0230c21"/><lb
+ ed="X" n="0230c22"/><lb
+ ed="X" n="0230c23"/><lb
+ ed="X" n="0230c24"/><pb ed="X" id="X63.1239.0231a" n="0231a"/><lb
+ ed="X" n="0231a01"/><lb
+ ed="X" n="0231a02"/><div type='xu' level='2'><head>No. 1239-B</head><lb
+ ed="X" n="0231a03"/><lb
+ ed="X" n="0231a04"/><lb
+ ed="R111" n="0297a01"/><ab type='prose'>道無今古。人有悟迷。是故釋迦老人承願力。示現鹿<lb
+ ed="X" n="0231a05"/><lb
+ ed="R111" n="0297a02"/>野苑至䟦提河三百餘會。言無言言。開示人天。令各<lb
+ ed="X" n="0231a06"/><lb
+ ed="R111" n="0297a03"/>悟入佛之知見。惟四十二章經．遺教經者。是始終教<lb
+ ed="X" n="0231a07"/><lb
+ ed="R111" n="0297a04"/>誡法寶也。後漢永平間。迦葉摩騰．竺法蘭持前一經<lb
+ ed="X" n="0231a08"/><lb
+ ed="R111" n="0297a05"/>東來。焚驗有靈。立教與宗。梁大通間又得西天二十<lb
+ ed="X" n="0231a09"/><lb
+ ed="R111" n="0297a06"/>八世祖達磨大師傳佛心印。前來直指。與經符契。是<lb
+ ed="X" n="0231a10"/><lb
+ ed="R111" n="0297a07"/>我此土人有大乘根器。而有大幸也。可大師者立雪<lb
+ ed="X" n="0231a11"/><lb
+ ed="R111" n="0297a08"/>斷臂求問妙道。言下有悟。執侍數載。三拜得髓。授受<lb
+ ed="X" n="0231a12"/><lb
+ ed="R111" n="0297a09"/>衣盂。七傳而至百丈。百丈得黃蘗運公．溈山祐公大<lb
+ ed="X" n="0231a13"/><lb
+ ed="R111" n="0297a10"/>振玄風。增輝佛日。溈山因見學者少有放逸。遂述法<lb
+ ed="X" n="0231a14"/><lb
+ ed="R111" n="0297a11"/>語。警其未悟。䇿其未到。文簡語直。義愽意深。叢林中<lb
+ ed="X" n="0231a15"/><lb
+ ed="R111" n="0297a12"/>以四十二章經．遺教經．溈山警䇿謂之佛祖三經。能<lb
+ ed="X" n="0231a16"/><lb
+ ed="R111" n="0297a13"/>一覧而直前者。不歷多生便可成佛作祖。宣和間又<lb
+ ed="X" n="0231a17"/><lb
+ ed="R111" n="0297a14"/>得遂禪師直注深義。初學易通妙矣哉。自此有志於<lb
+ ed="X" n="0231a18"/><lb
+ ed="R111" n="0297a15"/>道者省力甚多。不懷香而見佛祖。不動步而登覺場。<lb
+ ed="X" n="0231a19"/><lb
+ ed="R111" n="0297a16"/>今靜山慧大師抽衣資鋟梓于吳中休休庵。以廣其<lb
+ ed="X" n="0231a20"/><lb
+ ed="R111" n="0297a17"/>傳。奇哉。以財鋟梓名財施。以教傳法名法。施財法二<lb
+ ed="X" n="0231a21"/><lb
+ ed="R111" n="0297a18"/>施名大施。佛云。能行大施者。決證菩提。靜山將來種<lb
+ ed="X" n="0231a22"/><lb
+ ed="R111" n="0297b01"/>智圓明。十號俱彰。因此勝緣也。覽斯經者。却宜淨心<lb
+ ed="X" n="0231a23"/><lb
+ ed="R111" n="0297b02"/>如虗空。向未開卷以前著眼。掀飜窠臼。洞徹玄微。挽<lb
+ ed="X" n="0231a24"/><lb
+ ed="R111" n="0297b03"/>回真風。大興末運。若也見義勇為。將來亦可成器。其<pb ed="X" id="X63.1239.0231b" n="0231b"/><lb
+ ed="X" n="0231b01"/><lb
+ ed="R111" n="0297b04"/>或循行數墨。辜負佛祖多矣。<lb
+ ed="X" n="0231b02"/><lb
+ ed="R111" n="0297b05"/>至元丙戌燈節絕　牧叟　德異　敘</ab></div><lb
+ ed="X" n="0231b03"/><lb
+ ed="X" n="0231b04"/><lb
+ ed="X" n="0231b05"/><lb
+ ed="X" n="0231b06"/><lb
+ ed="X" n="0231b07"/><div type='xu' level='2'><head>No. 1239-C</head><lb
+ ed="X" n="0231b08"/><lb
+ ed="X" n="0231b09"/><lb
+ ed="R111" n="0297b07"/><ab type='prose'>釋志峯與志道覺溫施主金氏曰。大難者重刊佛祖<lb
+ ed="X" n="0231b10"/><lb
+ ed="R111" n="0297b08"/>三經。來請予䟦其尾。予觀其書。四十二章也。遺教經<lb
+ ed="X" n="0231b11"/><lb
+ ed="R111" n="0297b09"/>也。溈山警䇿也。立法創制纖毫未遺。成佛作祖正路<lb
+ ed="X" n="0231b12"/><lb
+ ed="R111" n="0297b10"/>斯在。道上人法施何可量哉。學者目此書如嚴師在<lb
+ ed="X" n="0231b13"/><lb
+ ed="R111" n="0297b11"/>上。撿身若不及。則可矣。如或不然。三經亦虗文矣。豈<lb
+ ed="X" n="0231b14"/><lb
+ ed="R111" n="0297b12"/>不惜哉。<lb
+ ed="X" n="0231b15"/><lb
+ ed="R111" n="0297b13"/>青龍甲子十月　日　　推忠保節同德贊化功<lb
+ ed="X" n="0231b16"/><lb
+ ed="R111" n="0297b14"/>臣三重大匡韓山府院君李　穡䟦</ab></div><lb
+ ed="X" n="0231b17"/><lb
+ ed="X" n="0231b18"/><div type='xu' level='2'><head>No. 1239-D</head><lb
+ ed="X" n="0231b19"/><lb
+ ed="X" n="0231b20"/><lb
+ ed="R111" n="0297b16"/><ab type='prose'>前二經。佛所說也。後警䇿。溈山所說也。三經實學者<lb
+ ed="X" n="0231b21"/><lb
+ ed="R111" n="0297b17"/>入道參學成佛作祖之蹊逕根本也。遂禪師注出。節<lb
+ ed="X" n="0231b22"/><lb
+ ed="R111" n="0297b18"/>下生枝也。靜山不然。掃險枝葉復。繡梓以廣其傳。蓋<lb
+ ed="X" n="0231b23"/><lb
+ ed="R111" n="0298a01"/>欲人人與佛祖駢肩接足同一受用。其心亦可尚矣。<lb
+ ed="X" n="0231b24"/><lb
+ ed="R111" n="0298a02"/>學者儻能遵而行之。則佛祖即汝。汝即佛祖。忽若一<pb ed="X" id="X63.1239.0231c" n="0231c"/><lb
+ ed="X" n="0231c01"/><lb
+ ed="R111" n="0298a03"/>箇半箇纔出母胎便具超佛越祖作略。則此經皆為<lb
+ ed="X" n="0231c02"/><lb
+ ed="R111" n="0298a04"/>剩語。<lb
+ ed="X" n="0231c03"/><lb
+ ed="R111" n="0298a05"/>時丙戌春中前覺根比丘　益大　拜書</ab></div></div>
+</body></text></TEI>

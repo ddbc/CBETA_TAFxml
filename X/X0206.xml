@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">馬鳴菩薩成就悉地念誦</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0206</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ ed="X" n="0890a04"/><lb
+ ed="X" n="0890a05"/><lb
+ ed="X" n="0890a06"/><lb
+ ed="X" n="0890a07"/><lb
+ ed="X" n="0890a08"/><lb
+ ed="X" n="0890a09"/><lb
+ ed="X" n="0890a10"/><lb
+ ed="X" n="0890a11"/><lb
+ ed="X" n="0890a12"/><lb
+ ed="X" n="0890a13"/><lb
+ ed="X" n="0890a14"/><lb
+ ed="R003" n="0831b01"/>
+<ab type='juan' subtype='open'>馬鳴菩薩成就悉地念誦一卷<lb
+ ed="X" n="0890a15"/><lb
+ ed="R003" n="0831b01"/></ab><lb
+ ed="X" n="0890a16"/><lb
+ ed="X" n="0890a17"/><lb
+ ed="R003" n="0831b02"/><byline>大興善寺三藏沙門大廣智不<lb
+ ed="X" n="0890a18"/><lb
+ ed="R003" n="0831b03"/>空奉　詔譯</byline><lb
+ ed="X" n="0890a19"/><lb
+ ed="R003" n="0831b04"/><div type='' level='2'><ab type='prose'>爾時菩薩白佛言我有大神力極祕密陀羅尼為度<lb
+ ed="X" n="0890a20"/><lb
+ ed="R003" n="0831b05"/>脫當來末法雜染世界眾生欲說是神呪佛聽許爾<lb
+ ed="X" n="0890a21"/><lb
+ ed="R003" n="0831b06"/>時佛世尊讚菩薩言善哉善哉汝諸佛聽許諸菩薩<lb
+ ed="X" n="0890a22"/><lb
+ ed="R003" n="0831b07"/>諸天皆悉以隨喜速疾可說即菩薩從座而起合掌<lb
+ ed="X" n="0890a23"/><lb
+ ed="R003" n="0831b08"/>低頭踊躍歡喜右遶佛三迊退坐一面佛前即說大<lb
+ ed="X" n="0890a24"/><lb
+ ed="R003" n="0831b09"/>神呪曰。<pb ed="X" id="X02.0206.0890b" n="0890b"/><lb
+ ed="X" n="0890b01"/><lb
+ ed="R003" n="0831b10"/></ab>
+<ab type='dharani'>曩莫三曼駄沒駄喃迦嚩日羅縛多曩吽篤𧁢訖<lb
+ ed="X" n="0890b02"/><lb
+ ed="R003" n="0831b11"/>哩婆呵<lb
+ ed="X" n="0890b03"/><lb
+ ed="R003" n="0831b12"/></ab>
+<ab type='prose'>爾時說妙真言已三千大千世界六種震動天雨曼<lb
+ ed="X" n="0890b04"/><lb
+ ed="R003" n="0831b13"/>荼羅華地涌出七寶一切眾生獲得悉地財綿錦繡<lb
+ ed="X" n="0890b05"/><lb
+ ed="R003" n="0831b14"/>金寶種如山岳世間甚以為希有若有在家出家善<lb
+ ed="X" n="0890b06"/><lb
+ ed="R003" n="0831b15"/>男善女受持是妙真言之中一字及我名一經於耳<lb
+ ed="X" n="0890b07"/><lb
+ ed="R003" n="0831b16"/>消滅生生世世極貧窮果報速疾世間出世間榮華<lb
+ ed="X" n="0890b08"/><lb
+ ed="R003" n="0831b17"/>樂具滿足成就供養三寶及六親九族乃至一切乞<lb
+ ed="X" n="0890b09"/><lb
+ ed="R003" n="0831b18"/>匃給施莫不如意。<lb
+ ed="X" n="0890b10"/><lb
+ ed="R003" n="0832a01"/>若欲受持此法先畵菩薩像其形六臂又二腎色紅<lb
+ ed="X" n="0890b11"/><lb
+ ed="R003" n="0832a02"/>蓮華白馬為座圍遶六大使者菩薩畫已從師傳授<lb
+ ed="X" n="0890b12"/><lb
+ ed="R003" n="0832a03"/>真言先錦繡淨潔衣服乃至妻子眷屬所持財寶用<lb
+ ed="X" n="0890b13"/><lb
+ ed="R003" n="0832a04"/>施與師我即歡喜以一切寶施恩以七寶若是誓願<lb
+ ed="X" n="0890b14"/><lb
+ ed="R003" n="0832a05"/>不信為人不可令聞不可說假令受習修道不感應<lb
+ ed="X" n="0890b15"/><lb
+ ed="R003" n="0832a06"/>斯妙真言價直無央數佛功德若發信心供養恭敬<lb
+ ed="X" n="0890b16"/><lb
+ ed="R003" n="0832a07"/>瑜伽者如佛敬妙句受持之人得大功德如前所說<lb
+ ed="X" n="0890b17"/><lb
+ ed="R003" n="0832a08"/>若有國王大臣及諸小國王國土萬物枯盡五穀不<lb
+ ed="X" n="0890b18"/><lb
+ ed="R003" n="0832a09"/>豐登又蠶子不生錦繡財綿乏少時年中三箇月修<lb
+ ed="X" n="0890b19"/><lb
+ ed="R003" n="0832a10"/>行是法所謂三月三日五月五日九月九日種種妙<lb
+ ed="X" n="0890b20"/><lb
+ ed="R003" n="0832a11"/>華散種種餚饍飲食用供養五穀成就萬菓豐登國<lb
+ ed="X" n="0890b21"/><lb
+ ed="R003" n="0832a12"/>民皆悉天上人中所有樂具滿足其壇法量二肘半<lb
+ ed="X" n="0890b22"/><lb
+ ed="R003" n="0832a13"/>用牛糞塗種種名香和泥塗賢瓶四角置十方毗底<lb
+ ed="X" n="0890b23"/><lb
+ ed="R003" n="0832a14"/>羅香燒不燒是香不成就法所設供具用至其信心<lb
+ ed="X" n="0890b24"/><lb
+ ed="R003" n="0832a15"/>不喚菩薩自來至納受證誠令滿足施主所求願若<pb ed="X" id="X02.0206.0890c" n="0890c"/><lb
+ ed="X" n="0890c01"/><lb
+ ed="R003" n="0832a16"/>有信男信女不論淨不淨日日晨朝時受持妙真言<lb
+ ed="X" n="0890c02"/><lb
+ ed="R003" n="0832a17"/>一百八遍并菩薩讚歎七遍稱誦不離身體世間諸<lb
+ ed="X" n="0890c03"/><lb
+ ed="R003" n="0832a18"/>事報示又官位福壽如意成就。<lb
+ ed="X" n="0890c04"/><lb
+ ed="R003" n="0832b01"/>又印相說十指交絞右押左腕相離以印印五處由<lb
+ ed="X" n="0890c05"/><lb
+ ed="R003" n="0832b02"/>結印誦真言力故滅除無量罪報厭眉呪咀惡鬼羅<lb
+ ed="X" n="0890c06"/><lb
+ ed="R003" n="0832b03"/>剎亡靈魑魅之毒害一切灾難得無量福現世有無<lb
+ ed="X" n="0890c07"/><lb
+ ed="R003" n="0832b04"/>量快樂後生往生極樂。<lb
+ ed="X" n="0890c08"/><lb
+ ed="R003" n="0832b05"/><lb
+ ed="X" n="0890c09"/><lb
+ ed="R003" n="0832b06"/></ab><div type='w' level='3'><ab type='prose'>子細次第可見又可受習符書大靈驗速疾術。<lb
+ ed="X" n="0890c10"/><lb
+ ed="R003" n="0832b07"/>一校了<lb
+ ed="X" n="0890c11"/><lb
+ ed="R003" n="0832b08"/>奧書有康和天仁大治保延年號蠧損文字不<lb
+ ed="X" n="0890c12"/><lb
+ ed="R003" n="0832b09"/>分明故略之。<lb
+ ed="X" n="0890c13"/><lb
+ ed="R003" n="0832b10"/>以高山寺藏本寫得畢<lb
+ ed="X" n="0890c14"/><lb
+ ed="R003" n="0832b11"/>文化甲子七月二十七日　一校了　　慈順</ab></div></div></div>
+</body></text></TEI>

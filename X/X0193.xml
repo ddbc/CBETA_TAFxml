@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說却溫黃神咒經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0193</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X02.0193.0860c" n="0860c"/><lb
+ ed="X" n="0860c01"/><lb
+ ed="X" n="0860c02"/><lb
+ ed="X" n="0860c03"/><lb
+ ed="X" n="0860c04"/><lb
+ ed="X" n="0860c05"/><lb
+ ed="X" n="0860c06"/><lb
+ ed="R003" n="0776b01"/>
+<ab type='juan' subtype='open'>佛說却溫黃神呪經</ab><lb
+ ed="X" n="0860c07"/><lb
+ ed="X" n="0860c08"/><lb
+ ed="X" n="0860c09"/><lb
+ ed="R003" n="0776b03"/><div type='' level='1'><ab type='prose'>聞如是一時佛遊王舍城竹林精舍與四部弟子大<lb
+ ed="X" n="0860c10"/><lb
+ ed="R003" n="0776b04"/>眾俱會為說經法爾時維耶離國屬疫氣猛盛赫赫<lb
+ ed="X" n="0860c11"/><lb
+ ed="R003" n="0776b05"/>猶如熾火死亡無數無所歸趣無方救療於是阿難<lb
+ ed="X" n="0860c12"/><lb
+ ed="R003" n="0776b06"/>長跪合掌白佛言彼阿耶離國遭溫氣疫毒唯願世<lb
+ ed="X" n="0860c13"/><lb
+ ed="R003" n="0776b07"/>尊說諸聖術却彼毒氣令得安穩離眾苦患佛告賢<lb
+ ed="X" n="0860c14"/><lb
+ ed="R003" n="0776b08"/>者阿難汝當聽受之有七鬼神常吐毒氣以害萬姓<lb
+ ed="X" n="0860c15"/><lb
+ ed="R003" n="0776b09"/>若人得毒頭痛寒熱百節欲解苦痛難言人有知其<lb
+ ed="X" n="0860c16"/><lb
+ ed="R003" n="0776b10"/>名字者毒不害人是故吾今為汝說之阿難言願欲<lb
+ ed="X" n="0860c17"/><lb
+ ed="R003" n="0776b11"/>聞之佛言若四輩弟子欲稱鬼神名安之時當言南<lb
+ ed="X" n="0860c18"/><lb
+ ed="R003" n="0776b12"/>無佛陀耶南無達磨耶南無僧伽耶南無十方諸佛<lb
+ ed="X" n="0860c19"/><lb
+ ed="R003" n="0776b13"/>南無諸菩薩摩訶薩南無諸聖僧南無呪師今我<lb
+ ed="X" n="0860c20"/><lb
+ ed="R003" n="0776b14"/>弟子所說神呪即從其願如是神名我今當說沙羅<lb
+ ed="X" n="0860c21"/><lb
+ ed="R003" n="0776b15"/>佉三說沙羅佉已便說呪曰。<lb
+ ed="X" n="0860c22"/><lb
+ ed="R003" n="0776b16"/>夢多難鬼阿佉尼鬼尼佉尸鬼<lb
+ ed="X" n="0860c23"/><lb
+ ed="R003" n="0776b17"/>阿佉那鬼波羅尼鬼阿毗羅鬼<lb
+ ed="X" n="0860c24"/><lb
+ ed="R003" n="0776b18"/>波提棃鬼<pb ed="X" id="X02.0193.0861a" n="0861a"/><lb
+ ed="X" n="0861a01"/><lb
+ ed="R003" n="0777a01"/>佛言是七鬼神呪名字如是若人熱病時當呼七鬼<lb
+ ed="X" n="0861a02"/><lb
+ ed="R003" n="0777a02"/>神名字言疾去疾去莫得久住我弟子身令毒消滅<lb
+ ed="X" n="0861a03"/><lb
+ ed="R003" n="0777a03"/>病速除愈我弟子今歸依三寶燒香禮敬行是諸佛<lb
+ ed="X" n="0861a04"/><lb
+ ed="R003" n="0777a04"/>所說神呪若有呪神不隨諸佛教者頭破作七分如<lb
+ ed="X" n="0861a05"/><lb
+ ed="R003" n="0777a05"/>阿棃樹枝若人得病一日二日三日乃至七日熱病<lb
+ ed="X" n="0861a06"/><lb
+ ed="R003" n="0777a06"/>煩悶先呪神水以與病者飲之當三七遍誦此呪經<lb
+ ed="X" n="0861a07"/><lb
+ ed="R003" n="0777a07"/>病毒五溫之病並皆消滅若亦立門書著氣病者當<lb
+ ed="X" n="0861a08"/><lb
+ ed="R003" n="0777a08"/>額書七鬼神名字復取五色縷線各各結其名字繫<lb
+ ed="X" n="0861a09"/><lb
+ ed="R003" n="0777a09"/>著門上大吉祥也若能勤誦此經專心受持齋戒不<lb
+ ed="X" n="0861a10"/><lb
+ ed="R003" n="0777a10"/>喫熏辛誦此七鬼神名字溫鬼永斷不過門戶自進<lb
+ ed="X" n="0861a11"/><lb
+ ed="R003" n="0777a11"/>至患家鬼見皆走一身永不染天行若能專心勸人<lb
+ ed="X" n="0861a12"/><lb
+ ed="R003" n="0777a12"/>書寫受持讀誦此經消殃却害若人不能誦得竹筒<lb
+ ed="X" n="0861a13"/><lb
+ ed="R003" n="0777a13"/>盛安門戶上溫鬼不敢過門亦得延年養壽大吉祥<lb
+ ed="X" n="0861a14"/><lb
+ ed="R003" n="0777a14"/>也阿難叉手白佛言當何名此經云何奉持佛言此<lb
+ ed="X" n="0861a15"/><lb
+ ed="R003" n="0777a15"/>經名為却溫神呪佛說如是天龍鬼神一切大眾聞<lb
+ ed="X" n="0861a16"/><lb
+ ed="R003" n="0777a16"/>呪歡喜作禮奉行。<lb
+ ed="X" n="0861a17"/><lb
+ ed="R003" n="0777a17"/><lb
+ ed="X" n="0861a18"/><lb
+ ed="R003" n="0777a18"/>
+</ab><ab type='juan' subtype='close'>却溫神呪經</ab></div>
+</body></text></TEI>

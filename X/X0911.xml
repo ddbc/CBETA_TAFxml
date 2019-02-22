@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">觀心食法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X55</biblScope>
+                    <idno type="Taisho">X55n0911</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X55.0911.0687a" n="0687a"/><lb
+ ed="X" n="0687a01"/><lb
+ ed="X" n="0687a02"/><lb
+ ed="X" n="0687a03"/><lb
+ ed="R099" n="0110a01"/>
+<ab type='juan' subtype='open'>觀心食法</ab><lb
+ ed="X" n="0687a04"/><lb
+ ed="X" n="0687a05"/><lb
+ ed="R099" n="0110a02"/><byline>天台　智者大師</byline><lb
+ ed="X" n="0687a06"/><lb
+ ed="R099" n="0110a03"/><div type='' level='1'><ab type='prose'>既敷座已。聽維那進止。鳴鐘後斂手供養一體三寶。<lb
+ ed="X" n="0687a07"/><lb
+ ed="R099" n="0110a04"/>徧十方界施作佛事。次出生飯稱施六道。即表六波<lb
+ ed="X" n="0687a08"/><lb
+ ed="R099" n="0110a05"/>羅密。然後受此食。夫食者。眾生之外命。若不入觀即<lb
+ ed="X" n="0687a09"/><lb
+ ed="R099" n="0110a06"/>潤生死。若能知入觀。分別生死有邊無邊。不問分衛<lb
+ ed="X" n="0687a10"/><lb
+ ed="R099" n="0110a07"/>與清眾淨食皆須作觀觀之者。自恐此身內舊食皆<lb
+ ed="X" n="0687a11"/><lb
+ ed="R099" n="0110a08"/>是無明煩惱潤益生死。今之所食皆是般若。想於舊<lb
+ ed="X" n="0687a12"/><lb
+ ed="R099" n="0110a09"/>食從毛孔次第而出。食既出已心路即開。食今新食。<lb
+ ed="X" n="0687a13"/><lb
+ ed="R099" n="0110a10"/>照諸暗滅成於般若。故淨名云。於食等者於法亦等。<lb
+ ed="X" n="0687a14"/><lb
+ ed="R099" n="0110a11"/>是為明證。以此食故成般若食。能養法身。法身得立<lb
+ ed="X" n="0687a15"/><lb
+ ed="R099" n="0110a12"/>即得解脫。是為三德照此食者。非新非故。而有舊食<lb
+ ed="X" n="0687a16"/><lb
+ ed="R099" n="0110a13"/>之故。而有新食之新。是名為假。求故不得。求新不得。<lb
+ ed="X" n="0687a17"/><lb
+ ed="R099" n="0110a14"/>畢竟空寂。名之為空觀。食者自那可食為新。既無新<lb
+ ed="X" n="0687a18"/><lb
+ ed="R099" n="0110a15"/>食那可得食。食者而不離舊食養身而新食重益。因<lb
+ ed="X" n="0687a19"/><lb
+ ed="R099" n="0110a16"/>緣和合。不可前後分別。名之為中。只中即假空。只空<lb
+ ed="X" n="0687a20"/><lb
+ ed="R099" n="0110a17"/>即中假。只假即空中。不可思議。名為中道。又淨名云。<lb
+ ed="X" n="0687a21"/><lb
+ ed="R099" n="0110a18"/>非有煩惱。非離煩惱。非入定意。非起定意。是名食法<lb
+ ed="X" n="0687a22"/><lb
+ ed="R099" n="0110b01"/>也。</ab></div>
+</body></text></TEI>

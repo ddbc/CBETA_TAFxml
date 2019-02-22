@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">賢首五教斷證三覺揀濫圖</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X58</biblScope>
+                    <idno type="Taisho">X58n1026</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X58.1026.0696b" n="0696b"/><lb
+ ed="X" n="0696b01"/><lb
+ ed="X" n="0696b02"/><lb
+ ed="X" n="0696b03"/><lb
+ ed="X" n="0696b04"/><lb
+ ed="X" n="0696b05"/><lb
+ ed="X" n="0696b06"/><lb
+ ed="R104" n="0134a01"/>
+<ab type='juan' subtype='open'>賢首五教斷證三覺揀濫圖</ab><lb
+ ed="X" n="0696b07"/><lb
+ ed="X" n="0696b08"/><lb
+ ed="R104" n="0134a02"/><byline>清浙水慈雲沙門續法集</byline><byline>門人嚴指較</byline><lb
+ ed="X" n="0696b09"/><lb
+ ed="R104" n="0134a03"/><ab type='prose'>東傳三藏。迨唐始足。列祖判教。賢首方周。良由典誥<lb
+ ed="X" n="0696b10"/><lb
+ ed="R104" n="0134a04"/>既多。知見自廣。約義判教。備所未備。是以後後勝於<lb
+ ed="X" n="0696b11"/><lb
+ ed="R104" n="0134a05"/>前前。賢首二十餘部。清涼五十餘部。圭山十餘部。皆<lb
+ ed="X" n="0696b12"/><lb
+ ed="R104" n="0134a06"/>詳教觀斷證。況五教斷證。原出經論。前尚未來。後盡<lb
+ ed="X" n="0696b13"/><lb
+ ed="R104" n="0134a07"/>流至。人未之察。反曰無斷無證。豈不屈抑佛祖也歟。<lb
+ ed="X" n="0696b14"/><lb
+ ed="R104" n="0134a08"/>痛心。遂準賢宗諸大部中。錄出斷證。排圖貫線。<lb
+ ed="X" n="0696b15"/><lb
+ ed="R104" n="0134a09"/>庶使學者。於一家判釋。明如指掌。無纖疑滯。果能從<lb
+ ed="X" n="0696b16"/><lb
+ ed="R104" n="0134a10"/>小發心。至圓妙覺。於中一一解行無謬。畢得斷執障<lb
+ ed="X" n="0696b17"/><lb
+ ed="R104" n="0134a11"/>於蓮華藏剎。證法界於毗盧性海。漸歷頓超。又何難<lb
+ ed="X" n="0696b18"/><lb
+ ed="R104" n="0134a12"/>哉。此亦略示其梗槩耳。若欲委明。宣閱教儀諸書<lb
+ ed="X" n="0696b19"/><lb
+ ed="R104" n="0134a13"/>　三覺　三五位別。一覺性同。但能悟知。頓圓妙覺。<lb
+ ed="X" n="0696b20"/><lb
+ ed="R104" n="0134a14"/>本覺位。五教俱不覺。圓覺位。小則羅漢辟支佛位。<lb
+ ed="X" n="0696b21"/><lb
+ ed="R104" n="0134a15"/>後四俱妙覺。始覺位。從發心極於等覺。此中復有<lb
+ ed="X" n="0696b22"/><lb
+ ed="R104" n="0134a16"/>三位。一。名字覺位。小發心至停心。始等俱十信。二。<lb
+ ed="X" n="0696b23"/><lb
+ ed="R104" n="0134a17"/>相似覺位。小別相至世第一。後四俱三賢四加。三。<lb
+ ed="X" n="0696b24"/><lb
+ ed="R104" n="0134a18"/>隨分覺位。小初果至三果。始等俱十地等覺。其間<pb ed="X" id="X58.1026.0696c" n="0696c"/><lb
+ ed="X" n="0696c01"/><lb
+ ed="R104" n="0134b01"/>高下階降不等。亦隨當教斷證以釋。故此三覺五<lb
+ ed="X" n="0696c02"/><lb
+ ed="R104" n="0134b02"/>位。能判教相之權實也。<lb
+ ed="X" n="0696c03"/><lb
+ ed="X" n="0696c04"/><lb
+ ed="X" n="0696c05"/><lb
+ ed="X" n="0696c06"/><lb
+ ed="X" n="0696c07"/><lb
+ ed="X" n="0696c08"/><lb
+ ed="X" n="0696c09"/><lb
+ ed="X" n="0696c10"/><lb
+ ed="X" n="0696c11"/><lb
+ ed="X" n="0696c12"/><lb
+ ed="X" n="0696c13"/><lb
+ ed="X" n="0696c14"/><lb
+ ed="X" n="0696c15"/><lb
+ ed="X" n="0696c16"/><lb
+ ed="X" n="0696c17"/><lb
+ ed="X" n="0696c18"/><lb
+ ed="X" n="0696c19"/><lb
+ ed="X" n="0696c20"/><lb
+ ed="X" n="0696c21"/><lb
+ ed="X" n="0696c22"/><lb
+ ed="X" n="0696c23"/><lb
+ ed="X" n="0696c24"/><pb ed="X" id="X58.1026.0697a" n="0697a"/><lb
+ ed="X" n="0697a01"/><lb
+ ed="R104" n="0135a01"/><head>一乘不共教無盡妙覺根本佛性無障礙法界</head><lb
+ ed="X" n="0697a02"/><lb
+ ed="R104" n="0135a02"/><lb
+ ed="X" n="0697a03"/><lb
+ ed="X" n="0697a04"/><lb
+ ed="X" n="0697a05"/><lb
+ ed="X" n="0697a06"/><lb
+ ed="X" n="0697a07"/><lb
+ ed="X" n="0697a08"/><lb
+ ed="X" n="0697a09"/><lb
+ ed="X" n="0697a10"/><lb
+ ed="X" n="0697a11"/><lb
+ ed="X" n="0697a12"/><lb
+ ed="X" n="0697a13"/><lb
+ ed="X" n="0697a14"/><lb
+ ed="X" n="0697a15"/><lb
+ ed="X" n="0697a16"/><lb
+ ed="X" n="0697a17"/><lb
+ ed="X" n="0697a18"/><lb
+ ed="X" n="0697a19"/><lb
+ ed="X" n="0697a20"/><lb
+ ed="X" n="0697a21"/><lb
+ ed="X" n="0697a22"/><lb
+ ed="X" n="0697a23"/><lb
+ ed="X" n="0697a24"/><pb ed="X" id="X58.1026.0698a" n="0698a"/><lb
+ ed="X" n="0698a01"/><lb
+ ed="X" n="0698a02"/><lb
+ ed="X" n="0698a03"/><lb
+ ed="X" n="0698a04"/><lb
+ ed="R104" n="0136a01"/><head>○圓教</head><lb
+ ed="X" n="0698a05"/><lb
+ ed="R104" n="0136a02"/>。<lb
+ ed="X" n="0698a06"/><lb
+ ed="R104" n="0136a03"/><head>〔本〕</head>不覺<lb
+ ed="X" n="0698a07"/><lb
+ ed="R104" n="0136a04"/><head>〔名字〕</head><lb
+ ed="X" n="0698a08"/><lb
+ ed="R104" n="0136a05"/>發心<lb
+ ed="X" n="0698a09"/><lb
+ ed="R104" n="0136a06"/>初信<lb
+ ed="X" n="0698a10"/><lb
+ ed="R104" n="0136a07"/>七信<lb
+ ed="X" n="0698a11"/><lb
+ ed="R104" n="0136a08"/>九信<lb
+ ed="X" n="0698a12"/><lb
+ ed="R104" n="0136a09"/>十信<lb
+ ed="X" n="0698a13"/><lb
+ ed="R104" n="0136a10"/><head>〔相似〕</head><lb
+ ed="X" n="0698a14"/><lb
+ ed="R104" n="0136a11"/>初住<lb
+ ed="X" n="0698a15"/><lb
+ ed="R104" n="0136a12"/>十住<lb
+ ed="X" n="0698a16"/><lb
+ ed="R104" n="0136a13"/>初行<lb
+ ed="X" n="0698a17"/><lb
+ ed="R104" n="0136a14"/>初向<lb
+ ed="X" n="0698a18"/><lb
+ ed="R104" n="0136a15"/>十向<lb
+ ed="X" n="0698a19"/><lb
+ ed="R104" n="0136a16"/>四加<lb
+ ed="X" n="0698a20"/><lb
+ ed="R104" n="0136a17"/><head>〔隨分〕</head><lb
+ ed="X" n="0698a21"/><lb
+ ed="R104" n="0136a18"/>初地<lb
+ ed="X" n="0698a22"/><lb
+ ed="R104" n="0136b01"/>二地<lb
+ ed="X" n="0698a23"/><lb
+ ed="R104" n="0136b02"/>三地<lb
+ ed="X" n="0698a24"/><lb
+ ed="R104" n="0136b03"/>等覺<pb ed="X" id="X58.1026.0698b" n="0698b"/><lb
+ ed="X" n="0698b01"/><lb
+ ed="R104" n="0136b04"/><head>〔圓〕</head>妙覺<lb
+ ed="X" n="0698b03"/><lb
+ ed="R104" n="0136b06"/><head>○頓教</head><lb
+ ed="X" n="0698b04"/><lb
+ ed="R104" n="0136b07"/>。<lb
+ ed="X" n="0698b05"/><lb
+ ed="R104" n="0136b08"/><head>〔本〕</head>不覺<lb
+ ed="X" n="0698b06"/><lb
+ ed="R104" n="0136b09"/><head>〔名字〕</head><lb
+ ed="X" n="0698b07"/><lb
+ ed="R104" n="0136b10"/>發心<lb
+ ed="X" n="0698b08"/><lb
+ ed="R104" n="0136b11"/>初信<lb
+ ed="X" n="0698b09"/><lb
+ ed="R104" n="0136b12"/>七信<lb
+ ed="X" n="0698b10"/><lb
+ ed="R104" n="0136b13"/>。<lb
+ ed="X" n="0698b11"/><lb
+ ed="R104" n="0136b14"/><head>〔相似〕</head><lb
+ ed="X" n="0698b12"/><lb
+ ed="R104" n="0136b15"/>初住<lb
+ ed="X" n="0698b13"/><lb
+ ed="R104" n="0136b16"/>七住<lb
+ ed="X" n="0698b14"/><lb
+ ed="R104" n="0136b17"/>十住<lb
+ ed="X" n="0698b15"/><lb
+ ed="R104" n="0136b18"/>初行<lb
+ ed="X" n="0698b16"/><lb
+ ed="R104" n="0137a01"/>十行<lb
+ ed="X" n="0698b17"/><lb
+ ed="R104" n="0137a02"/>初向<lb
+ ed="X" n="0698b18"/><lb
+ ed="R104" n="0137a03"/>十向<lb
+ ed="X" n="0698b19"/><lb
+ ed="R104" n="0137a04"/>四加<lb
+ ed="X" n="0698b20"/><lb
+ ed="R104" n="0137a05"/><head>〔隨分〕</head><lb
+ ed="X" n="0698b21"/><lb
+ ed="R104" n="0137a06"/>初地<lb
+ ed="X" n="0698b22"/><lb
+ ed="R104" n="0137a07"/>二地<lb
+ ed="X" n="0698b23"/><lb
+ ed="R104" n="0137a08"/>等覺<lb
+ ed="X" n="0698b24"/><lb
+ ed="R104" n="0137a09"/><head>〔圓〕</head>妙覺<lb
+ ed="X" n="0698c02"/><lb
+ ed="R104" n="0137a11"/><head>○終教</head><lb
+ ed="X" n="0698c03"/><lb
+ ed="R104" n="0137a12"/>。<lb
+ ed="X" n="0698c04"/><lb
+ ed="R104" n="0137a13"/><head>〔本〕</head>不覺<lb
+ ed="X" n="0698c05"/><lb
+ ed="R104" n="0137a14"/><head>〔名字〕</head><lb
+ ed="X" n="0698c06"/><lb
+ ed="R104" n="0137a15"/>發心<lb
+ ed="X" n="0698c07"/><lb
+ ed="R104" n="0137a16"/>初信<lb
+ ed="X" n="0698c08"/><lb
+ ed="R104" n="0137a17"/>七信<lb
+ ed="X" n="0698c09"/><lb
+ ed="R104" n="0137a18"/>十信<lb
+ ed="X" n="0698c10"/><lb
+ ed="R104" n="0137b01"/><head>〔相似〕</head><lb
+ ed="X" n="0698c11"/><lb
+ ed="R104" n="0137b02"/>初住<lb
+ ed="X" n="0698c12"/><lb
+ ed="R104" n="0137b03"/>七住<lb
+ ed="X" n="0698c13"/><lb
+ ed="R104" n="0137b04"/>二行<lb
+ ed="X" n="0698c14"/><lb
+ ed="R104" n="0137b05"/>十行<lb
+ ed="X" n="0698c15"/><lb
+ ed="R104" n="0137b06"/>初向<lb
+ ed="X" n="0698c16"/><lb
+ ed="R104" n="0137b07"/>十向<lb
+ ed="X" n="0698c17"/><lb
+ ed="R104" n="0137b08"/>四加<lb
+ ed="X" n="0698c18"/><lb
+ ed="R104" n="0137b09"/>。<lb
+ ed="X" n="0698c19"/><lb
+ ed="R104" n="0137b10"/><head>〔隨分〕</head><lb
+ ed="X" n="0698c20"/><lb
+ ed="R104" n="0137b11"/>初地<lb
+ ed="X" n="0698c21"/><lb
+ ed="R104" n="0137b12"/>十地<lb
+ ed="X" n="0698c22"/><lb
+ ed="R104" n="0137b13"/>等覺<lb
+ ed="X" n="0698c23"/><lb
+ ed="R104" n="0137b14"/><head>〔圓〕</head>妙覺<pb ed="X" id="X58.1026.0699a" n="0699a"/><lb
+ ed="X" n="0699a01"/><lb
+ ed="R104" n="0137b16"/><head>○始教</head><lb
+ ed="X" n="0699a02"/><lb
+ ed="R104" n="0137b17"/>。<lb
+ ed="X" n="0699a03"/><lb
+ ed="R104" n="0137b18"/><head>〔本〕</head>不覺<lb
+ ed="X" n="0699a04"/><lb
+ ed="R104" n="0138a01"/><head>〔名字〕</head><lb
+ ed="X" n="0699a05"/><lb
+ ed="R104" n="0138a02"/>發心<lb
+ ed="X" n="0699a06"/><lb
+ ed="R104" n="0138a03"/>十信<lb
+ ed="X" n="0699a07"/><lb
+ ed="R104" n="0138a04"/><head>〔相似〕</head><lb
+ ed="X" n="0699a08"/><lb
+ ed="R104" n="0138a05"/>十住<lb
+ ed="X" n="0699a09"/><lb
+ ed="R104" n="0138a06"/>十行<lb
+ ed="X" n="0699a10"/><lb
+ ed="R104" n="0138a07"/>十向<lb
+ ed="X" n="0699a11"/><lb
+ ed="R104" n="0138a08"/>四加<lb
+ ed="X" n="0699a12"/><lb
+ ed="R104" n="0138a09"/><head>〔隨分〕</head><lb
+ ed="X" n="0699a13"/><lb
+ ed="R104" n="0138a10"/>初地<lb
+ ed="X" n="0699a14"/><lb
+ ed="R104" n="0138a11"/>三地<lb
+ ed="X" n="0699a15"/><lb
+ ed="R104" n="0138a12"/>五地<lb
+ ed="X" n="0699a16"/><lb
+ ed="R104" n="0138a13"/>七地<lb
+ ed="X" n="0699a17"/><lb
+ ed="R104" n="0138a14"/>八地<lb
+ ed="X" n="0699a18"/><lb
+ ed="R104" n="0138a15"/>九地<lb
+ ed="X" n="0699a19"/><lb
+ ed="R104" n="0138a16"/>等覺<lb
+ ed="X" n="0699a20"/><lb
+ ed="R104" n="0138a17"/><head>〔圓〕</head>妙覺<lb
+ ed="X" n="0699a22"/><lb
+ ed="R104" n="0138b01"/><head>○小教</head><lb
+ ed="X" n="0699a23"/><lb
+ ed="R104" n="0138b02"/>。<lb
+ ed="X" n="0699a24"/><lb
+ ed="R104" n="0138b03"/><head>〔本〕</head>不覺<pb ed="X" id="X58.1026.0699b" n="0699b"/><lb
+ ed="X" n="0699b01"/><lb
+ ed="R104" n="0138b04"/><head>〔名字〕</head><lb
+ ed="X" n="0699b02"/><lb
+ ed="R104" n="0138b05"/>發心<lb
+ ed="X" n="0699b03"/><lb
+ ed="R104" n="0138b06"/>五停心<lb
+ ed="X" n="0699b04"/><lb
+ ed="R104" n="0138b07"/><head>〔相似〕</head><lb
+ ed="X" n="0699b05"/><lb
+ ed="R104" n="0138b08"/>別相念<lb
+ ed="X" n="0699b06"/><lb
+ ed="R104" n="0138b09"/>總相念<lb
+ ed="X" n="0699b07"/><lb
+ ed="R104" n="0138b10"/>。。<lb
+ ed="X" n="0699b08"/><lb
+ ed="R104" n="0138b11"/>煖<lb
+ ed="X" n="0699b09"/><lb
+ ed="R104" n="0138b12"/>頂<lb
+ ed="X" n="0699b10"/><lb
+ ed="R104" n="0138b13"/>忍<lb
+ ed="X" n="0699b11"/><lb
+ ed="R104" n="0138b14"/><lb
+ ed="X" n="0699b12"/><lb
+ ed="R104" n="0138b15"/>世第一。<lb
+ ed="X" n="0699b13"/><lb
+ ed="R104" n="0138b16"/><head>〔隨分〕</head><lb
+ ed="X" n="0699b14"/><lb
+ ed="R104" n="0138b17"/>須陀洹。<lb
+ ed="X" n="0699b15"/><lb
+ ed="R104" n="0138b18"/>斯陀含<lb
+ ed="X" n="0699b16"/><lb
+ ed="R104" n="0139a01"/>阿那含。<lb
+ ed="X" n="0699b17"/><lb
+ ed="R104" n="0139a02"/><head>〔圓〕</head>阿羅漢。<lb
+ ed="X" n="0699b18"/><lb
+ ed="R104" n="0139a03"/><head>〔圓〕</head>辟支。<lb
+ ed="X" n="0699b19"/><lb
+ ed="R104" n="0139a04"/><head>〔圓〕</head>佛。<lb
+ ed="X" n="0699b21"/><lb
+ ed="R104" n="0139a06"/>庚戌春。豎錄此圖於單條紙上。緇素輩不粘之座<lb
+ ed="X" n="0699b22"/><lb
+ ed="R104" n="0139a07"/>側。則易於遺失。重請方書。辛酉臘月八。再為橫鈔<lb
+ ed="X" n="0699b23"/><lb
+ ed="R104" n="0139a08"/>於冊頁。不唯令行坐可閱。而且流之遠與久也。然<lb
+ ed="X" n="0699b24"/><lb
+ ed="R104" n="0139a09"/>觀者須不凝滯於佛。若作迷本逐末看。豎則先上<pb ed="X" id="X58.1026.0699c" n="0699c"/><lb
+ ed="X" n="0699c01"/><lb
+ ed="R104" n="0139a10"/>次下。橫則先前次後。若作返妄歸真看。豎則先下<lb
+ ed="X" n="0699c02"/><lb
+ ed="R104" n="0139a11"/>次上。橫則先後次前。人但知小始終頓圓。不知圓<lb
+ ed="X" n="0699c03"/><lb
+ ed="R104" n="0139a12"/>頓終始小。今特圖出之。令作兩觀。以見其行布中。<lb
+ ed="X" n="0699c04"/><lb
+ ed="R104" n="0139a13"/>而實圓融無礙焉。慈雲灌頂行者續法題</ab></div>
+</body></text></TEI>

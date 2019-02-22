@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">權現金色迦那婆底九目天法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0185</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X02.0185.0841a" n="0841a"/><lb
+ ed="X" n="0841a01"/><lb
+ ed="X" n="0841a02"/><lb
+ ed="X" n="0841a03"/><lb
+ ed="R003" n="0738b01"/>
+<ab type='juan' subtype='open'>權現金色迦那婆底九目天法</ab><lb
+ ed="X" n="0841a04"/><lb
+ ed="X" n="0841a05"/><lb
+ ed="R003" n="0738b02"/><byline>三藏菩提留支　譯</byline><lb
+ ed="X" n="0841a06"/><lb
+ ed="R003" n="0738b03"/><div type='' level='2'><ab type='prose'>先欲作是法者彼像不刻作之若鑄印白𨭛銅栴檀<lb
+ ed="X" n="0841a07"/><lb
+ ed="R003" n="0738b04"/>及栢松等若奉造時一日一夜莫越過高三寸五寸<lb
+ ed="X" n="0841a08"/><lb
+ ed="R003" n="0738b05"/>七寸若畫綵色勿用皮膠須用香汁及有汁木其金<lb
+ ed="X" n="0841a09"/><lb
+ ed="R003" n="0738b06"/>色身正立有三頭各面上三目合成九目其鼻廔至<lb
+ ed="X" n="0841a10"/><lb
+ ed="R003" n="0738b07"/>齊頸遶虫皮有四臂左上手把歡喜丸右上手把蘿<lb
+ ed="X" n="0841a11"/><lb
+ ed="R003" n="0738b08"/>蔔根次左右手作根本印著白衣脚踏金山復次造<lb
+ ed="X" n="0841a12"/><lb
+ ed="R003" n="0738b09"/>時莫令雜人見燒名香清淨不食五辛刻像了於淨<lb
+ ed="X" n="0841a13"/><lb
+ ed="R003" n="0738b10"/>室中安置其壇方圓縱廣一肘半高一指以黃土塗<lb
+ ed="X" n="0841a14"/><lb
+ ed="R003" n="0738b11"/>若不敢之作木壇彼像向西方師向於東方置二寶<lb
+ ed="X" n="0841a15"/><lb
+ ed="R003" n="0738b12"/>瓶立時菜華燒名香若無名香燒青木并沉水香室<lb
+ ed="X" n="0841a16"/><lb
+ ed="R003" n="0738b13"/>等供物󴐽餅乳粥歡喜團蘇蜜蘿蔔根煎餅菓子種<lb
+ ed="X" n="0841a17"/><lb
+ ed="R003" n="0738b14"/>種供養每日三時奉供若呪師白衣著皆駈使并淨衣<lb
+ ed="X" n="0841a18"/><lb
+ ed="R003" n="0738b15"/>不淨者不用供養以人口莫火吹以扇不信人死亡<lb
+ ed="X" n="0841a19"/><lb
+ ed="R003" n="0738b16"/>事產生家人奴婢諸女人假名僧沙彌弟子莫近觸<lb
+ ed="X" n="0841a20"/><lb
+ ed="R003" n="0738b17"/>淨薦莚桶𣏐其資具清淨真言師於一切眾生起大<lb
+ ed="X" n="0841a21"/><lb
+ ed="R003" n="0738b18"/>慈悲心內外清淨以茅草為座順諸住所是法然即<lb
+ ed="X" n="0841a22"/><lb
+ ed="R003" n="0739a01"/>誦金色迦那婆底權現九目天根本大真言先二手<lb
+ ed="X" n="0841a23"/><lb
+ ed="R003" n="0739a02"/>外縛二頭指三合真言曰。<lb
+ ed="X" n="0841a24"/><lb
+ ed="R003" n="0739a03"/></ab>
+<ab type='dharani'>曩謨卒覩底迦吒迦吒麼吒麼吒起里舋<pb ed="X" id="X02.0185.0841b" n="0841b"/><lb
+ ed="X" n="0841b01"/><lb
+ ed="R003" n="0739a04"/>拏舋拏舋拏畔惹畔惹曩謨卒都帝<lb
+ ed="X" n="0841b02"/><lb
+ ed="R003" n="0739a05"/>護嚕捺羅跛惹曳娑嚩賀阿部多泯<lb
+ ed="X" n="0841b03"/><lb
+ ed="R003" n="0739a06"/>拏乞懺質多曷𠰘娑麼誐磋底諾乞<lb
+ ed="X" n="0841b04"/><lb
+ ed="R003" n="0739a07"/>使曩鉢曩鉢羅句跛野𭤶矩嚕矩嚕<lb
+ ed="X" n="0841b05"/><lb
+ ed="R003" n="0739a08"/>祖嚕祖嚕謨嚕謨嚕曩謨曩謨娑嚩<lb
+ ed="X" n="0841b06"/><lb
+ ed="R003" n="0739a09"/>賀唵娑羅吽娑嚩賀<lb
+ ed="X" n="0841b07"/><lb
+ ed="R003" n="0739a10"/></ab>
+<ab type='prose'>以是真言誦三時每時一百八遍三日三夜亦七日<lb
+ ed="X" n="0841b08"/><lb
+ ed="R003" n="0739a11"/>七夜奉供即權現迦那婆底九目天王如影隨形順<lb
+ ed="X" n="0841b09"/><lb
+ ed="R003" n="0739a12"/>真言師心駈使示善惡又上品持我者我為人中王<lb
+ ed="X" n="0841b10"/><lb
+ ed="R003" n="0739a13"/>中品持我者我為王師下品持我者福貴無窮已凡<lb
+ ed="X" n="0841b11"/><lb
+ ed="R003" n="0739a14"/>一切善惡事所求願必無不果遂。<lb
+ ed="X" n="0841b12"/><lb
+ ed="R003" n="0739a15"/><lb
+ ed="X" n="0841b13"/><lb
+ ed="R003" n="0739a16"/></ab><div type='w' level='3'><ab type='prose'>安元二年五月二十七日於法住寺法華堂僧坊<lb
+ ed="X" n="0841b14"/><lb
+ ed="R003" n="0739a17"/>依　院宣法橋增運令書進給以御本書之了<lb
+ ed="X" n="0841b15"/><lb
+ ed="R003" n="0739a18"/>心惠記之</ab></div></div></div>
+</body></text></TEI>

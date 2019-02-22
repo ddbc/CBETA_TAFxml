@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">五大牛玉雨寶陀羅尼儀軌</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0201</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X02.0201.0876b" n="0876b"/><lb
+ ed="X" n="0876b01"/><lb
+ ed="X" n="0876b02"/><lb
+ ed="X" n="0876b03"/><lb
+ ed="X" n="0876b04"/><lb
+ ed="X" n="0876b05"/><lb
+ ed="X" n="0876b06"/><lb
+ ed="X" n="0876b07"/><lb
+ ed="X" n="0876b08"/><lb
+ ed="X" n="0876b09"/><lb
+ ed="X" n="0876b10"/><lb
+ ed="X" n="0876b11"/><lb
+ ed="X" n="0876b12"/><lb
+ ed="X" n="0876b13"/><lb
+ ed="X" n="0876b14"/><lb
+ ed="X" n="0876b15"/><lb
+ ed="X" n="0876b16"/><lb
+ ed="X" n="0876b17"/><lb
+ ed="R003" n="0806b01"/>
+<ab type='juan' subtype='open'>五大牛玉雨寶陀羅尼儀軌</ab><lb
+ ed="X" n="0876b18"/><lb
+ ed="X" n="0876b19"/><lb
+ ed="R003" n="0806b02"/><byline>縛日羅枳惹曩譯</byline><lb
+ ed="X" n="0876b20"/><lb
+ ed="R003" n="0806b03"/><div type='' level='2'><ab type='prose'>爾時如來在金剛頂瑜伽祕密宮殿中。與微塵數諸<lb
+ ed="X" n="0876b21"/><lb
+ ed="R003" n="0806b04"/>大眾俱。宣說微妙甚深祕密。<lb
+ ed="X" n="0876b22"/><lb
+ ed="R003" n="0806b05"/>爾時會中。有一菩薩摩訶薩。名曰虗空神通王。從座<lb
+ ed="X" n="0876b23"/><lb
+ ed="R003" n="0806b06"/>而起。頂禮佛足。白佛言。世尊。我於過去無量劫中。供<lb
+ ed="X" n="0876b24"/><lb
+ ed="R003" n="0806b07"/>養諸佛。修行最上祕密教法。為五大牛玉雨寶陀羅<pb ed="X" id="X02.0201.0876c" n="0876c"/><lb
+ ed="X" n="0876c01"/><lb
+ ed="R003" n="0806b08"/>尼。是則一切諸佛世尊最深祕密微妙吉祥大寶庫<lb
+ ed="X" n="0876c02"/><lb
+ ed="R003" n="0806b09"/>藏。為濁世眾生等在家出家貧窮困苦薄福之類資<lb
+ ed="X" n="0876c03"/><lb
+ ed="R003" n="0806b10"/>具乏少所求願事不隨其意。令滿足一切所願。欲說<lb
+ ed="X" n="0876c04"/><lb
+ ed="R003" n="0806b11"/>此法。唯願世尊哀愍聽許。爾時如來讚言善哉。隨汝<lb
+ ed="X" n="0876c05"/><lb
+ ed="R003" n="0806b12"/>意說。我於往昔無數劫前。在因地時。發大誓願力。為<lb
+ ed="X" n="0876c06"/><lb
+ ed="R003" n="0806b13"/>諸眾生遍滿一切法界海中娑訶世界薄福下劣諸<lb
+ ed="X" n="0876c07"/><lb
+ ed="R003" n="0806b14"/>眾生等。願作大水牛玉銀蹄金角青瑠璃色青大勢<lb
+ ed="X" n="0876c08"/><lb
+ ed="R003" n="0806b15"/>力。周遍法界為諸眾生。隨類應現。作大饒益。如汝今<lb
+ ed="X" n="0876c09"/><lb
+ ed="R003" n="0806b16"/>日發弘誓願。汝欲說此雨寶陀羅尼者。是則諸佛最<lb
+ ed="X" n="0876c10"/><lb
+ ed="R003" n="0806b17"/>上祕密牛玉寶印。利益群生甚深祕術。<lb
+ ed="X" n="0876c11"/><lb
+ ed="R003" n="0806b18"/>爾時祕大士虗空神通王菩薩。蒙佛許可。於如來前。<lb
+ ed="X" n="0876c12"/><lb
+ ed="R003" n="0807a01"/>而說偈言。<lb
+ ed="X" n="0876c13"/><lb
+ ed="R003" n="0807a02"/></ab>
+<ab type='verse'>
+我依諸佛最上乘　　祕密瑜伽名雨寶　　<lb
+ ed="X" n="0876c14"/><lb
+ ed="R003" n="0807a03"/>為像末法薄福是　　佛說成就甚深法　　<lb
+ ed="X" n="0876c15"/><lb
+ ed="R003" n="0807a04"/>若有眾生無福惠　　一切所欲不隨心　　<lb
+ ed="X" n="0876c16"/><lb
+ ed="R003" n="0807a05"/>由此貧苦造惡業　　墮在三途無出期　　<lb
+ ed="X" n="0876c17"/><lb
+ ed="R003" n="0807a06"/>依我所說祕密法　　修學雨寶陀羅尼　　<lb
+ ed="X" n="0876c18"/><lb
+ ed="R003" n="0807a07"/>免脫貧窮困苦難　　圓滿心中所求願　　<pb ed="X" id="X02.0201.0877a" n="0877a"/><lb
+ ed="X" n="0877a01"/><lb
+ ed="R003" n="0807a08"/>若我弘誓大悲中　　一人不成二世願　　<lb
+ ed="X" n="0877a02"/><lb
+ ed="R003" n="0807a09"/>我墮虗妄罪苦中　　不還本覺捨大悲　　
+</ab><lb
+ ed="X" n="0877a03"/><lb
+ ed="R003" n="0807a10"/><ab type='prose'>說此偈已。即說呪法。二手外縛。二風竪相合。蹙如寶<lb
+ ed="X" n="0877a04"/><lb
+ ed="R003" n="0807a11"/>形。真言<lb
+ ed="X" n="0877a05"/><lb
+ ed="R003" n="0807a12"/></ab>
+<ab type='dharani'>唵縛日羅怛羅莎呵<lb
+ ed="X" n="0877a06"/><lb
+ ed="R003" n="0807a13"/></ab>
+<ab type='prose'>又說根本陀羅尼金剛合掌。<lb
+ ed="X" n="0877a07"/><lb
+ ed="R003" n="0807a14"/></ab>
+<ab type='dharani'>唵半怛𠈺俐邪羅惹怛羅莎呵<lb
+ ed="X" n="0877a08"/><lb
+ ed="R003" n="0807a15"/></ab>
+<ab type='prose'>次說五大牛玉根本心印明。先法界牛玉印。金剛外<lb
+ ed="X" n="0877a09"/><lb
+ ed="R003" n="0807a16"/>縛中指如針。真言。<lb
+ ed="X" n="0877a10"/><lb
+ ed="R003" n="0807a17"/></ab>
+<ab type='dharani'>唵縛日羅𮢥莎呵<lb
+ ed="X" n="0877a11"/><lb
+ ed="R003" n="0807a18"/></ab>
+<ab type='prose'>次金剛牛玉印明。<lb
+ ed="X" n="0877a12"/><lb
+ ed="R003" n="0807b01"/>金剛外縛直立忍願。偃仰進力。如三股杵形。真言。<lb
+ ed="X" n="0877a13"/><lb
+ ed="R003" n="0807b02"/></ab>
+<ab type='dharani'>唵縛日羅吽莎呵<lb
+ ed="X" n="0877a14"/><lb
+ ed="R003" n="0807b03"/></ab>
+<ab type='prose'>次寶光牛玉印。<lb
+ ed="X" n="0877a15"/><lb
+ ed="R003" n="0807b04"/>金剛外縛。立忍願。進力如寶形。真言。<lb
+ ed="X" n="0877a16"/><lb
+ ed="R003" n="0807b05"/></ab>
+<ab type='dharani'>唵縛日羅怛羅莎呵<lb
+ ed="X" n="0877a17"/><lb
+ ed="R003" n="0807b06"/></ab>
+<ab type='prose'>次蓮華牛玉印明。<lb
+ ed="X" n="0877a18"/><lb
+ ed="R003" n="0807b07"/>金剛外縛進力如蓮華形真言曰。<lb
+ ed="X" n="0877a19"/><lb
+ ed="R003" n="0807b08"/></ab>
+<ab type='dharani'>唵縛日羅紇哩莎呵<lb
+ ed="X" n="0877a20"/><lb
+ ed="R003" n="0807b09"/></ab>
+<ab type='prose'>次羯磨牛玉印明。<lb
+ ed="X" n="0877a21"/><lb
+ ed="R003" n="0807b10"/>金剛外縛立忍願面相合叉。戒方進力立互相叉。真<lb
+ ed="X" n="0877a22"/><lb
+ ed="R003" n="0807b11"/>言。<lb
+ ed="X" n="0877a23"/><lb
+ ed="R003" n="0807b12"/></ab>
+<ab type='dharani'>唵縛日羅惡莎呵<lb
+ ed="X" n="0877a24"/><lb
+ ed="R003" n="0807b13"/></ab>
+<ab type='prose'>次說修行方法。<pb ed="X" id="X02.0201.0877b" n="0877b"/><lb
+ ed="X" n="0877b01"/><lb
+ ed="R003" n="0807b14"/>若欲修行此最上法。三業清淨。親對善師。受得儀軌。<lb
+ ed="X" n="0877b02"/><lb
+ ed="R003" n="0807b15"/>先應灌頂。或於山間靜處。或於寺舍。隨所樂處。建立<lb
+ ed="X" n="0877b03"/><lb
+ ed="R003" n="0807b16"/>壇。作一方壇隨其大小。於壇面方。安置尊像。<lb
+ ed="X" n="0877b04"/><lb
+ ed="R003" n="0807b17"/>其形像法。<lb
+ ed="X" n="0877b05"/><lb
+ ed="R003" n="0807b18"/>其身黃金色四臂一面。頂戴五牛玉。是五佛寶冠。左<lb
+ ed="X" n="0877b06"/><lb
+ ed="R003" n="0808a01"/>手捧日輪。右手捧月輪。左手持如意寶形當心。右手<lb
+ ed="X" n="0877b07"/><lb
+ ed="R003" n="0808a02"/>作施無畏印。少許相去。當在寶形。持誦者壇東對像<lb
+ ed="X" n="0877b08"/><lb
+ ed="R003" n="0808a03"/>念誦。以種種時華。散壇上。燒香燈明飯食菓子。隨力<lb
+ ed="X" n="0877b09"/><lb
+ ed="R003" n="0808a04"/>所辨。以為供養。每入道場。對尊像五體投地。禮一切<lb
+ ed="X" n="0877b10"/><lb
+ ed="R003" n="0808a05"/>佛及諸聖眾。即懺悔隨喜勸請發願已。然後結跏趺<lb
+ ed="X" n="0877b11"/><lb
+ ed="R003" n="0808a06"/>坐或半跏趺。隨意而坐。端身正念。常以塗香用塗兩<lb
+ ed="X" n="0877b12"/><lb
+ ed="R003" n="0808a07"/>手。虗心合掌而誦淨三業真言。<lb
+ ed="X" n="0877b13"/><lb
+ ed="R003" n="0808a08"/></ab>
+<ab type='dharani'>唵舜入第耨戍駄曩耶莎呵<lb
+ ed="X" n="0877b14"/><lb
+ ed="R003" n="0808a09"/></ab>
+<ab type='prose'>次佛部心印明。<lb
+ ed="X" n="0877b15"/><lb
+ ed="R003" n="0808a10"/>金剛合掌真言。<lb
+ ed="X" n="0877b16"/><lb
+ ed="R003" n="0808a11"/></ab>
+<ab type='dharani'>唵爾曩爾伽莎呵<lb
+ ed="X" n="0877b17"/><lb
+ ed="R003" n="0808a12"/></ab>
+<ab type='prose'>次蓮華部心印明。<lb
+ ed="X" n="0877b18"/><lb
+ ed="R003" n="0808a13"/></ab>
+<ab type='dharani'>唵阿嚧力迦莎呵<lb
+ ed="X" n="0877b19"/><lb
+ ed="R003" n="0808a14"/></ab>
+<ab type='prose'>次金剛部心印。<lb
+ ed="X" n="0877b20"/><lb
+ ed="R003" n="0808a15"/></ab>
+<ab type='dharani'>唵縛日羅地力迦莎呵<lb
+ ed="X" n="0877b21"/><lb
+ ed="R003" n="0808a16"/></ab>
+<ab type='prose'>次被甲護身印明。<lb
+ ed="X" n="0877b22"/><lb
+ ed="R003" n="0808a17"/>左右各作金剛拳。左拳安左腰。以右拳印五處。仍印<lb
+ ed="X" n="0877b23"/><lb
+ ed="R003" n="0808a18"/>額右肩左肩心喉。真言。<lb
+ ed="X" n="0877b24"/><lb
+ ed="R003" n="0808b01"/></ab>
+<ab type='dharani'>唵步入縛羅吽<pb ed="X" id="X02.0201.0877c" n="0877c"/><lb
+ ed="X" n="0877c01"/><lb
+ ed="R003" n="0808b02"/></ab>
+<ab type='prose'>次召請本尊印明。<lb
+ ed="X" n="0877c02"/><lb
+ ed="R003" n="0808b03"/>二手內縛。舒右風少屈如鈎形召之三遍。真言曰。<lb
+ ed="X" n="0877c03"/><lb
+ ed="R003" n="0808b04"/></ab>
+<ab type='dharani'>唵𮢥吽怛羅訖里惡曳醯呬莎呵<lb
+ ed="X" n="0877c04"/><lb
+ ed="R003" n="0808b05"/></ab>
+<ab type='prose'>次軍吒利身印明。<lb
+ ed="X" n="0877c05"/><lb
+ ed="R003" n="0808b06"/>二手內縛。竪忍願頭相柱。舒進力以屈當忍願背不<lb
+ ed="X" n="0877c06"/><lb
+ ed="R003" n="0808b07"/>相著。作三股杵形。真言曰。<lb
+ ed="X" n="0877c07"/><lb
+ ed="R003" n="0808b08"/></ab>
+<ab type='dharani'>唵阿密哩帝吽發吒莎呵<lb
+ ed="X" n="0877c08"/><lb
+ ed="R003" n="0808b09"/></ab>
+<ab type='prose'>次獻閼伽水印。<lb
+ ed="X" n="0877c09"/><lb
+ ed="R003" n="0808b10"/>壇上左右。各置一淨器滿盛香水。以為閼伽。初迎請<lb
+ ed="X" n="0877c10"/><lb
+ ed="R003" n="0808b11"/>時獻右邊者。後奉送時獻左邊者。奉獻時二羽捧閼<lb
+ ed="X" n="0877c11"/><lb
+ ed="R003" n="0808b12"/>伽器當額。即誦真言。浴本尊足。真言。<lb
+ ed="X" n="0877c12"/><lb
+ ed="R003" n="0808b13"/></ab>
+<ab type='dharani'>唵縛日羅那迦吒吽<lb
+ ed="X" n="0877c13"/><lb
+ ed="R003" n="0808b14"/></ab>
+<ab type='prose'>次獻華座印。<lb
+ ed="X" n="0877c14"/><lb
+ ed="R003" n="0808b15"/>二手虗心合掌作開敷蓮華八葉印當額。明曰。<lb
+ ed="X" n="0877c15"/><lb
+ ed="R003" n="0808b16"/></ab>
+<ab type='dharani'>唵迦摩羅莎呵<lb
+ ed="X" n="0877c16"/><lb
+ ed="R003" n="0808b17"/></ab>
+<ab type='prose'>次普通供養印。<lb
+ ed="X" n="0877c17"/><lb
+ ed="R003" n="0808b18"/>二雙合掌。以戒方二度外縛。以進力反蹙如寶形。結<lb
+ ed="X" n="0877c18"/><lb
+ ed="R003" n="0809a01"/>印已成。誦真言曰。<lb
+ ed="X" n="0877c19"/><lb
+ ed="R003" n="0809a02"/></ab>
+<ab type='dharani'>唵誐誐曩三婆嚩縛日羅斛<lb
+ ed="X" n="0877c20"/><lb
+ ed="R003" n="0809a03"/></ab>
+<ab type='prose'>想從印出生無量種種供具。香華燈明塗香飲食寶<lb
+ ed="X" n="0877c21"/><lb
+ ed="R003" n="0809a04"/>幢幡蓋一切寶物。奉供養本尊一切聖眾。<lb
+ ed="X" n="0877c22"/><lb
+ ed="R003" n="0809a05"/>次結金剛合掌印。即誦大牛玉菩薩讚歎曰。<lb
+ ed="X" n="0877c23"/><lb
+ ed="R003" n="0809a06"/></ab>
+<ab type='dharani'>縛日羅羅怛曩素縛日羅羅他縛日羅迦<lb
+ ed="X" n="0877c24"/><lb
+ ed="R003" n="0809a07"/>捨摩訶摩抳阿迦捨蘖婆縛日羅荼縛日羅蘖<pb ed="X" id="X02.0201.0878a" n="0878a"/><lb
+ ed="X" n="0878a01"/><lb
+ ed="R003" n="0809a08"/>婆曩謨率都帝<lb
+ ed="X" n="0878a02"/><lb
+ ed="R003" n="0809a09"/></ab>
+<ab type='prose'>次羯磨印左拳印當心。空風相捻如寶形。右手作施<lb
+ ed="X" n="0878a03"/><lb
+ ed="R003" n="0809a10"/>願勢。觀想我身即同五大牛玉菩薩。真言。<lb
+ ed="X" n="0878a04"/><lb
+ ed="R003" n="0809a11"/></ab>
+<ab type='dharani'>唵𮢥吽怛羅紇哩惡憾莎呵<lb
+ ed="X" n="0878a05"/><lb
+ ed="R003" n="0809a12"/></ab>
+<ab type='prose'>次結三昧耶印。<lb
+ ed="X" n="0878a06"/><lb
+ ed="R003" n="0809a13"/>二雙外縛。進力反蹙如寶形。禪智並竪置於心上。真<lb
+ ed="X" n="0878a07"/><lb
+ ed="R003" n="0809a14"/>言。<lb
+ ed="X" n="0878a08"/><lb
+ ed="R003" n="0809a15"/></ab>
+<ab type='dharani'>唵縛日羅羅怛曩吽<lb
+ ed="X" n="0878a09"/><lb
+ ed="R003" n="0809a16"/></ab>
+<ab type='prose'>即取水精念珠。安於掌中。當心誦加持念珠真言三<lb
+ ed="X" n="0878a10"/><lb
+ ed="R003" n="0809a17"/>遍。真言曰。<lb
+ ed="X" n="0878a11"/><lb
+ ed="R003" n="0809a18"/></ab>
+<ab type='dharani'>唵尾盧石曩摩羅莎呵<lb
+ ed="X" n="0878a12"/><lb
+ ed="R003" n="0809b01"/></ab>
+<ab type='prose'>然後發願。始自我身一切有情所希望事世間一切<lb
+ ed="X" n="0878a13"/><lb
+ ed="R003" n="0809b02"/>善願。以我念誦力速令成就。而下心上念誦。誦此真<lb
+ ed="X" n="0878a14"/><lb
+ ed="R003" n="0809b03"/>言。於七日中。滿三十萬遍。聖者即現持誦者前。隨心<lb
+ ed="X" n="0878a15"/><lb
+ ed="R003" n="0809b04"/>所求皆得成就。<lb
+ ed="X" n="0878a16"/><lb
+ ed="R003" n="0809b05"/>若常持誦。每日三時。時別念誦一千八十遍。數滿一<lb
+ ed="X" n="0878a17"/><lb
+ ed="R003" n="0809b06"/>百萬遍。一切求願莫不成就。念誦分限畢。頂戴念珠<lb
+ ed="X" n="0878a18"/><lb
+ ed="R003" n="0809b07"/>祈請所求即安本處。<lb
+ ed="X" n="0878a19"/><lb
+ ed="R003" n="0809b08"/>次奉送本尊印明。<lb
+ ed="X" n="0878a20"/><lb
+ ed="R003" n="0809b09"/>二手外縛。竪二大指頭插華。誦真言。想念本尊送本<lb
+ ed="X" n="0878a21"/><lb
+ ed="R003" n="0809b10"/>土。真言曰。<lb
+ ed="X" n="0878a22"/><lb
+ ed="R003" n="0809b11"/></ab>
+<ab type='dharani'>唵縛日羅怛曩黎<lb
+ ed="X" n="0878a23"/><lb
+ ed="R003" n="0809b12"/></ab>
+<ab type='prose'>次三部被甲如前。<lb
+ ed="X" n="0878a24"/><lb
+ ed="R003" n="0809b13"/>我依如來加持力。說此甚深微妙法。若於像末不信<pb ed="X" id="X02.0201.0878b" n="0878b"/><lb
+ ed="X" n="0878b01"/><lb
+ ed="R003" n="0809b14"/>人。不同其不莫授與。先擇弟子。其心操人所敬。有智<lb
+ ed="X" n="0878b02"/><lb
+ ed="R003" n="0809b15"/>惠。修四無量樂大乘。敬禮三寶兼濟心。從師入壇已<lb
+ ed="X" n="0878b03"/><lb
+ ed="R003" n="0809b16"/>灌頂。既蒙印可而修行。自恣。杖罔此深法。金剛薩埵<lb
+ ed="X" n="0878b04"/><lb
+ ed="R003" n="0809b17"/>冥治罸。孝養父母不懈怠。恭敬尊重阿闍梨。誠心信<lb
+ ed="X" n="0878b05"/><lb
+ ed="R003" n="0809b18"/>受此大法。不生一念不信心。傳受已後專修此。誠心<lb
+ ed="X" n="0878b06"/><lb
+ ed="R003" n="0810a01"/>祈請所求願。本尊哀愍垂加護。悉地現前令滿足。若<lb
+ ed="X" n="0878b07"/><lb
+ ed="R003" n="0810a02"/>有來求無厭心。隨力所堪而施與。於傳受阿闍梨耶。<lb
+ ed="X" n="0878b08"/><lb
+ ed="R003" n="0810a03"/>奉獻珍寶。不惜身命。若有慳不行從此法。悉地不圓<lb
+ ed="X" n="0878b09"/><lb
+ ed="R003" n="0810a04"/>滿。忽忌宣傳於世間。毀謗罪故墮惡趣。由此印契祕。<lb
+ ed="X" n="0878b10"/><lb
+ ed="R003" n="0810a05"/>密故。六根罪障悉清淨。福智圓滿具大行。必證無上<lb
+ ed="X" n="0878b11"/><lb
+ ed="R003" n="0810a06"/>大菩提。<lb
+ ed="X" n="0878b12"/><lb
+ ed="R003" n="0810a07"/><lb
+ ed="X" n="0878b13"/><lb
+ ed="R003" n="0810a08"/>
+</ab><ab type='juan' subtype='close'>牛玉雨寶陀羅尼儀軌</ab><lb
+ ed="X" n="0878b14"/><lb
+ ed="X" n="0878b15"/><lb
+ ed="R003" n="0810a09"/><div type='w' level='3'><ab type='prose'>慈智上人黑谷示之。此法極密故絕不流行。而慈<lb
+ ed="X" n="0878b16"/><lb
+ ed="R003" n="0810a10"/>覺大師在虗時。為令此法令斷絕。雖傳受之深隱<lb
+ ed="X" n="0878b17"/><lb
+ ed="R003" n="0810a11"/>心腑。不敢披露俱能知彼器。可傳受之云云。<lb
+ ed="X" n="0878b18"/><lb
+ ed="R003" n="0810a12"/>出自如意輪法中。<lb
+ ed="X" n="0878b19"/><lb
+ ed="R003" n="0810a13"/>文保三年正月三日　以不退寺入真房本於東<lb
+ ed="X" n="0878b20"/><lb
+ ed="R003" n="0810a14"/>南院院主坊書寫之了莫出竹木目底<lb
+ ed="X" n="0878b21"/><lb
+ ed="R003" n="0810a15"/>金剛資賴心</ab></div></div></div>
+</body></text></TEI>

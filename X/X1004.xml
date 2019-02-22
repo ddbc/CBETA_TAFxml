@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">五蘊觀</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X58</biblScope>
+                    <idno type="Taisho">X58n1004</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X58.1004.0425b" n="0425b"/><lb
+ ed="X" n="0425b01"/><lb
+ ed="X" n="0425b02"/><lb
+ ed="X" n="0425b03"/><lb
+ ed="X" n="0425b04"/><lb
+ ed="X" n="0425b05"/><lb
+ ed="X" n="0425b06"/><lb
+ ed="R103" n="0605a01"/>
+<ab type='juan' subtype='open'>五蘊觀</ab><lb
+ ed="X" n="0425b07"/><lb
+ ed="X" n="0425b08"/><lb
+ ed="R103" n="0605a02"/><byline>沙門　澄觀　述</byline><lb
+ ed="X" n="0425b09"/><lb
+ ed="R103" n="0605a03"/><div type='' level='1'><ab type='prose'>問。凡夫之人欲求解脫。當云何修。答曰。當修二觀。二<lb
+ ed="X" n="0425b10"/><lb
+ ed="R103" n="0605a04"/>觀者何。一人空觀。二法空觀。夫生死之本莫過人法<lb
+ ed="X" n="0425b11"/><lb
+ ed="R103" n="0605a05"/>二執。迷身心總相。故執人我為實有。迷五蘊自相。故<lb
+ ed="X" n="0425b12"/><lb
+ ed="R103" n="0605a06"/>計法我為實有。計人我者。用初觀照之。知五蘊和合<lb
+ ed="X" n="0425b13"/><lb
+ ed="R103" n="0605a07"/>假名為人。一一諦觀。但見五蘊。求人我相終不可得。<lb
+ ed="X" n="0425b14"/><lb
+ ed="R103" n="0605a08"/>云何名為五蘊。色受想行識是。云何觀之。身則色蘊。<lb
+ ed="X" n="0425b15"/><lb
+ ed="R103" n="0605a09"/>所謂地水火風是。其相如何。堅則地。潤則水。煖則火。<lb
+ ed="X" n="0425b16"/><lb
+ ed="R103" n="0605a10"/>動則風。觀心則四蘊。所謂受想行識是其相。如何領<lb
+ ed="X" n="0425b17"/><lb
+ ed="R103" n="0605a11"/>納為受。取相為相。造作為行。了別為識。若能依此身<lb
+ ed="X" n="0425b18"/><lb
+ ed="R103" n="0605a12"/>心相。諦觀分明。於一切處但見五蘊。求人我相終不<lb
+ ed="X" n="0425b19"/><lb
+ ed="R103" n="0605a13"/>可得。名人空觀。乘此觀。行出分段生死。永處涅槃。名<lb
+ ed="X" n="0425b20"/><lb
+ ed="R103" n="0605a14"/>二乘解脫。計法我者用後觀照之。知一一蘊皆從緣<lb
+ ed="X" n="0425b21"/><lb
+ ed="R103" n="0605a15"/>生。都無自性。求蘊相不可得。則五蘊皆空。名法空觀。<lb
+ ed="X" n="0425b22"/><lb
+ ed="R103" n="0605a16"/>若二觀雙照。了人我法我。畢竟空無所有。離諸怖畏。<lb
+ ed="X" n="0425b23"/><lb
+ ed="R103" n="0605a17"/>度一切苦厄。出變易生死。名究竟解脫。問。夫求解脫。<lb
+ ed="X" n="0425b24"/><lb
+ ed="R103" n="0605a18"/>祗是了妄證真。但能契真如理寂。然無念則便離縛。<pb ed="X" id="X58.1004.0425c" n="0425c"/><lb
+ ed="X" n="0425c01"/><lb
+ ed="R103" n="0605b01"/>何假興心觀蘊方求解脫。豈不乖理哉。答。離蘊真妄<lb
+ ed="X" n="0425c02"/><lb
+ ed="R103" n="0605b02"/>約何而立。且五蘊者身心之異名。行人若不識身心。<lb
+ ed="X" n="0425c03"/><lb
+ ed="R103" n="0605b03"/>真妄何能懸契。不達真妄之本。諸行徒施。故經云。若<lb
+ ed="X" n="0425c04"/><lb
+ ed="R103" n="0605b04"/>於虗空終不能成。斯之謂也。且計人我者。凡夫之執<lb
+ ed="X" n="0425c05"/><lb
+ ed="R103" n="0605b05"/>也。計法我者。二乘之滯也。故令修二觀。方能了妄證<lb
+ ed="X" n="0425c06"/><lb
+ ed="R103" n="0605b06"/>真。豈可離也。<lb
+ ed="X" n="0425c07"/><lb
+ ed="R103" n="0605b07"/><lb
+ ed="X" n="0425c08"/><lb
+ ed="R103" n="0605b08"/>
+</ab><ab type='juan' subtype='close'>五蘊觀</ab></div>
+</body></text></TEI>

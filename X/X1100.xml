@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">道具賦</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X59</biblScope>
+                    <idno type="Taisho">X59n1100</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X59.1100.0603c" n="0603c"/><lb
+ ed="X" n="0603c01"/><lb
+ ed="X" n="0603c02"/><lb
+ ed="X" n="0603c03"/><lb
+ ed="X" n="0603c04"/><lb
+ ed="X" n="0603c05"/><lb
+ ed="X" n="0603c06"/><lb
+ ed="R105" n="0483a01"/>
+<ab type='juan' subtype='open'>大智律師道具賦</ab><lb
+ ed="X" n="0603c07"/><lb
+ ed="X" n="0603c08"/><lb
+ ed="R105" n="0483a02"/><head>三衣賦</head><lb
+ ed="X" n="0603c09"/><lb
+ ed="R105" n="0483a03"/><ab type='prose'>吾有三衣古聖真規粗疎麻苧為其體獸毛蠶口害<lb
+ ed="X" n="0603c10"/><lb
+ ed="R105" n="0483a04"/>命傷慈青黑木蘭壞其色五正五間涉俗生譏其奉<lb
+ ed="X" n="0603c11"/><lb
+ ed="R105" n="0483a05"/>持也如鳥兩翼其敬護也如身薄皮信是恒沙諸佛<lb
+ ed="X" n="0603c12"/><lb
+ ed="R105" n="0483a06"/>之標幟賢聖沙門之軌儀九十六道起信之首二十<lb
+ ed="X" n="0603c13"/><lb
+ ed="R105" n="0483a07"/>五有植福之基是以堅誓獸王忍死而頻加稱歎蓮<lb
+ ed="X" n="0603c14"/><lb
+ ed="R105" n="0483a08"/>華色女作戲而盡斷貪癡弘誓甚重至德難思龍被<lb
+ ed="X" n="0603c15"/><lb
+ ed="R105" n="0483a09"/>免金翅之禍人得息戰歒之危末流浮薄正教衰遲<lb
+ ed="X" n="0603c16"/><lb
+ ed="R105" n="0483a10"/>競貨亂朱之服卒遭濫吹之嗤壯大於貢高我慢欺<lb
+ ed="X" n="0603c17"/><lb
+ ed="R105" n="0483a11"/>壓於碩德厖眉習以成俗愚不知非汝當敬遵彝範<lb
+ ed="X" n="0603c18"/><lb
+ ed="R105" n="0483a12"/>仰荷恩慈時時自慶步步勿離潛神樂國兮銖衣自<lb
+ ed="X" n="0603c19"/><lb
+ ed="R105" n="0483a13"/>被垂形忍界兮報服常隨劫石可銷想斯言而不泯<lb
+ ed="X" n="0603c20"/><lb
+ ed="R105" n="0483a14"/>太空有盡諒此志以難移。<lb
+ ed="X" n="0603c21"/><lb
+ ed="R105" n="0483a15"/><head>䥫鉢賦</head><lb
+ ed="X" n="0603c22"/><lb
+ ed="R105" n="0483a16"/>吾有䥫鉢裁製合轍斗半為量不大不小竹煙熏治<lb
+ ed="X" n="0603c23"/><lb
+ ed="R105" n="0483a17"/>唯光唯潔似二分之明珠若將圓之皎月清晨入聚<lb
+ ed="X" n="0603c24"/><lb
+ ed="R105" n="0483a18"/>群心發越黃梁傾散有若金沙白淅高堆宛如積雪<pb ed="X" id="X59.1100.0604a" n="0604a"/><lb
+ ed="X" n="0604a01"/><lb
+ ed="R105" n="0483b01"/>與香積之變現無殊比自然之天供何別咨爾同舟<lb
+ ed="X" n="0604a02"/><lb
+ ed="R105" n="0483b02"/>宜自󴎃括不耕不粒不鋤不割有生之命自何而活<lb
+ ed="X" n="0604a03"/><lb
+ ed="R105" n="0483b03"/>且夫口腹無厭貪源叵竭正念微乖羅剎已奪嗜一<lb
+ ed="X" n="0604a04"/><lb
+ ed="R105" n="0483b04"/>時之甘味為萬劫之飢渴萬金可受保君未徹杯水<lb
+ ed="X" n="0604a05"/><lb
+ ed="R105" n="0483b05"/>難堪聖教明說是宜五觀無違三匙有節慎勿抂彼<lb
+ ed="X" n="0604a06"/><lb
+ ed="R105" n="0483b06"/>信施以養穢軀會須藉此資緣早求自脫。<lb
+ ed="X" n="0604a07"/><lb
+ ed="R105" n="0483b07"/><head>坐具賦</head><lb
+ ed="X" n="0604a08"/><lb
+ ed="R105" n="0483b08"/>吾有坐具裁量有據其色相則一類袈裟其物體則<lb
+ ed="X" n="0604a09"/><lb
+ ed="R105" n="0483b09"/>兩重疎布長四廣三壞新揲故彼形之大者可用開<lb
+ ed="X" n="0604a10"/><lb
+ ed="R105" n="0483b10"/>增吾身之小兮從初制度好大惡小但責他非反制<lb
+ ed="X" n="0604a11"/><lb
+ ed="R105" n="0483b11"/>為開焉知自誤甞聞比丘身者五分之塔也尼師壇<lb
+ ed="X" n="0604a12"/><lb
+ ed="R105" n="0483b12"/>者四方之基也是則道者所資豈宜身之為護安禪<lb
+ ed="X" n="0604a13"/><lb
+ ed="R105" n="0483b13"/>講法敷之無失於威儀入聚遊方持之勿離於跬步<lb
+ ed="X" n="0604a14"/><lb
+ ed="R105" n="0483b14"/>不然諸律有違制刑科一生無如法坐處。<lb
+ ed="X" n="0604a15"/><lb
+ ed="R105" n="0483b15"/><head>漉囊賦</head><lb
+ ed="X" n="0604a16"/><lb
+ ed="R105" n="0483b16"/>吾有漉囊製造有方緻練作底熟鐵為匡其用瀘兮<lb
+ ed="X" n="0604a17"/><lb
+ ed="R105" n="0483b17"/>深須諦視其還放兮切忌損傷宜知我佛仁慈尚不<lb
+ ed="X" n="0604a18"/><lb
+ ed="R105" n="0483b18"/>遺於微物將使吾曹飲用得幸免於餘殃一化境中<lb
+ ed="X" n="0604a19"/><lb
+ ed="R105" n="0484a01"/>上下皆制半由旬內往返須將世多輕略孰究否臧<lb
+ ed="X" n="0604a20"/><lb
+ ed="R105" n="0484a02"/>或聞而不製嗤為小道或製而不用但懸於艸堂斯<lb
+ ed="X" n="0604a21"/><lb
+ ed="R105" n="0484a03"/>由內無慈愍外恣疎往塞來蒙之津徑害吾教之紀<lb
+ ed="X" n="0604a22"/><lb
+ ed="R105" n="0484a04"/>綱汝當存誠捋守竭力󳭪張豈止四生有賴抑使三<lb
+ ed="X" n="0604a23"/><lb
+ ed="R105" n="0484a05"/>寶增光。<lb
+ ed="X" n="0604a24"/><lb
+ ed="R105" n="0484a06"/><head>錫杖賦</head><pb ed="X" id="X59.1100.0604b" n="0604b"/><lb
+ ed="X" n="0604b01"/><lb
+ ed="R105" n="0484a07"/>吾有一錫裁製有式上下三停聳幹六尺十二環圜<lb
+ ed="X" n="0604b02"/><lb
+ ed="R105" n="0484a08"/>而無缺示因緣乃死乃生兩鉆開而復同顯空有不<lb
+ ed="X" n="0604b03"/><lb
+ ed="R105" n="0484a09"/>離不即匪以扶羸唯將丐食執之兮居然寂寂振之<lb
+ ed="X" n="0604b04"/><lb
+ ed="R105" n="0484a10"/>兮其鳴歷歷直欲使諸有門開三途苦息隨身所止<lb
+ ed="X" n="0604b05"/><lb
+ ed="R105" n="0484a11"/>懸之屋壁塵垢易生長須拂拭擲雲外兮不以為難<lb
+ ed="X" n="0604b06"/><lb
+ ed="R105" n="0484a12"/>解虎競兮未須勞力幸哉凡愚踏夫聖跡外露麁暴<lb
+ ed="X" n="0604b07"/><lb
+ ed="R105" n="0484a13"/>內懷荊棘用之捨之兮能無夕惕。</ab></div>
+</body></text></TEI>

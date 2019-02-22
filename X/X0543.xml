@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">般若心經提綱</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X26</biblScope>
+                    <idno type="Taisho">X26n0543</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><lb
+ ed="X" n="0830b12"/><lb
+ ed="X" n="0830b13"/><lb
+ ed="X" n="0830b14"/><lb
+ ed="X" n="0830b15"/><lb
+ ed="X" n="0830b16"/><lb
+ ed="X" n="0830b17"/><lb
+ ed="R041" n="0848a01"/>
+<ab type='juan' subtype='open'>心經提綱</ab><lb
+ ed="X" n="0830b18"/><lb
+ ed="X" n="0830b19"/><lb
+ ed="R041" n="0848a02"/><byline>明　李卓吾　撰</byline><lb
+ ed="X" n="0830b20"/><lb
+ ed="R041" n="0848a03"/><div type='' level='1'><ab type='prose'>心經者。佛說心之徑要也。心本無有。而世人妄以為<lb
+ ed="X" n="0830b21"/><lb
+ ed="R041" n="0848a04"/>有。亦無無。而學者執以為無。有無分而能所立。是自<lb
+ ed="X" n="0830b22"/><lb
+ ed="R041" n="0848a05"/>罣礙也。自恐怖也。自顛倒也。安得自在。獨不觀於自<lb
+ ed="X" n="0830b23"/><lb
+ ed="R041" n="0848a06"/>在菩薩乎。彼其智慧行深。既到自在彼岸矣。斯時也。<lb
+ ed="X" n="0830b24"/><lb
+ ed="R041" n="0848a07"/>自然照見色受想行識五蘊皆空。本無生死可得。故<pb ed="X" id="X26.0543.0830c" n="0830c"/><lb
+ ed="X" n="0830c01"/><lb
+ ed="R041" n="0848a08"/>能出離生死苦海。而度脫一切苦厄焉。此一經之總<lb
+ ed="X" n="0830c02"/><lb
+ ed="R041" n="0848a09"/>要也。下文重重說破皆以明此。故遂呼而告之曰。舍<lb
+ ed="X" n="0830c03"/><lb
+ ed="R041" n="0848a10"/>利子。勿謂吾說空便即著空也。如我說色不異於空<lb
+ ed="X" n="0830c04"/><lb
+ ed="R041" n="0848a11"/>也。如我說空不異於色也。然但言不異。猶是二物有<lb
+ ed="X" n="0830c05"/><lb
+ ed="R041" n="0848a12"/>對。雖復合而為一。猶存一也。其實我所說色。即是說<lb
+ ed="X" n="0830c06"/><lb
+ ed="R041" n="0848a13"/>空。色之外無空矣。我所說空。即是說色。空之外無色<lb
+ ed="X" n="0830c07"/><lb
+ ed="R041" n="0848a14"/>矣。非但無色。而亦無空。此真空也。故又呼而告之曰。<lb
+ ed="X" n="0830c08"/><lb
+ ed="R041" n="0848a15"/>舍利子。是諸法空相。無空可名。何況更有生滅垢淨<lb
+ ed="X" n="0830c09"/><lb
+ ed="R041" n="0848a16"/>增減名相。是故。色本不生。空本不滅。說色非垢。說空<lb
+ ed="X" n="0830c10"/><lb
+ ed="R041" n="0848a17"/>非淨。在色不增。在空不減。非億之也。空中原無是耳。<lb
+ ed="X" n="0830c11"/><lb
+ ed="R041" n="0848a18"/>是故五蘊皆空。無色受想行識也。六根皆空。無眼耳<lb
+ ed="X" n="0830c12"/><lb
+ ed="R041" n="0848b01"/>鼻舌身意也。六塵皆空。無色聲香味觸法也。十八界<pb ed="X" id="X26.0543.0831a" n="0831a"/><lb
+ ed="X" n="0831a01"/><lb
+ ed="R041" n="0848b02"/>皆空。無眼界乃至無意識界也。以至生老病死。明與<lb
+ ed="X" n="0831a02"/><lb
+ ed="R041" n="0848b03"/>無明。四諦智證等皆無所得。此自在菩薩智慧觀照<lb
+ ed="X" n="0831a03"/><lb
+ ed="R041" n="0848b04"/>到無所得之彼岸也如此。所得既無。自然無罣礙恐<lb
+ ed="X" n="0831a04"/><lb
+ ed="R041" n="0848b05"/>怖與夫顛倒夢想矣。現視生死。而究竟涅槃矣。豈惟<lb
+ ed="X" n="0831a05"/><lb
+ ed="R041" n="0848b06"/>菩薩。雖過去現在未來三世諸佛。亦以此智慧。得到<lb
+ ed="X" n="0831a06"/><lb
+ ed="R041" n="0848b07"/>彼岸。共成無上正等正覺焉耳。則信乎盡大地眾生。<lb
+ ed="X" n="0831a07"/><lb
+ ed="R041" n="0848b08"/>無有不是佛者。乃知此真空妙智。是大神呪。是大明<lb
+ ed="X" n="0831a08"/><lb
+ ed="R041" n="0848b09"/>呪。是無上呪。是無等等呪。能出離生死苦海。度脫一<lb
+ ed="X" n="0831a09"/><lb
+ ed="R041" n="0848b10"/>切苦厄。真實不虗也。然則空之難言也久矣。執色者<lb
+ ed="X" n="0831a10"/><lb
+ ed="R041" n="0848b11"/>泥色。說空者滯空。及至兩無所依。則又一切撥無因<lb
+ ed="X" n="0831a11"/><lb
+ ed="R041" n="0848b12"/>果。不信經中分明讚嘆。空即是色。更有何空。色即是<lb
+ ed="X" n="0831a12"/><lb
+ ed="R041" n="0848b13"/>空。更有何色。無空無色。尚何有有有無於我罣礙。而<lb
+ ed="X" n="0831a13"/><lb
+ ed="R041" n="0848b14"/>不得自在耶。然則觀者。但以自家智慧。時常觀照。則<lb
+ ed="X" n="0831a14"/><lb
+ ed="R041" n="0848b15"/>彼岸當自得之矣。菩薩豈異人哉。但能一觀照之焉<lb
+ ed="X" n="0831a15"/><lb
+ ed="R041" n="0848b16"/>耳。人人皆菩薩。而不自見也。故言菩薩。則人人一矣。<lb
+ ed="X" n="0831a16"/><lb
+ ed="R041" n="0848b17"/>無聖愚也。言三世諸佛。則古今一矣。無先後也。奈之<lb
+ ed="X" n="0831a17"/><lb
+ ed="R041" n="0848b18"/>何可使由而不可使知者眾也。可使知。則為菩薩。不<lb
+ ed="X" n="0831a18"/><lb
+ ed="R041" n="0849a01"/>可使知。則為凡民。為禽獸。為木石。卒歸於泯泯爾矣。<lb
+ ed="X" n="0831a19"/><lb
+ ed="R041" n="0849a02"/><lb
+ ed="X" n="0831a20"/><lb
+ ed="R041" n="0849a03"/>
+</ab><ab type='juan' subtype='close'>心經提綱</ab></div>
+</body></text></TEI>

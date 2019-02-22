@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">錦屏破石卓禪師雜著</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">J36</biblScope>
+                    <idno type="Taisho">J36nB354</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="J" id="J36.B354.0545a" n="0545a"/><lb
+ ed="J" n="0545a01"/>
+<ab type='juan' subtype='open'>錦屏破石卓禪師雜著</ab><lb
+ ed="J" n="0545a02"/><byline>侍者超常記錄</byline><lb
+ ed="J" n="0545a03"/><head>詠犢</head><lb
+ ed="J" n="0545a04"/><ab type='verse'>
+出欄群牧童兒犢。蹶矣酣兮無箇亍。快爽風雲得自<lb
+ ed="J" n="0545a05"/>由。蹋翻水月何拘牿。平洋細艸任齁鼾。峻險穿蘿那<lb
+ ed="J" n="0545a06"/>礙慾。分付山河隨去來。莫教錯認鞭頭毒。　　
+</ab><lb
+ ed="J" n="0545a07"/><head>除夕</head><lb
+ ed="J" n="0545a08"/><ab type='verse'>
+韶華幾度渾忘過。寂寞其如客路多。爆竹有聲難作<lb
+ ed="J" n="0545a09"/>夢。鄉心無曲不成歌。漫添宿火頻催韻。應惜浮生急<lb
+ ed="J" n="0545a10"/>似梭。雲水相從今夜坐。但饒舌處總禪那。　　
+</ab><lb
+ ed="J" n="0545a11"/><head>早行</head><lb
+ ed="J" n="0545a12"/><ab type='verse'>
+行腳那論溼與乾。㲯毿雲衲破江寒。杖懸孤月光非<lb
+ ed="J" n="0545a13"/>淡。星射滄波影未殘。小鳥浪鳴催曙色。芒鞋信步踐<lb
+ ed="J" n="0545a14"/>芝蘭。隔堤何處聞鐘響。疑是漁翁下釣磐。　　
+</ab><lb
+ ed="J" n="0545a15"/><ab type='prose'>又<lb
+ ed="J" n="0545a16"/></ab>
+<ab type='verse'>
+瓢囊溼也又還乾。頓脫塵襟那畏寒。石上苔封凝露<lb
+ ed="J" n="0545a17"/>滑。樓頭漏盡鼓聲殘。慢雲捲暗猶瞻月。裛露聞香定<lb
+ ed="J" n="0545a18"/>是蘭。珍重奚童須著眼。莫教容易過龍磐。　　
+</ab><lb
+ ed="J" n="0545a19"/><head>秋雨</head><lb
+ ed="J" n="0545a20"/><ab type='verse'>
+頻看紅葉故憑欄。敲碎風聲竹萬竿。疊嶂奇雲忙過<lb
+ ed="J" n="0545a21"/>壁。輕舫持釣下前灘。空山幾點苔痕淡。小閣半窗松<lb
+ ed="J" n="0545a22"/>影寒。此際誰回函蓋煖。離離蕭瑟侵詩壇。　　
+</ab><lb
+ ed="J" n="0545a23"/><head>題聖壽宮</head><lb
+ ed="J" n="0545a24"/><ab type='verse'>
+麗矣輝煌特地周。崇隆殿閣接雲浮。岑峰翠瑣瓊窗<lb
+ ed="J" n="0545a25"/>碧。老幹深巢野鶴悠。欹枕梵音鳴貝闕。遶垣疏磬帶<lb
+ ed="J" n="0545a26"/>清秋。酬恩故效華封祝。士女歌呼樂未休。　　
+</ab><lb
+ ed="J" n="0545a27"/><head>題大酉洞八景</head><lb
+ ed="J" n="0545a28"/><ab type='verse'>
+閒邀勝友步飛泉。四壁玲瓏靜悄然。石鼓輕敲灘水<lb
+ ed="J" n="0545a29"/>外。玉盤端的織機前。靈龜莫是煙霞客。鐵鶴無非古<lb
+ ed="J" n="0545a30"/>洞仙。曲澗桃花遊子意。長歌猶待月明旋。　　
+</ab><pb ed="J" id="J36.B354.0545b" n="0545b"/><lb
+ ed="J" n="0545b01"/><head>印心菴與靈源夜坐</head><lb
+ ed="J" n="0545b02"/><ab type='verse'>
+煮泉邀月詠胡笳。遠寺敲鐘接晚霞。揮麈無心于萬<lb
+ ed="J" n="0545b03"/>壑。拈花有意在三巴。葛藤爛打翻新案。石火能炊別<lb
+ ed="J" n="0545b04"/>是家。此夜鬚眉雖共慰。應知腦後廓生涯。　　
+</ab><lb
+ ed="J" n="0545b05"/><head>贈別阡陽趙元一使君</head><lb
+ ed="J" n="0545b06"/><ab type='verse'>
+棠蔭謳歌戴所遺。荒城蕭寺賴君支。洋洋聲重三千<lb
+ ed="J" n="0545b07"/>價。歷歷民懷萬里思。金馬度雲嘶晚泊。錫泉坐月訂<lb
+ ed="J" n="0545b08"/>先期。萍蹤奚以酬清況。但把重岩作玉碑。　　
+</ab><lb
+ ed="J" n="0545b09"/><head>九日病中同張鼎若詠菊</head><lb
+ ed="J" n="0545b10"/><ab type='verse'>
+節至疏籬菊已開。悠然靜對且徘徊。今朝休問陶公<lb
+ ed="J" n="0545b11"/>令。昔日曾誇蘇子來。座上呼童供熟果。谿邊任客洗<lb
+ ed="J" n="0545b12"/>浮盃。就中撥轉勞生曲。不向烘爐煨死灰。　　
+</ab><lb
+ ed="J" n="0545b13"/><head>霪雨即事</head><lb
+ ed="J" n="0545b14"/><ab type='verse'>
+西擲東拋骨董禪。即今有調不成聯。風前聲響無非<lb
+ ed="J" n="0545b15"/>色。腳底毛寒別是天。愁對殘燈歌短曲。懷從故國語<lb
+ ed="J" n="0545b16"/>新篇。只因一夜空階雨。滴碎芭蕉夢未圓。　　
+</ab><lb
+ ed="J" n="0545b17"/><ab type='verse'>
+閒來拈韻亦枯禪。句在臨機格外聯。錯落珠璣連碧<lb
+ ed="J" n="0545b18"/>海。淋漓翰墨點青天。寒窗疊擁雲千樹。覿面相呈景<lb
+ ed="J" n="0545b19"/>一篇。嬴得枝棲山水趣。甘貧惟自任方圓。　　
+</ab><lb
+ ed="J" n="0545b20"/><head>谿聲</head><lb
+ ed="J" n="0545b21"/><ab type='verse'>
+窮源何處發。歷歷為誰鳴。繹絡非無韻。依稀若有情。<lb
+ ed="J" n="0545b22"/>乍聞知耳靜。久對覺神清。徙倚長松下。頻敲句不停。　　
+</ab><lb
+ ed="J" n="0545b23"/><head>答天虞鄭少司馬書</head><lb
+ ed="J" n="0545b24"/><ab type='prose'>據聞破石因緣深有抱賊捉賊之見。非過量人知過<lb
+ ed="J" n="0545b25"/>量事乎。若道粉碎虛空。猶有相因。既知虛空可碎則<lb
+ ed="J" n="0545b26"/>石之可破也明矣。所謂如如妙明于性光不染處便<lb
+ ed="J" n="0545b27"/>是。老居士於性內尋思此語。人人本具。箇箇不無。若<lb
+ ed="J" n="0545b28"/>真正到此地位者。稍著擬議。即落二三。云崔灝之詩<lb
+ ed="J" n="0545b29"/>略較些子。屈殺不遇。待歌到捶碎黃鶴。踢倒鸚鵡。攔<lb
+ ed="J" n="0545b30"/>腮一掌。使湊泊不暇。教瓦解冰消。免惑後人。云胸中<pb ed="J" id="J36.B354.0545c" n="0545c"/><lb
+ ed="J" n="0545c01"/>有主。未能遁世之語甚恰。大約只知有主而不知主<lb
+ ed="J" n="0545c02"/>之作用。此段精靈何必遁世。何必不遁世。雖然山僧<lb
+ ed="J" n="0545c03"/>行腳二十年後依天童老漢六載。被者主人公弄得<lb
+ ed="J" n="0545c04"/>七顛八倒。如服鴆毒。恍恍惚惚。愈覓愈差。毫無著落<lb
+ ed="J" n="0545c05"/>時驀頭撞破娘生鼻孔。原來是者箇聻。自冰消久向<lb
+ ed="J" n="0545c06"/>半閒居士毛錐邊喪身失命。始知佛法中猶有人在。<lb
+ ed="J" n="0545c07"/>是則是。須勘驗過方使得。居士亦向者○裡透得過。<lb
+ ed="J" n="0545c08"/>轉得語。見得自己主人公是何形狀。是何面目。既了<lb
+ ed="J" n="0545c09"/>了廓徹。可與山僧通箇消息。又不妨遙伸一掌。捶碎<lb
+ ed="J" n="0545c10"/>破石。一任呼磚喚瓦。作泥作沙。此真快事也。溪舌具<lb
+ ed="J" n="0545c11"/>復。<lb
+ ed="J" n="0545c12"/><head>行狀</head><lb
+ ed="J" n="0545c13"/>師諱悟卓。號破石。蜀之果城宕渠望族陳氏子也。受<lb
+ ed="J" n="0545c14"/>天童悟祖戒嗣香林禪師。生萬曆己酉十月十九日。<lb
+ ed="J" n="0545c15"/>母當妊時不葷。年七歲詣本邑羅漢寺。依母舅學應<lb
+ ed="J" n="0545c16"/>佛。一日舅沒。復甦云。吾守毗尼。無不精嚴。尚有字義<lb
+ ed="J" n="0545c17"/>差訛。將置吾於鐵雞罩內。爾等珍重。示畢而沒。師聞<lb
+ ed="J" n="0545c18"/>心動。即薙髮淨身。年十三。會本邑余隱洪先生公車<lb
+ ed="J" n="0545c19"/>北上。依赴京師參學。至江陵。辭余住白衣菴。持水齋<lb
+ ed="J" n="0545c20"/>三年。一尊宿云。師妙年行願如此。何不廣參宗匠。師<lb
+ ed="J" n="0545c21"/>如指遍參。謁天童悟祖。祖號師破石。居六載。仍還羅<lb
+ ed="J" n="0545c22"/>漢寺。年三十有五矣。遭申酉蜀亂。避地入黔。三住名<lb
+ ed="J" n="0545c23"/>剎。後受武陵侯楊公請住石阡旃檀禪院。癸巳臘八<lb
+ ed="J" n="0545c24"/>偶恙。眾乞垂開示。師云。諸公之見如斯。有負依吾年<lb
+ ed="J" n="0545c25"/>久。道人家還有者箇在。乃豎指云。會麼。眾作禮。師云。<lb
+ ed="J" n="0545c26"/>其來也無礙自在。其去也自在無礙。呵呵呵。入泥入<lb
+ ed="J" n="0545c27"/>水。無在不在。了無了處。隨他去毗盧頂上任優游。示<lb
+ ed="J" n="0545c28"/>畢而逝。師性介乏。嗣而侍座者英俊瞻依。請益者名<lb
+ ed="J" n="0545c29"/>公斗仰。住世四十五年。坐臘三十二。語錄諸稿未及<lb
+ ed="J" n="0545c30"/>剞劂。被兵燹失之。僅搜殘編。刊行於世。<pb ed="J" id="J36.B354.0546a" n="0546a"/><lb
+ ed="J" n="0546a01"/>住綠蘿繼祖堂戒子發林謹狀。<lb
+ ed="J" n="0546a02"/><head>法派</head><lb
+ ed="J" n="0546a03"/>悟超行海。覺能融智。鑑圓明寂。性崇義廣。玄惟全祖。<lb
+ ed="J" n="0546a04"/>印淵洪紹。繼續宗通。</ab></div>
+</body></text></TEI>

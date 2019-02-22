@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">華嚴經入法界品十八問答</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X03</biblScope>
+                    <idno type="Taisho">X03n0218</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X03.0218.0554b" n="0554b"/><lb
+ ed="X" n="0554b01"/><lb
+ ed="X" n="0554b02"/><lb
+ ed="X" n="0554b03"/><lb
+ ed="R004" n="0906b01"/>
+<ab type='juan' subtype='open'>入法界品十八問答</ab><lb
+ ed="X" n="0554b04"/><lb
+ ed="X" n="0554b05"/><lb
+ ed="R004" n="0906b02"/><byline>清涼國師述</byline><lb
+ ed="X" n="0554b06"/><lb
+ ed="R004" n="0906b03"/><div type='' level='2'><ab type='prose'>問佛說此經要入師子嚬申三昧者何。答嚬申者<lb
+ ed="X" n="0554b07"/><lb
+ ed="R004" n="0906b04"/>即舒展通暢之狀亦是震動縱任自在無畏之相顯<lb
+ ed="X" n="0554b08"/><lb
+ ed="R004" n="0906b05"/>如來定即用之體寂而造極則差別萬殊無非法界<lb
+ ed="X" n="0554b09"/><lb
+ ed="R004" n="0906b06"/>即體之用不為而周故大小相參緣起無盡是曰自<lb
+ ed="X" n="0554b10"/><lb
+ ed="R004" n="0906b07"/>在從喻為名故云是也。<lb
+ ed="X" n="0554b11"/><lb
+ ed="R004" n="0906b08"/>問何故佛入三昧後普賢開顯放光之後文殊述德。<lb
+ ed="X" n="0554b12"/><lb
+ ed="R004" n="0906b09"/>答入定顯理普賢表理故故放光顯能證智文殊<lb
+ ed="X" n="0554b13"/><lb
+ ed="R004" n="0906b10"/>表智故。<lb
+ ed="X" n="0554b14"/><lb
+ ed="R004" n="0906b11"/>問地獄天子尚得頓超何故二乘如聾如盲。答機<lb
+ ed="X" n="0554b15"/><lb
+ ed="R004" n="0906b12"/>有勝劣為種別故地獄天子昔聞圓法植金剛種今<lb
+ ed="X" n="0554b16"/><lb
+ ed="R004" n="0906b13"/>得遇光頓超十地二乘小器昔無大因故對如來不<lb
+ ed="X" n="0554b17"/><lb
+ ed="R004" n="0906b14"/>覩神變其猶雷霆震地聾者不聞日月麗天盲者不<lb
+ ed="X" n="0554b18"/><lb
+ ed="R004" n="0906b15"/>見。<lb
+ ed="X" n="0554b19"/><lb
+ ed="R004" n="0906b16"/>問逝多林佛入三昧作用無方可得稱經文殊從善<lb
+ ed="X" n="0554b20"/><lb
+ ed="R004" n="0906b17"/>住樓閣出遊歷人間既非佛會何得稱經。答文殊<lb
+ ed="X" n="0554b21"/><lb
+ ed="R004" n="0906b18"/>從於本會流故雖遍法界而不離逝多林故末後善<lb
+ ed="X" n="0554b22"/><lb
+ ed="R004" n="0907a01"/>財亦於金剛菩提場見普賢故以本統末故得稱經<lb
+ ed="X" n="0554b23"/><lb
+ ed="R004" n="0907a02"/>展轉相推成鈎鎖故。<lb
+ ed="X" n="0554b24"/><lb
+ ed="R004" n="0907a03"/>問何故要有五十五善友。答顯五相故云何五相<pb ed="X" id="X03.0218.0554c" n="0554c"/><lb
+ ed="X" n="0554c01"/><lb
+ ed="R004" n="0907a04"/>也一初四十一人明寄位修行相寄於五位顯修行<lb
+ ed="X" n="0554c02"/><lb
+ ed="R004" n="0907a05"/>故二摩耶下十一人名會緣入實相會差別緣入幻<lb
+ ed="X" n="0554c03"/><lb
+ ed="R004" n="0907a06"/>智故三彌勒一人名攝德成因相攝上二義為補處<lb
+ ed="X" n="0554c04"/><lb
+ ed="R004" n="0907a07"/>因當得成佛故四文殊一人名智照無二相般若照<lb
+ ed="X" n="0554c05"/><lb
+ ed="R004" n="0907a08"/>極反照初心無二相故五普賢一人名顯因廣大相<lb
+ ed="X" n="0554c06"/><lb
+ ed="R004" n="0907a09"/>證入界一一行門皆稱法界無邊涯故。<lb
+ ed="X" n="0554c07"/><lb
+ ed="R004" n="0907a10"/>問何要五相。答顯菩薩五行故云何五行第一位<lb
+ ed="X" n="0554c08"/><lb
+ ed="R004" n="0907a11"/>修行相名高行歷位漸行故二會緣入實相名大行<lb
+ ed="X" n="0554c09"/><lb
+ ed="R004" n="0907a12"/>入一實故三攝德成因相名勝行具上差別無差別<lb
+ ed="X" n="0554c10"/><lb
+ ed="R004" n="0907a13"/>故四智照無二相名深行甚深般若難測量故五顯<lb
+ ed="X" n="0554c11"/><lb
+ ed="R004" n="0907a14"/>因廣大相名廣行一一之中含容無外故。<lb
+ ed="X" n="0554c12"/><lb
+ ed="R004" n="0907a15"/>問善財何以最初福城東遇文殊耶。答表福德分<lb
+ ed="X" n="0554c13"/><lb
+ ed="R004" n="0907a16"/>善故故在福城東為群方之首故在東表初起智明<lb
+ ed="X" n="0554c14"/><lb
+ ed="R004" n="0907a17"/>故信心創立故。<lb
+ ed="X" n="0554c15"/><lb
+ ed="R004" n="0907a18"/>問會中大機廣沙莫算何故偏舉善財一人。答舉<lb
+ ed="X" n="0554c16"/><lb
+ ed="R004" n="0907b01"/>一例餘警未悟此小童子尚能頓超勉乎行人白首<lb
+ ed="X" n="0554c17"/><lb
+ ed="R004" n="0907b02"/>愧故經云信樂堅固力善財成此功若有敬慕心亦<lb
+ ed="X" n="0554c18"/><lb
+ ed="R004" n="0907b03"/>當如是學。<lb
+ ed="X" n="0554c19"/><lb
+ ed="R004" n="0907b04"/>問十方賢聖無處不有何要南方。答有所表故然<lb
+ ed="X" n="0554c20"/><lb
+ ed="R004" n="0907b05"/>有多意一西城人居宅多向東自東向南順日月轉<lb
+ ed="X" n="0554c21"/><lb
+ ed="R004" n="0907b06"/>表於善財順人法故餘如別說。<lb
+ ed="X" n="0554c22"/><lb
+ ed="R004" n="0907b07"/>問何故文殊來就善財諸友善財往何求耶。答表<lb
+ ed="X" n="0554c23"/><lb
+ ed="R004" n="0907b08"/>初心尚微故菩薩大悲不待請故後約機就為熏法<lb
+ ed="X" n="0554c24"/><lb
+ ed="R004" n="0907b09"/>故乃至普賢知識不就善財不往而忽得見表法界<pb ed="X" id="X03.0218.0555a" n="0555a"/><lb
+ ed="X" n="0555a01"/><lb
+ ed="R004" n="0907b10"/>位滿無來去故。<lb
+ ed="X" n="0555a02"/><lb
+ ed="R004" n="0907b11"/>問諸善知識皆徧通達何要謙己知一推勝知多。<lb
+ ed="X" n="0555a03"/><lb
+ ed="R004" n="0907b12"/>答顯法界深故乃至多意略舉一二一者為後之軌<lb
+ ed="X" n="0555a04"/><lb
+ ed="R004" n="0907b13"/>令善財求法無倦善友說法無悋故二顯勝緣須善<lb
+ ed="X" n="0555a05"/><lb
+ ed="R004" n="0907b14"/>友故三破愚執自師心故四破宅慢今無偏執故五<lb
+ ed="X" n="0555a06"/><lb
+ ed="R004" n="0907b15"/>顯佛法無有盡故不應言我已窮言妙攝他屬己不<lb
+ ed="X" n="0555a07"/><lb
+ ed="R004" n="0907b16"/>欲推人。<lb
+ ed="X" n="0555a08"/><lb
+ ed="R004" n="0907b17"/>問最初令見德雲法門無邊何以先明念佛三昧耶。<lb
+ ed="X" n="0555a09"/><lb
+ ed="R004" n="0907b18"/>答念佛三昧功高易進眾行先故通淺深能普收<lb
+ ed="X" n="0555a10"/><lb
+ ed="R004" n="0908a01"/>攝故雙兼人法消重障故佛為勝緣即心即佛是一<lb
+ ed="X" n="0555a11"/><lb
+ ed="R004" n="0908a02"/>境故。<lb
+ ed="X" n="0555a12"/><lb
+ ed="R004" n="0908a03"/>問第二海雲何故聞法復海中聞法耶。答前友見<lb
+ ed="X" n="0555a13"/><lb
+ ed="R004" n="0908a04"/>佛次友聽法入要道故海中聞者表於教法從大悲<lb
+ ed="X" n="0555a14"/><lb
+ ed="R004" n="0908a05"/>中之所㳅故。<lb
+ ed="X" n="0555a15"/><lb
+ ed="R004" n="0908a06"/>問海雲說海中德何故與十地中名不同耶。答十<lb
+ ed="X" n="0555a16"/><lb
+ ed="R004" n="0908a07"/>地表佛智海十地所依今辨大悲故不同也。<lb
+ ed="X" n="0555a17"/><lb
+ ed="R004" n="0908a08"/>問後文殊師利善財何故不見身相但見伸手耶。<lb
+ ed="X" n="0555a18"/><lb
+ ed="R004" n="0908a09"/>答表於智照離身相故而見手者表依信心得至此<lb
+ ed="X" n="0555a19"/><lb
+ ed="R004" n="0908a10"/>故經云若離信心功行不具不得成就諸功德故。<lb
+ ed="X" n="0555a20"/><lb
+ ed="R004" n="0908a11"/>問見普賢時何以善財入其身中。答普賢表法界<lb
+ ed="X" n="0555a21"/><lb
+ ed="R004" n="0908a12"/>善財證窮法界故。<lb
+ ed="X" n="0555a22"/><lb
+ ed="R004" n="0908a13"/>問普賢何以不令見佛耶。答表於果海離言說相<lb
+ ed="X" n="0555a23"/><lb
+ ed="R004" n="0908a14"/>故又表善財今生解行至於後生聞果海故。<lb
+ ed="X" n="0555a24"/><lb
+ ed="R004" n="0908a15"/>問見五十五善知識那過一百一十城耶。答一人<pb ed="X" id="X03.0218.0555b" n="0555b"/><lb
+ ed="X" n="0555b01"/><lb
+ ed="R004" n="0908a16"/>當二分故謂自分是一推勝為二以城鈎鎻故又要<lb
+ ed="X" n="0555b02"/><lb
+ ed="R004" n="0908a17"/>一百一十表十地等覺一一具十顯圓融故三賢未<lb
+ ed="X" n="0555b03"/><lb
+ ed="R004" n="0908a18"/>證攝屬他故。<lb
+ ed="X" n="0555b04"/><lb
+ ed="R004" n="0908b01"/>
+</ab><ab type='juan' subtype='close'>入法界品十八問答</ab><lb
+ ed="X" n="0555b05"/><lb
+ ed="X" n="0555b06"/><lb
+ ed="R004" n="0908b03"/><div type='w' level='3'><ab type='prose'>明治三十四年十一月十六日寫訖原本在於京<lb
+ ed="X" n="0555b07"/><lb
+ ed="R004" n="0908b04"/>都府鳴瀧山藏中後以東大寺本校合。<lb
+ ed="X" n="0555b08"/><lb
+ ed="R004" n="0908b05"/>止舟齋主人慧雲含潤</ab></div></div></div>
+</body></text></TEI>

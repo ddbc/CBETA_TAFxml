@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">念佛三昧</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X62</biblScope>
+                    <idno type="Taisho">X62n1190</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X62.1190.0470b" n="0470b"/><lb
+ ed="X" n="0470b01"/><lb
+ ed="X" n="0470b02"/><lb
+ ed="X" n="0470b03"/><lb
+ ed="X" n="0470b04"/><lb
+ ed="X" n="0470b05"/><lb
+ ed="X" n="0470b06"/><lb
+ ed="R110" n="0001a01"/>
+<ab type='juan' subtype='open'>念佛三昧　</ab><lb
+ ed="X" n="0470b07"/><lb
+ ed="X" n="0470b08"/><lb
+ ed="R110" n="0001a02"/><byline>姑蘇　金人瑞　聖歎　著</byline><lb
+ ed="X" n="0470b09"/><lb
+ ed="R110" n="0001a03"/><div type='' level='1'><ab type='prose'>娑婆世界。釋尊住持。華藏世界。盧舍那世尊住持。釋<lb
+ ed="X" n="0470b10"/><lb
+ ed="R110" n="0001a04"/>尊新成佛。盧舍那本成佛也。他方世界。有阿彌陀佛。<lb
+ ed="X" n="0470b11"/><lb
+ ed="R110" n="0001a05"/>住于極樂國土。一花一世尊。非算數譬喻之所能及。<lb
+ ed="X" n="0470b12"/><lb
+ ed="R110" n="0001a06"/>所以阿彌陀經。為無問自說經。首題佛說阿彌陀。下<lb
+ ed="X" n="0470b13"/><lb
+ ed="R110" n="0001a07"/>加不得一佛字。<lb
+ ed="X" n="0470b14"/><lb
+ ed="R110" n="0001a08"/>然燈佛者。一微塵佛也。釋迦佛者。無量微塵佛也。釋<lb
+ ed="X" n="0470b15"/><lb
+ ed="R110" n="0001a09"/>迦佛者。名為病愈。阿彌陀者。名本無病。世尊說阿彌<lb
+ ed="X" n="0470b16"/><lb
+ ed="R110" n="0001a10"/>陀經。另一施設。與諸經不同。乃是為一切眾生。畢竟<lb
+ ed="X" n="0470b17"/><lb
+ ed="R110" n="0001a11"/>不能破我故。特地全舉法界。說你本住在極樂國土<lb
+ ed="X" n="0470b18"/><lb
+ ed="R110" n="0001a12"/>中。各各蓮花化生。有甚不好。譬如醜婦人一般。貯之<lb
+ ed="X" n="0470b19"/><lb
+ ed="R110" n="0001a13"/>洞房深宮。亦自覺標致也。喜怒哀樂四字。以樂為極。<lb
+ ed="X" n="0470b20"/><lb
+ ed="R110" n="0001a14"/>所以知之學者。好之聖人。樂之即天地也。蓮花取相<lb
+ ed="X" n="0470b21"/><lb
+ ed="R110" n="0001a15"/>連義曰蓮。因非實相曰花。一一眾生。各<lb
+ ed="X" n="0470b22"/><lb
+ ed="R110" n="0001a16"/>坐一花。花開見佛。則見釋迦佛也。極樂國土九品化<lb
+ ed="X" n="0470b23"/><lb
+ ed="R110" n="0001a17"/>生。上品上生者。乃是彌勒一生補處。于此成佛。下品<lb
+ ed="X" n="0470b24"/><lb
+ ed="R110" n="0001a18"/>下生者。乃是阿鼻大地獄罪人。于此成佛。是人因犯<pb ed="X" id="X62.1190.0470c" n="0470c"/><lb
+ ed="X" n="0470c01"/><lb
+ ed="R110" n="0001b01"/>極惡大罪。下阿鼻獄有善知識。以種種因緣。唱阿彌<lb
+ ed="X" n="0470c02"/><lb
+ ed="R110" n="0001b02"/>陀佛。如千年暗室。一燈照之。而此罪人聞此名字。地<lb
+ ed="X" n="0470c03"/><lb
+ ed="R110" n="0001b03"/>獄即在蓮花中。而此蓮花。即在極樂國土中。而此極<lb
+ ed="X" n="0470c04"/><lb
+ ed="R110" n="0001b04"/>樂國土。為阿彌陀佛世界中。此阿彌陀佛世界。乃即<lb
+ ed="X" n="0470c05"/><lb
+ ed="R110" n="0001b05"/>在無量大地獄內一罪人之八識田中。是人總犯極<lb
+ ed="X" n="0470c06"/><lb
+ ed="R110" n="0001b06"/>惡大罪。不敵阿彌陀名字。所以地獄應時粉碎。此謂<lb
+ ed="X" n="0470c07"/><lb
+ ed="R110" n="0001b07"/>下品下生也。<lb
+ ed="X" n="0470c08"/><lb
+ ed="R110" n="0001b08"/>菩薩不願住於惡濁世界。則不得不求生極樂。然而<lb
+ ed="X" n="0470c09"/><lb
+ ed="R110" n="0001b09"/>得生極樂。乃是果事。欲獲果者。先須造因。云何造因。<lb
+ ed="X" n="0470c10"/><lb
+ ed="R110" n="0001b10"/>念佛三昧是也。念佛之法。不可以妄心念于遙佛。亦<lb
+ ed="X" n="0470c11"/><lb
+ ed="R110" n="0001b11"/>不可以妄心念於妄心。何以故。妄心者。是生死因。不<lb
+ ed="X" n="0470c12"/><lb
+ ed="R110" n="0001b12"/>能感通于本際故。以生死因不能感通故。故佛本不<lb
+ ed="X" n="0470c13"/><lb
+ ed="R110" n="0001b13"/>遙而遂遙也。復次妄心念于妄心者。凡夫正為妄心<lb
+ ed="X" n="0470c14"/><lb
+ ed="R110" n="0001b14"/>連持。至墮地獄。今復教以如是念佛。彼即以前妄心<lb
+ ed="X" n="0470c15"/><lb
+ ed="R110" n="0001b15"/>為念。後妄心為佛。或以前妄心為佛。後妄心為念。如<lb
+ ed="X" n="0470c16"/><lb
+ ed="R110" n="0001b16"/>是即與世間流浪何異。是故此法所不應用。夫念佛<lb
+ ed="X" n="0470c17"/><lb
+ ed="R110" n="0001b17"/>之法。不應先見佛次作念。正應先念成次見佛。所以<lb
+ ed="X" n="0470c18"/><lb
+ ed="R110" n="0001b18"/>者何。若先見佛。佛是何事。如是名為大妄語人。又即<lb
+ ed="X" n="0470c19"/><lb
+ ed="R110" n="0002a01"/>使感應道交。佛或示現。然佛來尋念佛去久矣。又況<lb
+ ed="X" n="0470c20"/><lb
+ ed="R110" n="0002a02"/>能念正是妄心。妄心何可唐突於佛。所謂先念成次<lb
+ ed="X" n="0470c21"/><lb
+ ed="R110" n="0002a03"/>見佛者。念是實。佛是假。菩薩以本際為念。而以妄心<lb
+ ed="X" n="0470c22"/><lb
+ ed="R110" n="0002a04"/>為佛。問何故不以妄心為念。本際為佛。答本際者不<lb
+ ed="X" n="0470c23"/><lb
+ ed="R110" n="0002a05"/>可見。不可見則不能令行人發歡喜心。又本際纖塵<lb
+ ed="X" n="0470c24"/><lb
+ ed="R110" n="0002a06"/>不立。若行人於念處用力。即大不應。又師子乳用玻<pb ed="X" id="X62.1190.0471a" n="0471a"/><lb
+ ed="X" n="0471a01"/><lb
+ ed="R110" n="0002a07"/>瓈盞盛。他器不受。若行人欲以妄心念本際。譬如毒<lb
+ ed="X" n="0471a02"/><lb
+ ed="R110" n="0002a08"/>器盛師子乳。終竟不受。又念佛三昧。對住生死。若用<lb
+ ed="X" n="0471a03"/><lb
+ ed="R110" n="0002a09"/>妄心追逐。終入生死海無疑也。</ab></div>
+</body></text></TEI>

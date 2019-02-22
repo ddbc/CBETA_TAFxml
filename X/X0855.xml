@@ -1,0 +1,3420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">因明入正理論疏抄</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X53</biblScope>
+                    <idno type="Taisho">X53n0855</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X53.0855.0870b" n="0870b"/><lb
+ ed="X" n="0870b01"/><lb
+ ed="X" n="0870b02"/><lb
+ ed="X" n="0870b03"/><lb
+ ed="X" n="0870b04"/><lb
+ ed="X" n="0870b05"/><lb
+ ed="X" n="0870b06"/><lb
+ ed="R087" n="0057a01"/>
+<ab type='juan' subtype='open'>因明疏抄</ab><lb
+ ed="X" n="0870b07"/><lb
+ ed="X" n="0870b08"/><lb
+ ed="R087" n="0057a02"/><byline>定水寺　沙門智周　撰</byline><lb
+ ed="X" n="0870b09"/><lb
+ ed="R087" n="0057a03"/><div type='commentary' level='2'><ab type='prose'>于寶云。孔子母徵在有娠。夢黑帝日乳。必於桑之<lb
+ ed="X" n="0870b10"/><lb
+ ed="R087" n="0057a04"/>中。遂生孔空桑之地。鄒魯文儒。自孔子咸也。又云。<lb
+ ed="X" n="0870b11"/><lb
+ ed="R087" n="0057a05"/>空桑者東山名。孔子生。苦賴者。孝子生苦縣賴側<lb
+ ed="X" n="0870b12"/><lb
+ ed="R087" n="0057a06"/>曲里也。<lb
+ ed="X" n="0870b13"/><lb
+ ed="R087" n="0057a07"/>疏釋因起中有二。初略後廣。略如疏。廣如天親菩<lb
+ ed="X" n="0870b14"/><lb
+ ed="R087" n="0057a08"/>薩傳等說。應折破數論等之事皆因起。如孔山石<lb
+ ed="X" n="0870b15"/><lb
+ ed="R087" n="0057a09"/>等也。</ab></div><lb
+ ed="X" n="0870b16"/><lb
+ ed="R087" n="0057a10"/><div type='orig' level='2'><ab type='prose'>疏五明處等者。</ab></div><lb
+ ed="X" n="0870b17"/><lb
+ ed="R087" n="0057a11"/><div type='commentary' level='2'><ab type='prose'>列五明者。可解。初二明各有二相。第三有四相。廣<lb
+ ed="X" n="0870b18"/><lb
+ ed="R087" n="0057a12"/>如大論三十等辨。問五明之中因明。為唯內道有<lb
+ ed="X" n="0870b19"/><lb
+ ed="R087" n="0057a13"/>名。內外道亦名為因。答言唯內有名內。若爾何故<lb
+ ed="X" n="0870b20"/><lb
+ ed="R087" n="0057a14"/>外道亦有五明論。答此亦不然。五明之中言而是<lb
+ ed="X" n="0870b21"/><lb
+ ed="R087" n="0057a15"/>總故。如言六種振動。非要六法俱時而動。方名六<lb
+ ed="X" n="0870b22"/><lb
+ ed="R087" n="0057a16"/>動。但一二等相。亦得名為六動。六動之中所攝故。<lb
+ ed="X" n="0870b23"/><lb
+ ed="R087" n="0057a17"/>亦名六動。外道亦爾。五明所攝。亦名五明。非要須<lb
+ ed="X" n="0870b24"/><lb
+ ed="R087" n="0057a18"/>具有。有云內明者。成內身故內明。此不然。違論文<pb ed="X" id="X53.0855.0870c" n="0870c"/><lb
+ ed="X" n="0870c01"/><lb
+ ed="R087" n="0057b01"/>故。論云內明有二相。一正因果相。二未作不得已<lb
+ ed="X" n="0870c02"/><lb
+ ed="R087" n="0057b02"/>作不共相。如何可言成內身名內。意雖相似。文言<lb
+ ed="X" n="0870c03"/><lb
+ ed="R087" n="0057b03"/>有違。故為不可。或可外道有內明。他亦自許。是正<lb
+ ed="X" n="0870c04"/><lb
+ ed="R087" n="0057b04"/>因果相等。此解亦善。問其第二釋。理亦難究。二相<lb
+ ed="X" n="0870c05"/><lb
+ ed="R087" n="0057b05"/>俱有違故。且如無因。既不立因等。如何得有。又如<lb
+ ed="X" n="0870c06"/><lb
+ ed="R087" n="0057b06"/>自然論等。萬法悉自然。如何得有第二相。答但言<lb
+ ed="X" n="0870c07"/><lb
+ ed="R087" n="0057b07"/>外道得有。不言一切外道皆有。無失也。</ab></div><lb
+ ed="X" n="0870c08"/><lb
+ ed="R087" n="0057b08"/><div type='orig' level='2'><ab type='prose'>疏爰暨者。</ab></div><lb
+ ed="X" n="0870c09"/><lb
+ ed="R087" n="0057b09"/><div type='commentary' level='2'><ab type='prose'>爰於也。暨者及也。是稱命世眾生所感也。或聖人<lb
+ ed="X" n="0870c10"/><lb
+ ed="R087" n="0057b10"/>應現出世。名命世。悠邈者。二俱是高遠也。</ab></div><lb
+ ed="X" n="0870c11"/><lb
+ ed="R087" n="0057b11"/><div type='orig' level='2'><ab type='prose'>疏妙吉祥者。</ab></div><lb
+ ed="X" n="0870c12"/><lb
+ ed="R087" n="0057b12"/><div type='commentary' level='2'><ab type='prose'>亦如世友菩薩。欲造婆娑。為未證無學果。擲綖空<lb
+ ed="X" n="0870c13"/><lb
+ ed="R087" n="0057b13"/>中。文殊接著不令下等事是。</ab></div><lb
+ ed="X" n="0870c14"/><lb
+ ed="R087" n="0057b14"/><div type='orig' level='2'><ab type='prose'>疏因明正理門論者。</ab></div><lb
+ ed="X" n="0870c15"/><lb
+ ed="R087" n="0057b15"/><div type='commentary' level='2'><ab type='prose'>陳那本論之名。故知敘所因。不准此論所由也。通<lb
+ ed="X" n="0870c16"/><lb
+ ed="R087" n="0057b16"/>敘因明之本因。乃至此論因起。又商羯羅主。即其<lb
+ ed="X" n="0870c17"/><lb
+ ed="R087" n="0057b17"/>門人。已下方明此論因也。</ab></div><lb
+ ed="X" n="0870c18"/><lb
+ ed="R087" n="0057b18"/><div type='orig' level='2'><ab type='prose'>疏根柢者。</ab></div><lb
+ ed="X" n="0870c19"/><lb
+ ed="R087" n="0058a01"/><div type='commentary' level='2'><ab type='prose'>與帝同音。桂悟者。對芳蘭。閑即覺悟。</ab></div><lb
+ ed="X" n="0870c20"/><lb
+ ed="R087" n="0058a02"/><div type='orig' level='2'><ab type='prose'>疏司南有軌者。</ab></div><lb
+ ed="X" n="0870c21"/><lb
+ ed="R087" n="0058a03"/><div type='commentary' level='2'><ab type='prose'>司者主也。如六司法是主故。所謂六司也。</ab></div><lb
+ ed="X" n="0870c22"/><lb
+ ed="R087" n="0058a04"/><div type='orig' level='2'><ab type='prose'>疏明者五明之通名。</ab></div><lb
+ ed="X" n="0870c23"/><lb
+ ed="R087" n="0058a05"/><div type='commentary' level='2'><ab type='prose'>准此解。有云。明直通五明。末以因義簡明。即因之<lb
+ ed="X" n="0870c24"/><lb
+ ed="R087" n="0058a06"/>明。即總教明此二名明因也。</ab></div><pb ed="X" id="X53.0855.0871a" n="0871a"/><lb
+ ed="X" n="0871a01"/><lb
+ ed="R087" n="0058a07"/><div type='orig' level='2'><ab type='prose'>疏所明者因能明者教。</ab></div><lb
+ ed="X" n="0871a02"/><lb
+ ed="R087" n="0058a08"/><div type='commentary' level='2'><ab type='prose'>即五明是也。所明者。即所詮六因。言生因等。如何<lb
+ ed="X" n="0871a03"/><lb
+ ed="R087" n="0058a09"/>所詮。答直申言下有所詮義。故言生因亦所詮。</ab></div><lb
+ ed="X" n="0871a04"/><lb
+ ed="R087" n="0058a10"/><div type='orig' level='2'><ab type='prose'>疏云入者。</ab></div><lb
+ ed="X" n="0871a05"/><lb
+ ed="R087" n="0058a11"/><div type='commentary' level='2'><ab type='prose'>准此初准敵者解宗自性差別之正理智名入。</ab></div><lb
+ ed="X" n="0871a06"/><lb
+ ed="R087" n="0058a12"/><div type='orig' level='2'><ab type='prose'>疏正理者諸法本真者。</ab></div><lb
+ ed="X" n="0871a07"/><lb
+ ed="R087" n="0058a13"/><div type='commentary' level='2'><ab type='prose'>非真如名。但是有為無為之真自性差別。</ab></div><lb
+ ed="X" n="0871a08"/><lb
+ ed="R087" n="0058a14"/><div type='orig' level='2'><ab type='prose'>疏時移解昧者。</ab></div><lb
+ ed="X" n="0871a09"/><lb
+ ed="R087" n="0058a15"/><div type='commentary' level='2'><ab type='prose'>由時代漸移。念智漸減。惡業漸增。</ab></div><lb
+ ed="X" n="0871a10"/><lb
+ ed="R087" n="0058a16"/><div type='orig' level='2'><ab type='prose'>疏入正理之因明者。</ab></div><lb
+ ed="X" n="0871a11"/><lb
+ ed="R087" n="0058a17"/><div type='commentary' level='2'><ab type='prose'>由因及明。生彼入解宗之智。智入正理。由因明生<lb
+ ed="X" n="0871a12"/><lb
+ ed="R087" n="0058a18"/>智故。名入正理之因明也。問如前釋。因是所明。教<lb
+ ed="X" n="0871a13"/><lb
+ ed="R087" n="0058b01"/>是能明。因之明故。故名因明。明知因明兩字別。如<lb
+ ed="X" n="0871a14"/><lb
+ ed="R087" n="0058b02"/>何此中合因明兩字。而云入正理之因明。答如前<lb
+ ed="X" n="0871a15"/><lb
+ ed="R087" n="0058b03"/>輩解因明。因明二字即別。今時通解題目。故云入<lb
+ ed="X" n="0871a16"/><lb
+ ed="R087" n="0058b04"/>正理之因明。又准此解。但以義釋因明及正理。非<lb
+ ed="X" n="0871a17"/><lb
+ ed="R087" n="0058b05"/>約次第各次言。應云因明即入正理論也。以明是<lb
+ ed="X" n="0871a18"/><lb
+ ed="R087" n="0058b06"/>教論亦教故。或可入正理之因明論也。上解難入<lb
+ ed="X" n="0871a19"/><lb
+ ed="R087" n="0058b07"/>非論名故。問明是總教。論是別教。何故得名持業。<lb
+ ed="X" n="0871a20"/><lb
+ ed="R087" n="0058b08"/>答教同故。非約寬狹。</ab></div><lb
+ ed="X" n="0871a21"/><lb
+ ed="R087" n="0058b09"/><div type='orig' level='2'><ab type='prose'>疏立破幽致者。</ab></div><lb
+ ed="X" n="0871a22"/><lb
+ ed="R087" n="0058b10"/><div type='commentary' level='2'><ab type='prose'>即是立之道理也。幽漸致極之正理。</ab></div><lb
+ ed="X" n="0871a23"/><lb
+ ed="R087" n="0058b11"/><div type='orig' level='2'><ab type='prose'>疏因與明異者。</ab></div><lb
+ ed="X" n="0871a24"/><lb
+ ed="R087" n="0058b12"/><div type='commentary' level='2'><ab type='prose'>此解以因及明。俱是望果義別。不可為依主釋因<pb ed="X" id="X53.0855.0871b" n="0871b"/><lb
+ ed="X" n="0871b01"/><lb
+ ed="R087" n="0058b13"/>明名。又不是相違釋。不欲以因明別釋故。非如眼<lb
+ ed="X" n="0871b02"/><lb
+ ed="R087" n="0058b14"/>耳等及與意等。不同第二明是果也。</ab></div><lb
+ ed="X" n="0871b03"/><lb
+ ed="R087" n="0058b15"/><div type='orig' level='2'><ab type='prose'>疏或即言生淨成者。</ab></div><lb
+ ed="X" n="0871b04"/><lb
+ ed="R087" n="0058b16"/><div type='commentary' level='2'><ab type='prose'>即由言生因令所立宗果。而得明顯。又瑜伽十<lb
+ ed="X" n="0871b05"/><lb
+ ed="R087" n="0058b17"/>五至即是因明者主諸所有事等。此引意云。如次<lb
+ ed="X" n="0871b06"/><lb
+ ed="R087" n="0058b18"/>上二句諸所有事者。即是因明證。因即是明。持業<lb
+ ed="X" n="0871b07"/><lb
+ ed="R087" n="0059a01"/>釋。言所成立名觀察者。即自性等所成之法。言能<lb
+ ed="X" n="0871b08"/><lb
+ ed="R087" n="0059a02"/>隨順所有事等者。此即是能成因喻等。既言諸所<lb
+ ed="X" n="0871b09"/><lb
+ ed="R087" n="0059a03"/>有事因明。明持業也。問如前因名明者。喚敵者智<lb
+ ed="X" n="0871b10"/><lb
+ ed="R087" n="0059a04"/>了因。今言因即是明。豈即是敵者智智了因耶。答<lb
+ ed="X" n="0871b11"/><lb
+ ed="R087" n="0059a05"/>明有二義。一者明解。即屬敵者智了因。二者明顯。<lb
+ ed="X" n="0871b12"/><lb
+ ed="R087" n="0059a06"/>即是立論者言生因等。法義既有別。不可相例。</ab></div><lb
+ ed="X" n="0871b13"/><lb
+ ed="R087" n="0059a07"/><div type='orig' level='2'><ab type='prose'>疏浮翳者。</ab></div><lb
+ ed="X" n="0871b14"/><lb
+ ed="R087" n="0059a08"/><div type='commentary' level='2'><ab type='prose'>浮虗翳弊。弊於正理也。浮者淺近。不達深源。翳者<lb
+ ed="X" n="0871b15"/><lb
+ ed="R087" n="0059a09"/>即隱弊令理不顯也。又窮趣二教稱之為入者。即<lb
+ ed="X" n="0871b16"/><lb
+ ed="R087" n="0059a10"/>佛經之因明。陳那之正理。名二教依主釋者。即因<lb
+ ed="X" n="0871b17"/><lb
+ ed="R087" n="0059a11"/>明正理之入。入論者。即此論也。因明者。即佛經也<lb
+ ed="X" n="0871b18"/><lb
+ ed="R087" n="0059a12"/>正理者。即陳那所造也。</ab></div><lb
+ ed="X" n="0871b19"/><lb
+ ed="R087" n="0059a13"/><div type='orig' level='2'><ab type='prose'>疏入正理者。</ab></div><lb
+ ed="X" n="0871b20"/><lb
+ ed="R087" n="0059a14"/><div type='commentary' level='2'><ab type='prose'>能入所入論別稱者。即入是能入論之別稱。正理<lb
+ ed="X" n="0871b21"/><lb
+ ed="R087" n="0059a15"/>是所入論之別稱。非入及正理。俱通能所故。上言<lb
+ ed="X" n="0871b22"/><lb
+ ed="R087" n="0059a16"/>通名者。通能所入論之別名也。意云。入者唯是天<lb
+ ed="X" n="0871b23"/><lb
+ ed="R087" n="0059a17"/>主論。正理者。唯是陳那正理門論。故云別稱。然因<lb
+ ed="X" n="0871b24"/><lb
+ ed="R087" n="0059a18"/>明通於天主能入論。及陳那所入理。正法有故。云<pb ed="X" id="X53.0855.0871c" n="0871c"/><lb
+ ed="X" n="0871c01"/><lb
+ ed="R087" n="0059b01"/>因明是能入所入之通名。</ab></div><lb
+ ed="X" n="0871c02"/><lb
+ ed="R087" n="0059b02"/><div type='orig' level='2'><ab type='prose'>疏因即是明正者即理者。</ab></div><lb
+ ed="X" n="0871c03"/><lb
+ ed="R087" n="0059b03"/><div type='commentary' level='2'><ab type='prose'>通得解此第五釋中。上三解也。非以此解得義周<lb
+ ed="X" n="0871c04"/><lb
+ ed="R087" n="0059b04"/>悉。所以此第五解有多解。總名一解者。以意相似。<lb
+ ed="X" n="0871c05"/><lb
+ ed="R087" n="0059b05"/>如佛地論。所以四釋如是不妨。於中更有多解。或<lb
+ ed="X" n="0871c06"/><lb
+ ed="R087" n="0059b06"/>可與第四釋相似也。</ab></div><lb
+ ed="X" n="0871c07"/><lb
+ ed="R087" n="0059b07"/><div type='orig' level='2'><ab type='prose'>疏第五隨屬何教者。</ab></div><lb
+ ed="X" n="0871c08"/><lb
+ ed="R087" n="0059b08"/><div type='commentary' level='2'><ab type='prose'>即理門及此論二教中。因明隨屬何教。皆得此五<lb
+ ed="X" n="0871c09"/><lb
+ ed="R087" n="0059b09"/>釋。因明從廣向略。若正理即義無漸略也。又諸解<lb
+ ed="X" n="0871c10"/><lb
+ ed="R087" n="0059b10"/>約義別。非必漸略。行相難見。</ab></div><lb
+ ed="X" n="0871c11"/><lb
+ ed="R087" n="0059b11"/><div type='orig' level='2'><ab type='prose'>疏不言故思惟取異。</ab></div><lb
+ ed="X" n="0871c12"/><lb
+ ed="R087" n="0059b12"/><div type='commentary' level='2'><ab type='prose'>第三因明正理。俱通佛經。其第四即寬。餘可知。問<lb
+ ed="X" n="0871c13"/><lb
+ ed="R087" n="0059b13"/>前三正理。而有何別。答亦義有別。初即自性差別<lb
+ ed="X" n="0871c14"/><lb
+ ed="R087" n="0059b14"/>之實性名正理。二云立破真實功能名名正理。正<lb
+ ed="X" n="0871c15"/><lb
+ ed="R087" n="0059b15"/>理幽致之道理名幽致。三所立義宗故有別也。</ab></div><lb
+ ed="X" n="0871c16"/><lb
+ ed="R087" n="0059b16"/><div type='orig' level='2'><ab type='prose'>疏總通前四者。</ab></div><lb
+ ed="X" n="0871c17"/><lb
+ ed="R087" n="0059b17"/><div type='commentary' level='2'><ab type='prose'>即第五解正理。通約前四解。正理俱得。</ab></div><lb
+ ed="X" n="0871c18"/><lb
+ ed="R087" n="0059b18"/><div type='orig' level='2'><ab type='prose'>疏合成二十五釋者。</ab></div><lb
+ ed="X" n="0871c19"/><lb
+ ed="R087" n="0060a01"/><div type='commentary' level='2'><ab type='prose'>且如第二解因明屬第一。正理即是因所成。及能<lb
+ ed="X" n="0871c20"/><lb
+ ed="R087" n="0060a02"/>詮所詮自性差別名正理。明能了此屬第三。正理<lb
+ ed="X" n="0871c21"/><lb
+ ed="R087" n="0060a03"/>即因所成宗義明能了。此屬第四。即由此因明。詮<lb
+ ed="X" n="0871c22"/><lb
+ ed="R087" n="0060a04"/>彼陳那本論之正理。亦名所成。屬第五。隨義皆得。<lb
+ ed="X" n="0871c23"/><lb
+ ed="R087" n="0060a05"/>既將第二因明。歷餘四正理有五釋。將餘望餘。亦<lb
+ ed="X" n="0871c24"/><lb
+ ed="R087" n="0060a06"/>得合有二十五釋。若將正理。望餘因明。綺互而言。<pb ed="X" id="X53.0855.0872a" n="0872a"/><lb
+ ed="X" n="0872a01"/><lb
+ ed="R087" n="0060a07"/>亦有五釋。一釋既有五釋。五釋合有二十五釋。帖<lb
+ ed="X" n="0872a02"/><lb
+ ed="R087" n="0060a08"/>前因明望正理。總計有五十釋。雖有此文。亦無作<lb
+ ed="X" n="0872a03"/><lb
+ ed="R087" n="0060a09"/>法之處。</ab></div><lb
+ ed="X" n="0872a04"/><lb
+ ed="R087" n="0060a10"/><div type='orig' level='2'><ab type='prose'>疏教是彼具者。</ab></div><lb
+ ed="X" n="0872a05"/><lb
+ ed="R087" n="0060a11"/><div type='commentary' level='2'><ab type='prose'>此解以所詮六因是因明。教者是因明之具。非正<lb
+ ed="X" n="0872a06"/><lb
+ ed="R087" n="0060a12"/>因明。又云依彼四釋教是彼具者。意云。且如初解<lb
+ ed="X" n="0872a07"/><lb
+ ed="R087" n="0060a13"/>教即是耶。若後四釋教但詮明而不是解。若爾如<lb
+ ed="X" n="0872a08"/><lb
+ ed="R087" n="0060a14"/>何教名因明。答雖不是明。由詮明故。亦得名明。即<lb
+ ed="X" n="0872a09"/><lb
+ ed="R087" n="0060a15"/>教是因明之具也。</ab></div><lb
+ ed="X" n="0872a10"/><lb
+ ed="R087" n="0060a16"/><div type='orig' level='2'><ab type='prose'>疏欲令隨入證因生生智者。</ab></div><lb
+ ed="X" n="0872a11"/><lb
+ ed="R087" n="0060a17"/><div type='commentary' level='2'><ab type='prose'>欲令眾生。依此教證悟此因所生得之智明也。故<lb
+ ed="X" n="0872a12"/><lb
+ ed="R087" n="0060a18"/>從所生為名。亦如欲令眾起。此中觀論。從所生證<lb
+ ed="X" n="0872a13"/><lb
+ ed="R087" n="0060b01"/>解為名。</ab></div><lb
+ ed="X" n="0872a14"/><lb
+ ed="R087" n="0060b02"/><div type='orig' level='2'><ab type='prose'>疏如水陸花者。</ab></div><lb
+ ed="X" n="0872a15"/><lb
+ ed="R087" n="0060b03"/><div type='commentary' level='2'><ab type='prose'>從所依為名。此論依他。能入正理因明之智生故。<lb
+ ed="X" n="0872a16"/><lb
+ ed="R087" n="0060b04"/>從所依立稱。二十四相者。骨璅是一相。或明大等<lb
+ ed="X" n="0872a17"/><lb
+ ed="R087" n="0060b05"/>如十八變。飢者亦餞餓。</ab></div><lb
+ ed="X" n="0872a18"/><lb
+ ed="R087" n="0060b06"/><div type='orig' level='2'><ab type='prose'>疏有財釋者。</ab></div><lb
+ ed="X" n="0872a19"/><lb
+ ed="R087" n="0060b07"/><div type='commentary' level='2'><ab type='prose'>已能有他。全所他名。為有財釋。他能有已分所他<lb
+ ed="X" n="0872a20"/><lb
+ ed="R087" n="0060b08"/>名。為依主。已後文疏。此七問中有七種對。初句因<lb
+ ed="X" n="0872a21"/><lb
+ ed="R087" n="0060b09"/>非因對。餘思作。</ab></div><lb
+ ed="X" n="0872a22"/><lb
+ ed="R087" n="0060b10"/><div type='orig' level='2'><ab type='prose'>疏名義寬故。</ab></div><lb
+ ed="X" n="0872a23"/><lb
+ ed="R087" n="0060b11"/><div type='commentary' level='2'><ab type='prose'>以因具三相亦義寬遍宗。等得明名。宗喻不爾。據<lb
+ ed="X" n="0872a24"/><lb
+ ed="R087" n="0060b12"/>實宗亦得稱明。古師通能立故。由宗為境。因生敵<pb ed="X" id="X53.0855.0872b" n="0872b"/><lb
+ ed="X" n="0872b01"/><lb
+ ed="R087" n="0060b13"/>智。故亦名明。</ab></div><lb
+ ed="X" n="0872b02"/><lb
+ ed="R087" n="0060b14"/><div type='orig' level='2'><ab type='prose'>疏又諸能立至宗由此立者。</ab></div><lb
+ ed="X" n="0872b03"/><lb
+ ed="R087" n="0060b15"/><div type='commentary' level='2'><ab type='prose'>此有兩解。上云能立法為因者。以宗言為因。所成<lb
+ ed="X" n="0872b04"/><lb
+ ed="R087" n="0060b16"/>立彼不相離義。准下有一二釋無說敵。為所立也。<lb
+ ed="X" n="0872b05"/><lb
+ ed="R087" n="0060b17"/>二云宗由此立者。宗是因喻所立故。宗名因明也。</ab></div><lb
+ ed="X" n="0872b06"/><lb
+ ed="R087" n="0060b18"/><div type='orig' level='2'><ab type='prose'>疏舉真攝似。</ab></div><lb
+ ed="X" n="0872b07"/><lb
+ ed="R087" n="0061a01"/><div type='commentary' level='2'><ab type='prose'>等非正明故。於中三解。第一答意者。既有真因明。<lb
+ ed="X" n="0872b08"/><lb
+ ed="R087" n="0061a02"/>明智有似。真似相對。故舉於真即攝於似。第二解<lb
+ ed="X" n="0872b09"/><lb
+ ed="R087" n="0061a03"/>真似。俱正明因明。名通真似故。第三解似。但兼明<lb
+ ed="X" n="0872b10"/><lb
+ ed="R087" n="0061a04"/>非正明故。正明者即真因故。據實若真若似皆因<lb
+ ed="X" n="0872b11"/><lb
+ ed="R087" n="0061a05"/>明。因明名寬。</ab></div><lb
+ ed="X" n="0872b12"/><lb
+ ed="R087" n="0061a06"/><div type='orig' level='2'><ab type='prose'>疏過破似者。</ab></div><lb
+ ed="X" n="0872b13"/><lb
+ ed="R087" n="0061a07"/><div type='commentary' level='2'><ab type='prose'>即出他過破。名出過破。既不立量。如何明因明。答<lb
+ ed="X" n="0872b14"/><lb
+ ed="R087" n="0061a08"/>是因明故者。由此能出過言及義為因。令敵論者<lb
+ ed="X" n="0872b15"/><lb
+ ed="R087" n="0061a09"/>明。亦名因明。似破即因明也。亦破他悟。</ab></div><lb
+ ed="X" n="0872b16"/><lb
+ ed="R087" n="0061a10"/><div type='orig' level='2'><ab type='prose'>疏又或似真但因明名略已攝者。</ab></div><lb
+ ed="X" n="0872b17"/><lb
+ ed="R087" n="0061a11"/><div type='commentary' level='2'><ab type='prose'>以真破似破。並名因明。因明名已攝。</ab></div><lb
+ ed="X" n="0872b18"/><lb
+ ed="R087" n="0061a12"/><div type='orig' level='2'><ab type='prose'>疏見因亦明者。</ab></div><lb
+ ed="X" n="0872b19"/><lb
+ ed="R087" n="0061a13"/><div type='commentary' level='2'><ab type='prose'>是比量智。如見瓶盆。有所作性因。比智無常。見因<lb
+ ed="X" n="0872b20"/><lb
+ ed="R087" n="0061a14"/>證明者。現量之相。如遠見煙。現量之智。即明了證<lb
+ ed="X" n="0872b21"/><lb
+ ed="R087" n="0061a15"/>知此比現約見說。自證亦因者。自心證解為因。亦<lb
+ ed="X" n="0872b22"/><lb
+ ed="R087" n="0061a16"/>名因明。以現比二量智。即是智生因也。或敵智亦<lb
+ ed="X" n="0872b23"/><lb
+ ed="R087" n="0061a17"/>名比量。通比立敵。俱得能立。言比量者。生彼敵者<lb
+ ed="X" n="0872b24"/><lb
+ ed="R087" n="0061a18"/>比量智。見因者。由見彼因。能成彼宗也。問現比無<pb ed="X" id="X53.0855.0872c" n="0872c"/><lb
+ ed="X" n="0872c01"/><lb
+ ed="R087" n="0061b01"/>言可爾。如何得言無智。答無智者。不能生他敵證<lb
+ ed="X" n="0872c02"/><lb
+ ed="R087" n="0061b02"/>智。名無智。非體不是智。或皆順顯成宗義者。以言<lb
+ ed="X" n="0872c03"/><lb
+ ed="R087" n="0061b03"/>義兩因。能順生解。及能成宗義。具此之用也。亦名<lb
+ ed="X" n="0872c04"/><lb
+ ed="R087" n="0061b04"/>因明也。</ab></div><lb
+ ed="X" n="0872c05"/><lb
+ ed="R087" n="0061b05"/><div type='orig' level='2'><ab type='prose'>疏由不決定至故無有失者。</ab></div><lb
+ ed="X" n="0872c06"/><lb
+ ed="R087" n="0061b06"/><div type='commentary' level='2'><ab type='prose'>此意由宗通能所成。不決定故。且就因喻決定說<lb
+ ed="X" n="0872c07"/><lb
+ ed="R087" n="0061b07"/>因名。不依宗說。以不決定。不依立因明名。若爾下<lb
+ ed="X" n="0872c08"/><lb
+ ed="R087" n="0061b08"/>云由如因喻所成立。明因非定能立。何故今言因<lb
+ ed="X" n="0872c09"/><lb
+ ed="R087" n="0061b09"/>定耶。答後言喻成因。假設而言。非以喻成於因。因<lb
+ ed="X" n="0872c10"/><lb
+ ed="R087" n="0061b10"/>即所立。今古共說因唯能立。故名無失。又解但助<lb
+ ed="X" n="0872c11"/><lb
+ ed="R087" n="0061b11"/>因成宗也。據實宗為能立。亦是因明。能立皆因故。<lb
+ ed="X" n="0872c12"/><lb
+ ed="R087" n="0061b12"/>又所因所明者。宗是所因明。亦兼名因明也。又不<lb
+ ed="X" n="0872c13"/><lb
+ ed="R087" n="0061b13"/>違古宗亦因明者。此外難。難汝若宗唯所立。因喻<lb
+ ed="X" n="0872c14"/><lb
+ ed="R087" n="0061b14"/>唯能立。何故如前宗是所因所明。亦是因明。答意<lb
+ ed="X" n="0872c15"/><lb
+ ed="R087" n="0061b15"/>不違古宗。亦因明非即為是。</ab></div><lb
+ ed="X" n="0872c16"/><lb
+ ed="R087" n="0061b16"/><div type='orig' level='2'><ab type='prose'>疏果明不定義亦有濫者。</ab></div><lb
+ ed="X" n="0872c17"/><lb
+ ed="R087" n="0061b17"/><div type='commentary' level='2'><ab type='prose'>由所詮義定是果。不是明也。恐此濫所生。敵者智<lb
+ ed="X" n="0872c18"/><lb
+ ed="R087" n="0061b18"/>是果亦是明。望言生因是果。望所立所立因名之<lb
+ ed="X" n="0872c19"/><lb
+ ed="R087" n="0062a01"/>明。若宗義為因。生敵智者。亦是因明。以非果故。不<lb
+ ed="X" n="0872c20"/><lb
+ ed="R087" n="0062a02"/>名果明。疏以悟他顯此宗因等。以用悟他。</ab></div><lb
+ ed="X" n="0872c21"/><lb
+ ed="R087" n="0062a03"/><div type='orig' level='2'><ab type='prose'>疏一者有至離七等者。</ab></div><lb
+ ed="X" n="0872c22"/><lb
+ ed="R087" n="0062a04"/><div type='commentary' level='2'><ab type='prose'>三相闕減成七句等。闕一二三等。此但闕支與十<lb
+ ed="X" n="0872c23"/><lb
+ ed="R087" n="0062a05"/>四過有異。</ab></div><lb
+ ed="X" n="0872c24"/><lb
+ ed="R087" n="0062a06"/><div type='orig' level='2'><ab type='prose'>疏能依等滿足者。</ab></div><pb ed="X" id="X53.0855.0873a" n="0873a"/><lb
+ ed="X" n="0873a01"/><lb
+ ed="R087" n="0062a07"/><div type='commentary' level='2'><ab type='prose'>此雖具能所依。未必離九過者。還有不成等。故與<lb
+ ed="X" n="0873a02"/><lb
+ ed="R087" n="0062a08"/>成就別。真而無妄離過。具而無闕者滿足。</ab></div><lb
+ ed="X" n="0873a03"/><lb
+ ed="R087" n="0062a09"/><div type='orig' level='2'><ab type='prose'>疏宗由言顯者。</ab></div><lb
+ ed="X" n="0873a04"/><lb
+ ed="R087" n="0062a10"/><div type='commentary' level='2'><ab type='prose'>准陳那宗。由因喻等言顯。方生敵者之智。</ab></div><lb
+ ed="X" n="0873a05"/><lb
+ ed="R087" n="0062a11"/><div type='orig' level='2'><ab type='prose'>疏由此似立等者。</ab></div><lb
+ ed="X" n="0873a06"/><lb
+ ed="R087" n="0062a12"/><div type='commentary' level='2'><ab type='prose'>釋且生他正解相違。不能令他正解。非真立故。宗<lb
+ ed="X" n="0873a07"/><lb
+ ed="R087" n="0062a13"/>等雖無過。不生他正解。亦非正量。</ab></div><lb
+ ed="X" n="0873a08"/><lb
+ ed="R087" n="0062a14"/><div type='orig' level='2'><ab type='prose'>疏或妙徵者。</ab></div><lb
+ ed="X" n="0873a09"/><lb
+ ed="R087" n="0062a15"/><div type='commentary' level='2'><ab type='prose'>立量徵他。顯他過者。出他比量過破他。</ab></div><lb
+ ed="X" n="0873a10"/><lb
+ ed="R087" n="0062a16"/><div type='orig' level='2'><ab type='prose'>疏敗彼由言者。</ab></div><lb
+ ed="X" n="0873a11"/><lb
+ ed="R087" n="0062a17"/><div type='commentary' level='2'><ab type='prose'>破他所立要於言。故云由言。又准能立破俱言。不<lb
+ ed="X" n="0873a12"/><lb
+ ed="R087" n="0062a18"/>取現比二智等也。若親生他解。言最勝故。為疎相<lb
+ ed="X" n="0873a13"/><lb
+ ed="R087" n="0062b01"/>箱。通取二智義。是了因故。故古說現比等。亦能立<lb
+ ed="X" n="0873a14"/><lb
+ ed="R087" n="0062b02"/>故也。令不取者。以疎遠故。亦是能立具。</ab></div><lb
+ ed="X" n="0873a15"/><lb
+ ed="R087" n="0062b03"/><div type='orig' level='2'><ab type='prose'>疏三支互闕者。</ab></div><lb
+ ed="X" n="0873a16"/><lb
+ ed="R087" n="0062b04"/><div type='commentary' level='2'><ab type='prose'>支不滿足。多言有過者。雖具支由有通。所申通起<lb
+ ed="X" n="0873a17"/><lb
+ ed="R087" n="0062b05"/>者。立量破他。</ab></div><lb
+ ed="X" n="0873a18"/><lb
+ ed="R087" n="0062b06"/><div type='orig' level='2'><ab type='prose'>疏證自體生故言隨應者。</ab></div><lb
+ ed="X" n="0873a19"/><lb
+ ed="R087" n="0062b07"/><div type='commentary' level='2'><ab type='prose'>此意引理門。證不唯悟他。以理門說隨應之言。含<lb
+ ed="X" n="0873a20"/><lb
+ ed="R087" n="0062b08"/>自悟故。言自似立者。悟證及自也。所以此言唯悟<lb
+ ed="X" n="0873a21"/><lb
+ ed="R087" n="0062b09"/>他者。約先能立及似立。悟證多分。是悟他比量。故<lb
+ ed="X" n="0873a22"/><lb
+ ed="R087" n="0062b10"/>言唯也。即多分解唯義。故疏言從多分皆悟他。</ab></div><lb
+ ed="X" n="0873a23"/><lb
+ ed="R087" n="0062b11"/><div type='orig' level='2'><ab type='prose'>疏此論下至不能悟他者。</ab></div><lb
+ ed="X" n="0873a24"/><lb
+ ed="R087" n="0062b12"/><div type='commentary' level='2'><ab type='prose'>此意既下長行中。出似立下。不能悟他。明知通自<pb ed="X" id="X53.0855.0873b" n="0873b"/><lb
+ ed="X" n="0873b01"/><lb
+ ed="R087" n="0062b13"/>悟。此論正與彼理門。俱悟中。雖由敵者悟。立者是<lb
+ ed="X" n="0873b02"/><lb
+ ed="R087" n="0062b14"/>他悟。然立者本欲悟他。不知自言是失被敵覺。所<lb
+ ed="X" n="0873b03"/><lb
+ ed="R087" n="0062b15"/>以自正解生。名自悟也。問唯識量唯言。唯心不通<lb
+ ed="X" n="0873b04"/><lb
+ ed="R087" n="0062b16"/>境。因明立唯稱。何不唯他悟。答約少分唯如疏辨。<lb
+ ed="X" n="0873b05"/><lb
+ ed="R087" n="0062b17"/>或可悟他證。又真立破至從真名唯者。解此意以<lb
+ ed="X" n="0873b06"/><lb
+ ed="R087" n="0062b18"/>真攝似名唯。不約多分也。</ab></div><lb
+ ed="X" n="0873b07"/><lb
+ ed="R087" n="0063a01"/><div type='orig' level='2'><ab type='prose'>疏用已至共相智決者。</ab></div><lb
+ ed="X" n="0873b08"/><lb
+ ed="R087" n="0063a02"/><div type='commentary' level='2'><ab type='prose'>因喻已極成。宗先非許。敵者生解。謂智決也。然比<lb
+ ed="X" n="0873b09"/><lb
+ ed="R087" n="0063a03"/>量通敵立故。下結言悟自非他。敵智生亦名自悟。<lb
+ ed="X" n="0873b10"/><lb
+ ed="R087" n="0063a04"/>但自智故。</ab></div><lb
+ ed="X" n="0873b11"/><lb
+ ed="R087" n="0063a05"/><div type='orig' level='2'><ab type='prose'>疏智生不不決非比量攝者。</ab></div><lb
+ ed="X" n="0873b12"/><lb
+ ed="R087" n="0063a06"/><div type='commentary' level='2'><ab type='prose'>即相違決定是也。似非真比故言共相者。由此因<lb
+ ed="X" n="0873b13"/><lb
+ ed="R087" n="0063a07"/>義。遍宗及喻。智緣此解名共相。然與假智稍別。發<lb
+ ed="X" n="0873b14"/><lb
+ ed="R087" n="0063a08"/>言假智。言解者。通現量故。以在定中亦發言也。然<lb
+ ed="X" n="0873b15"/><lb
+ ed="R087" n="0063a09"/>彼望此共相解。以俱無實相分。但就解以義說也。<lb
+ ed="X" n="0873b16"/><lb
+ ed="R087" n="0063a10"/>彼實相分相者。即實法非共相也。說假智依言解<lb
+ ed="X" n="0873b17"/><lb
+ ed="R087" n="0063a11"/>亦有局。自體不通。餘但不稱。非於法增益。未必是<lb
+ ed="X" n="0873b18"/><lb
+ ed="R087" n="0063a12"/>相義。可通論也。如一法作一青。此青乃通一切青<lb
+ ed="X" n="0873b19"/><lb
+ ed="R087" n="0063a13"/>故。唯本自不可也。</ab></div><lb
+ ed="X" n="0873b20"/><lb
+ ed="R087" n="0063a14"/><div type='orig' level='2'><ab type='prose'>疏無分別心至亦似現量者。</ab></div><lb
+ ed="X" n="0873b21"/><lb
+ ed="R087" n="0063a15"/><div type='commentary' level='2'><ab type='prose'>如泛緣地水等。不作餘分別。亦自謂證彼地水。地<lb
+ ed="X" n="0873b22"/><lb
+ ed="R087" n="0063a16"/>自性故。此無分別心。是似現量也。</ab></div><lb
+ ed="X" n="0873b23"/><lb
+ ed="R087" n="0063a17"/><div type='orig' level='2'><ab type='prose'>疏所立設成彼此乖角者。</ab></div><lb
+ ed="X" n="0873b24"/><lb
+ ed="R087" n="0063a18"/><div type='commentary' level='2'><ab type='prose'>是相違決定。以上是餘過也。言異生分別者。自生<pb ed="X" id="X53.0855.0873c" n="0873c"/><lb
+ ed="X" n="0873c01"/><lb
+ ed="R087" n="0063b01"/>分別也。即了宗智。名似比量故。此比量為師。即立<lb
+ ed="X" n="0873c02"/><lb
+ ed="R087" n="0063b02"/>者為資。即敵者智。問此解似比量與似立何別。</ab></div><lb
+ ed="X" n="0873c03"/><lb
+ ed="R087" n="0063b03"/><div type='orig' level='2'><ab type='prose'>疏故此二刊定唯自他者。</ab></div><lb
+ ed="X" n="0873c04"/><lb
+ ed="R087" n="0063b04"/><div type='commentary' level='2'><ab type='prose'>親能刊定。是唯自悟也。以悟他唯在言故。若疎遠<lb
+ ed="X" n="0873c05"/><lb
+ ed="R087" n="0063b05"/>說。亦通悟他。古且說此。為能立支。</ab></div><lb
+ ed="X" n="0873c06"/><lb
+ ed="R087" n="0063b06"/><div type='orig' level='2'><ab type='prose'>疏古今同異者。</ab></div><lb
+ ed="X" n="0873c07"/><lb
+ ed="R087" n="0063b07"/><div type='commentary' level='2'><ab type='prose'>通取瑜伽等。總是古也。不取外道。</ab></div><lb
+ ed="X" n="0873c08"/><lb
+ ed="R087" n="0063b08"/><div type='orig' level='2'><ab type='prose'>疏八為能立順前師故者。</ab></div><lb
+ ed="X" n="0873c09"/><lb
+ ed="R087" n="0063b09"/><div type='commentary' level='2'><ab type='prose'>因以數同。順前師也。非是義同。</ab></div><lb
+ ed="X" n="0873c10"/><lb
+ ed="R087" n="0063b10"/><div type='orig' level='2'><ab type='prose'>疏以因總別既無離合者。</ab></div><lb
+ ed="X" n="0873c11"/><lb
+ ed="R087" n="0063b11"/><div type='commentary' level='2'><ab type='prose'>以所作言是總。三相為別也。以因所作。似彼瑜伽。<lb
+ ed="X" n="0873c12"/><lb
+ ed="R087" n="0063b12"/>既不言遍。是宗法等別義。何須別說同異喻也。以<lb
+ ed="X" n="0873c13"/><lb
+ ed="R087" n="0063b13"/>同異喻即是因第二三相。舉瓶空者。俱是喻所依。<lb
+ ed="X" n="0873c14"/><lb
+ ed="R087" n="0063b14"/>非是喻也。</ab></div><lb
+ ed="X" n="0873c15"/><lb
+ ed="R087" n="0063b15"/><div type='orig' level='2'><ab type='prose'>疏離喻既虧故加合結者。</ab></div><lb
+ ed="X" n="0873c16"/><lb
+ ed="R087" n="0063b16"/><div type='commentary' level='2'><ab type='prose'>以先舊離彼喻。為同異二。既虧道理。合不取之。故<lb
+ ed="X" n="0873c17"/><lb
+ ed="R087" n="0063b17"/>加合結成八支也。又云古師離喻為二。今時不離<lb
+ ed="X" n="0873c18"/><lb
+ ed="R087" n="0063b18"/>二云虧也。故加合結為八支。</ab></div><lb
+ ed="X" n="0873c19"/><lb
+ ed="R087" n="0064a01"/><div type='orig' level='2'><ab type='prose'>疏合結雖離因喻非有者。</ab></div><lb
+ ed="X" n="0873c20"/><lb
+ ed="R087" n="0064a02"/><div type='commentary' level='2'><ab type='prose'>有離因非有以無合結是同喻。通今准下疏。應是<lb
+ ed="X" n="0873c21"/><lb
+ ed="R087" n="0064a03"/>因喻也。今者以瓶是所作。所作無常聲所作。所作<lb
+ ed="X" n="0873c22"/><lb
+ ed="R087" n="0064a04"/>無常結者。故知聲是所作。所作無常也。倒合者。先<lb
+ ed="X" n="0873c23"/><lb
+ ed="R087" n="0064a05"/>舉無常。後言所作也。</ab></div><lb
+ ed="X" n="0873c24"/><lb
+ ed="R087" n="0064a06"/><div type='orig' level='2'><ab type='prose'>疏終是見邊者。</ab></div><pb ed="X" id="X53.0855.0874a" n="0874a"/><lb
+ ed="X" n="0874a01"/><lb
+ ed="R087" n="0064a07"/><div type='commentary' level='2'><ab type='prose'>共許共知。出是己見之邊也即也。顯了分故。但總<lb
+ ed="X" n="0874a02"/><lb
+ ed="R087" n="0064a08"/>名喻。將此已了。顯此宗之未了法喻義平等也。或<lb
+ ed="X" n="0874a03"/><lb
+ ed="R087" n="0064a09"/>三者。總別別開。或二者。唯業別也。</ab></div><lb
+ ed="X" n="0874a04"/><lb
+ ed="R087" n="0064a10"/><div type='orig' level='2'><ab type='prose'>疏喻中無合義乃不明至故不說在真能立中者。</ab></div><lb
+ ed="X" n="0874a05"/><lb
+ ed="R087" n="0064a11"/><div type='commentary' level='2'><ab type='prose'>此意由無合。義不明顯。故喻過中立為喻過。然真<lb
+ ed="X" n="0874a06"/><lb
+ ed="R087" n="0064a12"/>能立中合結。不離因喻。故更不立合結支也。言倒<lb
+ ed="X" n="0874a07"/><lb
+ ed="R087" n="0064a13"/>成者。即是倒結也。</ab></div><lb
+ ed="X" n="0874a08"/><lb
+ ed="R087" n="0064a14"/><div type='orig' level='2'><ab type='prose'>疏但說因初喻隨其後合義已明重說有法一何煩<lb
+ ed="X" n="0874a09"/><lb
+ ed="R087" n="0064a15"/>長者。</ab></div><lb
+ ed="X" n="0874a10"/><lb
+ ed="R087" n="0064a16"/><div type='commentary' level='2'><ab type='prose'>如言諸所作者。皆是無常。如瓶等即因。初喻隨其<lb
+ ed="X" n="0874a11"/><lb
+ ed="R087" n="0064a17"/>後也。亦即合了。何須重舉有法。言聲是所作。所作<lb
+ ed="X" n="0874a12"/><lb
+ ed="R087" n="0064a18"/>無常等也。</ab></div><lb
+ ed="X" n="0874a13"/><lb
+ ed="R087" n="0064b01"/><div type='orig' level='2'><ab type='prose'>疏立敵者之現量等三親唯自悟者。</ab></div><lb
+ ed="X" n="0874a14"/><lb
+ ed="R087" n="0064b02"/><div type='commentary' level='2'><ab type='prose'>此辨能立現量等三。為能立支。以能立唯悟他故。<lb
+ ed="X" n="0874a15"/><lb
+ ed="R087" n="0064b03"/>敵者現量等三。亦是親唯自悟也。問至教豈自悟<lb
+ ed="X" n="0874a16"/><lb
+ ed="R087" n="0064b04"/>耶。</ab></div><lb
+ ed="X" n="0874a17"/><lb
+ ed="R087" n="0064b05"/><div type='orig' level='2'><ab type='prose'>疏因有三相一因二喻豈非多言者。</ab></div><lb
+ ed="X" n="0874a18"/><lb
+ ed="R087" n="0064b06"/><div type='commentary' level='2'><ab type='prose'>此因三相名多言。以言詮多故。名多言故。得多言<lb
+ ed="X" n="0874a19"/><lb
+ ed="R087" n="0064b07"/>故。非要有三體也。不取彼因等三之所依體。但取<lb
+ ed="X" n="0874a20"/><lb
+ ed="R087" n="0064b08"/>彼能依之義。為此因等三相也。以因第二三相。即<lb
+ ed="X" n="0874a21"/><lb
+ ed="R087" n="0064b09"/>二喻也。又言因一喻二者。此約所依別。故言多也。<lb
+ ed="X" n="0874a22"/><lb
+ ed="R087" n="0064b10"/>雖因一有相三。今言因一者。且舉初相名因。</ab></div><lb
+ ed="X" n="0874a23"/><lb
+ ed="R087" n="0064b11"/><div type='orig' level='2'><ab type='prose'>疏彼於次說至故亦所立者。</ab></div><lb
+ ed="X" n="0874a24"/><lb
+ ed="R087" n="0064b12"/><div type='commentary' level='2'><ab type='prose'>引此論意證宗言。亦名所立。不唯能立也。以彼先<pb ed="X" id="X53.0855.0874b" n="0874b"/><lb
+ ed="X" n="0874b01"/><lb
+ ed="R087" n="0064b13"/>明自性差別。所立二義。能立宗言一義。然彼於次<lb
+ ed="X" n="0874b02"/><lb
+ ed="R087" n="0064b14"/>文復說宗。為所立也。以因喻成後。故知不唯二義<lb
+ ed="X" n="0874b03"/><lb
+ ed="R087" n="0064b15"/>是所立。能立之中宗。亦是所立故。准此解即取能<lb
+ ed="X" n="0874b04"/><lb
+ ed="R087" n="0064b16"/>顯示自所愛樂宗言。為宗能立也。</ab></div><lb
+ ed="X" n="0874b05"/><lb
+ ed="R087" n="0064b17"/><div type='orig' level='2'><ab type='prose'>疏諸法總聚自性差別至隨應有故者。</ab></div><lb
+ ed="X" n="0874b06"/><lb
+ ed="R087" n="0064b18"/><div type='commentary' level='2'><ab type='prose'>此意且如總五蘊法。若教理並是所立法。彼瑜伽<lb
+ ed="X" n="0874b07"/><lb
+ ed="R087" n="0065a01"/>論。俱說名為所立義也。即彼總聚中。隨有此諸法<lb
+ ed="X" n="0874b08"/><lb
+ ed="R087" n="0065a02"/>常無常義。俱欲成立。不可具舉。故於總聚中。隨分<lb
+ ed="X" n="0874b09"/><lb
+ ed="R087" n="0065a03"/>取一聲等法。若言若義俱為宗。即是能立。由成此<lb
+ ed="X" n="0874b10"/><lb
+ ed="R087" n="0065a04"/>聲是無常故。如有先不許色等是無常。由此量故。<lb
+ ed="X" n="0874b11"/><lb
+ ed="R087" n="0065a05"/>遂能傍成總聚中色香味等法。亦是無常。故總聚<lb
+ ed="X" n="0874b12"/><lb
+ ed="R087" n="0065a06"/>中色等所立也。雖此此聲對他宗。亦是所立。且就<lb
+ ed="X" n="0874b13"/><lb
+ ed="R087" n="0065a07"/>能成總故。名為能立也。</ab></div><lb
+ ed="X" n="0874b14"/><lb
+ ed="R087" n="0065a08"/><div type='orig' level='2'><ab type='prose'>疏雖此對宗者。</ab></div><lb
+ ed="X" n="0874b15"/><lb
+ ed="R087" n="0065a09"/><div type='commentary' level='2'><ab type='prose'>對他宗也。</ab></div><lb
+ ed="X" n="0874b16"/><lb
+ ed="R087" n="0065a10"/><div type='orig' level='2'><ab type='prose'>疏自性差別合所依義名為所立至總立別故者。</ab></div><lb
+ ed="X" n="0874b17"/><lb
+ ed="R087" n="0065a11"/><div type='commentary' level='2'><ab type='prose'>有云合所依義合者。即能合也。不相離之異名。即<lb
+ ed="X" n="0874b18"/><lb
+ ed="R087" n="0065a12"/>是言詮共相之自性差別。不相離義。令敵者悟也。<lb
+ ed="X" n="0874b19"/><lb
+ ed="R087" n="0065a13"/>所依者。即是本論之自性差別。詮所不及者。是彼<lb
+ ed="X" n="0874b20"/><lb
+ ed="R087" n="0065a14"/>言詮。合不相離之所依。今者取此言詮自性差別<lb
+ ed="X" n="0874b21"/><lb
+ ed="R087" n="0065a15"/>不相離義。成彼言不及之性差別。可不相離義。雖<lb
+ ed="X" n="0874b22"/><lb
+ ed="R087" n="0065a16"/>本法非言所及。然亦非離此言詮。增益之外。更別<lb
+ ed="X" n="0874b23"/><lb
+ ed="R087" n="0065a17"/>方施說此自性故。依此而悟。言總立別者。是此言<lb
+ ed="X" n="0874b24"/><lb
+ ed="R087" n="0065a18"/>詮益增自性差別。不離義成。本法之別法。令不離<pb ed="X" id="X53.0855.0874c" n="0874c"/><lb
+ ed="X" n="0874c01"/><lb
+ ed="R087" n="0065b01"/>也。言對敵合申者。令法有法和□其宗也。今助解<lb
+ ed="X" n="0874c02"/><lb
+ ed="R087" n="0065b02"/>此意。合取自性差別上所依。常無常義。□所立能<lb
+ ed="X" n="0874c03"/><lb
+ ed="R087" n="0065b03"/>依。此常無常之不相離義。合名為宗故。即由此能<lb
+ ed="X" n="0874c04"/><lb
+ ed="R087" n="0065b04"/>依不相離義。成彼所依常無常義。令法有法不相<lb
+ ed="X" n="0874c05"/><lb
+ ed="R087" n="0065b05"/>離。故是所立。</ab></div><lb
+ ed="X" n="0874c06"/><lb
+ ed="R087" n="0065b06"/><div type='orig' level='2'><ab type='prose'>疏即因三相亦過是也者。</ab></div><lb
+ ed="X" n="0874c07"/><lb
+ ed="R087" n="0065b07"/><div type='commentary' level='2'><ab type='prose'>以二喻即因第二三相也。以所作無常即是同喻。<lb
+ ed="X" n="0874c08"/><lb
+ ed="R087" n="0065b08"/>非所作常。即異喻也。瓶及空但喻所依。非是喻故。<lb
+ ed="X" n="0874c09"/><lb
+ ed="R087" n="0065b09"/>因是共相。遍宗及喻。於異遍無。故因三相即攝二<lb
+ ed="X" n="0874c10"/><lb
+ ed="R087" n="0065b10"/>喻也。然喻須所依故。須舉空瓶也。問陳那三相六<lb
+ ed="X" n="0874c11"/><lb
+ ed="R087" n="0065b11"/>過。與世親因一喻二六過何別。答世親約因喻體<lb
+ ed="X" n="0874c12"/><lb
+ ed="R087" n="0065b12"/>說。陳那約因三相義說。故有別也。</ab></div><lb
+ ed="X" n="0874c13"/><lb
+ ed="R087" n="0065b13"/><div type='orig' level='2'><ab type='prose'>疏言因一喻二即因三相者。</ab></div><lb
+ ed="X" n="0874c14"/><lb
+ ed="R087" n="0065b14"/><div type='commentary' level='2'><ab type='prose'>明不舉因喻。闕因三相。亦成減過也。此但敘西國<lb
+ ed="X" n="0874c15"/><lb
+ ed="R087" n="0065b15"/>有此兩解。三藏無定別解。</ab></div><lb
+ ed="X" n="0874c16"/><lb
+ ed="R087" n="0065b16"/><div type='orig' level='2'><ab type='prose'>疏雖有申宗不申喻至豈非過也者。</ab></div><lb
+ ed="X" n="0874c17"/><lb
+ ed="R087" n="0065b17"/><div type='commentary' level='2'><ab type='prose'>此解意不申因喻具闕三。亦是闕減過。</ab></div><lb
+ ed="X" n="0874c18"/><lb
+ ed="R087" n="0065b18"/><div type='orig' level='2'><ab type='prose'>疏文雖有言而相並闕至三相並闕何得非似者。</ab></div><lb
+ ed="X" n="0874c19"/><lb
+ ed="R087" n="0066a01"/><div type='commentary' level='2'><ab type='prose'>此解意雖申因喻言。而因喻義並闕也。舉德所依<lb
+ ed="X" n="0874c20"/><lb
+ ed="R087" n="0066a02"/>因是德句。非德所依。闕因初相。以實是德句依故<lb
+ ed="X" n="0874c21"/><lb
+ ed="R087" n="0066a03"/>舉擇滅。彼宗無之。亦非德依。無第二相。異喻大種<lb
+ ed="X" n="0874c22"/><lb
+ ed="R087" n="0066a04"/>能立不遣。闕第三相。以大種是實句攝。與德為依。<lb
+ ed="X" n="0874c23"/><lb
+ ed="R087" n="0066a05"/>即異喻中有因。名能立不遣也。故雖有言。並闕此<lb
+ ed="X" n="0874c24"/><lb
+ ed="R087" n="0066a06"/>三義。亦是以立聲論。定不同勝論計故。問如擇滅<pb ed="X" id="X53.0855.0875a" n="0875a"/><lb
+ ed="X" n="0875a01"/><lb
+ ed="R087" n="0066a07"/>是常。豈非同品有。雖闕能立。可不是喻。答他宗不<lb
+ ed="X" n="0875a02"/><lb
+ ed="R087" n="0066a08"/>許有擇滅也。意明有體此闕也。</ab></div><lb
+ ed="X" n="0875a03"/><lb
+ ed="R087" n="0066a09"/><div type='orig' level='2'><ab type='prose'>疏此中唯取隨自意樂為所成非彼相違義能遣<lb
+ ed="X" n="0875a04"/><lb
+ ed="R087" n="0066a10"/>者。</ab></div><lb
+ ed="X" n="0875a05"/><lb
+ ed="R087" n="0066a11"/><div type='commentary' level='2'><ab type='prose'>是論文即陳那菩薩所立宗義也。但隨自義所立。<lb
+ ed="X" n="0875a06"/><lb
+ ed="R087" n="0066a12"/>我□宗離五相違。非彼五相違義。能遣我此宗義<lb
+ ed="X" n="0875a07"/><lb
+ ed="R087" n="0066a13"/>故。是正宗也。□後四過不是相違故。陳那略之。不<lb
+ ed="X" n="0875a08"/><lb
+ ed="R087" n="0066a14"/>立為過。</ab></div><lb
+ ed="X" n="0875a09"/><lb
+ ed="R087" n="0066a15"/><div type='orig' level='2'><ab type='prose'>疏能別不成是因中不共不定等過者。</ab></div><lb
+ ed="X" n="0875a10"/><lb
+ ed="R087" n="0066a16"/><div type='commentary' level='2'><ab type='prose'>以不共不定攝。得彼能別不成。以不共不定寬故。<lb
+ ed="X" n="0875a11"/><lb
+ ed="R087" n="0066a17"/>同異俱無。能別不成。但同喻無故。但客攝非法同<lb
+ ed="X" n="0875a12"/><lb
+ ed="R087" n="0066a18"/>也。言等過者。等取同異喻。亦自有過也。</ab></div><lb
+ ed="X" n="0875a13"/><lb
+ ed="R087" n="0066b01"/><div type='orig' level='2'><ab type='prose'>疏若非能別誰不相離者。</ab></div><lb
+ ed="X" n="0875a14"/><lb
+ ed="R087" n="0066b02"/><div type='commentary' level='2'><ab type='prose'>若非是能別極成。雖為不相離之義也。</ab></div><lb
+ ed="X" n="0875a15"/><lb
+ ed="R087" n="0066b03"/><div type='orig' level='2'><ab type='prose'>疏及異品非遍無過者。</ab></div><lb
+ ed="X" n="0875a16"/><lb
+ ed="R087" n="0066b04"/><div type='commentary' level='2'><ab type='prose'>即是品異一分及遍轉也。既因中有異品遍轉。及<lb
+ ed="X" n="0875a17"/><lb
+ ed="R087" n="0066b05"/>一分轉。何須異喻之中。更立能立遣。能立遣者。即<lb
+ ed="X" n="0875a18"/><lb
+ ed="R087" n="0066b06"/>因異品轉故。</ab></div><lb
+ ed="X" n="0875a19"/><lb
+ ed="R087" n="0066b07"/><div type='orig' level='2'><ab type='prose'>疏若此上三不立過者所依非極至何名所立者。</ab></div><lb
+ ed="X" n="0875a20"/><lb
+ ed="R087" n="0066b08"/><div type='commentary' level='2'><ab type='prose'>非極既更須能成立宗法。故不成也。宗既不成。何<lb
+ ed="X" n="0875a21"/><lb
+ ed="R087" n="0066b09"/>名所立。由此故。須能所俱極成。問且如滅壞。是能<lb
+ ed="X" n="0875a22"/><lb
+ ed="R087" n="0066b10"/>別不成。如何更以因喻成立。答此能所別有可成<lb
+ ed="X" n="0875a23"/><lb
+ ed="R087" n="0066b11"/>者。有不可成者。如對小乘。成第八識。即所別不成<lb
+ ed="X" n="0875a24"/><lb
+ ed="R087" n="0066b12"/>也。如此類是所成。如滅無常他不許。即不可成。若<pb ed="X" id="X53.0855.0875b" n="0875b"/><lb
+ ed="X" n="0875b01"/><lb
+ ed="R087" n="0066b13"/>更以別義來成亦可得。即無非所成法也。</ab></div><lb
+ ed="X" n="0875b02"/><lb
+ ed="R087" n="0066b14"/><div type='orig' level='2'><ab type='prose'>疏及俱不成者。</ab></div><lb
+ ed="X" n="0875b03"/><lb
+ ed="R087" n="0066b15"/><div type='commentary' level='2'><ab type='prose'>是喻中俱不成爾也。</ab></div><lb
+ ed="X" n="0875b04"/><lb
+ ed="R087" n="0066b16"/><div type='orig' level='2'><ab type='prose'>疏宗因相違名宗相違者。</ab></div><lb
+ ed="X" n="0875b05"/><lb
+ ed="R087" n="0066b17"/><div type='commentary' level='2'><ab type='prose'>陳那以前有不正師。立有宗違過。以宗違因故。引<lb
+ ed="X" n="0875b06"/><lb
+ ed="R087" n="0066b18"/>彼外道。立一切皆是無常。故因為例。今陳那不取<lb
+ ed="X" n="0875b07"/><lb
+ ed="R087" n="0067a01"/>破之。</ab></div><lb
+ ed="X" n="0875b08"/><lb
+ ed="R087" n="0067a02"/><div type='orig' level='2'><ab type='prose'>疏云以聲攝一切無常中故者。</ab></div><lb
+ ed="X" n="0875b09"/><lb
+ ed="R087" n="0067a03"/><div type='commentary' level='2'><ab type='prose'>意言一切者。即一切法盡。非是即有種類故。名一<lb
+ ed="X" n="0875b10"/><lb
+ ed="R087" n="0067a04"/>切也。非離敵即不名一切。</ab></div><lb
+ ed="X" n="0875b11"/><lb
+ ed="R087" n="0067a05"/><div type='orig' level='2'><ab type='prose'>疏云此不成因亦不成宗者。</ab></div><lb
+ ed="X" n="0875b12"/><lb
+ ed="R087" n="0067a06"/><div type='commentary' level='2'><ab type='prose'>等意此者。此兩俱及隨一過自不成。故名不成。或<lb
+ ed="X" n="0875b13"/><lb
+ ed="R087" n="0067a07"/>不成宗。故名不成。立敵者即兩俱。或偏即隨一。何<lb
+ ed="X" n="0875b14"/><lb
+ ed="R087" n="0067a08"/>假所依及猶預不成耶。陳那云。道理雖爾。謂總合<lb
+ ed="X" n="0875b15"/><lb
+ ed="R087" n="0067a09"/>難知。故開四種。言總合者。即將猶預所依。共兩俱<lb
+ ed="X" n="0875b16"/><lb
+ ed="R087" n="0067a10"/>隨一合說也。云何名難知。即不知所依有法有體<lb
+ ed="X" n="0875b17"/><lb
+ ed="R087" n="0067a11"/>無體。又伏疑決難辨許。於有體法起疑。於無法不<lb
+ ed="X" n="0875b18"/><lb
+ ed="R087" n="0067a12"/>疑。今既合說為常有法有體。為常無體。為常起疑。<lb
+ ed="X" n="0875b19"/><lb
+ ed="R087" n="0067a13"/>為不起疑故。道理難知也。</ab></div><lb
+ ed="X" n="0875b20"/><lb
+ ed="R087" n="0067a14"/><div type='orig' level='2'><ab type='prose'>疏論體者。</ab></div><lb
+ ed="X" n="0875b21"/><lb
+ ed="R087" n="0067a15"/><div type='commentary' level='2'><ab type='prose'>意云。如瑜伽等說。因明道理有七種。一論體者。䟽<lb
+ ed="X" n="0875b22"/><lb
+ ed="R087" n="0067a16"/>解比量與能立極相似意。所言正為能立。似生之<lb
+ ed="X" n="0875b23"/><lb
+ ed="R087" n="0067a17"/>智正為比量。問若爾何故能立之中。亦舉所生智<lb
+ ed="X" n="0875b24"/><lb
+ ed="R087" n="0067a18"/>等。比量之中亦舉言等。答互所為具非正體。疏意<pb ed="X" id="X53.0855.0875c" n="0875c"/><lb
+ ed="X" n="0875c01"/><lb
+ ed="R087" n="0067b01"/>云。能破離能立。以立外更無異堍。故云󳻩無異。非<lb
+ ed="X" n="0875c02"/><lb
+ ed="R087" n="0067b02"/>是同一󳻩故。名無有異。</ab></div><lb
+ ed="X" n="0875c03"/><lb
+ ed="R087" n="0067b03"/><div type='orig' level='2'><ab type='prose'>疏云由言生因至了本極成因者。</ab></div><lb
+ ed="X" n="0875c04"/><lb
+ ed="R087" n="0067b04"/><div type='commentary' level='2'><ab type='prose'>此中言因者。即宗因喻之能詮也。今言極成因者。<lb
+ ed="X" n="0875c05"/><lb
+ ed="R087" n="0067b05"/>即取聲宗所作性也。先許故方辨彼所立無常。</ab></div><lb
+ ed="X" n="0875c06"/><lb
+ ed="R087" n="0067b06"/><div type='orig' level='2'><ab type='prose'>疏又比量中唯見此理者。</ab></div><lb
+ ed="X" n="0875c07"/><lb
+ ed="R087" n="0067b07"/><div type='commentary' level='2'><ab type='prose'>談作論者。於比量中。唯見三相理也。又言若所作<lb
+ ed="X" n="0875c08"/><lb
+ ed="R087" n="0067b08"/>比處者。即宗也。又言此相定遍有者。即初相言。餘<lb
+ ed="X" n="0875c09"/><lb
+ ed="R087" n="0067b09"/>同類念此定有者。敵者即喻此宗。亦有無常也。</ab></div><lb
+ ed="X" n="0875c10"/><lb
+ ed="R087" n="0067b10"/><div type='orig' level='2'><ab type='prose'>疏二執理家者。</ab></div><lb
+ ed="X" n="0875c11"/><lb
+ ed="R087" n="0067b11"/><div type='commentary' level='2'><ab type='prose'>即事官宗。問第四第五義何別。答初立性。望明未<lb
+ ed="X" n="0875c12"/><lb
+ ed="R087" n="0067b12"/>先解後未總明文。未學得是二別相。</ab></div><lb
+ ed="X" n="0875c13"/><lb
+ ed="R087" n="0067b13"/><div type='orig' level='2'><ab type='prose'>疏為依義立宗體方成者。</ab></div><lb
+ ed="X" n="0875c14"/><lb
+ ed="R087" n="0067b14"/><div type='commentary' level='2'><ab type='prose'>有法及法。要須極成所依義。立方依宗。</ab></div><lb
+ ed="X" n="0875c15"/><lb
+ ed="R087" n="0067b15"/><div type='orig' level='2'><ab type='prose'>疏云是因同品非定有過者。</ab></div><lb
+ ed="X" n="0875c16"/><lb
+ ed="R087" n="0067b16"/><div type='commentary' level='2'><ab type='prose'>於因同品非有宗。</ab></div><lb
+ ed="X" n="0875c17"/><lb
+ ed="R087" n="0067b17"/><div type='orig' level='2'><ab type='prose'>疏中必有是因同品非定有過必闕同喻者。</ab></div><lb
+ ed="X" n="0875c18"/><lb
+ ed="R087" n="0067b18"/><div type='commentary' level='2'><ab type='prose'>意云。能別不成。即無同喻。因中便闕第二相。</ab></div><lb
+ ed="X" n="0875c19"/><lb
+ ed="R087" n="0068a01"/><div type='orig' level='2'><ab type='prose'>疏同喻皆有所立不成。</ab></div><lb
+ ed="X" n="0875c20"/><lb
+ ed="R087" n="0068a02"/><div type='commentary' level='2'><ab type='prose'>意言。課得一法為喻者。有所立不成失。二燈者相。<lb
+ ed="X" n="0875c21"/><lb
+ ed="R087" n="0068a03"/>影者燈影。燈等更名俱不成。</ab></div><lb
+ ed="X" n="0875c22"/><lb
+ ed="R087" n="0068a04"/><div type='orig' level='2'><ab type='prose'>疏一一離之為一分句者。</ab></div><lb
+ ed="X" n="0875c23"/><lb
+ ed="R087" n="0068a05"/><div type='commentary' level='2'><ab type='prose'>即前俱中五四句內能所別。各取一分。而為句也。</ab></div><lb
+ ed="X" n="0875c24"/><lb
+ ed="R087" n="0068a06"/><div type='orig' level='2'><ab type='prose'>疏復將一分句對餘全句者。</ab></div><pb ed="X" id="X53.0855.0876a" n="0876a"/><lb
+ ed="X" n="0876a01"/><lb
+ ed="R087" n="0068a07"/><div type='commentary' level='2'><ab type='prose'>即如有自能別一分不成。他所別一分不成等。</ab></div><lb
+ ed="X" n="0876a02"/><lb
+ ed="R087" n="0068a08"/><div type='orig' level='2'><ab type='prose'>疏一宗依極成宗不極者。</ab></div><lb
+ ed="X" n="0876a03"/><lb
+ ed="R087" n="0068a09"/><div type='commentary' level='2'><ab type='prose'>不極即不相離性。敵不許之。稱不極也。</ab></div><lb
+ ed="X" n="0876a04"/><lb
+ ed="R087" n="0068a10"/><div type='orig' level='2'><ab type='prose'>疏由此宗中說其故宗者。</ab></div><lb
+ ed="X" n="0876a05"/><lb
+ ed="R087" n="0068a11"/><div type='commentary' level='2'><ab type='prose'>即以差別不相離性為宗故。宗法別置極成言也。<lb
+ ed="X" n="0876a06"/><lb
+ ed="R087" n="0068a12"/>故言攝所依也。問餘經論中。與因明自相差別何<lb
+ ed="X" n="0876a07"/><lb
+ ed="R087" n="0068a13"/>異。釋經論自共相者。有其四釋。一者諸法本真言<lb
+ ed="X" n="0876a08"/><lb
+ ed="R087" n="0068a14"/>說不及。名之自性。言所詮即假智所緣。一切諸法<lb
+ ed="X" n="0876a09"/><lb
+ ed="R087" n="0068a15"/>皆是共相。故唯識云。假智及詮。唯依共相轉。二者<lb
+ ed="X" n="0876a10"/><lb
+ ed="R087" n="0068a16"/>色等諸法名自性。此上苦無常等名差別。此法本<lb
+ ed="X" n="0876a11"/><lb
+ ed="R087" n="0068a17"/>自爾。即前言不詮中有此二徒也。三者名自性句<lb
+ ed="X" n="0876a12"/><lb
+ ed="R087" n="0068a18"/>詮者名差別。即前說中分生四者。於言說中。以狹<lb
+ ed="X" n="0876a13"/><lb
+ ed="R087" n="0068b01"/>望寬。從麤至細。為自共故。因明所說自性。比量所<lb
+ ed="X" n="0876a14"/><lb
+ ed="R087" n="0068b02"/>緣即共相。四者先後。即前言所明。自相共相先後。<lb
+ ed="X" n="0876a15"/><lb
+ ed="R087" n="0068b03"/>先陳即性。後陳名差別。三者言陳意許。如疏可知。</ab></div><lb
+ ed="X" n="0876a16"/><lb
+ ed="R087" n="0068b04"/><div type='orig' level='2'><ab type='prose'>疏凡宗有四者。</ab></div><lb
+ ed="X" n="0876a17"/><lb
+ ed="R087" n="0068b05"/><div type='commentary' level='2'><ab type='prose'>此即理門。汎明宗義。問四句中。初三是真似。答法<lb
+ ed="X" n="0876a18"/><lb
+ ed="R087" n="0068b06"/>真宗中。非是所諍。言非所立。若立之者。即相符等<lb
+ ed="X" n="0876a19"/><lb
+ ed="R087" n="0068b07"/>過。</ab></div><lb
+ ed="X" n="0876a20"/><lb
+ ed="R087" n="0068b08"/><div type='orig' level='2'><ab type='prose'>疏因喻成立自義亦應名者。</ab></div><lb
+ ed="X" n="0876a21"/><lb
+ ed="R087" n="0068b09"/><div type='commentary' level='2'><ab type='prose'>此中雖意隨自樂為。是名為宗因喻。亦量義言中<lb
+ ed="X" n="0876a22"/><lb
+ ed="R087" n="0068b10"/>立時亦應名。答其意可知。</ab></div><lb
+ ed="X" n="0876a23"/><lb
+ ed="R087" n="0068b11"/><div type='orig' level='2'><ab type='prose'>疏又解樂者貫通上下等者。</ab></div><lb
+ ed="X" n="0876a24"/><lb
+ ed="R087" n="0068b12"/><div type='commentary' level='2'><ab type='prose'>此一樂為言。樂屬上自。亦及下句。意說樂為。通上<pb ed="X" id="X53.0855.0876b" n="0876b"/><lb
+ ed="X" n="0876b01"/><lb
+ ed="R087" n="0068b13"/>隨隨自。亦通下樂為。</ab></div><lb
+ ed="X" n="0876b02"/><lb
+ ed="R087" n="0068b14"/><div type='orig' level='2'><ab type='prose'>疏問何故宗內獨言樂等至只是宗攝者。</ab></div><lb
+ ed="X" n="0876b03"/><lb
+ ed="R087" n="0068b15"/><div type='commentary' level='2'><ab type='prose'>此中問意知。就答之中有二段也。初似等至三似<lb
+ ed="X" n="0876b04"/><lb
+ ed="R087" n="0068b16"/>者。答以宗因等至亦是宗攝。不說樂為者。答因中<lb
+ ed="X" n="0876b05"/><lb
+ ed="R087" n="0068b17"/>不說樂為意。答初意云。似常因等而成宗。彼非今<lb
+ ed="X" n="0876b06"/><lb
+ ed="R087" n="0068b18"/>樂恐濫似故。置樂為言。答二問意云。三似重成是<lb
+ ed="X" n="0876b07"/><lb
+ ed="R087" n="0069a01"/>小宗非喻。今無所濫。非樂為簡言說。今及後者。但<lb
+ ed="X" n="0876b08"/><lb
+ ed="R087" n="0069a02"/>是文色羅非解。今問非因分疎。別置樂為言故。</ab></div><lb
+ ed="X" n="0876b09"/><lb
+ ed="R087" n="0069a03"/><div type='orig' level='2'><ab type='prose'>疏又宗前未說等至更何須說者。</ab></div><lb
+ ed="X" n="0876b10"/><lb
+ ed="R087" n="0069a04"/><div type='commentary' level='2'><ab type='prose'>此中意說。夫立比量。先宗後因。若不說所立。欲顯<lb
+ ed="X" n="0876b11"/><lb
+ ed="R087" n="0069a05"/>於何。恐有濫故。宗置所立。因前說宗是所立。能必<lb
+ ed="X" n="0876b12"/><lb
+ ed="R087" n="0069a06"/>能立不說可知。</ab></div><lb
+ ed="X" n="0876b13"/><lb
+ ed="R087" n="0069a07"/><div type='orig' level='2'><ab type='prose'>疏依二所立者。</ab></div><lb
+ ed="X" n="0876b14"/><lb
+ ed="R087" n="0069a08"/><div type='commentary' level='2'><ab type='prose'>即自性差別。</ab></div><lb
+ ed="X" n="0876b15"/><lb
+ ed="R087" n="0069a09"/><div type='orig' level='2'><ab type='prose'>疏以言對理取依義能詮名為各別者。</ab></div><lb
+ ed="X" n="0876b16"/><lb
+ ed="R087" n="0069a10"/><div type='commentary' level='2'><ab type='prose'>意取總聚上一分。能依自性差別。能詮之言名分<lb
+ ed="X" n="0876b17"/><lb
+ ed="R087" n="0069a11"/>別。</ab></div><lb
+ ed="X" n="0876b18"/><lb
+ ed="R087" n="0069a12"/><div type='orig' level='2'><ab type='prose'>疏依義能詮者。</ab></div><lb
+ ed="X" n="0876b19"/><lb
+ ed="R087" n="0069a13"/><div type='commentary' level='2'><ab type='prose'>義即性也。依所詮理及無常等義。故言各若詮言<lb
+ ed="X" n="0876b20"/><lb
+ ed="R087" n="0069a14"/>依義等。其中取為宗法。連下讀之。</ab></div><lb
+ ed="X" n="0876b21"/><lb
+ ed="R087" n="0069a15"/><div type='orig' level='2'><ab type='prose'>疏言正與此同者。</ab></div><lb
+ ed="X" n="0876b22"/><lb
+ ed="R087" n="0069a16"/><div type='commentary' level='2'><ab type='prose'>意道。此義正與瑜伽各別攝受自品所許攝受文<lb
+ ed="X" n="0876b23"/><lb
+ ed="R087" n="0069a17"/>同。又言此受總故者。意明此文。是總下有十句別。</ab></div><lb
+ ed="X" n="0876b24"/><lb
+ ed="R087" n="0069a18"/><div type='orig' level='2'><ab type='prose'>疏有果不同至分言義智者。</ab></div><pb ed="X" id="X53.0855.0876c" n="0876c"/><lb
+ ed="X" n="0876c01"/><lb
+ ed="R087" n="0069b01"/><div type='commentary' level='2'><ab type='prose'>此中意說。建立順益。雖皆是因。望果不同。分成生<lb
+ ed="X" n="0876c02"/><lb
+ ed="R087" n="0069b02"/>了。言疎者。是疎條之義言。各賴別分。言義智者。然<lb
+ ed="X" n="0876c03"/><lb
+ ed="R087" n="0069b03"/>生了中。各有三類。</ab></div><lb
+ ed="X" n="0876c04"/><lb
+ ed="R087" n="0069b04"/><div type='orig' level='2'><ab type='prose'>疏體異便成立敵二至別開六種者。</ab></div><lb
+ ed="X" n="0876c05"/><lb
+ ed="R087" n="0069b05"/><div type='commentary' level='2'><ab type='prose'>此中意說。獨雜殊義因開六種。立敵二獨。而不雜<lb
+ ed="X" n="0876c06"/><lb
+ ed="R087" n="0069b06"/>言兩門。或生或了。</ab></div><lb
+ ed="X" n="0876c07"/><lb
+ ed="R087" n="0069b07"/><div type='orig' level='2'><ab type='prose'>疏智境疎寬等至令起名生者。</ab></div><lb
+ ed="X" n="0876c08"/><lb
+ ed="R087" n="0069b08"/><div type='commentary' level='2'><ab type='prose'>常無常宗及能立。俱為智境。故稱寬也。󳻩體先有<lb
+ ed="X" n="0876c09"/><lb
+ ed="R087" n="0069b09"/>非智。親生但智照了。故言疎也。立者唯能親生敵<lb
+ ed="X" n="0876c10"/><lb
+ ed="R087" n="0069b10"/>智。故言親狹。問立者之言。亦得宗果。所言於狹前。<lb
+ ed="X" n="0876c11"/><lb
+ ed="R087" n="0069b11"/>彼說了因。今談生果。</ab></div><lb
+ ed="X" n="0876c12"/><lb
+ ed="R087" n="0069b12"/><div type='orig' level='2'><ab type='prose'>疏立智隔於言不得相從各了者。</ab></div><lb
+ ed="X" n="0876c13"/><lb
+ ed="R087" n="0069b13"/><div type='commentary' level='2'><ab type='prose'>問言亦隔於義。何故得稱了。答智自悟不能生他<lb
+ ed="X" n="0876c14"/><lb
+ ed="R087" n="0069b14"/>後隔言義。言能詮顯。親能生他智解。不同立智。</ab></div><lb
+ ed="X" n="0876c15"/><lb
+ ed="R087" n="0069b15"/><div type='orig' level='2'><ab type='prose'>疏其言生因等至各有三相。</ab></div><lb
+ ed="X" n="0876c16"/><lb
+ ed="R087" n="0069b16"/><div type='commentary' level='2'><ab type='prose'>即言生因體無三相。詮三相義。從所詮故。說名三<lb
+ ed="X" n="0876c17"/><lb
+ ed="R087" n="0069b17"/>相。意說能詮言下所詮義。能緣下所緣義。皆具遍<lb
+ ed="X" n="0876c18"/><lb
+ ed="R087" n="0069b18"/>是宗法性等三相也。其言生因敵證者智。實不具<lb
+ ed="X" n="0876c19"/><lb
+ ed="R087" n="0070a01"/>三相。但得名因。言因具三相。相從而說。故言各有<lb
+ ed="X" n="0876c20"/><lb
+ ed="R087" n="0070a02"/>三相。</ab></div><lb
+ ed="X" n="0876c21"/><lb
+ ed="R087" n="0070a03"/><div type='orig' level='2'><ab type='prose'>疏一因所依貫三別處者。</ab></div><lb
+ ed="X" n="0876c22"/><lb
+ ed="R087" n="0070a04"/><div type='commentary' level='2'><ab type='prose'>三別謂宗有法及同異喻法。此三即因之所依。異<lb
+ ed="X" n="0876c23"/><lb
+ ed="R087" n="0070a05"/>品雖不相順。返亦名依。</ab></div><lb
+ ed="X" n="0876c24"/><lb
+ ed="R087" n="0070a06"/><div type='orig' level='2'><ab type='prose'>疏故此二法皆是有法上別義者。</ab></div><pb ed="X" id="X53.0855.0877a" n="0877a"/><lb
+ ed="X" n="0877a01"/><lb
+ ed="R087" n="0070a07"/><div type='commentary' level='2'><ab type='prose'>意說無常及所作因法。是聲上別義也。</ab></div><lb
+ ed="X" n="0877a02"/><lb
+ ed="R087" n="0070a08"/><div type='orig' level='2'><ab type='prose'>疏以其總聲於別上轉者。</ab></div><lb
+ ed="X" n="0877a03"/><lb
+ ed="R087" n="0070a09"/><div type='commentary' level='2'><ab type='prose'>即和合不離。此為總宗。二所依異。名之為別。別既<lb
+ ed="X" n="0877a04"/><lb
+ ed="R087" n="0070a10"/>總中一分。說別亦帶總聲。猶如襟袖。方總成衣。唯<lb
+ ed="X" n="0877a05"/><lb
+ ed="R087" n="0070a11"/>燒衫時。亦言燒衣。衫處之帶總言故。</ab></div><lb
+ ed="X" n="0877a06"/><lb
+ ed="R087" n="0070a12"/><div type='orig' level='2'><ab type='prose'>疏煙火俱有法者。</ab></div><lb
+ ed="X" n="0877a07"/><lb
+ ed="R087" n="0070a13"/><div type='commentary' level='2'><ab type='prose'>此即即如經色等為自性性即有法也。不是先陳<lb
+ ed="X" n="0877a08"/><lb
+ ed="R087" n="0070a14"/>名有法也。但為成立此相應物者。此謂山處有火<lb
+ ed="X" n="0877a09"/><lb
+ ed="R087" n="0070a15"/>及煙。名為相應。</ab></div><lb
+ ed="X" n="0877a10"/><lb
+ ed="R087" n="0070a16"/><div type='orig' level='2'><ab type='prose'>疏有所不立顯皆因立者。</ab></div><lb
+ ed="X" n="0877a11"/><lb
+ ed="R087" n="0070a17"/><div type='commentary' level='2'><ab type='prose'>意云。因若遍宗。可有所立道理。而未立之。若不爾<lb
+ ed="X" n="0877a12"/><lb
+ ed="R087" n="0070a18"/>即非立也。</ab></div><lb
+ ed="X" n="0877a13"/><lb
+ ed="R087" n="0070b01"/><div type='orig' level='2'><ab type='prose'>疏兩俱一分若為自若他合三一分猶預不成。</ab></div><lb
+ ed="X" n="0877a14"/><lb
+ ed="R087" n="0070b02"/><div type='commentary' level='2'><ab type='prose'>問不有無體也。若答論有無。即是決也。而非猶預。<lb
+ ed="X" n="0877a15"/><lb
+ ed="R087" n="0070b03"/>至下預中看所依。不說無體者。以無體便非所依。<lb
+ ed="X" n="0877a16"/><lb
+ ed="R087" n="0070b04"/>所以但說有體也。</ab></div><lb
+ ed="X" n="0877a17"/><lb
+ ed="R087" n="0070b05"/><div type='orig' level='2'><ab type='prose'>疏不說瓶二異名中者。</ab></div><lb
+ ed="X" n="0877a18"/><lb
+ ed="R087" n="0070b06"/><div type='commentary' level='2'><ab type='prose'>意云。不說聲上所作。即瓶上所作。</ab></div><lb
+ ed="X" n="0877a19"/><lb
+ ed="R087" n="0070b07"/><div type='orig' level='2'><ab type='prose'>疏恒住堅窂不變四皆常。</ab></div><lb
+ ed="X" n="0877a20"/><lb
+ ed="R087" n="0070b08"/><div type='commentary' level='2'><ab type='prose'>釋願隱常名也。言遷者。隱無常名。</ab></div><lb
+ ed="X" n="0877a21"/><lb
+ ed="R087" n="0070b09"/><div type='orig' level='2'><ab type='prose'>疏上來三句所說過者。</ab></div><lb
+ ed="X" n="0877a22"/><lb
+ ed="R087" n="0070b10"/><div type='commentary' level='2'><ab type='prose'>即因三相為三句。又言各相即義。非是體也。</ab></div><lb
+ ed="X" n="0877a23"/><lb
+ ed="R087" n="0070b11"/><div type='orig' level='2'><ab type='prose'>疏三立皆闕者。</ab></div><lb
+ ed="X" n="0877a24"/><lb
+ ed="R087" n="0070b12"/><div type='commentary' level='2'><ab type='prose'>即一因二喻能立也。</ab></div><pb ed="X" id="X53.0855.0877b" n="0877b"/><lb
+ ed="X" n="0877b01"/><lb
+ ed="R087" n="0070b13"/><div type='orig' level='2'><ab type='prose'>疏如是合有三个四句。</ab></div><lb
+ ed="X" n="0877b02"/><lb
+ ed="R087" n="0070b14"/><div type='commentary' level='2'><ab type='prose'>即三相互為其首。相對有無成三也。言一个兩句<lb
+ ed="X" n="0877b03"/><lb
+ ed="R087" n="0070b15"/>者。即三闕三不闕也。</ab></div><lb
+ ed="X" n="0877b04"/><lb
+ ed="R087" n="0070b16"/><div type='orig' level='2'><ab type='prose'>疏且因義非後二四不成過者。</ab></div><lb
+ ed="X" n="0877b05"/><lb
+ ed="R087" n="0070b17"/><div type='commentary' level='2'><ab type='prose'>且所依不成者。即有法分成。因無所依。是無因義。<lb
+ ed="X" n="0877b06"/><lb
+ ed="R087" n="0070b18"/>餘者隨應可悉。撿論文。</ab></div><lb
+ ed="X" n="0877b07"/><lb
+ ed="R087" n="0071a01"/><div type='orig' level='2'><ab type='prose'>疏唯有相相違者。</ab></div><lb
+ ed="X" n="0877b08"/><lb
+ ed="R087" n="0071a02"/><div type='commentary' level='2'><ab type='prose'>即四亦句也。言及五不定者。即六不定中。除相具<lb
+ ed="X" n="0877b09"/><lb
+ ed="R087" n="0071a03"/>違決定故。九句之中攝得六過。餘四不成。一定三<lb
+ ed="X" n="0877b10"/><lb
+ ed="R087" n="0071a04"/>相違。九句不攝。</ab></div><lb
+ ed="X" n="0877b11"/><lb
+ ed="R087" n="0071a05"/><div type='orig' level='2'><ab type='prose'>疏答因親成於宗等至標其順違者。</ab></div><lb
+ ed="X" n="0877b12"/><lb
+ ed="R087" n="0071a06"/><div type='commentary' level='2'><ab type='prose'>意此中意。以因望宗親故。且九句中。說有初相。即<lb
+ ed="X" n="0877b13"/><lb
+ ed="R087" n="0071a07"/>是順也。若無初相。即四不成過故。不說四不成。又<lb
+ ed="X" n="0877b14"/><lb
+ ed="R087" n="0071a08"/>解但說遍宗法因。順成宗故。名相不說四不成。又<lb
+ ed="X" n="0877b15"/><lb
+ ed="R087" n="0071a09"/>同喻成立疎遠故。但標其順違者。順謂五不定。違<lb
+ ed="X" n="0877b16"/><lb
+ ed="R087" n="0071a10"/>即二相違。據此攝餘亦盡。更不說餘三相違。及決<lb
+ ed="X" n="0877b17"/><lb
+ ed="R087" n="0071a11"/>定過。又云順違等者。九句中其六句是順。餘皆是<lb
+ ed="X" n="0877b18"/><lb
+ ed="R087" n="0071a12"/>違喻。不同於因有親成義。故說順違。</ab></div><lb
+ ed="X" n="0877b19"/><lb
+ ed="R087" n="0071a13"/><div type='orig' level='2'><ab type='prose'>疏答因於有無說宗同異者。</ab></div><lb
+ ed="X" n="0877b20"/><lb
+ ed="R087" n="0071a14"/><div type='commentary' level='2'><ab type='prose'>由因於一處有說此為宗同喻。牒文可知。</ab></div><lb
+ ed="X" n="0877b21"/><lb
+ ed="R087" n="0071a15"/><div type='orig' level='2'><ab type='prose'>疏云彼若不許聲有法有亦成異品者。</ab></div><lb
+ ed="X" n="0877b22"/><lb
+ ed="R087" n="0071a16"/><div type='commentary' level='2'><ab type='prose'>立敵皆不許。方成異品。非唯他也。所立之宗。他既<lb
+ ed="X" n="0877b23"/><lb
+ ed="R087" n="0071a17"/>不許名異品。</ab></div><lb
+ ed="X" n="0877b24"/><lb
+ ed="R087" n="0071a18"/><div type='orig' level='2'><ab type='prose'>疏非別無彼言所陳法及與法者。</ab></div><pb ed="X" id="X53.0855.0877c" n="0877c"/><lb
+ ed="X" n="0877c01"/><lb
+ ed="R087" n="0071b01"/><div type='commentary' level='2'><ab type='prose'>意異品但無所立之法。一切異品。非要二無。</ab></div><lb
+ ed="X" n="0877c02"/><lb
+ ed="R087" n="0071b02"/><div type='orig' level='2'><ab type='prose'>疏答聲無常性是滅義等至體是生義者。</ab></div><lb
+ ed="X" n="0877c03"/><lb
+ ed="R087" n="0071b03"/><div type='commentary' level='2'><ab type='prose'>此證無常義也。然非彼別無言所陳法。然龜毛非<lb
+ ed="X" n="0877c04"/><lb
+ ed="R087" n="0071b04"/>同可爾。非不成。既無無常及是常也。故是異收非<lb
+ ed="X" n="0877c05"/><lb
+ ed="R087" n="0071b05"/>俱句。</ab></div><lb
+ ed="X" n="0877c06"/><lb
+ ed="R087" n="0071b06"/><div type='orig' level='2'><ab type='prose'>疏此二師皆有一分一切內外異性者。</ab></div><lb
+ ed="X" n="0877c07"/><lb
+ ed="R087" n="0071b07"/><div type='commentary' level='2'><ab type='prose'>一分或內外。一切內外俱。又云一體多體者。此二<lb
+ ed="X" n="0877c08"/><lb
+ ed="R087" n="0071b08"/>所許法。有兩種。一計一切法有。一能詮聲。如大乘<lb
+ ed="X" n="0877c09"/><lb
+ ed="R087" n="0071b09"/>真如。二者諸法各有一能詮聲。如薩婆多攝滅。</ab></div><lb
+ ed="X" n="0877c10"/><lb
+ ed="R087" n="0071b10"/><div type='orig' level='2'><ab type='prose'>疏亦能成立空無我等隨其所應非取一切者。</ab></div><lb
+ ed="X" n="0877c11"/><lb
+ ed="R087" n="0071b11"/><div type='commentary' level='2'><ab type='prose'>意明。因不唯成。聲者有常。亦不總成有法。諸義各<lb
+ ed="X" n="0877c12"/><lb
+ ed="R087" n="0071b12"/>成之者。即不定如名可解。疏所作因。於其異一分<lb
+ ed="X" n="0877c13"/><lb
+ ed="R087" n="0071b13"/>轉。解無為故。</ab></div><lb
+ ed="X" n="0877c14"/><lb
+ ed="R087" n="0071b14"/><div type='orig' level='2'><ab type='prose'>疏若不同異於總宗等至名之為法者。</ab></div><lb
+ ed="X" n="0877c15"/><lb
+ ed="R087" n="0071b15"/><div type='commentary' level='2'><ab type='prose'>意云。所作宗家之法。以彼同此。名之為法。不同其<lb
+ ed="X" n="0877c16"/><lb
+ ed="R087" n="0071b16"/>宗者。但取瓶與無常不相離。是彼總宗種類相似。<lb
+ ed="X" n="0877c17"/><lb
+ ed="R087" n="0071b17"/>得言品別。</ab></div><lb
+ ed="X" n="0877c18"/><lb
+ ed="R087" n="0071b18"/><div type='orig' level='2'><ab type='prose'>疏又此所作非總所立者。</ab></div><pb ed="X" id="X53.0855.0878a" n="0878a"/><lb
+ ed="X" n="0878a01"/><lb
+ ed="R087" n="0072a01"/><div type='commentary' level='2'><ab type='prose'>即總所立所作。即是能立也。故結云能所異故。</ab></div><lb
+ ed="X" n="0878a02"/><lb
+ ed="R087" n="0072a02"/><div type='orig' level='2'><ab type='prose'>疏除宗以外至有無聚中有此共許不共許法者。</ab></div><lb
+ ed="X" n="0878a03"/><lb
+ ed="R087" n="0072a03"/><div type='commentary' level='2'><ab type='prose'>此意通說成有無宗故。喻通於有。又言即此共許<lb
+ ed="X" n="0878a04"/><lb
+ ed="R087" n="0072a04"/>不許者。有此宗中。皆共許所作。不共許無常法。</ab></div><lb
+ ed="X" n="0878a05"/><lb
+ ed="R087" n="0072a05"/><div type='orig' level='2'><ab type='prose'>疏若於爾時所立異品非一種敵者。</ab></div><lb
+ ed="X" n="0878a06"/><lb
+ ed="R087" n="0072a06"/><div type='commentary' level='2'><ab type='prose'>即所立之異品故。非異品即所立。</ab></div><lb
+ ed="X" n="0878a07"/><lb
+ ed="R087" n="0072a07"/><div type='orig' level='2'><ab type='prose'>疏應以有法為異品者。</ab></div><lb
+ ed="X" n="0878a08"/><lb
+ ed="R087" n="0072a08"/><div type='commentary' level='2'><ab type='prose'>意云。所成無此異。應有彼宗。更有體實法。遠以無<lb
+ ed="X" n="0878a09"/><lb
+ ed="R087" n="0072a09"/>為其異也。</ab></div><lb
+ ed="X" n="0878a10"/><lb
+ ed="R087" n="0072a10"/><div type='orig' level='2'><ab type='prose'>疏若無為宗有非能成因無所依者。</ab></div><lb
+ ed="X" n="0878a11"/><lb
+ ed="R087" n="0072a11"/><div type='commentary' level='2'><ab type='prose'>意言。有因不依無法也。問無宗之中。即法有者。有<lb
+ ed="X" n="0878a12"/><lb
+ ed="R087" n="0072a12"/>既所作依。得成無宗以不。答雖無此過。更有餘過。<lb
+ ed="X" n="0878a13"/><lb
+ ed="R087" n="0072a13"/>有餘過。有問無因依有有法。成無二宗不。時是所<lb
+ ed="X" n="0878a14"/><lb
+ ed="R087" n="0072a14"/>依不成過不。答非此過也。故不云無因依有法。有<lb
+ ed="X" n="0878a15"/><lb
+ ed="R087" n="0072a15"/>法通有無。問無因依有法。有無不是過。寧有因依<lb
+ ed="X" n="0878a16"/><lb
+ ed="R087" n="0072a16"/>有法。寧而無所依過。答因成無宗依。有不成過。有<lb
+ ed="X" n="0878a17"/><lb
+ ed="R087" n="0072a17"/>因不成無依。無即是過。</ab></div><lb
+ ed="X" n="0878a18"/><lb
+ ed="R087" n="0072a18"/><div type='orig' level='2'><ab type='prose'>疏勤勇因既同所作應言至又字者。</ab></div><lb
+ ed="X" n="0878a19"/><lb
+ ed="R087" n="0072b01"/><div type='commentary' level='2'><ab type='prose'>意云。餘義皆同所作。此因又加不過不樂也。簡前<lb
+ ed="X" n="0878a20"/><lb
+ ed="R087" n="0072b02"/>因故。應加不遍。</ab></div><lb
+ ed="X" n="0878a21"/><lb
+ ed="R087" n="0072b03"/><div type='orig' level='2'><ab type='prose'>疏如聲上義同許者。</ab></div><lb
+ ed="X" n="0878a22"/><lb
+ ed="R087" n="0072b04"/><div type='commentary' level='2'><ab type='prose'>無常所作也。問敵者先許無常。豈非相符之失。答<lb
+ ed="X" n="0878a23"/><lb
+ ed="R087" n="0072b05"/>先成不許。立因方許。故不成過。</ab></div><lb
+ ed="X" n="0878a24"/><lb
+ ed="R087" n="0072b06"/><div type='orig' level='2'><ab type='prose'>疏顯聲無常亦隨因同品義決定故者。</ab></div><pb ed="X" id="X53.0855.0878b" n="0878b"/><lb
+ ed="X" n="0878b01"/><lb
+ ed="R087" n="0072b07"/><div type='commentary' level='2'><ab type='prose'>意云。隨彼瓶上因同。故決定證。如聲無常。</ab></div><lb
+ ed="X" n="0878b02"/><lb
+ ed="R087" n="0072b08"/><div type='orig' level='2'><ab type='prose'>疏自瓶同品者。</ab></div><lb
+ ed="X" n="0878b03"/><lb
+ ed="R087" n="0072b09"/><div type='commentary' level='2'><ab type='prose'>雖是共喻。指敵為自也。</ab></div><lb
+ ed="X" n="0878b04"/><lb
+ ed="R087" n="0072b10"/><div type='orig' level='2'><ab type='prose'>疏云言異宗異因謂更別成他義同品者。</ab></div><lb
+ ed="X" n="0878b05"/><lb
+ ed="R087" n="0072b11"/><div type='commentary' level='2'><ab type='prose'>意言。異宗異因。即謂成立別異之宗因故。且如四<lb
+ ed="X" n="0878b06"/><lb
+ ed="R087" n="0072b12"/>支等者。即四軍也。</ab></div><lb
+ ed="X" n="0878b07"/><lb
+ ed="R087" n="0072b13"/><div type='orig' level='2'><ab type='prose'>疏十色處定非實有等至佛已外皆佛得者。</ab></div><lb
+ ed="X" n="0878b08"/><lb
+ ed="R087" n="0072b14"/><div type='commentary' level='2'><ab type='prose'>且彼十色處內。五識無間意識并定心。現量所緣<lb
+ ed="X" n="0878b09"/><lb
+ ed="R087" n="0072b15"/>五塵。及佛心所緣十色處。皆現量所緣實有。除此<lb
+ ed="X" n="0878b10"/><lb
+ ed="R087" n="0072b16"/>所明。皆比量解實有法也。問二乘他心智及無漏<lb
+ ed="X" n="0878b11"/><lb
+ ed="R087" n="0072b17"/>心。何故不緣。答他心即緣他心。無漏緣真理故。不<lb
+ ed="X" n="0878b12"/><lb
+ ed="R087" n="0072b18"/>緣根也。</ab></div><lb
+ ed="X" n="0878b13"/><lb
+ ed="R087" n="0073a01"/><div type='orig' level='2'><ab type='prose'>疏引自為證他未信從者。</ab></div><lb
+ ed="X" n="0878b14"/><lb
+ ed="R087" n="0073a02"/><div type='commentary' level='2'><ab type='prose'>此意云。引自聖教。欲令他信。返自毀背。小行非過。</ab></div><lb
+ ed="X" n="0878b15"/><lb
+ ed="R087" n="0073a03"/><div type='orig' level='2'><ab type='prose'>疏對敵申宗必能乖競故者。</ab></div><lb
+ ed="X" n="0878b16"/><lb
+ ed="R087" n="0073a04"/><div type='commentary' level='2'><ab type='prose'>意說云。違他順己。名之宗乃。故違他教。不名過也。<lb
+ ed="X" n="0878b17"/><lb
+ ed="R087" n="0073a05"/>懷菟者藏也。義意說月中有菟也。</ab></div><lb
+ ed="X" n="0878b18"/><lb
+ ed="R087" n="0073a06"/><div type='orig' level='2'><ab type='prose'>疏簡諸小乘後身菩薩諸色者。</ab></div><lb
+ ed="X" n="0878b19"/><lb
+ ed="R087" n="0073a07"/><div type='commentary' level='2'><ab type='prose'>彼宗所說釋迦之身。為最後身也。三十心前有□<lb
+ ed="X" n="0878b20"/><lb
+ ed="R087" n="0073a08"/>恚覺。起染汙身語。彼自許初三攝。眼識不攝故。猶<lb
+ ed="X" n="0878b21"/><lb
+ ed="R087" n="0073a09"/>如眼根者。此二我等薩婆多自許因喻。故下疏中。<lb
+ ed="X" n="0878b22"/><lb
+ ed="R087" n="0073a10"/>前據有法自相決定相違。後作法自相相違者。二<lb
+ ed="X" n="0878b23"/><lb
+ ed="R087" n="0073a11"/>俱錯。大乘疎所緣緣。與能緣識不定相離。離其生<lb
+ ed="X" n="0878b24"/><lb
+ ed="R087" n="0073a12"/>比量為別。</ab></div><pb ed="X" id="X53.0855.0878c" n="0878c"/><lb
+ ed="X" n="0878c01"/><lb
+ ed="R087" n="0073a13"/><div type='orig' level='2'><ab type='prose'>疏又同喻亦有所立不成等至非定即離者。</ab></div><lb
+ ed="X" n="0878c02"/><lb
+ ed="R087" n="0073a14"/><div type='commentary' level='2'><ab type='prose'>共許因識果道理。而非即離。今言定離。即喻中所<lb
+ ed="X" n="0878c03"/><lb
+ ed="R087" n="0073a15"/>立不成。又言說成事智等者。據自宗難。我宗眼根。<lb
+ ed="X" n="0878c04"/><lb
+ ed="R087" n="0073a16"/>及相分俱不離。問相親可爾。質疎如何。答由質有<lb
+ ed="X" n="0878c05"/><lb
+ ed="R087" n="0073a17"/>相。相從不離。又言有離義者。意說言有二違。豈定<lb
+ ed="X" n="0878c06"/><lb
+ ed="R087" n="0073a18"/>不離耶。返顯不離之義。問大乘質相分。既不離識。<lb
+ ed="X" n="0878c07"/><lb
+ ed="R087" n="0073b01"/>如何有離中知。答約勢用近者。是合中知。勢用遠<lb
+ ed="X" n="0878c08"/><lb
+ ed="R087" n="0073b02"/>者。是離知義。問大乘何相定離。答根發識故即定<lb
+ ed="X" n="0878c09"/><lb
+ ed="R087" n="0073b03"/>也。是前決定過。云非定不離。</ab></div><lb
+ ed="X" n="0878c10"/><lb
+ ed="R087" n="0073b04"/><div type='orig' level='2'><ab type='prose'>疏云此說決定自語相違者。</ab></div><lb
+ ed="X" n="0878c11"/><lb
+ ed="R087" n="0073b05"/><div type='commentary' level='2'><ab type='prose'>簡猶預。</ab></div><lb
+ ed="X" n="0878c12"/><lb
+ ed="R087" n="0073b06"/><div type='orig' level='2'><ab type='prose'>疏問若說我是思等至如何立我等為有者。</ab></div><lb
+ ed="X" n="0878c13"/><lb
+ ed="R087" n="0073b07"/><div type='commentary' level='2'><ab type='prose'>此問言前於此法名。所別不成者。一切位不許法。<lb
+ ed="X" n="0878c14"/><lb
+ ed="R087" n="0073b08"/>如何立得。</ab></div><lb
+ ed="X" n="0878c15"/><lb
+ ed="R087" n="0073b09"/><div type='orig' level='2'><ab type='prose'>疏若有所別即便無過又言能隨詮等者。</ab></div><lb
+ ed="X" n="0878c16"/><lb
+ ed="R087" n="0073b10"/><div type='commentary' level='2'><ab type='prose'>意云。既有能詮所顯。義之立者簡略之。無前過。不<lb
+ ed="X" n="0878c17"/><lb
+ ed="R087" n="0073b11"/>爾便成所別不成。</ab></div><lb
+ ed="X" n="0878c18"/><lb
+ ed="R087" n="0073b12"/><div type='orig' level='2'><ab type='prose'>疏上二過。</ab></div><pb ed="X" id="X53.0855.0879a" n="0879a"/><lb
+ ed="X" n="0879a01"/><lb
+ ed="R087" n="0073b13"/><div type='commentary' level='2'><ab type='prose'>已下初言初過。將初為錯。應安後言。後過應言初<lb
+ ed="X" n="0879a02"/><lb
+ ed="R087" n="0073b14"/>宗也。即應言後過所依不成。能別有初過。應言能<lb
+ ed="X" n="0879a03"/><lb
+ ed="R087" n="0073b15"/>別不成所別有。故疏言初後字錯。</ab></div><lb
+ ed="X" n="0879a04"/><lb
+ ed="R087" n="0073b16"/><div type='orig' level='2'><ab type='prose'>疏由是所立不與能依所依名者。</ab></div><lb
+ ed="X" n="0879a05"/><lb
+ ed="R087" n="0073b17"/><div type='commentary' level='2'><ab type='prose'>總宗非所別。亦非是能別。故非所依也。</ab></div><lb
+ ed="X" n="0879a06"/><lb
+ ed="R087" n="0073b18"/><div type='orig' level='2'><ab type='prose'>疏七由是所立□與能依之名者。</ab></div><lb
+ ed="X" n="0879a07"/><lb
+ ed="R087" n="0074a01"/><div type='commentary' level='2'><ab type='prose'>雖未審決。且分不相離性為所立。不與能依所依<lb
+ ed="X" n="0879a08"/><lb
+ ed="R087" n="0074a02"/>名。應亦無失。疏意云。□所許實非攝者。唯他宗中<lb
+ ed="X" n="0879a09"/><lb
+ ed="R087" n="0074a03"/>四大種內。非無有實然非實亦是實□差別。</ab></div><lb
+ ed="X" n="0879a10"/><lb
+ ed="R087" n="0074a04"/><div type='orig' level='2'><ab type='prose'>疏如違他現非違自教者。</ab></div><lb
+ ed="X" n="0879a11"/><lb
+ ed="R087" n="0074a05"/><div type='commentary' level='2'><ab type='prose'>如佛法對勝論云。地水火三。非眼所見。彼宗自謂<lb
+ ed="X" n="0879a12"/><lb
+ ed="R087" n="0074a06"/>現所見故。</ab></div><lb
+ ed="X" n="0879a13"/><lb
+ ed="R087" n="0074a07"/><div type='orig' level='2'><ab type='prose'>疏如唯違自現及能別不成者。</ab></div><lb
+ ed="X" n="0879a14"/><lb
+ ed="R087" n="0074a08"/><div type='commentary' level='2'><ab type='prose'>如大乘對一切有。除佛定心所緣眼根。是我由宗<lb
+ ed="X" n="0879a15"/><lb
+ ed="R087" n="0074a09"/>許定心緣眼等故。他宗不許我即兩。</ab></div><lb
+ ed="X" n="0879a16"/><lb
+ ed="R087" n="0074a10"/><div type='orig' level='2'><ab type='prose'>疏八合有四句者。</ab></div><lb
+ ed="X" n="0879a17"/><lb
+ ed="R087" n="0074a11"/><div type='commentary' level='2'><ab type='prose'>初四除第九。二四除第三。四四中除第一。</ab></div><lb
+ ed="X" n="0879a18"/><lb
+ ed="R087" n="0074a12"/><div type='orig' level='2'><ab type='prose'>疏此論所說現量相違有四過等者。</ab></div><lb
+ ed="X" n="0879a19"/><lb
+ ed="R087" n="0074a13"/><div type='commentary' level='2'><ab type='prose'>此指論中作法過論。</ab></div><lb
+ ed="X" n="0879a20"/><lb
+ ed="R087" n="0074a14"/><div type='orig' level='2'><ab type='prose'>疏皆有自他俱者。</ab></div><lb
+ ed="X" n="0879a21"/><lb
+ ed="R087" n="0074a15"/><div type='commentary' level='2'><ab type='prose'>俱即自他俱違。不俱即自他俱不違也。</ab></div><lb
+ ed="X" n="0879a22"/><lb
+ ed="R087" n="0074a16"/><div type='orig' level='2'><ab type='prose'>疏如以自現相對為句。</ab></div><lb
+ ed="X" n="0879a23"/><lb
+ ed="R087" n="0074a17"/><div type='commentary' level='2'><ab type='prose'>此中應言二四句全分一分也。</ab></div><lb
+ ed="X" n="0879a24"/><lb
+ ed="R087" n="0074a18"/><div type='orig' level='2'><ab type='prose'>疏或同異宗者。</ab></div><pb ed="X" id="X53.0855.0879b" n="0879b"/><lb
+ ed="X" n="0879b01"/><lb
+ ed="R087" n="0074b01"/><div type='commentary' level='2'><ab type='prose'>此因同彼異品因也。</ab></div><lb
+ ed="X" n="0879b02"/><lb
+ ed="R087" n="0074b02"/><div type='orig' level='2'><ab type='prose'>疏云無因依有法有法通有無者。</ab></div><lb
+ ed="X" n="0879b03"/><lb
+ ed="R087" n="0074b03"/><div type='commentary' level='2'><ab type='prose'>餘處復云無因不得成有。成有彼約所成之法。此<lb
+ ed="X" n="0879b04"/><lb
+ ed="R087" n="0074b04"/>約因云非佛語所不攝。亦許發智非佛語不。答且<lb
+ ed="X" n="0879b05"/><lb
+ ed="R087" n="0074b05"/>除發智故。有後後有難難等言。且發智論。自許佛<lb
+ ed="X" n="0879b06"/><lb
+ ed="R087" n="0074b06"/>說者。此舉彼宗。一分陳義。擬作不定過。又言餘小<lb
+ ed="X" n="0879b07"/><lb
+ ed="R087" n="0074b07"/>乘者即除故。彼宗一分說之者。餘一切小乘宗及<lb
+ ed="X" n="0879b08"/><lb
+ ed="R087" n="0074b08"/>大乘者。共許發智論是集佛語。而非佛說。亦非外<lb
+ ed="X" n="0879b09"/><lb
+ ed="R087" n="0074b09"/>道六足攝。故言兩俱極成。非佛不攝也。非佛語者<lb
+ ed="X" n="0879b10"/><lb
+ ed="R087" n="0074b10"/>即外道六足等。又言是非佛語攝。此言非佛語。非<lb
+ ed="X" n="0879b11"/><lb
+ ed="R087" n="0074b11"/>是外道六足等名非佛語。佛語佛顯不定。</ab></div><lb
+ ed="X" n="0879b12"/><lb
+ ed="R087" n="0074b12"/><div type='orig' level='2'><ab type='prose'>疏因犯一分兩俱不成。</ab></div><lb
+ ed="X" n="0879b13"/><lb
+ ed="R087" n="0074b13"/><div type='commentary' level='2'><ab type='prose'>意顯發智入宗一分。及大乘者。俱不許彼非佛□<lb
+ ed="X" n="0879b14"/><lb
+ ed="R087" n="0074b14"/>不攝。豈汝大乘。許非佛語不攝。豈汝大乘許非佛<lb
+ ed="X" n="0879b15"/><lb
+ ed="R087" n="0074b15"/>語耶。□解兩俱等者。文前大引發智。以為不定。即<lb
+ ed="X" n="0879b16"/><lb
+ ed="R087" n="0074b16"/>是此因。於有法攝發智為宗。因有兩俱不成。此因<lb
+ ed="X" n="0879b17"/><lb
+ ed="R087" n="0074b17"/>乃於發智上無前後相違者。意云前約非佛語所<lb
+ ed="X" n="0879b18"/><lb
+ ed="R087" n="0074b18"/>不攝言。非外道語之所攝。於發智上有。後約是佛<lb
+ ed="X" n="0879b19"/><lb
+ ed="R087" n="0075a01"/>語故。發智上無不相違。</ab></div><lb
+ ed="X" n="0879b20"/><lb
+ ed="R087" n="0075a02"/><div type='orig' level='2'><ab type='prose'>疏為如自許發智者。</ab></div><lb
+ ed="X" n="0879b21"/><lb
+ ed="R087" n="0075a03"/><div type='commentary' level='2'><ab type='prose'>如大乘自許一分不許及大乘兩俱極俱極成非<lb
+ ed="X" n="0879b22"/><lb
+ ed="R087" n="0075a04"/>是外道六足所攝。不說名非佛語。與前釋義殊。是<lb
+ ed="X" n="0879b23"/><lb
+ ed="R087" n="0075a05"/>一因言。含此二義。所望有異。隨應出過。</ab></div><lb
+ ed="X" n="0879b24"/><lb
+ ed="R087" n="0075a06"/><div type='orig' level='2'><ab type='prose'>疏如於角決定於牛有疑者。</ab></div><pb ed="X" id="X53.0855.0879c" n="0879c"/><lb
+ ed="X" n="0879c01"/><lb
+ ed="R087" n="0075a07"/><div type='commentary' level='2'><ab type='prose'>此即所別決定。能別有疑。有人隔墻見角。決知牛<lb
+ ed="X" n="0879c02"/><lb
+ ed="R087" n="0075a08"/>角為望為牛戴。後或於火定煙有疑者。即是能別<lb
+ ed="X" n="0879c03"/><lb
+ ed="R087" n="0075a09"/>定。所別不定。如言煙下有火。立火見於火故。決定<lb
+ ed="X" n="0879c04"/><lb
+ ed="R087" n="0075a10"/>對敵申宗。自生心疑預。謂烟是火家之相。今既對<lb
+ ed="X" n="0879c05"/><lb
+ ed="R087" n="0075a11"/>敵申宗。俱於烟上起疑。不相火上生疑也。</ab></div><lb
+ ed="X" n="0879c06"/><lb
+ ed="R087" n="0075a12"/><div type='orig' level='2'><ab type='prose'>疏若等俱疑即是兩俱不成極成等者。</ab></div><lb
+ ed="X" n="0879c07"/><lb
+ ed="R087" n="0075a13"/><div type='commentary' level='2'><ab type='prose'>上兩俱言。含於二義。謂能所別及自他俱。下兩俱<lb
+ ed="X" n="0879c08"/><lb
+ ed="R087" n="0075a14"/>言亦即能所別俱。俱不極者。及自他也。</ab></div><lb
+ ed="X" n="0879c09"/><lb
+ ed="R087" n="0075a15"/><div type='orig' level='2'><ab type='prose'>疏前似宗但說所依無等至有體猶預俱不成者。</ab></div><lb
+ ed="X" n="0879c10"/><lb
+ ed="R087" n="0075a16"/><div type='commentary' level='2'><ab type='prose'>意云。前據無體。不說猶預不成。疑決異故。今說有<lb
+ ed="X" n="0879c11"/><lb
+ ed="R087" n="0075a17"/>有體故有。猶預不成。猶者犬也。預者前也。猶如犬<lb
+ ed="X" n="0879c12"/><lb
+ ed="R087" n="0075a18"/>子在於前行。至於岐路。以待人故。今時猶預。亦該<lb
+ ed="X" n="0879c13"/><lb
+ ed="R087" n="0075b01"/>如是。至於雲烟露等不決定。故名猶預。</ab></div><lb
+ ed="X" n="0879c14"/><lb
+ ed="R087" n="0075b02"/><div type='orig' level='2'><ab type='prose'>疏答因雖三相唯初一相等至名不成者。</ab></div><lb
+ ed="X" n="0879c15"/><lb
+ ed="R087" n="0075b03"/><div type='commentary' level='2'><ab type='prose'>此舉例也。言餘宗具者。現量等也。言合二建宗者。<lb
+ ed="X" n="0879c16"/><lb
+ ed="R087" n="0075b04"/>此釋能別所得成宗名。翻此宗得不成之名也。言<lb
+ ed="X" n="0879c17"/><lb
+ ed="R087" n="0075b05"/>成宗義疎者。舊釋宗具言故。但名不定。相違者。因<lb
+ ed="X" n="0879c18"/><lb
+ ed="R087" n="0075b06"/>後二相。</ab></div><lb
+ ed="X" n="0879c19"/><lb
+ ed="R087" n="0075b07"/><div type='orig' level='2'><ab type='prose'>疏云諸有皆不共者。</ab></div><lb
+ ed="X" n="0879c20"/><lb
+ ed="R087" n="0075b08"/><div type='commentary' level='2'><ab type='prose'>意明凡是不共因言諸有也。</ab></div><lb
+ ed="X" n="0879c21"/><lb
+ ed="R087" n="0075b09"/><div type='orig' level='2'><ab type='prose'>疏如山野草者。</ab></div><lb
+ ed="X" n="0879c22"/><lb
+ ed="R087" n="0075b10"/><div type='commentary' level='2'><ab type='prose'>此喻可解。意明其不共因。雖不屬同異品。然有隨<lb
+ ed="X" n="0879c23"/><lb
+ ed="R087" n="0075b11"/>成一宗之義。其量如何。且如立聲常宗。所聞於瓶<lb
+ ed="X" n="0879c24"/><lb
+ ed="R087" n="0075b12"/>並無。其空雖是宗之同品。然是因之異法。若有取<pb ed="X" id="X53.0855.0880a" n="0880a"/><lb
+ ed="X" n="0880a01"/><lb
+ ed="R087" n="0075b13"/>彼瓶為異喻。返顯常無常。故云不定。</ab></div><lb
+ ed="X" n="0880a02"/><lb
+ ed="R087" n="0075b14"/><div type='orig' level='2'><ab type='prose'>疏離繫親子至我有命等者。</ab></div><lb
+ ed="X" n="0880a03"/><lb
+ ed="R087" n="0075b15"/><div type='commentary' level='2'><ab type='prose'>是彼苗𧜟故。凡言親子聲是無命。不能增長。如胡<lb
+ ed="X" n="0880a04"/><lb
+ ed="R087" n="0075b16"/>瓜等緣樹上難。故言無命。返此即心有命。</ab></div><lb
+ ed="X" n="0880a05"/><lb
+ ed="R087" n="0075b17"/><div type='orig' level='2'><ab type='prose'>疏然俱可得一義相違者。</ab></div><lb
+ ed="X" n="0880a06"/><lb
+ ed="R087" n="0075b18"/><div type='commentary' level='2'><ab type='prose'>謂有一義能與彼違不容有。故是猶預。</ab></div><lb
+ ed="X" n="0880a07"/><lb
+ ed="R087" n="0076a01"/><div type='orig' level='2'><ab type='prose'>疏所生皆合一能生皆離多者。</ab></div><lb
+ ed="X" n="0880a08"/><lb
+ ed="R087" n="0076a02"/><div type='commentary' level='2'><ab type='prose'>意能生皆有父母。所生之子唯一。乃至少分地。子<lb
+ ed="X" n="0880a09"/><lb
+ ed="R087" n="0076a03"/>唯一微。父母容多。問子微不越因量者。為子越一。<lb
+ ed="X" n="0880a10"/><lb
+ ed="R087" n="0076a04"/>父母為總敵父母。解云唯識中。破彼許通二釋。</ab></div><lb
+ ed="X" n="0880a11"/><lb
+ ed="R087" n="0076a05"/><div type='orig' level='2'><ab type='prose'>疏不如同勝論聲性。</ab></div><lb
+ ed="X" n="0880a12"/><lb
+ ed="R087" n="0076a06"/><div type='commentary' level='2'><ab type='prose'>意簡兩宗聲性差別。其義如何。且二聲論。聲有二。<lb
+ ed="X" n="0880a13"/><lb
+ ed="R087" n="0076a07"/>一如大乘真如。二有宗攝滅。問勝論宗其聲性者。<lb
+ ed="X" n="0880a14"/><lb
+ ed="R087" n="0076a08"/>即同異更不別立。即同異性。遍一切法上聲。業等<lb
+ ed="X" n="0880a15"/><lb
+ ed="R087" n="0076a09"/>為性。是宗法有法猶預因。望猶預。如厨等中。立敵<lb
+ ed="X" n="0880a16"/><lb
+ ed="R087" n="0076a10"/>智因。如何說是猶預能立成不。此中汎問答也。問<lb
+ ed="X" n="0880a17"/><lb
+ ed="R087" n="0076a11"/>前句數初云。因猶預非喻。指如厨中等。何故又如<lb
+ ed="X" n="0880a18"/><lb
+ ed="R087" n="0076a12"/>厨等中。成猶預也。答據喻上不疑於煙。但因或斷。<lb
+ ed="X" n="0880a19"/><lb
+ ed="R087" n="0076a13"/>今約似能立中因。有猶預喻。設不疑亦無猶預。如<lb
+ ed="X" n="0880a20"/><lb
+ ed="R087" n="0076a14"/>相違決定中言。此二亦是猶預也。答意可知。</ab></div><lb
+ ed="X" n="0880a21"/><lb
+ ed="R087" n="0076a15"/><div type='orig' level='2'><ab type='prose'>疏此他比量相違決定者。</ab></div><lb
+ ed="X" n="0880a22"/><lb
+ ed="R087" n="0076a16"/><div type='commentary' level='2'><ab type='prose'>意說。雖自立是前比量。相違決定。</ab></div><lb
+ ed="X" n="0880a23"/><lb
+ ed="R087" n="0076a17"/><div type='orig' level='2'><ab type='prose'>疏無二自他若二自他俱真破彼非似立故。</ab></div><lb
+ ed="X" n="0880a24"/><lb
+ ed="R087" n="0076a18"/><div type='commentary' level='2'><ab type='prose'>意云。相違決定必須一自他及共。論中是其共也。<pb ed="X" id="X53.0855.0880b" n="0880b"/><lb
+ ed="X" n="0880b01"/><lb
+ ed="R087" n="0076b01"/>若二自俱真能立至三相具足立自義。若二他俱<lb
+ ed="X" n="0880b02"/><lb
+ ed="R087" n="0076b02"/>真能破三相。今云破他故。並非者也。立即相違不<lb
+ ed="X" n="0880b03"/><lb
+ ed="R087" n="0076b03"/>定也。</ab></div><lb
+ ed="X" n="0880b04"/><lb
+ ed="R087" n="0076b04"/><div type='orig' level='2'><ab type='prose'>疏自共比中諸自不定及共不定是不定過者。</ab></div><lb
+ ed="X" n="0880b05"/><lb
+ ed="R087" n="0076b05"/><div type='commentary' level='2'><ab type='prose'>問共中因有於他異品轉。何非不定。答不共許故。<lb
+ ed="X" n="0880b06"/><lb
+ ed="R087" n="0076b06"/>若爾望自異品。亦不共許。何共中為不定也。答若<lb
+ ed="X" n="0880b07"/><lb
+ ed="R087" n="0076b07"/>五比量。於自異轉。即相違自宗成過也。</ab></div><lb
+ ed="X" n="0880b08"/><lb
+ ed="R087" n="0076b08"/><div type='orig' level='2'><ab type='prose'>疏與相違法而為自故者。</ab></div><lb
+ ed="X" n="0880b09"/><lb
+ ed="R087" n="0076b09"/><div type='commentary' level='2'><ab type='prose'>如立常宗無常相違。名宗相違。其所作性而無常<lb
+ ed="X" n="0880b10"/><lb
+ ed="R087" n="0076b10"/>為因。名相違。依主釋。</ab></div><lb
+ ed="X" n="0880b11"/><lb
+ ed="R087" n="0076b11"/><div type='orig' level='2'><ab type='prose'>疏如無違法至定無有故者。</ab></div><lb
+ ed="X" n="0880b12"/><lb
+ ed="R087" n="0076b12"/><div type='commentary' level='2'><ab type='prose'>無違法者。謂所作因或無常宗。離諸過故。名無相<lb
+ ed="X" n="0880b13"/><lb
+ ed="R087" n="0076b13"/>違。法相違亦爾者。即所作性因。成若常宗。違無常<lb
+ ed="X" n="0880b14"/><lb
+ ed="R087" n="0076b14"/>之宗。亦無過失。故言相違亦爾也。相違所成法。無<lb
+ ed="X" n="0880b15"/><lb
+ ed="R087" n="0076b15"/>定無者故者。即異喻也。宗因不有也。</ab></div><lb
+ ed="X" n="0880b16"/><lb
+ ed="R087" n="0076b16"/><div type='orig' level='2'><ab type='prose'>疏問有因返宗不順因義等名相違者。</ab></div><lb
+ ed="X" n="0880b17"/><lb
+ ed="R087" n="0076b17"/><div type='commentary' level='2'><ab type='prose'>此問意云。常與無常兩宗相違。返與彼為因。名相<lb
+ ed="X" n="0880b18"/><lb
+ ed="R087" n="0076b18"/>違因。所作非作。二因相返。與彼為宗名相違。此問<lb
+ ed="X" n="0880b19"/><lb
+ ed="R087" n="0077a01"/>與前不同。前據宗因相違。返而為難也。答意可知。</ab></div><lb
+ ed="X" n="0880b20"/><lb
+ ed="R087" n="0077a02"/><div type='orig' level='2'><ab type='prose'>疏一自性謂我若有若無所成立者。</ab></div><lb
+ ed="X" n="0880b21"/><lb
+ ed="R087" n="0077a03"/><div type='commentary' level='2'><ab type='prose'>據有成其差。然立言我是有。意本立我。不亦成有。<lb
+ ed="X" n="0880b22"/><lb
+ ed="R087" n="0077a04"/>故說有無名所成立自性者也。然教小異因明。望<lb
+ ed="X" n="0880b23"/><lb
+ ed="R087" n="0077a05"/>雜集也。因明據言詮中。比量安立。局自體者。名自<lb
+ ed="X" n="0880b24"/><lb
+ ed="R087" n="0077a06"/>相也。如聲不通瓶上比量。心所安立貫他上共相<pb ed="X" id="X53.0855.0880c" n="0880c"/><lb
+ ed="X" n="0880c01"/><lb
+ ed="R087" n="0077a07"/>如見無常等也。此之二種現量智緣。總名自相。雜<lb
+ ed="X" n="0880c02"/><lb
+ ed="R087" n="0077a08"/>集等中法據爾體。而說色等。名自相。若名共相詮<lb
+ ed="X" n="0880c03"/><lb
+ ed="R087" n="0077a09"/>所不及。現量心緣。總名自義。亦有別者。前據局通。<lb
+ ed="X" n="0880c04"/><lb
+ ed="R087" n="0077a10"/>後依先後。</ab></div><lb
+ ed="X" n="0880c05"/><lb
+ ed="R087" n="0077a11"/><div type='orig' level='2'><ab type='prose'>疏如立聲無常宗常聲之上等至非彼緣性等者。</ab></div><lb
+ ed="X" n="0880c06"/><lb
+ ed="R087" n="0077a12"/><div type='commentary' level='2'><ab type='prose'>此中作法影略舉者。常無常中。各有差別也。非常<lb
+ ed="X" n="0880c07"/><lb
+ ed="R087" n="0077a13"/>互為差別也。</ab></div><lb
+ ed="X" n="0880c08"/><lb
+ ed="R087" n="0077a14"/><div type='orig' level='2'><ab type='prose'>疏床座通二者。</ab></div><lb
+ ed="X" n="0880c09"/><lb
+ ed="R087" n="0077a15"/><div type='commentary' level='2'><ab type='prose'>法師云。此將錯。應云准積也。</ab></div><lb
+ ed="X" n="0880c10"/><lb
+ ed="R087" n="0077a16"/><div type='orig' level='2'><ab type='prose'>疏眼等唯為實他受用等至唯彼假他用者。</ab></div><lb
+ ed="X" n="0880c11"/><lb
+ ed="R087" n="0077a17"/><div type='commentary' level='2'><ab type='prose'>即逆次結上二解也。</ab></div><lb
+ ed="X" n="0880c12"/><lb
+ ed="R087" n="0077a18"/><div type='orig' level='2'><ab type='prose'>疏勝義七十者。</ab></div><lb
+ ed="X" n="0880c13"/><lb
+ ed="R087" n="0077b01"/><div type='commentary' level='2'><ab type='prose'>即世親菩薩將欲義破彼。惡言他宗故。此論釋金<lb
+ ed="X" n="0880c14"/><lb
+ ed="R087" n="0077b02"/>七十釋本義。并為勝義。</ab></div><lb
+ ed="X" n="0880c15"/><lb
+ ed="R087" n="0077b03"/><div type='orig' level='2'><ab type='prose'>疏有漏者。</ab></div><lb
+ ed="X" n="0880c16"/><lb
+ ed="R087" n="0077b04"/><div type='commentary' level='2'><ab type='prose'>有於二釋。一即色能有彼能緣煩惱。能緣緣煩惱。<lb
+ ed="X" n="0880c17"/><lb
+ ed="R087" n="0077b05"/>為所有也。二云由煩惱發業。盛於色等。即漏所起<lb
+ ed="X" n="0880c18"/><lb
+ ed="R087" n="0077b06"/>有漏也。</ab></div><lb
+ ed="X" n="0880c19"/><lb
+ ed="R087" n="0077b07"/><div type='orig' level='2'><ab type='prose'>疏空有聲空。</ab></div><lb
+ ed="X" n="0880c20"/><lb
+ ed="R087" n="0077b08"/><div type='commentary' level='2'><ab type='prose'>非有離之外無別能有。聲不無故。亦有聲也。</ab></div><lb
+ ed="X" n="0880c21"/><lb
+ ed="R087" n="0077b09"/><div type='orig' level='2'><ab type='prose'>疏以其同喻亦犯能立不成者。</ab></div><lb
+ ed="X" n="0880c22"/><lb
+ ed="R087" n="0077b10"/><div type='commentary' level='2'><ab type='prose'>謂以無實為因。同異喻不能有於和合。和合句義。<lb
+ ed="X" n="0880c23"/><lb
+ ed="R087" n="0077b11"/>即無實也。故言能立不成。</ab></div><lb
+ ed="X" n="0880c24"/><lb
+ ed="R087" n="0077b12"/><div type='orig' level='2'><ab type='prose'>疏亦不遍者。</ab></div><pb ed="X" id="X53.0855.0881a" n="0881a"/><lb
+ ed="X" n="0881a01"/><lb
+ ed="R087" n="0077b13"/><div type='commentary' level='2'><ab type='prose'>謂有無實因不遍有法。立者不許有法。有於和合<lb
+ ed="X" n="0881a02"/><lb
+ ed="R087" n="0077b14"/>句義。敵者不許。即實非無之有性。有於和合。故言<lb
+ ed="X" n="0881a03"/><lb
+ ed="R087" n="0077b15"/>因亦不遍也。</ab></div><lb
+ ed="X" n="0881a04"/><lb
+ ed="R087" n="0077b16"/><div type='orig' level='2'><ab type='prose'>疏乍似唯有於至一一皆有者。</ab></div><lb
+ ed="X" n="0881a05"/><lb
+ ed="R087" n="0077b17"/><div type='commentary' level='2'><ab type='prose'>若言有無實因。乍似唯有實句之中。父母本微時。<lb
+ ed="X" n="0881a06"/><lb
+ ed="R087" n="0077b18"/>方等無實。不能有子微已去一一實也。</ab></div><lb
+ ed="X" n="0881a07"/><lb
+ ed="R087" n="0078a01"/><div type='orig' level='2'><ab type='prose'>疏既以離實有性而性同品亦是宗中所立法者。</ab></div><lb
+ ed="X" n="0881a08"/><lb
+ ed="R087" n="0078a02"/><div type='commentary' level='2'><ab type='prose'>意云。立者比量云。有性有法。非實德業。是宗中法。<lb
+ ed="X" n="0881a09"/><lb
+ ed="R087" n="0078a03"/>立者意許非實德業。即是離實大有性也。故此有<lb
+ ed="X" n="0881a10"/><lb
+ ed="R087" n="0078a04"/>性是所立法。</ab></div><lb
+ ed="X" n="0881a11"/><lb
+ ed="R087" n="0078a05"/><div type='orig' level='2'><ab type='prose'>疏答彼宗意許等至是違自相者。</ab></div><lb
+ ed="X" n="0881a12"/><lb
+ ed="R087" n="0078a06"/><div type='commentary' level='2'><ab type='prose'>此說意云。離實有性。望意許邊。是於差別言有。即<lb
+ ed="X" n="0881a13"/><lb
+ ed="R087" n="0078a07"/>同離實有。違此意許。離實有自相。且無同有法之<lb
+ ed="X" n="0881a14"/><lb
+ ed="R087" n="0078a08"/>言。豈不合於即離。何但違離實有性自相。即許無<lb
+ ed="X" n="0881a15"/><lb
+ ed="R087" n="0078a09"/>耶。答即實有性。唯在敵許故。違意許之時。自相即<lb
+ ed="X" n="0881a16"/><lb
+ ed="R087" n="0078a10"/>無也。不同眼等他用之宗。彼立者許他用言中。八<lb
+ ed="X" n="0881a17"/><lb
+ ed="R087" n="0078a11"/>於真假。且意許立真因。返成假故。是差別因也。以<lb
+ ed="X" n="0881a18"/><lb
+ ed="R087" n="0078a12"/>一分法自相也。</ab></div><lb
+ ed="X" n="0881a19"/><lb
+ ed="R087" n="0078a13"/><div type='orig' level='2'><ab type='prose'>疏無德無動作者。</ab></div><lb
+ ed="X" n="0881a20"/><lb
+ ed="R087" n="0078a14"/><div type='commentary' level='2'><ab type='prose'>意明大有非德業。依無細分者。有體是一。不如同<lb
+ ed="X" n="0881a21"/><lb
+ ed="R087" n="0078a15"/>異有別也。</ab></div><lb
+ ed="X" n="0881a22"/><lb
+ ed="R087" n="0078a16"/><div type='orig' level='2'><ab type='prose'>疏一有同詮緣因者。</ab></div><lb
+ ed="X" n="0881a23"/><lb
+ ed="R087" n="0078a17"/><div type='commentary' level='2'><ab type='prose'>實德業三同有一。故名為有。以此為因。起同緣智<lb
+ ed="X" n="0881a24"/><lb
+ ed="R087" n="0078a18"/>也。如小乘立同分者也。</ab></div><pb ed="X" id="X53.0855.0881b" n="0881b"/><lb
+ ed="X" n="0881b01"/><lb
+ ed="R087" n="0078b01"/><div type='orig' level='2'><ab type='prose'>疏意許差別為有緣性至詮言乃別故彼不取者。</ab></div><lb
+ ed="X" n="0881b02"/><lb
+ ed="R087" n="0078b02"/><div type='commentary' level='2'><ab type='prose'>謂同異性也。</ab></div><lb
+ ed="X" n="0881b03"/><lb
+ ed="R087" n="0078b03"/><div type='orig' level='2'><ab type='prose'>疏有無之有者從同異性已來有者。</ab></div><lb
+ ed="X" n="0881b04"/><lb
+ ed="R087" n="0078b04"/><div type='commentary' level='2'><ab type='prose'>總是有無之有。意說有性即有能緣性。不言有是<lb
+ ed="X" n="0881b05"/><lb
+ ed="R087" n="0078b05"/>大有。所以五頂立量難云。有性應非作有性。有緣<lb
+ ed="X" n="0881b06"/><lb
+ ed="R087" n="0078b06"/>性有一實故。如同異性。此量必然更煩。如加改云。<lb
+ ed="X" n="0881b07"/><lb
+ ed="R087" n="0078b07"/>有法自相相違者。必自宗無此有法。方可與他作<lb
+ ed="X" n="0881b08"/><lb
+ ed="R087" n="0078b08"/>相違因。所別極成。定無此過。若與他相違過者。違<lb
+ ed="X" n="0881b09"/><lb
+ ed="R087" n="0078b09"/>自宗故。大有緣性。雖同大有。同異詮言各別立者。<lb
+ ed="X" n="0881b10"/><lb
+ ed="R087" n="0078b10"/>定立大有有緣性故。彼不取同異有緣性。為有法<lb
+ ed="X" n="0881b11"/><lb
+ ed="R087" n="0078b11"/>差別。屬古師。</ab></div><lb
+ ed="X" n="0881b12"/><lb
+ ed="R087" n="0078b12"/><div type='orig' level='2'><ab type='prose'>疏義竅定者。</ab></div><lb
+ ed="X" n="0881b13"/><lb
+ ed="R087" n="0078b13"/><div type='commentary' level='2'><ab type='prose'>意云。義作大有非有緣性也。恐有過故。論文中略<lb
+ ed="X" n="0881b14"/><lb
+ ed="R087" n="0078b14"/>也。</ab></div><lb
+ ed="X" n="0881b15"/><lb
+ ed="R087" n="0078b15"/><div type='orig' level='2'><ab type='prose'>疏問如聲論言聲應非作聲有緣性等至有法差別<lb
+ ed="X" n="0881b16"/><lb
+ ed="R087" n="0078b16"/>相違者。</ab></div><lb
+ ed="X" n="0881b17"/><lb
+ ed="R087" n="0078b17"/><div type='commentary' level='2'><ab type='prose'>此中意謂。佛法對彼立聲無常。即聲論與佛法。作<lb
+ ed="X" n="0881b18"/><lb
+ ed="R087" n="0078b18"/>有法差別相違也。問佛法豈亦意許其聲作有□<lb
+ ed="X" n="0881b19"/><lb
+ ed="R087" n="0079a01"/>性。解云亦許其聲耳所緣性。又答中言應非擊發。<lb
+ ed="X" n="0881b20"/><lb
+ ed="R087" n="0079a02"/>寄唯此知之。</ab></div><lb
+ ed="X" n="0881b21"/><lb
+ ed="R087" n="0079a03"/><div type='orig' level='2'><ab type='prose'>疏軌法師唐興者。</ab></div><lb
+ ed="X" n="0881b22"/><lb
+ ed="R087" n="0079a04"/><div type='commentary' level='2'><ab type='prose'>即紛洲溫城縣寺名也。西方河者。即彼名倚倚服<lb
+ ed="X" n="0881b23"/><lb
+ ed="R087" n="0079a05"/>也。泀慈舟者。爾雅云。順流為㳂。逆流為泝。流裁流。<lb
+ ed="X" n="0881b24"/><lb
+ ed="R087" n="0079a06"/>為詞文為亂騫者。立斬也。羽軄慮此上二字。並是<pb ed="X" id="X53.0855.0881c" n="0881c"/><lb
+ ed="X" n="0881c01"/><lb
+ ed="R087" n="0079a07"/>鳥飛意也。夫正因者等者。疏理門論云。但由法故。<lb
+ ed="X" n="0881c02"/><lb
+ ed="R087" n="0079a08"/>成其法者。初法者是因法也。後法者宗中法。問觀<lb
+ ed="X" n="0881c03"/><lb
+ ed="R087" n="0079a09"/>此答詞。乍似不答所問。然致疏主意異。彼徵詞廣<lb
+ ed="X" n="0881c04"/><lb
+ ed="R087" n="0079a10"/>申因義。初汎說因相。後方正答。長讀可知。故下文<lb
+ ed="X" n="0881c05"/><lb
+ ed="R087" n="0079a11"/>云。故此四因不違四六。正結答也。</ab></div><lb
+ ed="X" n="0881c06"/><lb
+ ed="R087" n="0079a12"/><div type='orig' level='2'><ab type='prose'>疏有法之上別義者。</ab></div><lb
+ ed="X" n="0881c07"/><lb
+ ed="R087" n="0079a13"/><div type='commentary' level='2'><ab type='prose'>此中意云。言陳有性。即是有法自相。立者意離實<lb
+ ed="X" n="0881c08"/><lb
+ ed="R087" n="0079a14"/>大有即法上義差別義。即名為法。問此離實大有。<lb
+ ed="X" n="0881c09"/><lb
+ ed="R087" n="0079a15"/>豈非是有法差別。如何得於法名。疏彼此所諍。宗<lb
+ ed="X" n="0881c10"/><lb
+ ed="R087" n="0079a16"/>上三相。即四相違中。下三因所成宗也。宗上餘三<lb
+ ed="X" n="0881c11"/><lb
+ ed="R087" n="0079a17"/>者。即餘三因也。疏立順因正破。乃相違不定因。立<lb
+ ed="X" n="0881c12"/><lb
+ ed="R087" n="0079a18"/>者將自宗。即是正。雖異品轉。且一往言破。乃相違<lb
+ ed="X" n="0881c13"/><lb
+ ed="R087" n="0079b01"/>者。謂敵者將彼立者之因破之。宗乃相違也。</ab></div><lb
+ ed="X" n="0881c14"/><lb
+ ed="R087" n="0079b02"/><div type='orig' level='2'><ab type='prose'>疏故改他能立之同喻故者。</ab></div><lb
+ ed="X" n="0881c15"/><lb
+ ed="R087" n="0079b03"/><div type='commentary' level='2'><ab type='prose'>謂改勝論本比量中同異性同喻。為其異喻。</ab></div><lb
+ ed="X" n="0881c16"/><lb
+ ed="R087" n="0079b04"/><div type='orig' level='2'><ab type='prose'>疏此四非必相違者。</ab></div><lb
+ ed="X" n="0881c17"/><lb
+ ed="R087" n="0079b05"/><div type='commentary' level='2'><ab type='prose'>意云。不必一因違四。方是相違。二兩亦是。</ab></div><lb
+ ed="X" n="0881c18"/><lb
+ ed="R087" n="0079b06"/><div type='orig' level='2'><ab type='prose'>疏此上所說兩俱不成者。</ab></div><lb
+ ed="X" n="0881c19"/><lb
+ ed="R087" n="0079b07"/><div type='commentary' level='2'><ab type='prose'>此望同喻上。立敵不許有此因也。如何指虗空為<lb
+ ed="X" n="0881c20"/><lb
+ ed="R087" n="0079b08"/>喻說所作。立敵俱不成也。下文□□有兩俱不成<lb
+ ed="X" n="0881c21"/><lb
+ ed="R087" n="0079b09"/>必無不定等者。彼望於宗。有法上無此因也。如聲<lb
+ ed="X" n="0881c22"/><lb
+ ed="R087" n="0079b10"/>常眼所見性。即闕相立不定相違。要初相有初相<lb
+ ed="X" n="0881c23"/><lb
+ ed="R087" n="0079b11"/>不成。故言無不定等也。</ab></div><lb
+ ed="X" n="0881c24"/><lb
+ ed="R087" n="0079b12"/><div type='orig' level='2'><ab type='prose'>疏若無所邊害者。</ab></div><pb ed="X" id="X53.0855.0882a" n="0882a"/><lb
+ ed="X" n="0882a01"/><lb
+ ed="R087" n="0079b13"/><div type='commentary' level='2'><ab type='prose'>此正因。</ab></div><lb
+ ed="X" n="0882a02"/><lb
+ ed="R087" n="0079b14"/><div type='orig' level='2'><ab type='prose'>疏不定相違並於宗有多是宗法者。</ab></div><lb
+ ed="X" n="0882a03"/><lb
+ ed="R087" n="0079b15"/><div type='commentary' level='2'><ab type='prose'>即釋上正與似因也。</ab></div><lb
+ ed="X" n="0882a04"/><lb
+ ed="R087" n="0079b16"/><div type='orig' level='2'><ab type='prose'>疏依增立但此五者。</ab></div><lb
+ ed="X" n="0882a05"/><lb
+ ed="R087" n="0079b17"/><div type='commentary' level='2'><ab type='prose'>意言。似喻立中。據過勝立。於無合非勝故。所以不<lb
+ ed="X" n="0882a06"/><lb
+ ed="R087" n="0079b18"/>立。望其真喻。合結非勝。總非立也。以似翻亦不立。<lb
+ ed="X" n="0882a07"/><lb
+ ed="R087" n="0080a01"/>約勝過故。立無合倒合也。</ab></div><lb
+ ed="X" n="0882a08"/><lb
+ ed="R087" n="0080a02"/><div type='orig' level='2'><ab type='prose'>疏若據合顯等至是因過者。</ab></div><lb
+ ed="X" n="0882a09"/><lb
+ ed="R087" n="0080a03"/><div type='commentary' level='2'><ab type='prose'>此中意說。若以心心所法為同喻。此無礙且是不<lb
+ ed="X" n="0882a10"/><lb
+ ed="R087" n="0080a04"/>定過。餘可知。</ab></div><lb
+ ed="X" n="0882a11"/><lb
+ ed="R087" n="0080a05"/><div type='orig' level='2'><ab type='prose'>疏隨一不成至舉喻如業佛法不許者。</ab></div><lb
+ ed="X" n="0882a12"/><lb
+ ed="R087" n="0080a06"/><div type='commentary' level='2'><ab type='prose'>此約彼宗。身語二業。是有貿礙礙。據此業聲。亦包<lb
+ ed="X" n="0882a13"/><lb
+ ed="R087" n="0080a07"/>三業。且取一分隨一之過。</ab></div><lb
+ ed="X" n="0882a14"/><lb
+ ed="R087" n="0080a08"/><div type='orig' level='2'><ab type='prose'>疏猶預不成准前亦有二今喻亦二者。</ab></div><lb
+ ed="X" n="0882a15"/><lb
+ ed="R087" n="0080a09"/><div type='commentary' level='2'><ab type='prose'>同其隨過亦有四句。以不答准理。應今約顯。</ab></div><lb
+ ed="X" n="0882a16"/><lb
+ ed="R087" n="0080a10"/><div type='orig' level='2'><ab type='prose'>疏或同喻者。</ab></div><lb
+ ed="X" n="0882a17"/><lb
+ ed="R087" n="0080a11"/><div type='commentary' level='2'><ab type='prose'>此即例餘俱同及心果喻句故知。</ab></div><lb
+ ed="X" n="0882a18"/><lb
+ ed="R087" n="0080a12"/><div type='orig' level='2'><ab type='prose'>疏若所立因喻相似喻依因不依等者。</ab></div><lb
+ ed="X" n="0882a19"/><lb
+ ed="R087" n="0080a13"/><div type='commentary' level='2'><ab type='prose'>此中意說。因喻望宗。俱能立故言相似。喻既依其<lb
+ ed="X" n="0882a20"/><lb
+ ed="R087" n="0080a14"/>所立因。亦喻非依有法。</ab></div><lb
+ ed="X" n="0882a21"/><lb
+ ed="R087" n="0080a15"/><div type='orig' level='2'><ab type='prose'>疏雙依有法及法如俱不成者。</ab></div><lb
+ ed="X" n="0882a22"/><lb
+ ed="R087" n="0080a16"/><div type='commentary' level='2'><ab type='prose'>即能所二別俱不成也。</ab></div><lb
+ ed="X" n="0882a23"/><lb
+ ed="R087" n="0080a17"/><div type='orig' level='2'><ab type='prose'>疏所別不無宗耶者。</ab></div><lb
+ ed="X" n="0882a24"/><lb
+ ed="R087" n="0080a18"/><div type='commentary' level='2'><ab type='prose'>此是結他之辭。若無所別。豈不是無宗耶也。</ab></div><pb ed="X" id="X53.0855.0882b" n="0882b"/><lb
+ ed="X" n="0882b01"/><lb
+ ed="R087" n="0080b01"/><div type='orig' level='2'><ab type='prose'>疏理門但舉有喻所依等至法略不明者。</ab></div><lb
+ ed="X" n="0882b02"/><lb
+ ed="R087" n="0080b02"/><div type='commentary' level='2'><ab type='prose'>意明。此廣彼略。理門但既俱不說無但故。兩俱隨<lb
+ ed="X" n="0882b03"/><lb
+ ed="R087" n="0080b03"/>一義。彼亦不有。又言唯此有無簡者。即此論文有<lb
+ ed="X" n="0882b04"/><lb
+ ed="R087" n="0080b04"/>無雙說。四義亦成。有即初二兩俱隨。餘義可知。</ab></div><lb
+ ed="X" n="0882b05"/><lb
+ ed="R087" n="0080b05"/><div type='orig' level='2'><ab type='prose'>疏宗因俱有體無俱不成有三十六者。</ab></div><lb
+ ed="X" n="0882b06"/><lb
+ ed="R087" n="0080b06"/><div type='commentary' level='2'><ab type='prose'>與共宗因。有解非能共無俱不成。非共宗因有體。<lb
+ ed="X" n="0882b07"/><lb
+ ed="R087" n="0080b07"/>亦共宗因有體。亦共無俱不成。第四翻此。此約共<lb
+ ed="X" n="0882b08"/><lb
+ ed="R087" n="0080b08"/>宗有體無俱不成者。既作四句。對自他無俱不成<lb
+ ed="X" n="0882b09"/><lb
+ ed="R087" n="0080b09"/>亦爾。餘准知。</ab></div><lb
+ ed="X" n="0882b10"/><lb
+ ed="R087" n="0080b10"/><div type='orig' level='2'><ab type='prose'>疏然此亦有兩俱二立平等及非有者。</ab></div><lb
+ ed="X" n="0882b11"/><lb
+ ed="R087" n="0080b11"/><div type='commentary' level='2'><ab type='prose'>此意明前四句。各有四句。言初二者。唯許所依。餘<lb
+ ed="X" n="0882b12"/><lb
+ ed="R087" n="0080b12"/>各通二。有及非有。</ab></div><lb
+ ed="X" n="0882b13"/><lb
+ ed="R087" n="0080b13"/><div type='orig' level='2'><ab type='prose'>疏一自隨一二俱不成等至取為同喻者。</ab></div><lb
+ ed="X" n="0882b14"/><lb
+ ed="R087" n="0080b14"/><div type='commentary' level='2'><ab type='prose'>此明一類外道。許有虗空而非變者及以作業對<lb
+ ed="X" n="0882b15"/><lb
+ ed="R087" n="0080b15"/>他無空。即是自有俱不成也。</ab></div><lb
+ ed="X" n="0882b16"/><lb
+ ed="R087" n="0080b16"/><div type='orig' level='2'><ab type='prose'>疏有互闕無並不成者。</ab></div><lb
+ ed="X" n="0882b17"/><lb
+ ed="R087" n="0080b17"/><div type='commentary' level='2'><ab type='prose'>此釋且據宗因有體之喻。若通詮者。即有妨矣。為<lb
+ ed="X" n="0882b18"/><lb
+ ed="R087" n="0080b18"/>前破智所依。無時是無俱云。雖有所立。可非所能<lb
+ ed="X" n="0882b19"/><lb
+ ed="R087" n="0081a01"/>依不成。若准此釋。疏主許中有無也。過約分說亦<lb
+ ed="X" n="0882b20"/><lb
+ ed="R087" n="0081a02"/>得過乎。若准舊文。古即無妨。</ab></div><lb
+ ed="X" n="0882b21"/><lb
+ ed="R087" n="0081a03"/><div type='orig' level='2'><ab type='prose'>疏古敘他救聲云等至不似因亦不得成者。</ab></div><lb
+ ed="X" n="0882b22"/><lb
+ ed="R087" n="0081a04"/><div type='commentary' level='2'><ab type='prose'>即軌法師敘量救前。應言汝正量云。聲是所作。舉<lb
+ ed="X" n="0882b23"/><lb
+ ed="R087" n="0081a05"/>為喻瓶即杖等作。聲即咽之所作。不似聲因。尚得<lb
+ ed="X" n="0882b24"/><lb
+ ed="R087" n="0081a06"/>成喻。何妨空上無為。是遮聲因。遮悉得成喻。</ab></div><pb ed="X" id="X53.0855.0882c" n="0882c"/><lb
+ ed="X" n="0882c01"/><lb
+ ed="R087" n="0081a07"/><div type='orig' level='2'><ab type='prose'>疏即救破云至亦得成喻。</ab></div><lb
+ ed="X" n="0882c02"/><lb
+ ed="R087" n="0081a08"/><div type='commentary' level='2'><ab type='prose'>此軌法師竪自破他救。</ab></div><lb
+ ed="X" n="0882c03"/><lb
+ ed="R087" n="0081a09"/><div type='orig' level='2'><ab type='prose'>疏望自應隨一分不成過者。</ab></div><lb
+ ed="X" n="0882c04"/><lb
+ ed="R087" n="0081a10"/><div type='commentary' level='2'><ab type='prose'>小乘望大種。自應具隨一。即大乘唯遮他隨一過。<lb
+ ed="X" n="0882c05"/><lb
+ ed="R087" n="0081a11"/>無俱不成者。既作四句。對自他無俱。不成亦爾。餘<lb
+ ed="X" n="0882c06"/><lb
+ ed="R087" n="0081a12"/>准知。因有隨一。并闕所依者。以大乘不立虗空既<lb
+ ed="X" n="0882c07"/><lb
+ ed="R087" n="0081a13"/>既是非有。其因亦是所依不成。於一法中。望別分<lb
+ ed="X" n="0882c08"/><lb
+ ed="R087" n="0081a14"/>過。</ab></div><lb
+ ed="X" n="0882c09"/><lb
+ ed="R087" n="0081a15"/><div type='orig' level='2'><ab type='prose'>疏龜毛無表故成者。</ab></div><lb
+ ed="X" n="0882c10"/><lb
+ ed="R087" n="0081a16"/><div type='commentary' level='2'><ab type='prose'>謂智成宗不。</ab></div><lb
+ ed="X" n="0882c11"/><lb
+ ed="R087" n="0081a17"/><div type='orig' level='2'><ab type='prose'>疏亦有自相相違者。</ab></div><lb
+ ed="X" n="0882c12"/><lb
+ ed="R087" n="0081a18"/><div type='commentary' level='2'><ab type='prose'>即作比量三虗空非作故。猶如擇滅。</ab></div><lb
+ ed="X" n="0882c13"/><lb
+ ed="R087" n="0081b01"/><div type='orig' level='2'><ab type='prose'>疏言可非能立闕不成者。</ab></div><lb
+ ed="X" n="0882c14"/><lb
+ ed="R087" n="0081b02"/><div type='commentary' level='2'><ab type='prose'>此智清之詞。非可非者。即是非也。言有二者。即能<lb
+ ed="X" n="0882c15"/><lb
+ ed="R087" n="0081b03"/>所立也。意難得此宗且繁剩也。既有須□單闕。</ab></div><lb
+ ed="X" n="0882c16"/><lb
+ ed="R087" n="0081b04"/><div type='orig' level='2'><ab type='prose'>疏可非能立闕不成過者。</ab></div><lb
+ ed="X" n="0882c17"/><lb
+ ed="R087" n="0081b05"/><div type='commentary' level='2'><ab type='prose'>俱故成宗不也。</ab></div><lb
+ ed="X" n="0882c18"/><lb
+ ed="R087" n="0081b06"/><div type='orig' level='2'><ab type='prose'>疏理門云前是遮詮者。</ab></div><lb
+ ed="X" n="0882c19"/><lb
+ ed="R087" n="0081b07"/><div type='commentary' level='2'><ab type='prose'>即喻初也。發智稱其前。遮詮即是悉。</ab></div><lb
+ ed="X" n="0882c20"/><lb
+ ed="R087" n="0081b08"/><div type='orig' level='2'><ab type='prose'>疏若說合說言喻上別義者。</ab></div><lb
+ ed="X" n="0882c21"/><lb
+ ed="R087" n="0081b09"/><div type='commentary' level='2'><ab type='prose'>合言諸所者作合。即喻上別義。非正正體。二者者<lb
+ ed="X" n="0882c22"/><lb
+ ed="R087" n="0081b10"/>即第三也。</ab></div><lb
+ ed="X" n="0882c23"/><lb
+ ed="R087" n="0081b11"/><div type='orig' level='2'><ab type='prose'>疏初二合四者。</ab></div><lb
+ ed="X" n="0882c24"/><lb
+ ed="R087" n="0081b12"/><div type='commentary' level='2'><ab type='prose'>即初偏無。是第三六者。即俱不成也。有中分四。無<pb ed="X" id="X53.0855.0883a" n="0883a"/><lb
+ ed="X" n="0883a01"/><lb
+ ed="R087" n="0081b13"/>中有二。餘二除猶所依義。如前說通論。初三總有<lb
+ ed="X" n="0883a02"/><lb
+ ed="R087" n="0081b14"/>十四。帖後二過成十六也。各分自他。共成四十八。<lb
+ ed="X" n="0883a03"/><lb
+ ed="R087" n="0081b15"/>若准舊疏。無中開四。成五十四。</ab></div><lb
+ ed="X" n="0883a04"/><lb
+ ed="R087" n="0081b16"/><div type='orig' level='2'><ab type='prose'>疏如立我無許諦擇故等者。</ab></div><lb
+ ed="X" n="0883a05"/><lb
+ ed="R087" n="0081b17"/><div type='commentary' level='2'><ab type='prose'>此無同品但招。異品作過。</ab></div><lb
+ ed="X" n="0883a06"/><lb
+ ed="R087" n="0081b18"/><div type='orig' level='2'><ab type='prose'>疏維摩云如無煙之火等至今據顯相故無違者。</ab></div><lb
+ ed="X" n="0883a07"/><lb
+ ed="R087" n="0082a01"/><div type='commentary' level='2'><ab type='prose'>意云。准彼經翻是火法。煙何今言極煙。然非有處。<lb
+ ed="X" n="0883a08"/><lb
+ ed="R087" n="0082a02"/>且無其煙。故今文云。經顯相火皆烟。故不違。</ab></div><lb
+ ed="X" n="0883a09"/><lb
+ ed="R087" n="0082a03"/><div type='orig' level='2'><ab type='prose'>疏前望二宗等者。</ab></div><lb
+ ed="X" n="0883a10"/><lb
+ ed="R087" n="0082a04"/><div type='commentary' level='2'><ab type='prose'>前望有無二宗故俱不成。後據別有宗也。</ab></div><lb
+ ed="X" n="0883a11"/><lb
+ ed="R087" n="0082a05"/><div type='orig' level='2'><ab type='prose'>疏立有異即不遣若無必遣。</ab></div><lb
+ ed="X" n="0883a12"/><lb
+ ed="R087" n="0082a06"/><div type='commentary' level='2'><ab type='prose'>此約所中能別有無宗不然。所以論有無。疏或於<lb
+ ed="X" n="0883a13"/><lb
+ ed="R087" n="0082a07"/>六俱不遣中或不開。故知但說有俱四不成。不說<lb
+ ed="X" n="0883a14"/><lb
+ ed="R087" n="0082a08"/>無俱不遣。以無必遣故。前似同中。無俱有二。謂兩<lb
+ ed="X" n="0883a15"/><lb
+ ed="R087" n="0082a09"/>俱隨一。二別分三。謂自他共。既不立無故滅六。疏<lb
+ ed="X" n="0883a16"/><lb
+ ed="R087" n="0082a10"/>此有何故。答現比真量別定是非。似既非量。寧比<lb
+ ed="X" n="0883a17"/><lb
+ ed="R087" n="0082a11"/>量攝故過是。</ab></div><lb
+ ed="X" n="0883a18"/><lb
+ ed="R087" n="0082a12"/><div type='orig' level='2'><ab type='prose'>疏非比極成現所有量者。</ab></div><lb
+ ed="X" n="0883a19"/><lb
+ ed="R087" n="0082a13"/><div type='commentary' level='2'><ab type='prose'>是有法非現量者。非比者。是簡過之為法。</ab></div><lb
+ ed="X" n="0883a20"/><lb
+ ed="R087" n="0082a14"/><div type='orig' level='2'><ab type='prose'>疏現量內有者意言現外所有量准外道宗即至教<lb
+ ed="X" n="0883a21"/><lb
+ ed="R087" n="0082a15"/>譬現量有者。</ab></div><lb
+ ed="X" n="0883a22"/><lb
+ ed="R087" n="0082a16"/><div type='commentary' level='2'><ab type='prose'>意等是現之外。所有據大乘即比量。是後比量是<lb
+ ed="X" n="0883a23"/><lb
+ ed="R087" n="0082a17"/>後比量中。言比所有准可知。</ab></div><lb
+ ed="X" n="0883a24"/><lb
+ ed="R087" n="0082a18"/><div type='orig' level='2'><ab type='prose'>疏又助難言外道量至餘不立故者。</ab></div><pb ed="X" id="X53.0855.0883b" n="0883b"/><lb
+ ed="X" n="0883b01"/><lb
+ ed="R087" n="0082b01"/><div type='commentary' level='2'><ab type='prose'>此中意說。佛法自宗許至教量。仍現似攝。喻等佛<lb
+ ed="X" n="0883b02"/><lb
+ ed="R087" n="0082b02"/>宗先無外道量云。非比極成現所量。此之有法。比<lb
+ ed="X" n="0883b03"/><lb
+ ed="R087" n="0082b03"/>量現量之。外道舉至教等所有量故。望佛法一分<lb
+ ed="X" n="0883b04"/><lb
+ ed="R087" n="0082b04"/>不成。疏中猶云能別一分。不法師自此疑。問外何<lb
+ ed="X" n="0883b05"/><lb
+ ed="R087" n="0082b05"/>法須云二耶。答據實二皆成。現比外有量。為無同<lb
+ ed="X" n="0883b06"/><lb
+ ed="R087" n="0082b06"/>喻。故更互成。</ab></div><lb
+ ed="X" n="0883b07"/><lb
+ ed="R087" n="0082b07"/><div type='orig' level='2'><ab type='prose'>疏有敘外難云等至以得自相者。</ab></div><lb
+ ed="X" n="0883b08"/><lb
+ ed="R087" n="0082b08"/><div type='commentary' level='2'><ab type='prose'>此即自難言。若他反難等至如何難乘者。即舉外<lb
+ ed="X" n="0883b09"/><lb
+ ed="R087" n="0082b09"/>難也。</ab></div><lb
+ ed="X" n="0883b10"/><lb
+ ed="R087" n="0082b10"/><div type='orig' level='2'><ab type='prose'>疏今問此難為因明等者。</ab></div><lb
+ ed="X" n="0883b11"/><lb
+ ed="R087" n="0082b11"/><div type='commentary' level='2'><ab type='prose'>此問佛法難外所由。</ab></div><lb
+ ed="X" n="0883b12"/><lb
+ ed="R087" n="0082b12"/><div type='orig' level='2'><ab type='prose'>疏即不得言假智等救者。</ab></div><lb
+ ed="X" n="0883b13"/><lb
+ ed="R087" n="0082b13"/><div type='commentary' level='2'><ab type='prose'>意前師既得經中自相。以難於他不合受。此難以<lb
+ ed="X" n="0883b14"/><lb
+ ed="R087" n="0082b14"/>假智。詮不得。經中得自相故也。</ab></div><lb
+ ed="X" n="0883b15"/><lb
+ ed="R087" n="0082b15"/><div type='orig' level='2'><ab type='prose'>疏若據外宗彼非假智得自相故者。</ab></div><lb
+ ed="X" n="0883b16"/><lb
+ ed="R087" n="0082b16"/><div type='commentary' level='2'><ab type='prose'>意外宗得自者。許非假智。前師所依。此智以難於<lb
+ ed="X" n="0883b17"/><lb
+ ed="R087" n="0082b17"/>彼說。從依經自共相難者。即是經中所說色。色等<lb
+ ed="X" n="0883b18"/><lb
+ ed="R087" n="0082b18"/>言離得自相名也。據彼經說。其還以煖為相也。即<lb
+ ed="X" n="0883b19"/><lb
+ ed="R087" n="0083a01"/>非假智及詮得之。</ab></div><lb
+ ed="X" n="0883b20"/><lb
+ ed="R087" n="0083a02"/><div type='orig' level='2'><ab type='prose'>疏自相且不離串者。</ab></div><lb
+ ed="X" n="0883b21"/><lb
+ ed="R087" n="0083a03"/><div type='commentary' level='2'><ab type='prose'>外道既云言詮得火自相。此言即在串。</ab></div><lb
+ ed="X" n="0883b22"/><lb
+ ed="R087" n="0083a04"/><div type='orig' level='2'><ab type='prose'>疏現量心緣至可分有體者。</ab></div><lb
+ ed="X" n="0883b23"/><lb
+ ed="R087" n="0083a05"/><div type='commentary' level='2'><ab type='prose'>此分字扶同音讀也。言體者。不依言詮。自相有體<lb
+ ed="X" n="0883b24"/><lb
+ ed="R087" n="0083a06"/>也。今破云。言有太寬失。二三俱自性。分別自性。即<pb ed="X" id="X53.0855.0883c" n="0883c"/><lb
+ ed="X" n="0883c01"/><lb
+ ed="R087" n="0083a07"/>五識故。三中隨念且定心俱。豈非現也。故後得智<lb
+ ed="X" n="0883c02"/><lb
+ ed="R087" n="0083a08"/>及五識中。有隨念自性也。准七攝三分別。七分別<lb
+ ed="X" n="0883c03"/><lb
+ ed="R087" n="0083a09"/>中。唯除意比分別三智。餘有現量。</ab></div><lb
+ ed="X" n="0883c04"/><lb
+ ed="R087" n="0083a10"/><div type='orig' level='2'><ab type='prose'>疏定心緣因等至即是彼智者。</ab></div><lb
+ ed="X" n="0883c05"/><lb
+ ed="R087" n="0083a11"/><div type='commentary' level='2'><ab type='prose'>問無漏後得智豈不教。答佛果中。緣名言及三世。<lb
+ ed="X" n="0883c06"/><lb
+ ed="R087" n="0083a12"/>是彼智也。問佛智既證法性如何稱。答法性雖後<lb
+ ed="X" n="0883c07"/><lb
+ ed="R087" n="0083a13"/>證智。無中立有。故并是假也。</ab></div><lb
+ ed="X" n="0883c08"/><lb
+ ed="R087" n="0083a14"/><div type='orig' level='2'><ab type='prose'>疏無恒變者。</ab></div><lb
+ ed="X" n="0883c09"/><lb
+ ed="R087" n="0083a15"/><div type='commentary' level='2'><ab type='prose'>恒不變俱。是於常為無。此二即無常。問法及有法。<lb
+ ed="X" n="0883c10"/><lb
+ ed="R087" n="0083a16"/>因三相等。令無體。如何心緣。答雖無體。而有其義。</ab></div><lb
+ ed="X" n="0883c11"/><lb
+ ed="R087" n="0083a17"/><div type='orig' level='2'><ab type='prose'>疏毛輪者。</ab></div><lb
+ ed="X" n="0883c12"/><lb
+ ed="R087" n="0083a18"/><div type='commentary' level='2'><ab type='prose'>毛即輪也。</ab></div><lb
+ ed="X" n="0883c13"/><lb
+ ed="R087" n="0083b01"/><div type='orig' level='2'><ab type='prose'>疏由是成前舉所說力者。</ab></div><lb
+ ed="X" n="0883c14"/><lb
+ ed="R087" n="0083b02"/><div type='commentary' level='2'><ab type='prose'>由合無常與作性。不相違返故。成別立者。舉所說<lb
+ ed="X" n="0883c15"/><lb
+ ed="R087" n="0083b03"/>宗。有其功力。</ab></div><lb
+ ed="X" n="0883c16"/><lb
+ ed="R087" n="0083b04"/><div type='orig' level='2'><ab type='prose'>疏即亦顯彼故此攝盡者。</ab></div><lb
+ ed="X" n="0883c17"/><lb
+ ed="R087" n="0083b05"/><div type='commentary' level='2'><ab type='prose'>意明顯示此言攝二破也。</ab></div><lb
+ ed="X" n="0883c18"/><lb
+ ed="R087" n="0083b06"/><div type='orig' level='2'><ab type='prose'>疏緣假即依智性。</ab></div><lb
+ ed="X" n="0883c19"/><lb
+ ed="R087" n="0083b07"/><div type='commentary' level='2'><ab type='prose'>即和合假。</ab></div><lb
+ ed="X" n="0883c20"/><lb
+ ed="R087" n="0083b08"/><div type='orig' level='2'><ab type='prose'>疏餘境分者。</ab></div><lb
+ ed="X" n="0883c21"/><lb
+ ed="R087" n="0083b09"/><div type='commentary' level='2'><ab type='prose'>瓶盆四塵之餘故。</ab></div><lb
+ ed="X" n="0883c22"/><lb
+ ed="R087" n="0083b10"/><div type='orig' level='2'><ab type='prose'>疏即能破言提彼似破起亦所作者。</ab></div><lb
+ ed="X" n="0883c23"/><lb
+ ed="R087" n="0083b11"/><div type='commentary' level='2'><ab type='prose'>即約能生所生。分二作也。前能所二破也。</ab></div><lb
+ ed="X" n="0883c24"/><lb
+ ed="R087" n="0083b13"/>
+<ab type='juan' subtype='close'>因明疏抄</ab><pb ed="X" id="X53.0855.0884a" n="0884a"/><lb
+ ed="X" n="0884a01"/><lb
+ ed="X" n="0884a02"/><lb
+ ed="X" n="0884a03"/><lb
+ ed="X" n="0884a04"/><lb
+ ed="R087" n="0083b15"/><div type='w' level='2'><ab type='prose'>于時享保九歲在甲辰四月嘉辰。承師命而挍之。<lb
+ ed="X" n="0884a05"/><lb
+ ed="R087" n="0083b16"/>舊本字畫不分明。殊疑者傍附鄙懷以正之。後見<lb
+ ed="X" n="0884a06"/><lb
+ ed="R087" n="0083b17"/>撿餘本。而詳是非焉。<lb
+ ed="X" n="0884a07"/><lb
+ ed="R087" n="0083b18"/>胤兼</ab></div><lb
+ ed="X" n="0884a08"/><lb
+ ed="X" n="0884a09"/><lb
+ ed="X" n="0884a10"/><lb
+ ed="X" n="0884a11"/><lb
+ ed="X" n="0884a12"/><lb
+ ed="X" n="0884a13"/><lb
+ ed="X" n="0884a14"/><lb
+ ed="X" n="0884a15"/><lb
+ ed="X" n="0884a16"/><lb
+ ed="X" n="0884a17"/><lb
+ ed="X" n="0884a18"/><lb
+ ed="X" n="0884a19"/><lb
+ ed="X" n="0884a20"/><lb
+ ed="X" n="0884a21"/><lb
+ ed="X" n="0884a22"/><lb
+ ed="X" n="0884a23"/><lb
+ ed="X" n="0884a24"/><pb ed="X" id="X53.0855.0884b" n="0884b"/><lb
+ ed="X" n="0884b01"/><lb
+ ed="X" n="0884b02"/><lb
+ ed="X" n="0884b03"/><div type='w' level='2'><head>〔因明入正理論略抄〕</head><lb
+ ed="X" n="0884b04"/><lb
+ ed="X" n="0884b05"/><ab type='prose'><lb
+ ed="X" n="0884b06"/>之□述□□□<lb
+ ed="X" n="0884b07"/>通人之□観譬□□<lb
+ ed="X" n="0884b08"/>今将釈一論。略作三門。第一□<lb
+ ed="X" n="0884b09"/>論題目。第三分文解釈言□<lb
+ ed="X" n="0884b10"/>藏聖教広弁生死涅槃因果。若□<lb
+ ed="X" n="0884b11"/>道之內□故。曰內明也。二者。因明。謂広說<lb
+ ed="X" n="0884b12"/>能立<lb
+ ed="X" n="0884b13"/>摧邪顕正之楷模。以生了之明因。契真宗之□<lb
+ ed="X" n="0884b14"/>理<lb
+ ed="X" n="0884b15"/>也。三者声明。謂說男声女声之流。非男非女<lb
+ ed="X" n="0884b16"/>之類。或明八転解箋。或以六釈訓名。広弁諸<lb
+ ed="X" n="0884b17"/>声。号声明也。四者医方明。謂說病因病相救<lb
+ ed="X" n="0884b18"/>療方策。故号医方明也。五者工巧明。謂說工<lb
+ ed="X" n="0884b19"/>巧技術之法。即書算印数之䡄模。広述斯事。<lb
+ ed="X" n="0884b20"/>故曰工巧明也。此論即五明中因明所摂也。<lb
+ ed="X" n="0884b21"/>第二釈論題目者。此論一部有其両名。一者<lb
+ ed="X" n="0884b22"/>因明。即是諸論之通名。二者入正理。即是此<lb
+ ed="X" n="0884b23"/>論之別号。云通名者。且西方內道外道総有一<lb
+ ed="X" n="0884b24"/>百余部。皆申立破之義。総号因明。雖是五明<pb ed="X" id="X53.0855.0884c" n="0884c"/><lb
+ ed="X" n="0884c01"/>之中別名。仍是一明之中通号也。言因明者所<lb
+ ed="X" n="0884c02"/>以也。如立声無常。有何所以。得知無常。三<lb
+ ed="X" n="0884c03"/>相等因。即是無常所以故也。又。因言者所待<lb
+ ed="X" n="0884c04"/>也。謂無常之理。要待因方顕故也。了宗之智。<lb
+ ed="X" n="0884c05"/>要待因方生故也。<lb
+ ed="X" n="0884c06"/>今言因者顕二種因。一正取了因。正顕無常<lb
+ ed="X" n="0884c07"/>理故。二兼取生因。通生敵論解宗智故。<lb
+ ed="X" n="0884c08"/>生因了因。各有三種。謂言義智。釈此三因<lb
+ ed="X" n="0884c09"/>及明兼正。如疏中述。故言因也。<lb
+ ed="X" n="0884c10"/>言明者。西方両釈。一云。因即是明。故号<lb
+ ed="X" n="0884c11"/>因明。即持業釈也。由因能顕無常理故。二云。<lb
+ ed="X" n="0884c12"/>因家明故。名曰因明。即依主釈也。此中有二<lb
+ ed="X" n="0884c13"/>大徳。各承三藏解不同。一云。無常果智。明<lb
+ ed="X" n="0884c14"/>解宗理。是因家明。故曰因明。一云。無常正<lb
+ ed="X" n="0884c15"/>理本成。明顕由因力故。今顕因家明。故名曰<lb
+ ed="X" n="0884c16"/>因明。<pb ed="X" id="X53.0855.0885a" n="0885a"/><lb
+ ed="X" n="0885a01"/>今総合為一解云。了宗之智。明解是成。生<lb
+ ed="X" n="0885a02"/>因之明也。無常之理。明顕是成。了因之明也。<lb
+ ed="X" n="0885a03"/>即顕生了二果明。是成生了二因之明也。<lb
+ ed="X" n="0885a04"/>問。喻亦能顕宗及生敵論智。何故不言喻明。<lb
+ ed="X" n="0885a05"/>乃說因明耶。<lb
+ ed="X" n="0885a06"/>答。因是其主。喻是其助。就主為名。不言<lb
+ ed="X" n="0885a07"/>喻明也。又解。若言因明亦摂彼喻。二喻皆是<lb
+ ed="X" n="0885a08"/>三因摂故。若言喻明。不顕三相。二喻唯論後<lb
+ ed="X" n="0885a09"/>二相故。<lb
+ ed="X" n="0885a10"/>言入正理者。是別名也。入是方便悟入之義。<lb
+ ed="X" n="0885a11"/>言正理者。因明釈中。有其三解。一云。陳那<lb
+ ed="X" n="0885a12"/>所造大因明論。名正理門。何故名為正理門耶。<lb
+ ed="X" n="0885a13"/>西方解云。宗是其正立論崇重。以為正故。因<lb
+ ed="X" n="0885a14"/>是其理。是彼正理宗所以理故。喻是其門。由<lb
+ ed="X" n="0885a15"/>能通顕真宗理故。又解云。智因是正。由彼正<lb
+ ed="X" n="0885a16"/>解三相義故。義因是理。義即理故。言因是門。<lb
+ ed="X" n="0885a17"/>通顕義故。彼論広明正理門故。名正理門也。<lb
+ ed="X" n="0885a18"/>今。商羯羅主。為正理論文句難解故造論。若<lb
+ ed="X" n="0885a19"/>学斯論。即能悟入正理也。論文句故言入正理<lb
+ ed="X" n="0885a20"/>也。<lb
+ ed="X" n="0885a21"/>一云。由学此論。即能悟入大因明論所詮正<lb
+ ed="X" n="0885a22"/>理。故云入正理也。<lb
+ ed="X" n="0885a23"/>一云。由学此論。即能以三相之因悟入諸仏<lb
+ ed="X" n="0885a24"/>所說無常空等正理。故云入正理也。<pb ed="X" id="X53.0855.0885b" n="0885b"/><lb
+ ed="X" n="0885b01"/>此解通別両名並是三藏伝西方釈也。余解如<lb
+ ed="X" n="0885b02"/>疏中釈。此不繁述。<lb
+ ed="X" n="0885b03"/>言商羯羅主菩薩者。商羯羅主。如疏中釈<lb
+ ed="X" n="0885b04"/>菩薩者略有三解。一云。菩提者。此云覚也。<lb
+ ed="X" n="0885b05"/>薩埵者。此云有情也。謂。菩薩緣菩提。為所<lb
+ ed="X" n="0885b06"/>求之境。緣薩埵。為所救之境。並是従境為名。<lb
+ ed="X" n="0885b07"/>二云。菩薩有情。緣菩提故名覚有情。即従所<lb
+ ed="X" n="0885b08"/>求果及能求者為名也。三者。薩埵以勇猛為義。<lb
+ ed="X" n="0885b09"/>謂勇猛求菩提故。即従境及用為名也。今。菩<lb
+ ed="X" n="0885b10"/>薩者略去提埵二字故也。<lb
+ ed="X" n="0885b11"/>就第二判文解釈中。広如疏述。就疏中無去<lb
+ ed="X" n="0885b12"/>略。助解云。能立之義西方釈有四種。一真能<lb
+ ed="X" n="0885b13"/>立。謂三支無過是也。二真似能立。謂相違決<lb
+ ed="X" n="0885b14"/>定是也。具三相辺。名之為真。為敵量乖反。<lb
+ ed="X" n="0885b15"/>名之為似故也。三似能立。謂余不定及相違因<lb
+ ed="X" n="0885b16"/>并喻過等是也。四似似能立。謂四不成因過是<lb
+ ed="X" n="0885b17"/>也。遍宗法因。正是能立之主。若闕此相即是<lb
+ ed="X" n="0885b18"/>似立之中似也。<lb
+ ed="X" n="0885b19"/>今。言能立者。但是四中真能立也。後三並<lb
+ ed="X" n="0885b20"/>是似立所収。<lb
+ ed="X" n="0885b21"/>能破之中。義亦有四。一真能破。謂斥失当<lb
+ ed="X" n="0885b22"/>過。自量無失故。言真能破。二真似能破。謂<lb
+ ed="X" n="0885b23"/>当過而斥。所以󰅻真。自不免僭。故名為似。<lb
+ ed="X" n="0885b24"/>此即相違決定過也。三似能破。謂無過妄斥。<pb ed="X" id="X53.0855.0885c" n="0885c"/><lb
+ ed="X" n="0885c01"/>名之為似。如所作相似等是。四似似能破。謂<lb
+ ed="X" n="0885c02"/>無過妄斥。名之為似。自量復更有失。名為似<lb
+ ed="X" n="0885c03"/>似。此即同法相似等是。<lb
+ ed="X" n="0885c04"/>問。論文既言宗等多言名為能立。即顕言因<lb
+ ed="X" n="0885c05"/>是其能立。何故智義。非能立耶。<lb
+ ed="X" n="0885c06"/>答。有解云。智因是初。言因是中。義因是<lb
+ ed="X" n="0885c07"/>後。挙中可以顕其初後。亦是能立故也。今解<lb
+ ed="X" n="0885c08"/>云。由智発言。由言詮義。俱益（？）所成理。実三<lb
+ ed="X" n="0885c09"/>種皆名能立。以言勝故。偏說之。何以得知。<lb
+ ed="X" n="0885c10"/>且如未立義。前雖有智義。其宗未立。発言対<lb
+ ed="X" n="0885c11"/>敵。其義方成。故知言因約勝說也。<lb
+ ed="X" n="0885c12"/>問。何以得知。智之󴥵義且能立耶。<pb ed="X" id="X53.0855.0886a" n="0886a"/><lb
+ ed="X" n="0886a01"/>答。准下文釈能立体中。因有三相。既是義<lb
+ ed="X" n="0886a02"/>因。故智義亦是其能立。又。准対法論能立有<lb
+ ed="X" n="0886a03"/>下現比二量。□□其中。故知智因亦是能立也。<lb
+ ed="X" n="0886a04"/>又。疏中云。古師以一切諸法自性差別。総<lb
+ ed="X" n="0886a05"/>為一聚。為所成立於中別隨自意所許。取一<lb
+ ed="X" n="0886a06"/>自性及一差別。合之為宗。宗既合彼総中別法。<lb
+ ed="X" n="0886a07"/>合非別故。故是能立。陳那以宗望因喻。故是<lb
+ ed="X" n="0886a08"/>所立。<lb
+ ed="X" n="0886a09"/>若作此解。古師義者。理恐不然。豈可一切<lb
+ ed="X" n="0886a10"/>自性差別皆此宗。因之所成立即一能立。又。<lb
+ ed="X" n="0886a11"/>若合法為能立者。宗之所立為合為離。若言合<lb
+ ed="X" n="0886a12"/>者。何殊能立。若言離者。何益所成。󴥏󴥏󴥏<lb
+ ed="X" n="0886a13"/>󴥏。皆成過失。故知不得作此解也。<lb
+ ed="X" n="0886a14"/>今解。古師言声󴥵無常。本不相離。敵論不<lb
+ ed="X" n="0886a15"/>解。妄謂為常。今。立論者以彼宗云顕和合理。<lb
+ ed="X" n="0886a16"/>能顕之言名為能立。所顕之義為所立。陳那云。<lb
+ ed="X" n="0886a17"/>声無常言。但顕所立。非正能立。又。為因喻<lb
+ ed="X" n="0886a18"/>所成立故。亦非能立也。<lb
+ ed="X" n="0886a19"/>問。古師若救言。必是其能立。以宗因喻三<lb
+ ed="X" n="0886a20"/>言隨一摂故。如因喻言。法非能立者。必<lb
+ ed="X" n="0886a21"/>非三言所摂。猶如余言。若作此救如何解釈。<lb
+ ed="X" n="0886a22"/>答。応作相違決定過云。宗支定非能立之言。<lb
+ ed="X" n="0886a23"/>宗。以不詮因相故。因。如能立言。法<lb
+ ed="X" n="0886a24"/>是能立言者。定詮因相。如因喻言。若<pb ed="X" id="X53.0855.0886b" n="0886b"/><lb
+ ed="X" n="0886b01"/>直難云。因喻所詮是能立。能詮之言亦能立。<lb
+ ed="X" n="0886b02"/>宗之所詮既所立。能詮之言亦所立。故不得言<lb
+ ed="X" n="0886b03"/>宗能立也。<lb
+ ed="X" n="0886b04"/>問。既取所等因喻名為能立。何故論云。由<lb
+ ed="X" n="0886b05"/>宗因喻多言。開示未了義耶。<lb
+ ed="X" n="0886b06"/>答。由宗之因喻。開曉問者未了義。故無有<lb
+ ed="X" n="0886b07"/>過。<lb
+ ed="X" n="0886b08"/>問。宗若非能立者。何故論文。解能立体中<lb
+ ed="X" n="0886b09"/>釈宗耶。<lb
+ ed="X" n="0886b10"/>答。為解能立之所立故。又対所立弁能立故。<lb
+ ed="X" n="0886b11"/>故解能立。便釈所立也。<lb
+ ed="X" n="0886b12"/>問。解宗依中。何故不言極成所別極成法。<lb
+ ed="X" n="0886b13"/>乃言極成有法極成能別。<lb
+ ed="X" n="0886b14"/>答。有二釈如疏中。今。更助釈言。所言極<lb
+ ed="X" n="0886b15"/>成有法者。即顕能別。亦名為法。言極成能別<lb
+ ed="X" n="0886b16"/>者。即顕有法。亦名所別。故彰略成挙顕有両<lb
+ ed="X" n="0886b17"/>名也。<lb
+ ed="X" n="0886b18"/>問。何故。要挙此二。顕有両名耶。<lb
+ ed="X" n="0886b19"/>答。有法宗依。亦因依。通二法依。挙有法<lb
+ ed="X" n="0886b20"/>能別。唯。是宗中法。恐濫因法。挙能別故。<lb
+ ed="X" n="0886b21"/>要挙此二。顕二名也。<lb
+ ed="X" n="0886b22"/>問。声上能別者若極成。即有相符極成過。<lb
+ ed="X" n="0886b23"/>若取余法上極成。即有非声能別過。有何義說<lb
+ ed="X" n="0886b24"/>極成耶。<pb ed="X" id="X53.0855.0887a" n="0887a"/><lb
+ ed="X" n="0887a01"/>答。西方因明釈。中有両師。一解云。声上<lb
+ ed="X" n="0887a02"/>無常。是別無常。余法無常。是総無常。以総<lb
+ ed="X" n="0887a03"/>合別。総極成故。別亦可成。故対声論。能別<lb
+ ed="X" n="0887a04"/>極成。若対数論。立声滅壞。若総若別。皆不<lb
+ ed="X" n="0887a05"/>極成也。一師云。如立宗時。能別雖未極成。<lb
+ ed="X" n="0887a06"/>以立喻時。必極成。約当說現。故言極成。若<lb
+ ed="X" n="0887a07"/>対数論。立声滅壞。若当若現。俱不極成。故<lb
+ ed="X" n="0887a08"/>極成言。依斯義說。<lb
+ ed="X" n="0887a09"/>問。解因初相。何故但以有法之上極成法。<lb
+ ed="X" n="0887a10"/>成立有法上不極成法。不以有法成有法及成法。<lb
+ ed="X" n="0887a11"/>不以法成法有法耶。<lb
+ ed="X" n="0887a12"/>答。皆是不成因故也。有法成因者。若即用<lb
+ ed="X" n="0887a13"/>此。有法即是所立。成能立過。既立為宗。復<lb
+ ed="X" n="0887a14"/>立為因。故是両俱不成過也。若以余有法。成<lb
+ ed="X" n="0887a15"/>此有法者。既離此有法。亦非因初相也。有法<lb
+ ed="X" n="0887a16"/>成法。不成因者。且如法及有法和合為宗。二<lb
+ ed="X" n="0887a17"/>種俱是因所成立。復指有法。以之為因。即是<lb
+ ed="X" n="0887a18"/>所立成能立過。亦是両俱不成過也。以法成有<lb
+ ed="X" n="0887a19"/>法不成因者。先極成因。必須依極成有法。其<lb
+ ed="X" n="0887a20"/>有法既不共許。故是所依不成過也。故但可以<lb
+ ed="X" n="0887a21"/>極成之法成有法上不極成法。故理門論云。<lb
+ ed="X" n="0887a22"/></ab>
+<ab type='verse'>
+有法不成於有法　　及法此非成有法　　<lb
+ ed="X" n="0887a23"/>但由法故成於法　　如是成立於有法　　
+</ab><lb
+ ed="X" n="0887a24"/><ab type='prose'>准此論文。故知但以法成法也。<pb ed="X" id="X53.0855.0887b" n="0887b"/><lb
+ ed="X" n="0887b01"/>問。若有法不得成有法者。何故因事生比量。<lb
+ ed="X" n="0887b02"/>以彼因有法成立火有法耶。<lb
+ ed="X" n="0887b03"/>答。以此処󴥏焑相応義成立。此中󴥏火相応<lb
+ ed="X" n="0887b04"/>義。既以此処為有法。用両種相応義為法。並<lb
+ ed="X" n="0887b05"/>是以法成法。亦無有過。此義亦依理門論說。<lb
+ ed="X" n="0887b06"/>問。無常声宗法。法及有法。合為宗。所作<lb
+ ed="X" n="0887b07"/>亦是声家法。何故不取以為因耶。<lb
+ ed="X" n="0887b08"/>答。敵論不許。不相離法及有法合為宗。以<lb
+ ed="X" n="0887b09"/>法成立其法。故別取所作以為因。<lb
+ ed="X" n="0887b10"/>問。何故論文解同品中。不汎明有因。解異<lb
+ ed="X" n="0887b11"/>品中汎說無因耶。<lb
+ ed="X" n="0887b12"/>答。因於同品不遍。亦是第二相。故解不明<lb
+ ed="X" n="0887b13"/>有因。異品遍無。方是第三相。故解異法說無因。<lb
+ ed="X" n="0887b14"/>問。西方諸師解勤発義。一師以精進󴥏為勤。<lb
+ ed="X" n="0887b15"/>一師以作意󴥏為勤。何者正耶。<lb
+ ed="X" n="0887b16"/>答。作意者正通三性故。前解不正。瓶等応<lb
+ ed="X" n="0887b17"/>皆勤発故。<lb
+ ed="X" n="0887b18"/>又。疏中解九句。所列宗因。並是陳那所說。<lb
+ ed="X" n="0887b19"/>故理門云。<lb
+ ed="X" n="0887b20"/>如是九種二頌所摂。<lb
+ ed="X" n="0887b21"/></ab>
+<ab type='verse'>
+常無常勤勇　　恒住堅牢性　　非勤遷不変　　<lb
+ ed="X" n="0887b22"/>由所量等九　　所量作無常　　作性聞勇発　　<lb
+ ed="X" n="0887b23"/>無常勇無触　　依常性等九　　
+</ab><lb
+ ed="X" n="0887b24"/><ab type='prose'>此二頌中。初一頌顕九宗。後一頌明九因。<pb ed="X" id="X53.0855.0887c" n="0887c"/><lb
+ ed="X" n="0887c01"/>問。此九句中。第四句云。声常。所作性故。<lb
+ ed="X" n="0887c02"/>其因於同品遍無。於異品瓶等有。於兔角等無。<lb
+ ed="X" n="0887c03"/>応是第六句。何故乃是。第四句耶。若是第四<lb
+ ed="X" n="0887c04"/>句者。陳那何故破古師。常異無常異品之義自<lb
+ ed="X" n="0887c05"/>立。兔角是異品収。若是異品。此因応非第四<lb
+ ed="X" n="0887c06"/>句摂。󴥏󴥏相違。如何会釈。<lb
+ ed="X" n="0887c07"/>答。若通依有体無体異品第六不殊。今約有<lb
+ ed="X" n="0887c08"/>体異品說故。是第四句也。<lb
+ ed="X" n="0887c09"/>又。疏中判九句。第二第八是正因収。第四<lb
+ ed="X" n="0887c10"/>第六是相違因。余之五句是不定摂。此亦依彼<lb
+ ed="X" n="0887c11"/>陳那所說。故理門論云。<lb
+ ed="X" n="0887c12"/>如是分別。說名為因相違不定。故本頌言。<pb ed="X" id="X53.0855.0888a" n="0888a"/><lb
+ ed="X" n="0888a01"/>於同有及二　在異無是因　翻此名相違　所余<lb
+ ed="X" n="0888a02"/>皆不定。<lb
+ ed="X" n="0888a03"/>問。第二第八是正因収。且如不成因。亦於<lb
+ ed="X" n="0888a04"/>同有。異無。応是正因耶。<lb
+ ed="X" n="0888a05"/>答。因遍宗法。方論九句。既不成因。何用<lb
+ ed="X" n="0888a06"/>同有異無之相。故非第二第八所収。<lb
+ ed="X" n="0888a07"/>問。相違決定。及法差別相違因等。亦是第<lb
+ ed="X" n="0888a08"/>二第八所収。応是正因耶。<lb
+ ed="X" n="0888a09"/>答。正因必是第二第八所収。不說第二第八<lb
+ ed="X" n="0888a10"/>皆正因摂。約此義說亦不相違。<lb
+ ed="X" n="0888a11"/>論云。是無常等因緣。云等者。等無我苦空<lb
+ ed="X" n="0888a12"/>也。乃至云。声亦無我苦空。所作性故。猶如<lb
+ ed="X" n="0888a13"/>瓶等者。此亦不然。若離所作。故是苦。顕声<lb
+ ed="X" n="0888a14"/>所作亦是苦。亦可聖道等所作非是苦。顕声所<lb
+ ed="X" n="0888a15"/>作非苦耶。乃至成空。亦不定過。故知不得定<lb
+ ed="X" n="0888a16"/>作此判。但可於中。必具三相者。等之不得定<lb
+ ed="X" n="0888a17"/>判等苦空也。<lb
+ ed="X" n="0888a18"/>又。解喻。論云。謂於是処。顕因同品決定<lb
+ ed="X" n="0888a19"/>有性。<lb
+ ed="X" n="0888a20"/>疏解云。処謂有法。顕謂顕說。因謂遍宗法<lb
+ ed="X" n="0888a21"/>因。同品謂󴥵此因相似。非謂宗同名同品也。<lb
+ ed="X" n="0888a22"/>決定有性者。謂決定有所立法性。若作此解。<lb
+ ed="X" n="0888a23"/>理即不然。因同品言。可顕瓶上所作決定有性。<lb
+ ed="X" n="0888a24"/>文中不顕。云何知是瓶上無常。<pb ed="X" id="X53.0855.0888b" n="0888b"/><lb
+ ed="X" n="0888b01"/>若言以下指体。文言。謂若所作。即是顕因<lb
+ ed="X" n="0888b02"/>同品。見彼無常。即是決定有性。拠下次第知<lb
+ ed="X" n="0888b03"/>上必然者。此亦不然。懸解既先言。是処指体。<lb
+ ed="X" n="0888b04"/>何因復說如瓶。故知不得以下次第。顕上亦然。<lb
+ ed="X" n="0888b05"/>又。宗同品既不取無常。其因同品云何乃取<lb
+ ed="X" n="0888b06"/>所作。又。作此解違理門論故。彼論云。<lb
+ ed="X" n="0888b07"/>由如是說。能顕示因同品定有。異品遍無。<lb
+ ed="X" n="0888b08"/>非顛倒說。<lb
+ ed="X" n="0888b09"/>准此文故知。同喻顕因同品定有性。異法喻<lb
+ ed="X" n="0888b10"/>因異品遍無性。故知不得作此解也。<lb
+ ed="X" n="0888b11"/>応解云。若於是処者。謂於瓶等処也。顕謂<lb
+ ed="X" n="0888b12"/>說也。顕說何事。謂顕因也。顕因何相。顕第<lb
+ ed="X" n="0888b13"/>二同品定有性也。若作此解。不違論文。亦無<lb
+ ed="X" n="0888b14"/>如上所有過失也。<lb
+ ed="X" n="0888b15"/>疏中有人解。陳那以声所作無常。能同外瓶<lb
+ ed="X" n="0888b16"/>所作無常。但取能同為喻体者。広破如疏中述。<lb
+ ed="X" n="0888b17"/>今更助難云。若取能同。為喻体者。即遍宗<lb
+ ed="X" n="0888b18"/>法因及声所立宗法。応即是喻。若是喻云󴥏応。<lb
+ ed="X" n="0888b19"/>宗因喻等応無差別。<lb
+ ed="X" n="0888b20"/>又解。無常既為喻体。応是所立不成過収。<lb
+ ed="X" n="0888b21"/>若言正立声無常時。名為宗法。立声所作。証<lb
+ ed="X" n="0888b22"/>無常時。名遍宗法。即以声所作無常外同瓶所<lb
+ ed="X" n="0888b23"/>作之時。名為喻体。何得難言宗因喻等全無差<lb
+ ed="X" n="0888b24"/>別。又。声所作無常。正同瓶所作無常時。其<pb ed="X" id="X53.0855.0888c" n="0888c"/><lb
+ ed="X" n="0888c01"/>声無常。亦即極成。何得判云。立不成者。即<lb
+ ed="X" n="0888c02"/>応同品定有性。体不取瓶上所作無常。取瓶上<lb
+ ed="X" n="0888c03"/>所作無常為第二相。此相即是同品之体。故知<lb
+ ed="X" n="0888c04"/>喻体不取能同也。又結能立体中。論云。<lb
+ ed="X" n="0888c05"/>若是所作見彼無常。如瓶等者。是隨同品言。<lb
+ ed="X" n="0888c06"/>疏解云。<pb ed="X" id="X53.0855.0889a" n="0889a"/><lb
+ ed="X" n="0889a01"/>此結同喻也。瓶上所作󴥵声所作同故。知名<lb
+ ed="X" n="0889a02"/>同品。瓶等無常隨此同品故。云隨同品。由瓶<lb
+ ed="X" n="0889a03"/>無常隨同品故。即顕声無常。亦隨所作因也。<lb
+ ed="X" n="0889a04"/>或可声上所作無常。隨瓶所作無常故。名隨同<lb
+ ed="X" n="0889a05"/>品也。<lb
+ ed="X" n="0889a06"/>今更助解云。同法喻言。是顕所作因。隨逐<lb
+ ed="X" n="0889a07"/>宗之同品処有。即是顕因同品定有性之言。若<lb
+ ed="X" n="0889a08"/>作此解。即顕因第二相文并同喻文及此結文。<lb
+ ed="X" n="0889a09"/>皆相隨順不乖違也。<lb
+ ed="X" n="0889a10"/>論云。若是其常。見非所作。如虚空者。是<lb
+ ed="X" n="0889a11"/>遠離言。<lb
+ ed="X" n="0889a12"/>疏解云。此結異喻。無所立無常宗処。遠離<lb
+ ed="X" n="0889a13"/>能立所作因也。<lb
+ ed="X" n="0889a14"/>今更助解云。同法喻既顕因。隨逐宗之同品。<lb
+ ed="X" n="0889a15"/>異法喻応顕因。遠離宗之異品。即顕異品遍無<lb
+ ed="X" n="0889a16"/>性也。応解。無所立無常宗処所作之因遠離也。<lb
+ ed="X" n="0889a17"/>解結能立中広計文。<lb
+ ed="X" n="0889a18"/>疏中問答云。問。唯三能立無異義成。能立<lb
+ ed="X" n="0889a19"/>唯三。無同得立。答。同喻順成無同闕助。異<lb
+ ed="X" n="0889a20"/>法止濫無異濫除。故不類也。外道亦具有唯立<lb
+ ed="X" n="0889a21"/>異喻。以三義証。斥破此計也。如広百論。<lb
+ ed="X" n="0889a22"/>問。此唯順広百論文。仍違摂大乗論。無性<lb
+ ed="X" n="0889a23"/>摂論第一卷解。不共不有証文云。不共無明。<lb
+ ed="X" n="0889a24"/>於五識中。無容得有。是処無有能対治故。若<pb ed="X" id="X53.0855.0889b" n="0889b"/><lb
+ ed="X" n="0889b01"/>処有能治。必定有所治。准此文即是唯以異喻<lb
+ ed="X" n="0889b02"/>成宗。如何会釈。<lb
+ ed="X" n="0889b03"/>答。論師定異。不可和会。今不相違。於二<lb
+ ed="X" n="0889b04"/>教中。且明百論以不違其三相因故。摂大乗論。<lb
+ ed="X" n="0889b05"/>若有第二相。何因不作同法喻耶。若無第二相<lb
+ ed="X" n="0889b06"/>不作同喻者。所聞性因唯作異喻。其義応成。<lb
+ ed="X" n="0889b07"/>若無同品不作同喻。無不定過者。無同品故。<lb
+ ed="X" n="0889b08"/>名同品無。亦是不共不定之過。又。此異喻先<lb
+ ed="X" n="0889b09"/>說無因。後述無宗。即是似異喻中倒離之過。<lb
+ ed="X" n="0889b10"/>何妨不作同喻。亦是過也。故且明百論所說。<lb
+ ed="X" n="0889b11"/>解似宗中。明比量相違。疏云。且如薩婆多<lb
+ ed="X" n="0889b12"/>対大乗云。現在諸法。独有力用。取後果有実<lb
+ ed="X" n="0889b13"/>体故。如過未等。即此宗義。違共比量。違共<lb
+ ed="X" n="0889b14"/>比量者。云現在諸法定有力用取等流果。世所<lb
+ ed="X" n="0889b15"/>摂故。如過未等。<lb
+ ed="X" n="0889b16"/>問。独有力用。形何法耶。諸師解云。形過<lb
+ ed="X" n="0889b17"/>未說。以過去未来。不取等流果故者俱亦不然。<lb
+ ed="X" n="0889b18"/>此比量通三藏所說。豈可判此。無過之宗。違<lb
+ ed="X" n="0889b19"/>有過比量。名比量相違。何者且如大乗小乗既<lb
+ ed="X" n="0889b20"/>在諸法形。彼過未実有。独取等流果義。豈可<lb
+ ed="X" n="0889b21"/>以此正義。違不取果。不正比量。名比量相違。<lb
+ ed="X" n="0889b22"/>且如論挙瓶等。是常不正之義。違初無後無正<lb
+ ed="X" n="0889b23"/>比量因故。是比量相違所収。故知不得以正義<lb
+ ed="X" n="0889b24"/>違不正比量。名比量相違也。<pb ed="X" id="X53.0855.0889c" n="0889c"/><lb
+ ed="X" n="0889c01"/>若爾三藏。何故挙此。解比量相違耶。<lb
+ ed="X" n="0889c02"/>答。今解三藏意云。現在諸法。離因緣扶助。<lb
+ ed="X" n="0889c03"/>独有力用取等流果。如是方名不正之宗。違大<lb
+ ed="X" n="0889c04"/>小乗因緣扶助取果之義故。是比量相違所摂也。<lb
+ ed="X" n="0889c05"/>其所違三比量如何。前所說但宗意云。現在諸<lb
+ ed="X" n="0889c06"/>法。離因緣扶助。定無力用取等流果也。若作<pb ed="X" id="X53.0855.0890a" n="0890a"/><lb
+ ed="X" n="0890a01"/>此解。即顕邪宗違正比量妙󴥏內教善順因明也。<lb
+ ed="X" n="0890a02"/>論云。是遣諸法自相門故。<lb
+ ed="X" n="0890a03"/>疏云。何故違彼現量等五是宗過者。以此五<lb
+ ed="X" n="0890a04"/>宗是遣諸法自相門故。謂声是諸法自相。其声<lb
+ ed="X" n="0890a05"/>自相為耳等所聞。通生耳識。即所聞義。名之<lb
+ ed="X" n="0890a06"/>為門。今言声非所聞者。不失声之自相。但遣<lb
+ ed="X" n="0890a07"/>所聞之門。故成過也。余四種過類此可知。<lb
+ ed="X" n="0890a08"/>更有大徳解云。此中五過。不違有法。但遣<lb
+ ed="X" n="0890a09"/>於法。故名為法。法之体相。名為自相。門者<lb
+ ed="X" n="0890a10"/>方便。義謂自立宗。如說声非所聞。即是遣違。<lb
+ ed="X" n="0890a11"/>声上所聞法自相方便也。<lb
+ ed="X" n="0890a12"/>今解云。即此五種法自相為相違義之所遮遣<lb
+ ed="X" n="0890a13"/>故。言是遣諸法自相門故也。何者且如声非所<lb
+ ed="X" n="0890a14"/>聞宗。即為立敵耳識現量所聞相違之義。遣非<lb
+ ed="X" n="0890a15"/>所聞法自相也。瓶等是常宗。即為初無後無。<lb
+ ed="X" n="0890a16"/>三相之因所顕無常相違之義遣常法自相也。勝<lb
+ ed="X" n="0890a17"/>論立声為常。即為自教說声無常相違之義遣常<lb
+ ed="X" n="0890a18"/>法自相也。懷兔非月等宗。即為世間多人共許<lb
+ ed="X" n="0890a19"/>是月。相違之義。遣非月自相也。我母是石女<lb
+ ed="X" n="0890a20"/>宗。即亦為我母。相違之義。遣石女法自相也。<lb
+ ed="X" n="0890a21"/>此並依彼大因明說。彼論初自分明解不法具引<lb
+ ed="X" n="0890a22"/>此。既是聖教自判不󴥏更作余釈也。<lb
+ ed="X" n="0890a23"/>解不成因中。疏中引余人解不成言。以不能<lb
+ ed="X" n="0890a24"/>成宗故。名不成因。法師破云。若以不能成宗<pb ed="X" id="X53.0855.0890b" n="0890b"/><lb
+ ed="X" n="0890b01"/>故名不成者。所聞性因亦不能成宗。応是不成<lb
+ ed="X" n="0890b02"/>因。既是成因故立因体不成故。名不成也。<lb
+ ed="X" n="0890b03"/>若作此破者。彼若救云。所聞性因。唯不得<lb
+ ed="X" n="0890b04"/>作同喻。成宗亦得作量喻反顕。不得言不能成<lb
+ ed="X" n="0890b05"/>宗。其不成因必定不能成宗故不成名不成也。<lb
+ ed="X" n="0890b06"/>若作此救彼義並成。故不得約所聞因難也。<lb
+ ed="X" n="0890b07"/>今更助破云。若以不能成宗故名不成者。其<lb
+ ed="X" n="0890b08"/>法自相相違因。同品非有故不得作同喻順成。<lb
+ ed="X" n="0890b09"/>異品有因故不得作異喻反顕。応不成宗名不成<lb
+ ed="X" n="0890b10"/>因。雖不成宗由遍宗法故是極成因約因体不成<lb
+ ed="X" n="0890b11"/>名不成也。<lb
+ ed="X" n="0890b12"/>又。疏中解隨一不成名云。言隨一者。此不<lb
+ ed="X" n="0890b13"/>成中含其三種。或有因唯自不成非他。或有因<lb
+ ed="X" n="0890b14"/>唯他不成非自。或有因或自或他更互不成。今<lb
+ ed="X" n="0890b15"/>此中但是唯他不成。非自不成。是此不成摂名<lb
+ ed="X" n="0890b16"/>隨一不成。非謂此之一因。即是自他互不成。<lb
+ ed="X" n="0890b17"/>准此疏文。即是不成中含三不成。三中隨一。<lb
+ ed="X" n="0890b18"/>故名隨一。若作此解。理不必然。難云。若以<lb
+ ed="X" n="0890b19"/>三不成中隨一故名隨一者。亦応四不成中隨一<lb
+ ed="X" n="0890b20"/>故。両俱不成。亦名隨一。若言一不成中含容<lb
+ ed="X" n="0890b21"/>三。三中隨一者名隨一者亦可両俱不成含容二。<lb
+ ed="X" n="0890b22"/>二中隨一名隨一。言二者謂全分一分等也。既<lb
+ ed="X" n="0890b23"/>有斯過故。知不得作此解也。<lb
+ ed="X" n="0890b24"/>今解云。且如両俱不成。由立敵俱不成故。<pb ed="X" id="X53.0855.0890c" n="0890c"/><lb
+ ed="X" n="0890c01"/>知隨一不成。由隨一人不許故名隨一也。<lb
+ ed="X" n="0890c02"/>解猶予不成中。<lb
+ ed="X" n="0890c03"/>論云。為成大種和合火有。<lb
+ ed="X" n="0890c04"/>疏云。河水為水大。河岸為地大。於中有風<lb
+ ed="X" n="0890c05"/>為風大。又山等中若有河無河之処有性四大。<lb
+ ed="X" n="0890c06"/>故云大種和合也。<lb
+ ed="X" n="0890c07"/>若作此解。理亦不然。以烟成火。豈従河水<lb
+ ed="X" n="0890c08"/>岸等為大種和合耶。又。以烟成火。豈論性四<lb
+ ed="X" n="0890c09"/>大和合火耶。故知不得作此解也。<lb
+ ed="X" n="0890c10"/>今解云。火有二種。一者大種和合事火如火<lb
+ ed="X" n="0890c11"/>聚中有地大等共和合故。二者性火如彼木中有<lb
+ ed="X" n="0890c12"/>火性故。為簡性火故。知大種和合火也。<pb ed="X" id="X53.0855.0891a" n="0891a"/><lb
+ ed="X" n="0891a01"/>解不定過不共文中。<lb
+ ed="X" n="0891a02"/>論云。常無常品皆離此因。常無常外。余非<lb
+ ed="X" n="0891a03"/>有故。<lb
+ ed="X" n="0891a04"/>疏解云。此釈義也。此中常宗以虚空等為其<lb
+ ed="X" n="0891a05"/>同品。以瓶等為其異品。其所聞義遍皆非有亀<lb
+ ed="X" n="0891a06"/>毛等無摂入無常品中。復不可言更於余法有此<lb
+ ed="X" n="0891a07"/>因義。以為同喻。以余常無常二品法外。更無<lb
+ ed="X" n="0891a08"/>非常非無常第三品故。<lb
+ ed="X" n="0891a09"/>若作此理釈恐不然。且如亀毛等。若有能立<lb
+ ed="X" n="0891a10"/>所聞之因及有所立常住之義。為同法喻乖不共<lb
+ ed="X" n="0891a11"/>義可須遮防。既無能立所立二法。云何立彼。<lb
+ ed="X" n="0891a12"/>以為同喻。故知此解不󴥏斯論。若言亀毛非常<lb
+ ed="X" n="0891a13"/>非無常恐為不同非異品為遮此。故作此說也。<lb
+ ed="X" n="0891a14"/>既不乖不共之義。何須此中遮之。若言雖不乖<lb
+ ed="X" n="0891a15"/>不共。何広遮余品󴥏何故前解共中不遮要至不<lb
+ ed="X" n="0891a16"/>共方遮耶。<lb
+ ed="X" n="0891a17"/>又。上句云。常無常品皆離此因。正解不共。<lb
+ ed="X" n="0891a18"/>下句挙言。常無常外余非有故。既是遮余品。<lb
+ ed="X" n="0891a19"/>不釈上不共之句故言既是釈上句詞故。須言余<lb
+ ed="X" n="0891a20"/>非有耶。既有斯過故。知不得作此解也。<lb
+ ed="X" n="0891a21"/>今解云。常無常品皆離此因者。正釈不共義。<lb
+ ed="X" n="0891a22"/>常無常外余非有故。釈成不共也。云何釈成。<lb
+ ed="X" n="0891a23"/>且如問言。何故常無常品皆離此因耶。釈成云。<lb
+ ed="X" n="0891a24"/>如声論師対仏弟子立一切󴥏声皆是常。因云所<pb ed="X" id="X53.0855.0891b" n="0891b"/><lb
+ ed="X" n="0891b01"/>聞性故。除宗以外仏法敵論常無常品是宗余故<lb
+ ed="X" n="0891b02"/>非有所聞因也。<lb
+ ed="X" n="0891b03"/>此解即顕余宗已外余常無常非有所聞性因故<lb
+ ed="X" n="0891b04"/>言常無常外余非有故也。若作此解即是釈上句<lb
+ ed="X" n="0891b05"/>成不共義也。<lb
+ ed="X" n="0891b06"/>又。疏中問答云。問。所量通二品。遍属異<lb
+ ed="X" n="0891b07"/>品不定収。所聞同雖無不属異品非不定。広如<lb
+ ed="X" n="0891b08"/>疏說。答。此因唯属有法之声。不通同異故是<lb
+ ed="X" n="0891b09"/>不定。又。如山中草木無的所属然有属此人彼<lb
+ ed="X" n="0891b10"/>人之義即名不定。今。此所聞性因亦爾。不在<lb
+ ed="X" n="0891b11"/>余品。若在余品。即容通在同異品義故。是不<lb
+ ed="X" n="0891b12"/>定。<lb
+ ed="X" n="0891b13"/>若作此釈理恐不然。山中草木雖無的属。然<lb
+ ed="X" n="0891b14"/>有可属此。彼人故許草木有不定義。所聞性因<lb
+ ed="X" n="0891b15"/>唯属声宗。意不通同異二品。云何同彼解不定<lb
+ ed="X" n="0891b16"/>耶。故知不得作此釈也。若爾不共不通同異。<lb
+ ed="X" n="0891b17"/>如何同共解不定耶。<lb
+ ed="X" n="0891b18"/>今解云。共過通彼同異品俱為同法。是因不<lb
+ ed="X" n="0891b19"/>共不通同異品。名異法成不定。何者且如共過<lb
+ ed="X" n="0891b20"/>通彼同品異品故即以広虚空瓶等為其同法。成<lb
+ ed="X" n="0891b21"/>常無常故是因不共之因。不通同異品中故。重<lb
+ ed="X" n="0891b22"/>以色等虚空為異法故。亦顕常無常是不定也。<lb
+ ed="X" n="0891b23"/>若用此難。応云。色等是無常。色等非所聞。<lb
+ ed="X" n="0891b24"/>顕声有所聞。声即是常住。亦可虚空是常住。<pb ed="X" id="X53.0855.0891c" n="0891c"/><lb
+ ed="X" n="0891c01"/>虚空非所聞。顕声有所聞。声応是無常住。准<lb
+ ed="X" n="0891c02"/>此難故。知共過約同有異有為同法故。順成不<lb
+ ed="X" n="0891c03"/>定。不共過約同無異無為異故。反顕成猶予也。<lb
+ ed="X" n="0891c04"/>又。疏中問答云。問。如立宗云。一切声是<lb
+ ed="X" n="0891c05"/>常。因云。以是声故。常無常品皆離此因。常<lb
+ ed="X" n="0891c06"/>無常外余復非有。亦応唯是不共過耶。答声是<lb
+ ed="X" n="0891c07"/>有法。常是法。立因乃云。以是声故。此因是<lb
+ ed="X" n="0891c08"/>所立有法除有法外更無別義。非宗法故。非不<lb
+ ed="X" n="0891c09"/>定摂。但是俱不成過。<lb
+ ed="X" n="0891c10"/>此解󴥵理門論同。即是有法不得成有法。<lb
+ ed="X" n="0891c11"/>又。疏中解。所聞性因是他不共。以声論師<lb
+ ed="X" n="0891c12"/>対仏弟子立此因。故望自既是三相具足。望他<lb
+ ed="X" n="0891c13"/>即是除声以外無所聞因。故唯他不共過者。理<lb
+ ed="X" n="0891c14"/>亦不然。且如他方仏声等既是異品。其所聞性<lb
+ ed="X" n="0891c15"/>因於彼既有。何得名為他不共也。若爾云何名<lb
+ ed="X" n="0891c16"/>為不共。<lb
+ ed="X" n="0891c17"/>今解云。望共同品異品中無名為不共。雖此<lb
+ ed="X" n="0891c18"/>仏法対声論師立所聞性因。既於他方仏声上有。<pb ed="X" id="X53.0855.0892a" n="0892a"/><lb
+ ed="X" n="0892a01"/>故知亦共同異品無名為不共。疏制為自不共者<lb
+ ed="X" n="0892a02"/>非也。<lb
+ ed="X" n="0892a03"/>解相違決定文中。論云。此二皆是猶予因。<lb
+ ed="X" n="0892a04"/>故俱名不定。<lb
+ ed="X" n="0892a05"/>疏解云。此結過也。問。声勝二論比量皆成<lb
+ ed="X" n="0892a06"/>何故復云。皆是猶予。答。此二比量。雖無余<lb
+ ed="X" n="0892a07"/>過。然其証人結眾即理之是非。謂彼疑云。一<lb
+ ed="X" n="0892a08"/>有法声其宗互反因喻各立。何正何邪。故俱猶<lb
+ ed="X" n="0892a09"/>予。名為不定者。如真能立無有過。先敵不疑。<lb
+ ed="X" n="0892a10"/>亦応邪眾証人疑故。是猶予因。故知不得以眾<lb
+ ed="X" n="0892a11"/>疑。判為不定也。<lb
+ ed="X" n="0892a12"/>今解云。声勝二論。雖各立義。然彼此因。<lb
+ ed="X" n="0892a13"/>立敵皆信。各具三相。言中雖復確立自宗。然<lb
+ ed="X" n="0892a14"/>心皆為彼此因惑故。言此二皆猶予因。非約邪<lb
+ ed="X" n="0892a15"/>眾。証義人心解不定也。何者。且如勝論心猶<lb
+ ed="X" n="0892a16"/>予云。為如我所作性因立敵皆許具三相故。能<lb
+ ed="X" n="0892a17"/>証声無常耶。為如他所聞性因。立敵皆許是三<lb
+ ed="X" n="0892a18"/>相故。能証声常耶。<lb
+ ed="X" n="0892a19"/>又。声論師心猶予云。為如我所聞性因。立<lb
+ ed="X" n="0892a20"/>敵皆許。具三相能証声常耶。為如他所作之因。<lb
+ ed="X" n="0892a21"/>立敵皆許具三相。故能証声無常耶。故知但約<lb
+ ed="X" n="0892a22"/>立敵之心。自猶予故。名不定也。<lb
+ ed="X" n="0892a23"/>又。論文中先挙勝論宗因喻。後挙声論宗因<lb
+ ed="X" n="0892a24"/>喻者。且依因明法。作相違決定難也。<pb ed="X" id="X53.0855.0892b" n="0892b"/><lb
+ ed="X" n="0892b01"/>若依此因。難勢用相違決定有二。一総約三<lb
+ ed="X" n="0892b02"/>相難。応云所作之因具三相。声即是無常。亦<lb
+ ed="X" n="0892b03"/>可所聞之因具三相。声応是常住。二別約二喻<lb
+ ed="X" n="0892b04"/>難。難同喻云。瓶有所作故無常。顕声所作亦<lb
+ ed="X" n="0892b05"/>無常亦可声性所聞是常住。顕声所聞即是常。<lb
+ ed="X" n="0892b06"/>難異喻云。虚空是常無所作。声有所作即無常。<lb
+ ed="X" n="0892b07"/>亦可電等無常。非所聞声既所聞。応是常。若<lb
+ ed="X" n="0892b08"/>順此方応用斯難。<lb
+ ed="X" n="0892b09"/>又。疏中問答云。問。声論定墮負。応是宗<lb
+ ed="X" n="0892b10"/>過収。如其離九失何成違現教。答。声論說声<lb
+ ed="X" n="0892b11"/>常住。耳等曽不恒聞。勝義雖簡宗非。約情終<lb
+ ed="X" n="0892b12"/>違現教。此即由言故無宗過。謂就勝義。声是<lb
+ ed="X" n="0892b13"/>常。拠情故理不真。謂違世間現教二量。<lb
+ ed="X" n="0892b14"/>此中不応作問答。且如宗過中現教相違者。<lb
+ ed="X" n="0892b15"/>挙違自違共。現教者說違他現教非是宗過。此<lb
+ ed="X" n="0892b16"/>中現教即是勝論所用唯違於他。正順宗義故知<lb
+ ed="X" n="0892b17"/>不合作此問答。若爾。何故理門言。<lb
+ ed="X" n="0892b18"/>今於此中現教力勝故。応依此思求決定耶。<lb
+ ed="X" n="0892b19"/>答。此文意說相違決定。既不知誰是誰非。<lb
+ ed="X" n="0892b20"/>但観自家義󴥵諸家現教相用勝者思求決定。故<lb
+ ed="X" n="0892b21"/>作是說。非是宗中現教相違也。<lb
+ ed="X" n="0892b22"/>又。疏中問答云。問。具足三相。応是正因。<lb
+ ed="X" n="0892b23"/>何故此中而言不定。答。。<lb
+ ed="X" n="0892b24"/>今解云。若具三相非三相違。又不為彼敵因<pb ed="X" id="X53.0855.0892c" n="0892c"/><lb
+ ed="X" n="0892c01"/>所可是正因。雖具三相。仍為敵量乖反󴥏。今<lb
+ ed="X" n="0892c02"/>彼此心惑。不知誰是誰非故。雖具三相而名不<lb
+ ed="X" n="0892c03"/>定也。<lb
+ ed="X" n="0892c04"/>解相違過中。論云。謂法自相相違因。法差<lb
+ ed="X" n="0892c05"/>別相違因。有法自相相違因。有法差別相違因<lb
+ ed="X" n="0892c06"/>等。<lb
+ ed="X" n="0892c07"/>疏解云。此列名也。宗有二種。一言顕宗。<lb
+ ed="X" n="0892c08"/>有二。一法自相。如無常等。二有法自相。如<lb
+ ed="X" n="0892c09"/>声等。二意許宗亦二。一法差別。謂於前法自<lb
+ ed="X" n="0892c10"/>相言宗之上有自意許。如大乗唯識所変無常等。<lb
+ ed="X" n="0892c11"/>二有法差別謂於前有法自相言宗之上有自意許<lb
+ ed="X" n="0892c12"/>大乗無漏声等。問。如大乗識変声等応是差別。<lb
+ ed="X" n="0892c13"/>何故不說。答。識変声等是有法自相。以大乗<lb
+ ed="X" n="0892c14"/>声唯従識変無非変無非変者故也。其識変無常<lb
+ ed="X" n="0892c15"/>該電等故是法差別。<lb
+ ed="X" n="0892c16"/>此中。解識変無常為法差別。理亦不然。何<lb
+ ed="X" n="0892c17"/>者且如因違識変声等共言顕有法。即識変声是<lb
+ ed="X" n="0892c18"/>有法自相。立因違識変無常。亦共言顕法。何<pb ed="X" id="X53.0855.0893a" n="0893a"/><lb
+ ed="X" n="0893a01"/>故識変無常非法自相耶。<lb
+ ed="X" n="0893a02"/>若疏該色等。故是法差別者言顕。無常亦該<lb
+ ed="X" n="0893a03"/>色等応非法自相。故知共言顕者。雖該色上亦<lb
+ ed="X" n="0893a04"/>法自相。唯先意許者縦不該余。亦法差別。故<lb
+ ed="X" n="0893a05"/>知不得作此解也。<lb
+ ed="X" n="0893a06"/>今。更助解云。若識変無常。是法自相。以<lb
+ ed="X" n="0893a07"/>更無非識変無常故。若耳識所変声上無常及󴥏<lb
+ ed="X" n="0893a08"/>耶。意識等所変声上無常隨󴥏一者即所違無常<lb
+ ed="X" n="0893a09"/>是法差別。以唯違意許。不共言顕故。<lb
+ ed="X" n="0893a10"/>解法差別相違因中。問。󴥏積聚性因違無積<lb
+ ed="X" n="0893a11"/>聚他用。即是法差別因。亦応所作性因違一塵<lb
+ ed="X" n="0893a12"/>無常義。応是法差別相違因。何者。且如仏法<lb
+ ed="X" n="0893a13"/>対声論師立声無常。所作性故。譬如瓶等。声<lb
+ ed="X" n="0893a14"/>論師󴥵仏法。作法差別相違因過云。声応非一<lb
+ ed="X" n="0893a15"/>塵無常。所作性故。譬如瓶等。以瓶是四塵無<lb
+ ed="X" n="0893a16"/>常故也。<lb
+ ed="X" n="0893a17"/>若立有此難。如何会釈。答積聚性因望法自<lb
+ ed="X" n="0893a18"/>相。具足三相󴥵法差別相違為因。亦具三相故<lb
+ ed="X" n="0893a19"/>是法差別相違因収。其所作因望法自相。具足<lb
+ ed="X" n="0893a20"/>三相󴥵法差別相違非一塵無常為因。於異品一<lb
+ ed="X" n="0893a21"/>塵無常電等上有故非法差別相違因也。応反󴥵<lb
+ ed="X" n="0893a22"/>作不定過云。為如電等所作性故是一塵無常耶。<lb
+ ed="X" n="0893a23"/>為如瓶等所作性故非一塵無常耶。<lb
+ ed="X" n="0893a24"/>又。疏中。問曰。無積聚他所受用宗。数論<pb ed="X" id="X53.0855.0893b" n="0893b"/><lb
+ ed="X" n="0893b01"/>自許通臥具上是法差別。其仏弟子対数論師。<lb
+ ed="X" n="0893b02"/>立声滅壞。亦自許滅壞通燈焰上。何故即非法<lb
+ ed="X" n="0893b03"/>自相耶。若是法自相者能別応成。広答此問如<lb
+ ed="X" n="0893b04"/>疏中解。<lb
+ ed="X" n="0893b05"/>今更助一解云。言顕名自相。能別法極成。<lb
+ ed="X" n="0893b06"/>能別不極成。所以非自相意許名差別。能別不<lb
+ ed="X" n="0893b07"/>須成縦彼他不許不廃成差別。両義既且不同。<lb
+ ed="X" n="0893b08"/>故不得作例也。有法自相相違文云。<lb
+ ed="X" n="0893b09"/>有性非実非徳非業。有一実故。有徳業故。<lb
+ ed="X" n="0893b10"/>如同異性。<lb
+ ed="X" n="0893b11"/>問。此有一異等因為以三法別成三法。為用<lb
+ ed="X" n="0893b12"/>三因共亦三宗耶。<lb
+ ed="X" n="0893b13"/>答。以三法別成三法。如有一実因成非実法<lb
+ ed="X" n="0893b14"/>有徳業因別成。非法非業法。何以得立。且如<lb
+ ed="X" n="0893b15"/>宗云。非実非徳非業三法既異。故知因言有一<lb
+ ed="X" n="0893b16"/>実等各成一法也。<lb
+ ed="X" n="0893b17"/>若言三因共成三法者。一一皆有一分重成己<lb
+ ed="X" n="0893b18"/>立過。何者。且如有一実因。弟子亦信非徳非<lb
+ ed="X" n="0893b19"/>業。若二能成非徳非業。弟子既信。何須重成。<lb
+ ed="X" n="0893b20"/>有徳之因。弟子亦信非実非業。若亦能成非実<lb
+ ed="X" n="0893b21"/>非業。弟子既信。何須重成。有業之因弟子亦<lb
+ ed="X" n="0893b22"/>信。非実非業。若亦能成。非実非徳。弟子既<lb
+ ed="X" n="0893b23"/>信。何須重成。故以三因渾成三法。一一皆有<lb
+ ed="X" n="0893b24"/>一分。重成己立過也。故知三因各立一法也。<pb ed="X" id="X53.0855.0893c" n="0893c"/><lb
+ ed="X" n="0893c01"/>問。数論一解不許眼等為仮他用。由因喻力<lb
+ ed="X" n="0893c02"/>成立眼等。為仮他用。雖違真他用。以仮他替<lb
+ ed="X" n="0893c03"/>真他故。因名違差別不名違自相。亦可五頂許<lb
+ ed="X" n="0893c04"/>有。唯離実。弟子難有非離実。以彼即替離有。<lb
+ ed="X" n="0893c05"/>応違有法差別収。<lb
+ ed="X" n="0893c06"/>答。数論雖違真他用自有仮他替真他因違差<lb
+ ed="X" n="0893c07"/>別非自相。五頂違彼離実有。自無即替体。離<lb
+ ed="X" n="0893c08"/>為因違自相非差別。何者。且如臥具共許。為<lb
+ ed="X" n="0893c09"/>仮他用因喻力故成立眼等仮他用為自有仮他替<lb
+ ed="X" n="0893c10"/>真他故因名違差別。同異共許非離実有。亦非<lb
+ ed="X" n="0893c11"/>即実有。由因喻力故。成立有性。非離実有既<lb
+ ed="X" n="0893c12"/>自無即実有替離実有。故因名違自相也。<lb
+ ed="X" n="0893c13"/>問。有性有一実有性。非同異不得難。彼同<lb
+ ed="X" n="0893c14"/>異有一実同異。非同異何得同異有一実同異非<lb
+ ed="X" n="0893c15"/>大有。例彼有性有一実有性非大有耶。<lb
+ ed="X" n="0893c16"/>答。若以有性難同異違共許故。不成難以彼<lb
+ ed="X" n="0893c17"/>同異難大有違他後成能破也。<lb
+ ed="X" n="0893c18"/>問。同異有一実徳業同異。非是離実有。例<lb
+ ed="X" n="0893c19"/>破有性有一実徳業。有性不是離実有難破師主<lb
+ ed="X" n="0893c20"/>之有。亦可同異不是即実有。例彼有性有一実<lb
+ ed="X" n="0893c21"/>徳業。有性不是即実有難破弟子有耶。<lb
+ ed="X" n="0893c22"/>答。共相違因者。以立論之因違立者之義故。<lb
+ ed="X" n="0893c23"/>唯難師󴥏之有。不明立者之因違教者之義故不<lb
+ ed="X" n="0893c24"/>得破弟子之有也。<pb ed="X" id="X53.0855.0894a" n="0894a"/><lb
+ ed="X" n="0894a01"/>問。如声論師破仏法。所作比量云。声応是<lb
+ ed="X" n="0894a02"/>無常。声所作性故。猶如瓶等。此既唯違立論<lb
+ ed="X" n="0894a03"/>有法自相相違。若言是者。一切法因皆斯過。<lb
+ ed="X" n="0894a04"/>如何会釈。若言非者。此既唯違立論有法有何<lb
+ ed="X" n="0894a05"/>所以得知非耶。<lb
+ ed="X" n="0894a06"/>答。応立作不定過云。為如瓶等所作性故非<lb
+ ed="X" n="0894a07"/>無常。声証声所作性故。非無常声耶。為如他<lb
+ ed="X" n="0894a08"/>方仏声所作性故是無常。声証声所作性故是無<lb
+ ed="X" n="0894a09"/>常声耶。<lb
+ ed="X" n="0894a10"/>問。若声論対勝論。所作因作此過失。既除<lb
+ ed="X" n="0894a11"/>余極成有法外更無不共許。声如何󴥵他作不定<lb
+ ed="X" n="0894a12"/>過耶。<lb
+ ed="X" n="0894a13"/>答。若有斯過。応更解云。共有法自相相違<lb
+ ed="X" n="0894a14"/>因。不得飜法作。若飜法作者。即有難一切因<lb
+ ed="X" n="0894a15"/>過。如言声応非無常是也。若不飜法。不違共<lb
+ ed="X" n="0894a16"/>許。破有法者是有法自相相違因収。即如有性<lb
+ ed="X" n="0894a17"/>応非有是也。<lb
+ ed="X" n="0894a18"/>若依此解。但可言有性応非大有等。即違他<lb
+ ed="X" n="0894a19"/>許之有不得言有性応非離実離徳離業有。即是<lb
+ ed="X" n="0894a20"/>以法飜有法作便成難一切因過也。<lb
+ ed="X" n="0894a21"/>又。更解云。若成立法方便顕有法者。即須<lb
+ ed="X" n="0894a22"/>󴥵作有法自相相違因過。如言有性非実等難。<lb
+ ed="X" n="0894a23"/>雖成立非実等法定異顕離実等別有大有之法故。<lb
+ ed="X" n="0894a24"/>得󴥵彼作彼作有法自相相違因過。若但成法不<pb ed="X" id="X53.0855.0894b" n="0894b"/><lb
+ ed="X" n="0894b01"/>異方便成有法者不合作者法自相相違因。即如<lb
+ ed="X" n="0894b02"/>声是無常等。但異成立無常之法。不是方便成<lb
+ ed="X" n="0894b03"/>立有法故。不得作有法自相相違因。若強作者。<lb
+ ed="X" n="0894b04"/>即是方便破一切因。何名能破。<lb
+ ed="X" n="0894b05"/>又。疏中云。問。夫同異品。望宗法立。其<lb
+ ed="X" n="0894b06"/>有一実等因。既於同品同異性有。於其異品亀<lb
+ ed="X" n="0894b07"/>毛遍無。何故此中乃約有法作相違過。此中既<lb
+ ed="X" n="0894b08"/>以亀毛為異品。或是󴥏人󴥏。或是疏主心󴥏何<lb
+ ed="X" n="0894b09"/>者。且如非実等宗宜以即実徳業為其異品。其<lb
+ ed="X" n="0894b10"/>亀毛等非実非徳非業。云何乃取為異品耶。故<lb
+ ed="X" n="0894b11"/>知此言必定󴥏也。<lb
+ ed="X" n="0894b12"/>又。以此方難󴥏顕四相違。法自相相違難云。<lb
+ ed="X" n="0894b13"/>所作若於同品有可許能証声常住所作唯於異品<lb
+ ed="X" n="0894b14"/>転。<lb
+ ed="X" n="0894b15"/>云何能顕是其常法差別相違難云。臥具積聚<lb
+ ed="X" n="0894b16"/>性臥具為他用例眼積聚性。眼亦為他用。顕彼<lb
+ ed="X" n="0894b17"/>真他用亦可臥具積聚性唯為仮他用。例彼眼等<lb
+ ed="X" n="0894b18"/>積聚性。眼等唯為仮他用。違彼真他用。有法<lb
+ ed="X" n="0894b19"/>自相相違因難云。同異有一実徳業同異非異等。<lb
+ ed="X" n="0894b20"/>例彼有性有実徳業有性非実等。亦可同異有一<lb
+ ed="X" n="0894b21"/>実徳業同異非大有。例彼有性有一実徳業。有<lb
+ ed="X" n="0894b22"/>性非大有。有法差別相違難云。同異有一実等<lb
+ ed="X" n="0894b23"/>因。同異非実等。例彼有性有一実等。因有性<lb
+ ed="X" n="0894b24"/>非実等。亦可同異有一実等因同異不作有緣性。<pb ed="X" id="X53.0855.0894c" n="0894c"/><lb
+ ed="X" n="0894c01"/>例彼有性有一実等因有性不作有緣性。<lb
+ ed="X" n="0894c02"/>問。復三相違既約有同喻中為難応是喻過。<lb
+ ed="X" n="0894c03"/>何故乃說相違因耶。<lb
+ ed="X" n="0894c04"/>答。約義為過。是相違因。不約言為難故非<lb
+ ed="X" n="0894c05"/>喻過也。<lb
+ ed="X" n="0894c06"/>又。疏中解無俱不成中云。若声論救云。声<lb
+ ed="X" n="0894c07"/>上無𠵨取遮及表虚空喻上唯取其遮。或空󴥵声<lb
+ ed="X" n="0894c08"/>唯遮非表。作此救者不闕能立有余大徳不許此。<lb
+ ed="X" n="0894c09"/>故立破云。如疏中述。此両宗義。何者正耶。<lb
+ ed="X" n="0894c10"/>答。余師義正。順理教故。依疏主解。有違理<lb
+ ed="X" n="0894c11"/>教失。言違理者。有義宗因同法喻体具取遮表<lb
+ ed="X" n="0894c12"/>遮余表。此顕有義故。無義宗因同法喻体。唯<lb
+ ed="X" n="0894c13"/>取其遮。不取表者。是無義故。若虚空喻是無<lb
+ ed="X" n="0894c14"/>義喻。可許唯遮不闕能立。既取虚空。為有義<lb
+ ed="X" n="0894c15"/>喻故。空無碍。何得唯遮。又。声瓶上所作能<lb
+ ed="X" n="0894c16"/>立是有義法。不可唯遮。声空之上無質碍法既<lb
+ ed="X" n="0894c17"/>証有義。如何非表故。不取表違理失也。<lb
+ ed="X" n="0894c18"/>言違教者。理門論云。前取遮表。後唯取遮。<lb
+ ed="X" n="0894c19"/>解云。有義比量喻中前同法喻。有義故具取遮<lb
+ ed="X" n="0894c20"/>表。後異法喻異二立故。許取遮故依彼論。此<lb
+ ed="X" n="0894c21"/>論亦云。此中常言表非無常非所作言表無所作。<lb
+ ed="X" n="0894c22"/>既有義喻論取遮表故取遮。違教失也。<lb
+ ed="X" n="0894c23"/>問。薩婆多対無空論者。立空是常。非所作<lb
+ ed="X" n="0894c24"/>故。敵論非作不許有表。此因応有隨一不成耶。<pb ed="X" id="X53.0855.0895a" n="0895a"/><lb
+ ed="X" n="0895a01"/>答。既用非作為有義因故。対無空是隨一不<lb
+ ed="X" n="0895a02"/>過也。<lb
+ ed="X" n="0895a03"/><lb
+ ed="X" n="0895a04"/>因明入正理論略抄。</ab></div><lb
+ ed="X" n="0895a05"/><lb
+ ed="X" n="0895a06"/><lb
+ ed="X" n="0895a07"/><lb
+ ed="X" n="0895a08"/><lb
+ ed="X" n="0895a09"/><lb
+ ed="X" n="0895a10"/><lb
+ ed="X" n="0895a11"/><lb
+ ed="X" n="0895a12"/><lb
+ ed="X" n="0895a13"/><lb
+ ed="X" n="0895a14"/><lb
+ ed="X" n="0895a15"/><lb
+ ed="X" n="0895a16"/><lb
+ ed="X" n="0895a17"/><lb
+ ed="X" n="0895a18"/><lb
+ ed="X" n="0895a19"/><lb
+ ed="X" n="0895a20"/><lb
+ ed="X" n="0895a21"/><lb
+ ed="X" n="0895a22"/><lb
+ ed="X" n="0895a23"/><lb
+ ed="X" n="0895a24"/><pb ed="X" id="X53.0855.0895b" n="0895b"/><lb
+ ed="X" n="0895b01"/><lb
+ ed="X" n="0895b02"/><lb
+ ed="X" n="0895b03"/><lb
+ ed="X" n="0895b04"/><lb
+ ed="X" n="0895b05"/><div type='w' level='2'><head>因明入正理論後疏</head><lb
+ ed="X" n="0895b06"/><lb
+ ed="X" n="0895b07"/><ab type='prose'>因明入正理論後疏<byline>慈門寺沙門淨眼󴥺撰</byline><lb
+ ed="X" n="0895b08"/>論云。如是等似宗因喻言非正能立。<lb
+ ed="X" n="0895b09"/>述曰。上来別解法。此即総結也。総指前過。<lb
+ ed="X" n="0895b10"/>故稱如是。所言等者。略有三釋。一云。似宗<lb
+ ed="X" n="0895b11"/>因喻。是其総名。三十三過是其別稱。挙総等<lb
+ ed="X" n="0895b12"/>別。故稱等也。一云。此中且約声等辯過。雖<lb
+ ed="X" n="0895b13"/>声色等辯失皆然。挙此等餘。故言等也。一云。<lb
+ ed="X" n="0895b14"/>三十三種摂過不周。且如宗中有犯一犯多等。<lb
+ ed="X" n="0895b15"/>不成因中有全分一分等。不定因中有自共他共<lb
+ ed="X" n="0895b16"/>等。相違因中有違三違四等。喻過之中有両俱<lb
+ ed="X" n="0895b17"/>隨一等。今旦挙此一連。等餘多例。故稱等也。<lb
+ ed="X" n="0895b18"/>既所顕之理有過。能詮之言稱似。故似宗因<lb
+ ed="X" n="0895b19"/>喻非正能立也。<lb
+ ed="X" n="0895b20"/>論云。復次為自開悟。当知唯有現比二量者。<lb
+ ed="X" n="0895b21"/>述曰。上来已解真似能立。自下復次解頌中<lb
+ ed="X" n="0895b22"/>真似二量。<lb
+ ed="X" n="0895b23"/>問。論中先明真似立破。後辯真似二量。何<lb
+ ed="X" n="0895b24"/>故長行解釋誦󴥏偈文。<pb ed="X" id="X53.0855.0895c" n="0895c"/><lb
+ ed="X" n="0895c01"/>答言。依類結解。就義便自悟悟他是結言之<lb
+ ed="X" n="0895c02"/>義類。解真似量。籍二立以言興也。故釋其比<lb
+ ed="X" n="0895c03"/>量中云。相有三種。如前以說。解似比量中云。<lb
+ ed="X" n="0895c04"/>似因多種、如前已說。故知長行解義便也。又<lb
+ ed="X" n="0895c05"/>解長行之中言。明內有真似之量。外有正似之<lb
+ ed="X" n="0895c06"/>言。若不誦其偈文。不顕內外。問先相由也。<lb
+ ed="X" n="0895c07"/>集論云。能立有八。現比等量。亦入其中。故<lb
+ ed="X" n="0895c08"/>知長行為顕內外徳先相由也。<lb
+ ed="X" n="0895c09"/>将釋論文。先解現比二量義。略作三門分別。<lb
+ ed="X" n="0895c10"/>一明立二量意。二釋二量名。三出二量体。言<lb
+ ed="X" n="0895c11"/>立二量意者。依西方諸師。立量数不同。且如<lb
+ ed="X" n="0895c12"/>数論師及世親菩薩等。立有三量。一者現量。<lb
+ ed="X" n="0895c13"/>謂量現境。二者比量。謂籍三相比決而知。三<lb
+ ed="X" n="0895c14"/>者聖教量。謂籍聖人言教方知。如無色界等。<lb
+ ed="X" n="0895c15"/>若不因聖教。何以得知。故離現比之外別立聖<lb
+ ed="X" n="0895c16"/>教量也。或有立其四量。謂即於前三量之外。<lb
+ ed="X" n="0895c17"/>別立譬喻量。如世說言。山中有野牛。餘人問<lb
+ ed="X" n="0895c18"/>言。野牛如何。彼即答云。如似家牛。但角細<pb ed="X" id="X53.0855.0896a" n="0896a"/><lb
+ ed="X" n="0896a01"/>異。故與家牛異。此既応譬即解。不因三相而<lb
+ ed="X" n="0896a02"/>知。故離前三立此量也。或有立其五量。謂即<lb
+ ed="X" n="0896a03"/>於前四量之外。更立義准量。如言声是無常。<lb
+ ed="X" n="0896a04"/>所作性故。諸所作者皆是無常。譬如瓶等。若<lb
+ ed="X" n="0896a05"/>是其常。必無所作。如虚空等。因此比量。即<lb
+ ed="X" n="0896a06"/>知無常。義准亦知無我。諸無常者必無我故。<lb
+ ed="X" n="0896a07"/>故離前四立此量也。或有立其六量。謂即於前<lb
+ ed="X" n="0896a08"/>五量之外。別立有性量。如言房中有物。開門<lb
+ ed="X" n="0896a09"/>見物果。如所言既稱有為量。有故離前五立此<lb
+ ed="X" n="0896a10"/>量也。或有立其七量。謂即於前六量之外。別<lb
+ ed="X" n="0896a11"/>立無性之量。如言房中無物。開門見無果。如<lb
+ ed="X" n="0896a12"/>所言既稱無而量無。故離前六量外別立此量也。<lb
+ ed="X" n="0896a13"/>或有立其八量。謂即於前七量之外別立呼召量。<lb
+ ed="X" n="0896a14"/>如呼牛々至召馬々来。既稱呼而成。故離前七<lb
+ ed="X" n="0896a15"/>量外立此量也。<lb
+ ed="X" n="0896a16"/>若依陳那及商羯羅主菩薩等。唯立二量。一<lb
+ ed="X" n="0896a17"/>名現量。二者比量。何因唯立二量。為一切諸<lb
+ ed="X" n="0896a18"/>法有二種相。一者自相。二者共相。量自相者。<lb
+ ed="X" n="0896a19"/>名為現量。量共相者。名為比量。聖教量等。<lb
+ ed="X" n="0896a20"/>皆量共相。故離比量。更不立餘。<lb
+ ed="X" n="0896a21"/>若為別知立餘量者。別知諸法定唯有八。今<lb
+ ed="X" n="0896a22"/>據総摂立其現比故。彼八種此二所収。故理門<lb
+ ed="X" n="0896a23"/>論云。<lb
+ ed="X" n="0896a24"/>為自開悟唯有現量及與比量。彼声喻等摂在此<pb ed="X" id="X53.0855.0896b" n="0896b"/><lb
+ ed="X" n="0896b01"/>中。故唯二量。由此能了自共相故。非離此二<lb
+ ed="X" n="0896b02"/>別有所量。為了知彼更立餘量。<lb
+ ed="X" n="0896b03"/>此文但約散心分自共相為二量境也。言自相<lb
+ ed="X" n="0896b04"/>共相者。汎論自共。有其三種。一者處自相。<lb
+ ed="X" n="0896b05"/>即如色處不該餘處。故言處自相。苦空無常等。<lb
+ ed="X" n="0896b06"/>通色心等皆有。故稱共相。二事自相。即處自<lb
+ ed="X" n="0896b07"/>相中青黃等別事不同。名事自相。総色自相轉<lb
+ ed="X" n="0896b08"/>名共相。三自相自相。即於前事自相之中。旦<lb
+ ed="X" n="0896b09"/>如眼識所緣之青。現所緣者。不通餘青。亦不<lb
+ ed="X" n="0896b10"/>為名言之所詮及即是青自相中之自相。前事自<lb
+ ed="X" n="0896b11"/>相等。転名共相。為名言等之所及故。是假共<lb
+ ed="X" n="0896b12"/>相。且於色處作此宣說。雖例餘。亦有如此三<lb
+ ed="X" n="0896b13"/>自共相。雖處既爾。於界及蘊隨其所応他此分<lb
+ ed="X" n="0896b14"/>別。<lb
+ ed="X" n="0896b15"/>今言自相者。但取第三自相自相。不為名言<lb
+ ed="X" n="0896b16"/>所及者。為現量境。言共相者。但為名言所詮。<lb
+ ed="X" n="0896b17"/>假共相者。為比量境。<lb
+ ed="X" n="0896b18"/>問。處之與事定非五識現量所得耶。<lb
+ ed="X" n="0896b19"/>答。自相自相中。處事即為現量所得。総處<lb
+ ed="X" n="0896b20"/>総事。非五識境。為此偏約自々相々說也。故<lb
+ ed="X" n="0896b21"/>理門論云。<lb
+ ed="X" n="0896b22"/>由不共緣。現現別転。故名現量。<lb
+ ed="X" n="0896b23"/>問。若爾者何因對法論云。問於一一根門種<lb
+ ed="X" n="0896b24"/>種之境界。但現在前。於此多境。為有多識。<pb ed="X" id="X53.0855.0896c" n="0896c"/><lb
+ ed="X" n="0896c01"/>次第而起。為俱起耶。<lb
+ ed="X" n="0896c02"/>答。唯有一識。種種行相俱時而起。此文既<lb
+ ed="X" n="0896c03"/>違別転之義。如何會釋。答。雖同時取行相各<lb
+ ed="X" n="0896c04"/>別。不総相緣故無有過。<lb
+ ed="X" n="0896c05"/>又。瑜伽論菩薩地云。隨事取隨如取。不作<lb
+ ed="X" n="0896c06"/>此念。此事此如何者。謂隨事取者緣依他性誤<lb
+ ed="X" n="0896c07"/>得。隨如取者。緣円成実性真得。其現量観內<lb
+ ed="X" n="0896c08"/>證。離言故不分別此事此如也。<lb
+ ed="X" n="0896c09"/>又。對法論云。不待名言此餘根境。是実有<lb
+ ed="X" n="0896c10"/>義。謂待名言此餘根境。是假有義。<lb
+ ed="X" n="0896c11"/>又。法花経云。諸法寂滅相。不可以言宣。<lb
+ ed="X" n="0896c12"/>以方便力故。為五比丘說。<pb ed="X" id="X53.0855.0897a" n="0897a"/><lb
+ ed="X" n="0897a01"/>又。大小因明論皆云。此中現量。謂無分別。<lb
+ ed="X" n="0897a02"/>若有正知於色等義。離名種等所有分別。現現<lb
+ ed="X" n="0897a03"/>別転。故名現量。<lb
+ ed="X" n="0897a04"/>准上経論。実法不為名言所詮。復言現量緣<lb
+ ed="X" n="0897a05"/>離言境。故知自相是離言境。名言所及既是假<lb
+ ed="X" n="0897a06"/>有。復言比量緣假共相。故知共相是言詮境。<lb
+ ed="X" n="0897a07"/>此即是第一釋立二量意。<lb
+ ed="X" n="0897a08"/>第二釋二量名者。初釋現量。後釋比量。言<lb
+ ed="X" n="0897a09"/>現量者。理門論及入正理論皆云。現現別転。<lb
+ ed="X" n="0897a10"/>故名現量。諸大徳等略有三釋。<lb
+ ed="X" n="0897a11"/>一云。同時心王及心所法。各自現影不同故。<lb
+ ed="X" n="0897a12"/>言現現別轉。此釋恐不當。其理先釋現量名心<lb
+ ed="X" n="0897a13"/>不得該於比量。其比量上亦有同時心王心所各<lb
+ ed="X" n="0897a14"/>自現影別轉之義。故知此解不當也。<lb
+ ed="X" n="0897a15"/>一云。五識依現在根量度五塵等。故言現現<lb
+ ed="X" n="0897a16"/>別転。此即依現之量。名為現量。即依仕釋也。<lb
+ ed="X" n="0897a17"/>此亦不當理。此釋亦該於比量。具如意識起比<lb
+ ed="X" n="0897a18"/>量時。亦依現在末那為根。応名現量。若依小<lb
+ ed="X" n="0897a19"/>乗可作是釋。以彼唯依過去意根。若爾大乗意<lb
+ ed="X" n="0897a20"/>識亦通依過去意根。何故唯約末那而生此難。<lb
+ ed="X" n="0897a21"/>若爾五識亦依過去意根。応不名為依現之量。<lb
+ ed="X" n="0897a22"/>若言五識雖依過去而就不共五根為名。故依現<lb
+ ed="X" n="0897a23"/>者亦応意識畢竟不得名為現量。以依意根<lb
+ ed="X" n="0897a24"/>故。諸依意根者皆非現量。猶如比量。是故不得以依現故名為現量。故此解不當<lb
+ ed="X" n="0897b02"/>也。<lb
+ ed="X" n="0897b03"/>一云。現在五識量現五塵。故言現現別転名<lb
+ ed="X" n="0897b04"/>為現量。此即現是量。名為現量。即持業釋也。<lb
+ ed="X" n="0897b05"/>此釋亦不當理。該比量故。意識比知烟下火時。<lb
+ ed="X" n="0897b06"/>豈非現在。此亦応名現即是量。故此解亦不當<lb
+ ed="X" n="0897b07"/>理也。<lb
+ ed="X" n="0897b08"/>今解云。色等諸法一々自相不為共相之所覆。<lb
+ ed="X" n="0897b09"/>故各々顕現故名現現。五識等識於顕現境各別<lb
+ ed="X" n="0897b10"/>転。故言現現別転。此即量現之量。故名現量。<lb
+ ed="X" n="0897b11"/>此即依仕釋也。<lb
+ ed="X" n="0897b12"/>又釋。現量之心取二境分明顕現勝過比量。<lb
+ ed="X" n="0897b13"/>故稱現現別転也。此現即是量。故名現量。此<lb
+ ed="X" n="0897b14"/>即持業釋也。此別転言且據散說。若約定論。<lb
+ ed="X" n="0897b15"/>総緣亦得此如後說。<lb
+ ed="X" n="0897b16"/>言比量者。不能親證。数度而知。此即是量。<lb
+ ed="X" n="0897b17"/>故稱比量。此即持業釋也。此即第二釋二量名。<lb
+ ed="X" n="0897b18"/>第三出二量体者。於中有三。一約定散出体。<lb
+ ed="X" n="0897b19"/>二約八識明性。三約四分及能量量果等分別。<lb
+ ed="X" n="0897b20"/>初約定散出体者。一切定心皆是現量。以取<lb
+ ed="X" n="0897b21"/>境明白故。理門論云。諸修定者。離教分別。<lb
+ ed="X" n="0897b22"/>皆是現量。故知定心皆是現量。<lb
+ ed="X" n="0897b23"/>問。定心緣無常苦等共相之境。為是現量。<lb
+ ed="X" n="0897b24"/>為是比量。<pb ed="X" id="X53.0855.0897c" n="0897c"/><lb
+ ed="X" n="0897c01"/>答。依西方諸師。有両釋不同。一上古諸師<lb
+ ed="X" n="0897c02"/>釋云。無勝方便緣苦無常等果是正證。故非證<lb
+ ed="X" n="0897c03"/>量。復正体智證得苦等真如。真如非一非多。<lb
+ ed="X" n="0897c04"/>但緣一真如。故是自相境。亦是現量。准此釋<lb
+ ed="X" n="0897c05"/>順決擇分定心及後得智緣假共相。亦非現量也。<lb
+ ed="X" n="0897c06"/>二戒賢師釋云。若約散心分自共相是二量境。<lb
+ ed="X" n="0897c07"/>若約定心緣自緣共。皆現量収。<lb
+ ed="X" n="0897c08"/>今評二釋。後解為正。若依前釋。即違教理。<lb
+ ed="X" n="0897c09"/>瑜伽論說定心是知摂。又云。見知是現量。覚<lb
+ ed="X" n="0897c10"/>是比量。聞是教量。若說定心通現比量。應說<lb
+ ed="X" n="0897c11"/>定心通覚知摂。及現比収。此即違教也。又。<lb
+ ed="X" n="0897c12"/>諸仏種智。為唯現量。為通比耶。若唯現量。<lb
+ ed="X" n="0897c13"/>應不緣瓶衣軍林舍宅等。何名種智。若許緣者。<lb
+ ed="X" n="0897c14"/>即是緣假共相。何名現量。若通比量者。諸佛<lb
+ ed="X" n="0897c15"/>種智󴥏明覚照。定可比度方乃決知故。佛之心<lb
+ ed="X" n="0897c16"/>不通比量。一切諸佛無不定心。佛心緣假。既<lb
+ ed="X" n="0897c17"/>唯現量。故知餘定不通比量。此即違理也。由<lb
+ ed="X" n="0897c18"/>此故知。後釋為正耳。<lb
+ ed="X" n="0897c19"/>問。若依後釋。定心緣假共相。亦名現量者。<lb
+ ed="X" n="0897c20"/>何故此論釋似現量中云。由彼於義不似自相為<lb
+ ed="X" n="0897c21"/>境界故。名似現量。<lb
+ ed="X" n="0897c22"/>答。散心闇弱取境俘識緣假共相。必由比知<lb
+ ed="X" n="0897c23"/>妄。謂現證故非真量。定心明白深取所緣。縦<lb
+ ed="X" n="0897c24"/>取共相。必由現證。論約散說。亦不相違。<pb ed="X" id="X53.0855.0898a" n="0898a"/><lb
+ ed="X" n="0898a01"/>問。論文既云。諸修定者。離教分別。皆是<lb
+ ed="X" n="0898a02"/>現量者。佛心既是定心說法必緣其教。定心不<lb
+ ed="X" n="0898a03"/>離其教。応非現量所収。<lb
+ ed="X" n="0898a04"/>答。佛心緣教唯󴥏󴥏󴥏。非是籍言。方緣定<lb
+ ed="X" n="0898a05"/>境。故知望定境。終是離教也。若約散心分別<lb
+ ed="X" n="0898a06"/>現量等。即通現量比量及非量也。此即是約定<lb
+ ed="X" n="0898a07"/>散分別現比二量。<lb
+ ed="X" n="0898a08"/>第二約八識辨体者。眼等五識及阿賴耶識。<lb
+ ed="X" n="0898a09"/>若定若散。若因若果。若漏若無漏。皆現量摂。<lb
+ ed="X" n="0898a10"/>以離名言種類分別。證自相境故。<lb
+ ed="X" n="0898a11"/>問。五識煩悩與無明俱既違境起。何名現量。<lb
+ ed="X" n="0898a12"/>答。煩悩自緣順遠境起󴥏。不違色等。謂非<lb
+ ed="X" n="0898a13"/>色等違順遠辺自是無明稱色等辺。󴥏是現量。<lb
+ ed="X" n="0898a14"/>末那散位見分唯是非量。自證證自證分一向現<lb
+ ed="X" n="0898a15"/>量。以內緣離分別故。若在定位。一向現量。<lb
+ ed="X" n="0898a16"/>平等性智唯內證故。<lb
+ ed="X" n="0898a17"/>第六意識。若在定位。一向現量。若在散位。<lb
+ ed="X" n="0898a18"/>與率爾五識同時任運緣境。是現量摂。以離名<lb
+ ed="X" n="0898a19"/>言種類分別緣自相境故。若起聞思両慧稱境比<lb
+ ed="X" n="0898a20"/>知。意識見分是比量摂。以比度心緣共相故。<lb
+ ed="X" n="0898a21"/>若自證分證自證分。是現量摂。以內緣故。若<lb
+ ed="X" n="0898a22"/>起人法二執之心。見分唯是非量所摂。自證證<lb
+ ed="X" n="0898a23"/>自證分現量所収。以內緣故。此中八識既如此<lb
+ ed="X" n="0898a24"/>判同時心所一唯識論。<pb ed="X" id="X53.0855.0898b" n="0898b"/><lb
+ ed="X" n="0898b01"/>第三約四分及能量所量量果分別者。於中有<lb
+ ed="X" n="0898b02"/>二。初約諸大小乗廃立四分。後正約四分分別。<lb
+ ed="X" n="0898b03"/>就初廃立四分中。総有六義不同。初義如二<lb
+ ed="X" n="0898b04"/>十部小乗之中正量部中。唯立見分。不立相分。<lb
+ ed="X" n="0898b05"/>何以得知。旦如餘十九部。緣境之時。皆言於<lb
+ ed="X" n="0898b06"/>心起境行相。緣行相心即名行解。行相即當大<lb
+ ed="X" n="0898b07"/>乗相分。行解即當大乗見分。若如正量部。緣<lb
+ ed="X" n="0898b08"/>心外境。応緣其境不起行相。故知有見而無相<lb
+ ed="X" n="0898b09"/>分。大乗破云。眼識必定不能緣色以不作<lb
+ ed="X" n="0898b10"/>色行相故。諸不作色行相者。皆不能緣色。<lb
+ ed="X" n="0898b11"/>猶如耳識既有此過。故知緣境心有行相。<lb
+ ed="X" n="0898b12"/>第二唯相分不立見分。如大乗中清辯菩薩說。<lb
+ ed="X" n="0898b13"/>緣境時但似境起。即是能緣非離似境。更有見<lb
+ ed="X" n="0898b14"/>分。名為能緣。唯識論中破此義云。<lb
+ ed="X" n="0898b15"/>若心心所。無能緣相。応不能緣。如虗空等。<lb
+ ed="X" n="0898b16"/>或虗空等応亦能緣。<lb
+ ed="X" n="0898b17"/>准斯論文。此義非正也。<lb
+ ed="X" n="0898b18"/>第三相見俱不立。如安慧菩薩唯立識自体。<lb
+ ed="X" n="0898b19"/>是依他起。相見二分。是遍計所執。以正智證。<lb
+ ed="X" n="0898b20"/>如不作能緣所緣解。故為此安慧菩薩言。八識<lb
+ ed="X" n="0898b21"/>相見皆是遍計所執所摂。自證分是依他起所収。<lb
+ ed="X" n="0898b22"/>護法菩薩等破云。若爾諸佛後得智心亦有身土<lb
+ ed="X" n="0898b23"/>等相分。能緣身土等見分。亦応諸佛未遣遍計<lb
+ ed="X" n="0898b24"/>執心。諸佛既遣執心。由有相見分等。故知相<pb ed="X" id="X53.0855.0898c" n="0898c"/><lb
+ ed="X" n="0898c01"/>見非遍計所執也。<lb
+ ed="X" n="0898c02"/>第四相見俱立。如無着菩薩及難陀菩薩等。<lb
+ ed="X" n="0898c03"/>並立有相見二分。故摂大乗論本云。<lb
+ ed="X" n="0898c04"/>復次云何安立。如是諸識成唯識性。略由三<lb
+ ed="X" n="0898c05"/>相。一由唯識無有義故。二由二性有相有見二<lb
+ ed="X" n="0898c06"/>識別故。三由種種行相而生起故。<lb
+ ed="X" n="0898c07"/>准此文故知無著菩薩立相見二分。<lb
+ ed="X" n="0898c08"/>又経云。<lb
+ ed="X" n="0898c09"/>一切唯有覚　所覚義皆無　能覚所覚分　各<lb
+ ed="X" n="0898c10"/>自然而転。<lb
+ ed="X" n="0898c11"/>此文既云。能覚所覚分。各自然而転。故知<lb
+ ed="X" n="0898c12"/>有其相見二分。<lb
+ ed="X" n="0898c13"/>第五陳那菩薩立有三分。彼云。相分為所緣。<lb
+ ed="X" n="0898c14"/>見為能緣。其見分既不能自緣。応無有量果。<lb
+ ed="X" n="0898c15"/>又見分若無能緣。量果応不󴥏󴥏󴥏所處事故。<lb
+ ed="X" n="0898c16"/>応別立自證分。謂相分為所量。見分為能量。<lb
+ ed="X" n="0898c17"/>自證分為量果。故陳那菩薩所造集量論云。<lb
+ ed="X" n="0898c18"/>似境相所量　能取相自證　即能量及果　此<pb ed="X" id="X53.0855.0899a" n="0899a"/><lb
+ ed="X" n="0899a01"/>三体無別。<lb
+ ed="X" n="0899a02"/>解云。似境相所量是相分。能取相是見分。<lb
+ ed="X" n="0899a03"/>自證是自證分。即能量明見分為能量。量果明<lb
+ ed="X" n="0899a04"/>自證分為量果。此三体無別明不離識也。<lb
+ ed="X" n="0899a05"/>第六立有四分了。則是親光菩薩及護法菩薩<lb
+ ed="X" n="0899a06"/>等義。彼立云。如以見分無能緣立有自證分義。<lb
+ ed="X" n="0899a07"/>亦以自證分無能緣故須立證自證分。故彼引経<lb
+ ed="X" n="0899a08"/>文云。<lb
+ ed="X" n="0899a09"/>眾生心二性　內外一切分　所取能取纏　見<lb
+ ed="X" n="0899a10"/>種種差別。<lb
+ ed="X" n="0899a11"/>解云。眾生心二性者。心有能緣所緣。或外<lb
+ ed="X" n="0899a12"/>分或內分二性故也。內外一切分者。相分見分<lb
+ ed="X" n="0899a13"/>為外分。相分体外故稱外。見分緣外故稱外。<lb
+ ed="X" n="0899a14"/>自證證自是內分。若体若緣俱是內故。內分外<lb
+ ed="X" n="0899a15"/>分俱非一故。稱一切分也。所取能取纏者。為<lb
+ ed="X" n="0899a16"/>所取能取纏縛心故也。見種種差別者。於能緣<lb
+ ed="X" n="0899a17"/>中見分取境。或現或比或量非量種非一故。稱<lb
+ ed="X" n="0899a18"/>見種種差別也。據此経文立四分義。<lb
+ ed="X" n="0899a19"/>問。若以自證分無能緣故。立證自證分者。<lb
+ ed="X" n="0899a20"/>亦応證自證無能緣故。須立第五分。如是便有<lb
+ ed="X" n="0899a21"/>無窮之過。<lb
+ ed="X" n="0899a22"/>答。證自證分緣自證分時。自證分有其両用<lb
+ ed="X" n="0899a23"/>一緣見分用。二有却緣證自證分用故。不須立<lb
+ ed="X" n="0899a24"/>第五分也。<pb ed="X" id="X53.0855.0899b" n="0899b"/><lb
+ ed="X" n="0899b01"/>問。若爾見分亦有両用。一緣相分。二緣自<lb
+ ed="X" n="0899b02"/>證。応不須立第四分也。<lb
+ ed="X" n="0899b03"/>問。若爾見分緣相分。却緣自證分。即有同<lb
+ ed="X" n="0899b04"/>一時一分亦是量非量過。何者且如見分起我法<lb
+ ed="X" n="0899b05"/>執時。不能稱其相分解故。故非是量。復能却<lb
+ ed="X" n="0899b06"/>緣自證也。即是其量。豈可一分於一時中亦量<lb
+ ed="X" n="0899b07"/>非量。為避此過。見分不得却緣自證也。若自<lb
+ ed="X" n="0899b08"/>證分緣見分時。亦是其量緣證自證分亦是其量。<lb
+ ed="X" n="0899b09"/>所以自證得再緣也。<lb
+ ed="X" n="0899b10"/>問。若爾見分起非量時可不許再緣。正是量<lb
+ ed="X" n="0899b11"/>時。応得再緣耶。<lb
+ ed="X" n="0899b12"/>答。見分假令是量不妨或是比量所摂。若緣<lb
+ ed="X" n="0899b13"/>自證分定是現量。豈可一分亦名現比。若自證<lb
+ ed="X" n="0899b14"/>分緣見分時及緣證自俱現量。所以自證得再緣<lb
+ ed="X" n="0899b15"/>也。<lb
+ ed="X" n="0899b16"/>問。若彼見分是比量時。不許再緣五識転耶。<lb
+ ed="X" n="0899b17"/>既是現量応得再緣耶。<lb
+ ed="X" n="0899b18"/>答。見分相分俱名外分。自證證自是內外分<lb
+ ed="X" n="0899b19"/>収。見分体。雖是內。緣外故稱外分。若許見<lb
+ ed="X" n="0899b20"/>分緣彼自證。即有緣內緣外通自證分。緣見分<lb
+ ed="X" n="0899b21"/>及緣證自證分時。俱是緣內故。自證分通再緣<lb
+ ed="X" n="0899b22"/>也。<lb
+ ed="X" n="0899b23"/>問。此之四分。為同種生。為別種生耶。<lb
+ ed="X" n="0899b24"/>答。有本質相分與見分別種生。無本質相分<pb ed="X" id="X53.0855.0899c" n="0899c"/><lb
+ ed="X" n="0899c01"/>與見分同種。起見分自證證自證分。據用分三。<lb
+ ed="X" n="0899c02"/>據体是一。同是識界。若是心所同是法界。故<lb
+ ed="X" n="0899c03"/>同種生。若別種生即有同時同類之識。三体並<lb
+ ed="X" n="0899c04"/>起過也。<lb
+ ed="X" n="0899c05"/>問。若三分同体。何因自体重緣自体。如刀<lb
+ ed="X" n="0899c06"/>不自割。多力不能自負。云何自心重緣自体。<lb
+ ed="X" n="0899c07"/>答。心用微細不可以世事。趣比況之。且如<lb
+ ed="X" n="0899c08"/>世間燈光照物。亦有自明何廃心。雖了境亦有<lb
+ ed="X" n="0899c09"/>自緣之義也。此即明其廃立四分也。<lb
+ ed="X" n="0899c10"/>自下第二正明分別現比二量及能量果果等義。<lb
+ ed="X" n="0899c11"/>先明二量。後明能量等。<lb
+ ed="X" n="0899c12"/>明二量者。此四分中相分一向是二量所量。<lb
+ ed="X" n="0899c13"/>非是量体。見分一種。若是意識。通其現量比<lb
+ ed="X" n="0899c14"/>量及非量。如前以說意識。自證分證自證分皆<lb
+ ed="X" n="0899c15"/>是現量。其末那識散心見分一向非量。散心自<lb
+ ed="X" n="0899c16"/>證證自證分及平等性智相応見分自證分證自證<lb
+ ed="X" n="0899c17"/>分一向是其現量所摂。其五識及賴耶見分自證<lb
+ ed="X" n="0899c18"/>證自證分一切皆是現量所摂。此即是其明四分<lb
+ ed="X" n="0899c19"/>出二量体也。<lb
+ ed="X" n="0899c20"/>次約四分。辯能量所量及量果等分別者。相<lb
+ ed="X" n="0899c21"/>分一向是所量。見分唯通能量所量不通量果。<lb
+ ed="X" n="0899c22"/>自證證自證分通能量所量及量果也。且如相分<lb
+ ed="X" n="0899c23"/>是所量。見分是能量。自證分是量果。見分是<lb
+ ed="X" n="0899c24"/>所量。自證分是能量。證自證分是量果。自證<pb ed="X" id="X53.0855.0900a" n="0900a"/><lb
+ ed="X" n="0900a01"/>分是所量。證自證分是能量。自證分是量果。<lb
+ ed="X" n="0900a02"/>證自證分是所量。自證分是能量。證自證分是<lb
+ ed="X" n="0900a03"/>量果也。<lb
+ ed="X" n="0900a04"/>上来。総約八識明其四分。出二量体。辯能<lb
+ ed="X" n="0900a05"/>量所量量果分別。准其心王既然同時心所等亦<lb
+ ed="X" n="0900a06"/>爾。<lb
+ ed="X" n="0900a07"/>上来正明二量義。<lb
+ ed="X" n="0900a08"/>就解論文中分之為二。初明立二量意。二正<lb
+ ed="X" n="0900a09"/>解真似二量。<lb
+ ed="X" n="0900a10"/>言復次為自開悟當知。唯有現比二量者。此<lb
+ ed="X" n="0900a11"/>即明立二量意也。謂凡󴥏悟他。先論自覚。覚<lb
+ ed="X" n="0900a12"/>之道不過二量。由證自相共相境故。遮声喻等<lb
+ ed="X" n="0900a13"/>所有餘量。故稱唯有現比量也。<lb
+ ed="X" n="0900a14"/>論曰。此中現量。謂無分別者。<lb
+ ed="X" n="0900a15"/>述曰。自下正明真似二量。於中有二。初明<lb
+ ed="X" n="0900a16"/>真量。後有分別下明似量。就真量中有二。初<lb
+ ed="X" n="0900a17"/>釋二量。後於二量中下出二量果。就前文中。<lb
+ ed="X" n="0900a18"/>復分為二。初解現量。後解比量。<lb
+ ed="X" n="0900a19"/>解現量中。先総出現量体。後別解釋。此即<lb
+ ed="X" n="0900a20"/>総出現量体也。言此中者。或簡持義起論端義。<lb
+ ed="X" n="0900a21"/>此如前解。言無分別者。正出現量体。且如五<lb
+ ed="X" n="0900a22"/>識取五境界。離名言等所有分別故。理門云。<lb
+ ed="X" n="0900a23"/>有法非一相　根非一切行　唯內證離言　是<lb
+ ed="X" n="0900a24"/>色根境界。<pb ed="X" id="X53.0855.0900b" n="0900b"/><lb
+ ed="X" n="0900b01"/>二率爾五識同緣意識及第八識亦離名等一心<lb
+ ed="X" n="0900b02"/>有分別故。理門云。<lb
+ ed="X" n="0900b03"/>意地亦有離諸分別唯證行転。<lb
+ ed="X" n="0900b04"/>三一切自證分。四者一切定心名離分別故。<lb
+ ed="X" n="0900b05"/>理門論云。<lb
+ ed="X" n="0900b06"/>又。於貪等諸自證分。諸修定者離分別。皆<lb
+ ed="X" n="0900b07"/>是現量。<lb
+ ed="X" n="0900b08"/>此顕分別之心。猶如動水增減所緣。不名現<lb
+ ed="X" n="0900b09"/>量無分別心。譬於明鏡稱可所取。故名現量。<lb
+ ed="X" n="0900b10"/>論云。若有正智者。<lb
+ ed="X" n="0900b11"/>述曰。此下別解。文中有四。此即出無分別<lb
+ ed="X" n="0900b12"/>体。謂五識等心及心所。皆名正智。以󴥏󴥏故<lb
+ ed="X" n="0900b13"/>総名正智也。<lb
+ ed="X" n="0900b14"/>論曰。於色等義者。<lb
+ ed="X" n="0900b15"/>述曰。此即第二出所量境。色者是眼識所量。<lb
+ ed="X" n="0900b16"/>等者等取声等。是耳等識所量故也。能益智等<lb
+ ed="X" n="0900b17"/>故名為我乃至苦無常等。是定心等現量所量。<lb
+ ed="X" n="0900b18"/>此中且約散心。但說色等自相境也。<lb
+ ed="X" n="0900b19"/>論曰。離名種等所有分別者。<lb
+ ed="X" n="0900b20"/>述曰。此即第三釋無分別義。謂若現量必離<lb
+ ed="X" n="0900b21"/>名言種類等所有分別。離名言分別者。謂若待<lb
+ ed="X" n="0900b22"/>名言取諸法者。皆非現量。緣共相故。言離種<lb
+ ed="X" n="0900b23"/>種分別者。種類有二。謂有情種類。法種類。<lb
+ ed="X" n="0900b24"/>有情種類者。即有情上同異句義。法種類者。<pb ed="X" id="X53.0855.0900c" n="0900c"/><lb
+ ed="X" n="0900c01"/>即諸法上同異句義。又種類有二。謂総種類。<lb
+ ed="X" n="0900c02"/>別種類。総種類者。即大有句與一切諸法種類。<lb
+ ed="X" n="0900c03"/>作其通体故。別種類者即同異句與一切諸法種<lb
+ ed="X" n="0900c04"/>類。作其別体故。此等皆是勝論宗說。又種類<lb
+ ed="X" n="0900c05"/>者。即是諸法假種類也。若依如是種類分別緣<lb
+ ed="X" n="0900c06"/>境界者。皆非現量。以假種類是共相故。若実<lb
+ ed="X" n="0900c07"/>種類妄計度故。等者。等取瓶等。假智乃至所<lb
+ ed="X" n="0900c08"/>餘緣假分別。皆非現量也。<lb
+ ed="X" n="0900c09"/>論曰。現現別転故名現量者。<lb
+ ed="X" n="0900c10"/>述曰。此即第四釋名結義。現現別転者。如<lb
+ ed="X" n="0900c11"/>前来中解也。<lb
+ ed="X" n="0900c12"/>論曰。言比量者。謂藉眾相而観於義。<lb
+ ed="X" n="0900c13"/>述曰。此下第二解比量。文中有二。初約義<lb
+ ed="X" n="0900c14"/>総明。後指事別解。此即約義明也。謂藉眾相<lb
+ ed="X" n="0900c15"/>即是比因。謂緣三相之智。是比解無常智之因<lb
+ ed="X" n="0900c16"/>也。而観於義者。即是比果。謂解無常之智。<lb
+ ed="X" n="0900c17"/>是緣三相智之果也。<lb
+ ed="X" n="0900c18"/>論曰。相有三種。如前已說者。<pb ed="X" id="X53.0855.0901a" n="0901a"/><lb
+ ed="X" n="0901a01"/>述曰。此下指事別解。文中有二。初解眾相<lb
+ ed="X" n="0901a02"/>顕因所観義。後解藉相観義。正明指事。此即<lb
+ ed="X" n="0901a03"/>初也。謂所藉眾相有其三種。即遍是宗法等。<lb
+ ed="X" n="0901a04"/>如前解能立因中已說也。<lb
+ ed="X" n="0901a05"/>論曰。由彼為因於所比義有正智生。了知有<lb
+ ed="X" n="0901a06"/>火或無常等。是名比量者。<lb
+ ed="X" n="0901a07"/>述曰。此即解藉相観義正明指事也。西國因<lb
+ ed="X" n="0901a08"/>明釋論中有三師。解此文不同。一云。由彼為<lb
+ ed="X" n="0901a09"/>因者。顕由彼言說為因也。於所比義者。明三<lb
+ ed="X" n="0901a10"/>相義因也。有正智生者。辯緣相智因。即是比<lb
+ ed="X" n="0901a11"/>量体也。了知有火或無常等者。顕比量果。文<lb
+ ed="X" n="0901a12"/>中挙果顕因故。一處合說也。結文可解。一云。<lb
+ ed="X" n="0901a13"/>於所比義者。顕無常等義也。有正智生者。即<lb
+ ed="X" n="0901a14"/>是果智。了知有火等者。出果智体。此中唯挙<lb
+ ed="X" n="0901a15"/>果智。言顕因智為比量体也。一云。乃至有正<lb
+ ed="X" n="0901a16"/>智生者。如初師說。了知有火等者。重顕因智<lb
+ ed="X" n="0901a17"/>相。謂因智円満故。了智有火等也。<lb
+ ed="X" n="0901a18"/>今釋由彼為因者。謂因智由用彼三相言義為<lb
+ ed="X" n="0901a19"/>解。顕無常等因即解前文。謂藉眾相也。於所<lb
+ ed="X" n="0901a20"/>比義者。解上所観無常等義。有正智生者。顕<lb
+ ed="X" n="0901a21"/>能観果智体。了知有火或無常等者。正顕果智<lb
+ ed="X" n="0901a22"/>観義之相。此四句即解上。而観於義。此即因<lb
+ ed="X" n="0901a23"/>智果智。皆是比量。然理門論云。<lb
+ ed="X" n="0901a24"/>比度因故俱名比量。<pb ed="X" id="X53.0855.0901b" n="0901b"/><lb
+ ed="X" n="0901b01"/>西國諸師義一。抑此論挙果顕因。然理門論<lb
+ ed="X" n="0901b02"/>中。陳那自會云。<lb
+ ed="X" n="0901b03"/>何故此中與前現量別異建立為現二門。此處<lb
+ ed="X" n="0901b04"/>亦応於其比果說為比量。彼處亦応於其現因說<lb
+ ed="X" n="0901b05"/>為現量俱不遮止。<lb
+ ed="X" n="0901b06"/>准此文故知。不須言挙因果顕因也。<lb
+ ed="X" n="0901b07"/>問。既不遮止。何故現偏說果比属論因耶。<lb
+ ed="X" n="0901b08"/>答。現量果結比量因󴥏約勝就󴥏故偏說耳。<lb
+ ed="X" n="0901b09"/>問。何故論文已說了知有火說。復言或無常<lb
+ ed="X" n="0901b10"/>等耶。<lb
+ ed="X" n="0901b11"/>答言顕比量。有二種。一因事生比量。亦名<lb
+ ed="X" n="0901b12"/>現量生比量。二因言生比量。亦名比量生比量。<lb
+ ed="X" n="0901b13"/>見烟比知有火。即因事生比量也。眼識先量烟。<lb
+ ed="X" n="0901b14"/>意識比知火。即現量生比量也。聞他成立声無<lb
+ ed="X" n="0901b15"/>常言復方比解。此即因言生比量也。由立論比<lb
+ ed="X" n="0901b16"/>量力故。敵者比知無常。此即比量生比量也。<lb
+ ed="X" n="0901b17"/>言顕因事因言二種比量故。云了知有火或無常<lb
+ ed="X" n="0901b18"/>等也。故理門論云。此有二種。謂於所比。審<lb
+ ed="X" n="0901b19"/>観察智従現量生或比量生。<lb
+ ed="X" n="0901b20"/>准此文故知顕二比量也。<lb
+ ed="X" n="0901b21"/>論曰。於二量中。即智名果。是證相故者。<lb
+ ed="X" n="0901b22"/>述曰。上来解二量訖。自下出二量果。文中<lb
+ ed="X" n="0901b23"/>有二。初出二量果。後釋伏難。此即出二量果<lb
+ ed="X" n="0901b24"/>也。謂二量中智最為勝。同聚心等総就智名。<pb ed="X" id="X53.0855.0901c" n="0901c"/><lb
+ ed="X" n="0901c01"/>智之見分名為能量。智自證分名曰量果。見分<lb
+ ed="X" n="0901c02"/>自證用別体同故言即智名為果也。是證相故者。<lb
+ ed="X" n="0901c03"/>現比二量如其次第。是證自相共相境故也。<lb
+ ed="X" n="0901c04"/>問。阿賴耶識既無別境。云何同聚総就智名<lb
+ ed="X" n="0901c05"/>耶。<lb
+ ed="X" n="0901c06"/>答。據実二量。未必以智為名。今顕立破之<lb
+ ed="X" n="0901c07"/>無故。約智為論。<lb
+ ed="X" n="0901c08"/>論曰。如有作用。而顕現故。亦名為量者。<lb
+ ed="X" n="0901c09"/>述曰。此釋伏難也。難云。若取心外境。可<lb
+ ed="X" n="0901c10"/>使名為量。既唯取自心応不名為量。今論主為<lb
+ ed="X" n="0901c11"/>解云。此中名量者。非如󴥏󴥏物。舒光照物等<lb
+ ed="X" n="0901c12"/>実有作用。但譬如明鏡現眾色像。鏡不至質。<lb
+ ed="X" n="0901c13"/>質不入鏡。現彰以質故。名為照心。緣於境亦<lb
+ ed="X" n="0901c14"/>復如是。心不至境。境不入心。心似境現。似<lb
+ ed="X" n="0901c15"/>有作用。假名為量故。理門云。又於此中無別<lb
+ ed="X" n="0901c16"/>量果。以即此体似義生故。似有用故。假說為<lb
+ ed="X" n="0901c17"/>量。<lb
+ ed="X" n="0901c18"/>論曰。有分別智。於義異転。名似現量者。<pb ed="X" id="X53.0855.0902a" n="0902a"/><lb
+ ed="X" n="0902a01"/>述曰。上来釋真量訖。此下解似量。文中有<lb
+ ed="X" n="0902a02"/>二。初釋似現。後解似比。此即解似現也。文<lb
+ ed="X" n="0902a03"/>中有二。初総解。後別釋。此即総解也。以名<lb
+ ed="X" n="0902a04"/>言等分別緣故名有分別。不以自相為境界。故<lb
+ ed="X" n="0902a05"/>名於義異転也。<lb
+ ed="X" n="0902a06"/>論曰。謂諸有智了瓶衣等分別而生者。<lb
+ ed="X" n="0902a07"/>述曰。此下別解。文中有二。初解上有分別<lb
+ ed="X" n="0902a08"/>智。後解上於義異転。此即初也。謂諸凡夫外<lb
+ ed="X" n="0902a09"/>道所有邪知以瓶衣名言種類假立分別了瓶衣等<lb
+ ed="X" n="0902a10"/>分別而生瓶衣。是假四塵合成分別之心。妄謂<lb
+ ed="X" n="0902a11"/>眼見分故。名似現量也。<lb
+ ed="X" n="0902a12"/>論曰。由彼於義不以自相為境界故。名似現<lb
+ ed="X" n="0902a13"/>量者。<lb
+ ed="X" n="0902a14"/>述曰。此解上於義異転也。謂由彼分別之心<lb
+ ed="X" n="0902a15"/>於境界義。不以実自相為境界。乃用瓶衣等假<lb
+ ed="X" n="0902a16"/>共相為境界。故名似現量也。此約散心說。以<lb
+ ed="X" n="0902a17"/>佛之心亦緣假故。<lb
+ ed="X" n="0902a18"/>論曰。若似因智為先所起諸似義智名似比量<lb
+ ed="X" n="0902a19"/>者。<lb
+ ed="X" n="0902a20"/>述曰。此下解似比量。文中有二。初総出体。<lb
+ ed="X" n="0902a21"/>後別解釋。此即総出体也。謂若似因智為先者。<lb
+ ed="X" n="0902a22"/>顕似比之因智也。所起諸似義智者。明似比之<lb
+ ed="X" n="0902a23"/>果智也。若因智若果智。総名似比量也。<lb
+ ed="X" n="0902a24"/>論曰。似因多種如先以說者。<pb ed="X" id="X53.0855.0902b" n="0902b"/><lb
+ ed="X" n="0902b01"/>述曰。此下別解也。文中有二。初解似因。<lb
+ ed="X" n="0902b02"/>後正解似比。此即初也。謂似因十四種。如前<lb
+ ed="X" n="0902b03"/>似立中已說也。<lb
+ ed="X" n="0902b04"/>論曰。用彼為因。於似所比諸有智生。不能<lb
+ ed="X" n="0902b05"/>正解。名似比量者。<lb
+ ed="X" n="0902b06"/>述曰。此即正解似比也。言用彼為因者。謂<lb
+ ed="X" n="0902b07"/>似因智。用彼似因言義為解顕常等之因。此即<lb
+ ed="X" n="0902b08"/>解似比之因智也。言於似所比者。謂果智所観<lb
+ ed="X" n="0902b09"/>常等也。諸有智生。謂似比果智生也。不能生<lb
+ ed="X" n="0902b10"/>解者。釋似果智相。謂非常法妄作常。解由非<lb
+ ed="X" n="0902b11"/>真故。名似比量也。<lb
+ ed="X" n="0902b12"/>若准前文。重有三釋翻前可知。<lb
+ ed="X" n="0902b13"/>論曰。復次若正顕示能立過失說名能破者。<lb
+ ed="X" n="0902b14"/>述曰。上来已解真似二量。即釋頌中現量與<lb
+ ed="X" n="0902b15"/>比量及似。唯自悟訖。従此以下解前頌中真能<lb
+ ed="X" n="0902b16"/>破及似能破。文中有二。初解真破。後釋似破。<lb
+ ed="X" n="0902b17"/>解真破中有二。初総釋能破名体。二謂初下指<lb
+ ed="X" n="0902b18"/>事廣釋。此即初也。謂若能正顕示他似能立中<lb
+ ed="X" n="0902b19"/>所有過失。即說此是真能破也。<lb
+ ed="X" n="0902b20"/>又。能破有四。一真能破。謂斥失當過。自<lb
+ ed="X" n="0902b21"/>量無瑕故。言真能破。二真似破。謂當過而斥。<lb
+ ed="X" n="0902b22"/>所以稱真。自不免愆故。名為似。此即相違決<lb
+ ed="X" n="0902b23"/>定過也。三似能破。謂無過妄斥。自雖無咎而<lb
+ ed="X" n="0902b24"/>有極義之愆。所以稱似。即如所作相似等是也。<pb ed="X" id="X53.0855.0902c" n="0902c"/><lb
+ ed="X" n="0902c01"/>四似々能破。謂無過妄斥。已稱其似自量有瑕<lb
+ ed="X" n="0902c02"/>是以言著似名。此即同法相似等是也。<lb
+ ed="X" n="0902c03"/>今為簡後三故稱。若正顕示等也。或可為簡<lb
+ ed="X" n="0902c04"/>後二。以相違決定。望顕他過辺亦得稱真也。<lb
+ ed="X" n="0902c05"/>論曰。謂初能立缺減過性者。<lb
+ ed="X" n="0902c06"/>述曰。此下指事廣釋。文中有二。初明所破<lb
+ ed="X" n="0902c07"/>之過。後正解能破之言。就所破中有二。初明<lb
+ ed="X" n="0902c08"/>缺減失。後顕三十三過。此即明缺減過也。<lb
+ ed="X" n="0902c09"/>何者西方有両釋不同。一世親已前諸師釋云。<lb
+ ed="X" n="0902c10"/>宗因喻中隨有所闕名為缺減。総有六句。闕一<lb
+ ed="X" n="0902c11"/>有三句。如有宗因無喻是一。有宗喻無因是一。<lb
+ ed="X" n="0902c12"/>有因喻無宗是一。闕二有三句。如有宗無因喻<lb
+ ed="X" n="0902c13"/>是一。有因無宗喻是一。有喻無宗因是一。故<lb
+ ed="X" n="0902c14"/>有六句也。<lb
+ ed="X" n="0902c15"/>若闕宗因喻三。名為一者。応有七句。為三<lb
+ ed="X" n="0902c16"/>無総非能立。何得名闕故。不取闕三也。<lb
+ ed="X" n="0902c17"/>二陳那菩薩云。宗非能立。唯於因三相中隨<lb
+ ed="X" n="0902c18"/>有所闕名缺減也。此亦有六句。於三相中闕一<pb ed="X" id="X53.0855.0903a" n="0903a"/><lb
+ ed="X" n="0903a01"/>有三句。闕二有三句。等可准前作。亦有大徳<lb
+ ed="X" n="0903a02"/>云。陳那約因同異喻三中隨有所闕名缺減者。<lb
+ ed="X" n="0903a03"/>此恐不然。真性有為空等比量定無異喻。豈名<lb
+ ed="X" n="0903a04"/>闕一過。故約三相不得有闕一也。<lb
+ ed="X" n="0903a05"/>問。若爾此比量既無異品。応闕異品無相何<lb
+ ed="X" n="0903a06"/>得作此釋耶。<lb
+ ed="X" n="0903a07"/>答。無異品故。必無異喻。因因不󴥏行故有<lb
+ ed="X" n="0903a08"/>第三相也。<lb
+ ed="X" n="0903a09"/>論曰。立宗過性。不成因性。不定因性。相<lb
+ ed="X" n="0903a10"/>違因性及喻過性者。<lb
+ ed="X" n="0903a11"/>述曰。此顕三十三過。謂宗九過。不成過。<lb
+ ed="X" n="0903a12"/>不定六過。相違四過及喻十過也。<lb
+ ed="X" n="0903a13"/>論曰。顕示此言開曉問者。故名能破者。<lb
+ ed="X" n="0903a14"/>述曰。此即正顕能破之言也。謂能顕示如前<lb
+ ed="X" n="0903a15"/>過失善能開曉耶。立之問以言顕示故稱顕示。<lb
+ ed="X" n="0903a16"/>此言名能破也。<lb
+ ed="X" n="0903a17"/>論曰。若不実顕能立過言名似能破者。<lb
+ ed="X" n="0903a18"/>述曰。此下解似能破。文中有二。初総解名<lb
+ ed="X" n="0903a19"/>義。二指事別解。此即初也。謂若不能実顕示<lb
+ ed="X" n="0903a20"/>他能立過失。如此之言名似能破。此即是四能<lb
+ ed="X" n="0903a21"/>破中似能破及似似能破也。<lb
+ ed="X" n="0903a22"/>論曰。謂於円満能立。顕示缺減性言。於無<lb
+ ed="X" n="0903a23"/>過宗有過宗言。於成就因。不成因言。於決定<lb
+ ed="X" n="0903a24"/>因不定因言。於不相違因相違因言。於無過喻<pb ed="X" id="X53.0855.0903b" n="0903b"/><lb
+ ed="X" n="0903b01"/>有過喻言者。<lb
+ ed="X" n="0903b02"/>述曰。此下指事別解。文中有三。初指事別<lb
+ ed="X" n="0903b03"/>解。二如是下修已総結。三以不能顕下重釋似<lb
+ ed="X" n="0903b04"/>能破所以。此即初也。謂於宗等円満。或三相<lb
+ ed="X" n="0903b05"/>具足之中妄說闕一闕二等缺減之言。於宗無九<lb
+ ed="X" n="0903b06"/>過之處妄說有過宗言於無四不成。成就因中妄<lb
+ ed="X" n="0903b07"/>說不成因言。於無六不定決定因中妄說不定因<lb
+ ed="X" n="0903b08"/>言。於無四相違因中妄說相違因言。於無十過<lb
+ ed="X" n="0903b09"/>喻中妄說有過喻言也。<lb
+ ed="X" n="0903b10"/>論曰。如是言說似能破者。<lb
+ ed="X" n="0903b11"/>述曰。此即修已総結也。謂如是妄顕之言名<lb
+ ed="X" n="0903b12"/>似能破也。<lb
+ ed="X" n="0903b13"/>論曰。以不能顕他宗過失彼無過故者。<lb
+ ed="X" n="0903b14"/>述曰。此即重釋似破所以也。謂所以名為似<lb
+ ed="X" n="0903b15"/>能破者。以不能顕示他宗之中過失故名似破也。<lb
+ ed="X" n="0903b16"/>何以不能顕他過失彼無過故所以不顕。彼令彼<lb
+ ed="X" n="0903b17"/>宗中有過而於因等妄言有過者亦名彼無過故也。<lb
+ ed="X" n="0903b18"/>此論餘義並皆是具足。唯有似破文中総略。<lb
+ ed="X" n="0903b19"/>若依餘論。更有十四過類等義。釋其似破。此<lb
+ ed="X" n="0903b20"/>論既無。亦須略分別之。十四過類者。依正理<lb
+ ed="X" n="0903b21"/>門論。陳那菩薩多分依彼大梵天王化身足目仙<lb
+ ed="X" n="0903b22"/>人之所說也。此即是釋似能破義。論其過類乃<lb
+ ed="X" n="0903b23"/>有無量。撮其綱例不過十四。何故說此名似能<lb
+ ed="X" n="0903b24"/>破。理門論云。<pb ed="X" id="X53.0855.0903c" n="0903c"/><lb
+ ed="X" n="0903c01"/>由彼多分於善比量為迷惑他而施設故。<lb
+ ed="X" n="0903c02"/>言善比量者。略挙二条。約此二条作法而已。<lb
+ ed="X" n="0903c03"/>准此於餘類例可知。隨其所應名宗󴥏異。言二<lb
+ ed="X" n="0903c04"/>量者。且如內道対声論師立。<lb
+ ed="X" n="0903c05"/>声是無常。所作性故。諸所作者皆是無<lb
+ ed="X" n="0903c06"/>常。譬如瓶等。若是其常必非所作。如虚<lb
+ ed="X" n="0903c07"/>空等。<lb
+ ed="X" n="0903c08"/>又。對唯立詮弁声常者云。內󴥏󴥏声必是無<lb
+ ed="X" n="0903c09"/>常。勤勇無間所発。諸勤勇者皆是無常。<lb
+ ed="X" n="0903c10"/>譬如瓶等。若是其常必非勤発。譬如虚空<lb
+ ed="X" n="0903c11"/>等。<lb
+ ed="X" n="0903c12"/>是名二量。由此二量。宗因喻等皆是缺減。<lb
+ ed="X" n="0903c13"/>又。宗無九過。因無十四過。喻無十過。既<lb
+ ed="X" n="0903c14"/>無過失名善能立耶。敵論者離三十三過失之外。<lb
+ ed="X" n="0903c15"/>妄作相似過類。誹謗正義故名似破。此諸過類<lb
+ ed="X" n="0903c16"/>若委細解釋。稍涉煩言。挙其梗綱。錄其文意。<lb
+ ed="X" n="0903c17"/>且於一一過中。先標過類之名。次挙相似之類。<lb
+ ed="X" n="0903c18"/>後述正解。顕難非真。言十四者。<pb ed="X" id="X53.0855.0904a" n="0904a"/><lb
+ ed="X" n="0904a01"/>一同法相似過類。<lb
+ ed="X" n="0904a02"/>瓶有所作故無常。顕声所作亦無常。亦可空<lb
+ ed="X" n="0904a03"/>有無碍故是常。顕声無碍亦是常。<lb
+ ed="X" n="0904a04"/>正解云。我以所作證無常。無有所作非無常。<lb
+ ed="X" n="0904a05"/>汝以無碍證声常。楽等無碍應是常。<lb
+ ed="X" n="0904a06"/>二異法相似過類。<lb
+ ed="X" n="0904a07"/>虚空是常。無所作。声有所作即無常。亦可<lb
+ ed="X" n="0904a08"/>瓶是無常有質碍。声既無碍應是常。<lb
+ ed="X" n="0904a09"/>正解云。一切常法皆非作。可顕所作證無常。<lb
+ ed="X" n="0904a10"/>無常不必皆質碍。不顕無碍證声常。<lb
+ ed="X" n="0904a11"/>三分別相似過類。<lb
+ ed="X" n="0904a12"/>声若焼等同於瓶。可使無常亦同瓶。瓶之焼<lb
+ ed="X" n="0904a13"/>等不同声。云何無常以例声。<lb
+ ed="X" n="0904a14"/>正解云。声瓶焼等異不許斉無常。亦可声性<lb
+ ed="X" n="0904a15"/>與声殊。不詳斉常住。<lb
+ ed="X" n="0904a16"/>四無異相似過類。<lb
+ ed="X" n="0904a17"/>初云。声瓶斉所作無常。亦例同。亦可。所<lb
+ ed="X" n="0904a18"/>作貫声瓶焼等應無異。<lb
+ ed="X" n="0904a19"/>二云。所作與無常一種非畢竟両法斉生滅。<lb
+ ed="X" n="0904a20"/>宗因応不殊。<lb
+ ed="X" n="0904a21"/>三云。瓶上無常順所立。即以所作證無常。亦<lb
+ ed="X" n="0904a22"/>可瓶之焼見違所成所作令声有焼見。<lb
+ ed="X" n="0904a23"/>正解初難云。所作無常為喻体。法喻再處必<lb
+ ed="X" n="0904a24"/>斉同。不以瓶等為同喻。云何焼等令無異。<pb ed="X" id="X53.0855.0904b" n="0904b"/><lb
+ ed="X" n="0904b01"/>解第二難云。両法雜取成宗因可言二立無差<lb
+ ed="X" n="0904b02"/>異宗滅因生成二立。何得說言全不殊。<lb
+ ed="X" n="0904b03"/>解第三難云。成立無常具三相。所作可得顕<lb
+ ed="X" n="0904b04"/>無常。成立焼見不決定。所作何能證焼見。<lb
+ ed="X" n="0904b05"/>五可得相似過類。<lb
+ ed="X" n="0904b06"/>初云。電等非勤発餘因可得證其滅。声雖是<lb
+ ed="X" n="0904b07"/>勤発。何得用此顕無常。<lb
+ ed="X" n="0904b08"/>二云。一切無常皆所作。遍所立故成能立。<lb
+ ed="X" n="0904b09"/>電等無常非勤発不遍所立不成因。<lb
+ ed="X" n="0904b10"/>正解初難云。本以勤発證無常。不得勤発非<lb
+ ed="X" n="0904b11"/>無常。不言無常必勤発。何妨電滅有餘因。<lb
+ ed="X" n="0904b12"/>解後難云。若立一切滅壞義。不遍所立不成<lb
+ ed="X" n="0904b13"/>因。唯立声上有無常。何妨電等非勤発。<lb
+ ed="X" n="0904b14"/>六猶豫相似過類。<lb
+ ed="X" n="0904b15"/>初云。無常含生顕或顕或是生。宗法既不定。<lb
+ ed="X" n="0904b16"/>勤発成何義。<lb
+ ed="X" n="0904b17"/>二云。勤発含生顕或顕或是生。其因既猶豫。<lb
+ ed="X" n="0904b18"/>何能證宗義。<lb
+ ed="X" n="0904b19"/>正解初難云。勤発若於常亦有。可使說此是<lb
+ ed="X" n="0904b20"/>猶因。生顕既許斉無常。如何此因成不定。<lb
+ ed="X" n="0904b21"/>解後難云。生顕不俱成滅壞。可使二種是猶<lb
+ ed="X" n="0904b22"/>因両法皆得顕無常。如何說此成猶豫。<lb
+ ed="X" n="0904b23"/>七義准相似過類。<lb
+ ed="X" n="0904b24"/>声是勤勇発。声即是無常。電既非勤発。應<pb ed="X" id="X53.0855.0905a" n="0905a"/><lb
+ ed="X" n="0905a01"/>當体是常。非勤翻於勤非勤不定有勤既反非勤。<lb
+ ed="X" n="0905a02"/>云何定無常。<lb
+ ed="X" n="0905a03"/>正解云。非勤通常無常品。可許非勤不定常<lb
+ ed="X" n="0905a04"/>勤発不通常更転云何不許定無常。<lb
+ ed="X" n="0905a05"/>八至不至相似過類。<lb
+ ed="X" n="0905a06"/>能立之因。為至所立。名能立為不至耶。若<lb
+ ed="X" n="0905a07"/>爾何失。二俱有過。若至所立名能立者。應無<lb
+ ed="X" n="0905a08"/>能立。<lb
+ ed="X" n="0905a09"/>難云。如池至於海。名海不名池。因既至所<lb
+ ed="X" n="0905a10"/>成。不得名能立。<lb
+ ed="X" n="0905a11"/>又。難云。所立若極成。何用因相至所立不<lb
+ ed="X" n="0905a12"/>極成。因應無所至。若不至名能立者。難云。<lb
+ ed="X" n="0905a13"/>因若至所成。可使名能立。既不至所成。應非<lb
+ ed="X" n="0905a14"/>是能立。<lb
+ ed="X" n="0905a15"/>正解云。解至難。如燈光至所照。能照所照<lb
+ ed="X" n="0905a16"/>殊。因雖至所立。何妨能立所立異。解不至難。<lb
+ ed="X" n="0905a17"/>如慈石不至鐵而能吸於鐵。何妨因不至所立而<lb
+ ed="X" n="0905a18"/>能立所立。又返難云。此因至不至即說名因闕<lb
+ ed="X" n="0905a19"/>餘因至不至。應皆不成因。當知即是謗一切因。<lb
+ ed="X" n="0905a20"/>何名能破。又汝󴥏言。應成自害以於汝自立因<lb
+ ed="X" n="0905a21"/>中亦有此失故。又應返問言。汝破我義為至我<lb
+ ed="X" n="0905a22"/>義。名為能破為不至許耶。若至我義名能破者。<lb
+ ed="X" n="0905a23"/>難云。如池至於海不得名為池。既至所破義不<lb
+ ed="X" n="0905a24"/>得名能破。<pb ed="X" id="X53.0855.0905b" n="0905b"/><lb
+ ed="X" n="0905b01"/>又難。汝許我義立。何須更相破。汝既不許<lb
+ ed="X" n="0905b02"/>我義成。汝破應當無所立。若不至我義。名能<lb
+ ed="X" n="0905b03"/>破者。難云。若至我義破我義。可使名能破。<lb
+ ed="X" n="0905b04"/>本来不至於我義。應不名能破故。汝所言有自<lb
+ ed="X" n="0905b05"/>害過。<lb
+ ed="X" n="0905b06"/>九無因相似過類。<lb
+ ed="X" n="0905b07"/>能立之因。為在無常前名為因。為在無常後<lb
+ ed="X" n="0905b08"/>名為因。為與無常俱名之為因。若在無常前名<lb
+ ed="X" n="0905b09"/>為因者。<lb
+ ed="X" n="0905b10"/>難云。若有無常義対果可成因。無常義既無。<lb
+ ed="X" n="0905b11"/>其因應不立。若在無常後名為因者。難云。無<lb
+ ed="X" n="0905b12"/>常義不立可須能立因。宗義既先成。其因復何<lb
+ ed="X" n="0905b13"/>用。若與無常同時名為因者。難云。如牛両角<lb
+ ed="X" n="0905b14"/>同時有不得名果名有果。能立無常時不別。何<lb
+ ed="X" n="0905b15"/>得名因名有因。<lb
+ ed="X" n="0905b16"/>正解。解宗前宗俱無因難。過現若無現在果。<lb
+ ed="X" n="0905b17"/>可使宗前宗俱不成因。過現許有現在果。何廃<lb
+ ed="X" n="0905b18"/>宗前宗俱復有因。解宗後無因難。唯據相生說<lb
+ ed="X" n="0905b19"/>名因。後法不得生前果。亦說相顕以明證。何<lb
+ ed="X" n="0905b20"/>妨宗後得有因。又返難云。所作之因有三難。<lb
+ ed="X" n="0905b21"/>即說是無因。一切餘因有三難。應皆不成證。<lb
+ ed="X" n="0905b22"/>當知即是謗一切因。何名能破。又汝所言有自<lb
+ ed="X" n="0905b23"/>害過。以於汝自立因中亦有此失故。又應返問<lb
+ ed="X" n="0905b24"/>言汝破我義。為在我義前。名為能破。為當在<pb ed="X" id="X53.0855.0905c" n="0905c"/><lb
+ ed="X" n="0905c01"/>後為俱時耶。若在我義前名能破者。難云。若<lb
+ ed="X" n="0905c02"/>有所破義対彼所破名能破。未有所破義対何辨<lb
+ ed="X" n="0905c03"/>能破。若在我義後者。難云。我義若不立汝破<lb
+ ed="X" n="0905c04"/>名能破。我義既已成。汝破非能破。若與我義<lb
+ ed="X" n="0905c05"/>同時名者。難云。如牛両角同時有不名能破及<lb
+ ed="X" n="0905c06"/>所破。我與汝破既同時不名能破及所破故。汝<lb
+ ed="X" n="0905c07"/>所言有自害過。<lb
+ ed="X" n="0905c08"/>十無說相似過類。<lb
+ ed="X" n="0905c09"/>立因言所作。声即是無常。立宗未說因。声<lb
+ ed="X" n="0905c10"/>應是常住。<lb
+ ed="X" n="0905c11"/>正解云。唯立言因名所作。未說所作可無因。<lb
+ ed="X" n="0905c12"/>立宗之時有義因。何得言声是常住。<lb
+ ed="X" n="0905c13"/>十一無生相似過類。<lb
+ ed="X" n="0905c14"/>已生之声。有勤発可使是無常。未生之声。<lb
+ ed="X" n="0905c15"/>非勤発。應當是常住。<lb
+ ed="X" n="0905c16"/>正解不成難云。若於已生未生立宗義不遍未生<lb
+ ed="X" n="0905c17"/>不成因。唯約已生立無常。何得言因不成就。<lb
+ ed="X" n="0905c18"/>解不定難。同品遍有是正因。未生無因。可<lb
+ ed="X" n="0905c19"/>常住同品不遍亦正因。何妨未起是無常。<lb
+ ed="X" n="0905c20"/>十二所作相似過類。<lb
+ ed="X" n="0905c21"/>瓶之所作異於声。瓶可是無常。声之所作不<lb
+ ed="X" n="0905c22"/>同瓶。何得是無常。<lb
+ ed="X" n="0905c24"/>正解云。若以別義立比量。可使汝破成能破。<pb ed="X" id="X53.0855.0906a" n="0906a"/><lb
+ ed="X" n="0906a01"/>但取総法成立義。當知汝難即非真。又返難云。<lb
+ ed="X" n="0906a02"/>分別此因有此過。不許此因證無常。分別餘因<lb
+ ed="X" n="0906a03"/>有此難。不許餘因顕宗義。<lb
+ ed="X" n="0906a04"/>十三生過相似過類。<lb
+ ed="X" n="0906a05"/>声上有無常。待因方乃顕。亦應瓶上有滅壞<lb
+ ed="X" n="0906a06"/>無因義不成。<lb
+ ed="X" n="0906a07"/>正解云。声上無常不共許。待因方極成。瓶<lb
+ ed="X" n="0906a08"/>上滅壞両俱成。何須藉因顕。<lb
+ ed="X" n="0906a09"/>十四常住相似過類。<lb
+ ed="X" n="0906a10"/>生滅遷於声即立声無常。恒與常合。應當是<lb
+ ed="X" n="0906a11"/>常住。<lb
+ ed="X" n="0906a12"/>正解云。據声起盡立無常。唯顕其生滅不說<lb
+ ed="X" n="0906a13"/>体恒生滅合。云何言是常。<lb
+ ed="X" n="0906a14"/>良為此論無文略弁󱍮相。其委細具在理門。<lb
+ ed="X" n="0906a15"/>此即略明似能破訖。上来総是依據正解釋頌文<lb
+ ed="X" n="0906a16"/>第八門義訖。<lb
+ ed="X" n="0906a17"/>論曰。旦止斯事者。<lb
+ ed="X" n="0906a18"/>述曰。就依標別解分中有三。初如是総摂諸<lb
+ ed="X" n="0906a19"/>論要義者。顕標勝用。二此中宗等下即依標正<lb
+ ed="X" n="0906a20"/>解。此云且止斯事者。即是第三抑解顕略也。<lb
+ ed="X" n="0906a21"/>謂抑其廣解顕此論略也。<lb
+ ed="X" n="0906a22"/>論曰。已宣少句義。為始立方隅。其簡理非<lb
+ ed="X" n="0906a23"/>理。妙辨於餘處。<lb
+ ed="X" n="0906a24"/>述曰。此一部論文有三分。初一行頌名総標<pb ed="X" id="X53.0855.0906b" n="0906b"/><lb
+ ed="X" n="0906b01"/>綱要分。二如是下長行名依標別解分。三此一<lb
+ ed="X" n="0906b02"/>行頌名結略示廣分。謂上来已宣八門両悟少分<lb
+ ed="X" n="0906b03"/>之義。旦為始学之徒。今識方隅而已。此即結<lb
+ ed="X" n="0906b04"/>此論略也。於其中間所有顕此論之正理斥餘論<lb
+ ed="X" n="0906b05"/>之非理。或解真立等正理。釋似立等。非理妙<lb
+ ed="X" n="0906b06"/>辯說。更在餘集量理門等中。此即示餘論廣也。<lb
+ ed="X" n="0906b07"/><lb
+ ed="X" n="0906b08"/>因明入正理論後疏</ab></div></div>
+</body></text></TEI>

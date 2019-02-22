@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說無量壽佛名號利益大事因緣經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X01</biblScope>
+                    <idno type="Taisho">X01n0011</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X01.0011.0361a" n="0361a"/><lb
+ ed="X" n="0361a01"/><lb
+ ed="X" n="0361a02"/><lb
+ ed="X" n="0361a03"/><lb
+ ed="R001" n="0696b01"/>
+<ab type='juan' subtype='open'>佛說無量壽佛名號利益大事因緣經</ab><lb
+ ed="X" n="0361a04"/><lb
+ ed="X" n="0361a05"/><lb
+ ed="R001" n="0696b02"/><byline>曹魏天竺三藏康僧鎧譯</byline><lb
+ ed="X" n="0361a06"/><lb
+ ed="R001" n="0696b03"/><div type='' level='1'><ab type='prose'>我聞如是一時佛在王舍城耆闍崛山中與大比丘<lb
+ ed="X" n="0361a07"/><lb
+ ed="R001" n="0696b04"/>眾千二百五十人俱諸漏已盡神通明達諸眾聖其<lb
+ ed="X" n="0361a08"/><lb
+ ed="R001" n="0696b05"/>名曰尊者阿難尊者目犍連尊者舍利弗尊者大牛<lb
+ ed="X" n="0361a09"/><lb
+ ed="R001" n="0696b06"/>王尊者摩訶迦葉尊者摩訶伽耶迦葉尊者大周那<lb
+ ed="X" n="0361a10"/><lb
+ ed="R001" n="0696b07"/>尊者名聞迦葉尊者大淨心志等皆如斯等以為上<lb
+ ed="X" n="0361a11"/><lb
+ ed="R001" n="0696b08"/>首又普賢菩薩文殊師利菩薩信淨慧菩薩善解脫<lb
+ ed="X" n="0361a12"/><lb
+ ed="R001" n="0696b09"/>菩薩等諸大正士滿足無量願行安住不可思議功<lb
+ ed="X" n="0361a13"/><lb
+ ed="R001" n="0696b10"/>德之法智慧聖明如是等之諸菩薩眾不可稱計即<lb
+ ed="X" n="0361a14"/><lb
+ ed="R001" n="0696b11"/>時來會。<lb
+ ed="X" n="0361a15"/><lb
+ ed="R001" n="0696b12"/>爾時世尊告阿難曰乃往過去久遠無量無央數劫<lb
+ ed="X" n="0361a16"/><lb
+ ed="R001" n="0696b13"/>有一大比丘名曰法藏值遇無數百千佛滿足無量<lb
+ ed="X" n="0361a17"/><lb
+ ed="R001" n="0696b14"/>大願超過諸佛所行之法彼法藏比丘今已成正覺<lb
+ ed="X" n="0361a18"/><lb
+ ed="R001" n="0696b15"/>現在西方清淨安樂剎號曰不可思議光無量壽如<lb
+ ed="X" n="0361a19"/><lb
+ ed="R001" n="0696b16"/>來其佛本願力故以不可思議威神力徧滿十方世<lb
+ ed="X" n="0361a20"/><lb
+ ed="R001" n="0696b17"/>界以大音聲宣布名號功德是故十方世界一切有<lb
+ ed="X" n="0361a21"/><lb
+ ed="R001" n="0696b18"/>情聞信其名號功德即時入正定位生清淨安樂佛<lb
+ ed="X" n="0361a22"/><lb
+ ed="R001" n="0697a01"/>國是故有情之類縱令在人中以宿報故或聾盲喑<lb
+ ed="X" n="0361a23"/><lb
+ ed="R001" n="0697a02"/>啞愚痴狂惡以其佛光明名號因緣皆得解脫或在<lb
+ ed="X" n="0361a24"/><lb
+ ed="R001" n="0697a03"/>三途勤苦之中受苦無間以其佛光明名號因緣皆<pb ed="X" id="X01.0011.0361b" n="0361b"/><lb
+ ed="X" n="0361b01"/><lb
+ ed="R001" n="0697a04"/>蒙解脫聞其光明名號若信受若稱名即時除無量<lb
+ ed="X" n="0361b02"/><lb
+ ed="R001" n="0697a05"/>無數劫生死之罪是故阿難稱彼佛號若一聲若十<lb
+ ed="X" n="0361b03"/><lb
+ ed="R001" n="0697a06"/>聲乃至百千聲於念念中在無數化無量壽佛常護<lb
+ ed="X" n="0361b04"/><lb
+ ed="R001" n="0697a07"/>其人又有二菩薩一名觀世音一名大勢至是二菩<lb
+ ed="X" n="0361b05"/><lb
+ ed="R001" n="0697a08"/>薩自為上首俱諸大菩薩眾常來護其人壽終之後<lb
+ ed="X" n="0361b06"/><lb
+ ed="R001" n="0697a09"/>生彼無量壽清淨安樂國是故阿難設有猛火充滿<lb
+ ed="X" n="0361b07"/><lb
+ ed="R001" n="0697a10"/>三千大千世界必當過至聞信彼佛名號是人號火<lb
+ ed="X" n="0361b08"/><lb
+ ed="R001" n="0697a11"/>中生白蓮華是名不可思議名號利益一大事因緣<lb
+ ed="X" n="0361b09"/><lb
+ ed="R001" n="0697a12"/>其佛本願力故十方諸佛皆俱讚譽彼佛名號功德<lb
+ ed="X" n="0361b10"/><lb
+ ed="R001" n="0697a13"/>又稱讚念佛有情之類是故汝等皆當信受彼佛名<lb
+ ed="X" n="0361b11"/><lb
+ ed="R001" n="0697a14"/>號。<lb
+ ed="X" n="0361b12"/><lb
+ ed="R001" n="0697a15"/>世尊告阿難曰如來所以興出於世間說彼佛不可<lb
+ ed="X" n="0361b13"/><lb
+ ed="R001" n="0697a16"/>思議真實功德光明名號利益大事因緣是故我說<lb
+ ed="X" n="0361b14"/><lb
+ ed="R001" n="0697a17"/>難值難見難得難聞若有眾生有聞此法者皆應信<lb
+ ed="X" n="0361b15"/><lb
+ ed="R001" n="0697a18"/>順如法修行。<lb
+ ed="X" n="0361b16"/><lb
+ ed="R001" n="0697b01"/>世尊告阿難曰彼法藏比丘為度十方世界一切有<lb
+ ed="X" n="0361b17"/><lb
+ ed="R001" n="0697b02"/>情雖起超世願修無量大行是本久遠實成本有法<lb
+ ed="X" n="0361b18"/><lb
+ ed="R001" n="0697b03"/>身常住無量壽佛以不可思議威神力故徧滿十方<lb
+ ed="X" n="0361b19"/><lb
+ ed="R001" n="0697b04"/>世界為教化安立無數有情住於無上真實之道或<lb
+ ed="X" n="0361b20"/><lb
+ ed="R001" n="0697b05"/>為剎利國王轉輪王或為長者居家尊性豪貴或為<lb
+ ed="X" n="0361b21"/><lb
+ ed="R001" n="0697b06"/>六欲梵天王等或為地獄餓鬼畜生修羅身常以四<lb
+ ed="X" n="0361b22"/><lb
+ ed="R001" n="0697b07"/>威儀化作一切阿難彼久遠實成法身常住無量壽<lb
+ ed="X" n="0361b23"/><lb
+ ed="R001" n="0697b08"/>佛者豈異人耶今日世尊我身是也愍念汝等一切<lb
+ ed="X" n="0361b24"/><lb
+ ed="R001" n="0697b09"/>有情無明大夜闇故從彼安養無為界示現此惡時<pb ed="X" id="X01.0011.0361c" n="0361c"/><lb
+ ed="X" n="0361c01"/><lb
+ ed="R001" n="0697b10"/>惡世界中迦耶王舍等說彼佛名號不可思議功德<lb
+ ed="X" n="0361c02"/><lb
+ ed="R001" n="0697b11"/>因緣是謂難值難見難得難聞是故若有有情聞此<lb
+ ed="X" n="0361c03"/><lb
+ ed="R001" n="0697b12"/>經者皆應信受如法修行。<lb
+ ed="X" n="0361c04"/><lb
+ ed="R001" n="0697b13"/>世尊告阿難曰縱令一切有情煩惱惡業深障重報<lb
+ ed="X" n="0361c05"/><lb
+ ed="R001" n="0697b14"/>彼佛光明名號神力無所障㝵是故彼佛號無㝵無<lb
+ ed="X" n="0361c06"/><lb
+ ed="R001" n="0697b15"/>對清淨智慧歡喜等智慧無㝵故威神力亦無㝵神<lb
+ ed="X" n="0361c07"/><lb
+ ed="R001" n="0697b16"/>力無㝵故大慈悲亦無㝵是故濁惡世一切有情若<lb
+ ed="X" n="0361c08"/><lb
+ ed="R001" n="0697b17"/>以有㝵小智有疑於佛無㝵智不可思議智不可穪<lb
+ ed="X" n="0361c09"/><lb
+ ed="R001" n="0697b18"/>量智大乘勝智無等倫最上智疑惑不信以疑惑故<lb
+ ed="X" n="0361c10"/><lb
+ ed="R001" n="0698a01"/>無數多劫中墮曾婆羅獄或入頻陀羅獄受苦無窮<lb
+ ed="X" n="0361c11"/><lb
+ ed="R001" n="0698a02"/>無有出期是故若有有情正信佛智者即時入正定<lb
+ ed="X" n="0361c12"/><lb
+ ed="R001" n="0698a03"/>位不退轉阿耨多羅三藐三菩提是名不可思議功<lb
+ ed="X" n="0361c13"/><lb
+ ed="R001" n="0698a04"/>德名號利益大事因緣佛說此經應時普大地六種<lb
+ ed="X" n="0361c14"/><lb
+ ed="R001" n="0698a05"/>震動天雨妙花自然空中有微妙大音聲讚嘆彼不<lb
+ ed="X" n="0361c15"/><lb
+ ed="R001" n="0698a06"/>可思議光無量壽清淨佛號及今日世尊說大事利<lb
+ ed="X" n="0361c16"/><lb
+ ed="R001" n="0698a07"/>益因緣世尊說此經時無量有情發無上正真道意<lb
+ ed="X" n="0361c17"/><lb
+ ed="R001" n="0698a08"/>諸天人民得阿那含果諸大菩薩以四弘誓莊嚴功<lb
+ ed="X" n="0361c18"/><lb
+ ed="R001" n="0698a09"/>德於將來世應成正覺佛說此經已諸大菩薩眾阿<lb
+ ed="X" n="0361c19"/><lb
+ ed="R001" n="0698a10"/>難等諸大聲聞弟子眾聞佛所說歡喜禮佛而去。<lb
+ ed="X" n="0361c20"/><lb
+ ed="X" n="0361c21"/><lb
+ ed="R001" n="0698a12"/>
+</ab><ab type='juan' subtype='close'>佛說無量壽佛名號利益大事因緣經</ab></div>
+</body></text></TEI>

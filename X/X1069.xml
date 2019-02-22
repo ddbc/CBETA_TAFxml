@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">釋迦牟尼如來拔除苦惱現大神變飛空大鉢法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X59</biblScope>
+                    <idno type="Taisho">X59n1069</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X59.1069.0171b" n="0171b"/><lb
+ ed="X" n="0171b01"/><lb
+ ed="X" n="0171b02"/><lb
+ ed="X" n="0171b03"/><lb
+ ed="X" n="0171b04"/><lb
+ ed="X" n="0171b05"/><lb
+ ed="R104" n="0679a01"/>
+<ab type='juan' subtype='open'>釋迦牟尼如來󳫠除苦惱現大神變飛空大鉢法</ab><lb
+ ed="X" n="0171b06"/><lb
+ ed="X" n="0171b07"/><lb
+ ed="X" n="0171b08"/><lb
+ ed="R104" n="0679a02"/><byline>三藏法師　般若　傳</byline><lb
+ ed="X" n="0171b09"/><lb
+ ed="R104" n="0679a03"/><div type='' level='1'><ab type='prose'>一時釋迦尊住雪山頂。五百比丘。□萬菩薩。天龍八<lb
+ ed="X" n="0171b10"/><lb
+ ed="R104" n="0679a04"/>部。無量大眾。俱會聞法。時眾疲勞。飲食難得。爾時世<lb
+ ed="X" n="0171b11"/><lb
+ ed="R104" n="0679a05"/>尊入大慈三昧。於光明中。涌出如來之大鉢。乘空而<lb
+ ed="X" n="0171b12"/><lb
+ ed="R104" n="0679a06"/>去。不知去所。大眾驚疑振。於時佛大鉢還來。飯滿鉢<lb
+ ed="X" n="0171b13"/><lb
+ ed="R104" n="0679a07"/>中。爾時如來從定而起。告大眾言。汝等皆當食之。說<lb
+ ed="X" n="0171b14"/><lb
+ ed="R104" n="0679a08"/>此語已。大眾歡喜。食此鉢飯。猶餘無盡。其香遍滿三<lb
+ ed="X" n="0171b15"/><lb
+ ed="R104" n="0679a09"/>千大千世界。地獄餓鬼畜生皆得飽滿。<lb
+ ed="X" n="0171b16"/><lb
+ ed="R104" n="0679a10"/>於是文殊師利。白佛言。如來以何神力。飛是大鉢。令<lb
+ ed="X" n="0171b17"/><lb
+ ed="R104" n="0679a11"/>飽滿大眾。及濟三途八難眾生之苦。我等及未來世<lb
+ ed="X" n="0171b18"/><lb
+ ed="R104" n="0679a12"/>求法修道者。何習是法。成能佛事。可利眾生。唯願大<lb
+ ed="X" n="0171b19"/><lb
+ ed="R104" n="0679a13"/>聖說是法要。佛事告文殊師利。如此如是。善男子。我<lb
+ ed="X" n="0171b20"/><lb
+ ed="R104" n="0679a14"/>當演說其法。利益眾生。饒益行者。我昔作大仙人。住<lb
+ ed="X" n="0171b21"/><lb
+ ed="R104" n="0679a15"/>於雪山巖中。久斷衣食。無由得之。時有弟子一萬人。<lb
+ ed="X" n="0171b22"/><lb
+ ed="R104" n="0679a16"/>俱住苦行。有一迦樓羅王。來白我言。願持大仙御鉢。<lb
+ ed="X" n="0171b23"/><lb
+ ed="R104" n="0679a17"/>往於天上及人間。盛滿衣食。還來供養大眾。時我仙<lb
+ ed="X" n="0171b24"/><lb
+ ed="R104" n="0679a18"/>許之。于時迦樓羅王戴鉢。飛走大千世界。一時之間。<pb ed="X" id="X59.1069.0171c" n="0171c"/><lb
+ ed="X" n="0171c01"/><lb
+ ed="R104" n="0679b01"/>滿鉢衣飯還來。大眾隨喜。皆得安隱。可知時仙人者。<lb
+ ed="X" n="0171c02"/><lb
+ ed="R104" n="0679b02"/>今我身是也。我今當說其法。先撰清淨處無人深山<lb
+ ed="X" n="0171c03"/><lb
+ ed="R104" n="0679b03"/>幽林高巖中。大河大海清泉之邊。斷食練行。服五葉<lb
+ ed="X" n="0171c04"/><lb
+ ed="R104" n="0679b04"/>松葉。及諸菓食。誦如來大鉢真言。及結其印。晝夜六<lb
+ ed="X" n="0171c05"/><lb
+ ed="R104" n="0679b05"/>時。不得絕聲。未至三日。得成就　印相。<lb
+ ed="X" n="0171c06"/><lb
+ ed="R104" n="0679b06"/>先以右手當心仰掌。次以左手掌覆。令右掌上其左。<lb
+ ed="X" n="0171c07"/><lb
+ ed="R104" n="0679b07"/>當小指頭。與右大指頭相柱。其左大指頭與右小指<lb
+ ed="X" n="0171c08"/><lb
+ ed="R104" n="0679b08"/>頭相柱。呪曰。<lb
+ ed="X" n="0171c09"/><lb
+ ed="R104" n="0679b09"/></ab>
+<ab type='dharani'>曩莫三曼多勃駄南唵路迦播羅地瑟恥多駄羅野<lb
+ ed="X" n="0171c10"/><lb
+ ed="R104" n="0679b10"/>駄羅野摩訶皤傳勃駄幡怛羅娑婆訶<lb
+ ed="X" n="0171c11"/><lb
+ ed="R104" n="0679b11"/></ab>
+<ab type='prose'>當誦是呪。滿百萬遍。是法印呪。其大精進。當為一切<lb
+ ed="X" n="0171c12"/><lb
+ ed="R104" n="0679b12"/>如來神力。而加護之。當結是印。并誦此呪。即得成就。<lb
+ ed="X" n="0171c13"/><lb
+ ed="R104" n="0679b13"/>若地獄餓鬼有情。滿百八遍。則得地獄餓鬼。飽滿諸<lb
+ ed="X" n="0171c14"/><lb
+ ed="R104" n="0679b14"/>食。若曠野行亦結此印。并誦此呪者。曠野鬼神不相<lb
+ ed="X" n="0171c15"/><lb
+ ed="R104" n="0679b15"/>嬈也。故其鉢隨心飛行十方。若持是法時。當呼速疾<lb
+ ed="X" n="0171c16"/><lb
+ ed="R104" n="0679b16"/>迦樓羅王。以為使者。如來神力故。彼王能隨奉仕。行<lb
+ ed="X" n="0171c17"/><lb
+ ed="R104" n="0679b17"/>者知之。空鉢自轉。遣呪。<lb
+ ed="X" n="0171c18"/><lb
+ ed="R104" n="0679b18"/></ab>
+<ab type='dharani'>模呼呵梨疑󲲇提迷頭迷七佛世尊摩訶毗嵐彼莎<lb
+ ed="X" n="0171c19"/><lb
+ ed="R104" n="0680a01"/>呵々々々々々々々々々々々々々々々々々々々<lb
+ ed="X" n="0171c20"/><lb
+ ed="R104" n="0680a02"/>莎呵<lb
+ ed="X" n="0171c21"/><lb
+ ed="R104" n="0680a03"/></ab>
+<ab type='prose'>轉鉢呪。<lb
+ ed="X" n="0171c22"/><lb
+ ed="R104" n="0680a04"/></ab>
+<ab type='dharani'>南無佛陀耶　南無達磨耶　南無僧伽耶　南無<lb
+ ed="X" n="0171c23"/><lb
+ ed="R104" n="0680a05"/>多羅鉢　遮羅陀羅尼轉陀羅尼轉莎呵<lb
+ ed="X" n="0171c24"/><lb
+ ed="R104" n="0680a06"/></ab>
+<ab type='prose'>若作法時。淨治一室。香水灑地。禮四方佛。喚一童子。<pb ed="X" id="X59.1069.0172a" n="0172a"/><lb
+ ed="X" n="0172a01"/><lb
+ ed="R104" n="0680a07"/>教洗手面。亦遣禮佛。於其地上。敷一淨氈。又取一鉢。<lb
+ ed="X" n="0172a02"/><lb
+ ed="R104" n="0680a08"/>香水淨洗。置於氈。取淨衣。盛於鉢中。喚童子。上以兩<lb
+ ed="X" n="0172a03"/><lb
+ ed="R104" n="0680a09"/>膝頭。案於鉢中。以兩手把地。呪師數數誦呪曰。云轉<lb
+ ed="X" n="0172a04"/><lb
+ ed="R104" n="0680a10"/>呵󰓗即轉。又請三寶一切神王呪。<lb
+ ed="X" n="0172a05"/><lb
+ ed="R104" n="0680a11"/></ab>
+<ab type='dharani'>南無佛陀耶　南無達磨耶　南無僧伽耶　跢姪<lb
+ ed="X" n="0172a06"/><lb
+ ed="R104" n="0680a12"/>他伊弭泥伊弭泥弭埿弭埿莎呵<lb
+ ed="X" n="0172a07"/><lb
+ ed="R104" n="0680a13"/></ab>
+<ab type='prose'>凡欲誦呪時。先誦三七遍。請已誦所行　大驗。<lb
+ ed="X" n="0172a08"/><lb
+ ed="R104" n="0680a14"/><lb
+ ed="X" n="0172a09"/><lb
+ ed="R104" n="0680a15"/>
+</ab><ab type='juan' subtype='close'>大威德秘密飛空鉢法印</ab></div>
+</body></text></TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">二十八藥叉大將名號</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0184</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X02.0184.0840b" n="0840b"/><lb
+ ed="X" n="0840b01"/><lb
+ ed="X" n="0840b02"/><lb
+ ed="X" n="0840b03"/><lb
+ ed="X" n="0840b04"/><lb
+ ed="X" n="0840b05"/><lb
+ ed="X" n="0840b06"/><lb
+ ed="R003" n="0737b01"/>
+<ab type='juan' subtype='open'>二十八藥叉大將名號</ab><lb
+ ed="X" n="0840b07"/><lb
+ ed="X" n="0840b08"/><lb
+ ed="R003" n="0737b02"/><byline>不空譯抄之</byline><lb
+ ed="X" n="0840b09"/><lb
+ ed="R003" n="0737b03"/><div type='' level='2'><ab type='prose'>東方四藥叉名<lb
+ ed="X" n="0840b10"/><lb
+ ed="R003" n="0737b04"/>你你逸反􄖬伽去􅖽蘇􈂼寗􄖯怛落二合􄩞布羅􄪤拏􅚤迦􄑀劫􄑈比􄖷攞􄙊<lb
+ ed="X" n="0840b11"/><lb
+ ed="R003" n="0737b05"/><lb
+ ed="X" n="0840b12"/><lb
+ ed="R003" n="0737b06"/>南方四藥叉名<lb
+ ed="X" n="0840b13"/><lb
+ ed="R003" n="0737b07"/>僧思孕反􈑁賀􄚨𢞬􈏽跛􄖵僧􈑁賀􄚨餉􄙢企􄑚攞􄙊難上􆩮那􄖩<lb
+ ed="X" n="0840b14"/><lb
+ ed="R003" n="0737b08"/><lb
+ ed="X" n="0840b15"/><lb
+ ed="R003" n="0737b09"/>西方四藥叉名<lb
+ ed="X" n="0840b16"/><lb
+ ed="R003" n="0737b10"/>賀􄚨落􄙀賀􄚨哩􄙀計􄑆爍􄙢鉢羅二合􄪼僕􈆥氷􈂸伽羅􄥟<lb
+ ed="X" n="0840b17"/><lb
+ ed="R003" n="0737b11"/><lb
+ ed="X" n="0840b18"/><lb
+ ed="R003" n="0737b12"/>北方四藥叉名<lb
+ ed="X" n="0840b19"/><lb
+ ed="R003" n="0737b13"/>駄􈍡羅􄗽拏􈍙駄􈍡羅􄗽難􄖩弩􆩮嗢􈏽你庾二合􈏅業􄑘播􄖶路􄙊尾􄙘瑟弩􈓀<lb
+ ed="X" n="0840b20"/><lb
+ ed="R003" n="0737b14"/><lb
+ ed="X" n="0840b21"/><lb
+ ed="R003" n="0737b15"/><lb
+ ed="X" n="0840b22"/><lb
+ ed="R003" n="0737b16"/>四維藥叉名<lb
+ ed="X" n="0840b23"/><lb
+ ed="R003" n="0737b17"/>半􄖵止􈓁脚􄑀半􄖵者􈓂攞􄙊巘􄑘拏􆧽娑􄙺跢􄕘儗􄑚哩􄙀彥􄚯麼􄗥嚩􄙖多􄕗<lb
+ ed="X" n="0840b24"/><lb
+ ed="R003" n="0737b18"/><pb ed="X" id="X02.0184.0840c" n="0840c"/><lb
+ ed="X" n="0840c01"/><lb
+ ed="R003" n="0738a01"/>地四藥叉名<lb
+ ed="X" n="0840c02"/><lb
+ ed="R003" n="0738a02"/>步􄗝莫􄗰蘇上􈂼步􄗝莫􄗰迦引􄑁落􄙊𢞬􈏽波􄖵迦引􄑀羅􄙊<lb
+ ed="X" n="0840c03"/><lb
+ ed="R003" n="0738a03"/><lb
+ ed="X" n="0840c04"/><lb
+ ed="R003" n="0738a04"/>空四藥叉名<lb
+ ed="X" n="0840c05"/><lb
+ ed="R003" n="0738a05"/>素􈂼哩野二合􅝩素􈂼謨􄗥阿􆿅儗𩕳二合􅍋嚩引􄗙庾􄗵<lb
+ ed="X" n="0840c06"/><lb
+ ed="R003" n="0738a06"/><lb
+ ed="X" n="0840c07"/><lb
+ ed="R003" n="0738a07"/><lb
+ ed="X" n="0840c08"/><lb
+ ed="R003" n="0738a08"/></ab><div type='w' level='3'><ab type='prose'>具如本經文略抄之。<lb
+ ed="X" n="0840c09"/><lb
+ ed="R003" n="0738a09"/>師曰護摩壇唱禮之時可唱此二十八部藥叉之<lb
+ ed="X" n="0840c10"/><lb
+ ed="R003" n="0738a10"/>名。<lb
+ ed="X" n="0840c11"/><lb
+ ed="R003" n="0738a11"/>或人云半之迦是正了知也是極謬也正了<lb
+ ed="X" n="0840c12"/><lb
+ ed="R003" n="0738a12"/>知與半只迦是遙異也全不可云同故最勝王經<lb
+ ed="X" n="0840c13"/><lb
+ ed="R003" n="0738a13"/>正了知之外列半之迦故知是應別藥叉是<lb
+ ed="X" n="0840c14"/><lb
+ ed="R003" n="0738a14"/>極僻事也。<lb
+ ed="X" n="0840c15"/><lb
+ ed="R003" n="0738a15"/>久安五年五月二十日朝移點校勘了<lb
+ ed="X" n="0840c16"/><lb
+ ed="R003" n="0738a16"/>比丘彌伊記之</ab></div></div></div>
+</body></text></TEI>

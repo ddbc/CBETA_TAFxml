@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">四家語錄（序．引．跋）</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X69</biblScope>
+                    <idno type="Taisho">X69n1320</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X69.1320.0001a" n="0001a"/><lb
+ ed="X" n="0001a01"/>
+<ab type='juan' subtype='open'></ab><lb
+ ed="X" n="0001a02"/><div type='xu' level='2'><head>No. 1320-A<lb
+ ed="X" n="0001a03"/><lb
+ ed="R119" n="0809a01"/> 四家語錄序</head><lb
+ ed="X" n="0001a04"/><lb
+ ed="X" n="0001a05"/><lb
+ ed="R119" n="0809a02"/><ab type='prose'>達摩大師西來。不立文字。直指人心。見性成佛。心心<lb
+ ed="X" n="0001a06"/><lb
+ ed="R119" n="0809a03"/>相印。以迨六祖。六祖以下。分為南嶽青原。而南嶽最<lb
+ ed="X" n="0001a07"/><lb
+ ed="R119" n="0809a04"/>盛。南嶽又分為臨濟溈仰。而臨濟最盛。正所傳四家<lb
+ ed="X" n="0001a08"/><lb
+ ed="R119" n="0809a05"/>語錄者。乃南嶽以下。馬祖百丈黃檗臨濟四尊宿。應<lb
+ ed="X" n="0001a09"/><lb
+ ed="R119" n="0809a06"/>機接人語也。多者萬言。少者亦不下數千言。果文字<lb
+ ed="X" n="0001a10"/><lb
+ ed="R119" n="0809a07"/>乎。非文字乎。西來之意。果不出此乎。嗟夫。指月示迷。<lb
+ ed="X" n="0001a11"/><lb
+ ed="R119" n="0809a08"/>迷者覩指遺月。以盤喻日。盲者自盤之鍾。種種差別。<lb
+ ed="X" n="0001a12"/><lb
+ ed="R119" n="0809a09"/>胡可勝言。諸尊宿。其能忘言邪夫。豈不欲直指人心。<lb
+ ed="X" n="0001a13"/><lb
+ ed="R119" n="0809a10"/>令其頓悟。譬之寫照。以形求形。僅肖十一。惟此妙明。<lb
+ ed="X" n="0001a14"/><lb
+ ed="R119" n="0809a11"/>非可形求。非可意度。況可言顯。即令可言。顧從門而<lb
+ ed="X" n="0001a15"/><lb
+ ed="R119" n="0809a12"/>入。恐非家珍。因言而明。不離道聽。諸尊宿。其忍直言<lb
+ ed="X" n="0001a16"/><lb
+ ed="R119" n="0809a13"/>邪。不忍直言。不容易言。又不能忘言。諸尊宿之心。其<lb
+ ed="X" n="0001a17"/><lb
+ ed="R119" n="0809a14"/>若之何。或謂。人具此心。自有鑑覺。何煩諸尊宿之喋<lb
+ ed="X" n="0001a18"/><lb
+ ed="R119" n="0809a15"/>喋。不知情欲萌生。知識竝出。前塵分別。悞謂妙明。趨<lb
+ ed="X" n="0001a19"/><lb
+ ed="R119" n="0809a16"/>妄背真。愈求愈遠。儻執定相。輒墮黑山鬼窟。聽其納<lb
+ ed="X" n="0001a20"/><lb
+ ed="R119" n="0809a17"/>草。且至犯人禾稼。參承既遠。餘緒茫茫。不有格言。胡<lb
+ ed="X" n="0001a21"/><lb
+ ed="R119" n="0809a18"/>尋正脉。一心傅公深入三昧。妙脫言詮。於諸尊宿。有<lb
+ ed="X" n="0001a22"/><lb
+ ed="R119" n="0809b01"/>深契焉。謂入道者。非此無階。謂法施者。非梓莫廣。會<lb
+ ed="X" n="0001a23"/><lb
+ ed="R119" n="0809b02"/>東安解君靜山寧。宿植靈根。深培善力。相與捐貲。竟<lb
+ ed="X" n="0001a24"/><lb
+ ed="R119" n="0809b03"/>為繕刻。心公。猶恐觀者滯于文字。屬余序其意於首。<pb ed="X" id="X69.1320.0001b" n="0001b"/><lb
+ ed="X" n="0001b01"/><lb
+ ed="R119" n="0809b04"/>余不能深知諸尊宿之心。甞聞聖人之訓矣。曰予欲<lb
+ ed="X" n="0001b02"/><lb
+ ed="R119" n="0809b05"/>無言。然今之希聖者。舍聖言又奚識焉。要知善會者。<lb
+ ed="X" n="0001b03"/><lb
+ ed="R119" n="0809b06"/>侈然無間。總是一嘿。不善會者。離言絕句。轉隔萬塵。<lb
+ ed="X" n="0001b04"/><lb
+ ed="R119" n="0809b07"/>四尊宿之語。其為文字邪。非文字邪。直指邪。非直指<lb
+ ed="X" n="0001b05"/><lb
+ ed="R119" n="0809b08"/>邪。必有能辨之者。　　　毗陵唐󳬈徵書</ab></div><lb
+ ed="X" n="0001b06"/><lb
+ ed="X" n="0001b07"/><div type='xu' level='2'><head>No. 1320-B<lb
+ ed="X" n="0001b08"/><lb
+ ed="R119" n="0809b09"/> 讀四家語錄引</head><lb
+ ed="X" n="0001b09"/><lb
+ ed="X" n="0001b10"/><lb
+ ed="R119" n="0809b10"/><ab type='prose'>解君。刻是錄畢。有客扣予曰。但形文字。即屬言教。烏<lb
+ ed="X" n="0001b11"/><lb
+ ed="R119" n="0809b11"/>得謂之教外別傳邪。予曰。非也。有言固教。而無言亦<lb
+ ed="X" n="0001b12"/><lb
+ ed="R119" n="0809b12"/>教也。乃至非有言。非無言。非非有言。非非無言。皆教<lb
+ ed="X" n="0001b13"/><lb
+ ed="R119" n="0809b13"/>也。所謂離四句絕百非。客又曰。靈龜曳尾。而其迹彌<lb
+ ed="X" n="0001b14"/><lb
+ ed="R119" n="0809b14"/>彰。四尊宿之語。不亦曳尾乎哉。予曰。非也。言四尊宿<lb
+ ed="X" n="0001b15"/><lb
+ ed="R119" n="0809b15"/>有意泯迹。非教外也。無意泯迹。亦非教外也。乃至非<lb
+ ed="X" n="0001b16"/><lb
+ ed="R119" n="0809b16"/>有意。非無意。非非有意。非非無意。具非教外也。客曰。<lb
+ ed="X" n="0001b17"/><lb
+ ed="R119" n="0809b17"/>然則孰謂為別傳哉。予曰。待󳬇破下文。試與汝道。<lb
+ ed="X" n="0001b18"/><lb
+ ed="R119" n="0809b18"/>萬曆丁未秋八一日　　　荊溪釋正傳書</ab></div><lb
+ ed="X" n="0001b19"/><lb
+ ed="X" n="0001b20"/><lb
+ ed="X" n="0001b21"/><lb
+ ed="X" n="0001b22"/><lb
+ ed="X" n="0001b23"/><lb
+ ed="X" n="0001b24"/><pb ed="X" id="X69.1320.0001c" n="0001c"/><lb
+ ed="X" n="0001c01"/><lb
+ ed="X" n="0001c02"/><div type='xu' level='2'><head>No. 1320-C<lb
+ ed="X" n="0001c03"/> 刻四家語錄䟦</head><lb
+ ed="X" n="0001c04"/><lb
+ ed="X" n="0001c05"/><ab type='prose'>客有以四家語錄示者。予終日持誦。不能去手。因出<lb
+ ed="X" n="0001c06"/>與一心師共讀之。師請壽諸梓。予曰。諸方語錄。流布<lb
+ ed="X" n="0001c07"/>不少。柰何復侈茲舉。師曰。不然。大約我祖家說話。端<lb
+ ed="X" n="0001c08"/>的要人妙悟。不容擬議商量。教伊立地得徹去。當下<lb
+ ed="X" n="0001c09"/>便了去。詎圖陳露布。益葛藤乎。藉風颺塵。而眯人目<lb
+ ed="X" n="0001c10"/>乎。且夫奮大機顯大用。何似馬祖黃檗老婆心最切。<lb
+ ed="X" n="0001c11"/>其承稟。則奚如百丈臨濟賣弄處偏奇。吾何忍置此<lb
+ ed="X" n="0001c12"/>等事。不一提撕。以痛快千古邪。予曰。師更欲搊人鼻<lb
+ ed="X" n="0001c13"/>孔。令其知痛邪。又將施棒於眾。欲我還拳邪。師笑而<lb
+ ed="X" n="0001c14"/>無語。予於是邀諸明公發心。捐俸梓行。庶留心斯道<lb
+ ed="X" n="0001c15"/>者。得此馳求頓歇。默爾知歸。相與四尊宿。可謂千載<lb
+ ed="X" n="0001c16"/>一遇者也。吾師勉是刻。豈小補哉。<lb
+ ed="X" n="0001c17"/>時<lb
+ ed="X" n="0001c18"/>萬曆己丑臘八日。東安靜山居士　解寧　識</ab></div></div>
+</body></text></TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">不可剎那無此君</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X57</biblScope>
+                    <idno type="Taisho">X57n0962</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X57.0962.0121b" n="0121b"/><lb
+ ed="X" n="0121b01"/><lb
+ ed="X" n="0121b02"/><lb
+ ed="X" n="0121b03"/><lb
+ ed="X" n="0121b04"/><lb
+ ed="R101" n="0455a01"/>
+<ab type='juan' subtype='open'>不可剎那無此君</ab><lb
+ ed="X" n="0121b05"/><lb
+ ed="X" n="0121b06"/><lb
+ ed="R101" n="0455a02"/><byline>宋達磨山沙門　義銛　述</byline><lb
+ ed="X" n="0121b07"/><lb
+ ed="R101" n="0455a03"/><ab type='verse'>
+空蕩仮立中絕對　　此乃天然體上名　　<lb
+ ed="X" n="0121b08"/><lb
+ ed="R101" n="0455a04"/>俱破俱立俱法界　　此乃天然名下體　　<lb
+ ed="X" n="0121b09"/><lb
+ ed="R101" n="0455a05"/>體不二故體常融　　名非濫故名常定　　<lb
+ ed="X" n="0121b10"/><lb
+ ed="R101" n="0455a06"/>空彰蕩德三俱破　　三千三諦是相如　　<lb
+ ed="X" n="0121b11"/><lb
+ ed="R101" n="0455a07"/>假彰建德三俱立　　三千三諦如是相　　<lb
+ ed="X" n="0121b12"/><lb
+ ed="R101" n="0455a08"/>中彰妙德俱法界　　三千三諦相如是　　<lb
+ ed="X" n="0121b13"/><lb
+ ed="R101" n="0455a09"/>界蹄十如三世界　　事理因果依正盡　　<lb
+ ed="X" n="0121b14"/><lb
+ ed="R101" n="0455a10"/>三周正體不出此　　只在平常一念中　　<lb
+ ed="X" n="0121b15"/><lb
+ ed="R101" n="0455a11"/>終窮究畢光極談　　甚深境界不思議　　<lb
+ ed="X" n="0121b16"/><lb
+ ed="R101" n="0455a12"/>以此為境曰妙境　　三千三諦非他物　　<lb
+ ed="X" n="0121b17"/><lb
+ ed="R101" n="0455a13"/>以此為觀曰妙觀　　三千三諦皆本無　　<lb
+ ed="X" n="0121b18"/><lb
+ ed="R101" n="0455a14"/>境即觀故能所忘　　是故初乘不名觀　　<lb
+ ed="X" n="0121b19"/><lb
+ ed="R101" n="0455a15"/>境觀難思何所用　　只要剎那虗妄融　　<lb
+ ed="X" n="0121b20"/><lb
+ ed="R101" n="0455a16"/>妄心融處真亦亡　　一牧了事隨緣漢　　<lb
+ ed="X" n="0121b21"/><lb
+ ed="R101" n="0455a17"/>善惡都不思量著　　任運惡滅而成善　　<lb
+ ed="X" n="0121b22"/><lb
+ ed="R101" n="0455a18"/>無用心處願行增　　一超直入如來地　　<lb
+ ed="X" n="0121b23"/><lb
+ ed="R101" n="0455b01"/>揑不成團劈不開　　看來看去只成獃　　<lb
+ ed="X" n="0121b24"/><lb
+ ed="R101" n="0455b02"/>若能親到獃田地　　三觀元來是禍胎　　
+</ab><pb ed="X" id="X57.0962.0121c" n="0121c"/><lb
+ ed="X" n="0121c01"/><div type='xu' level='2'><head>No. 962-A</head><lb
+ ed="X" n="0121c02"/><lb
+ ed="R101" n="0455b03"/><ab type='prose'>元享釋書泉涌寺俊芿傳曰山陰義銛述不<lb
+ ed="X" n="0121c03"/><lb
+ ed="R101" n="0455b04"/>可剎那無此君贈芿銛號朴翁內外兼明禪教并<lb
+ ed="X" n="0121c04"/><lb
+ ed="R101" n="0455b05"/>通可謂會稽名士葛天民字無懷者也。</ab></div><lb
+ ed="X" n="0121c05"/><lb
+ ed="X" n="0121c06"/><lb
+ ed="R101" n="0455b06"/><div type='' level='2'><ab type='prose'>叡山沙門秀雲不可剎那無此君纂註曰華嚴疏<lb
+ ed="X" n="0121c07"/><lb
+ ed="R101" n="0455b07"/>曰般若能成萬行何法而不用之寂照盡於理極<lb
+ ed="X" n="0121c08"/><lb
+ ed="R101" n="0455b08"/>不得一行無此君耳所以開即萬行森然泯則一<lb
+ ed="X" n="0121c09"/><lb
+ ed="R101" n="0455b09"/>不為一得意即無所不通耳鈔曰言一得一行無<lb
+ ed="X" n="0121c10"/><lb
+ ed="R101" n="0455b10"/>此君者借外典語晉書中說王獻之好竹到處即<lb
+ ed="X" n="0121c11"/><lb
+ ed="R101" n="0455b11"/>皆樹之人問其故答曰人生不得一日無此君耳<lb
+ ed="X" n="0121c12"/><lb
+ ed="R101" n="0455b12"/>意在虗心貞節歲寒不移今明萬行不得暫時而<lb
+ ed="X" n="0121c13"/><lb
+ ed="R101" n="0455b13"/>無般若雲按清涼云王獻之誤也蓋徽之之事也<lb
+ ed="X" n="0121c14"/><lb
+ ed="R101" n="0455b14"/>徽之義之子而獻之兄也晉書列傳第五十曰王<lb
+ ed="X" n="0121c15"/><lb
+ ed="R101" n="0455b15"/>徽之字子猷嘗寄居空居中便令種竹或問其故<lb
+ ed="X" n="0121c16"/><lb
+ ed="R101" n="0455b16"/>徽之但嘯詠指竹曰何可一日無此君耶本按瀛<lb
+ ed="X" n="0121c17"/><lb
+ ed="R101" n="0455b17"/>奎律髓夏日載葛無懷詩曰僧義銛字朴翁以事<lb
+ ed="X" n="0121c18"/><lb
+ ed="R101" n="0455b18"/>還俗葛其姓無懷號也今錄律髓所載朴翁詩<lb
+ ed="X" n="0121c19"/><lb
+ ed="R101" n="0456a01"/>于此。<lb
+ ed="X" n="0121c20"/><lb
+ ed="R101" n="0456a02"/><head>郊原避暑曰</head><lb
+ ed="X" n="0121c21"/><lb
+ ed="R101" n="0456a03"/></ab>
+<ab type='verse'>
+有暑猶當避　　無憂可得忘　　竹疎身共瘦　　<lb
+ ed="X" n="0121c22"/><lb
+ ed="R101" n="0456a04"/>湖近意先涼　　靜勝寧須奕　　幽朗不待觴　　<lb
+ ed="X" n="0121c23"/><lb
+ ed="R101" n="0456a05"/>還同殘夢樂　　炙背負朝陽　　
+</ab><lb
+ ed="X" n="0121c24"/><lb
+ ed="R101" n="0456a06"/><head>夏日曰</head><pb ed="X" id="X57.0962.0122a" n="0122a"/><lb
+ ed="X" n="0122a01"/><lb
+ ed="R101" n="0456a07"/><ab type='verse'>
+曉荷承墜露　　晚岫障斜陽　　樹下地常蔭　　<lb
+ ed="X" n="0122a02"/><lb
+ ed="R101" n="0456a08"/>水邊風景凉　　蟬移驚鵲近　　鷺超得魚忙　　<lb
+ ed="X" n="0122a03"/><lb
+ ed="R101" n="0456a09"/>獨坐觀群動　　閑消夏日長　　
+</ab><lb
+ ed="X" n="0122a04"/><lb
+ ed="R101" n="0456a10"/><head>湖提晚步曰</head><lb
+ ed="X" n="0122a05"/><lb
+ ed="R101" n="0456a11"/><ab type='verse'>
+照影怜寒水　　關情奈夕陽　　雪慳天欠冷　　<lb
+ ed="X" n="0122a06"/><lb
+ ed="R101" n="0456a12"/>年近曰添長　　好句誰相寄　　浮生各自忙　　<lb
+ ed="X" n="0122a07"/><lb
+ ed="R101" n="0456a13"/>有身聊頓放　　無事可思量　　
+</ab><lb
+ ed="X" n="0122a08"/><lb
+ ed="R101" n="0456a14"/><head>訪端叔提幹曰</head><lb
+ ed="X" n="0122a09"/><lb
+ ed="R101" n="0456a15"/><ab type='verse'>
+水趁潮頭行　　山隨柁尾行　　大江中夜滿　　<lb
+ ed="X" n="0122a10"/><lb
+ ed="R101" n="0456a16"/>雙櫓半空鳴　　雁冷來無幾　　鷗清睡不成　　<lb
+ ed="X" n="0122a11"/><lb
+ ed="R101" n="0456a17"/>平生師友地　　此夕最關情　　
+</ab><lb
+ ed="X" n="0122a12"/><lb
+ ed="R101" n="0456a18"/><head>雪夜曰</head><lb
+ ed="X" n="0122a13"/><lb
+ ed="R101" n="0456b01"/><ab type='verse'>
+冷蘃通幽信　　孤山欠幾遭　　杯因寒更滿　　<lb
+ ed="X" n="0122a14"/><lb
+ ed="R101" n="0456b02"/>句到淡方高　　雪滴晴檐雨　　松翻夜壑濤　　<lb
+ ed="X" n="0122a15"/><lb
+ ed="R101" n="0456b03"/>布衾雖仍鐵　　猶念早趨朝　　
+</ab><lb
+ ed="X" n="0122a16"/><lb
+ ed="R101" n="0456b04"/><head>宿裴菴曰</head><lb
+ ed="X" n="0122a17"/><lb
+ ed="R101" n="0456b05"/><ab type='verse'>
+一徑松杉迴　　成陰見日稀　　山晴僧盡出　　<lb
+ ed="X" n="0122a18"/><lb
+ ed="R101" n="0456b06"/>風暖燕交飛　　結子華拋樹　　欄人犬護扉　　<lb
+ ed="X" n="0122a19"/><lb
+ ed="R101" n="0456b07"/>閑看山月上　　清坐更添衣　　
+</ab><lb
+ ed="X" n="0122a20"/><lb
+ ed="R101" n="0456b08"/><head>小亭曰</head><lb
+ ed="X" n="0122a21"/><lb
+ ed="R101" n="0456b09"/><ab type='verse'>
+小亭終日對幽叢　　兀坐無言似定中　　<lb
+ ed="X" n="0122a22"/><lb
+ ed="R101" n="0456b10"/>蒼鮮靜連湘竹紫　　綠陰深映蜀葵紅　　<lb
+ ed="X" n="0122a23"/><lb
+ ed="R101" n="0456b11"/>猫來戲捉穿華蝶　　󳭋下偷銜卷葉蟲　　<lb
+ ed="X" n="0122a24"/><lb
+ ed="R101" n="0456b12"/>斜照尚多高柳少　　明年更欲種梧桐　　
+</ab></div></div>
+</body></text></TEI>

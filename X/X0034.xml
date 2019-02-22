@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">觀世音菩薩救苦經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X01</biblScope>
+                    <idno type="Taisho">X01n0034</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X01.0034.0469c" n="0469c"/><lb
+ ed="X" n="0469c01"/><lb
+ ed="X" n="0469c02"/><lb
+ ed="X" n="0469c03"/><lb
+ ed="X" n="0469c04"/><lb
+ ed="R087" n="0575a01"/>
+<ab type='juan' subtype='open'>觀世音菩薩救苦經</ab><lb
+ ed="X" n="0469c05"/><lb
+ ed="X" n="0469c06"/><lb
+ ed="R087" n="0575a03"/><div type='' level='1'><ab type='prose'>南無救苦觀世音菩薩。百千萬億佛。恒河沙數佛。無<lb
+ ed="X" n="0469c07"/><lb
+ ed="R087" n="0575a04"/>量功德佛。佛告阿難言。此經大聖。能救獄囚。能救重<lb
+ ed="X" n="0469c08"/><lb
+ ed="R087" n="0575a05"/>病。能救千災百難苦。若有人。誦得一千遍。一身離苦<lb
+ ed="X" n="0469c09"/><lb
+ ed="R087" n="0575a06"/>難。誦得一萬遍。合家離苦難。南無佛力威。南無佛力<lb
+ ed="X" n="0469c10"/><lb
+ ed="R087" n="0575a07"/>護。使人無惡心。令人身得度。回光菩薩。回善菩薩。阿<lb
+ ed="X" n="0469c11"/><lb
+ ed="R087" n="0575a08"/>耨大天王。正殿菩薩。摩邱摩邱。清淨比邱。官事得散。<lb
+ ed="X" n="0469c12"/><lb
+ ed="R087" n="0575a09"/>私事得休。諸大菩薩。五百羅漢。救護弟子身。悉皆離<lb
+ ed="X" n="0469c13"/><lb
+ ed="R087" n="0575a10"/>苦難。自然觀世音。纓絡不須解。勤誦千萬遍。災難自<lb
+ ed="X" n="0469c14"/><lb
+ ed="R087" n="0575a11"/>然得解脫。信受奉行。即說真言曰。<lb
+ ed="X" n="0469c15"/><lb
+ ed="R087" n="0575a12"/></ab>
+<ab type='dharani'>今菩今菩提　陀羅尼帝　尼佉羅帝　菩提薩婆<lb
+ ed="X" n="0469c16"/><lb
+ ed="R087" n="0575a13"/>訶</ab></div>
+</body></text></TEI>

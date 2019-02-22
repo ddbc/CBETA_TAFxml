@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">胎金兩界血脈</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X59</biblScope>
+                    <idno type="Taisho">X59n1074</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<lb
+ ed="X" n="0214a29"/><lb
+ ed="X" n="0214a30"/><lb
+ ed="X" n="0214a31"/><lb
+ ed="X" n="0214a32"/><lb
+ ed="X" n="0214a33"/><lb
+ ed="R095" n="0993a10"/>
+<ab type='juan' subtype='open'>胎金兩界血脉</ab><lb
+ ed="X" n="0214a34"/><lb
+ ed="X" n="0214a35"/><lb
+ ed="R095" n="0993a12"/><div type='' level='2'><ab type='prose'>大唐咸通六年八月十七日長安城左街慈恩寺造玄阿闍梨付屬師資血脉。</ab></div><lb
+ ed="X" n="0214a36"/><lb
+ ed="X" n="0214a37"/><lb
+ ed="R095" n="0993a13"/><head>胎藏界</head><lb
+ ed="X" n="0214a38"/><lb
+ ed="R095" n="0993a14"/>大日<lb
+ ed="X" n="0214a39"/><lb
+ ed="R095" n="0993a14"/>金剛手<lb
+ ed="X" n="0214a40"/><lb
+ ed="R095" n="0993a14"/>達磨掬多<lb
+ ed="X" n="0214a41"/><lb
+ ed="R095" n="0993a14"/>善無畏<lb
+ ed="X" n="0214a42"/><lb
+ ed="R095" n="0993a15"/>玄超<lb
+ ed="X" n="0214a43"/><lb
+ ed="R095" n="0993a17"/>惠果<lb
+ ed="X" n="0214a44"/><lb
+ ed="R095" n="0993a17"/>惟尚<lb
+ ed="X" n="0214a45"/><lb
+ ed="R095" n="0993a17"/>𧦪弘<lb
+ ed="X" n="0214a46"/><lb
+ ed="R095" n="0993a17"/>惠日<pb ed="X" id="X59.1074.0215a" n="0215a"/><lb
+ ed="X" n="0215a01"/><lb
+ ed="R095" n="0993a18"/>空海<lb
+ ed="X" n="0215a02"/><lb
+ ed="R095" n="0993a18"/>義滿<lb
+ ed="X" n="0215a03"/><lb
+ ed="R095" n="0993a18"/>義操<lb
+ ed="X" n="0215a04"/><lb
+ ed="R095" n="0993a18"/>法潤<lb
+ ed="X" n="0215a05"/><lb
+ ed="R095" n="0993a18"/>法全<lb
+ ed="X" n="0215a06"/><lb
+ ed="R095" n="0993a18"/>造玄<lb
+ ed="X" n="0215a07"/><lb
+ ed="R095" n="0993a18"/>自怤<lb
+ ed="X" n="0215a08"/><lb
+ ed="R095" n="0993a18"/>智滿<lb
+ ed="X" n="0215a09"/><lb
+ ed="R095" n="0993a18"/>圓仁<lb
+ ed="X" n="0215a10"/><lb
+ ed="R095" n="0993a18"/>圓珍<lb
+ ed="X" n="0215a11"/><lb
+ ed="R095" n="0993a18"/>圓載<lb
+ ed="X" n="0215a12"/><lb
+ ed="R095" n="0993a18"/>遍明<lb
+ ed="X" n="0215a13"/><lb
+ ed="R095" n="0993a18"/>宗叡<lb
+ ed="X" n="0215a14"/><lb
+ ed="R095" n="0993a18"/>義真<lb
+ ed="X" n="0215a15"/><lb
+ ed="R095" n="0993a18"/>深達<lb
+ ed="X" n="0215a16"/><lb
+ ed="R095" n="0993a18"/>海雲<lb
+ ed="X" n="0215a17"/><lb
+ ed="R095" n="0993a18"/>大遇<lb
+ ed="X" n="0215a18"/><lb
+ ed="R095" n="0993a18"/>文󴍯<lb
+ ed="X" n="0215a19"/><lb
+ ed="R095" n="0994a01"/>一行<lb
+ ed="X" n="0215a20"/><lb
+ ed="R095" n="0994a03"/>金剛智<lb
+ ed="X" n="0215a21"/><lb
+ ed="X" n="0215a22"/><lb
+ ed="R095" n="0994a06"/><head>金剛界</head><lb
+ ed="X" n="0215a23"/><lb
+ ed="R095" n="0994a07"/>大日<lb
+ ed="X" n="0215a24"/><lb
+ ed="R095" n="0994a07"/>普賢<lb
+ ed="X" n="0215a25"/><lb
+ ed="R095" n="0994a07"/>曼祖室利<lb
+ ed="X" n="0215a26"/><lb
+ ed="R095" n="0994a07"/>龍猛<lb
+ ed="X" n="0215a27"/><lb
+ ed="R095" n="0994a07"/>龍智<lb
+ ed="X" n="0215a28"/><lb
+ ed="R095" n="0994a08"/>金剛智<lb
+ ed="X" n="0215a29"/><lb
+ ed="R095" n="0994a09"/>善無畏<lb
+ ed="X" n="0215a30"/><lb
+ ed="R095" n="0994a10"/>一行<lb
+ ed="X" n="0215a31"/><lb
+ ed="R095" n="0994a11"/>不空<lb
+ ed="X" n="0215a32"/><lb
+ ed="R095" n="0994a11"/>含光<lb
+ ed="X" n="0215a33"/><lb
+ ed="R095" n="0994a11"/>元皎<lb
+ ed="X" n="0215a34"/><lb
+ ed="R095" n="0994a12"/>惠朗<lb
+ ed="X" n="0215a35"/><lb
+ ed="R095" n="0994a12"/>天竺<lb
+ ed="X" n="0215a36"/><lb
+ ed="R095" n="0994a12"/>居士趙政<lb
+ ed="X" n="0215a37"/><lb
+ ed="R095" n="0994a12"/>義灌<lb
+ ed="X" n="0215a38"/><lb
+ ed="R095" n="0994a12"/>志清<lb
+ ed="X" n="0215a39"/><lb
+ ed="R095" n="0994a12"/>善貞<lb
+ ed="X" n="0215a40"/><lb
+ ed="R095" n="0994a12"/>制本<lb
+ ed="X" n="0215a41"/><lb
+ ed="R095" n="0994a12"/>惠謹<lb
+ ed="X" n="0215a42"/><lb
+ ed="R095" n="0994a12"/>德美<lb
+ ed="X" n="0215a43"/><lb
+ ed="R095" n="0994a12"/>雅霄<lb
+ ed="X" n="0215a44"/><lb
+ ed="R095" n="0994a13"/>曇貞<lb
+ ed="X" n="0215a45"/><lb
+ ed="R095" n="0994a14"/>覺超<lb
+ ed="X" n="0215a46"/><lb
+ ed="R095" n="0994a14"/>惠德<lb
+ ed="X" n="0215a47"/><lb
+ ed="R095" n="0994a14"/>契如<lb
+ ed="X" n="0215a48"/><lb
+ ed="R095" n="0994a15"/>惠果<lb
+ ed="X" n="0215a49"/><lb
+ ed="R095" n="0994a16"/>惠則<lb
+ ed="X" n="0215a50"/><lb
+ ed="R095" n="0994a16"/>緣會<pb ed="X" id="X59.1074.0216a" n="0216a"/><lb
+ ed="X" n="0216a01"/><lb
+ ed="R095" n="0994a16"/>元政<lb
+ ed="X" n="0216a02"/><lb
+ ed="R095" n="0994a16"/>造玄<lb
+ ed="X" n="0216a03"/><lb
+ ed="R095" n="0994a16"/>圓仁<lb
+ ed="X" n="0216a04"/><lb
+ ed="R095" n="0994a16"/>文悟<lb
+ ed="X" n="0216a05"/><lb
+ ed="R095" n="0994a17"/>惠應<lb
+ ed="X" n="0216a06"/><lb
+ ed="R095" n="0995a01"/>惟尚<lb
+ ed="X" n="0216a07"/><lb
+ ed="R095" n="0995a03"/>惠日<lb
+ ed="X" n="0216a08"/><lb
+ ed="R095" n="0995a04"/>𧦪弘<lb
+ ed="X" n="0216a09"/><lb
+ ed="R095" n="0995a06"/>空海<lb
+ ed="X" n="0216a10"/><lb
+ ed="R095" n="0995a07"/>義滿<lb
+ ed="X" n="0216a11"/><lb
+ ed="R095" n="0995a09"/>義明<lb
+ ed="X" n="0216a12"/><lb
+ ed="R095" n="0995a10"/>義一<lb
+ ed="X" n="0216a13"/><lb
+ ed="R095" n="0995a12"/>義操<lb
+ ed="X" n="0216a14"/><lb
+ ed="R095" n="0995a12"/>法潤<lb
+ ed="X" n="0216a15"/><lb
+ ed="R095" n="0995a12"/>義真<lb
+ ed="X" n="0216a16"/><lb
+ ed="R095" n="0995a12"/>義舟<lb
+ ed="X" n="0216a17"/><lb
+ ed="R095" n="0995a12"/>義圓<lb
+ ed="X" n="0216a18"/><lb
+ ed="R095" n="0995a12"/>深達<lb
+ ed="X" n="0216a19"/><lb
+ ed="R095" n="0995a12"/>海雲<lb
+ ed="X" n="0216a20"/><lb
+ ed="R095" n="0995a12"/>大遇<lb
+ ed="X" n="0216a21"/><lb
+ ed="R095" n="0995a12"/>從賀<lb
+ ed="X" n="0216a22"/><lb
+ ed="R095" n="0995a12"/>文󴍯<lb
+ ed="X" n="0216a23"/><lb
+ ed="R095" n="0995a12"/>均諒<lb
+ ed="X" n="0216a24"/><lb
+ ed="R095" n="0995a12"/>常堅<lb
+ ed="X" n="0216a25"/><lb
+ ed="R095" n="0995a12"/>法全<lb
+ ed="X" n="0216a26"/><lb
+ ed="R095" n="0995a12"/>弘約<lb
+ ed="X" n="0216a27"/><lb
+ ed="R095" n="0995a12"/>自怤<lb
+ ed="X" n="0216a28"/><lb
+ ed="R095" n="0995a12"/>圓珍<lb
+ ed="X" n="0216a29"/><lb
+ ed="R095" n="0995a12"/>圓載<lb
+ ed="X" n="0216a30"/><lb
+ ed="R095" n="0995a12"/>遍明<lb
+ ed="X" n="0216a31"/><lb
+ ed="R095" n="0995a12"/>宗叡<lb
+ ed="X" n="0216a32"/><lb
+ ed="R095" n="0995a12"/>文祕</div>
+</body></text></TEI>

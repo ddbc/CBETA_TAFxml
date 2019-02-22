@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">圓覺經佚文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X01</biblScope>
+                    <idno type="Taisho">X01n0001</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X01.0001.0001a" n="0001a"/><lb
+ ed="X" n="0001a01"/><lb
+ ed="X" n="0001a02"/><lb
+ ed="X" n="0001a03"/><lb
+ ed="X" n="0001a04"/><lb
+ ed="R150" n="0705a01"/>
+<ab type='juan' subtype='open'>圓覺經佚文</ab><lb
+ ed="X" n="0001a05"/><lb
+ ed="X" n="0001a06"/><lb
+ ed="R150" n="0705a03"/><div type='' level='1'><ab type='prose'>余嚮偶獲古宋本大方廣圓覺修多羅了義經下<lb
+ ed="X" n="0001a07"/><lb
+ ed="R150" n="0705a04"/>卷一帖。一紙廿行。行十二字。經末有左藏庫西潘<lb
+ ed="X" n="0001a08"/><lb
+ ed="R150" n="0705a05"/>閬巷內李三二郎印行之記。今撿尋其文。汝<lb
+ ed="X" n="0001a09"/><lb
+ ed="R150" n="0705a06"/>善男子當獲來世是修行者。無令惡魔及諸外道<lb
+ ed="X" n="0001a10"/><lb
+ ed="R150" n="0705a07"/>惱其身心。令生退屈之下。有爾時世尊無令<lb
+ ed="X" n="0001a11"/><lb
+ ed="R150" n="0705a08"/>生退屈等一百一十三言。此現存諸藏本所無也<lb
+ ed="X" n="0001a12"/><lb
+ ed="R150" n="0705a09"/>按此經文。圓覺會中有十二菩薩。各從座起發法<lb
+ ed="X" n="0001a13"/><lb
+ ed="R150" n="0705a10"/>問。佛亦各答之之事。而經先以長行詳述。而後以<lb
+ ed="X" n="0001a14"/><lb
+ ed="R150" n="0705a11"/>偈重說之。然至於敘最後起座賢善首菩薩與佛<lb
+ ed="X" n="0001a15"/><lb
+ ed="R150" n="0705a12"/>問答。唯有長行而無偈。文體既不一。乃其為誤脫<lb
+ ed="X" n="0001a16"/><lb
+ ed="R150" n="0705a13"/>可知耳。今為看舊藏經者具錄其文于左云爾。<lb
+ ed="X" n="0001a17"/><lb
+ ed="R150" n="0705a14"/>明治辛亥歲十二月　　　　松本文識<lb
+ ed="X" n="0001a18"/><lb
+ ed="R150" n="0705a15"/>爾時世尊。欲重宣此義。而說偈言。<lb
+ ed="X" n="0001a19"/><lb
+ ed="R150" n="0705a16"/></ab>
+<ab type='verse'>
+賢善首當知　　是經諸佛說　　如來等護持　　<lb
+ ed="X" n="0001a20"/><lb
+ ed="R150" n="0705a17"/>十二部眼目　　名為大方廣　　圓覺陀羅尼　　<lb
+ ed="X" n="0001a21"/><lb
+ ed="R150" n="0705a18"/>顯如來境界　　依此修行者　　增進至佛地　　<lb
+ ed="X" n="0001a22"/><lb
+ ed="R150" n="0705b01"/>如海納百川　　飲者皆充滿　　假使施七寶　　<lb
+ ed="X" n="0001a23"/><lb
+ ed="R150" n="0705b02"/>積滿三千界　　不如聞此經　　若化河沙眾　　<lb
+ ed="X" n="0001a24"/><lb
+ ed="R150" n="0705b03"/>皆得阿羅漢　　不如聞半偈　　汝等於來世　　<pb ed="X" id="X01.0001.0001b" n="0001b"/><lb
+ ed="X" n="0001b01"/><lb
+ ed="R150" n="0705b04"/>護是宣持者　　無令生退屈　　
+</ab></div>
+</body></text></TEI>

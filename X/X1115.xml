@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">毗尼日用切要</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X60</biblScope>
+                    <idno type="Taisho">X60n1115</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X60.1115.0157a" n="0157a"/><lb
+ ed="X" n="0157a01"/><lb
+ ed="X" n="0157a02"/><lb
+ ed="X" n="0157a03"/><lb
+ ed="R106" n="0129a01"/>
+<ab type='juan' subtype='open'>毗尼日用切要</ab><lb
+ ed="X" n="0157a04"/><lb
+ ed="X" n="0157a05"/><lb
+ ed="R106" n="0129a02"/><byline>寶華山弘戒比丘　讀體　彚集</byline><lb
+ ed="X" n="0157a06"/><lb
+ ed="R106" n="0129a03"/><head>早覺</head><ab type='prose'>。<lb
+ ed="X" n="0157a07"/><lb
+ ed="R106" n="0129a04"/></ab>
+<ab type='verse'>
+睡眠始寤　　當願眾生　　一切智覺　　周顧十方　　
+</ab><lb
+ ed="X" n="0157a08"/><lb
+ ed="R106" n="0129a05"/><head>鳴鐘</head><ab type='prose'>。<lb
+ ed="X" n="0157a10"/><lb
+ ed="R106" n="0129a07"/></ab>
+<ab type='verse'>
+願此鐘聲超法界　　鐵圍幽闇悉皆聞　　<lb
+ ed="X" n="0157a11"/><lb
+ ed="R106" n="0129a08"/>聞塵清淨證圓通　　一切眾生成正覺　　
+</ab><lb
+ ed="X" n="0157a12"/><lb
+ ed="R106" n="0129a09"/><head>聞鐘</head><ab type='prose'>。<lb
+ ed="X" n="0157a13"/><lb
+ ed="R106" n="0129a10"/></ab>
+<ab type='verse'>
+聞鐘聲　　煩惱輕　　智慧長　　菩提生　　<lb
+ ed="X" n="0157a14"/><lb
+ ed="R106" n="0129a11"/>離地獄　　出火坑　　願成佛　　度眾生　　
+</ab><lb
+ ed="X" n="0157a15"/><lb
+ ed="R106" n="0129a12"/><ab type='dharani'>唵。伽囉帝耶莎訶<lb
+ ed="X" n="0157a16"/><lb
+ ed="R106" n="0129a13"/></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0157a17"/><lb
+ ed="R106" n="0129a14"/></ab>
+<ab type='verse'>
+聞鐘臥不起　　護法善神瞋　　現前減福慧　　<lb
+ ed="X" n="0157a18"/><lb
+ ed="R106" n="0129a15"/>後世墮蛇身　　
+</ab><lb
+ ed="X" n="0157a19"/><lb
+ ed="R106" n="0129a16"/><ab type='prose'>。<lb
+ ed="X" n="0157a20"/><lb
+ ed="R106" n="0129a17"/><head>著衣</head>。<lb
+ ed="X" n="0157a21"/><lb
+ ed="R106" n="0129a18"/></ab>
+<ab type='verse'>
+若著上衣　　當願眾生　　獲勝善根　　至法彼岸　　<lb
+ ed="X" n="0157a22"/><lb
+ ed="R106" n="0129b01"/>著下裙時　　當願眾生　　服諸善根　　具足慚愧　　<lb
+ ed="X" n="0157a23"/><lb
+ ed="R106" n="0129b02"/>整衣束帶　　當願眾生　　撿束善根　　不令散失　　
+</ab><lb
+ ed="X" n="0157a24"/><lb
+ ed="R106" n="0129b03"/><head>下單</head><ab type='prose'>。<pb ed="X" id="X60.1115.0157b" n="0157b"/><lb
+ ed="X" n="0157b01"/><lb
+ ed="R106" n="0129b04"/></ab>
+<ab type='verse'>
+從朝寅旦直至暮　　一切眾生自迴護　　<lb
+ ed="X" n="0157b02"/><lb
+ ed="R106" n="0129b05"/>若於足下喪其形　　願汝即時生淨土　　
+</ab><lb
+ ed="X" n="0157b03"/><lb
+ ed="R106" n="0129b06"/><ab type='dharani'>唵。逸帝律尼莎訶<lb
+ ed="X" n="0157b04"/><lb
+ ed="R106" n="0129b07"/><head>行步不傷蟲</head><lb
+ ed="X" n="0157b05"/><lb
+ ed="R106" n="0129b08"/></ab>
+<ab type='verse'>
+若舉於足　　當願眾生　　出生死海　　具眾善法　　
+</ab><lb
+ ed="X" n="0157b06"/><lb
+ ed="R106" n="0129b09"/><ab type='dharani'>唵。地利日利莎訶<lb
+ ed="X" n="0157b07"/><lb
+ ed="R106" n="0129b10"/><head>出堂</head><lb
+ ed="X" n="0157b08"/><lb
+ ed="R106" n="0129b11"/></ab>
+<ab type='verse'>
+從舍出時　　當願眾生　　深入佛智　　永出三界　　
+</ab><lb
+ ed="X" n="0157b09"/><lb
+ ed="R106" n="0129b12"/><head>登廁</head><ab type='prose'>。<lb
+ ed="X" n="0157b11"/><lb
+ ed="R106" n="0129b14"/></ab>
+<ab type='verse'>
+大小便時　　當願眾生　　棄貪瞋癡　　蠲除罪法　　
+</ab><lb
+ ed="X" n="0157b12"/><lb
+ ed="R106" n="0129b15"/><ab type='dharani'>唵。很魯陀耶莎訶<lb
+ ed="X" n="0157b13"/><lb
+ ed="R106" n="0129b16"/><head>洗淨</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0157b14"/><lb
+ ed="R106" n="0129b17"/></ab>
+<ab type='verse'>
+事訖就水　　當願眾生　　出世法中　　速疾而往　　
+</ab><lb
+ ed="X" n="0157b15"/><lb
+ ed="R106" n="0129b18"/><ab type='dharani'>唵。室利婆醯莎訶<lb
+ ed="X" n="0157b16"/><lb
+ ed="R106" n="0130a01"/><head>去穢</head><lb
+ ed="X" n="0157b17"/><lb
+ ed="R106" n="0130a02"/></ab>
+<ab type='verse'>
+洗滌形穢　　當願眾生　　清淨調柔　　畢竟無垢　　
+</ab><lb
+ ed="X" n="0157b18"/><lb
+ ed="R106" n="0130a03"/><ab type='dharani'>唵。賀曩密栗帝莎訶<lb
+ ed="X" n="0157b19"/><lb
+ ed="R106" n="0130a04"/><head>洗手</head><lb
+ ed="X" n="0157b20"/><lb
+ ed="R106" n="0130a05"/></ab>
+<ab type='verse'>
+以水盥掌　　當願眾生　　得清淨手　　受持佛法　　
+</ab><lb
+ ed="X" n="0157b21"/><lb
+ ed="R106" n="0130a06"/><ab type='dharani'>唵。主迦囉耶莎訶<lb
+ ed="X" n="0157b22"/><lb
+ ed="R106" n="0130a07"/></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0157c03"/><lb
+ ed="R106" n="0130a12"/><head>淨面</head><lb
+ ed="X" n="0157c04"/><lb
+ ed="R106" n="0130a13"/></ab>
+<ab type='verse'>
+以水洗面　　當願眾生　　得淨法門　　永無垢染　　
+</ab><lb
+ ed="X" n="0157c05"/><lb
+ ed="R106" n="0130a14"/><ab type='dharani'>唵。㘕莎訶<lb
+ ed="X" n="0157c06"/><lb
+ ed="R106" n="0130a15"/><head>飲水</head><lb
+ ed="X" n="0157c07"/><lb
+ ed="R106" n="0130a16"/></ab>
+<ab type='verse'>
+佛觀一鉢水　　八萬四千蟲　　若不持此呪　　<lb
+ ed="X" n="0157c08"/><lb
+ ed="R106" n="0130a17"/>如食眾生肉　　
+</ab><lb
+ ed="X" n="0157c09"/><lb
+ ed="R106" n="0130a18"/><ab type='dharani'>唵。嚩悉波囉摩尼莎訶<lb
+ ed="X" n="0157c10"/><lb
+ ed="R106" n="0130b01"/><head>五衣</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0157c12"/><lb
+ ed="R106" n="0130b03"/></ab>
+<ab type='verse'>
+善哉解脫服　　無上福田衣　　我今頂戴受　　<lb
+ ed="X" n="0157c13"/><lb
+ ed="R106" n="0130b04"/>世世不捨離　　
+</ab><lb
+ ed="X" n="0157c14"/><lb
+ ed="R106" n="0130b05"/><ab type='dharani'>唵。悉陀耶莎訶<lb
+ ed="X" n="0157c15"/><lb
+ ed="R106" n="0130b06"/><head>七衣</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0157c17"/><lb
+ ed="R106" n="0130b08"/></ab>
+<ab type='verse'>
+善哉解脫服　　無上福田衣　　我今頂戴受　　<lb
+ ed="X" n="0157c18"/><lb
+ ed="R106" n="0130b09"/>世世常得披　　
+</ab><lb
+ ed="X" n="0157c19"/><lb
+ ed="R106" n="0130b10"/><ab type='dharani'>唵。度波度波莎訶<lb
+ ed="X" n="0157c20"/><lb
+ ed="R106" n="0130b11"/><head>大衣</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0157c24"/><lb
+ ed="R106" n="0130b15"/></ab>
+<ab type='verse'>
+善哉解脫服　　無上福田衣　　奉持如來命　　<pb ed="X" id="X60.1115.0158a" n="0158a"/><lb
+ ed="X" n="0158a01"/><lb
+ ed="R106" n="0130b16"/>廣度諸眾生　　
+</ab><lb
+ ed="X" n="0158a02"/><lb
+ ed="R106" n="0130b17"/><ab type='dharani'>唵。摩訶婆波。吒悉帝莎訶<lb
+ ed="X" n="0158a03"/><lb
+ ed="R106" n="0130b18"/></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0158a18"/><lb
+ ed="R106" n="0131a15"/><head>臥具</head>。<pb ed="X" id="X60.1115.0158b" n="0158b"/><lb
+ ed="X" n="0158b01"/><lb
+ ed="R106" n="0131b04"/></ab>
+<ab type='verse'>
+臥具尼師壇　　長養心苗性　　展開登聖地　　<lb
+ ed="X" n="0158b02"/><lb
+ ed="R106" n="0131b05"/>奉持如來命　　
+</ab><lb
+ ed="X" n="0158b03"/><lb
+ ed="R106" n="0131b06"/><ab type='dharani'>唵。檀波檀波莎訶<lb
+ ed="X" n="0158b04"/><lb
+ ed="R106" n="0131b07"/><head>登道場</head><lb
+ ed="X" n="0158b05"/><lb
+ ed="R106" n="0131b08"/></ab>
+<ab type='verse'>
+若得見佛　　當願眾生　　得無礙眼　　見一切佛　　
+</ab><lb
+ ed="X" n="0158b06"/><lb
+ ed="R106" n="0131b09"/><ab type='dharani'>唵。阿密栗帝吽癹吒<lb
+ ed="X" n="0158b07"/><lb
+ ed="R106" n="0131b10"/><head>讚佛</head><lb
+ ed="X" n="0158b08"/><lb
+ ed="R106" n="0131b11"/></ab>
+<ab type='verse'>
+法王無上尊　　三界無倫匹　　天人之導師　　<lb
+ ed="X" n="0158b09"/><lb
+ ed="R106" n="0131b12"/>四生之慈父　　我今暫皈依　　能滅三祇業　　<lb
+ ed="X" n="0158b10"/><lb
+ ed="R106" n="0131b13"/>稱揚若讚歎　　億劫莫能盡　　
+</ab><lb
+ ed="X" n="0158b11"/><lb
+ ed="R106" n="0131b14"/><head>禮佛</head><lb
+ ed="X" n="0158b12"/><lb
+ ed="R106" n="0131b15"/><ab type='verse'>
+天上天下無如佛　　十方世界亦無比　　<lb
+ ed="X" n="0158b13"/><lb
+ ed="R106" n="0131b16"/>世間所有我盡見　　一切無有如佛者　　
+</ab><lb
+ ed="X" n="0158b14"/><lb
+ ed="R106" n="0131b17"/><head>普禮真言</head><lb
+ ed="X" n="0158b15"/><lb
+ ed="R106" n="0131b18"/><ab type='dharani'>唵。嚩日囉斛</ab>
+<ab type='prose'>。<lb
+ ed="X" n="0158c02"/><lb
+ ed="R106" n="0132a11"/><head>供淨瓶</head>。<lb
+ ed="X" n="0158c05"/><lb
+ ed="R106" n="0132a14"/></ab>
+<ab type='verse'>
+手執淨瓶　　當願眾生　　內外無垢　　悉令光潔　　
+</ab><lb
+ ed="X" n="0158c06"/><lb
+ ed="R106" n="0132a15"/><ab type='dharani'>唵。勢伽嚕迦叱。𦎌叱莎訶<lb
+ ed="X" n="0158c07"/><lb
+ ed="R106" n="0132a16"/><head>蕩淨瓶真言</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0158c09"/><lb
+ ed="R106" n="0132a18"/></ab>
+<ab type='dharani'>唵。㘕莎訶<lb
+ ed="X" n="0158c10"/><lb
+ ed="R106" n="0132b01"/><head>灌水真言</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0158c11"/><lb
+ ed="R106" n="0132b02"/></ab>
+<ab type='dharani'>唵。嚩悉鉢囉摩尼莎訶<lb
+ ed="X" n="0158c12"/><lb
+ ed="R106" n="0132b03"/></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0158c14"/><lb
+ ed="R106" n="0132b05"/></ab>
+<ab type='dharani'>曩謨蘇嚕婆耶。怛他誐多耶。怛姪他。唵。蘇嚕蘇嚕。鉢<lb
+ ed="X" n="0158c15"/><lb
+ ed="R106" n="0132b06"/>囉蘇嚕。鉢囉蘇嚕。娑婆訶<lb
+ ed="X" n="0158c16"/><lb
+ ed="R106" n="0132b07"/></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0158c18"/><lb
+ ed="R106" n="0132b09"/><head>受食</head>。<lb
+ ed="X" n="0158c19"/><lb
+ ed="R106" n="0132b10"/></ab>
+<ab type='verse'>
+若見空鉢　　當願眾生　　究竟清淨　　空無煩惱　　
+</ab><lb
+ ed="X" n="0158c20"/><lb
+ ed="R106" n="0132b11"/><ab type='prose'>。<lb
+ ed="X" n="0159a04"/><lb
+ ed="R106" n="0133a01"/></ab>
+<ab type='verse'>
+若見滿鉢　　當願眾生　　具足盛滿　　一切善法　　
+</ab><lb
+ ed="X" n="0159a05"/><lb
+ ed="R106" n="0133a02"/><ab type='prose'>。<lb
+ ed="X" n="0159a07"/><lb
+ ed="R106" n="0133a04"/><head>出生</head>。<lb
+ ed="X" n="0159a09"/><lb
+ ed="R106" n="0133a06"/></ab>
+<ab type='verse'>
+法力不思議　　慈悲無障礙　　七粒徧十方　　<lb
+ ed="X" n="0159a10"/><lb
+ ed="R106" n="0133a07"/>普施周沙界　　
+</ab><lb
+ ed="X" n="0159a11"/><lb
+ ed="R106" n="0133a08"/><ab type='prose'>。<lb
+ ed="X" n="0159a12"/><lb
+ ed="R106" n="0133a09"/></ab>
+<ab type='dharani'>唵。度利益莎訶<lb
+ ed="X" n="0159a13"/><lb
+ ed="R106" n="0133a10"/></ab>
+<ab type='verse'>
+大鵬金翅鳥　　曠野鬼神眾　　羅剎鬼子母　　<lb
+ ed="X" n="0159a14"/><lb
+ ed="R106" n="0133a11"/>甘露悉充滿　　
+</ab><lb
+ ed="X" n="0159a15"/><lb
+ ed="R106" n="0133a12"/><ab type='dharani'>唵。穆帝莎訶<lb
+ ed="X" n="0159a16"/><lb
+ ed="R106" n="0133a13"/></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0159a20"/><lb
+ ed="R106" n="0133a17"/><head>侍者送食</head><lb
+ ed="X" n="0159a21"/><lb
+ ed="R106" n="0133a18"/></ab>
+<ab type='verse'>
+汝等鬼神眾　　我今施汝供　　此食徧十方　　<lb
+ ed="X" n="0159a22"/><lb
+ ed="R106" n="0133b01"/>一切鬼神共　　
+</ab><lb
+ ed="X" n="0159a23"/><lb
+ ed="R106" n="0133b02"/><ab type='dharani'>唵。穆力陵莎訶<lb
+ ed="X" n="0159a24"/><lb
+ ed="R106" n="0133b03"/></ab>
+<ab type='prose'>佛制比丘。食存五觀。散心雜話。信施難消。大眾聞罄<pb ed="X" id="X60.1115.0159b" n="0159b"/><lb
+ ed="X" n="0159b01"/><lb
+ ed="R106" n="0133b04"/>聲。各正念。。<lb
+ ed="X" n="0159b06"/><lb
+ ed="R106" n="0133b09"/></ab>
+<ab type='verse'>
+執持應器　　當願眾生　　成就法器　　受天人供　　
+</ab><lb
+ ed="X" n="0159b07"/><lb
+ ed="R106" n="0133b10"/><ab type='dharani'>唵。枳哩枳哩。嚩日囉吽癹吒<lb
+ ed="X" n="0159b08"/><lb
+ ed="R106" n="0133b11"/></ab>
+<ab type='prose'>願斷一切惡。願修一切善。誓度一切眾生。<lb
+ ed="X" n="0159b10"/><lb
+ ed="R106" n="0133b13"/>一。計功多少。量彼來處。二。忖己德行。全缺應供。<lb
+ ed="X" n="0159b11"/><lb
+ ed="R106" n="0133b14"/>三。防心離過。貪等為宗。四。正事良藥。為療形枯。<lb
+ ed="X" n="0159b12"/><lb
+ ed="R106" n="0133b15"/>五。為成道業。應受此食。<lb
+ ed="X" n="0159b13"/><lb
+ ed="R106" n="0133b16"/>。<lb
+ ed="X" n="0159b21"/><lb
+ ed="R106" n="0134a06"/>結齋先念準提呪。次念此偈云。<lb
+ ed="X" n="0159b22"/><lb
+ ed="R106" n="0134a07"/></ab>
+<ab type='verse'>
+所謂布施者　　必獲其利益　　若為樂故施　　<lb
+ ed="X" n="0159b23"/><lb
+ ed="R106" n="0134a08"/>後必得安樂　　
+</ab><lb
+ ed="X" n="0159b24"/><lb
+ ed="R106" n="0134a09"/><ab type='verse'>
+飯食已訖　　當願眾生　　所作皆辦　　具諸佛法　　
+</ab><pb ed="X" id="X60.1115.0159c" n="0159c"/><lb
+ ed="X" n="0159c01"/><lb
+ ed="R106" n="0134a10"/><head>洗鉢</head><lb
+ ed="X" n="0159c02"/><lb
+ ed="R106" n="0134a11"/><ab type='verse'>
+以此洗鉢水　　如天甘露味　　施與諸鬼神　　<lb
+ ed="X" n="0159c03"/><lb
+ ed="R106" n="0134a12"/>悉皆獲飽滿　　
+</ab><lb
+ ed="X" n="0159c04"/><lb
+ ed="R106" n="0134a13"/><ab type='dharani'>唵。摩休囉悉莎訶<lb
+ ed="X" n="0159c05"/><lb
+ ed="R106" n="0134a14"/><head>展鉢</head><lb
+ ed="X" n="0159c06"/><lb
+ ed="R106" n="0134a15"/></ab>
+<ab type='verse'>
+如來應量器　　我今得敷展　　願共一切眾　　<lb
+ ed="X" n="0159c07"/><lb
+ ed="R106" n="0134a16"/>等三輪空寂　　
+</ab><lb
+ ed="X" n="0159c08"/><lb
+ ed="R106" n="0134a17"/><ab type='dharani'>唵。斯麻摩尼莎訶<lb
+ ed="X" n="0159c09"/><lb
+ ed="R106" n="0134a18"/><head>受䞋</head><lb
+ ed="X" n="0159c10"/><lb
+ ed="R106" n="0134b01"/></ab>
+<ab type='verse'>
+財法二施　　等無差別　　檀波羅蜜　　具足圓滿　　
+</ab><lb
+ ed="X" n="0159c11"/><lb
+ ed="R106" n="0134b02"/><head>取楊枝</head><ab type='prose'>。<lb
+ ed="X" n="0159c14"/><lb
+ ed="R106" n="0134b05"/></ab>
+<ab type='verse'>
+手執楊枝　　當願眾生　　皆得妙法　　究竟清淨　　
+</ab><lb
+ ed="X" n="0159c15"/><lb
+ ed="R106" n="0134b06"/><ab type='dharani'>唵。薩吧嚩述答。薩哩吧。答哩嘛。薩吧嚩述怛󴎴。唵。㘕<lb
+ ed="X" n="0159c16"/><lb
+ ed="R106" n="0134b07"/>莎訶<lb
+ ed="X" n="0159c17"/><lb
+ ed="R106" n="0134b08"/><head>嚼楊枝</head><lb
+ ed="X" n="0159c18"/><lb
+ ed="R106" n="0134b09"/></ab>
+<ab type='verse'>
+嚼楊枝時　　當願眾生　　其心調淨　　噬諸煩惱　　
+</ab><lb
+ ed="X" n="0159c19"/><lb
+ ed="R106" n="0134b10"/><ab type='dharani'>唵。阿暮伽。彌摩𨽻。爾嚩迦囉。僧輸駄你。鉢頭摩。俱摩<lb
+ ed="X" n="0159c20"/><lb
+ ed="R106" n="0134b11"/>囉。爾嚩僧輸駄耶。陀囉陀囉。素彌麼𠾆莎嚩訶<lb
+ ed="X" n="0159c21"/><lb
+ ed="R106" n="0134b12"/></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0159c23"/><lb
+ ed="R106" n="0134b14"/><head>潄口</head><lb
+ ed="X" n="0159c24"/><lb
+ ed="R106" n="0134b15"/></ab>
+<ab type='verse'>
+潄口連心淨　　吻水百花香　　三業恒清淨　　<pb ed="X" id="X60.1115.0160a" n="0160a"/><lb
+ ed="X" n="0160a01"/><lb
+ ed="R106" n="0134b16"/>同佛往西方　　
+</ab><lb
+ ed="X" n="0160a02"/><lb
+ ed="R106" n="0134b17"/><ab type='dharani'>唵憨。唵罕莎訶<lb
+ ed="X" n="0160a03"/><lb
+ ed="R106" n="0134b18"/><head>出錫杖</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0160a06"/><lb
+ ed="R106" n="0135a03"/></ab>
+<ab type='verse'>
+執持錫杖　　當願眾生　　設大施會　　示如實道　　
+</ab><lb
+ ed="X" n="0160a07"/><lb
+ ed="R106" n="0135a04"/><ab type='dharani'>唵。那㗚𠾱。那㗚𠾱。那㗚吒鉢底。那㗚帝。娜夜鉢儜吽<lb
+ ed="X" n="0160a08"/><lb
+ ed="R106" n="0135a05"/>癹吒<lb
+ ed="X" n="0160a09"/><lb
+ ed="R106" n="0135a06"/><head>敷單坐禪</head><lb
+ ed="X" n="0160a10"/><lb
+ ed="R106" n="0135a07"/></ab>
+<ab type='verse'>
+若敷牀座　　當願眾生　　開敷善法　　見真實相　　<lb
+ ed="X" n="0160a11"/><lb
+ ed="R106" n="0135a08"/>正身端坐　　當願眾生　　坐菩提座　　心無所著　　
+</ab><lb
+ ed="X" n="0160a12"/><lb
+ ed="R106" n="0135a09"/><ab type='dharani'>唵。嚩則囉。阿尼鉢羅尼。邑多耶莎訶<lb
+ ed="X" n="0160a13"/><lb
+ ed="R106" n="0135a10"/><head>睡眠</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0160a14"/><lb
+ ed="R106" n="0135a11"/></ab>
+<ab type='verse'>
+以時寢息　　當願眾生　　身得安隱　　心無動亂　　
+</ab><lb
+ ed="X" n="0160a15"/><lb
+ ed="R106" n="0135a12"/><ab type='dharani'>􌥃阿</ab>
+<ab type='prose'>。<lb
+ ed="X" n="0160a17"/><lb
+ ed="R106" n="0135a14"/><head>取水</head>。<lb
+ ed="X" n="0160a23"/><lb
+ ed="R106" n="0135b02"/></ab>
+<ab type='verse'>
+若見流水　　當願眾生　　得善意欲　　洗除惑垢　　
+</ab><lb
+ ed="X" n="0160a24"/><lb
+ ed="R106" n="0135b03"/>南無歡喜莊嚴王佛南無寶髻如來<pb ed="X" id="X60.1115.0160b" n="0160b"/><lb
+ ed="X" n="0160b01"/><lb
+ ed="R106" n="0135b04"/>南無無量勝王佛<lb
+ ed="X" n="0160b02"/><lb
+ ed="R106" n="0135b05"/><ab type='dharani'>唵。嚩悉波羅摩尼莎婆訶<lb
+ ed="X" n="0160b03"/><lb
+ ed="R106" n="0135b06"/></ab>
+<ab type='verse'>
+若見大河　　當願眾生　　得預法流　　入佛智海　　<lb
+ ed="X" n="0160b04"/><lb
+ ed="R106" n="0135b07"/>若見橋道　　當願眾生　　廣度一切　　猶如橋梁　　
+</ab><lb
+ ed="X" n="0160b05"/><lb
+ ed="R106" n="0135b08"/><head>浴佛</head><lb
+ ed="X" n="0160b06"/><lb
+ ed="R106" n="0135b09"/><ab type='verse'>
+我今灌浴諸如來　　淨智莊嚴功德聚　　<lb
+ ed="X" n="0160b07"/><lb
+ ed="R106" n="0135b10"/>五濁眾生令離垢　　同證如來淨法身　　
+</ab><lb
+ ed="X" n="0160b08"/><lb
+ ed="R106" n="0135b11"/><head>讚佛</head><lb
+ ed="X" n="0160b09"/><lb
+ ed="R106" n="0135b12"/><ab type='verse'>
+讚佛相好　　當願眾生　　成就佛身　　證無相法　　
+</ab><lb
+ ed="X" n="0160b10"/><lb
+ ed="R106" n="0135b13"/><ab type='dharani'>唵。牟尼牟尼。三牟尼薩嚩賀<lb
+ ed="X" n="0160b11"/><lb
+ ed="R106" n="0135b14"/><head>繞塔</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0160b14"/><lb
+ ed="R106" n="0135b17"/></ab>
+<ab type='verse'>
+右繞於塔　　當願眾生　　所行無逆　　成一切智　　
+</ab><lb
+ ed="X" n="0160b15"/><lb
+ ed="R106" n="0135b18"/><ab type='dharani'>南無三滿多。沒駄喃。唵。杜波杜波娑婆訶<lb
+ ed="X" n="0160b16"/><lb
+ ed="R106" n="0136a01"/><head>看病</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0160b19"/><lb
+ ed="R106" n="0136a04"/></ab>
+<ab type='verse'>
+見疾病人　　當願眾生　　知身空寂　　離乖諍法　　
+</ab><lb
+ ed="X" n="0160b20"/><lb
+ ed="R106" n="0136a05"/><ab type='dharani'>唵。室哩多。室哩多。軍吒利莎嚩賀<lb
+ ed="X" n="0160b21"/><lb
+ ed="R106" n="0136a06"/><head>剃髮</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0160b23"/><lb
+ ed="R106" n="0136a08"/></ab>
+<ab type='verse'>
+剃除鬚髮　　當願眾生　　遠離煩惱　　究竟寂滅　　
+</ab><lb
+ ed="X" n="0160b24"/><lb
+ ed="R106" n="0136a09"/><ab type='dharani'>唵。悉殿都。漫多囉。䟦陀耶。娑婆訶<pb ed="X" id="X60.1115.0160c" n="0160c"/><lb
+ ed="X" n="0160c01"/><lb
+ ed="R106" n="0136a10"/><head>沐浴</head></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0160c05"/><lb
+ ed="R106" n="0136a14"/></ab>
+<ab type='verse'>
+洗浴身體　　當願眾生　　身心無垢　　內外光潔　　
+</ab><lb
+ ed="X" n="0160c06"/><lb
+ ed="R106" n="0136a15"/><ab type='dharani'>唵。跋折囉惱迦吒莎訶<lb
+ ed="X" n="0160c07"/><lb
+ ed="R106" n="0136a16"/><head>洗足</head><lb
+ ed="X" n="0160c08"/><lb
+ ed="R106" n="0136a17"/></ab>
+<ab type='verse'>
+若洗足時　　當願眾生　　具神足力　　所行無礙　　
+</ab><lb
+ ed="X" n="0160c09"/><lb
+ ed="R106" n="0136a18"/><ab type='dharani'>唵。㘕莎訶<lb
+ ed="X" n="0160c10"/><lb
+ ed="R106" n="0136b01"/><head>沙彌十戒相</head><lb
+ ed="X" n="0160c11"/><lb
+ ed="R106" n="0136b02"/></ab>
+<ab type='prose'>。<lb
+ ed="X" n="0160c13"/><lb
+ ed="R106" n="0136b04"/>一曰不殺生二曰不盜三曰不婬<lb
+ ed="X" n="0160c14"/><lb
+ ed="R106" n="0136b05"/>四曰不妄語五曰不飲酒<lb
+ ed="X" n="0160c15"/><lb
+ ed="R106" n="0136b06"/>六曰不著香華鬘不香塗身<lb
+ ed="X" n="0160c16"/><lb
+ ed="R106" n="0136b07"/>七曰不歌舞倡伎及故往觀聽<lb
+ ed="X" n="0160c17"/><lb
+ ed="R106" n="0136b08"/>八曰不坐高廣大牀九曰不非時食<lb
+ ed="X" n="0160c18"/><lb
+ ed="R106" n="0136b09"/>十曰不捉持生像金銀寶物<lb
+ ed="X" n="0160c19"/><lb
+ ed="R106" n="0136b10"/><head>沙彌應具五德應知十數</head><lb
+ ed="X" n="0160c20"/><lb
+ ed="R106" n="0136b11"/>福田經云。沙彌應知五德。一者發心出家。懷佩道故。<lb
+ ed="X" n="0160c21"/><lb
+ ed="R106" n="0136b12"/>二者毀其形好。應法服故。三者割愛辭親。無適莫故。<lb
+ ed="X" n="0160c22"/><lb
+ ed="R106" n="0136b13"/>四者委棄身命。尊崇道故。五者志求大乘。為度人故。<lb
+ ed="X" n="0160c23"/><lb
+ ed="R106" n="0136b14"/>僧祇律云。應為沙彌說十數。一者一切眾生皆依飲<lb
+ ed="X" n="0160c24"/><lb
+ ed="R106" n="0136b15"/>食。二者名色。三者知三受。四者四諦。五者五陰。六者<pb ed="X" id="X60.1115.0161a" n="0161a"/><lb
+ ed="X" n="0161a01"/><lb
+ ed="R106" n="0136b16"/>六入。七者七覺意。八者八正道。九者九眾生居。十者<lb
+ ed="X" n="0161a02"/><lb
+ ed="R106" n="0136b17"/>十一切入。<lb
+ ed="X" n="0161a03"/><lb
+ ed="R106" n="0136b18"/><head>沙彌尼十戒相</head>。<lb
+ ed="X" n="0161a04"/><lb
+ ed="R106" n="0137a01"/><head>式叉摩那戒相</head><lb
+ ed="X" n="0161a05"/><lb
+ ed="R106" n="0137a02"/>。<lb
+ ed="X" n="0161a07"/><lb
+ ed="R106" n="0137a04"/>一曰不婬二曰不盜三曰不殺<lb
+ ed="X" n="0161a08"/><lb
+ ed="R106" n="0137a05"/>四曰不妄語五曰不非時食六曰不飲酒<lb
+ ed="X" n="0161a09"/><lb
+ ed="R106" n="0137a06"/>。<lb
+ ed="X" n="0161a16"/><lb
+ ed="R106" n="0137a13"/><head>優婆塞戒相</head><lb
+ ed="X" n="0161a17"/><lb
+ ed="R106" n="0137a14"/>一曰不殺二曰不盜三曰不邪婬<lb
+ ed="X" n="0161a18"/><lb
+ ed="R106" n="0137a15"/>四曰不妄語五曰不飲酒<lb
+ ed="X" n="0161a19"/><lb
+ ed="R106" n="0137a16"/>。<lb
+ ed="X" n="0161a21"/><lb
+ ed="R106" n="0137a18"/><head>八關齋法戒相</head><lb
+ ed="X" n="0161a22"/><lb
+ ed="R106" n="0137b01"/>一不殺二不盜三不婬四不妄語<lb
+ ed="X" n="0161a23"/><lb
+ ed="R106" n="0137b02"/>五不飲酒六離華香瓔珞。香油塗身<lb
+ ed="X" n="0161a24"/><lb
+ ed="R106" n="0137b03"/>七離高勝大牀。及作唱伎樂。故往觀聽<pb ed="X" id="X60.1115.0161b" n="0161b"/><lb
+ ed="X" n="0161b01"/><lb
+ ed="R106" n="0137b04"/>八離非時食<lb
+ ed="X" n="0161b02"/><lb
+ ed="R106" n="0137b05"/>。<lb
+ ed="X" n="0161b15"/><lb
+ ed="X" n="0161b16"/><lb
+ ed="R106" n="0137b18"/>
+</ab><ab type='juan' subtype='close'>毗尼日用切要</ab></div>
+</body></text></TEI>

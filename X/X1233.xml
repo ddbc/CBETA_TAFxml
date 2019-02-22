@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">祇園正儀</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X63</biblScope>
+                    <idno type="Taisho">X63n1233</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X63.1233.0166c" n="0166c"/><lb
+ ed="X" n="0166c01"/><lb
+ ed="X" n="0166c02"/><lb
+ ed="X" n="0166c03"/><lb
+ ed="X" n="0166c04"/><lb
+ ed="X" n="0166c05"/><lb
+ ed="X" n="0166c06"/><lb
+ ed="X" n="0166c07"/><lb
+ ed="R111" n="0169a01"/>
+<ab type='juan' subtype='open'>祇園正儀</ab><lb
+ ed="X" n="0166c08"/><lb
+ ed="R111" n="0169a02"/><lb
+ ed="X" n="0166c09"/><lb
+ ed="R111" n="0169a03"/><ab type='prose'>夫出家者。為厭塵勞。求脫生死。休心息念。斷絕攀緣。<lb
+ ed="X" n="0166c10"/><lb
+ ed="R111" n="0169a04"/>故名出家。豈可以等閒利養埋沒平生。直須兩頭撒<lb
+ ed="X" n="0166c11"/><lb
+ ed="R111" n="0169a05"/>開。中間放下。遇聲遇色如石上栽花。見利見名似眼<lb
+ ed="X" n="0166c12"/><lb
+ ed="R111" n="0169a06"/>中著屑。況從無始以來。不是不曾經歷。又不是不知<lb
+ ed="X" n="0166c13"/><lb
+ ed="R111" n="0169a07"/>次第。不過翻頭作尾止於如此。何須苦苦貪戀。如今<lb
+ ed="X" n="0166c14"/><lb
+ ed="R111" n="0169a08"/>不歇。更待何時。所以先聖教人。只要盡却今時。能盡<lb
+ ed="X" n="0166c15"/><lb
+ ed="R111" n="0169a09"/>今時更有何事。若得心中無事。佛祖猶是冤家。一切<lb
+ ed="X" n="0166c16"/><lb
+ ed="R111" n="0169a10"/>世事自然冷淡。方始那邊相應。儞不見隱山至死不<lb
+ ed="X" n="0166c17"/><lb
+ ed="R111" n="0169a11"/>肯見人。趙州至死不昔告人。匾擔拾橡栗為食。大梅<lb
+ ed="X" n="0166c18"/><lb
+ ed="R111" n="0169a12"/>以荷葉為衣。紙衣道者只披紙。玄泰上座只著布。石<lb
+ ed="X" n="0166c19"/><lb
+ ed="R111" n="0169a13"/>霜置枯木堂與眾座臥。只要死了儞心。投子使人辦<lb
+ ed="X" n="0166c20"/><lb
+ ed="R111" n="0169a14"/>米同煑共餐。要得省取儞事。且從上諸聖有如此榜<lb
+ ed="X" n="0166c21"/><lb
+ ed="R111" n="0169a15"/>樣。若無長處如何甘得。諸仁者。若也於斯體究。的不<lb
+ ed="X" n="0166c22"/><lb
+ ed="R111" n="0169a16"/>虧人。若也不肯承當。向後深恐費力。山僧行業無取。<lb
+ ed="X" n="0166c23"/><lb
+ ed="R111" n="0169a17"/>忝主山門。豈可坐費常住。頓忘先聖附囑。今者輙欲<lb
+ ed="X" n="0166c24"/><lb
+ ed="R111" n="0169a18"/>略斆古人為住持體例。與諸人議定。更不下山。不赴<pb ed="X" id="X63.1233.0167a" n="0167a"/><lb
+ ed="X" n="0167a01"/><lb
+ ed="R111" n="0169b01"/>齋。不發化主。唯將本院莊課一歲所得均作三百六<lb
+ ed="X" n="0167a02"/><lb
+ ed="R111" n="0169b02"/>十分。日取一分用之。更不隨人添減。可以備飯則作<lb
+ ed="X" n="0167a03"/><lb
+ ed="R111" n="0169b03"/>飯。作飯不足則作粥。作粥不足則作米湯。新到相見<lb
+ ed="X" n="0167a04"/><lb
+ ed="R111" n="0169b04"/>茶湯而已。更不煎點。唯置一茶堂。自去取用。務要省<lb
+ ed="X" n="0167a05"/><lb
+ ed="R111" n="0169b05"/>緣專一辨道。又況活計具足。風景不疎。華解笑。鳥解<lb
+ ed="X" n="0167a06"/><lb
+ ed="R111" n="0169b06"/>啼。木馬長鳴。石牛善走。天外之青山寡色。耳畔之鳴<lb
+ ed="X" n="0167a07"/><lb
+ ed="R111" n="0169b07"/>泉無聲。嶺上猿啼露濕中霄之月。林間󳬈唳風回清<lb
+ ed="X" n="0167a08"/><lb
+ ed="R111" n="0169b08"/>曉之松。春風起時枯木龍吟。秋葉凋而寒林花散。玉<lb
+ ed="X" n="0167a09"/><lb
+ ed="R111" n="0169b09"/>階舖苔蘚之紋。人面帶煙霞之色。音塵寂爾。消息宛<lb
+ ed="X" n="0167a10"/><lb
+ ed="R111" n="0169b10"/>然。一味蕭條無可趣向。山僧今日向諸人面前說家<lb
+ ed="X" n="0167a11"/><lb
+ ed="R111" n="0169b11"/>門已是不著便。豈可更去陞堂入室。拈槌竪拂。東喝<lb
+ ed="X" n="0167a12"/><lb
+ ed="R111" n="0169b12"/>西棒。張眉怒目。如癇病發相似。不唯屈沉上座。況辜<lb
+ ed="X" n="0167a13"/><lb
+ ed="R111" n="0169b13"/>負先聖。儞不見達磨西來到少室山下面壁九年。二<lb
+ ed="X" n="0167a14"/><lb
+ ed="R111" n="0169b14"/>祖至於立雪斷臂。可謂受盡艱辛。然而達磨不曾措<lb
+ ed="X" n="0167a15"/><lb
+ ed="R111" n="0169b15"/>了一詞。二祖不曾問著一句。還喚達磨作不為人得<lb
+ ed="X" n="0167a16"/><lb
+ ed="R111" n="0169b16"/>麼。喚二祖做不求師得麼。山僧每至說著古聖做處。<lb
+ ed="X" n="0167a17"/><lb
+ ed="R111" n="0169b17"/>便覺無地容身。慚愧後人軟弱又。況百味珍羞󱠛相<lb
+ ed="X" n="0167a18"/><lb
+ ed="R111" n="0169b18"/>供養。道我四事具足方可發心。只恐做手脚不迄。便<lb
+ ed="X" n="0167a19"/><lb
+ ed="R111" n="0170a01"/>此隔生隔世去也。時光似箭深為可惜。雖然如是。更<lb
+ ed="X" n="0167a20"/><lb
+ ed="R111" n="0170a02"/>在他人從長相度。山僧也強教儞不得。諸仁者還見<lb
+ ed="X" n="0167a21"/><lb
+ ed="R111" n="0170a03"/>古人偈麼。山田脫粟飯。野菜淡黃虀。喫則從君喫。不<lb
+ ed="X" n="0167a22"/><lb
+ ed="R111" n="0170a04"/>喫任東西。伏惟同道。各自努力。珍重。<lb
+ ed="X" n="0167a23"/><lb
+ ed="X" n="0167a24"/><pb ed="X" id="X63.1233.0167b" n="0167b"/><lb
+ ed="X" n="0167b01"/><lb
+ ed="X" n="0167b02"/></ab><div type='xu' level='2'><head>No. 1233-A<lb
+ ed="X" n="0167b03"/><lb
+ ed="R111" n="0170a06"/> 䟦刻芙蓉楷祖法語</head><lb
+ ed="X" n="0167b04"/><lb
+ ed="X" n="0167b05"/><lb
+ ed="R111" n="0170a07"/><ab type='prose'>烏虖。若干吾黨之晚生。夙夜汲汲乎以富榮不充<lb
+ ed="X" n="0167b06"/><lb
+ ed="R111" n="0170a08"/>乎身名聲不章乎世為患。雖外則從事禪誦假現<lb
+ ed="X" n="0167b07"/><lb
+ ed="R111" n="0170a09"/>僧儀。內則全措己躬大事於度外。恬然不識。自顧<lb
+ ed="X" n="0167b08"/><lb
+ ed="R111" n="0170a10"/>者日披誦此<lb
+ ed="X" n="0167b09" type="honorific"/><lb
+ ed="R111" n="0170a11"/>芙蓉楷祖之嚴訓。以竊生慚耻。則庶幾至于不倦<lb
+ ed="X" n="0167b10"/><lb
+ ed="R111" n="0170a12"/>進修。裨助性地歟。慶湯藥茲謀壽。梓流行厥志其<lb
+ ed="X" n="0167b11"/><lb
+ ed="R111" n="0170a13"/>勤矣。因述一語以表隨喜之老懷矣。<lb
+ ed="X" n="0167b12"/><lb
+ ed="R111" n="0170a14"/>寬政壬子春二月<lb
+ ed="X" n="0167b13"/><lb
+ ed="R111" n="0170a15"/>遠孫空花庵老比丘玄透　即中薰沐謹書</ab></div></div>
+</body></text></TEI>

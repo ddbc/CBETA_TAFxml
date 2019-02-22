@@ -240,7 +240,7 @@ def convert_sutra(folder_in, folder_out, sutra)
   fn = File.join(folder_in, sutra+'.xml')
   new_xml = parse_xml(fn)
   
-  s = sutra.sub(/^T\d\dn(.*)$/, 'T\1')
+  work_id = CBETA.get_work_id_from_file_basename(sutra)
   tei_header = $tei_header_template % {
     title: $title,
     vol: $vol,
@@ -249,7 +249,7 @@ def convert_sutra(folder_in, folder_out, sutra)
   new_xml = tei_header + new_xml
   new_xml += "\n</body></text></TEI>"
   
-  fn = File.join(folder_out, s+'.xml')
+  fn = File.join(folder_out, work_id+'.xml')
   puts "write #{fn}"
   File.write(fn, new_xml)
 end

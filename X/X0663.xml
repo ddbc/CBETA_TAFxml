@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">科南本涅槃經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X37</biblScope>
+                    <idno type="Taisho">X37n0663</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X37.0663.0627a" n="0627a"/><lb
+ ed="X" n="0627a01"/><lb
+ ed="X" n="0627a02"/><div type='xu' level='2'><head>No. 663-A<lb
+ ed="X" n="0627a03"/><lb
+ ed="R059" n="0001a01"/> 科南本涅槃經序</head><lb
+ ed="X" n="0627a04"/><lb
+ ed="X" n="0627a05"/><lb
+ ed="R059" n="0001a02"/><byline>元崇聖院傳天台宗教校經沙門師正述</byline><lb
+ ed="X" n="0627a06"/><lb
+ ed="R059" n="0001a03"/><ab type='prose'>吾佛大聖人最後雙林會上為末世比丘普及大地<lb
+ ed="X" n="0627a07"/><lb
+ ed="R059" n="0001a04"/>眾生明心見性而說是經也備明戒檢廣開常宗摩<lb
+ ed="X" n="0627a08"/><lb
+ ed="R059" n="0001a05"/>訶止觀依之為扶律顯常喻之以贖命重寶故經云<lb
+ ed="X" n="0627a09"/><lb
+ ed="R059" n="0001a06"/>此經若在佛法則在此經若滅佛法則滅佛法命脉<lb
+ ed="X" n="0627a10"/><lb
+ ed="R059" n="0001a07"/>存亡繫焉始於沮渠蒙遜請曇無讖及猛法師兩度<lb
+ ed="X" n="0627a11"/><lb
+ ed="R059" n="0001a08"/>翻譯共十三品成四十軸行之北方至宋文帝敕嚴<lb
+ ed="X" n="0627a12"/><lb
+ ed="R059" n="0001a09"/>觀二師同謝康樂更共治定開為二十五品縮為三<lb
+ ed="X" n="0627a13"/><lb
+ ed="R059" n="0001a10"/>十六軸行之江南其間說聽領悟甚眾著述申明亦<lb
+ ed="X" n="0627a14"/><lb
+ ed="R059" n="0001a11"/>多如僧傳所載也去聖逾遙神根轉鈍吾祖章安尊<lb
+ ed="X" n="0627a15"/><lb
+ ed="R059" n="0001a12"/>者約龍樹宗旨用天台義門製疏科經深符佛意荊<lb
+ ed="X" n="0627a16"/><lb
+ ed="R059" n="0001a13"/>溪刪補法道重明自四明慈雲講唱孤山作記之後<lb
+ ed="X" n="0627a17"/><lb
+ ed="R059" n="0001a14"/>寥寥絕聞其故何哉蓋由經文浩博疏義淵微加之<lb
+ ed="X" n="0627a18"/><lb
+ ed="R059" n="0001a15"/>科未入經卒難尋討師正刻志斯典有年于茲宋之<lb
+ ed="X" n="0627a19"/><lb
+ ed="R059" n="0001a16"/>壬申寓古源法師永清輪下為座首遂倣法華光明<lb
+ ed="X" n="0627a20"/><lb
+ ed="R059" n="0001a17"/>體例以疏科句分標經上凡疏不牒者起盡難定而<lb
+ ed="X" n="0627a21"/><lb
+ ed="R059" n="0001a18"/>與諸友往復徵折方丈主決必歸於是每夜集於猊<lb
+ ed="X" n="0627a22"/><lb
+ ed="R059" n="0001b01"/>峯軒下經科疏記輪環讀之預斯集者大慈懷總報<lb
+ ed="X" n="0627a23"/><lb
+ ed="R059" n="0001b02"/>慈大成大雲居簡壽星文勝龍華清正園華懷坦天<lb
+ ed="X" n="0627a24"/><lb
+ ed="R059" n="0001b03"/>竺法杭始於是秋之八月終於明年之季春無極東<pb ed="X" id="X37.0663.0627b" n="0627b"/><lb
+ ed="X" n="0627b01"/><lb
+ ed="R059" n="0001b04"/>堂可度重加讐訂白雲古山僧錄道安鋟梓流通願<lb
+ ed="X" n="0627b02"/><lb
+ ed="R059" n="0001b05"/>與後人受持讀誦如說而行上不孤於佛祖下不負<lb
+ ed="X" n="0627b03"/><lb
+ ed="R059" n="0001b06"/>於己靈壽祝一人功霑九有云。<lb
+ ed="X" n="0627b04"/><lb
+ ed="R059" n="0001b07"/>時至元歲在壬午聖制日序</ab></div><lb
+ ed="X" n="0627b05"/><lb
+ ed="X" n="0627b06"/><lb
+ ed="X" n="0627b07"/><lb
+ ed="X" n="0627b08"/><lb
+ ed="R059" n="0002a01"/>序品一<lb
+ ed="X" n="0627b09"/><lb
+ ed="R059" n="0002a02"/>經　疏　鈔<lb
+ ed="X" n="0627b10"/><lb
+ ed="R059" n="0002a03"/>純陀品二<lb
+ ed="X" n="0627b11"/><lb
+ ed="R059" n="0002a04"/>哀歎品三<lb
+ ed="X" n="0627b12"/><lb
+ ed="R059" n="0002a05"/>經　疏　鈔<lb
+ ed="X" n="0627b13"/><lb
+ ed="R059" n="0002a06"/>長壽品四<lb
+ ed="X" n="0627b14"/><lb
+ ed="R059" n="0002a07"/>金剛身品五<lb
+ ed="X" n="0627b15"/><lb
+ ed="R059" n="0002a08"/>名字功德品六<lb
+ ed="X" n="0627b16"/><lb
+ ed="R059" n="0002a09"/>經　疏　鈔<lb
+ ed="X" n="0627b17"/><lb
+ ed="R059" n="0002a10"/>四相品七<lb
+ ed="X" n="0627b18"/><lb
+ ed="R059" n="0002a11"/>經　疏　鈔<lb
+ ed="X" n="0627b19"/><lb
+ ed="R059" n="0002a12"/>四依品八<lb
+ ed="X" n="0627b20"/><lb
+ ed="R059" n="0002a13"/>經　疏　鈔<lb
+ ed="X" n="0627b21"/><lb
+ ed="R059" n="0002a14"/>邪正品九<lb
+ ed="X" n="0627b22"/><lb
+ ed="R059" n="0002a15"/>四諦品十<lb
+ ed="X" n="0627b23"/><lb
+ ed="R059" n="0002a16"/>四倒品十一<lb
+ ed="X" n="0627b24"/><lb
+ ed="R059" n="0002a17"/>經　疏　鈔<pb ed="X" id="X37.0663.0627c" n="0627c"/><lb
+ ed="X" n="0627c01"/><lb
+ ed="R059" n="0002a18"/>如來性起品十二<lb
+ ed="X" n="0627c02"/><lb
+ ed="R059" n="0002b01"/>文字品十三<lb
+ ed="X" n="0627c03"/><lb
+ ed="R059" n="0002b02"/>烏喻品十四<lb
+ ed="X" n="0627c04"/><lb
+ ed="R059" n="0002b03"/>經　疏　鈔<lb
+ ed="X" n="0627c05"/><lb
+ ed="R059" n="0002b04"/>月喻品十五<lb
+ ed="X" n="0627c06"/><lb
+ ed="R059" n="0002b05"/>菩薩品十六<lb
+ ed="X" n="0627c07"/><lb
+ ed="R059" n="0002b06"/>經　疏　鈔<lb
+ ed="X" n="0627c08"/><lb
+ ed="R059" n="0002b07"/>大眾所問品十七<lb
+ ed="X" n="0627c09"/><lb
+ ed="R059" n="0002b08"/>經　疏　鈔<lb
+ ed="X" n="0627c10"/><lb
+ ed="R059" n="0002b09"/>現病品十八<lb
+ ed="X" n="0627c11"/><lb
+ ed="R059" n="0002b10"/>聖行品十九<lb
+ ed="X" n="0627c12"/><lb
+ ed="R059" n="0002b11"/>經　疏　鈔<lb
+ ed="X" n="0627c13"/><lb
+ ed="R059" n="0002b12"/>梵行品二十<lb
+ ed="X" n="0627c14"/><lb
+ ed="R059" n="0002b13"/>嬰兒品二十一<lb
+ ed="X" n="0627c15"/><lb
+ ed="R059" n="0002b14"/>經　疏　鈔<lb
+ ed="X" n="0627c16"/><lb
+ ed="R059" n="0002b15"/>高貴菩薩品二十二<lb
+ ed="X" n="0627c17"/><lb
+ ed="R059" n="0002b16"/>經　疏　鈔<lb
+ ed="X" n="0627c18"/><lb
+ ed="R059" n="0002b17"/>師子吼品二十三<lb
+ ed="X" n="0627c19"/><lb
+ ed="R059" n="0002b18"/>經　疏　鈔<lb
+ ed="X" n="0627c20"/><lb
+ ed="R059" n="0003a01"/>迦葉菩薩品二十四<lb
+ ed="X" n="0627c21"/><lb
+ ed="R059" n="0003a02"/>經　疏　鈔<lb
+ ed="X" n="0627c22"/><lb
+ ed="R059" n="0003a03"/>憍陳如品二十五<lb
+ ed="X" n="0627c23"/><lb
+ ed="R059" n="0003a04"/>經　疏　鈔<lb
+ ed="X" n="0627c24"/><lb
+ ed="R059" n="0003a05"/>陳如品末<pb ed="X" id="X37.0663.0628a" n="0628a"/><lb
+ ed="X" n="0628a01"/><lb
+ ed="R059" n="0003a06"/>遺教品一<lb
+ ed="X" n="0628a02"/><lb
+ ed="R059" n="0003a07"/>還源品二<lb
+ ed="X" n="0628a03"/><lb
+ ed="R059" n="0003a08"/>經　鈔<lb
+ ed="X" n="0628a04"/><lb
+ ed="R059" n="0003a09"/>茶毗品三<lb
+ ed="X" n="0628a05"/><lb
+ ed="R059" n="0003a10"/>廓潤品四<lb
+ ed="X" n="0628a06"/><lb
+ ed="R059" n="0003a11"/>經　鈔<lb
+ ed="X" n="0628a07"/><lb
+ ed="R059" n="0003a12"/><ab type='prose'>。<lb
+ ed="X" n="0628a09"/><lb
+ ed="R059" n="0003a14"/>南本大般涅槃經三十六卷二十五品章安尊者疏<lb
+ ed="X" n="0628a10"/><lb
+ ed="R059" n="0003a15"/>分文為五初從如是訖序品是召請涅槃眾二從純<lb
+ ed="X" n="0628a11"/><lb
+ ed="R059" n="0003a16"/>陀訖大眾問合十六品是開演涅槃施三從現病訖<lb
+ ed="X" n="0628a12"/><lb
+ ed="R059" n="0003a17"/>德王合五品是示現涅槃行四從師子吼訖品是問<lb
+ ed="X" n="0628a13"/><lb
+ ed="R059" n="0003a18"/>答涅槃義五從迦葉訖陳如品是折攝涅槃用。<lb
+ ed="X" n="0628a14"/><lb
+ ed="X" n="0628a15"/><lb
+ ed="X" n="0628a16"/><lb
+ ed="X" n="0628a17"/><lb
+ ed="X" n="0628a18"/><lb
+ ed="X" n="0628a19"/><lb
+ ed="X" n="0628a20"/><lb
+ ed="X" n="0628a21"/><lb
+ ed="X" n="0628a22"/><lb
+ ed="X" n="0628a23"/><lb
+ ed="X" n="0628a24"/><pb ed="X" id="X37.0663.0628b" n="0628b"/><lb
+ ed="X" n="0628b01"/><lb
+ ed="X" n="0628b02"/><lb
+ ed="X" n="0628b03"/><lb
+ ed="X" n="0628b04"/><lb
+ ed="R059" n="0003b01"/>
+</ab><ab type='juan' subtype='open'>科南本大般涅槃經</ab><lb
+ ed="X" n="0628b05"/><lb
+ ed="R059" n="0003b02"/><byline>元　峨眉　師正　排科<lb
+ ed="X" n="0628b06"/><lb
+ ed="R059" n="0003b03"/>　武林　可度　重訂</byline><lb
+ ed="X" n="0628b07"/><lb
+ ed="R059" n="0003b04"/><ab type='prose'>卍云。科經本大率同于重訂交科本。仍單載<lb
+ ed="X" n="0628b08"/><lb
+ ed="R059" n="0003b05"/>序文而已。</ab></div>
+</body></text></TEI>

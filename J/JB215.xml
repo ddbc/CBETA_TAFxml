@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">頌古合響集</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">J28</biblScope>
+                    <idno type="Taisho">J28nB215</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="J" id="J28.B215.0565a" n="0565a"/><lb
+ ed="J" n="0565a01"/><head>頌古合響集敘</head><lb
+ ed="J" n="0565a02"/><byline>大圓居士張有譽撰</byline><lb
+ ed="J" n="0565a03"/><ab type='prose'>缾盤釵釧鎔作一金若非擲地出聲與瓦礫何異所<lb
+ ed="J" n="0565a04"/>以馬祖震威一喝百丈三日耳聾祗為言中有響臨<lb
+ ed="J" n="0565a05"/>濟向一句內別出宮商律呂翻成日午打三更從此<lb
+ ed="J" n="0565a06"/>遞代兒孫蘇嚧㗭哩莊子註郭象未容擬議主賓分<lb
+ ed="J" n="0565a07"/>蝴蝶夢莊周離相離名人不稟帶累婆生七子不遇<lb
+ ed="J" n="0565a08"/>知音水月雲山一時拋卻數百年後方得無著與他<lb
+ ed="J" n="0565a09"/>出氣不費一文錢買箇庄上油餈一喝便出大慧堂<lb
+ ed="J" n="0565a10"/>中直得五音並奏二聽難聞遂將從上古德一串穿<lb
+ ed="J" n="0565a11"/>卻呈橈舞棹別宮商至今無人和得大慧沒五百年<lb
+ ed="J" n="0565a12"/>繁音雜興靈嵒老人出而還之正始座下繼響無著<lb
+ ed="J" n="0565a13"/>者兩人一則玅湛總道人一則靈瑞符菴主也道人<lb
+ ed="J" n="0565a14"/>名家子適徐門其翁殉節隨州贈太僕卿祖翁為少<lb
+ ed="J" n="0565a15"/>司馬家傳忠孝忽焉大雅云亡風吹別調厭棄世相<lb
+ ed="J" n="0565a16"/>晨夕同符菴主苦志力參一日讀靈嵒錄如寒谷忽<lb
+ ed="J" n="0565a17"/>遇陽春亟趨參請老人一見以大丈夫目之夫亡畢<lb
+ ed="J" n="0565a18"/>葬即詣山剃染受具足戒隨眾參請老人每令下語<lb
+ ed="J" n="0565a19"/>痛加錐劄寢食俱廢驀地撥著向上關捩與符菴主<lb
+ ed="J" n="0565a20"/>唱拍相隨兩口無一舌老人為之助喜囑令加護嗣<lb
+ ed="J" n="0565a21"/>後不復肯遜無著獨步取其頌古和之踏翻平江萬<lb
+ ed="J" n="0565a22"/>斛舟嚼碎徑山𨍏轢鑽即兩人亦各各不相借鐘中<lb
+ ed="J" n="0565a23"/>無鼓響鼓中無鐘聲共以質老人老人曰此可稱合<lb
+ ed="J" n="0565a24"/>響矣大圓讀之大驚不待供通知其各各詣實也雖<lb
+ ed="J" n="0565a25"/>然面目現在有耳共聞喚甚麼作響直饒會得響更<lb
+ ed="J" n="0565a26"/>問甚處是他合處若道是合則字經三寫烏焉成馬<lb
+ ed="J" n="0565a27"/>若道不合則一點水墨兩處成龍知其解者旦暮遇<lb
+ ed="J" n="0565a28"/>之方信簷前雨偃溪水瓦礫擊竹柳上啼鶯總是這<lb
+ ed="J" n="0565a29"/>箇響凌行哭俞婆笑呼小玉掌趙州也是這箇響德<lb
+ ed="J" n="0565a30"/>山棒臨濟喝乾矢橛麻三斤也是這箇響此響亦能<pb ed="J" id="J28.B215.0565b" n="0565b"/><lb
+ ed="J" n="0565b01"/>悟卻天下人亦能聾卻天下人悟則佛法無多一句<lb
+ ed="J" n="0565b02"/>了然超百億聾則向下文長直得五年分疏不下即<lb
+ ed="J" n="0565b03"/>今還有向蝴蝶夢中別得宮商者麼請以此響懸之<lb
+ ed="J" n="0565b04"/>通衢一任諸人東考西擊使天下學者雖無心欲聞<lb
+ ed="J" n="0565b05"/>聞之皆死其中即有犯四重禁及五無間聞是響已<lb
+ ed="J" n="0565b06"/>亦作無上菩提遠因豈啻扶孤危而摧軟煖愧鬚眉<lb
+ ed="J" n="0565b07"/>而冠巾幗也哉。<lb
+ ed="J" n="0565b08"/><lb
+ ed="J" n="0565b09"/><lb
+ ed="J" n="0565b10"/><lb
+ ed="J" n="0565b11"/><lb
+ ed="J" n="0565b12"/><lb
+ ed="J" n="0565b13"/><lb
+ ed="J" n="0565b14"/><lb
+ ed="J" n="0565b15"/><lb
+ ed="J" n="0565b16"/><lb
+ ed="J" n="0565b17"/><lb
+ ed="J" n="0565b18"/><lb
+ ed="J" n="0565b19"/><lb
+ ed="J" n="0565b20"/><lb
+ ed="J" n="0565b21"/><lb
+ ed="J" n="0565b22"/><lb
+ ed="J" n="0565b23"/><lb
+ ed="J" n="0565b24"/><lb
+ ed="J" n="0565b25"/><lb
+ ed="J" n="0565b26"/><lb
+ ed="J" n="0565b27"/><lb
+ ed="J" n="0565b28"/><lb
+ ed="J" n="0565b29"/><lb
+ ed="J" n="0565b30"/><pb ed="J" id="J28.B215.0565c" n="0565c"/><lb
+ ed="J" n="0565c01"/>
+</ab><ab type='juan' subtype='open'>頌古合響集</ab><lb
+ ed="J" n="0565c02"/><byline>學人師炤錄</byline><lb
+ ed="J" n="0565c03"/><div type='orig' level='2'><ab type='prose'>舉世尊一日陞座大眾纔集定文殊白槌云諦觀法<lb
+ ed="J" n="0565c04"/>王法法王法如是世尊便下座。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+正令付全<lb
+ ed="J" n="0565c05"/>提不存凡聖機牢關百雜碎石火電光輝　　
+</ab><lb
+ ed="J" n="0565c06"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0565c07"/></ab>
+<ab type='verse'>
+一翳在眼空花墮一聲入耳塗毒鼓百萬忙忙總不<lb
+ ed="J" n="0565c08"/>知卻來椎下分甘苦　　
+</ab><lb
+ ed="J" n="0565c09"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0565c10"/></ab>
+<ab type='verse'>
+掣電之機人天罔知一椎粉碎遍界流輝　　
+</ab><lb
+ ed="J" n="0565c11"/><ab type='verse'>
+大智若愚大巧若拙潦倒瞿曇狂心未歇象駕崢嶸<lb
+ ed="J" n="0565c12"/>漫進途誰信螳蜋能拒轍屈百眾人前口似眉有理<lb
+ ed="J" n="0565c13"/>直教無處說　　
+</ab></div><lb
+ ed="J" n="0565c14"/><div type='orig' level='2'><ab type='prose'>舉世尊因外道問云不問有言不問無言世尊據坐<lb
+ ed="J" n="0565c15"/>外道讚曰世尊大慈開我迷雲令我得入乃便作禮<lb
+ ed="J" n="0565c16"/>而去後阿難問佛外道有何所證而言得入世尊曰<lb
+ ed="J" n="0565c17"/>如世良馬見鞭影而行。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+陷虎機關兩處安<lb
+ ed="J" n="0565c18"/>湍流一截萬源乾駿駒瞥爾窺鞭影凜凜霜蹄毛骨<lb
+ ed="J" n="0565c19"/>寒　　
+</ab><lb
+ ed="J" n="0565c20"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0565c21"/></ab>
+<ab type='verse'>
+外道虛空釘橛慶喜眼中添屑老胡據令全提難免<lb
+ ed="J" n="0565c22"/>證龜成鱉　　
+</ab><lb
+ ed="J" n="0565c23"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0565c24"/></ab>
+<ab type='verse'>
+掇轉霜蹄鞭影中春風蹴踏落花紅一從擊碎玄關<lb
+ ed="J" n="0565c25"/>後剎剎塵塵不見蹤　　
+</ab></div><lb
+ ed="J" n="0565c26"/><div type='orig' level='2'><ab type='prose'>舉文殊師利在靈山會上諸佛集處見一女子近佛<lb
+ ed="J" n="0565c27"/>坐入於三昧文殊白佛云何此女得近佛坐佛云汝<lb
+ ed="J" n="0565c28"/>但覺此女令從三昧起汝自問之文殊繞女子三匝<lb
+ ed="J" n="0565c29"/>鳴指一下乃至托上梵天盡其神力而不能出佛云<lb
+ ed="J" n="0565c30"/>假使百千文殊亦出此女定不得下方過四十二恒<pb ed="J" id="J28.B215.0566a" n="0566a"/><lb
+ ed="J" n="0566a01"/>沙國土有罔明菩薩能出此女定須臾罔明至佛所<lb
+ ed="J" n="0566a02"/>佛敕出此女定罔明即於女子前鳴指一下女子於<lb
+ ed="J" n="0566a03"/>是從定而出。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+金不博金水不洗水兩既不<lb
+ ed="J" n="0566a04"/>成一何有爾罔明文殊靴裏動指　　
+</ab><lb
+ ed="J" n="0566a05"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0566a06"/></ab>
+<ab type='verse'>
+一定那論秋復春疑生情動見疏親等閒廢盡東君<lb
+ ed="J" n="0566a07"/>力空使名花解笑人　　
+</ab><lb
+ ed="J" n="0566a08"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0566a09"/></ab>
+<ab type='verse'>
+人人有片閑田誰敢絲毫錯誤女子网明文殊總與<lb
+ ed="J" n="0566a10"/>一狀領過　　
+</ab></div><lb
+ ed="J" n="0566a11"/><div type='orig' level='2'><ab type='prose'>舉殃崛摩羅既出家為沙門因持缽入城至一長者<lb
+ ed="J" n="0566a12"/>家值其婦產難子母未分長者云瞿曇弟子汝為至<lb
+ ed="J" n="0566a13"/>聖當有何法能免產難殃崛曰我乍入道未知此法<lb
+ ed="J" n="0566a14"/>當去問佛卻來相報遽返白佛具陳上事佛告曰汝<lb
+ ed="J" n="0566a15"/>速去報言我自從賢聖法來未曾殺生殃崛往告其<lb
+ ed="J" n="0566a16"/>婦聞知當時分娩母子平安。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+不遲一步不<lb
+ ed="J" n="0566a17"/>疾一刻明眼衲僧如何會得粉骨碎身未足酬一句<lb
+ ed="J" n="0566a18"/>了然超百億　　
+</ab><lb
+ ed="J" n="0566a19"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0566a20"/></ab>
+<ab type='verse'>
+一樹蘢蔥玉刻成飄廊點地色輕盈兒童夜覓香來<lb
+ ed="J" n="0566a21"/>處惟見階前碎月明　　
+</ab><lb
+ ed="J" n="0566a22"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0566a23"/></ab>
+<ab type='verse'>
+敲斷黃金鎖掀翻白玉盤他家󳡉得失莫向寸心安　　
+</ab></div><lb
+ ed="J" n="0566a24"/><div type='orig' level='2'><ab type='prose'>舉楞嚴經當知虛空生汝心內猶如片雲點太清裏<lb
+ ed="J" n="0566a25"/>況諸世界在虛空耶汝等一人發真歸元此十方空<lb
+ ed="J" n="0566a26"/>皆悉消殞。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+一人發真歸元十方虛空消殞<lb
+ ed="J" n="0566a27"/>試問楊岐栗蓬何似雲門胡餅　　
+</ab><lb
+ ed="J" n="0566a28"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0566a29"/></ab>
+<ab type='verse'>
+倒腹傾腸舉似君不知若箇解酬恩祗桓一夜西風<lb
+ ed="J" n="0566a30"/>惡萬象森羅盡喪魂　　
+</ab><pb ed="J" id="J28.B215.0566b" n="0566b"/><lb
+ ed="J" n="0566b01"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0566b02"/></ab>
+<ab type='verse'>
+屋角黃榆樹多來不記年今朝風信急滿地是金錢　　
+</ab></div><lb
+ ed="J" n="0566b03"/><div type='orig' level='2'><ab type='prose'>舉維摩經三十二菩薩各說不二法門至文殊云我<lb
+ ed="J" n="0566b04"/>於一切法無言無說無示無識離諸問荅是為菩薩<lb
+ ed="J" n="0566b05"/>入不二法門殊問維摩摩默然殊歎曰乃至無有語<lb
+ ed="J" n="0566b06"/>言文字是真入不二法門說是入不二法門時與此<lb
+ ed="J" n="0566b07"/>眾中五千菩薩皆入不二法門得無生法忍。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌<lb
+ ed="J" n="0566b08"/></ab>
+<ab type='verse'>
+毘耶老子善藏機淵默雷聲徹四維今古兢傳真不<lb
+ ed="J" n="0566b09"/>二豈知黃葉止兒啼　　
+</ab><lb
+ ed="J" n="0566b10"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0566b11"/></ab>
+<ab type='verse'>
+維摩示現默非默潦倒文殊得非得白日青天把火<lb
+ ed="J" n="0566b12"/>行分明一夥白拈賊　　
+</ab><lb
+ ed="J" n="0566b13"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0566b14"/></ab>
+<ab type='verse'>
+山自高兮水自深漫將瑣瑣寄瑤琴陽春白雪都翻<lb
+ ed="J" n="0566b15"/>轉別整宮商一段音　　
+</ab></div><lb
+ ed="J" n="0566b16"/><div type='orig' level='2'><ab type='prose'>舉僧問洞山詮清淨行者不入涅槃破戒比丘不入<lb
+ ed="J" n="0566b17"/>地獄時如何山云度盡無遺影還他越涅槃。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌<lb
+ ed="J" n="0566b18"/></ab>
+<ab type='verse'>
+嘉州石像陝府銕牛人平不語水平不流　　
+</ab><lb
+ ed="J" n="0566b19"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0566b20"/></ab>
+<ab type='verse'>
+清淨清淨破戒破戒堪笑堪悲孰真孰假水漲船高<lb
+ ed="J" n="0566b21"/>泥多佛大廓然本體等虛空風從虎兮雲從龍　　
+</ab><lb
+ ed="J" n="0566b22"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0566b23"/></ab>
+<ab type='verse'>
+荊棘林中容坦步月明簾外闇抽身春風拽轉花狼<lb
+ ed="J" n="0566b24"/>籍添得曹溪鏡裏塵　　
+</ab></div><lb
+ ed="J" n="0566b25"/><div type='orig' level='2'><ab type='prose'>舉西天初祖摩訶迦葉尊者見世尊在靈山會上拈<lb
+ ed="J" n="0566b26"/>起一枝華以青蓮目普視大眾百萬聖賢惟迦葉破<lb
+ ed="J" n="0566b27"/>顏微笑世尊乃曰吾有正法眼藏涅槃玅心實相無<lb
+ ed="J" n="0566b28"/>相微玅解脫法門付囑於汝汝當護持流通無令斷<lb
+ ed="J" n="0566b29"/>絕。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+項上鐵枷三百斤分明有理不容伸默<lb
+ ed="J" n="0566b30"/>然雞足峰前坐猶把金襴誑後人　　
+</ab><pb ed="J" id="J28.B215.0566c" n="0566c"/><lb
+ ed="J" n="0566c01"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0566c02"/></ab>
+<ab type='verse'>
+拈花綽約露真詮引得頭陀獨破顏千古風流千古<lb
+ ed="J" n="0566c03"/>恨是非從此落人間　　
+</ab><lb
+ ed="J" n="0566c04"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0566c05"/></ab>
+<ab type='verse'>
+春滿百花無避處等閒舉起便淆訛縱然笑豁娘生<lb
+ ed="J" n="0566c06"/>鼻不覺全身墮網羅　　
+</ab></div><lb
+ ed="J" n="0566c07"/><div type='orig' level='2'><ab type='prose'>舉達磨大師既葬熊耳山後三歲魏宋雲使西域回<lb
+ ed="J" n="0566c08"/>遇祖於蔥嶺手攜隻履翩翩獨逝雲問師何往祖曰<lb
+ ed="J" n="0566c09"/>西天去又謂雲曰汝主已厭世雲聞之茫然別祖東<lb
+ ed="J" n="0566c10"/>邁暨復命則明帝已登遐矣迨啟壙惟空棺一隻革<lb
+ ed="J" n="0566c11"/>履存焉舉朝為之驚歎奉詔取遺履於少林寺供養。</ab></div><lb
+ ed="J" n="0566c12"/><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+航海東來黠兒落節為法求人自作深孽<lb
+ ed="J" n="0566c13"/>賴遇梁王是作家有理直教無處雪及乎隻履復西<lb
+ ed="J" n="0566c14"/>歸蔥嶺無端重漏泄不漏泄分明弄巧反成拙　　
+</ab><lb
+ ed="J" n="0566c15"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0566c16"/></ab>
+<ab type='verse'>
+得得求人志不休一葦踏遍楚江秋而今隻履歸何<lb
+ ed="J" n="0566c17"/>處萬壑千溪腳下流　　
+</ab><lb
+ ed="J" n="0566c18"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0566c19"/></ab>
+<ab type='verse'>
+最初椎落雙齒末後狼籍隻履中間幸自可憐強欲<lb
+ ed="J" n="0566c20"/>分皮析髓今朝掘地更深埋免得青蠅鬧不開　　
+</ab></div><lb
+ ed="J" n="0566c21"/><div type='orig' level='2'><ab type='prose'>舉二祖慧可大師初至少林參承達磨立雪斷臂悲<lb
+ ed="J" n="0566c22"/>淚求法磨知是法器乃曰諸佛最初求道為法忘形<lb
+ ed="J" n="0566c23"/>汝今斷臂求亦可在祖曰諸佛法印可得聞乎磨曰<lb
+ ed="J" n="0566c24"/>諸佛法印不從人得祖曰我心未寧乞師與安磨曰<lb
+ ed="J" n="0566c25"/>將心來與汝安祖曰覓心了不可得磨曰與汝安心<lb
+ ed="J" n="0566c26"/>竟祖於此悟入。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+達磨九年面壁坐深雪之<lb
+ ed="J" n="0566c27"/>中得一箇得一箇森羅萬象平分破　　
+</ab><lb
+ ed="J" n="0566c28"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0566c29"/></ab>
+<ab type='verse'>
+蒼崖萬仞雪齊腰凍得娘生鼻孔焦弄出多般窮伎<lb
+ ed="J" n="0566c30"/>倆此時難著一絲毫　　
+</ab><pb ed="J" id="J28.B215.0567a" n="0567a"/><lb
+ ed="J" n="0567a01"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0567a02"/></ab>
+<ab type='verse'>
+討得心安臂不全思量秪合哭蒼天風高月冷人何<lb
+ ed="J" n="0567a03"/>處燄發珊瑚血正鮮　　
+</ab><lb
+ ed="J" n="0567a04"/><ab type='verse'>
+覓心無得正茫茫最苦將身雪裏藏脊背至今流白<lb
+ ed="J" n="0567a05"/>汗謾言肺腑得清涼　　
+</ab></div><lb
+ ed="J" n="0567a06"/><div type='orig' level='2'><ab type='prose'>舉五祖弘忍大師前身在蘄州西山栽松遇四祖告<lb
+ ed="J" n="0567a07"/>曰吾欲傳法與汝汝已年邁汝若再來吾尚遲汝師<lb
+ ed="J" n="0567a08"/>諾遂往周氏家女托生因拋濁港中神物護持至七<lb
+ ed="J" n="0567a09"/>歲為童子四祖一日往黃梅縣逢一小兒骨相奇秀<lb
+ ed="J" n="0567a10"/>乃問曰子何姓曰姓即有非嘗姓祖曰是何姓曰是<lb
+ ed="J" n="0567a11"/>佛性祖曰汝無姓耶曰性空故無祖默識是法器即<lb
+ ed="J" n="0567a12"/>俾侍者後令出家遂付衣法居黃梅東山。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌<lb
+ ed="J" n="0567a13"/></ab>
+<ab type='verse'>
+一去一來一老一少兩鏡對懸光影俱照直饒用盡<lb
+ ed="J" n="0567a14"/>神通未明向上一竅　　
+</ab><lb
+ ed="J" n="0567a15"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0567a16"/></ab>
+<ab type='verse'>
+被他捉著重增繩索直下翻身將錯就錯　　
+</ab><lb
+ ed="J" n="0567a17"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0567a18"/></ab>
+<ab type='verse'>
+挈挈波波不著知貪他佛法上他機再來圖得金襴<lb
+ ed="J" n="0567a19"/>也可是當初舊面皮　　
+</ab></div><lb
+ ed="J" n="0567a20"/><div type='orig' level='2'><ab type='prose'>舉國師一日喚侍者者應諾如是三喚三應諾師曰<lb
+ ed="J" n="0567a21"/>將謂吾孤負汝卻是汝孤負吾。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+南陽三喚<lb
+ ed="J" n="0567a22"/>無風起浪侍者應諾為蛇安腳明眼衲僧知不知萬<lb
+ ed="J" n="0567a23"/>古清風自廖廓　　
+</ab><lb
+ ed="J" n="0567a24"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0567a25"/></ab>
+<ab type='verse'>
+江上琵琶月下聽尋嘗肝膽向人傾天涯自惜知音<lb
+ ed="J" n="0567a26"/>少翻作當年怨別聲　　
+</ab><lb
+ ed="J" n="0567a27"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0567a28"/></ab>
+<ab type='verse'>
+三喚三諾綿綿莫莫明眼衲僧無處啗啄負吾負汝<lb
+ ed="J" n="0567a29"/>各自行休問醍醐併毒藥　　
+</ab></div><lb
+ ed="J" n="0567a30"/><div type='orig' level='2'><ab type='prose'>舉洪州百丈山懷海大智禪師再參馬祖侍立次祖<pb ed="J" id="J28.B215.0567b" n="0567b"/><lb
+ ed="J" n="0567b01"/>以目視繩床角拂子師云即此用離此用祖曰汝向<lb
+ ed="J" n="0567b02"/>後開兩片皮將何為人師取拂子豎起祖曰即此用<lb
+ ed="J" n="0567b03"/>離此用師以拂子掛向舊處祖乃振威一喝後檀信<lb
+ ed="J" n="0567b04"/>請住大雄山嵒巒峻極故號為百丈一日顧謂眾曰<lb
+ ed="J" n="0567b05"/>佛法不是小事老僧昔日被馬大師一喝直得三日<lb
+ ed="J" n="0567b06"/>耳聾黃檗聞舉不覺吐舌。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+頂門一擊塗毒<lb
+ ed="J" n="0567b07"/>鼓生殺全機振古今雪後始知松柏操事難方見丈<lb
+ ed="J" n="0567b08"/>夫心　　
+</ab><lb
+ ed="J" n="0567b09"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0567b10"/></ab>
+<ab type='verse'>
+一喝直教三日聾江西從此喪家風誰知數百餘年<lb
+ ed="J" n="0567b11"/>後猶有兒孫罵祖翁　　
+</ab><lb
+ ed="J" n="0567b12"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0567b13"/></ab>
+<ab type='verse'>
+病入膏肓苦痛深神駒腳下喪兒孫一聲雷振清飆<lb
+ ed="J" n="0567b14"/>起鼓動三千海嶽昏　　
+</ab></div><lb
+ ed="J" n="0567b15"/><div type='orig' level='2'><ab type='prose'>舉百丈每上堂有一老人嘗隨眾聽法眾退唯老人<lb
+ ed="J" n="0567b16"/>不去丈問汝何人也曰我非人也於過去迦葉佛時<lb
+ ed="J" n="0567b17"/>曾住此山因學人問大修行人還落因果也無某甲<lb
+ ed="J" n="0567b18"/>對曰不落因果遂五百生墮野狐身今請和尚代一<lb
+ ed="J" n="0567b19"/>轉語貴脫野狐身丈曰汝問乃問大修行人還落因<lb
+ ed="J" n="0567b20"/>果也無丈曰不昧因果老人言下大悟作禮曰某甲<lb
+ ed="J" n="0567b21"/>已脫野狐身住在山後敢乞依亡僧津送丈令維那<lb
+ ed="J" n="0567b22"/>白椎告眾食後送亡僧眾驚異食後丈領眾至山後<lb
+ ed="J" n="0567b23"/>嵒下以杖挑出一死埜狐乃依法火葬丈至晚上堂<lb
+ ed="J" n="0567b24"/>舉前因緣黃檗便問古人錯祗對一轉語五百生墮<lb
+ ed="J" n="0567b25"/>野狐身轉轉不錯合作箇什麼丈曰近前來與汝道<lb
+ ed="J" n="0567b26"/>檗近前與丈一掌丈拍手笑曰將謂胡鬚赤更有赤<lb
+ ed="J" n="0567b27"/>鬚胡。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+不昧不落將錯就錯百丈埜狐一坑<lb
+ ed="J" n="0567b28"/>埋卻　　
+</ab><lb
+ ed="J" n="0567b29"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0567b30"/></ab>
+<ab type='verse'>
+說甚埜狐身無端誑惑人咄今朝重註破不必競頭<pb ed="J" id="J28.B215.0567c" n="0567c"/><lb
+ ed="J" n="0567c01"/>爭　　
+</ab><lb
+ ed="J" n="0567c02"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0567c03"/></ab>
+<ab type='verse'>
+不昧與不落太虛自寥廓彼彼大丈夫誰能受拘縛<lb
+ ed="J" n="0567c04"/>太阿出匣吼青蛇左右橫斜恣盤薄　　
+</ab></div><lb
+ ed="J" n="0567c05"/><div type='orig' level='2'><ab type='prose'>舉南泉曰江西馬大師秪說即心即佛王老師不恁<lb
+ ed="J" n="0567c06"/>麼道不是心不是佛不是物恁麼道還有過麼趙州<lb
+ ed="J" n="0567c07"/>禮拜而出僧隨問州曰上座禮拜了便出意作麼生<lb
+ ed="J" n="0567c08"/>曰汝卻問取和尚僧問泉曰適來諗上座意作麼生<lb
+ ed="J" n="0567c09"/>泉曰他卻領得老僧意旨。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+不是心佛不是<lb
+ ed="J" n="0567c10"/>物六六依前三十六因思長慶陸大夫解道合笑不<lb
+ ed="J" n="0567c11"/>合哭　　
+</ab><lb
+ ed="J" n="0567c12"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0567c13"/></ab>
+<ab type='verse'>
+大用堂堂作者知情存毫忽便成私丈夫自有沖天<lb
+ ed="J" n="0567c14"/>志肯坐鋒鋩未露時　　
+</ab><lb
+ ed="J" n="0567c15"/><ab type='verse'>
+當機不薦眼如癡勍敵還須作者知正令只堪行一<lb
+ ed="J" n="0567c16"/>半電光石火未嫌遲　　
+</ab><lb
+ ed="J" n="0567c17"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0567c18"/></ab>
+<ab type='verse'>
+昨夜風雷鬥孟津桃花三級浪崢嶸幾多頭角成龍<lb
+ ed="J" n="0567c19"/>去蝦蟹依然努眼睛　　
+</ab></div><lb
+ ed="J" n="0567c20"/><div type='orig' level='2'><ab type='prose'>舉南泉因東西兩堂各爭貓兒泉遇之白眾曰道得<lb
+ ed="J" n="0567c21"/>即救取貓兒道不得即斬卻也眾無對泉便斬之趙<lb
+ ed="J" n="0567c22"/>州自外歸泉舉前語示之州乃脫艸履安頭上而出<lb
+ ed="J" n="0567c23"/>泉曰汝適來若在即救得貓兒也。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+南泉揮<lb
+ ed="J" n="0567c24"/>劍斬貓兒殺活唯憑作者知權柄一朝如在手分明<lb
+ ed="J" n="0567c25"/>看取令行時　　
+</ab><lb
+ ed="J" n="0567c26"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0567c27"/></ab>
+<ab type='verse'>
+趙州闇喜得便宜肯信遭人第二機頭戴草鞋雖跳<lb
+ ed="J" n="0567c28"/>出也知不是活貓兒　　
+</ab><lb
+ ed="J" n="0567c29"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0567c30"/></ab>
+<ab type='verse'>
+猙獰牙爪箇狸奴提起分明付與渠藉使兩堂俱道<pb ed="J" id="J28.B215.0568a" n="0568a"/><lb
+ ed="J" n="0568a01"/>得南泉還下一刀無　　
+</ab><lb
+ ed="J" n="0568a02"/><ab type='verse'>
+狼忙刀下解翻身古路無人帶月行絕塞自今傳盛<lb
+ ed="J" n="0568a03"/>化金門宣敕罷徵兵　　
+</ab></div><lb
+ ed="J" n="0568a04"/><div type='orig' level='2'><ab type='prose'>舉南泉與歸宗麻谷同去參禮南陽國師泉於路上<lb
+ ed="J" n="0568a05"/>畫一圓相道得即去宗便於圓相中坐谷作女人拜<lb
+ ed="J" n="0568a06"/>泉曰與麼則不去也宗曰是什麼心行泉乃相喚曰<lb
+ ed="J" n="0568a07"/>歸去來歸去來。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+埜店齋餘聊問津作家竿<lb
+ ed="J" n="0568a08"/>木鎮隨身相逢盡道休官去林下何曾見一人　　
+</ab><lb
+ ed="J" n="0568a09"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0568a10"/></ab>
+<ab type='verse'>
+總許三人見一班那知全豹隱深山忽朝露柱生機<lb
+ ed="J" n="0568a11"/>變把住燈籠不放還　　
+</ab><lb
+ ed="J" n="0568a12"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0568a13"/></ab>
+<ab type='verse'>
+撥動煙塵意已殊那堪萬里共區區國師不向南陽<lb
+ ed="J" n="0568a14"/>住草偃風行在半途　　
+</ab></div><lb
+ ed="J" n="0568a15"/><div type='orig' level='2'><ab type='prose'>舉襄州龐蘊居士初謁石頭乃問不與萬法為侶者<lb
+ ed="J" n="0568a16"/>是甚麼人頭以手掩其口士忽有省後參馬祖問曰<lb
+ ed="J" n="0568a17"/>不與萬法為侶者是甚麼人祖曰待汝一口吸盡西<lb
+ ed="J" n="0568a18"/>江水即向汝道士於言下頓領玄旨。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+一口<lb
+ ed="J" n="0568a19"/>吸盡西江馬駒踏殺老龐不用燒錢引鬼自然安帖<lb
+ ed="J" n="0568a20"/>家邦　　
+</ab><lb
+ ed="J" n="0568a21"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0568a22"/></ab>
+<ab type='verse'>
+春色到荒郊春風吹柳條木人能拍板石女解吹蕭<lb
+ ed="J" n="0568a23"/>玅曲無音韻清聲動泬寥西江吸不盡千古浪滔滔　　
+</ab><lb
+ ed="J" n="0568a24"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0568a25"/></ab>
+<ab type='verse'>
+劈箭飛流射碧湍一聲驚躍睡龍蟠如今莫向潭邊<lb
+ ed="J" n="0568a26"/>宿吹起冰花徹骨寒　　
+</ab></div><lb
+ ed="J" n="0568a27"/><div type='orig' level='2'><ab type='prose'>舉道吾因趙州來著豹皮褌把吉撩棒在山門前等<lb
+ ed="J" n="0568a28"/>候纔見州來便高聲唱喏而立州曰小心祗候著吾<lb
+ ed="J" n="0568a29"/>又唱喏一聲而去。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+得人一牛還人一馬虎<lb
+ ed="J" n="0568a30"/>驟龍驤誰敢定價三千里外見淆訛生銕一團無縫<pb ed="J" id="J28.B215.0568b" n="0568b"/><lb
+ ed="J" n="0568b01"/>罅　　
+</ab><lb
+ ed="J" n="0568b02"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0568b03"/></ab>
+<ab type='verse'>
+左眼半斤右眼八兩露柱懷胎燈籠撫掌　　
+</ab><lb
+ ed="J" n="0568b04"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0568b05"/></ab>
+<ab type='verse'>
+一出一入風雷迅疾海竭山枯鬼號神泣觀世音菩<lb
+ ed="J" n="0568b06"/>薩幾時得成佛　　
+</ab></div><lb
+ ed="J" n="0568b07"/><div type='orig' level='2'><ab type='prose'>舉秀州華亭船子德誠禪師因夾山來參師纔見便<lb
+ ed="J" n="0568b08"/>問大德住甚麼寺山曰寺即不住住即不似師曰不<lb
+ ed="J" n="0568b09"/>似是箇甚麼山曰不是目前法師曰甚處學得來山<lb
+ ed="J" n="0568b10"/>曰非耳目之所到師曰一句合頭語萬劫繫驢橛師<lb
+ ed="J" n="0568b11"/>又問垂絲千尺意在深潭離鉤三寸子何不道山擬<lb
+ ed="J" n="0568b12"/>開口被師一橈打落水中山纔上船師又曰道道山<lb
+ ed="J" n="0568b13"/>擬開口師便打山豁然大悟乃點頭三下師曰竿頭<lb
+ ed="J" n="0568b14"/>絲線從君弄不犯清波意自殊山遂問拋綸擲釣師<lb
+ ed="J" n="0568b15"/>意如何師曰絲懸淥水浮定有無之意山曰語帶玄<lb
+ ed="J" n="0568b16"/>而無路舌頭談而不談師曰釣盡江波金鱗始遇山<lb
+ ed="J" n="0568b17"/>乃掩耳師曰如是如是。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+渺渺煙波一葉舟<lb
+ ed="J" n="0568b18"/>竿頭絲線幾沉浮離鉤三寸如何道便有金鱗暗點<lb
+ ed="J" n="0568b19"/>頭　　
+</ab><lb
+ ed="J" n="0568b20"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0568b21"/></ab>
+<ab type='verse'>
+古岸垂綸不計秋盲龜跛鱉幾沉浮驀然負命隨鉤<lb
+ ed="J" n="0568b22"/>上踏破船舷當下休　　
+</ab><lb
+ ed="J" n="0568b23"/><ab type='verse'>
+浪走江湖已數春偶因漁父指迷津桃花玉洞無人<lb
+ ed="J" n="0568b24"/>跡空聽雲中笑語聲　　
+</ab><lb
+ ed="J" n="0568b25"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0568b26"/></ab>
+<ab type='verse'>
+獨泛蘭舟三十春煙波釣盡獲金鱗藏身無跡知何<lb
+ ed="J" n="0568b27"/>處明月蘆花愁殺人　　
+</ab></div><lb
+ ed="J" n="0568b28"/><div type='orig' level='2'><ab type='prose'>舉趙州上堂金佛不度爐木佛不度火泥佛不度水<lb
+ ed="J" n="0568b29"/>真佛內裏坐。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌<lb
+ ed="J" n="0568b30"/></ab>
+<ab type='verse'>
+金佛不度爐圓光爍太虛直下便薦得不用更躊躇<pb ed="J" id="J28.B215.0568c" n="0568c"/><lb
+ ed="J" n="0568c01"/>木佛不度火院主眉毛墮烈燄亙天紅舍利無一顆<lb
+ ed="J" n="0568c02"/>泥佛不度水衲僧難下觜擬議隔千山迢迢十萬里<lb
+ ed="J" n="0568c03"/>真佛內裏坐趙州休話墮覿體便承當抬眸即蹉過<lb
+ ed="J" n="0568c04"/>金佛木佛泥佛穿來擲過閻浮更說真佛在內無端<lb
+ ed="J" n="0568c05"/>已被塗糊　　
+</ab><lb
+ ed="J" n="0568c06"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0568c07"/></ab>
+<ab type='verse'>
+金佛不度爐春色滿皇都山靈白雲活地肥黃荳粗<lb
+ ed="J" n="0568c08"/>木佛不度火放下便安妥射得雪峰猴錯過玄沙虎<lb
+ ed="J" n="0568c09"/>泥佛不度水圓融無不備水洗面皮光啜茶濕卻嘴<lb
+ ed="J" n="0568c10"/>真佛內裏坐出言成錯誤掘地更深埋免教全體露<lb
+ ed="J" n="0568c11"/>金佛泥佛與木佛贏得人前揚醜拙更將真佛強分<lb
+ ed="J" n="0568c12"/>疏咄是甚門前繫驢橛　　
+</ab><lb
+ ed="J" n="0568c13"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0568c14"/></ab>
+<ab type='verse'>
+金佛不度爐鎔盡舊規模人天渾莫測珍重赤鬚胡<lb
+ ed="J" n="0568c15"/>木佛不度火赤燄亙今古犯著面門焦莫怪無回互<lb
+ ed="J" n="0568c16"/>泥佛不度水魚龍陣方起若非弄潮人打入洪波裏<lb
+ ed="J" n="0568c17"/>真佛內裏坐好與劈面唾自道解破家何曾有這箇<lb
+ ed="J" n="0568c18"/>金佛木佛泥佛同途卻不同轍更問真佛蹤繇且去<lb
+ ed="J" n="0568c19"/>明朝來決　　
+</ab></div><lb
+ ed="J" n="0568c20"/><div type='orig' level='2'><ab type='prose'>舉趙州因僧遊五臺問一婆子曰臺山路向甚麼處<lb
+ ed="J" n="0568c21"/>去婆曰驀直去僧便去婆曰好箇師僧又恁麼去後<lb
+ ed="J" n="0568c22"/>有僧舉似州州曰待我勘過明日州便去問臺山路<lb
+ ed="J" n="0568c23"/>向甚處去婆曰驀直去州便去婆曰好箇師僧又恁<lb
+ ed="J" n="0568c24"/>麼去州歸院謂僧曰臺山婆子為汝勘破了也。</ab></div><div type='commentary' level='2'><ab type='prose'>無著<lb
+ ed="J" n="0568c25"/>頌</ab>
+<ab type='verse'>
+踞坐臺山古路頭往來雲衲被戈矛趙州提起<lb
+ ed="J" n="0568c26"/>那羅箭穿過髑髏即便休　　
+</ab><lb
+ ed="J" n="0568c27"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0568c28"/></ab>
+<ab type='verse'>
+趙州眼珠放光婆子眉毛委地雖然各占封彊必竟<lb
+ ed="J" n="0568c29"/>不出這裏閒來冷坐峰頭看他一倒一起　　
+</ab><lb
+ ed="J" n="0568c30"/><ab type='prose'>靈瑞頌<pb ed="J" id="J28.B215.0569a" n="0569a"/><lb
+ ed="J" n="0569a01"/></ab>
+<ab type='verse'>
+驀直去驀直去紛紛錯認指頭路南北東西艸裏行<lb
+ ed="J" n="0569a02"/>返擲迴旋能幾箇趙州勘破少人知歸對春風自歌<lb
+ ed="J" n="0569a03"/>舞咄這埜狐　　
+</ab><lb
+ ed="J" n="0569a04"/><ab type='verse'>
+指出分明不奈何太平草木盡干戈將軍一簇三關<lb
+ ed="J" n="0569a05"/>透日月雙圓奏凱歌　　
+</ab></div><lb
+ ed="J" n="0569a06"/><div type='orig' level='2'><ab type='prose'>舉僧問趙州學人乍入叢林乞師指示州曰喫粥了<lb
+ ed="J" n="0569a07"/>也未曰喫粥了也州曰洗缽盂去其僧忽然省悟。</ab></div><div type='commentary' level='2'><ab type='prose'>無<lb
+ ed="J" n="0569a08"/>著頌</ab>
+<ab type='verse'>
+十方通透八面玲瓏駿駒顧影狐兔潛蹤　　
+</ab><lb
+ ed="J" n="0569a09"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0569a10"/></ab>
+<ab type='verse'>
+喫粥了也洗缽盂去日用現成何須特地　　
+</ab><lb
+ ed="J" n="0569a11"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0569a12"/></ab>
+<ab type='verse'>
+金不博金水不洗水師子咬人韓盧逐塊　　
+</ab></div><lb
+ ed="J" n="0569a13"/><div type='orig' level='2'><ab type='prose'>舉趙州因僧問狗子還有佛性也無州曰無。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌<lb
+ ed="J" n="0569a14"/></ab>
+<ab type='verse'>
+銕壁銀山一箭穿過潦倒趙州口能招禍　　
+</ab><lb
+ ed="J" n="0569a15"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0569a16"/></ab>
+<ab type='verse'>
+業識茫茫無可據張公喫酒李公醉倒街臥巷礙人<lb
+ ed="J" n="0569a17"/>行敢道畜生真惡賴　　
+</ab><lb
+ ed="J" n="0569a18"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0569a19"/></ab>
+<ab type='verse'>
+趙州狗子咬著便死若有佛性毒不至此　　
+</ab></div><lb
+ ed="J" n="0569a20"/><div type='orig' level='2'><ab type='prose'>舉趙州到一菴主處問有麼有麼主豎起拳頭州曰<lb
+ ed="J" n="0569a21"/>水淺不是泊船處便行又到一菴主處問有麼有麼<lb
+ ed="J" n="0569a22"/>主亦豎起拳頭州曰能縱能奪能殺能活便作禮。</ab></div><div type='commentary' level='2'><ab type='prose'>無<lb
+ ed="J" n="0569a23"/>著頌</ab>
+<ab type='verse'>
+水淺不是泊船處能縱能奪自有據一椎擊<lb
+ ed="J" n="0569a24"/>碎兩重關填溝塞壑無回互　　
+</ab><lb
+ ed="J" n="0569a25"/><ab type='prose'>妙湛頌<lb
+ ed="J" n="0569a26"/></ab>
+<ab type='verse'>
+覿面呈機法戰時無星秤子定錙銖滿腔熱血誰能<lb
+ ed="J" n="0569a27"/>識惟有清風明月知　　
+</ab><lb
+ ed="J" n="0569a28"/><ab type='verse'>
+聊施三拜別親疏尺水能興萬丈波裂破重關行活<lb
+ ed="J" n="0569a29"/>路任教四海動干戈　　
+</ab><lb
+ ed="J" n="0569a30"/><ab type='prose'>靈瑞頌<pb ed="J" id="J28.B215.0569b" n="0569b"/><lb
+ ed="J" n="0569b01"/></ab>
+<ab type='verse'>
+兩處曾安陷虎機收來放去絕毫釐不知離卻拳頭<lb
+ ed="J" n="0569b02"/>外誰是追風天馬駒　　
+</ab></div><lb
+ ed="J" n="0569b03"/><div type='orig' level='2'><ab type='prose'>舉臨濟見僧入門便喝。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+喑嗚叱吒萬人氣<lb
+ ed="J" n="0569b04"/>索佛法商量猶欠一著　　
+</ab><lb
+ ed="J" n="0569b05"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0569b06"/></ab>
+<ab type='verse'>
+出匣吹毛為不平神光閃爍自消魂髑髏穿過驚天<lb
+ ed="J" n="0569b07"/>地誰信大唐無個人　　
+</ab><lb
+ ed="J" n="0569b08"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0569b09"/></ab>
+<ab type='verse'>
+臨濟一喝是什屎橛無限青蠅咀嚼不徹　　
+</ab></div><lb
+ ed="J" n="0569b10"/><div type='orig' level='2'><ab type='prose'>舉臨濟示眾曰汝等諸人赤肉團上有一無位真人<lb
+ ed="J" n="0569b11"/>嘗向諸人面門出入未證據者看看時有僧出問如<lb
+ ed="J" n="0569b12"/>何是無位真人濟下禪床擒住云道道僧擬議濟拓<lb
+ ed="J" n="0569b13"/>開云無位真人是什麼乾矢橛。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+鑄印銷印<lb
+ ed="J" n="0569b14"/>全提正令要識綱宗不隔一瞬　　
+</ab><lb
+ ed="J" n="0569b15"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0569b16"/></ab>
+<ab type='verse'>
+無位真人嘗出入尿床鬼子無巴鼻休將芳草殢王<lb
+ ed="J" n="0569b17"/>孫春風眨眼花狼藉　　
+</ab><lb
+ ed="J" n="0569b18"/><ab type='verse'>
+無位真人驢腳佛手旋轉河山掀翻宇宙瞻之在前<lb
+ ed="J" n="0569b19"/>忽焉在後眨上眉毛漏逗漏逗　　
+</ab><lb
+ ed="J" n="0569b20"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0569b21"/></ab>
+<ab type='verse'>
+徑山門下彷彿臨濟堂中太錯要識無位真人不得<lb
+ ed="J" n="0569b22"/>倚門傍戶　　
+</ab></div><lb
+ ed="J" n="0569b23"/><div type='orig' level='2'><ab type='prose'>舉臨濟上堂次兩堂首座相見同時下喝僧問師還<lb
+ ed="J" n="0569b24"/>有賓主也無師曰賓主歷然師召眾曰要會臨濟賓<lb
+ ed="J" n="0569b25"/>主句問取堂中二首座。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+一喝當機賓主分<lb
+ ed="J" n="0569b26"/>莫將知見強疏親反身師子威獰甚眼裏無筋一世<lb
+ ed="J" n="0569b27"/>貧　　
+</ab><lb
+ ed="J" n="0569b28"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0569b29"/></ab>
+<ab type='verse'>
+兩口同一舌雨散長空闊仗劍斬龍蛇甕中走卻鱉　　
+</ab><lb
+ ed="J" n="0569b30"/><ab type='prose'>靈瑞頌<pb ed="J" id="J28.B215.0569c" n="0569c"/><lb
+ ed="J" n="0569c01"/></ab>
+<ab type='verse'>
+閃電光中霹靂飛爪牙猶未露全機盲龜跛鱉休驚<lb
+ ed="J" n="0569c02"/>怪擒得神龍便跨歸　　
+</ab></div><lb
+ ed="J" n="0569c03"/><div type='orig' level='2'><ab type='prose'>舉烏石因雪峰扣門石問誰峰云鳳凰兒石曰作麼<lb
+ ed="J" n="0569c04"/>生峰曰來啗老觀石開門搊住曰道道峰擬議石便<lb
+ ed="J" n="0569c05"/>托開掩卻門峰住後示眾云我當時若入得老觀門<lb
+ ed="J" n="0569c06"/>你這一隊噇酒糟漢向甚處摸索。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+養成羽<lb
+ ed="J" n="0569c07"/>翼鳳凰兒老觀門下偶差池冷地忽然思舊債卻來<lb
+ ed="J" n="0569c08"/>別處討便宜　　
+</ab><lb
+ ed="J" n="0569c09"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0569c10"/></ab>
+<ab type='verse'>
+我早猴白伊更猴黑沒興忽相逢前凶後不吉饒伊<lb
+ ed="J" n="0569c11"/>入得門未免親遭賊　　
+</ab><lb
+ ed="J" n="0569c12"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0569c13"/></ab>
+<ab type='verse'>
+鳳凰不是凡間鳥爭肯將身入網羅飛向九霄猶未<lb
+ ed="J" n="0569c14"/>住賺他老觀踏翻窠　　
+</ab><lb
+ ed="J" n="0569c15"/><ab type='verse'>
+古老家風絕點瑕打開石人驗龍蛇雪峰不得其門<lb
+ ed="J" n="0569c16"/>入往往途中亂撒沙　　
+</ab></div><lb
+ ed="J" n="0569c17"/><div type='orig' level='2'><ab type='prose'>舉德山凡見僧入門便棒。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+殺活並行醍醐<lb
+ ed="J" n="0569c18"/>毒藥是賞是罰一任卜度　　
+</ab><lb
+ ed="J" n="0569c19"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0569c20"/></ab>
+<ab type='verse'>
+一條白棒掀天大都來劃斷千差路驚起南山鱉鼻<lb
+ ed="J" n="0569c21"/>蛇不動纖毫擒佛祖　　
+</ab><lb
+ ed="J" n="0569c22"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0569c23"/></ab>
+<ab type='verse'>
+德山一棒佛法盡喪總似今日老胡絕望　　
+</ab></div><lb
+ ed="J" n="0569c24"/><div type='orig' level='2'><ab type='prose'>舉興化謂克賓維那曰汝不久為唱導之師賓曰不<lb
+ ed="J" n="0569c25"/>入這保社山曰會了不入不會了不入曰總不與麼<lb
+ ed="J" n="0569c26"/>山便打曰克賓維那法戰不勝罰錢五貫設饡飯一<lb
+ ed="J" n="0569c27"/>堂次日山自白槌克賓維那法戰不勝不得喫飯即<lb
+ ed="J" n="0569c28"/>便出院。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+興化打克賓一棒一條痕古人雖<lb
+ ed="J" n="0569c29"/>已往留得典刑存三十年後幾箇知恩　　
+</ab><lb
+ ed="J" n="0569c30"/><ab type='prose'>玅湛頌<pb ed="J" id="J28.B215.0570a" n="0570a"/><lb
+ ed="J" n="0570a01"/></ab>
+<ab type='verse'>
+興化風行艸偃克賓失錢遭譴打翻向上機輪石火<lb
+ ed="J" n="0570a02"/>電光難辨雙明雙暗全收是聖是凡齊遣一天風雨<lb
+ ed="J" n="0570a03"/>翛然紅蓼白蘋兩岸　　
+</ab><lb
+ ed="J" n="0570a04"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0570a05"/></ab>
+<ab type='verse'>
+興化堂前法戰新普天率土盡歸仁赤幡卓出清風<lb
+ ed="J" n="0570a06"/>面有理教渠別處伸　　
+</ab></div><lb
+ ed="J" n="0570a07"/><div type='orig' level='2'><ab type='prose'>舉睦州刺史陳操尚書見睦州一日與僚屬登樓次<lb
+ ed="J" n="0570a08"/>見數僧行來一官人曰來者總是行腳僧公曰不是<lb
+ ed="J" n="0570a09"/>曰焉知不是公曰待來勘過須臾僧至樓前公驀喚<lb
+ ed="J" n="0570a10"/>上座僧皆舉首公謂諸官曰不信道。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+奪鼓<lb
+ ed="J" n="0570a11"/>攙旗驗衲僧便將黑豆換雙睛昔年曾被雪霜苦看<lb
+ ed="J" n="0570a12"/>見楊花落也驚　　
+</ab><lb
+ ed="J" n="0570a13"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0570a14"/></ab>
+<ab type='verse'>
+一東一西隴頭水一聚一散天邊霞一來一往道上<lb
+ ed="J" n="0570a15"/>客一顛一倒池中麻　　
+</ab><lb
+ ed="J" n="0570a16"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0570a17"/></ab>
+<ab type='verse'>
+箭鋒有路看謀略藥忌知誰善變通喚得回頭無勘<lb
+ ed="J" n="0570a18"/>處秪應千古動悲風　　
+</ab></div><lb
+ ed="J" n="0570a19"/><div type='orig' level='2'><ab type='prose'>舉嵒頭值沙汰於鄂渚湖邊作渡子兩岸各掛一板<lb
+ ed="J" n="0570a20"/>有人過渡打板一下頭曰阿誰或曰要過那邊去頭<lb
+ ed="J" n="0570a21"/>乃舞棹迎之一日因一婆抱一孩兒來乃曰呈橈舞<lb
+ ed="J" n="0570a22"/>棹即不問且道婆手中兒甚處得來頭便打婆曰婆<lb
+ ed="J" n="0570a23"/>生七子六箇不知音秪這一箇也不消得便拋向水<lb
+ ed="J" n="0570a24"/>中。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+一葉扁舟泛渺茫呈橈舞棹別宮商山<lb
+ ed="J" n="0570a25"/>雲海月多拋卻贏得莊周蝶夢長　　
+</ab><lb
+ ed="J" n="0570a26"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0570a27"/></ab>
+<ab type='verse'>
+驀劄相逢正令行空餘一片老婆心而今拋入洪波<lb
+ ed="J" n="0570a28"/>裡疑殺滔滔天下人　　
+</ab><lb
+ ed="J" n="0570a29"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0570a30"/></ab>
+<ab type='verse'>
+劃破江流露月痕塵沙剎土冷沉沉夢回一棹漁歌<pb ed="J" id="J28.B215.0570b" n="0570b"/><lb
+ ed="J" n="0570b01"/>裏曲曲難安佛祖心　　
+</ab></div><lb
+ ed="J" n="0570b02"/><div type='orig' level='2'><ab type='prose'>舉雪峰上堂南山有一條鱉鼻蛇汝等諸人切須好<lb
+ ed="J" n="0570b03"/>看長慶出曰今日堂中大有人喪身失命雲門以拄<lb
+ ed="J" n="0570b04"/>杖攛向峰前作怕勢有僧舉似玄沙沙曰須是稜兄<lb
+ ed="J" n="0570b05"/>始得然雖如是我即不然曰和尚作麼生沙曰用南<lb
+ ed="J" n="0570b06"/>山作麼。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+象骨老人示徒擬議遭他一口韶<lb
+ ed="J" n="0570b07"/>陽突出驚人未免傷鋒犯手　　
+</ab><lb
+ ed="J" n="0570b08"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0570b09"/></ab>
+<ab type='verse'>
+南山鱉鼻多奇特描不成兮畫不得播弄腥風滿大<lb
+ ed="J" n="0570b10"/>唐敢問衲僧誰見骨　　
+</ab><lb
+ ed="J" n="0570b11"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0570b12"/></ab>
+<ab type='verse'>
+呼即易遣即難喪身失命太顢頇杖頭突出驚人膽<lb
+ ed="J" n="0570b13"/>拈卻南山仔細看煙冉冉草漫漫雪老雖然好手筭<lb
+ ed="J" n="0570b14"/>來也是無端　　
+</ab></div><lb
+ ed="J" n="0570b15"/><div type='orig' level='2'><ab type='prose'>舉雪峰問僧近離甚處曰覆船峰曰生死海未渡為<lb
+ ed="J" n="0570b16"/>甚麼覆卻船僧無語乃回舉似覆船船曰何不道渠<lb
+ ed="J" n="0570b17"/>無生死僧再至雪峰進此語峰曰此不是汝語曰是<lb
+ ed="J" n="0570b18"/>覆船恁麼道峰曰我有二十棒寄與覆船二十棒老<lb
+ ed="J" n="0570b19"/>僧自喫不干闍黎事。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+生死海中猶未渡傳<lb
+ ed="J" n="0570b20"/>言送語幾千程一棒打翻東海鯉迷人直下便狂惺　　
+</ab><lb
+ ed="J" n="0570b21"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0570b22"/></ab>
+<ab type='verse'>
+生死海未渡一語先分付渠熱返魂香伊撾塗毒鼓<lb
+ ed="J" n="0570b23"/>虎頭虎尾一時收甜者甜兮苦者苦　　
+</ab><lb
+ ed="J" n="0570b24"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0570b25"/></ab>
+<ab type='verse'>
+生死海未渡如何覆卻船截流伸一問滄溟立須乾<lb
+ ed="J" n="0570b26"/>二十烏藤風凜凜莫教有口借人傳　　
+</ab></div><lb
+ ed="J" n="0570b27"/><div type='orig' level='2'><ab type='prose'>舉撫州疏山匡仁禪師聞福州大溈安和尚示眾曰<lb
+ ed="J" n="0570b28"/>有句無句如藤倚樹師特入嶺到彼值溈泥壁便問<lb
+ ed="J" n="0570b29"/>承聞和尚道有句無句如藤倚樹是否曰是師曰忽<lb
+ ed="J" n="0570b30"/>然樹倒藤枯句歸何處溈放下泥盤呵呵大笑歸方<pb ed="J" id="J28.B215.0570c" n="0570c"/><lb
+ ed="J" n="0570c01"/>丈師曰某甲三千里賣卻布單特為此事而來何得<lb
+ ed="J" n="0570c02"/>相弄溈喚侍者取二百錢與這上座去遂囑曰向後<lb
+ ed="J" n="0570c03"/>有獨眼龍為子點破在後聞婺州明招謙和尚出世<lb
+ ed="J" n="0570c04"/>徑往禮拜招問甚處來師曰閩中來招曰曾到大溈<lb
+ ed="J" n="0570c05"/>否師曰到曰有何言句師舉前話招曰溈山可謂頭<lb
+ ed="J" n="0570c06"/>正尾正秪是不遇知音師亦不省復問樹倒藤枯句<lb
+ ed="J" n="0570c07"/>歸何處招曰卻使溈山笑轉新師於言下大悟乃曰<lb
+ ed="J" n="0570c08"/>溈山元來笑裡有刀遙禮悔過。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+有句無句如<lb
+ ed="J" n="0570c09"/>藤倚樹玄沙斫牌禾山打鼓君不見雪竇有語兮要<lb
+ ed="J" n="0570c10"/>與人天為師面前端的是虎　　
+</ab><lb
+ ed="J" n="0570c11"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0570c12"/></ab>
+<ab type='verse'>
+布單賣卻起奔波萬里區區路轉多笑裏有刀傷痛<lb
+ ed="J" n="0570c13"/>處至今天下有淆訛　　
+</ab><lb
+ ed="J" n="0570c14"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0570c15"/></ab>
+<ab type='verse'>
+虎頭虎尾一時收笑罷雄風遍九州此日干戈齊偃<lb
+ ed="J" n="0570c16"/>息不知何處覓封侯　　
+</ab></div><lb
+ ed="J" n="0570c17"/><div type='orig' level='2'><ab type='prose'>舉郢州芭蕉山慧清禪師上堂拈拄杖曰你有拄杖<lb
+ ed="J" n="0570c18"/>子我與你拄子你無拄杖子我奪卻你拄杖子靠拄<lb
+ ed="J" n="0570c19"/>杖子下座。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+芭蕉舉起拄杖驚動森羅萬象<lb
+ ed="J" n="0570c20"/>蝦蟆飛過梵天眉毛元在眼上　　
+</ab><lb
+ ed="J" n="0570c21"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0570c22"/></ab>
+<ab type='verse'>
+芭蕉舉起拄杖萬象森羅膽喪我若奪來拗折看你<lb
+ ed="J" n="0570c23"/>有甚倚傍　　
+</ab><lb
+ ed="J" n="0570c24"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0570c25"/></ab>
+<ab type='verse'>
+芭蕉舉起拄杖露出心肝五臟衲僧自合知時免教<lb
+ ed="J" n="0570c26"/>落在頭上　　
+</ab></div><lb
+ ed="J" n="0570c27"/><div type='orig' level='2'><ab type='prose'>舉保福因僧侍立問曰汝得恁麼麤心曰甚麼處是<lb
+ ed="J" n="0570c28"/>某甲麤心處福拈一塊土度與僧曰拋向門前著僧<lb
+ ed="J" n="0570c29"/>拋了卻來曰甚處是某甲麤心處福曰我見築著磕<lb
+ ed="J" n="0570c30"/>著所以道汝麤心。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+晨朝有粥齋時飯展缽<pb ed="J" id="J28.B215.0571a" n="0571a"/><lb
+ ed="J" n="0571a01"/>開單飽便休築著磕著如薦得不風流處也風流　　
+</ab><lb
+ ed="J" n="0571a02"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0571a03"/></ab>
+<ab type='verse'>
+喚汝即來遣即去觸著磕著難迴避驀然踏著笑呵<lb
+ ed="J" n="0571a04"/>呵腳下草鞋自家底　　
+</ab><lb
+ ed="J" n="0571a05"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0571a06"/></ab>
+<ab type='verse'>
+觸著磕著衲僧罔覺進一步兮搖乾蕩坤退一步兮<lb
+ ed="J" n="0571a07"/>填溝塞壑噁因思煉石補天何似鴻濛未鑿　　
+</ab></div><lb
+ ed="J" n="0571a08"/><div type='orig' level='2'><ab type='prose'>舉雲門示眾曰十五日已前不問汝十五日已後道<lb
+ ed="J" n="0571a09"/>將一句來眾無對自代曰日日是好日。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+日<lb
+ ed="J" n="0571a10"/>日是好日佛法世法盡周畢不須特地覓幽玄只管<lb
+ ed="J" n="0571a11"/>缽盂兩度濕　　
+</ab><lb
+ ed="J" n="0571a12"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0571a13"/></ab>
+<ab type='verse'>
+天晴日頭出雨落地下濕不用別思量管教能事畢　　
+</ab><lb
+ ed="J" n="0571a14"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0571a15"/></ab>
+<ab type='verse'>
+平不留險非取天上人間能幾幾撲碎驪龍明月珠<lb
+ ed="J" n="0571a16"/>敲出鳳皇五色髓止止君不見石頭有語兮承言須<lb
+ ed="J" n="0571a17"/>會宗勿自立規矩　　
+</ab></div><lb
+ ed="J" n="0571a18"/><div type='orig' level='2'><ab type='prose'>舉雲門到江州陳操尚書請齋纔見便問儒書中即<lb
+ ed="J" n="0571a19"/>不問三乘十二分教自有座主作麼生是衲僧行腳<lb
+ ed="J" n="0571a20"/>事門曰曾問幾人來曰即今問上座門曰即今且置<lb
+ ed="J" n="0571a21"/>作麼生是教意曰黃卷赤軸門曰這箇是文字語言<lb
+ ed="J" n="0571a22"/>作麼生是教意曰口欲談而辭喪心欲緣而慮忘門<lb
+ ed="J" n="0571a23"/>曰口欲談而辭喪為對有言心欲緣而慮忘為對妄<lb
+ ed="J" n="0571a24"/>想作麼生是教意書無語門曰見說尚書看法華經<lb
+ ed="J" n="0571a25"/>是否曰是門曰經中道一切治生產業皆與實相不<lb
+ ed="J" n="0571a26"/>相違背且道非非想天有幾人退位書無語門曰尚<lb
+ ed="J" n="0571a27"/>書且莫艸艸三經五論師僧拋卻特入叢林十年二<lb
+ ed="J" n="0571a28"/>十年尚不奈何尚書又爭得會書禮拜曰某甲罪過。</ab></div><lb
+ ed="J" n="0571a29"/><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+作家慣戰不齎糧奪鼓攙旗勢莫當虎驟<lb
+ ed="J" n="0571a30"/>龍驤誰辦的反思仁義勝剛強　　
+</ab><pb ed="J" id="J28.B215.0571b" n="0571b"/><lb
+ ed="J" n="0571b01"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0571b02"/></ab>
+<ab type='verse'>
+調將埋兵幾戰征尚書空使口頭爭三千劍客今何<lb
+ ed="J" n="0571b03"/>在嬴得悲風動地生　　
+</ab><lb
+ ed="J" n="0571b04"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0571b05"/></ab>
+<ab type='verse'>
+袖裏金鎚劈面來左旋右轉趁風雷韶陽因謗斯經<lb
+ ed="J" n="0571b06"/>故直得披毛戴角回　　
+</ab></div><lb
+ ed="J" n="0571b07"/><div type='orig' level='2'><ab type='prose'>舉法眼聞齋魚問僧還聞麼適來若聞如今不聞如<lb
+ ed="J" n="0571b08"/>今若聞適來不聞。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+耳聽如聾口說如啞法<lb
+ ed="J" n="0571b09"/>眼舌頭孰真孰假　　
+</ab><lb
+ ed="J" n="0571b10"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0571b11"/></ab>
+<ab type='verse'>
+空裏採花水中漉月罪兮彌天焉可分說　　
+</ab><lb
+ ed="J" n="0571b12"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0571b13"/></ab>
+<ab type='verse'>
+一片虛凝絕謂情阿誰曾說悟無生喚回聲色頭邊<lb
+ ed="J" n="0571b14"/>夢直出威音劫外行　　
+</ab></div><lb
+ ed="J" n="0571b15"/><div type='orig' level='2'><ab type='prose'>舉昔有古德一日不赴堂侍者請赴堂德曰我今日<lb
+ ed="J" n="0571b16"/>在庄上喫油餈飽者曰和尚不曾出入德曰汝去問<lb
+ ed="J" n="0571b17"/>庄主者方出門忽見庄主歸謝和尚到庄喫油餈。</ab></div><div type='commentary' level='2'><ab type='prose'>無<lb
+ ed="J" n="0571b18"/>著頌</ab>
+<ab type='verse'>
+喫了油餈不赴齋庄師特特謝師來千山萬<lb
+ ed="J" n="0571b19"/>水俱尋遍踏破芒鞋眼未開　　
+</ab><lb
+ ed="J" n="0571b20"/><ab type='prose'>玅湛頌<lb
+ ed="J" n="0571b21"/></ab>
+<ab type='verse'>
+謾說分身滿大千誰家灶裏火無煙平空脫賺庄家<lb
+ ed="J" n="0571b22"/>客露出機關值甚錢　　
+</ab><lb
+ ed="J" n="0571b23"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0571b24"/></ab>
+<ab type='verse'>
+吞卻三箇五箇吐卻七箇八箇秪要侍者流涎不顧<lb
+ ed="J" n="0571b25"/>庄師話墮　　
+</ab></div><lb
+ ed="J" n="0571b26"/><div type='orig' level='2'><ab type='prose'>舉大慧室中舉竹篦子問學者喚作竹篦則觸不喚<lb
+ ed="J" n="0571b27"/>作竹篦則背不得有語不得無語。</ab></div><div type='commentary' level='2'><ab type='prose'>無著頌</ab>
+<ab type='verse'>
+雲門舉<lb
+ ed="J" n="0571b28"/>起竹篦凡聖潛蹤匿跡金剛門外生瞋木馬廄中面<lb
+ ed="J" n="0571b29"/>赤　　
+</ab><lb
+ ed="J" n="0571b30"/><ab type='prose'>玅湛頌<pb ed="J" id="J28.B215.0571c" n="0571c"/><lb
+ ed="J" n="0571c01"/></ab>
+<ab type='verse'>
+雲門竹篦反增藥忌背兮觸兮成大火聚塞殺咽喉<lb
+ ed="J" n="0571c02"/>轉過身何須弄此閒家具　　
+</ab><lb
+ ed="J" n="0571c03"/><ab type='verse'>
+雲門竹篦去卻藥忌背觸俱非成大火聚塞殺咽喉<lb
+ ed="J" n="0571c04"/>何處出氣勘破歸來直甚屎屁　　
+</ab><lb
+ ed="J" n="0571c05"/><ab type='prose'>靈瑞頌<lb
+ ed="J" n="0571c06"/></ab>
+<ab type='verse'>
+霜華三尺逼人寒佛祖難將正眼看不犯鋒鋩能舉<lb
+ ed="J" n="0571c07"/>令神光銷爍髑髏寒　　
+</ab><lb
+ ed="J" n="0571c08"/><ab type='verse'>
+戒慎乎其所不睹恐懼乎其所不聞朕兆未形頭腦<lb
+ ed="J" n="0571c09"/>裂那堪舉起漫紛紜　　
+</ab></div></div>
+</body></text></TEI>

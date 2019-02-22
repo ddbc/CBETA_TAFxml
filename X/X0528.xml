@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">般若心經略疏</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X26</biblScope>
+                    <idno type="Taisho">X26n0528</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X26.0528.0733c" n="0733c"/><lb
+ ed="X" n="0733c01"/><lb
+ ed="X" n="0733c02"/><lb
+ ed="X" n="0733c03"/><lb
+ ed="R041" n="0656b01"/>
+<ab type='juan' subtype='open'>般若心經疏</ab><lb
+ ed="X" n="0733c04"/><lb
+ ed="X" n="0733c05"/><lb
+ ed="R041" n="0656b02"/><byline>妙樂門人　明曠　述</byline><lb
+ ed="X" n="0733c06"/><lb
+ ed="R041" n="0656b03"/><ab type='prose'>夫以佛法非遙心中即近真如非外棄身何求迷<lb
+ ed="X" n="0733c07"/><lb
+ ed="R041" n="0656b04"/>悟在我發心即到明闇非他信修急證不訪醫王<lb
+ ed="X" n="0733c08"/><lb
+ ed="R041" n="0656b05"/>之藥何時見大日之光今為念誦觀行之緣略註<lb
+ ed="X" n="0733c09"/><lb
+ ed="R041" n="0656b06"/>如右廣釋歷劫不窮。<lb
+ ed="X" n="0733c10"/><lb
+ ed="R041" n="0656b07"/></ab><div type='orig' level='2'><ab type='prose'>摩訶般若波羅蜜多心經者。</ab></div><lb
+ ed="X" n="0733c11"/><lb
+ ed="R041" n="0656b08"/><div type='commentary' level='2'><ab type='prose'>就此題略有二別梵漢語別故摩訶般若波羅蜜<lb
+ ed="X" n="0733c12"/><lb
+ ed="R041" n="0656b09"/>多者梵語也心經者漢語也若具存梵語者可言<lb
+ ed="X" n="0733c13"/><lb
+ ed="R041" n="0656b10"/>摩訶般若波羅蜜多質多蘇他覽若偏存漢語者<lb
+ ed="X" n="0733c14"/><lb
+ ed="R041" n="0656b11"/>可言大智慧到彼岸心經言摩訶者依大智度論<lb
+ ed="X" n="0733c15"/><lb
+ ed="R041" n="0656b12"/>有三種義謂大多勝也天台大師言大者空義多<lb
+ ed="X" n="0733c16"/><lb
+ ed="R041" n="0656b13"/>者假義勝者中義也即是圓融三諦真如實相之<lb
+ ed="X" n="0733c17"/><lb
+ ed="R041" n="0656b14"/>理是即所觀之理也言般若者能觀之智也即是<lb
+ ed="X" n="0733c18"/><lb
+ ed="R041" n="0656b15"/>三種般若也三種般若者實相般若觀照般若文<lb
+ ed="X" n="0733c19"/><lb
+ ed="R041" n="0656b16"/>字般若也實相般若者觀中道理之智也觀照般<lb
+ ed="X" n="0733c20"/><lb
+ ed="R041" n="0656b17"/>若者觀空諦理之智也言文字般若者觀假諦理<lb
+ ed="X" n="0733c21"/><lb
+ ed="R041" n="0656b18"/>之智也因時名三智也言三觀者謂空假中觀也<lb
+ ed="X" n="0733c22"/><lb
+ ed="R041" n="0657a01"/>言三智者一切智道種智一切種智也言波羅蜜<lb
+ ed="X" n="0733c23"/><lb
+ ed="R041" n="0657a02"/>多者到彼岸之義也煩惱與生死云此岸菩提與<lb
+ ed="X" n="0733c24"/><lb
+ ed="R041" n="0657a03"/>涅槃云彼岸也悟煩惱即菩提生死即涅槃名彼<pb ed="X" id="X26.0528.0734a" n="0734a"/><lb
+ ed="X" n="0734a01"/><lb
+ ed="R041" n="0657a04"/>岸迷菩提念煩惱迷涅槃念生死名此岸言心者<lb
+ ed="X" n="0734a02"/><lb
+ ed="R041" n="0657a05"/>要妙心也即上所談圓融三諦理也經者說上諸<lb
+ ed="X" n="0734a03"/><lb
+ ed="R041" n="0657a06"/>義教也訓法訓常也言法者軌則義也三世諸佛<lb
+ ed="X" n="0734a04"/><lb
+ ed="R041" n="0657a07"/>師依之成佛故言常者三世諸佛各至出世說而<lb
+ ed="X" n="0734a05"/><lb
+ ed="R041" n="0657a08"/>元常無易改故。</ab></div><lb
+ ed="X" n="0734a06"/><lb
+ ed="R041" n="0657a09"/><div type='orig' level='2'><ab type='prose'>觀自在菩薩者。</ab></div><lb
+ ed="X" n="0734a07"/><lb
+ ed="R041" n="0657a10"/><div type='commentary' level='2'><ab type='prose'>能觀之人舉觀自在菩薩一人以兼一切行人也。</ab></div><lb
+ ed="X" n="0734a08"/><lb
+ ed="R041" n="0657a11"/><div type='orig' level='2'><ab type='prose'>行深般若波羅蜜多時者。</ab></div><lb
+ ed="X" n="0734a09"/><lb
+ ed="R041" n="0657a12"/><div type='commentary' level='2'><ab type='prose'>明所觀之理也即上所明圓融三諦理也。</ab></div><lb
+ ed="X" n="0734a10"/><lb
+ ed="R041" n="0657a13"/><div type='orig' level='2'><ab type='prose'>照見五蘊皆空者。</ab></div><lb
+ ed="X" n="0734a11"/><lb
+ ed="R041" n="0657a14"/><div type='commentary' level='2'><ab type='prose'>明所觀之五蘊也。</ab></div><lb
+ ed="X" n="0734a12"/><lb
+ ed="R041" n="0657a15"/><div type='orig' level='2'><ab type='prose'>度一切苦厄者。</ab></div><lb
+ ed="X" n="0734a13"/><lb
+ ed="R041" n="0657a16"/><div type='commentary' level='2'><ab type='prose'>明觀五蘊皆空而免一切苦厄也苦者八苦也生<lb
+ ed="X" n="0734a14"/><lb
+ ed="R041" n="0657a17"/>苦老苦病苦死苦愛別離苦怨憎會苦求不得苦<lb
+ ed="X" n="0734a15"/><lb
+ ed="R041" n="0657a18"/>五盛陰苦也言四厄者一欲厄二有厄三見厄四<lb
+ ed="X" n="0734a16"/><lb
+ ed="R041" n="0657b01"/>無明流厄也。</ab></div><lb
+ ed="X" n="0734a17"/><lb
+ ed="R041" n="0657b02"/><div type='orig' level='2'><ab type='prose'>舍利子者。</ab></div><lb
+ ed="X" n="0734a18"/><lb
+ ed="R041" n="0657b03"/><div type='commentary' level='2'><ab type='prose'>舉對揚人也。</ab></div><lb
+ ed="X" n="0734a19"/><lb
+ ed="R041" n="0657b04"/><div type='orig' level='2'><ab type='prose'>色不異空空不異色色即是空空即是色者。</ab></div><lb
+ ed="X" n="0734a20"/><lb
+ ed="R041" n="0657b05"/><div type='commentary' level='2'><ab type='prose'>明圓融三諦理也色即是空非滅色為空也空即<lb
+ ed="X" n="0734a21"/><lb
+ ed="R041" n="0657b06"/>是色非離空是色也是云中諦理是云即空即假<lb
+ ed="X" n="0734a22"/><lb
+ ed="R041" n="0657b07"/>即中也。</ab></div><lb
+ ed="X" n="0734a23"/><lb
+ ed="R041" n="0657b08"/><div type='orig' level='2'><ab type='prose'>受想行識亦復如是者。</ab></div><lb
+ ed="X" n="0734a24"/><lb
+ ed="R041" n="0657b09"/><div type='commentary' level='2'><ab type='prose'>謂准上色蘊可知也此五蘊中初色蘊者身也餘<pb ed="X" id="X26.0528.0734b" n="0734b"/><lb
+ ed="X" n="0734b01"/><lb
+ ed="R041" n="0657b10"/>四蘊者心也言色者有形質礙法也言心者無形<lb
+ ed="X" n="0734b02"/><lb
+ ed="R041" n="0657b11"/>無礙法也云色而心色與心無二法何者心不在<lb
+ ed="X" n="0734b03"/><lb
+ ed="R041" n="0657b12"/>內外非中間遍一切處猶如虗空故。</ab></div><lb
+ ed="X" n="0734b04"/><lb
+ ed="R041" n="0657b13"/><div type='orig' level='2'><ab type='prose'>舍利子者。</ab></div><lb
+ ed="X" n="0734b05"/><lb
+ ed="R041" n="0657b14"/><div type='commentary' level='2'><ab type='prose'>上舉對揚人也。</ab></div><lb
+ ed="X" n="0734b06"/><lb
+ ed="R041" n="0657b15"/><div type='orig' level='2'><ab type='prose'>是諸法空相不生不滅不垢不淨不增不減者。</ab></div><lb
+ ed="X" n="0734b07"/><lb
+ ed="R041" n="0657b16"/><div type='commentary' level='2'><ab type='prose'>何者心性自性清淨空寂而具足百界三千諸法<lb
+ ed="X" n="0734b08"/><lb
+ ed="R041" n="0657b17"/>也自性空寂者空諦理也雖性寂而具足百界三<lb
+ ed="X" n="0734b09"/><lb
+ ed="R041" n="0657b18"/>千法者假諦理也不空不假不可思議者中諦理<lb
+ ed="X" n="0734b10"/><lb
+ ed="R041" n="0658a01"/>也此三諦理者在佛不淨存凡不垢在佛不生在<lb
+ ed="X" n="0734b11"/><lb
+ ed="R041" n="0658a02"/>凡不滅在佛不增在凡不減。</ab></div><lb
+ ed="X" n="0734b12"/><lb
+ ed="R041" n="0658a03"/><div type='orig' level='2'><ab type='prose'>是故空中無色無受想行識者。</ab></div><lb
+ ed="X" n="0734b13"/><lb
+ ed="R041" n="0658a04"/><div type='commentary' level='2'><ab type='prose'>結上五蘊義也已上五蘊為上根人所說也。</ab></div><lb
+ ed="X" n="0734b14"/><lb
+ ed="R041" n="0658a05"/><div type='orig' level='2'><ab type='prose'>無眼耳鼻舌身意者。</ab></div><lb
+ ed="X" n="0734b15"/><lb
+ ed="R041" n="0658a06"/><div type='commentary' level='2'><ab type='prose'>明無內六根也。</ab></div><lb
+ ed="X" n="0734b16"/><lb
+ ed="R041" n="0658a07"/><div type='orig' level='2'><ab type='prose'>無色聲香味觸法者。</ab></div><lb
+ ed="X" n="0734b17"/><lb
+ ed="R041" n="0658a08"/><div type='commentary' level='2'><ab type='prose'>明無外六塵也是空十二入也言入者涉入義也<lb
+ ed="X" n="0734b18"/><lb
+ ed="R041" n="0658a09"/>謂六根涉入六塵也眼所對色有三種也謂可愛<lb
+ ed="X" n="0734b19"/><lb
+ ed="R041" n="0658a10"/>色不可愛色平平色也耳所對聲亦有三種聲也<lb
+ ed="X" n="0734b20"/><lb
+ ed="R041" n="0658a11"/>謂可愛聲不可愛聲平平聲鼻所對香有三種香<lb
+ ed="X" n="0734b21"/><lb
+ ed="R041" n="0658a12"/>也謂可愛香不可愛香平平香也舌所對味亦有<lb
+ ed="X" n="0734b22"/><lb
+ ed="R041" n="0658a13"/>三種味也謂可愛味不可愛味平平味也身所對<lb
+ ed="X" n="0734b23"/><lb
+ ed="R041" n="0658a14"/>觸亦有三種觸謂可愛觸不可愛觸平平觸也意<lb
+ ed="X" n="0734b24"/><lb
+ ed="R041" n="0658a15"/>所對法亦有三種法謂可愛法不可愛法平平法<pb ed="X" id="X26.0528.0734c" n="0734c"/><lb
+ ed="X" n="0734c01"/><lb
+ ed="R041" n="0658a16"/>也眼可愛色具生死因生死果苦諦集諦同也然<lb
+ ed="X" n="0734c02"/><lb
+ ed="R041" n="0658a17"/>則眼根具六煩惱餘五根亦如是六根都合有三<lb
+ ed="X" n="0734c03"/><lb
+ ed="R041" n="0658a18"/>十六煩惱也約三世都合百八煩惱也約昨今明<lb
+ ed="X" n="0734c04"/><lb
+ ed="R041" n="0658b01"/>都合亦為百八亦約前念中念後念都合為百八<lb
+ ed="X" n="0734c05"/><lb
+ ed="R041" n="0658b02"/>也約惑心生如是百八煩惱約悟心亦具百八三<lb
+ ed="X" n="0734c06"/><lb
+ ed="R041" n="0658b03"/>昧何者觀根塵相對念心即空即假即中時具滅<lb
+ ed="X" n="0734c07"/><lb
+ ed="R041" n="0658b04"/>道諦也道諦涅槃因滅諦涅槃果也已上為中根<lb
+ ed="X" n="0734c08"/><lb
+ ed="R041" n="0658b05"/>說也。</ab></div><lb
+ ed="X" n="0734c09"/><lb
+ ed="R041" n="0658b06"/><div type='orig' level='2'><ab type='prose'>無眼界乃至無意識界者。</ab></div><lb
+ ed="X" n="0734c10"/><lb
+ ed="R041" n="0658b07"/><div type='commentary' level='2'><ab type='prose'>明無十八界略舉初後也若細言者眼界色界眼<lb
+ ed="X" n="0734c11"/><lb
+ ed="R041" n="0658b08"/>識界耳界聲界耳識界鼻界香界鼻識界舌界味<lb
+ ed="X" n="0734c12"/><lb
+ ed="R041" n="0658b09"/>界舌識界身界觸界身識界意界法界意識界也<lb
+ ed="X" n="0734c13"/><lb
+ ed="R041" n="0658b10"/>界者差別義也六根六境六識合為十八界也已<lb
+ ed="X" n="0734c14"/><lb
+ ed="R041" n="0658b11"/>上為下根說也。</ab></div><lb
+ ed="X" n="0734c15"/><lb
+ ed="R041" n="0658b12"/><div type='orig' level='2'><ab type='prose'>無無明亦無無明盡乃至無老死亦無老死盡者。</ab></div><lb
+ ed="X" n="0734c16"/><lb
+ ed="R041" n="0658b13"/><div type='commentary' level='2'><ab type='prose'>明順逆十二因緣也言順十二因緣者謂無明緣<lb
+ ed="X" n="0734c17"/><lb
+ ed="R041" n="0658b14"/>行行緣識識緣名色名色緣六入六入緣觸觸緣<lb
+ ed="X" n="0734c18"/><lb
+ ed="R041" n="0658b15"/>受受緣愛愛緣取取緣有有緣生生緣老死憂悲<lb
+ ed="X" n="0734c19"/><lb
+ ed="R041" n="0658b16"/>苦惱也逆十二因緣者無明滅則行滅行滅則識<lb
+ ed="X" n="0734c20"/><lb
+ ed="R041" n="0658b17"/>滅識滅則名色滅名色滅則六入滅六入滅則觸<lb
+ ed="X" n="0734c21"/><lb
+ ed="R041" n="0658b18"/>滅觸滅則受滅受滅則愛滅愛滅則取滅取滅則<lb
+ ed="X" n="0734c22"/><lb
+ ed="R041" n="0659a01"/>有滅有滅則生滅生滅則老死憂悲苦惱滅也約<lb
+ ed="X" n="0734c23"/><lb
+ ed="R041" n="0659a02"/>十二因緣有四種十二因緣謂生滅十二因緣無<lb
+ ed="X" n="0734c24"/><lb
+ ed="R041" n="0659a03"/>生滅十二因緣無量十二因緣無作十二因緣也<pb ed="X" id="X26.0528.0735a" n="0735a"/><lb
+ ed="X" n="0735a01"/><lb
+ ed="R041" n="0659a04"/>即四教所詮理也生滅十二因緣者三藏教為下<lb
+ ed="X" n="0735a02"/><lb
+ ed="R041" n="0659a05"/>根聲聞所詮也無生滅十二因緣者通教為中根<lb
+ ed="X" n="0735a03"/><lb
+ ed="R041" n="0659a06"/>緣覺所詮也無量十二因緣者別教為上根菩薩<lb
+ ed="X" n="0735a04"/><lb
+ ed="R041" n="0659a07"/>所詮也無作十二因緣者圓教為上上根菩薩所<lb
+ ed="X" n="0735a05"/><lb
+ ed="R041" n="0659a08"/>詮也是十二因分為三道謂無明愛取三支煩惱<lb
+ ed="X" n="0735a06"/><lb
+ ed="R041" n="0659a09"/>道行有二支業道也餘七支苦道也苦道轉成法<lb
+ ed="X" n="0735a07"/><lb
+ ed="R041" n="0659a10"/>身德煩惱道轉成般若德業道轉成解脫德也三<lb
+ ed="X" n="0735a08"/><lb
+ ed="R041" n="0659a11"/>道亦名三障即報障煩惱障業障也。</ab></div><lb
+ ed="X" n="0735a09"/><lb
+ ed="R041" n="0659a12"/><div type='orig' level='2'><ab type='prose'>無苦集滅道者。</ab></div><lb
+ ed="X" n="0735a10"/><lb
+ ed="R041" n="0659a13"/><div type='commentary' level='2'><ab type='prose'>明四諦也即明生死涅槃因果也苦諦生死果集<lb
+ ed="X" n="0735a11"/><lb
+ ed="R041" n="0659a14"/>諦生死因也滅諦涅槃果道諦涅槃因也問何故<lb
+ ed="X" n="0735a12"/><lb
+ ed="R041" n="0659a15"/>先舉果後舉因也答見果知因故約此四諦亦有<lb
+ ed="X" n="0735a13"/><lb
+ ed="R041" n="0659a16"/>四種謂生滅四諦無生滅四諦無量四諦無作四<lb
+ ed="X" n="0735a14"/><lb
+ ed="R041" n="0659a17"/>諦也亦是四教四諦也。</ab></div><lb
+ ed="X" n="0735a15"/><lb
+ ed="R041" n="0659a18"/><div type='orig' level='2'><ab type='prose'>無智者。</ab></div><lb
+ ed="X" n="0735a16"/><lb
+ ed="R041" n="0659b01"/><div type='commentary' level='2'><ab type='prose'>無菩提。</ab></div><lb
+ ed="X" n="0735a17"/><lb
+ ed="R041" n="0659b02"/><div type='orig' level='2'><ab type='prose'>亦無得者。</ab></div><lb
+ ed="X" n="0735a18"/><lb
+ ed="R041" n="0659b03"/><div type='commentary' level='2'><ab type='prose'>謂無涅槃也純一實相實相外無別法故。</ab></div><lb
+ ed="X" n="0735a19"/><lb
+ ed="R041" n="0659b04"/><div type='orig' level='2'><ab type='prose'>以無所得故菩提薩埵依般若波羅蜜多故心無罣<lb
+ ed="X" n="0735a20"/><lb
+ ed="R041" n="0659b05"/>礙者。</ab></div><lb
+ ed="X" n="0735a21"/><lb
+ ed="R041" n="0659b06"/><div type='commentary' level='2'><ab type='prose'>明一切菩薩依般若。</ab></div><lb
+ ed="X" n="0735a22"/><lb
+ ed="R041" n="0659b07"/><div type='orig' level='2'><ab type='prose'>無罣礙故無有恐怖遠離一切顛倒夢想究竟涅槃<lb
+ ed="X" n="0735a23"/><lb
+ ed="R041" n="0659b08"/>者。</ab></div><lb
+ ed="X" n="0735a24"/><lb
+ ed="R041" n="0659b09"/><div type='commentary' level='2'><ab type='prose'>明得益也。</ab></div><pb ed="X" id="X26.0528.0735b" n="0735b"/><lb
+ ed="X" n="0735b01"/><lb
+ ed="R041" n="0659b10"/><div type='orig' level='2'><ab type='prose'>三世諸佛依般若波羅蜜多故得阿耨多羅三藐三<lb
+ ed="X" n="0735b02"/><lb
+ ed="R041" n="0659b11"/>菩提故知般若波羅蜜多是大神呪是大明呪是無<lb
+ ed="X" n="0735b03"/><lb
+ ed="R041" n="0659b12"/>上呪是無等等呪者。</ab></div><lb
+ ed="X" n="0735b04"/><lb
+ ed="R041" n="0659b13"/><div type='commentary' level='2'><ab type='prose'>明四教理也是大神呪者三藏教生滅四諦理也<lb
+ ed="X" n="0735b05"/><lb
+ ed="R041" n="0659b14"/>是大明呪者是通教無生滅四諦理也是無上呪<lb
+ ed="X" n="0735b06"/><lb
+ ed="R041" n="0659b15"/>者別教無量四諦理也是無等等呪者是圓教無<lb
+ ed="X" n="0735b07"/><lb
+ ed="R041" n="0659b16"/>作四諦理也。</ab></div><lb
+ ed="X" n="0735b08"/><lb
+ ed="R041" n="0659b17"/><div type='orig' level='2'><ab type='prose'>能除一切苦真實不虗者。</ab></div><lb
+ ed="X" n="0735b09"/><lb
+ ed="R041" n="0659b18"/><div type='commentary' level='2'><ab type='prose'>明拔苦與樂之真實理也已上明顯露般若也。</ab></div><lb
+ ed="X" n="0735b10"/><lb
+ ed="R041" n="0660a01"/><div type='orig' level='2'><ab type='prose'>故說般若波羅蜜多呪即說呪曰。</ab>
+<ab type='dharani'>揭諦揭諦波羅揭<lb
+ ed="X" n="0735b11"/><lb
+ ed="R041" n="0660a02"/>諦波羅僧揭諦菩提娑婆訶</ab></div><lb
+ ed="X" n="0735b12"/><lb
+ ed="R041" n="0660a03"/><div type='commentary' level='2'><ab type='prose'>已上明祕密般若也揭諦揭諦者世也度也是明<lb
+ ed="X" n="0735b13"/><lb
+ ed="R041" n="0660a04"/>自度也波羅揭諦者明度他波羅僧揭諦者總明<lb
+ ed="X" n="0735b14"/><lb
+ ed="R041" n="0660a05"/>自度度他也菩提者明自他共到所處也娑婆訶<lb
+ ed="X" n="0735b15"/><lb
+ ed="R041" n="0660a06"/>者明究竟是中有事究竟理究竟也。</ab></div><lb
+ ed="X" n="0735b16"/><lb
+ ed="R041" n="0660a07"/><lb
+ ed="X" n="0735b17"/><lb
+ ed="R041" n="0660a08"/>
+<ab type='juan' subtype='close'>心經疏</ab><lb
+ ed="X" n="0735b18"/><lb
+ ed="X" n="0735b19"/><lb
+ ed="X" n="0735b20"/><lb
+ ed="X" n="0735b21"/><lb
+ ed="X" n="0735b22"/><lb
+ ed="X" n="0735b23"/><lb
+ ed="X" n="0735b24"/><pb ed="X" id="X26.0528.0735c" n="0735c"/><lb
+ ed="X" n="0735c01"/><lb
+ ed="X" n="0735c02"/><lb
+ ed="X" n="0735c03"/><lb
+ ed="X" n="0735c04"/><lb
+ ed="X" n="0735c05"/><div type='xu' level='2'><head>No. 528-A</head><lb
+ ed="X" n="0735c06"/><lb
+ ed="R041" n="0660a10"/><ab type='prose'>智者大師內證秘密外說顯教矣荊溪一行互相師<lb
+ ed="X" n="0735c07"/><lb
+ ed="R041" n="0660a11"/>資授受圓密焉于茲剡川入荊溪門出心經疏也照<lb
+ ed="X" n="0735c08"/><lb
+ ed="R041" n="0660a12"/>大日慧光明觀音深行辨顯辨密盡美盡善也山家<lb
+ ed="X" n="0735c09"/><lb
+ ed="R041" n="0660a13"/>建兩業之頃將來此疏以顯傳東寺弘三密之日引<lb
+ ed="X" n="0735c10"/><lb
+ ed="R041" n="0660a14"/>證斯序製秘鍵然則觀遮學生台東宗徒不可不依<lb
+ ed="X" n="0735c11"/><lb
+ ed="R041" n="0660a15"/>之不可不學焉仰願佛日增耀正法久住度四海萬<lb
+ ed="X" n="0735c12"/><lb
+ ed="R041" n="0660a16"/>民之苦厄到摩訶般若之樂岸云爾。<lb
+ ed="X" n="0735c13"/><lb
+ ed="R041" n="0660a17"/>維弘化二年夷則八日刻於勢州奄藝郡林村閑翁<lb
+ ed="X" n="0735c14"/><lb
+ ed="R041" n="0660a18"/>寺住僧義滿謹識</ab></div></div>
+</body></text></TEI>

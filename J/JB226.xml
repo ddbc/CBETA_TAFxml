@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">頌古鉤鉅</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">J29</biblScope>
+                    <idno type="Taisho">J29nB226</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="J" id="J29.B226.0175a" n="0175a"/><lb
+ ed="J" n="0175a01"/>
+<ab type='juan' subtype='open'>頌古鉤鉅</ab><lb
+ ed="J" n="0175a02"/><lb
+ ed="J" n="0175a03"/><byline>鄂州　龍光薀上達夫頌　參同薀宏寬夫著語</byline><lb
+ ed="J" n="0175a04"/><div type='orig' level='2'><ab type='prose'>世尊陞座。</ab></div><lb
+ ed="J" n="0175a05"/><div type='commentary' level='2'><ab type='prose'>陽春欲奏寶雲低拍版門椎且<lb
+ ed="J" n="0175a06"/>共攜此日華筵堪慶賞如何百萬醉如泥。</ab></div><lb
+ ed="J" n="0175a09"/><div type='orig' level='2'><ab type='prose'>達磨廓然。</ab></div><lb
+ ed="J" n="0175a11"/><div type='commentary' level='2'><ab type='prose'>聖諦之一光逾千日烜赫兮覿面無私平<lb
+ ed="J" n="0175a13"/>實兮何嘗祕密身同不繫之舟<lb
+ ed="J" n="0175a14"/>行藏了無礙窒江上清<lb
+ ed="J" n="0175a15"/>風蕭瑟砌下寒蛩啾唧雪深之夜真子來老胡一朝能<lb
+ ed="J" n="0175a17"/>事畢。</ab></div><lb
+ ed="J" n="0175a18"/><div type='orig' level='2'><ab type='prose'>東印請祖。</ab></div><lb
+ ed="J" n="0175a20"/><div type='commentary' level='2'><ab type='prose'>昨夜誰吹塞上笳庭華搖落趁飛霞<lb
+ ed="J" n="0175a21"/>瓣紅流出桃谿口<lb
+ ed="J" n="0175a22"/>香泥塗來燕子家回首庭前玉樹<lb
+ ed="J" n="0175a23"/>森然精瑩無瑕黔<lb
+ ed="J" n="0175a24"/>雷功用布三車四序推遷憑轉轂陽春有腳遍天涯。</ab></div><lb
+ ed="J" n="0175a27"/><div type='orig' level='2'><ab type='prose'>世尊指地。</ab></div><lb
+ ed="J" n="0175a29"/><div type='commentary' level='2'><ab type='prose'>合取瞿曇雌黃口袖卻帝釋白拈手<lb
+ ed="J" n="0175a30"/>赤須鬍也鬍須赤<pb ed="J" id="J29.B226.0175b" n="0175b"/><lb
+ ed="J" n="0175b01"/>者裏不勞重獻醜草屋八九間方宅十餘畝隨機展演白超方更嫌<lb
+ ed="J" n="0175b04"/>何處不豐厚。</ab></div><lb
+ ed="J" n="0175b05"/><div type='orig' level='2'><ab type='prose'>清源米價。</ab></div><lb
+ ed="J" n="0175b06"/><div type='commentary' level='2'><ab type='prose'>清源舌頭無骨須知大辨如<lb
+ ed="J" n="0175b07"/>訥若是滯句泥言敢<lb
+ ed="J" n="0175b08"/>保鑽他鬼窟。</ab></div><lb
+ ed="J" n="0175b09"/><div type='orig' level='2'><ab type='prose'>馬祖白黑。</ab></div><lb
+ ed="J" n="0175b12"/><div type='commentary' level='2'><ab type='prose'>尋常機柄剿絕凡聖折股知醫更問阿誰兩頭三面兮索鹽奉馬奔南走<lb
+ ed="J" n="0175b15"/>北兮自昧全機悲兮悲兮四天下誰向者僧痛處錐。</ab></div><lb
+ ed="J" n="0175b18"/><div type='orig' level='2'><ab type='prose'>藥山陞座。</ab></div><lb
+ ed="J" n="0175b21"/><div type='commentary' level='2'><ab type='prose'>紀律分明王者師何須更論武威<lb
+ ed="J" n="0175b22"/>時私門禍出亡廉謹打瓦鑽龜益可悲。</ab></div><lb
+ ed="J" n="0175b25"/><div type='orig' level='2'><ab type='prose'>百丈野狐。</ab></div><lb
+ ed="J" n="0175b28"/><div type='commentary' level='2'><ab type='prose'>士之生斧在口一字沈泥即<lb
+ ed="J" n="0175b29"/>過咎五百生為野狐身今朝賴遇雷霆手震<pb ed="J" id="J29.B226.0175c" n="0175c"/><lb
+ ed="J" n="0175c01"/>靈丸君知不其力也起死回生其功也永垂不朽青<lb
+ ed="J" n="0175c03"/>囊繼起吐舌兒迎風一掌何其赳。</ab></div><lb
+ ed="J" n="0175c05"/><div type='orig' level='2'><ab type='prose'>南泉斬貓。</ab></div><lb
+ ed="J" n="0175c07"/><div type='commentary' level='2'><ab type='prose'>天王車駕御玄黃烏合之流魂已亡<lb
+ ed="J" n="0175c08"/>滾滾髑髏彌四野滔<lb
+ ed="J" n="0175c09"/>滔鮮血濺沙場功超百代<lb
+ ed="J" n="0175c10"/>德並成湯皇皇露布兮以宣風化堂堂振笏兮燮理陰陽歌聖德祝無疆方將<lb
+ ed="J" n="0175c13"/>萬舞協宮商一任雷霆施號令滿天星斗煥文章。</ab></div><lb
+ ed="J" n="0175c15"/><div type='orig' level='2'><ab type='prose'>臺山婆子。</ab></div><lb
+ ed="J" n="0175c18"/><div type='commentary' level='2'><ab type='prose'>從來慣說老婆禪撞著老婆沒奈<lb
+ ed="J" n="0175c19"/>何誇經賣紀趙州老渾身輥入葛藤窩勘破了<lb
+ ed="J" n="0175c21"/>臭老婆將謂機關有幾多。</ab></div><lb
+ ed="J" n="0175c23"/><div type='orig' level='2'><ab type='prose'>雲門兩病。</ab></div><lb
+ ed="J" n="0175c26"/><div type='commentary' level='2'><ab type='prose'>幻化空身與法身眾生顛倒昧天<lb
+ ed="J" n="0175c27"/>真靈龜曳尾添狼藉皓月揚暉影汩淪谿口雲橫歸鳥<lb
+ ed="J" n="0175c29"/>遲千峰雪盡嘯猿頻一聲樵唱夕陽裏君向瀟湘我向<pb ed="J" id="J29.B226.0176a" n="0176a"/><lb
+ ed="J" n="0176a01"/>秦。</ab></div><lb
+ ed="J" n="0176a02"/><div type='orig' level='2'><ab type='prose'>地藏種田。</ab></div><lb
+ ed="J" n="0176a04"/><div type='commentary' level='2'><ab type='prose'>南方遍歷幾多秋草鞋蹋破價難<lb
+ ed="J" n="0176a05"/>酬浩浩商量鑽鬼窟種田博飯亦常流爭<lb
+ ed="J" n="0176a07"/>似龍光沒意思飢來喫飯倦來睡昨宵明月破窗來照我榻前一片地。</ab></div><lb
+ ed="J" n="0176a10"/><div type='orig' level='2'><ab type='prose'>臨濟瞎驢。</ab></div><lb
+ ed="J" n="0176a12"/><div type='commentary' level='2'><ab type='prose'>末後重徵能不能依依顧命鄭州僧正法眼向瞎驢滅敵國<lb
+ ed="J" n="0176a14"/>家私徹底傾扶搖羊角長夜光<lb
+ ed="J" n="0176a15"/>鐙破千年暗奮六月鵬三<lb
+ ed="J" n="0176a16"/>段不同休卜度密移一步看飛騰。</ab></div><lb
+ ed="J" n="0176a18"/><div type='orig' level='2'><ab type='prose'>廓侍過茶。</ab></div><lb
+ ed="J" n="0176a20"/><div type='commentary' level='2'><ab type='prose'>為甚德山兩度休賺人原不在多謀全明全暗剎那頃虎尾虎頭一並<lb
+ ed="J" n="0176a22"/>收堂屋裏販揚州頭長<lb
+ ed="J" n="0176a23"/>三尺兮突出難辨卷簾放燕兮別是<lb
+ ed="J" n="0176a24"/>風流。</ab></div><lb
+ ed="J" n="0176a25"/><div type='orig' level='2'><ab type='prose'>仰山插鍬。</ab></div><lb
+ ed="J" n="0176a27"/><div type='commentary' level='2'><ab type='prose'>問彼田中多少人插鍬叉手陳端的<lb
+ ed="J" n="0176a28"/>別資一路向南山金印酬他汗馬勣。</ab></div><lb
+ ed="J" n="0176a30"/><div type='orig' level='2'><ab type='prose'>麻谷振錫。</ab></div><lb
+ ed="J" n="0176b03"/><div type='commentary' level='2'><ab type='prose'>繞床三匝卓然而立全是全非<lb
+ ed="J" n="0176b04"/>同出同入󱐝兮蘆管吹灰<lb
+ ed="J" n="0176b05"/>󱐞兮稱錘捏汁二諦分<lb
+ ed="J" n="0176b06"/>明示正偏六度圓成非品級而今年久事多乖且看鮫人覿<lb
+ ed="J" n="0176b08"/>面泣。</ab></div><lb
+ ed="J" n="0176b09"/><div type='orig' level='2'><ab type='prose'>法眼毫釐。</ab></div><lb
+ ed="J" n="0176b11"/><div type='commentary' level='2'><ab type='prose'>全體問時全體酬更嫌何處不風流<lb
+ ed="J" n="0176b12"/>饒君把定乾坤眼也是平常第二頭。</ab></div><lb
+ ed="J" n="0176b14"/><div type='orig' level='2'><ab type='prose'>趙州狗子。</ab></div><lb
+ ed="J" n="0176b17"/><div type='commentary' level='2'><ab type='prose'>解語由無舌一任縱橫道雪擁屠蘇寒鴉噪金篆香消錦鯉沈<lb
+ ed="J" n="0176b19"/>咿唔時聽鶤雞報雲水流<lb
+ ed="J" n="0176b20"/>容相告圓明雙眼休顛倒稱在星兮不在盤更須藥病一齊埽<lb
+ ed="J" n="0176b22"/>。</ab></div><lb
+ ed="J" n="0176b23"/><div type='orig' level='2'><ab type='prose'>雲門須彌。</ab></div><lb
+ ed="J" n="0176b24"/><div type='commentary' level='2'><ab type='prose'>說食從來不飽人者僧何事假惺惺<lb
+ ed="J" n="0176b25"/>一回飲水一回噎大抵陳年病未寧韶陽老惜伶俜<lb
+ ed="J" n="0176b27"/>度將折箸攪滄溟須彌<lb
+ ed="J" n="0176b28"/>山也玲瓏甚年來占斷萬峰青<lb
+ ed="J" n="0176b29"/>。</ab></div><lb
+ ed="J" n="0176b30"/><div type='orig' level='2'><ab type='prose'>地藏親切。</ab></div><lb
+ ed="J" n="0176c02"/><div type='commentary' level='2'><ab type='prose'>遨遊江北與江南蹋破芒鞋好罷參<lb
+ ed="J" n="0176c03"/>就裏金鎚輕擲下諸方公案不須談豪吟竹徑隨<lb
+ ed="J" n="0176c05"/>消受倦臥松陰任放憨殘月曉風楊柳岸前<lb
+ ed="J" n="0176c07"/>三三與後三三。</ab></div><lb
+ ed="J" n="0176c08"/><div type='orig' level='2'><ab type='prose'>雲巖埽地。</ab></div><lb
+ ed="J" n="0176c10"/><div type='commentary' level='2'><ab type='prose'>伯氏吹壎仲氏篪太平有象樂怡怡<lb
+ ed="J" n="0176c11"/>偏中歸正明功用不忝藥山克肖兒。</ab></div><lb
+ ed="J" n="0176c13"/><div type='orig' level='2'><ab type='prose'>巖頭拜喝。</ab></div><lb
+ ed="J" n="0176c15"/><div type='commentary' level='2'><ab type='prose'>枉山老何徑庭<lb
+ ed="J" n="0176c16"/>按下千丈雲頭度出一聲清磬大唐天子臨朝枯木老僧出定橫看成嶺側成峰七又宜<lb
+ ed="J" n="0176c19"/>兮八又稱。</ab></div><lb
+ ed="J" n="0176c20"/><div type='orig' level='2'><ab type='prose'>魯祖面壁。</ab></div><lb
+ ed="J" n="0176c22"/><div type='commentary' level='2'><ab type='prose'>虎以蛇申豹以蝟止三緘其口兮超然一線旁通兮已<lb
+ ed="J" n="0176c24"/>矣龜喪命由殼靈樹<lb
+ ed="J" n="0176c25"/>保年以材鄙園林風度兮臺榭飄香長空雲淨兮寒潭清泚。</ab></div><lb
+ ed="J" n="0176c28"/><div type='orig' level='2'><ab type='prose'>雪峰看蛇。</ab></div><pb ed="J" id="J29.B226.0177a" n="0177a"/><lb
+ ed="J" n="0177a01"/><div type='commentary' level='2'><ab type='prose'>柔能克剛智能服勇直<lb
+ ed="J" n="0177a02"/>下翻身全大用雲門手裏返魂香死蛇不妨活處弄活處<lb
+ ed="J" n="0177a04"/>弄田雞不跳草不動誰羨彼六<lb
+ ed="J" n="0177a05"/>出六奇不尚渠七擒七縱今朝且舉問諸人幾箇惺惺<lb
+ ed="J" n="0177a07"/>識癢痛。</ab></div><lb
+ ed="J" n="0177a08"/><div type='orig' level='2'><ab type='prose'>鹽官犀扇。</ab></div><lb
+ ed="J" n="0177a11"/><div type='commentary' level='2'><ab type='prose'>犀牛兒索一箇成群爭向窗<lb
+ ed="J" n="0177a12"/>櫺過繩頭在我謾咆哮且去磨房輪日磨。</ab></div><lb
+ ed="J" n="0177a14"/><div type='orig' level='2'><ab type='prose'>仰山指雪。</ab></div><lb
+ ed="J" n="0177a16"/><div type='commentary' level='2'><ab type='prose'>過得此色無可不可今日冷似昨日事妥何如意妥門前大道絕人蹤屋裏揚州看<lb
+ ed="J" n="0177a19"/>婀娜報君知休顛簸擊著便休何勞瑣瑣東風解凍<lb
+ ed="J" n="0177a21"/>兮斗柄指寅孟春猶寒兮烏龜<lb
+ ed="J" n="0177a22"/>向火。</ab></div><lb
+ ed="J" n="0177a23"/><div type='orig' level='2'><ab type='prose'>法眼指簾。</ab></div><lb
+ ed="J" n="0177a24"/><div type='commentary' level='2'><ab type='prose'>龍蛇相半凡聖一宦樞<lb
+ ed="J" n="0177a25"/>機未動作者前知鳧鶴也<lb
+ ed="J" n="0177a26"/>寧嫌長短鵬鳩也各自委蛇無柰虛空釘橛袖中掇出須彌巨靈神力任撼摩醯正眼從<lb
+ ed="J" n="0177a29"/>窺五九嚴威銷盡春風又上寒枝。</ab></div><pb ed="J" id="J29.B226.0177b" n="0177b"/><lb
+ ed="J" n="0177b01"/><div type='orig' level='2'><ab type='prose'>護國三懡。</ab></div><lb
+ ed="J" n="0177b03"/><div type='commentary' level='2'><ab type='prose'>一顆無文如斗印年來洗刷甚精奇今朝不惜輕拈出印破<lb
+ ed="J" n="0177b05"/>虛空水與泥。</ab></div><lb
+ ed="J" n="0177b06"/><div type='orig' level='2'><ab type='prose'>風穴鐵牛。</ab></div><lb
+ ed="J" n="0177b11"/><div type='commentary' level='2'><ab type='prose'>郢州衙內禍出私門<lb
+ ed="J" n="0177b12"/>三令既申神鬼泣萬騎倒戈日月<lb
+ ed="J" n="0177b13"/>昏風馳雨驟電走雷奔抑揚縱奪朕跡不存塞北安南收拾下軍威嚴肅看旂<lb
+ ed="J" n="0177b16"/>旛。</ab></div><lb
+ ed="J" n="0177b17"/><div type='orig' level='2'><ab type='prose'>大惰劫火。</ab></div><lb
+ ed="J" n="0177b19"/><div type='commentary' level='2'><ab type='prose'>壞不壞脫體無依絕蔕芥就<lb
+ ed="J" n="0177b20"/>路歸家猶涉程泥他言句愈澎湃<lb
+ ed="J" n="0177b21"/>會不會直下分明休自昧一片白雲谷口橫數聲清磬是<lb
+ ed="J" n="0177b23"/>非外。</ab></div><lb
+ ed="J" n="0177b24"/><div type='orig' level='2'><ab type='prose'>雲門露柱。</ab></div><lb
+ ed="J" n="0177b25"/><div type='commentary' level='2'><ab type='prose'>四棱著地言詮理備自<lb
+ ed="J" n="0177b26"/>賣身也舍己從人乘悲願也轉功就<lb
+ ed="J" n="0177b27"/>位玉產荊山兮絕瑕絕玼名題鴈塔兮出類拔萃古<lb
+ ed="J" n="0177b29"/>佛露柱兩無依相逢狹路難回避。</ab></div><lb
+ ed="J" n="0177b30"/><div type='orig' level='2'><ab type='prose'>仰山心境。</ab></div><lb
+ ed="J" n="0177c04"/><div type='commentary' level='2'><ab type='prose'>驪龍玩珠塞鴈呼奴<lb
+ ed="J" n="0177c05"/>神情落落步武于于分野色於<lb
+ ed="J" n="0177c06"/>橋畔折瓊玉於天衢鉗口結舌兮胸中礙膺訶佛罵<lb
+ ed="J" n="0177c08"/>祖兮肘下靈符。</ab></div><lb
+ ed="J" n="0177c09"/><div type='orig' level='2'><ab type='prose'>三聖金鱗。</ab></div><lb
+ ed="J" n="0177c11"/><div type='commentary' level='2'><ab type='prose'>透網金鱗洋洋自得一<lb
+ ed="J" n="0177c12"/>任遨遊溟海北菰米菠蔆信意餐何須仰面求人食蝦蟆臠<lb
+ ed="J" n="0177c14"/>驀口塞破浪翻身在頃刻燒尾霹靂相繼來龍門萬仞<lb
+ ed="J" n="0177c16"/>看輕陟甘願從此遍乾坤三<lb
+ ed="J" n="0177c17"/>草二木咸被德。</ab></div><lb
+ ed="J" n="0177c18"/><div type='orig' level='2'><ab type='prose'>風穴一塵。</ab></div><lb
+ ed="J" n="0177c19"/><div type='commentary' level='2'><ab type='prose'>道人念不挂滄桑說甚興盛與喪亡<lb
+ ed="J" n="0177c20"/>春筍蕨芽隨分足<lb
+ ed="J" n="0177c21"/>緩揮白羽聽松篁。</ab></div><lb
+ ed="J" n="0177c22"/><div type='orig' level='2'><ab type='prose'>洛浦伏膺。</ab></div><lb
+ ed="J" n="0177c25"/><div type='commentary' level='2'><ab type='prose'>聖箭一隻出濟北寒威凜凜褫人魂<lb
+ ed="J" n="0177c26"/>無端誤入伏龍計撲落機前<lb
+ ed="J" n="0177c27"/>驚杜門將錯就錯兮深入虎穴以楔出楔兮碎卻重藩離鉤言離鉤<lb
+ ed="J" n="0177c29"/>言模子脫來是幾番當日<lb
+ ed="J" n="0177c30"/>華亭猶此日瓣香盂水可酬恩。</ab></div><lb
+ ed="J" n="0178a02"/><div type='orig' level='2'><ab type='prose'>馬師不安。</ab></div><lb
+ ed="J" n="0178a03"/><div type='commentary' level='2'><ab type='prose'>宏才詡詡暉今曜古有象兮以明鑑無私<lb
+ ed="J" n="0178a05"/>兮惟德輔君不見師子吼時<lb
+ ed="J" n="0178a06"/>百獸潛聖人作而萬物睹。</ab></div><lb
+ ed="J" n="0178a07"/><div type='orig' level='2'><ab type='prose'>溈山業識。</ab></div><lb
+ ed="J" n="0178a10"/><div type='commentary' level='2'><ab type='prose'>高縣秦鏡驗當人業識茫茫無本據百丈雲菴是一流三臺舞罷拖鐵鋸。</ab></div><lb
+ ed="J" n="0178a13"/><div type='orig' level='2'><ab type='prose'>臨濟真人。</ab></div><lb
+ ed="J" n="0178a15"/><div type='commentary' level='2'><ab type='prose'>至理皇皇大還熠熠轉凡<lb
+ ed="J" n="0178a16"/>成聖兮片言起死回生兮一粒<lb
+ ed="J" n="0178a17"/>靈山曾放眉間光百萬人天覷不及<lb
+ ed="J" n="0178a18"/>累彼逸多問曼殊<lb
+ ed="J" n="0178a19"/>良久云者一句卻不向汝道。</ab></div><lb
+ ed="J" n="0178a20"/><div type='orig' level='2'><ab type='prose'>趙州洗缽。</ab></div><lb
+ ed="J" n="0178a21"/><div type='commentary' level='2'><ab type='prose'>蕭蕭清磬出疏林解帶峰頭獨箇吟<lb
+ ed="J" n="0178a22"/>底事不勞重注腳缽<lb
+ ed="J" n="0178a23"/>盂裝柄冷雲侵。</ab></div><lb
+ ed="J" n="0178a24"/><div type='orig' level='2'><ab type='prose'>雲門白黑。</ab></div><lb
+ ed="J" n="0178a26"/><div type='commentary' level='2'><ab type='prose'>霜天皓月靜夜鐘聲照<lb
+ ed="J" n="0178a27"/>寒潭而光光相映傳空谷而隱<lb
+ ed="J" n="0178a28"/>隱鯨鳴鼓曾皙之寶瑟吹<lb
+ ed="J" n="0178a29"/>子晉之鸞笙發奇音也蕭郎退步<lb
+ ed="J" n="0178a30"/>撝妙指也伯牙吞聲。</ab></div><pb ed="J" id="J29.B226.0178b" n="0178b"/><lb
+ ed="J" n="0178b01"/><div type='orig' level='2'><ab type='prose'>洛浦臨終。</ab></div><lb
+ ed="J" n="0178b07"/><div type='commentary' level='2'><ab type='prose'>峨嵋山月半輪秋影入平羌江水流<lb
+ ed="J" n="0178b08"/>夜發清谿向三峽<lb
+ ed="J" n="0178b09"/>思君不見下渝州。</ab></div><lb
+ ed="J" n="0178b10"/><div type='orig' level='2'><ab type='prose'>南陽淨缾。</ab></div><lb
+ ed="J" n="0178b12"/><div type='commentary' level='2'><ab type='prose'>脫略形骸不假安排清風兩袖明月一齋凝眸千<lb
+ ed="J" n="0178b14"/>里回首天涯郎<lb
+ ed="J" n="0178b15"/>當孟八直下活薶。</ab></div><lb
+ ed="J" n="0178b17"/><div type='orig' level='2'><ab type='prose'>羅山起滅。</ab></div><lb
+ ed="J" n="0178b18"/><div type='commentary' level='2'><ab type='prose'>咄者草裏漢還要棒喫麼脫下貼肉衫子<lb
+ ed="J" n="0178b20"/>躍過透頂洪波呵須知談<lb
+ ed="J" n="0178b21"/>笑定干戈。</ab></div><lb
+ ed="J" n="0178b22"/><div type='orig' level='2'><ab type='prose'>興陽妙翅。</ab></div><lb
+ ed="J" n="0178b25"/><div type='commentary' level='2'><ab type='prose'>總群僚持萬姓號詔明威擊鼓宣令何勞中轂一推<lb
+ ed="J" n="0178b27"/>豈用阿衡三聘神武不殺兮自然德服遐荒兆民是賴兮端的一人有慶。</ab></div><pb ed="J" id="J29.B226.0178c" n="0178c"/><lb
+ ed="J" n="0178c01"/><div type='orig' level='2'><ab type='prose'>覺經四節。</ab></div><lb
+ ed="J" n="0178c03"/><div type='commentary' level='2'><ab type='prose'>哆哆啝啝忉忉怛怛冰刃徐<lb
+ ed="J" n="0178c04"/>行屠門大嚼聖凡情盡了無<lb
+ ed="J" n="0178c05"/>依渾沌之竅不勞鑿<lb
+ ed="J" n="0178c06"/>不勞鑿大用臨機看殺活。</ab></div><lb
+ ed="J" n="0178c07"/><div type='orig' level='2'><ab type='prose'>德山學畢。</ab></div><lb
+ ed="J" n="0178c09"/><div type='commentary' level='2'><ab type='prose'>休著甚來由傷鋒犯<lb
+ ed="J" n="0178c10"/>手以玉博鋀永夜迢<lb
+ ed="J" n="0178c11"/>迢龍睡穩徒勞犗餌在鉤頭。</ab></div><lb
+ ed="J" n="0178c13"/><div type='orig' level='2'><ab type='prose'>趙州柏樹。</ab></div><lb
+ ed="J" n="0178c14"/><div type='commentary' level='2'><ab type='prose'>根盤大地榦聳雲霄枝橫虯蠼葉舞蕭韶天人之<lb
+ ed="J" n="0178c16"/>幟釋梵之標潑天潮潑天潮協和萬竅韻刁調殷殷聲撼<lb
+ ed="J" n="0178c18"/>兮半天風雨團團月映兮遍地星杓。</ab></div><lb
+ ed="J" n="0178c20"/><div type='orig' level='2'><ab type='prose'>摩經不二。</ab></div><lb
+ ed="J" n="0178c23"/><div type='commentary' level='2'><ab type='prose'>成群作隊不相應問疾毗邪舌浪騰義海蹋翻須到底見山行<lb
+ ed="J" n="0178c25"/>盡更還登微雨怯塵兮千峰積翠<lb
+ ed="J" n="0178c26"/>春風送暖兮萬壑消冰<lb
+ ed="J" n="0178c27"/>默然也自繩繩而今滿地看葛藤。</ab></div><lb
+ ed="J" n="0178c29"/><div type='orig' level='2'><ab type='prose'>洞山供真。</ab></div><pb ed="J" id="J29.B226.0179a" n="0179a"/><lb
+ ed="J" n="0179a01"/><div type='commentary' level='2'><ab type='prose'>爭解恁麼道換卻頭兮轉卻腦爭肯恁麼道苔荒三徑迷<lb
+ ed="J" n="0179a03"/>秋草機梭綿密示箴規兼帶縱橫明白皁月圓當戶兮<lb
+ ed="J" n="0179a05"/>夜色朣朣日出連山兮晴空杲杲。</ab></div><lb
+ ed="J" n="0179a07"/><div type='orig' level='2'><ab type='prose'>雪峰甚麼。</ab></div><lb
+ ed="J" n="0179a12"/><div type='commentary' level='2'><ab type='prose'>同生同死供狀一紙力挽<lb
+ ed="J" n="0179a13"/>九牛之車幟豎三軍之壘下重圍也象犀卻勁敵也虎兕末後句只者是三十山藤<lb
+ ed="J" n="0179a16"/>合到你。</ab></div><lb
+ ed="J" n="0179a17"/><div type='orig' level='2'><ab type='prose'>法眼船陸。</ab></div><lb
+ ed="J" n="0179a19"/><div type='commentary' level='2'><ab type='prose'>不勞彈指樓閣門開歷四時而成歲得酒趣持空桮萬頃煙波無限意笛聲柳岸<lb
+ ed="J" n="0179a22"/>韻悠哉。</ab></div><lb
+ ed="J" n="0179a23"/><div type='orig' level='2'><ab type='prose'>曹山法身。</ab></div><lb
+ ed="J" n="0179a25"/><div type='commentary' level='2'><ab type='prose'>空可空月可月寥<lb
+ ed="J" n="0179a26"/>廓無方明察毫髮一曲無絃琴清音非指發而今買石得雲饒縹緲青山看<lb
+ ed="J" n="0179a29"/>出沒。</ab></div><lb
+ ed="J" n="0179a30"/><div type='orig' level='2'><ab type='prose'>黃檗噇糟。</ab></div><lb
+ ed="J" n="0179b02"/><div type='commentary' level='2'><ab type='prose'>老胡不到支那國那箇男兒不丈夫<lb
+ ed="J" n="0179b03"/>及至少林分皮髓<lb
+ ed="J" n="0179b04"/>而令大地盡支吾柯亭之竹嶧山之梧一樹之果一<lb
+ ed="J" n="0179b06"/>本之蘆黃檗老何其迂平空<lb
+ ed="J" n="0179b07"/>裝柄向缽盂。</ab></div><lb
+ ed="J" n="0179b08"/><div type='orig' level='2'><ab type='prose'>雲巖大悲。</ab></div><lb
+ ed="J" n="0179b11"/><div type='commentary' level='2'><ab type='prose'>背手枕子七穿八穴其誰之子<lb
+ ed="J" n="0179b12"/>象帝先馮虛御風如電掣遍身是又說通身舉似人前笑殺<lb
+ ed="J" n="0179b14"/>人但使塵中能作主須知化外自來賓。</ab></div><lb
+ ed="J" n="0179b16"/><div type='orig' level='2'><ab type='prose'>雪峰飯頭。</ab></div><lb
+ ed="J" n="0179b20"/><div type='commentary' level='2'><ab type='prose'>末後句眾生苦成群作隊花斑<lb
+ ed="J" n="0179b21"/>虎一朝失足陷阱中五五依然二十五。</ab></div><lb
+ ed="J" n="0179b23"/><div type='orig' level='2'><ab type='prose'>密師白兔。</ab></div><lb
+ ed="J" n="0179b25"/><div type='commentary' level='2'><ab type='prose'>中流失船一壺千金梭蟄陶宅豈慕蹄涔<lb
+ ed="J" n="0179b27"/>止宿草菴惟客作天街獨步每長吟<lb
+ ed="J" n="0179b28"/>他鄉零碎連宵雨滴破<lb
+ ed="J" n="0179b29"/>思歸客子心。</ab></div><lb
+ ed="J" n="0179b30"/><div type='orig' level='2'><ab type='prose'>嚴陽一物。</ab></div><lb
+ ed="J" n="0179c02"/><div type='commentary' level='2'><ab type='prose'>下坡不走更一推直使鐵山當下摧<lb
+ ed="J" n="0179c03"/>百尺竿頭進步客<lb
+ ed="J" n="0179c04"/>肯從爐畔撥寒灰。</ab></div><lb
+ ed="J" n="0179c05"/><div type='orig' level='2'><ab type='prose'>剛經輕賤。</ab></div><lb
+ ed="J" n="0179c07"/><div type='commentary' level='2'><ab type='prose'>膠柱調絃情生智隔你<lb
+ ed="J" n="0179c08"/>若無心我便休鴟吻咬著佛<lb
+ ed="J" n="0179c09"/>殿脊報君知休蹙額乞兒拾得輪王冊。</ab></div><lb
+ ed="J" n="0179c12"/><div type='orig' level='2'><ab type='prose'>青林死蛇。</ab></div><lb
+ ed="J" n="0179c15"/><div type='commentary' level='2'><ab type='prose'>掇出膠盆子眼目休定動全體在其中猶自相<lb
+ ed="J" n="0179c17"/>鼓弄竹實收來好攃揚者僧恐是丹山鳳。</ab></div><lb
+ ed="J" n="0179c19"/><div type='orig' level='2'><ab type='prose'>鐵磨牸牛。</ab></div><lb
+ ed="J" n="0179c21"/><div type='commentary' level='2'><ab type='prose'>收放雙雙看作家秋江孤鶩共落霞<lb
+ ed="J" n="0179c22"/>座中一望情無限霜葉紅於二月花。</ab></div><lb
+ ed="J" n="0179c25"/><div type='orig' level='2'><ab type='prose'>乾峰一畫。</ab></div><lb
+ ed="J" n="0179c28"/><div type='commentary' level='2'><ab type='prose'>乾峰嚼飯喂嬰兒雲門把手更與<lb
+ ed="J" n="0179c29"/>杖人言郭象注莊子誰知莊子注郭象。</ab></div><pb ed="J" id="J29.B226.0180a" n="0180a"/><lb
+ ed="J" n="0180a01"/><div type='orig' level='2'><ab type='prose'>米胡悟不。</ab></div><lb
+ ed="J" n="0180a03"/><div type='commentary' level='2'><ab type='prose'>悟即不無落二頭仰山機用越常流遙天碧落雙行篆夾岸蘆<lb
+ ed="J" n="0180a05"/>花一色秋戰國謀臣多固寵羲皇上士賤封侯松風水<lb
+ ed="J" n="0180a07"/>月隨清儉洗耳溪邊謾飲牛。</ab></div><lb
+ ed="J" n="0180a09"/><div type='orig' level='2'><ab type='prose'>趙州問死。</ab></div><lb
+ ed="J" n="0180a10"/><div type='commentary' level='2'><ab type='prose'>不許夜行投曉到落他岐路涉言詮<lb
+ ed="J" n="0180a11"/>晝長人靜無餘事高枕<lb
+ ed="J" n="0180a12"/>北窗一覺眠。</ab></div><lb
+ ed="J" n="0180a13"/><div type='orig' level='2'><ab type='prose'>子昭承嗣。</ab></div><lb
+ ed="J" n="0180a17"/><div type='commentary' level='2'><ab type='prose'>欺敵者亡料事者敗道<lb
+ ed="J" n="0180a18"/>殊半滿機分纖介看<lb
+ ed="J" n="0180a19"/>他酬對亦輕便及徵姓字全不解按過也重懲戒返景深林<lb
+ ed="J" n="0180a21"/>明月來天然一幅輞川畫。</ab></div><lb
+ ed="J" n="0180a22"/><div type='orig' level='2'><ab type='prose'>首山新婦。</ab></div><lb
+ ed="J" n="0180a23"/><div type='commentary' level='2'><ab type='prose'>虢國夫人承主恩平明騎馬入宮門<lb
+ ed="J" n="0180a24"/>卻嫌脂粉汙顏色澹<lb
+ ed="J" n="0180a25"/>埽蛾眉朝至尊。</ab></div><lb
+ ed="J" n="0180a26"/><div type='orig' level='2'><ab type='prose'>九峰頭尾。</ab></div><lb
+ ed="J" n="0180a29"/><div type='commentary' level='2'><ab type='prose'>青鐙黃卷三墳五典<lb
+ ed="J" n="0180a30"/>功成百鍊之鑪妙出千錢之選鳥跡龜文龍章鳳篆<lb
+ ed="J" n="0180b02"/>了無向背隨機展演烜<lb
+ ed="J" n="0180b03"/>赫陽鳥蜀犬哮桂輪孤朗吳牛喘廓落太空兮無欠無餘光逾牟<lb
+ ed="J" n="0180b05"/>尼兮隨隱隨顯。</ab></div><lb
+ ed="J" n="0180b06"/><div type='orig' level='2'><ab type='prose'>嚴經智慧。</ab></div><lb
+ ed="J" n="0180b07"/><div type='commentary' level='2'><ab type='prose'>乾一兌二離三震四西伯<lb
+ ed="J" n="0180b08"/>加之象明仲尼以之辭繫理極言詮<lb
+ ed="J" n="0180b09"/>道隆德替變化升沈看微細<lb
+ ed="J" n="0180b10"/>薦取庖羲未畫時眾<lb
+ ed="J" n="0180b11"/>生眉目何乖戾。</ab></div><lb
+ ed="J" n="0180b12"/><div type='orig' level='2'><ab type='prose'>夾山撝劍。</ab></div><lb
+ ed="J" n="0180b15"/><div type='commentary' level='2'><ab type='prose'>手提一劍靜風煙佇看勳名勒燕然<lb
+ ed="J" n="0180b16"/>野老不知黃屋貴<lb
+ ed="J" n="0180b17"/>日高三丈正安眠。</ab></div><lb
+ ed="J" n="0180b18"/><div type='orig' level='2'><ab type='prose'>南泉白羖。</ab></div><lb
+ ed="J" n="0180b19"/><div type='commentary' level='2'><ab type='prose'>巍巍堂堂剿剿絕絕<lb
+ ed="J" n="0180b20"/>心佛眾生三無差別<lb
+ ed="J" n="0180b21"/>灼然道著頭角生平空摹擬驢腰折春風括底沒遮闌深院<lb
+ ed="J" n="0180b23"/>梨花飛玉屑。</ab></div><lb
+ ed="J" n="0180b24"/><div type='orig' level='2'><ab type='prose'>進山問性。</ab></div><lb
+ ed="J" n="0180b27"/><div type='commentary' level='2'><ab type='prose'>大道寥廓鳶飛魚躍舀<lb
+ ed="J" n="0180b28"/>水還他長柄杓借箸畫成定亂謀圯橋祕授黃公學<lb
+ ed="J" n="0180b30"/>學黃公赤幡之下起清風。</ab></div><lb
+ ed="J" n="0180c02"/><div type='orig' level='2'><ab type='prose'>翠嵒眉毛。</ab></div><lb
+ ed="J" n="0180c04"/><div type='commentary' level='2'><ab type='prose'>一夏來空悵悵撮將<lb
+ ed="J" n="0180c05"/>沙土當場颺只消一字也撥轉風頭何勞再三也加尖矢上普<lb
+ ed="J" n="0180c07"/>州人休輕放者裏來與一坑葬筠袁虔吉也頭上插筆嘉眉果<lb
+ ed="J" n="0180c09"/>閬也懷中有狀。</ab></div><lb
+ ed="J" n="0180c10"/><div type='orig' level='2'><ab type='prose'>中邑獼猴。</ab></div><lb
+ ed="J" n="0180c13"/><div type='commentary' level='2'><ab type='prose'>佛性獼猴應六窗說來譬喻我心降<lb
+ ed="J" n="0180c14"/>轉身一拶重相見浩<lb
+ ed="J" n="0180c15"/>浩虛聲落朗江。</ab></div><lb
+ ed="J" n="0180c16"/><div type='orig' level='2'><ab type='prose'>曹山孝滿。</ab></div><lb
+ ed="J" n="0180c18"/><div type='commentary' level='2'><ab type='prose'>曾經百戰克樓蘭醉後琵琶馬上彈<lb
+ ed="J" n="0180c19"/>回首月中人弄影劍<lb
+ ed="J" n="0180c20"/>搖隴上電光寒烽火息內外安<lb
+ ed="J" n="0180c21"/>功宴麒麟帶笑看十載邊臣今已老拌教歸去步跚跚。</ab></div><lb
+ ed="J" n="0180c23"/><div type='orig' level='2'><ab type='prose'>法眼質名。</ab></div><lb
+ ed="J" n="0180c25"/><div type='commentary' level='2'><ab type='prose'>拂蹤跡泯消息旋乾轉坤<lb
+ ed="J" n="0180c26"/>騎聲駕色持造化以權<lb
+ ed="J" n="0180c27"/>衡捉象兔以全力碎聖凡<lb
+ ed="J" n="0180c28"/>之窠巢埽天人之軌則千山寒<lb
+ ed="J" n="0180c29"/>色也疑住普賢一亙晴空也笑<lb
+ ed="J" n="0180c30"/>殺彌勒。</ab></div><pb ed="J" id="J29.B226.0181a" n="0181a"/><lb
+ ed="J" n="0181a01"/><div type='orig' level='2'><ab type='prose'>瑞嵒常理。</ab></div><lb
+ ed="J" n="0181a03"/><div type='commentary' level='2'><ab type='prose'>渾沌不鑿聖賢不覺大工之下無完璞心境雙忘<lb
+ ed="J" n="0181a05"/>猶滯忘更須忘盡方卓犖。</ab></div><lb
+ ed="J" n="0181a07"/><div type='orig' level='2'><ab type='prose'>首山三句。</ab></div><lb
+ ed="J" n="0181a09"/><div type='commentary' level='2'><ab type='prose'>月落三更穿市過輕搖玉珮聲<lb
+ ed="J" n="0181a10"/>瑣瑣者僧舞袖何郎當夜<lb
+ ed="J" n="0181a11"/>半歸來炭裏坐照乘珠奉一顆擬心向右卻居左光分五色兮<lb
+ ed="J" n="0181a13"/>捏目生花燭破幽暗兮無可不可。</ab></div><lb
+ ed="J" n="0181a15"/><div type='orig' level='2'><ab type='prose'>仰山隨分。</ab></div><lb
+ ed="J" n="0181a18"/><div type='commentary' level='2'><ab type='prose'>繡出威音面貌描成至聖儀容<lb
+ ed="J" n="0181a19"/>剎剎塵塵無間熾然獨露真宗霜天皓月後夜疏鐘影見千江兮光光相映<lb
+ ed="J" n="0181a22"/>音傳萬壑兮哳哳猶龍。</ab></div><lb
+ ed="J" n="0181a24"/><div type='orig' level='2'><ab type='prose'>雲門胡餅。</ab></div><lb
+ ed="J" n="0181a25"/><div type='commentary' level='2'><ab type='prose'>超佛超祖是何談大藏雄文詮不及看取雲門用白拈<lb
+ ed="J" n="0181a27"/>一枚胡餅三升汁。</ab></div><lb
+ ed="J" n="0181a28"/><div type='orig' level='2'><ab type='prose'>長沙進步。</ab></div><pb ed="J" id="J29.B226.0181b" n="0181b"/><lb
+ ed="J" n="0181b01"/><div type='commentary' level='2'><ab type='prose'>祖翁田地肯干休看取南泉棬下牛蹋遍洪荒無寸土春回<lb
+ ed="J" n="0181b03"/>大地任優游王化裏<lb
+ ed="J" n="0181b04"/>五湖悠朗山澧水自風流。</ab></div><lb
+ ed="J" n="0181b06"/><div type='orig' level='2'><ab type='prose'>龍牙過版。</ab></div><lb
+ ed="J" n="0181b10"/><div type='commentary' level='2'><ab type='prose'>西來祖意豈寥寥禪版蒲團興自饒不是當人強解事柰何<lb
+ ed="J" n="0181b12"/>兩手赤條條按過險崖句<lb
+ ed="J" n="0181b13"/>蹋翻江海潮大都種草天然別豈是臨機句不超今日聖<lb
+ ed="J" n="0181b15"/>朝頒赦詔當年死款自供招。</ab></div><lb
+ ed="J" n="0181b17"/><div type='orig' level='2'><ab type='prose'>玄沙到縣。</ab></div><lb
+ ed="J" n="0181b19"/><div type='commentary' level='2'><ab type='prose'>問既有則荅亦奇特等閒拈出自新鮮如來藏裏親<lb
+ ed="J" n="0181b21"/>收得玄沙老慣作賊我早侯白伊更侯黑沒交涉人醉玉樓𩕐挑也馬嘶金<lb
+ ed="J" n="0181b24"/>勒。</ab></div><lb
+ ed="J" n="0181b25"/><div type='orig' level='2'><ab type='prose'>雲門聲色。</ab></div><lb
+ ed="J" n="0181b26"/><div type='commentary' level='2'><ab type='prose'>八角磨盤空裏磨一回羅又一回羅<lb
+ ed="J" n="0181b27"/>做得饃饃天來大雙手遞與趙哥哥。</ab></div><lb
+ ed="J" n="0181b29"/><div type='orig' level='2'><ab type='prose'>道吾看病。</ab></div><pb ed="J" id="J29.B226.0181c" n="0181c"/><lb
+ ed="J" n="0181c01"/><div type='commentary' level='2'><ab type='prose'>青囊焚卻久矣口訣授與神農震靈丸不勞在握養生<lb
+ ed="J" n="0181c03"/>篇豈挂於胸不象而沖<lb
+ ed="J" n="0181c04"/>不受而容坐卻真妄之本埽<lb
+ ed="J" n="0181c05"/>除魔外之蹤誰管他七花八裂更說甚百匝千重。</ab></div><lb
+ ed="J" n="0181c07"/><div type='orig' level='2'><ab type='prose'>俱胝一指。</ab></div><lb
+ ed="J" n="0181c08"/><div type='commentary' level='2'><ab type='prose'>天龍模子脫來底逢人問著即拈出陳年爛月用不窮天上天下<lb
+ ed="J" n="0181c10"/>無倫匹初三十一中九下<lb
+ ed="J" n="0181c11"/>七三十年來如一日<lb
+ ed="J" n="0181c12"/>諸方各自有生涯鹽鐵判官撝<lb
+ ed="J" n="0181c13"/>不聿驀召大眾<lb
+ ed="J" n="0181c14"/>眾舉首乃云失。</ab></div><lb
+ ed="J" n="0181c15"/><div type='orig' level='2'><ab type='prose'>國師塔樣。</ab></div><lb
+ ed="J" n="0181c18"/><div type='commentary' level='2'><ab type='prose'>無縫塔影斒斒勢凌<lb
+ ed="J" n="0181c19"/>霄漢絕躋攀谿山揜映光一帶雲水含暉月幾灣珠回玉轉霧擁雲環青蒼間錯許多般<lb
+ ed="J" n="0181c22"/>三拜得髓兮達磨眼碧<lb
+ ed="J" n="0181c23"/>夜半傳衣兮弘忍毛斑。</ab></div><lb
+ ed="J" n="0181c24"/><div type='orig' level='2'><ab type='prose'>臨濟大悟。</ab></div><lb
+ ed="J" n="0181c27"/><div type='commentary' level='2'><ab type='prose'>等閒掉得虎驟龍奔黃<lb
+ ed="J" n="0181c28"/>檗之子百丈之孫三<lb
+ ed="J" n="0181c29"/>遭痛棒蒿枝拂一掌闌腮赤日昏建洪業起家門滹<pb ed="J" id="J29.B226.0182a" n="0182a"/><lb
+ ed="J" n="0182a01"/>沱號令遍乾坤。</ab></div><lb
+ ed="J" n="0182a02"/><div type='orig' level='2'><ab type='prose'>疏山有無。</ab></div><lb
+ ed="J" n="0182a06"/><div type='commentary' level='2'><ab type='prose'>四千里路到溈山一笑還同風<lb
+ ed="J" n="0182a07"/>過樹不是明昭雪此冤至今有口堪誰訴。</ab></div><lb
+ ed="J" n="0182a10"/><div type='orig' level='2'><ab type='prose'>嚴經不見。</ab></div><lb
+ ed="J" n="0182a12"/><div type='commentary' level='2'><ab type='prose'>大哉世尊演斯妙旨白雲淨太空清光涵萬里默默各相契皇皇不相委揭開化外一枝春鷓鴣啼在<lb
+ ed="J" n="0182a16"/>深花裏。</ab></div><lb
+ ed="J" n="0182a17"/><div type='orig' level='2'><ab type='prose'>洞山無草。</ab></div><lb
+ ed="J" n="0182a19"/><div type='commentary' level='2'><ab type='prose'>江南客腳頭腳底自明白庭上高縣秦帝鏡<lb
+ ed="J" n="0182a21"/>杖頭斜挂志公尺懌懌隨<lb
+ ed="J" n="0182a22"/>朝夕斸盡南山百畝筇終日閒閒釣秋碧。</ab></div><lb
+ ed="J" n="0182a25"/><div type='orig' level='2'><ab type='prose'>仰山謹白。</ab></div><lb
+ ed="J" n="0182a27"/><div type='commentary' level='2'><ab type='prose'>至誠之道可前知睹史陀天事正宜一椎撲碎如來藏片<lb
+ ed="J" n="0182a29"/>語舒開列聖眉是瞿曇種是師子兒善能哮吼善露<pb ed="J" id="J29.B226.0182b" n="0182b"/><lb
+ ed="J" n="0182b01"/>風規五天德播由今日四海衲<lb
+ ed="J" n="0182b02"/>僧雷電馳離四句絕百非<lb
+ ed="J" n="0182b03"/>千聖何能措一辭。</ab></div><lb
+ ed="J" n="0182b04"/><div type='orig' level='2'><ab type='prose'>南泉牡丹。</ab></div><lb
+ ed="J" n="0182b06"/><div type='commentary' level='2'><ab type='prose'>寂寥游泳古初先凡聖悠悠本自<lb
+ ed="J" n="0182b07"/>然僧肇不因添注腳大<lb
+ ed="J" n="0182b08"/>夫重舉問南泉姚黃魏紫輕盈<lb
+ ed="J" n="0182b09"/>甚朱檻碧楹氣質妍一<lb
+ ed="J" n="0182b10"/>手指來成滯鈍只今四海浪流傳。</ab></div><lb
+ ed="J" n="0182b12"/><div type='orig' level='2'><ab type='prose'>雲門一寶。</ab></div><lb
+ ed="J" n="0182b14"/><div type='commentary' level='2'><ab type='prose'>臨刑猶祈七日假拈出葛藤絆<lb
+ ed="J" n="0182b15"/>殺人寶祕形山光逾日頭迎白刃贅離身鐙籠佛殿合泥<lb
+ ed="J" n="0182b17"/>水門上鐙籠轉涉津<lb
+ ed="J" n="0182b18"/>昨夜一方清漢月天明依舊下西鄰。</ab></div><lb
+ ed="J" n="0182b20"/><div type='orig' level='2'><ab type='prose'>魯祖不會。</ab></div><lb
+ ed="J" n="0182b22"/><div type='commentary' level='2'><ab type='prose'>補袞才調羹手木李<lb
+ ed="J" n="0182b23"/>投報瓊玖欲識歲寒<lb
+ ed="J" n="0182b24"/>心看取始終口金<lb
+ ed="J" n="0182b25"/>剛鑽之愈堅輪椎摧之不朽內於衣縣於肘待<lb
+ ed="J" n="0182b27"/>遇其人方與剖。</ab></div><lb
+ ed="J" n="0182b28"/><div type='orig' level='2'><ab type='prose'>洞山不安。</ab></div><lb
+ ed="J" n="0182b30"/><div type='commentary' level='2'><ab type='prose'>我笑七佛師問疾毗邪離以致飆風生吹落<lb
+ ed="J" n="0182c02"/>天一涯恰值洞山拾得歸授之大覺無遺移得往得來<lb
+ ed="J" n="0182c04"/>得自由看他看我看維持只恁麼飯愚<lb
+ ed="J" n="0182c06"/>癡古佛家風洩漏盡令<lb
+ ed="J" n="0182c07"/>人千載仰須眉。</ab></div><lb
+ ed="J" n="0182c08"/><div type='orig' level='2'><ab type='prose'>臨濟一畫。</ab></div><lb
+ ed="J" n="0182c11"/><div type='commentary' level='2'><ab type='prose'>烏藤七尺輕拈出凡聖齊教落<lb
+ ed="J" n="0182c12"/>下風縱奪抑揚明至化<lb
+ ed="J" n="0182c13"/>主賓玄要顯崇隆持治亂判鴻濛紛紛寰宇走英雄令行不是徒施設祇要重論<lb
+ ed="J" n="0182c16"/>蓋代功。</ab></div><lb
+ ed="J" n="0182c17"/><div type='orig' level='2'><ab type='prose'>九峰不肯。</ab></div><lb
+ ed="J" n="0182c22"/><div type='commentary' level='2'><ab type='prose'>廣大門風威嚴特殺<lb
+ ed="J" n="0182c23"/>頂上一錐冰消瓦解<lb
+ ed="J" n="0182c24"/>長連床上枉施功五穀不熟不如<lb
+ ed="J" n="0182c25"/>稗良驥出櫪即超驤<lb
+ ed="J" n="0182c26"/>成都市上空占卦。</ab></div><lb
+ ed="J" n="0182c27"/><div type='orig' level='2'><ab type='prose'>光帝襆頭。</ab></div><lb
+ ed="J" n="0182c29"/><div type='commentary' level='2'><ab type='prose'>君王之寶價誰酬凜凜威風十四州百戰功成歸此日一回托出<pb ed="J" id="J29.B226.0183a" n="0183a"/><lb
+ ed="J" n="0183a01"/>倍風流渾如雙劍凌空舞萬姓歡呼欣快睹遺<lb
+ ed="J" n="0183a03"/>下一天星斗寒佛之心兮禪之<lb
+ ed="J" n="0183a04"/>祖。</ab></div><lb
+ ed="J" n="0183a05"/><div type='orig' level='2'><ab type='prose'>洞山常切。</ab></div><lb
+ ed="J" n="0183a06"/><div type='commentary' level='2'><ab type='prose'>爭不足讓有餘春風滿<lb
+ ed="J" n="0183a07"/>面香徐徐夜來送客忘扃戶饒得朣朣月一廬。</ab></div><lb
+ ed="J" n="0183a10"/><div type='orig' level='2'><ab type='prose'>雲門缽桶。</ab></div><lb
+ ed="J" n="0183a11"/><div type='commentary' level='2'><ab type='prose'>缽裏飯桶裏水<lb
+ ed="J" n="0183a12"/>大用堂堂不存軌釋迦彌勒是他<lb
+ ed="J" n="0183a13"/>奴且道他為誰之子<lb
+ ed="J" n="0183a14"/>卷輪冠無憂履靈利<lb
+ ed="J" n="0183a15"/>衲僧兮掉得便行鳳翥龍<lb
+ ed="J" n="0183a16"/>驤兮豹變鵲起。</ab></div><lb
+ ed="J" n="0183a17"/><div type='orig' level='2'><ab type='prose'>琅邪山河。</ab></div><lb
+ ed="J" n="0183a19"/><div type='commentary' level='2'><ab type='prose'>毒以毒攻楔以楔出滁州甘露門來自西河窟。</ab></div><lb
+ ed="J" n="0183a22"/><lb
+ ed="J" n="0183a23"/><lb
+ ed="J" n="0183a24"/>
+<ab type='juan' subtype='close'>頌古鉤鉅</ab><lb
+ ed="J" n="0183a25"/><div type='w' level='2'><div type='xu' level='3'><head>自跋</head><lb
+ ed="J" n="0183a26"/><ab type='prose'>頌古鉤鉅乃余學步於天童覺和尚者偶以藏之<lb
+ ed="J" n="0183a27"/>不密為參同伯兄搜出且蒙大展斧斤開關擊節<lb
+ ed="J" n="0183a28"/>真乃瓦礫之於前而珠玉布其後者也或請付梓<lb
+ ed="J" n="0183a29"/>余謂之曰惟我參同和尚德重道隆握刮翳金鎞<lb
+ ed="J" n="0183a30"/>列秦庭寶鏡縱橫施設種種垂慈揭日月之重光<pb ed="J" id="J29.B226.0183b" n="0183b"/><lb
+ ed="J" n="0183b01"/>作將來之津濟其刻宜矣顧薀上何人敢以瑣屑<lb
+ ed="J" n="0183b02"/>之言而災梨棗使見聞者作嘔也邪請者不能止<lb
+ ed="J" n="0183b03"/>姑從之而書其由於卷末云。<lb
+ ed="J" n="0183b04"/>除饉薀上跋於涌泉之清足堂</ab></div><lb
+ ed="J" n="0183b05"/><lb
+ ed="J" n="0183b06"/><lb
+ ed="J" n="0183b07"/><lb
+ ed="J" n="0183b08"/><lb
+ ed="J" n="0183b09"/><lb
+ ed="J" n="0183b10"/><ab type='prose'></ab></div></div>
+</body></text></TEI>

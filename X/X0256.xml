@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">圓覺經略疏序注</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X10</biblScope>
+                    <idno type="Taisho">X10n0256</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X10.0256.0435c" n="0435c"/><lb
+ ed="X" n="0435c01"/><lb
+ ed="X" n="0435c02"/><lb
+ ed="X" n="0435c03"/><lb
+ ed="R015" n="0929a01"/>
+<ab type='juan' subtype='open'>大方廣圓覺脩多羅了義經略疏注序</ab><lb
+ ed="X" n="0435c04"/><lb
+ ed="X" n="0435c05"/><lb
+ ed="R015" n="0929a02"/><byline>唐終南山草堂寺沙門　宗密　述</byline><lb
+ ed="X" n="0435c06"/><lb
+ ed="R015" n="0929a03"/><byline>龍沙章江禪院沙門如山註序</byline><lb
+ ed="X" n="0435c07"/><lb
+ ed="R015" n="0929a04"/><div type='' level='2'><ab type='prose'>。<lb
+ ed="X" n="0435c09"/><lb
+ ed="R015" n="0929a06"/></ab><div type='orig' level='3'><ab type='prose'>元享利貞乾之德也始於一氣常樂我淨佛之德也<lb
+ ed="X" n="0435c10"/><lb
+ ed="R015" n="0929a07"/>本乎一心。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>專一氣而致柔脩一心而成道。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>心也者冲虗妙粹炳煥靈明無去無<lb
+ ed="X" n="0435c14"/><lb
+ ed="R015" n="0929a11"/>來冥通三際非中非外洞徹十方。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>不滅不生豈四山之可害離性離相奚五色之能<lb
+ ed="X" n="0435c16"/><lb
+ ed="R015" n="0929a13"/>盲。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>處生死流驪珠獨耀於滄海。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>踞涅槃岸桂輪孤朗於碧天。</ab></div><lb
+ ed="X" n="0435c19"/><lb
+ ed="R015" n="0929a16"/><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>大矣哉萬法資始也<lb
+ ed="X" n="0435c20"/><lb
+ ed="R015" n="0929a17"/>萬法虗偽緣會而生。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>生法本無一切唯<lb
+ ed="X" n="0435c22"/><lb
+ ed="R015" n="0929b01"/>識識如幻夢但是一心心寂而知目之圓覺彌滿清<lb
+ ed="X" n="0435c23"/><lb
+ ed="R015" n="0929b02"/>淨中不容他。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>故德用無邊皆同一性性起<pb ed="X" id="X10.0256.0436a" n="0436a"/><lb
+ ed="X" n="0436a01"/><lb
+ ed="R015" n="0929b04"/>為相境智歷然相得性融身心廓爾方之海印越彼<lb
+ ed="X" n="0436a02"/><lb
+ ed="R015" n="0929b05"/>太虗恢󳭪焉晃晃焉逈出思議之表也。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>我佛證此憫物迷<lb
+ ed="X" n="0436a04"/><lb
+ ed="R015" n="0929b07"/>之再歎奇哉三思大事。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>既全十力能<lb
+ ed="X" n="0436a06"/><lb
+ ed="R015" n="0929b09"/>摧樹下魔軍。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>爰起四心欲示宅中寶<lb
+ ed="X" n="0436a07"/><lb
+ ed="R015" n="0929b10"/>藏。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>然迷頭捨父悟有易難。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>故仙苑覺場教興頓漸。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>漸設五時之異<lb
+ ed="X" n="0436a11"/><lb
+ ed="R015" n="0929b14"/>空有迭彰頓無二諦之殊幽靈絕待今此經者頓之<lb
+ ed="X" n="0436a12"/><lb
+ ed="R015" n="0929b15"/>類歟。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>故如來入寂光土凡聖一源現受用身主伴同<lb
+ ed="X" n="0436a16"/><lb
+ ed="R015" n="0930a01"/>會。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>曼殊大<lb
+ ed="X" n="0436a17"/><lb
+ ed="R015" n="0930a02"/>士創問本起之因薄伽至尊首提究竟之果。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>照斯真體<lb
+ ed="X" n="0436a19"/><lb
+ ed="R015" n="0930a04"/>滅彼夢形知無我人誰受輪轉。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>種種幻化生於覺心<lb
+ ed="X" n="0436a21"/><lb
+ ed="R015" n="0930a06"/>幻盡覺圓心通法徧。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>心本是佛由念起而漂沉岸實不移因舟行而<lb
+ ed="X" n="0436a23"/><lb
+ ed="R015" n="0930a08"/>騖驟。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>頓除妄宰空不生華漸竭愛源金無重鑛。</ab></div><lb
+ ed="X" n="0436a24"/><lb
+ ed="R015" n="0930a09"/><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>理絕修<pb ed="X" id="X10.0256.0436b" n="0436b"/><lb
+ ed="X" n="0436b01"/><lb
+ ed="R015" n="0930a10"/>證智似階差覺前前非名後後位況妄忘起滅德等<lb
+ ed="X" n="0436b02"/><lb
+ ed="R015" n="0930a11"/>圓明者焉。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>然出廐良駒已搖鞭影。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>薶塵大寶須設治方。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>故三觀澄明真假俱入。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>諸輪綺互單複圓修。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>四相潛神非覺違拒四病出<lb
+ ed="X" n="0436b10"/><lb
+ ed="R015" n="0930b01"/>體心華發明。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>復令長中下期。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>克念攝念而加行。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>別徧互習業障惑障<lb
+ ed="X" n="0436b13"/><lb
+ ed="R015" n="0930b04"/>而銷亡成就慧身靜極覺徧百千世界佛境現前。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>是以聞五種名超剎寶施福<lb
+ ed="X" n="0436b16"/><lb
+ ed="R015" n="0930b07"/>說半偈義勝河沙小乘實由無法不持無機不被者<lb
+ ed="X" n="0436b17"/><lb
+ ed="R015" n="0930b08"/>也。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>噫巴歌和眾似量騰於猿心<lb
+ ed="X" n="0436b19"/><lb
+ ed="R015" n="0930b10"/>雪曲應稀了義匿於龍藏。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>宗密髫專<lb
+ ed="X" n="0436b22"/><lb
+ ed="R015" n="0930b13"/>魯誥冠討竺墳俱溺筌󱇮唯味糟粕。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>幸於涪上針芥相投。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>禪遇南宗教逢斯典。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><lb
+ ed="X" n="0436c02"/><lb
+ ed="R015" n="0930b17"/><div type='orig' level='3'><ab type='prose'>一言之下心地開通一軸之中義天朗耀。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>頃以道非常道諸行無常今知心是佛心定<lb
+ ed="X" n="0436c05"/><lb
+ ed="R015" n="0931a02"/>當作佛。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>然<lb
+ ed="X" n="0436c06"/><lb
+ ed="R015" n="0931a03"/>佛稱種智修假多聞故復行詣百城坐探群籍。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>講雖濫泰學且師安。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>叨沐猶<lb
+ ed="X" n="0436c12"/><lb
+ ed="R015" n="0931a09"/>吾之納謬當真子之印。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>再逢親友<lb
+ ed="X" n="0436c17"/><lb
+ ed="R015" n="0931a14"/>彌感佛恩久慨孤貧將陳法施。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>採集般若綸貫華嚴提挈毗尼發明唯識。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>然醫方萬品宜選對治<lb
+ ed="X" n="0436c24"/><lb
+ ed="R015" n="0931b03"/>海寶千般先求如意。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>觀夫文富義博誠讓雜華指體投機無<lb
+ ed="X" n="0437a02"/><lb
+ ed="R015" n="0931b05"/>偕圓覺。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>故參詳諸論反復百家以利其器方為疏<lb
+ ed="X" n="0437a04"/><lb
+ ed="R015" n="0931b07"/>解。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>冥心<lb
+ ed="X" n="0437a06"/><lb
+ ed="R015" n="0931b09"/>聖旨極思研精義備性相禪兼頓漸勒成三卷。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>以<lb
+ ed="X" n="0437a07"/><lb
+ ed="R015" n="0931b10"/>傳強學。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>然上中下品根欲性殊<lb
+ ed="X" n="0437a09"/><lb
+ ed="R015" n="0931b12"/>令將法彼曲成從其易簡更搜精要直注本經。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div><div type='orig' level='3'><ab type='prose'>庶即事即心日益日<lb
+ ed="X" n="0437a13"/><lb
+ ed="R015" n="0931b16"/>損者矣。</ab></div><div type='commentary' level='3'><ab type='prose'>。</ab></div></div></div>
+</body></text></TEI>

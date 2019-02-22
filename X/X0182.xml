@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">正了知王藥叉眷屬法</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0182</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X02.0182.0839a" n="0839a"/><lb
+ ed="X" n="0839a01"/><lb
+ ed="X" n="0839a02"/><lb
+ ed="X" n="0839a03"/><lb
+ ed="R003" n="0735b01"/>
+<ab type='juan' subtype='open'>正了知王藥叉眷屬法</ab><lb
+ ed="X" n="0839a04"/><lb
+ ed="X" n="0839a05"/><lb
+ ed="R003" n="0735b02"/><byline>三藏法師義淨奉制　譯</byline><lb
+ ed="X" n="0839a06"/><lb
+ ed="R003" n="0735b03"/><div type='' level='2'><ab type='prose'>僧慎爾耶此云正了知此正了知王有二十八藥叉<lb
+ ed="X" n="0839a07"/><lb
+ ed="R003" n="0735b04"/>大將佛告阿難陀言此二十八部藥叉現大自在神<lb
+ ed="X" n="0839a08"/><lb
+ ed="R003" n="0735b05"/>通威德能於十方世界覆護一切眾生為除衰患厄<lb
+ ed="X" n="0839a09"/><lb
+ ed="R003" n="0735b06"/>難之事有四藥叉大將住在東面擁護東方所有眾<lb
+ ed="X" n="0839a10"/><lb
+ ed="R003" n="0735b07"/>生令離憂苦其名曰。<lb
+ ed="X" n="0839a11"/><lb
+ ed="R003" n="0735b08"/>地嘌伽蘇泥怛羅晡𠷈拏却畢羅唱已說<lb
+ ed="X" n="0839a12"/><lb
+ ed="R003" n="0735b09"/>所求事。<lb
+ ed="X" n="0839a13"/><lb
+ ed="R003" n="0735b10"/>阿難陀有四藥叉大將住在南面擁護南方所有眾<lb
+ ed="X" n="0839a14"/><lb
+ ed="R003" n="0735b11"/>生令離憂苦其名曰。<lb
+ ed="X" n="0839a15"/><lb
+ ed="R003" n="0735b12"/>僧訶鄔波僧訶商企羅旃憚那<lb
+ ed="X" n="0839a16"/><lb
+ ed="R003" n="0735b13"/>復阿難陀有四藥叉大將住在西面擁護西方所有<lb
+ ed="X" n="0839a17"/><lb
+ ed="R003" n="0735b14"/>眾生令離憂苦其名曰。<lb
+ ed="X" n="0839a18"/><lb
+ ed="R003" n="0735b15"/>𠿒里𭧸里雞舍鉢喇部氷伽羅<lb
+ ed="X" n="0839a19"/><lb
+ ed="R003" n="0735b16"/>復阿難陀有四藥叉大將住在北面擁護北方所有<lb
+ ed="X" n="0839a20"/><lb
+ ed="R003" n="0735b17"/>眾生令離憂苦其名曰。<lb
+ ed="X" n="0839a21"/><lb
+ ed="R003" n="0735b18"/>違喇拏違喇難陀嗢猶伽波羅吠率奴<lb
+ ed="X" n="0839a22"/><lb
+ ed="R003" n="0736a01"/>復阿難陀有四藥叉大將各住四維擁護四維所有<lb
+ ed="X" n="0839a23"/><lb
+ ed="R003" n="0736a02"/>眾生令離憂苦其名曰。<lb
+ ed="X" n="0839a24"/><lb
+ ed="R003" n="0736a03"/>半支迦般遮羅健荼娑跢祇利䤈摩䟦多<pb ed="X" id="X02.0182.0839b" n="0839b"/><lb
+ ed="X" n="0839b01"/><lb
+ ed="R003" n="0736a04"/>復次阿難陀有四藥叉大將住在地上擁護所有地<lb
+ ed="X" n="0839b02"/><lb
+ ed="R003" n="0736a05"/>居眾生令離憂苦其名曰。<lb
+ ed="X" n="0839b03"/><lb
+ ed="R003" n="0736a06"/>部摩蘇部摩哥羅鄔波哥羅<lb
+ ed="X" n="0839b04"/><lb
+ ed="R003" n="0736a07"/>復次阿難陀有四藥叉大將住在空中擁護所有空<lb
+ ed="X" n="0839b05"/><lb
+ ed="R003" n="0736a08"/>居眾生令離憂苦其名曰。<lb
+ ed="X" n="0839b06"/><lb
+ ed="R003" n="0736a09"/>蘇利耶蘇摩惡祁尼婆庾<lb
+ ed="X" n="0839b07"/><lb
+ ed="R003" n="0736a10"/>佛言此鎮護法如說唱其名號守護八方上下利安<lb
+ ed="X" n="0839b08"/><lb
+ ed="R003" n="0736a11"/>一切眾生其藥叉利生相無量無邊略說少分佛說<lb
+ ed="X" n="0839b09"/><lb
+ ed="R003" n="0736a12"/>此法已若召請之時名字之終加速來句不越本誓<lb
+ ed="X" n="0839b10"/><lb
+ ed="R003" n="0736a13"/>必垂來影印尋之。<lb
+ ed="X" n="0839b11"/><lb
+ ed="X" n="0839b12"/><lb
+ ed="R003" n="0736a15"/>
+</ab><ab type='juan' subtype='close'>正了知王藥叉眷屬法</ab><lb
+ ed="X" n="0839b13"/><lb
+ ed="X" n="0839b14"/><lb
+ ed="R003" n="0736a17"/><div type='w' level='3'><ab type='prose'>孔󳭋明王經云蘇師奴藥叉住那羯羅國<lb
+ ed="X" n="0839b15"/><lb
+ ed="R003" n="0736a18"/>師曰蘇師奴此云正了知亦云妙了知。</ab></div></div></div>
+</body></text></TEI>

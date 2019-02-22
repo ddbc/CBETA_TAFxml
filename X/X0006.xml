@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">阿彌陀經異本</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X01</biblScope>
+                    <idno type="Taisho">X01n0006</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X01.0006.0079b" n="0079b"/><lb
+ ed="X" n="0079b01"/><lb
+ ed="X" n="0079b02"/><lb
+ ed="X" n="0079b03"/><lb
+ ed="X" n="0079b04"/><lb
+ ed="R150" n="0723b01"/>
+<ab type='juan' subtype='open'>阿彌陀經異本</ab><lb
+ ed="X" n="0079b05"/><lb
+ ed="X" n="0079b06"/><lb
+ ed="R150" n="0723b03"/><div type='' level='1'><ab type='prose'>一心不亂下。有專持名號以稱名故諸罪消滅即是<lb
+ ed="X" n="0079b07"/><lb
+ ed="R150" n="0723b04"/>多善根福德因緣二十一字。<lb
+ ed="X" n="0079b08"/><lb
+ ed="R150" n="0723b05"/>是襄陽石割經本文。元照戒度皆以為佚文。袾宏<lb
+ ed="X" n="0079b09"/><lb
+ ed="R150" n="0723b06"/>則曰。前人解經之語。混入本文者。按梵文反覆丁<lb
+ ed="X" n="0079b10"/><lb
+ ed="R150" n="0723b07"/>寧。譯者時或從省略。則譯者省之乎。抑亦譯者不<lb
+ ed="X" n="0079b11"/><lb
+ ed="R150" n="0723b08"/>省。後偶佚之乎。皆不可知也。龍舒淨土文曰。襄陽<lb
+ ed="X" n="0079b12"/><lb
+ ed="R150" n="0723b09"/>石經。隋陳仁稜所書。字畵清婉。人多慕玩。治承年<lb
+ ed="X" n="0079b13"/><lb
+ ed="R150" n="0723b10"/>間。平重盛遣使于宋。求藏經及石經。建久九年秋。<lb
+ ed="X" n="0079b14"/><lb
+ ed="R150" n="0723b11"/>宋之使者。載石經來。船著筑前宗像。拓本傳世。文<lb
+ ed="X" n="0079b15"/><lb
+ ed="R150" n="0723b12"/>中名曰極樂曰作為。其國眾生國作土。皆自然生<lb
+ ed="X" n="0079b16"/><lb
+ ed="R150" n="0723b13"/>作自然皆生。然他本亦有同之者。唯此二十一字。<lb
+ ed="X" n="0079b17"/><lb
+ ed="R150" n="0723b14"/>襄陽石經獨有之耳。<lb
+ ed="X" n="0079b18"/><lb
+ ed="R150" n="0723b15"/>大正元年十月初一日　　赤松連城　識</ab></div>
+</body></text></TEI>

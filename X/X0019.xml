@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說斷溫經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X01</biblScope>
+                    <idno type="Taisho">X01n0019</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X01.0019.0403c" n="0403c"/><lb
+ ed="X" n="0403c01"/><lb
+ ed="X" n="0403c02"/><lb
+ ed="X" n="0403c03"/><lb
+ ed="X" n="0403c04"/><lb
+ ed="R150" n="0768b01"/>
+<ab type='juan' subtype='open'>佛說斷溫經</ab><lb
+ ed="X" n="0403c05"/><lb
+ ed="X" n="0403c06"/><lb
+ ed="R150" n="0768b03"/><div type='' level='1'><ab type='prose'>爾時佛在王舍城中。與諸大眾俱會。阿難長脆合掌。<lb
+ ed="X" n="0403c07"/><lb
+ ed="R150" n="0768b04"/>白佛言。世尊。彼南閻浮提世界。忽遇天行溫氣瘴烈。<lb
+ ed="X" n="0403c08"/><lb
+ ed="R150" n="0768b05"/>如猛火橫延。及死亡無數。如何免之。佛告阿難。汝可<lb
+ ed="X" n="0403c09"/><lb
+ ed="R150" n="0768b06"/>諦聽。吾當為汝說。此病有鬼神。常吐惡毒。以害人民。<lb
+ ed="X" n="0403c10"/><lb
+ ed="R150" n="0768b07"/>初得病時。頭痛寒熱。百支節俱苦痛畢切。阿難言。若<lb
+ ed="X" n="0403c11"/><lb
+ ed="R150" n="0768b08"/>有善男子善女人。能知七鬼神名字。作崇敬。當除此<lb
+ ed="X" n="0403c12"/><lb
+ ed="R150" n="0768b09"/>病患乎。為汝即說除病呪曰。<lb
+ ed="X" n="0403c13"/><lb
+ ed="R150" n="0768b10"/></ab>
+<ab type='dharani'>南無佛陀耶。南無達磨耶。南無僧伽耶。南無觀世音<lb
+ ed="X" n="0403c14"/><lb
+ ed="R150" n="0768b11"/>菩薩摩訶薩。疫病消除娑婆訶<lb
+ ed="X" n="0403c15"/><lb
+ ed="R150" n="0768b12"/></ab>
+<ab type='prose'>爾時十方諸佛。諸大菩薩。一切賢聖僧。聞我說金剛<lb
+ ed="X" n="0403c16"/><lb
+ ed="R150" n="0768b13"/>秘密呪。亦說七鬼神名字曰。夢多難鬼。阿佉尼鬼。尼<lb
+ ed="X" n="0403c17"/><lb
+ ed="R150" n="0768b14"/>佉尸鬼。阿伽那鬼。波羅尼鬼。阿毗羅鬼。婆提梨鬼也。<lb
+ ed="X" n="0403c18"/><lb
+ ed="R150" n="0768b15"/>汝等當知。此神名思念。速疾遠離。不敢侵害。其人所<lb
+ ed="X" n="0403c19"/><lb
+ ed="R150" n="0768b16"/>被毒氣普皆消散。得金剛密迹。其身安樂。無諸患難。<lb
+ ed="X" n="0403c20"/><lb
+ ed="R150" n="0768b17"/>佛說是經已。天龍八部。一切大眾。皆大歡喜。信受奉<lb
+ ed="X" n="0403c21"/><lb
+ ed="R150" n="0768b18"/>行。<lb
+ ed="X" n="0403c22"/><lb
+ ed="X" n="0403c23"/><lb
+ ed="R150" n="0768b18"/>
+</ab><ab type='juan' subtype='close'>佛說斷溫經</ab></div>
+</body></text></TEI>

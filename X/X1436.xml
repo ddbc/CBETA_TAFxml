@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">博山無異大禪語錄集要</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X72</biblScope>
+                    <idno type="Taisho">X72n1436</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X72.1436.0383b" n="0383b"/><lb
+ ed="X" n="0383b01"/>
+<ab type='juan' subtype='open'></ab><lb
+ ed="X" n="0383b02"/><lb
+ ed="X" n="0383b03"/><lb
+ ed="X" n="0383b04"/><lb
+ ed="X" n="0383b05"/><div type='xu' level='2'><head>No. 1436-A<lb
+ ed="X" n="0383b06"/><lb
+ ed="R125" n="0398a01"/> 愽山語錄集要序</head><lb
+ ed="X" n="0383b07"/><lb
+ ed="X" n="0383b08"/><lb
+ ed="R125" n="0398a02"/><ab type='prose'>佛祖之道。如金剛王寶劍。得之不易。用之不易。付之<lb
+ ed="X" n="0383b09"/><lb
+ ed="R125" n="0398a03"/>亦不易。以其皆不易也。故傳持斯道者。實鮮其人。而<lb
+ ed="X" n="0383b10"/><lb
+ ed="R125" n="0398a04"/>魚目混珠。山雞冒鳳者。甞半天下也。我曹洞一宗。盛<lb
+ ed="X" n="0383b11"/><lb
+ ed="R125" n="0398a05"/>於唐。衰於宋。至元似復盛而實衰。其故葢難言之也。<lb
+ ed="X" n="0383b12"/><lb
+ ed="R125" n="0398a06"/>自<lb
+ ed="X" n="0383b13" type="honorific"/><lb
+ ed="R125" n="0398a07"/>元朝初雪庭裕公奉<lb
+ ed="X" n="0383b14" type="honorific"/><lb
+ ed="R125" n="0398a08"/>詔住少林。天下學者。翕然宗之。歷傳至萬曆改元。小<lb
+ ed="X" n="0383b15"/><lb
+ ed="R125" n="0398a09"/>山書遷化。<lb
+ ed="X" n="0383b16" type="honorific"/><lb
+ ed="R125" n="0398a10"/>詔幻休潤。補其席。四方之腰包而至者。如鳥投林。如<lb
+ ed="X" n="0383b17"/><lb
+ ed="R125" n="0398a11"/>魚赴壑。而潤公乃講習評唱為事。大失眾望。時有蘊<lb
+ ed="X" n="0383b18"/><lb
+ ed="R125" n="0398a12"/>空忠和尚。先事小山老人有年。受其密印。歸隱旴江<lb
+ ed="X" n="0383b19"/><lb
+ ed="R125" n="0398a13"/>之廩山。天下不得而物色之。壽昌先師。從其薙落。後<lb
+ ed="X" n="0383b20"/><lb
+ ed="R125" n="0398a14"/>蒙記莂。始為弘揚。既得愽山來公繼之。其道遂大行<lb
+ ed="X" n="0383b21"/><lb
+ ed="R125" n="0398a15"/>於世。師苦參日久。備甞險阻。故其言功夫為獨詳。其<lb
+ ed="X" n="0383b22"/><lb
+ ed="R125" n="0398a16"/>慧光渾圓。辨才無礙。波瀾浩蕩。莫窺涯際。故學者多<lb
+ ed="X" n="0383b23"/><lb
+ ed="R125" n="0398a17"/>望洋而退。其門庭緊密。金鍮立辯。高提祖印。不妄許<lb
+ ed="X" n="0383b24"/><lb
+ ed="R125" n="0398a18"/>可。故假雞聲韻者。不得冐渡關津。而惑亂羣聽也。余<pb ed="X" id="X72.1436.0383c" n="0383c"/><lb
+ ed="X" n="0383c01"/><lb
+ ed="R125" n="0398b01"/>因先師遷化後。曾相依三載。雖無所得於師。然三載<lb
+ ed="X" n="0383c02"/><lb
+ ed="R125" n="0398b02"/>之中。未見其一語滲入情識。但勉以向上事。則師之<lb
+ ed="X" n="0383c03"/><lb
+ ed="R125" n="0398b03"/>有造於余也大矣。及余隱荷山。師自石鼓歸。道經建<lb
+ ed="X" n="0383c04"/><lb
+ ed="R125" n="0398b04"/>州。晤於光孝寺。師曰。壽昌塔掃也未。余曰。掃即不廢。<lb
+ ed="X" n="0383c05"/><lb
+ ed="R125" n="0398b05"/>祇是不許人知。師曰。恁麼則偷掃去也。余曰。賢祇如<lb
+ ed="X" n="0383c06"/><lb
+ ed="R125" n="0398b06"/>此。和尚又作麼生。師曰。掃即不廢。祇是不曾動著。余<lb
+ ed="X" n="0383c07"/><lb
+ ed="R125" n="0398b07"/>曰。和尚却似不曾掃。乃一咲而別。及師滅。其語錄浩<lb
+ ed="X" n="0383c08"/><lb
+ ed="R125" n="0398b08"/>繁。連編累牘。流通為難。故遐方僻壤。聞師之名。向師<lb
+ ed="X" n="0383c09"/><lb
+ ed="R125" n="0398b09"/>之化。而語錄實未甞觸於目者有之。余自壬午秋。歸<lb
+ ed="X" n="0383c10"/><lb
+ ed="R125" n="0398b10"/>錫石鼓。乃因渾朴上人之請。僭於全錄中。擇其精要。<lb
+ ed="X" n="0383c11"/><lb
+ ed="R125" n="0398b11"/>類而合之。視全錄。僅十之三。然簡而易行。約而易致。<lb
+ ed="X" n="0383c12"/><lb
+ ed="R125" n="0398b12"/>使天下學者。即是窮之。可以見其大全。使知愽山之<lb
+ ed="X" n="0383c13"/><lb
+ ed="R125" n="0398b13"/>道。其廣大深密有如此。非癡守一橛者。可恍惚其萬<lb
+ ed="X" n="0383c14"/><lb
+ ed="R125" n="0398b14"/>一也。嗚呼廣陵散不復作矣。今幸其譜猶存。安得於<lb
+ ed="X" n="0383c15"/><lb
+ ed="R125" n="0398b15"/>凉風白月中。再聞斯曲乎。<lb
+ ed="X" n="0383c16"/><lb
+ ed="R125" n="0398b16"/>旹<lb
+ ed="X" n="0383c17"/><lb
+ ed="R125" n="0398b17"/>崇禎癸未春正月燈節日住福州鼓山湧泉禪寺傳<lb
+ ed="X" n="0383c18"/><lb
+ ed="R125" n="0398b18"/>曹洞正宗沙門元賢題於所居之嚬呻齋</ab></div><lb
+ ed="X" n="0383c19"/><lb
+ ed="X" n="0383c20"/><lb
+ ed="X" n="0383c21"/><lb
+ ed="X" n="0383c22"/><lb
+ ed="R125" n="0399a01"/><head>語錄集要目錄</head><lb
+ ed="X" n="0383c23"/><lb
+ ed="R125" n="0399a02"/><lb
+ ed="X" n="0383c24"/><lb
+ ed="R125" n="0399a03"/>第一卷<pb ed="X" id="X72.1436.0384a" n="0384a"/><lb
+ ed="X" n="0384a01"/><lb
+ ed="R125" n="0399a04"/>博山語錄<lb
+ ed="X" n="0384a02"/><lb
+ ed="R125" n="0399a05"/>第二卷<lb
+ ed="X" n="0384a03"/><lb
+ ed="R125" n="0399a06"/>董巖語錄<lb
+ ed="X" n="0384a04"/><lb
+ ed="R125" n="0399a07"/>第三卷<lb
+ ed="X" n="0384a05"/><lb
+ ed="R125" n="0399a08"/>大仰語錄鼓山語錄<lb
+ ed="X" n="0384a06"/><lb
+ ed="R125" n="0399a09"/>天界語錄答問<lb
+ ed="X" n="0384a07"/><lb
+ ed="R125" n="0399a10"/>第四卷<lb
+ ed="X" n="0384a08"/><lb
+ ed="R125" n="0399a11"/>拈古頌古贊禪警語<lb
+ ed="X" n="0384a09"/><lb
+ ed="R125" n="0399a12"/>第五卷<lb
+ ed="X" n="0384a10"/><lb
+ ed="R125" n="0399a13"/>書文序疏<lb
+ ed="X" n="0384a11"/><lb
+ ed="R125" n="0399a14"/>第六卷<lb
+ ed="X" n="0384a12"/><lb
+ ed="R125" n="0399a15"/>偈</div>
+</body></text></TEI>

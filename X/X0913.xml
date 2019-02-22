@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">天台智者大師發願文</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X55</biblScope>
+                    <idno type="Taisho">X55n0913</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X55.0913.0688c" n="0688c"/><lb
+ ed="X" n="0688c01"/><lb
+ ed="X" n="0688c02"/><lb
+ ed="X" n="0688c03"/><lb
+ ed="X" n="0688c04"/><lb
+ ed="X" n="0688c05"/><lb
+ ed="X" n="0688c06"/><lb
+ ed="X" n="0688c07"/><lb
+ ed="R099" n="0114a01"/>
+<ab type='juan' subtype='open'>天台智者大師發願文</ab><lb
+ ed="X" n="0688c08"/><lb
+ ed="R099" n="0114a02"/><lb
+ ed="X" n="0688c09"/><lb
+ ed="R099" n="0114a03"/><div type='' level='1'><ab type='prose'>夫欲念誦。滅罪障。助菩提。應須發願。<lb
+ ed="X" n="0688c10"/><lb
+ ed="R099" n="0114a04"/>先淨三業。十指合掌。面向諸佛。口陳辭句。作如是<lb
+ ed="X" n="0688c11"/><lb
+ ed="R099" n="0114a05"/>言。<lb
+ ed="X" n="0688c12"/><lb
+ ed="R099" n="0114a06"/>弟子比丘某甲。稽首和南。一心歸命盡十<lb
+ ed="X" n="0688c13"/><lb
+ ed="R099" n="0114a07"/>方三世一切諸佛．尊法．般若．十二部經真淨妙法．諸<lb
+ ed="X" n="0688c14"/><lb
+ ed="R099" n="0114a08"/>大菩薩摩訶薩眾．諸賢聖僧．常住三寶。唯願神力。慈<lb
+ ed="X" n="0688c15"/><lb
+ ed="R099" n="0114a09"/>哀護念。願當證知。以此念誦。善根功德。專用莊嚴四<lb
+ ed="X" n="0688c16"/><lb
+ ed="R099" n="0114a10"/>恩三有．盡十方法界一切眾生。願共法界諸眾生等。<lb
+ ed="X" n="0688c17"/><lb
+ ed="R099" n="0114a11"/>從無始已來。至於今日。昏沈倒惑。六根．三業造一切<lb
+ ed="X" n="0688c18"/><lb
+ ed="R099" n="0114a12"/>鄣道之罪。若麤若細。齊佛所知。一時消滅。生生世世。<lb
+ ed="X" n="0688c19"/><lb
+ ed="R099" n="0114a13"/>永離地獄．餓鬼．畜生身。永離女人身。永離邊地．下賤．<lb
+ ed="X" n="0688c20"/><lb
+ ed="R099" n="0114a14"/>八難身。願共法界諸眾生等。若於此生。若於餘生。常<lb
+ ed="X" n="0688c21"/><lb
+ ed="R099" n="0114a15"/>值善知識。常聞無上大乘正法。即於此身。悟解常住<lb
+ ed="X" n="0688c22"/><lb
+ ed="R099" n="0114a16"/>佛性。大涅槃海。一切諸法。本來寂滅。具大菩提。了達<lb
+ ed="X" n="0688c23"/><lb
+ ed="R099" n="0114a17"/>根塵能所。一念起心。具一切法。百界三千。空．假．中。即<lb
+ ed="X" n="0688c24"/><lb
+ ed="R099" n="0114a18"/>法界印。不可思議。心．佛．眾生。三無差別。體權識實。發<pb ed="X" id="X55.0913.0689a" n="0689a"/><lb
+ ed="X" n="0689a01"/><lb
+ ed="R099" n="0114b01"/>大菩提心。上求下化。󳫠生死苦。與究竟樂。修牢強精<lb
+ ed="X" n="0689a02"/><lb
+ ed="R099" n="0114b02"/>進。四種三昧。只不思議一觀三觀。觀不思議一諦三<lb
+ ed="X" n="0689a03"/><lb
+ ed="R099" n="0114b03"/>諦。觀諦冥一。即四魔三鄣。歷緣對境。以妙十法成圓<lb
+ ed="X" n="0689a04"/><lb
+ ed="R099" n="0114b04"/>乘。行解更資。心心明寂。發真中道。開佛知見。心心現<lb
+ ed="X" n="0689a05"/><lb
+ ed="R099" n="0114b05"/>前。所有慧身。不由佗悟。自然流入薩婆若海。住無生<lb
+ ed="X" n="0689a06"/><lb
+ ed="R099" n="0114b06"/>忍。具大智慧。成摩訶衍。通達漸頓諸教。破一微塵。出<lb
+ ed="X" n="0689a07"/><lb
+ ed="R099" n="0114b07"/>大千經卷。恒沙佛法。一心中曉。學佛慈悲。無諸慳恡。<lb
+ ed="X" n="0689a08"/><lb
+ ed="R099" n="0114b08"/>說於止觀。遍施一切。開門傾藏。捨如意珠。理即．名字．<lb
+ ed="X" n="0689a09"/><lb
+ ed="R099" n="0114b09"/>觀行．相似．分真．究竟。圓伊三點。不縱不橫。正法大城。<lb
+ ed="X" n="0689a10"/><lb
+ ed="R099" n="0114b10"/>金剛寶藏。一切佛法。自行化佗。一生有辦。設未明了。<lb
+ ed="X" n="0689a11"/><lb
+ ed="R099" n="0114b11"/>非因之因。從因感果。不果之果。獲勝果報。願共法界<lb
+ ed="X" n="0689a12"/><lb
+ ed="R099" n="0114b12"/>諸眾生等。臨命終時。七日之前。自知時節。心不顛倒。<lb
+ ed="X" n="0689a13"/><lb
+ ed="R099" n="0114b13"/>心不錯亂。心不共念。身心無諸苦痛。跏趺正念。身心<lb
+ ed="X" n="0689a14"/><lb
+ ed="R099" n="0114b14"/>安樂。入深三昧。見十方佛。願彌陀世尊．三世諸佛．觀<lb
+ ed="X" n="0689a15"/><lb
+ ed="R099" n="0114b15"/>音．勢至．諸大菩薩．一切聖眾。不捨本誓。悉現在前。同<lb
+ ed="X" n="0689a16"/><lb
+ ed="R099" n="0114b16"/>時放大光明。照觸身心。所有罪障。一時消滅。諸根豁<lb
+ ed="X" n="0689a17"/><lb
+ ed="R099" n="0114b17"/>然。深入知見。以大神力。攝受身心。授金色手。摩頂接<lb
+ ed="X" n="0689a18"/><lb
+ ed="R099" n="0114b18"/>引。歡喜踊躍。乘佛願力。坐金剛臺。隨從如來聖眾。於<lb
+ ed="X" n="0689a19"/><lb
+ ed="R099" n="0115a01"/>一念頃。上品上生西方阿彌陀佛極樂世界。金蓮化<lb
+ ed="X" n="0689a20"/><lb
+ ed="R099" n="0115a02"/>生。悟入無生寂滅諸忍。超登上地。獲六神通。住首楞<lb
+ ed="X" n="0689a21"/><lb
+ ed="R099" n="0115a03"/>嚴。不動法性。於一念頃。遊歷十方。奉事三世一切諸<lb
+ ed="X" n="0689a22"/><lb
+ ed="R099" n="0115a04"/>佛。一一佛前。悉有我身。修諸供養。聞法受記。一時普<lb
+ ed="X" n="0689a23"/><lb
+ ed="R099" n="0115a05"/>能受持三世如來甚深法海。即自明解。不由佗悟。大<lb
+ ed="X" n="0689a24"/><lb
+ ed="R099" n="0115a06"/>理。大願。大莊嚴。大智斷。大遍知。大道。大用。大權實。大<pb ed="X" id="X55.0913.0689b" n="0689b"/><lb
+ ed="X" n="0689b01"/><lb
+ ed="R099" n="0115a07"/>利益。大無住。諸佛所有一切波羅蜜行。一時修習。與<lb
+ ed="X" n="0689b02"/><lb
+ ed="R099" n="0115a08"/>文殊．普賢等諸大士為伴侶。具足一切諸菩薩無量<lb
+ ed="X" n="0689b03"/><lb
+ ed="R099" n="0115a09"/>無邊廣大行願。得諸大陀羅尼門．諸三昧門。普知諸<lb
+ ed="X" n="0689b04"/><lb
+ ed="R099" n="0115a10"/>佛剎嚴淨佛國。於剎那頃。普於十方一切微塵道中。<lb
+ ed="X" n="0689b05"/><lb
+ ed="R099" n="0115a11"/>成等正覺。轉大法輪。度脫眾生。無緣慈悲。普覆法界。<lb
+ ed="X" n="0689b06"/><lb
+ ed="R099" n="0115a12"/>不動真際。普入三世。度脫一切眾生。或作佛身。施權<lb
+ ed="X" n="0689b07"/><lb
+ ed="R099" n="0115a13"/>實。或為九界像。對揚漸頓。請轉漸頓。弘通漸頓。三輪<lb
+ ed="X" n="0689b08"/><lb
+ ed="R099" n="0115a14"/>攝化。攝化無窮。同虗空遍界。而作佛事。從本垂迹。攝<lb
+ ed="X" n="0689b09"/><lb
+ ed="R099" n="0115a15"/>迹還本。本迹雖殊。不思議一。自佗行圓。常住秘藏。法<lb
+ ed="X" n="0689b10"/><lb
+ ed="R099" n="0115a16"/>界怨親。同斯願海。</ab></div>
+</body></text></TEI>

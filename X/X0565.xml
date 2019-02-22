@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">般若心經論</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X26</biblScope>
+                    <idno type="Taisho">X26n0565</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X26.0565.0915c" n="0915c"/><lb
+ ed="X" n="0915c01"/><lb
+ ed="X" n="0915c02"/><lb
+ ed="X" n="0915c03"/><lb
+ ed="R042" n="0044a01"/>
+<ab type='juan' subtype='open'>般若心經論</ab><lb
+ ed="X" n="0915c04"/><lb
+ ed="X" n="0915c05"/><lb
+ ed="R042" n="0044a02"/><byline>丹霞沙門　釋天然圅昰　撰</byline><lb
+ ed="X" n="0915c06"/><lb
+ ed="R042" n="0044a03"/><div type='' level='1'><ab type='prose'>梵語般若。此云智慧。以智慧解諸法空。而至于彼岸。<lb
+ ed="X" n="0915c07"/><lb
+ ed="R042" n="0044a04"/>是矣。又曰。心經何謂也。華首曰。心是體。智是用。體則<lb
+ ed="X" n="0915c08"/><lb
+ ed="R042" n="0044a05"/>通凡聖。而皆徧用。則分迷悟以各成。天下無無用之<lb
+ ed="X" n="0915c09"/><lb
+ ed="R042" n="0044a06"/>體。體即徧。而用安得不徧歟。曰徧而迷悟異致。故曰<lb
+ ed="X" n="0915c10"/><lb
+ ed="R042" n="0044a07"/>各成。各成則不可均言智慧矣。此所謂本覺則聖凡<lb
+ ed="X" n="0915c11"/><lb
+ ed="R042" n="0044a08"/>無二。迷本為妄。悟本為始。妄與始無二體。而有二用<lb
+ ed="X" n="0915c12"/><lb
+ ed="R042" n="0044a09"/>也。當其迷也。見色而不見空。迺至見受想行識。而不<lb
+ ed="X" n="0915c13"/><lb
+ ed="R042" n="0044a10"/>見空。行于日用。欲求其毫釐解脫。而不可得矣。及其<lb
+ ed="X" n="0915c14"/><lb
+ ed="R042" n="0044a11"/>悟也。即色是空。更無別空。即空是色。更無別色。迺至<lb
+ ed="X" n="0915c15"/><lb
+ ed="R042" n="0044a12"/>即受想行識是空。更無別空。即空是受想行識。更無<lb
+ ed="X" n="0915c16"/><lb
+ ed="R042" n="0044a13"/>別受想行識。行於日用。欲求其毫釐凝滯。而亦不可<lb
+ ed="X" n="0915c17"/><lb
+ ed="R042" n="0044a14"/>得矣。是迷悟之用各異。而皆原于本覺之心。固無有<lb
+ ed="X" n="0915c18"/><lb
+ ed="R042" n="0044a15"/>異也。通凡聖而無有異。故曰體也。自無始來。無佛名。<lb
+ ed="X" n="0915c19"/><lb
+ ed="R042" n="0044a16"/>無菩薩名。無二乘凡夫名。唯渾然藏識而已。藏無自<lb
+ ed="X" n="0915c20"/><lb
+ ed="R042" n="0044a17"/>性。不覺成識。識成而根身器界名相臚。然而藏性不<lb
+ ed="X" n="0915c21"/><lb
+ ed="R042" n="0044a18"/>失。識滅而三明六通。智證詣極。而藏性不加。所謂無<lb
+ ed="X" n="0915c22"/><lb
+ ed="R042" n="0044b01"/>生滅之謂心。無垢淨之謂心。無增減之謂心。此心空<lb
+ ed="X" n="0915c23"/><lb
+ ed="R042" n="0044b02"/>相本自如。然而非深于般若。則未有能徹見。而返本<lb
+ ed="X" n="0915c24"/><lb
+ ed="R042" n="0044b03"/>歸源者。此三世如來所讚歎尊重。無異旨也。般若生<pb ed="X" id="X26.0565.0916a" n="0916a"/><lb
+ ed="X" n="0916a01"/><lb
+ ed="R042" n="0044b04"/>于本覺。而要迷情淨盡。然後現妄覺。亦生于本覺。而<lb
+ ed="X" n="0916a02"/><lb
+ ed="R042" n="0044b05"/>要當體知歸。然後泯故知翻其妄。而自照之為智。智<lb
+ ed="X" n="0916a03"/><lb
+ ed="R042" n="0044b06"/>生即無妄。妄成智也。智解諸法空。還其本覺之無。動<lb
+ ed="X" n="0916a04"/><lb
+ ed="R042" n="0044b07"/>搖之為心。心返則無智。智盡心也。涅槃三德。非縱非<lb
+ ed="X" n="0916a05"/><lb
+ ed="R042" n="0044b08"/>橫。而悉始于明。見佛性融。根本差別。而一至于是。所<lb
+ ed="X" n="0916a06"/><lb
+ ed="R042" n="0044b09"/>謂佛性為因。而涅槃為果也。由是而造焉。之謂經也。<lb
+ ed="X" n="0916a07"/><lb
+ ed="R042" n="0044b10"/><lb
+ ed="X" n="0916a08"/><lb
+ ed="R042" n="0044b11"/>
+</ab><ab type='juan' subtype='close'>般若心經論</ab></div>
+</body></text></TEI>

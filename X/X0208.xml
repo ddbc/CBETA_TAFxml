@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">華嚴經論〔卷十〕</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X03</biblScope>
+                    <idno type="Taisho">X03n0208</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X03.0208.0001a" n="0001a"/><lb
+ ed="X" n="0001a01"/><lb
+ ed="X" n="0001a02"/><lb
+ ed="X" n="0001a03"/><lb
+ ed="X" n="0001a04"/><lb
+ ed="X" n="0001a05"/><lb
+ ed="X" n="0001a06"/><lb
+ ed="R093" n="0936a01"/>
+<ab type='juan' subtype='open'>華嚴經論</ab><lb
+ ed="X" n="0001a07"/><lb
+ ed="X" n="0001a08"/><lb
+ ed="R093" n="0936a02"/><byline>後魏釋　靈辨　造</byline><lb
+ ed="X" n="0001a09"/><lb
+ ed="R093" n="0936a03"/><div type='orig' level='2'><ab type='prose'>如來光明覺品第五</ab></div><lb
+ ed="X" n="0001a10"/><lb
+ ed="R093" n="0936a04"/><div type='commentary' level='2'><ab type='prose'>光明開覺者。上道場會聖者普賢。以佛智明力用。<lb
+ ed="X" n="0001a11"/><lb
+ ed="R093" n="0936a05"/>示如來樹王所證法身。依果清淨。具足自在無礙。<lb
+ ed="X" n="0001a12"/><lb
+ ed="R093" n="0936a06"/>為應化根本。猶如大海出百川流。隨眾生噐水。示<lb
+ ed="X" n="0001a13"/><lb
+ ed="R093" n="0936a07"/>月輪身。無不對見。聖者文殊菩薩。復開示名號四<lb
+ ed="X" n="0001a14"/><lb
+ ed="R093" n="0936a08"/>諦法門權道。隨一切世間眾生根生。應無量身雲。<lb
+ ed="X" n="0001a15"/><lb
+ ed="R093" n="0936a09"/>悉分別說。顯示四種權道。充滿法界。一者身權。隨<lb
+ ed="X" n="0001a16"/><lb
+ ed="R093" n="0936a10"/>群生噐水。示根淨方便無量身雲。一切悉現故。二<lb
+ ed="X" n="0001a17"/><lb
+ ed="R093" n="0936a11"/>者依果權。隨諸業集垢淨剎土。無礙興起。充滿世<lb
+ ed="X" n="0001a18"/><lb
+ ed="R093" n="0936a12"/>間故。三者名號權。隨群生噐。應無量德號。稱其悕<lb
+ ed="X" n="0001a19"/><lb
+ ed="R093" n="0936a13"/>望。皆利安故。四者法門權。隨其欲性。雨甘露法雨。<lb
+ ed="X" n="0001a20"/><lb
+ ed="R093" n="0936a14"/>應彼根噐。盈滿其中。如龍王雨。無不澤潤故。雖乘<lb
+ ed="X" n="0001a21"/><lb
+ ed="R093" n="0936a15"/>佛力。如是開現。一切大眾。未覩其實。謂如來依本<lb
+ ed="X" n="0001a22"/><lb
+ ed="R093" n="0936a16"/>分月輪身所示權道。何能充滿一切世界。是故婆<lb
+ ed="X" n="0001a23"/><lb
+ ed="R093" n="0936a17"/>伽婆。令一切大眾。於常果法身。起深信解故。依月<lb
+ ed="X" n="0001a24"/><lb
+ ed="R093" n="0936a18"/>輪星流身放大光明。漸次普照一切世界。令諸大<pb ed="X" id="X03.0208.0001b" n="0001b"/><lb
+ ed="X" n="0001b01"/><lb
+ ed="R093" n="0936b01"/>眾。尋光開覺。覩見如來四種道。充滿十方。入佛智<lb
+ ed="X" n="0001b02"/><lb
+ ed="R093" n="0936b02"/>海。趣無餘涅槃故。是故顯示光明開覺。常果法身。<lb
+ ed="X" n="0001b03"/><lb
+ ed="R093" n="0936b03"/>不思議無礙。攝受一切世間。是光明開覺。法身智<lb
+ ed="X" n="0001b04"/><lb
+ ed="R093" n="0936b04"/>力有十種。一者法身常住。二者救苦說法。三者普<lb
+ ed="X" n="0001b05"/><lb
+ ed="R093" n="0936b05"/>應世間。四者法身如實。五者隨噐出現。六者智身<lb
+ ed="X" n="0001b06"/><lb
+ ed="R093" n="0936b06"/>寂滅。七者常恒清淨。八者智照自在。九者大悲拔<lb
+ ed="X" n="0001b07"/><lb
+ ed="R093" n="0936b07"/>苦。十者普應無礙。法身常住者。是顯示身有二分。<lb
+ ed="X" n="0001b08"/><lb
+ ed="R093" n="0936b08"/>一者光明開覺。二者顯嘆法身。光明開覺者。是光<lb
+ ed="X" n="0001b09"/><lb
+ ed="R093" n="0936b09"/>明開示。有三種。一者光照此剎。二者因光見佛。三<lb
+ ed="X" n="0001b10"/><lb
+ ed="R093" n="0936b10"/>者新眾生來集。光照此剎者。</ab></div><lb
+ ed="X" n="0001b11"/><lb
+ ed="R093" n="0936b11"/><div type='orig' level='2'><ab type='prose'>經說爾者世尊一切悉現。</ab></div><lb
+ ed="X" n="0001b12"/><lb
+ ed="R093" n="0936b12"/><div type='commentary' level='2'><ab type='prose'>三千大千者。以千為始。從千數至千。名為小千。復<lb
+ ed="X" n="0001b13"/><lb
+ ed="R093" n="0936b13"/>以小千為始。從千數至千。名為中千。復以中千為<lb
+ ed="X" n="0001b14"/><lb
+ ed="R093" n="0936b14"/>始。從千數至千。名為大千。其中含有百億須彌。百<lb
+ ed="X" n="0001b15"/><lb
+ ed="R093" n="0936b15"/>億日月。四百億四天下。四百億四大海。三百億三<lb
+ ed="X" n="0001b16"/><lb
+ ed="R093" n="0936b16"/>界。如來放光。悉照其中。普現四種不思議權道。問<lb
+ ed="X" n="0001b17"/><lb
+ ed="R093" n="0936b17"/>曰。上放光從面門眉間。及齒間出。是中何故從足<lb
+ ed="X" n="0001b18"/><lb
+ ed="R093" n="0936b18"/>指相輪中放。答曰。上放光明。顯示演說甚深法。故<lb
+ ed="X" n="0001b19"/><lb
+ ed="R093" n="0937a01"/>從面門眉間放。是中開示普應世間。以四種權道。<lb
+ ed="X" n="0001b20"/><lb
+ ed="R093" n="0937a02"/>下攝群生。是故從於兩足相輪放光。問曰。何故放<lb
+ ed="X" n="0001b21"/><lb
+ ed="R093" n="0937a03"/>光但應百億。而不說普照一切世界。答曰。為化眾<lb
+ ed="X" n="0001b22"/><lb
+ ed="R093" n="0937a04"/>生。漸次遍照故。因光見佛者。於此世界。悉見如來<lb
+ ed="X" n="0001b23"/><lb
+ ed="R093" n="0937a05"/>坐獅子座。奮眾圍繞。轉淨梵輪。入勝法門故。</ab></div><lb
+ ed="X" n="0001b24"/><lb
+ ed="R093" n="0937a06"/><div type='orig' level='2'><ab type='prose'>經說如此見佛亦復如是。</ab></div><pb ed="X" id="X03.0208.0001c" n="0001c"/><lb
+ ed="X" n="0001c01"/><lb
+ ed="R093" n="0937a07"/><div type='commentary' level='2'><ab type='prose'>新眾來集者。如來神力。十方各有一大菩薩。而來<lb
+ ed="X" n="0001c02"/><lb
+ ed="R093" n="0937a08"/>雲集。何故以神力集。令文殊菩薩。依光說偈。顯示<lb
+ ed="X" n="0001c03"/><lb
+ ed="R093" n="0937a09"/>法身常住清淨。隨眾生噐。應四種權道。充滿法界故。</ab></div><lb
+ ed="X" n="0001c04"/><lb
+ ed="R093" n="0937a10"/><div type='orig' level='2'><ab type='prose'>經說以佛神力故淨修梵行。</ab></div><lb
+ ed="X" n="0001c05"/><lb
+ ed="R093" n="0937a11"/><div type='commentary' level='2'><ab type='prose'>顯嘆法身。文殊菩薩。依常身智明顯嘆。有五種。一<lb
+ ed="X" n="0001c06"/><lb
+ ed="R093" n="0937a12"/>者有行平等觀。二者依正平等觀。三者陰平等觀。<lb
+ ed="X" n="0001c07"/><lb
+ ed="R093" n="0937a13"/>四者見平等觀。五者無我平等觀。有行平等觀者。<lb
+ ed="X" n="0001c08"/><lb
+ ed="R093" n="0937a14"/>依相行則有取受心生。於一切法。分別捨證。見生<lb
+ ed="X" n="0001c09"/><lb
+ ed="R093" n="0937a15"/>死可捨。見如來涅槃解脫可證。非性淨般若真如<lb
+ ed="X" n="0001c10"/><lb
+ ed="R093" n="0937a16"/>智。如是見者。非淨慧眼。以法性涅槃無捨證故。</ab></div><lb
+ ed="X" n="0001c11"/><lb
+ ed="R093" n="0937a17"/><div type='orig' level='2'><ab type='prose'>偈說若有知正覺彼非淨道眼。</ab></div><lb
+ ed="X" n="0001c12"/><lb
+ ed="R093" n="0937a18"/><div type='commentary' level='2'><ab type='prose'>依正平等觀者。法從緣起。猶如幻化。如實觀察。身<lb
+ ed="X" n="0001c13"/><lb
+ ed="R093" n="0937b01"/>與依果。自性無二。於一切法平等。同真際。如是見<lb
+ ed="X" n="0001c14"/><lb
+ ed="R093" n="0937b02"/>佛身者。是淨慧眼。如法性故。</ab></div><lb
+ ed="X" n="0001c15"/><lb
+ ed="R093" n="0937b03"/><div type='orig' level='2'><ab type='prose'>偈說若有知如來彼人難思議。</ab></div><lb
+ ed="X" n="0001c16"/><lb
+ ed="R093" n="0937b04"/><div type='commentary' level='2'><ab type='prose'>陰平等觀者。法性涅槃中。一切法平等。佛與眾生。<lb
+ ed="X" n="0001c17"/><lb
+ ed="R093" n="0937b05"/>入實相門。陰界相盡。猶如虗空。如經中說。觀身實<lb
+ ed="X" n="0001c18"/><lb
+ ed="R093" n="0937b06"/>相。觀佛亦然。寂滅無二故。</ab></div><lb
+ ed="X" n="0001c19"/><lb
+ ed="R093" n="0937b07"/><div type='orig' level='2'><ab type='prose'>偈說若見我及佛彼是大牟尼。</ab></div><lb
+ ed="X" n="0001c20"/><lb
+ ed="R093" n="0937b08"/><div type='commentary' level='2'><ab type='prose'>見平等觀者。智及境界。真如無二。自覺清淨故。能<lb
+ ed="X" n="0001c21"/><lb
+ ed="R093" n="0937b09"/>如是知如來身者。則見佛與世。而無所起。等虗空故。</ab></div><lb
+ ed="X" n="0001c22"/><lb
+ ed="R093" n="0937b10"/><div type='orig' level='2'><ab type='prose'>偈說見者無所有彼人大名稱。</ab></div><lb
+ ed="X" n="0001c23"/><lb
+ ed="R093" n="0937b11"/><div type='commentary' level='2'><ab type='prose'>無我平等觀者。陰集非有。無性故空。解法寂滅。入<lb
+ ed="X" n="0001c24"/><lb
+ ed="R093" n="0937b12"/>不二法門。則見如來智無有畏。安穩解脫故。何故<pb ed="X" id="X03.0208.0002a" n="0002a"/><lb
+ ed="X" n="0002a01"/><lb
+ ed="R093" n="0937b13"/>顯示法身常住。如一切智入。令諸大眾。尋光覩見。<lb
+ ed="X" n="0002a02"/><lb
+ ed="R093" n="0937b14"/>四種種道。心無染著。離一切相故。</ab></div><lb
+ ed="X" n="0002a03"/><lb
+ ed="R093" n="0937b15"/><div type='orig' level='2'><ab type='prose'>偈說無我無眾生智者無所畏。</ab></div><lb
+ ed="X" n="0002a04"/><lb
+ ed="R093" n="0937b16"/><div type='commentary' level='2'><ab type='prose'>救苦說法者。光如前說。倍增差別。是開示法輪攝。<lb
+ ed="X" n="0002a05"/><lb
+ ed="R093" n="0937b17"/>有二種。一者智斷具故。能轉法輪。二者勸修。如聞<lb
+ ed="X" n="0002a06"/><lb
+ ed="R093" n="0937b18"/>見證。智斷具者。是相有六種。一者安護故。修行智<lb
+ ed="X" n="0002a07"/><lb
+ ed="R093" n="0938a01"/>斷。以無漏根力。調御群生。斷癡愛㓨林。免熱惱苦。<lb
+ ed="X" n="0002a08"/><lb
+ ed="R093" n="0938a02"/>置清涼地。證道還應為轉法輪。法爾調御故。二者<lb
+ ed="X" n="0002a09"/><lb
+ ed="R093" n="0938a03"/>見見實故。修行智斷。證真如空。遠離二邊。同涅槃<lb
+ ed="X" n="0002a10"/><lb
+ ed="R093" n="0938a04"/>相。轉實法輪故。三者證涅槃故。修行智斷。於無量<lb
+ ed="X" n="0002a11"/><lb
+ ed="R093" n="0938a05"/>劫。集一切德。本度生死此岸。達到涅槃。法爾應轉<lb
+ ed="X" n="0002a12"/><lb
+ ed="R093" n="0938a06"/>清淨梵輪。普覺世間故。四者降魔故。修行智斷。以<lb
+ ed="X" n="0002a13"/><lb
+ ed="R093" n="0938a07"/>性淨無我無漏聖智。降伏四魔。無畏勇健。直出生<lb
+ ed="X" n="0002a14"/><lb
+ ed="R093" n="0938a08"/>死。以慈悲智幢。現轉法輪。無畏說故。五者度煩惱<lb
+ ed="X" n="0002a15"/><lb
+ ed="R093" n="0938a09"/>漏故。修行智斷。道種盡慧。滅有依依無依諸有漏<lb
+ ed="X" n="0002a16"/><lb
+ ed="R093" n="0938a10"/>集。逮得涅槃常身智海。一念盡見一切法界。自在<lb
+ ed="X" n="0002a17"/><lb
+ ed="R093" n="0938a11"/>示現。轉勝法輪。無障碍故。六者擊法皷故。修行智<lb
+ ed="X" n="0002a18"/><lb
+ ed="R093" n="0938a12"/>斷。具一切智已。興正法雲。甘露法雨。悉令眾生。入<lb
+ ed="X" n="0002a19"/><lb
+ ed="R093" n="0938a13"/>安穩智道。轉淨法輪。自覺法爾故。</ab></div><lb
+ ed="X" n="0002a20"/><lb
+ ed="R093" n="0938a14"/><div type='orig' level='2'><ab type='prose'>偈說見眾生苦逼自覺法如是。</ab></div><lb
+ ed="X" n="0002a21"/><lb
+ ed="R093" n="0938a15"/><div type='commentary' level='2'><ab type='prose'>勸修者。是勸進相。有四種。一者界處勸修法性涅<lb
+ ed="X" n="0002a22"/><lb
+ ed="R093" n="0938a16"/>槃。壞一切有自在雲。實應如佛所住。常身示現。遊<lb
+ ed="X" n="0002a23"/><lb
+ ed="R093" n="0938a17"/>諸剎土。利安世間故。二者果處勸修涅槃。如空常<lb
+ ed="X" n="0002a24"/><lb
+ ed="R093" n="0938a18"/>恒清淨。應以大願。歡喜念住故。三者悲處勸修。在<pb ed="X" id="X03.0208.0002b" n="0002b"/><lb
+ ed="X" n="0002b01"/><lb
+ ed="R093" n="0938b01"/>大地獄。為惱燒煑。應住心如空。安穩濟難故。四者<lb
+ ed="X" n="0002b02"/><lb
+ ed="R093" n="0938b02"/>捨處勸修。護大法故。勿惜壽命。住堅固忍。建正法<lb
+ ed="X" n="0002b03"/><lb
+ ed="R093" n="0938b03"/>幢。是因能至金剛之身。不可壞故。何故顯示勸修。<lb
+ ed="X" n="0002b04"/><lb
+ ed="R093" n="0938b04"/>如聞證入解脫果故。</ab></div><lb
+ ed="X" n="0002b05"/><lb
+ ed="R093" n="0938b05"/><div type='orig' level='2'><ab type='prose'>偈說不壞無量境彼得如來法。</ab></div><lb
+ ed="X" n="0002b06"/><lb
+ ed="R093" n="0938b06"/><div type='commentary' level='2'><ab type='prose'>普應世間者。光如前說。倍增差別。是普應有二種。<lb
+ ed="X" n="0002b07"/><lb
+ ed="R093" n="0938b07"/>一者法身自在。二者應身普至。法身自在者。善覺<lb
+ ed="X" n="0002b08"/><lb
+ ed="R093" n="0938b08"/>清淨。住無餘涅槃故。</ab></div><lb
+ ed="X" n="0002b09"/><lb
+ ed="R093" n="0938b09"/><div type='orig' level='2'><ab type='prose'>偈說如來覺諸法調伏群生類。</ab></div><lb
+ ed="X" n="0002b10"/><lb
+ ed="R093" n="0938b10"/><div type='commentary' level='2'><ab type='prose'>應身普至者。是云。現有九種。一者出生方便。降身<lb
+ ed="X" n="0002b11"/><lb
+ ed="R093" n="0938b11"/>母胎。示行人道。雖復出生。相好具足。猶如山王。住<lb
+ ed="X" n="0002b12"/><lb
+ ed="R093" n="0938b12"/>㝡後身。示成正覺。普照世間。如滿月故。二者行攝<lb
+ ed="X" n="0002b13"/><lb
+ ed="R093" n="0938b13"/>方便。禪思經行。集無量功德。定慧清淨。心無所畏。<lb
+ ed="X" n="0002b14"/><lb
+ ed="R093" n="0938b14"/>如師子王故。三者觀察方便。淨眼觀察十方界藏。<lb
+ ed="X" n="0002b15"/><lb
+ ed="R093" n="0938b15"/>或示戲咲。調御眾生故。四者身淨方便。示末後身。<lb
+ ed="X" n="0002b16"/><lb
+ ed="R093" n="0938b16"/>大師子吼。所轉法輪。莫不真實。其身清淨。如日光<lb
+ ed="X" n="0002b17"/><lb
+ ed="R093" n="0938b17"/>故。五者棄家方便。捨家出家。解脫無染。修行禪寂。<lb
+ ed="X" n="0002b18"/><lb
+ ed="R093" n="0938b18"/>入如實際。心常志樂。住諸佛行。取解脫果故。六者<lb
+ ed="X" n="0002b19"/><lb
+ ed="R093" n="0939a01"/>亦坐道場方便。先已善覺一切法相。而現坐道場。<lb
+ ed="X" n="0002b20"/><lb
+ ed="R093" n="0939a02"/>修無漏智道。度諸法彼岸。以金剛智火。滅無明闇。<lb
+ ed="X" n="0002b21"/><lb
+ ed="R093" n="0939a03"/>正覺諸法。成無上道故。七者調伏方便。以大悲雲。<lb
+ ed="X" n="0002b22"/><lb
+ ed="R093" n="0939a04"/>遍䨱一切。慈光流入諸群生根。示以法寶。悉調伏<lb
+ ed="X" n="0002b23"/><lb
+ ed="R093" n="0939a05"/>故。八者轉法輪方便。容儀殊特。處一切大眾。示無<lb
+ ed="X" n="0002b24"/><lb
+ ed="R093" n="0939a06"/>畏說。神力自在。無能映蔽。悉攝眾生。置如實法故。<pb ed="X" id="X03.0208.0002c" n="0002c"/><lb
+ ed="X" n="0002c01"/><lb
+ ed="R093" n="0939a07"/>九者滅度非滅度方便。噐咸盡故。示般涅槃。普現<lb
+ ed="X" n="0002c02"/><lb
+ ed="R093" n="0939a08"/>佛事。如實饒益。或復熾然明照世間。如千日出。普<lb
+ ed="X" n="0002c03"/><lb
+ ed="R093" n="0939a09"/>照一切。隨根充滿。皆令達到究竟菩提故。</ab></div><lb
+ ed="X" n="0002c04"/><lb
+ ed="R093" n="0939a10"/><div type='orig' level='2'><ab type='prose'>偈說或見初生時顯現自在法。</ab></div><lb
+ ed="X" n="0002c05"/><lb
+ ed="R093" n="0939a11"/><div type='commentary' level='2'><ab type='prose'>法身如實者。光如前說。倍增差別。是法身如實。有<lb
+ ed="X" n="0002c06"/><lb
+ ed="R093" n="0939a12"/>十種甚深。一者無相甚深。法身非有。隨群生噐。次<lb
+ ed="X" n="0002c07"/><lb
+ ed="R093" n="0939a13"/>第現身。猶如月王。漸增滿足故。二者清淨甚深。證<lb
+ ed="X" n="0002c08"/><lb
+ ed="R093" n="0939a14"/>如智破二種縛。一者心緣縛。解我無我心相盡故。<lb
+ ed="X" n="0002c09"/><lb
+ ed="R093" n="0939a15"/>二者界處縛。我所法中。無所取故。離此縛故。得二<lb
+ ed="X" n="0002c10"/><lb
+ ed="R093" n="0939a16"/>種淨。一者智淨。涅槃智覺。如靈空故。二者斷淨。於<lb
+ ed="X" n="0002c11"/><lb
+ ed="R093" n="0939a17"/>煩惱爾炎地種滅故。是淨非念處智。常身離盡無<lb
+ ed="X" n="0002c12"/><lb
+ ed="R093" n="0939a18"/>邊聖諦故。三者解脫甚深。自覺聖道。離無明闇。如<lb
+ ed="X" n="0002c13"/><lb
+ ed="R093" n="0939b01"/>日天子。普照世間。如聲發響應。悉對現故。四者常<lb
+ ed="X" n="0002c14"/><lb
+ ed="R093" n="0939b02"/>身甚深。離陰入界。入壞無常壞果。超出世間。住自<lb
+ ed="X" n="0002c15"/><lb
+ ed="R093" n="0939b03"/>覺聖地。自在無畏。如師子王故。五者自體淨甚深。<lb
+ ed="X" n="0002c16"/><lb
+ ed="R093" n="0939b04"/>離一切障。自覺解脫。如靈空集故。六者斷常甚深。<lb
+ ed="X" n="0002c17"/><lb
+ ed="R093" n="0939b05"/>於有依集起。無依集起二種建立。住地煩惱。菩提<lb
+ ed="X" n="0002c18"/><lb
+ ed="R093" n="0939b06"/>智斷故。七者同體淨甚深。自覺清淨離染障。自在<lb
+ ed="X" n="0002c19"/><lb
+ ed="R093" n="0939b07"/>無礙。悉寂滅故。八者爾炎淨甚深。智光普入眾生<lb
+ ed="X" n="0002c20"/><lb
+ ed="R093" n="0939b08"/>界藏悉建立。九者嚴淨甚深。集一切依果。以無量<lb
+ ed="X" n="0002c21"/><lb
+ ed="R093" n="0939b09"/>莊嚴具。悉莊嚴故。十者空實甚深。正覺寂滅。有亦<lb
+ ed="X" n="0002c22"/><lb
+ ed="R093" n="0939b10"/>有。有非有相。非無亦無。無非無相。而能普現說法<lb
+ ed="X" n="0002c23"/><lb
+ ed="R093" n="0939b11"/>調御故。</ab></div><lb
+ ed="X" n="0002c24"/><lb
+ ed="R093" n="0939b12"/><div type='orig' level='2'><ab type='prose'>偈說善逝法甚深為說清淨法。</ab></div><pb ed="X" id="X03.0208.0003a" n="0003a"/><lb
+ ed="X" n="0003a01"/><lb
+ ed="R093" n="0939b13"/><div type='commentary' level='2'><ab type='prose'>隨噐出現者。光如前說。倍增差別。是依噐出現。有<lb
+ ed="X" n="0003a02"/><lb
+ ed="R093" n="0939b14"/>十種淨妙業。一者慈救淨業。於三品人中。等心免<lb
+ ed="X" n="0003a03"/><lb
+ ed="R093" n="0939b15"/>濟。於苦眾生。救苦與樂。離人天放逸。住慈等善根<lb
+ ed="X" n="0003a04"/><lb
+ ed="R093" n="0939b16"/>故。二者信淨業。修念佛三昧。堅住不動。猶如明鏡<lb
+ ed="X" n="0003a05"/><lb
+ ed="R093" n="0939b17"/>淨無垢故。三者無漏淨業。住性淨法流。慧明無穢<lb
+ ed="X" n="0003a06"/><lb
+ ed="R093" n="0939b18"/>故。無明闇障。越生死海故。四者身淨業。於四威儀。<lb
+ ed="X" n="0003a07"/><lb
+ ed="R093" n="0940a01"/>不令毀壞。心常繫念三昧法中。晝夜善觀諸佛境<lb
+ ed="X" n="0003a08"/><lb
+ ed="R093" n="0940a02"/>界。心不休息。趣菩提明處故。五者遍修淨業。心無<lb
+ ed="X" n="0003a09"/><lb
+ ed="R093" n="0940a03"/>怠慢。入一切三世。勇猛精進。攝無餘涅槃故。六者<lb
+ ed="X" n="0003a10"/><lb
+ ed="R093" n="0940a04"/>真智淨業。觀一切法。入性淨無我。真如法中。離我<lb
+ ed="X" n="0003a11"/><lb
+ ed="R093" n="0940a05"/>我所。無身相故。七者觀察淨業。善能計量諸眾。悉<lb
+ ed="X" n="0003a12"/><lb
+ ed="R093" n="0940a06"/>知其小大。應彼根噐。令離愛染。安置如實寂滅法<lb
+ ed="X" n="0003a13"/><lb
+ ed="R093" n="0940a07"/>故。八者神業淨業。於一切佛土。示神變力。悉令無<lb
+ ed="X" n="0003a14"/><lb
+ ed="R093" n="0940a08"/>量群生。飲法甘露。充滿身心。悉安穩故。九者計量<lb
+ ed="X" n="0003a15"/><lb
+ ed="R093" n="0940a09"/>淨業。知一切佛國色集。以無礙智明。照盡無餘故。<lb
+ ed="X" n="0003a16"/><lb
+ ed="R093" n="0940a10"/>十者微細計量智明淨業。於一切塵。悉知其數。智<lb
+ ed="X" n="0003a17"/><lb
+ ed="R093" n="0940a11"/>明無礙。自在教化故。何故顯嘆淨業。依彼噐水。現<lb
+ ed="X" n="0003a18"/><lb
+ ed="R093" n="0940a12"/>月王身故。</ab></div><lb
+ ed="X" n="0003a19"/><lb
+ ed="R093" n="0940a13"/><div type='orig' level='2'><ab type='prose'>偈說離諸人天樂是彼淨妙業。</ab></div><lb
+ ed="X" n="0003a20"/><lb
+ ed="R093" n="0940a14"/><div type='commentary' level='2'><ab type='prose'>智身寂滅者。光如前說。倍增差別。是智身寂滅有<lb
+ ed="X" n="0003a21"/><lb
+ ed="R093" n="0940a15"/>二種。一者法身離相。二者應身出化。法身離相者。<lb
+ ed="X" n="0003a22"/><lb
+ ed="R093" n="0940a16"/>是寂滅難見。有六種。一者倒見非真。二者色身無<lb
+ ed="X" n="0003a23"/><lb
+ ed="R093" n="0940a17"/>邊。三者法身離相。四者涅槃寂滅。五者離盡智淨。<lb
+ ed="X" n="0003a24"/><lb
+ ed="R093" n="0940a18"/>六者體淨解脫。倒見非真者。作色相緣。佛非淨涅<pb ed="X" id="X03.0208.0003b" n="0003b"/><lb
+ ed="X" n="0003b01"/><lb
+ ed="R093" n="0940b01"/>槃。欲見佛者。是人隨㒹倒行。蔽於慧眼。不能善達<lb
+ ed="X" n="0003b02"/><lb
+ ed="R093" n="0940b02"/>最勝涅槃。邪見取相故。</ab></div><lb
+ ed="X" n="0003b03"/><lb
+ ed="R093" n="0940b03"/><div type='orig' level='2'><ab type='prose'>偈說若以色性大神力彼為不識最勝法。</ab></div><lb
+ ed="X" n="0003b04"/><lb
+ ed="R093" n="0940b04"/><div type='commentary' level='2'><ab type='prose'>色身無邊者。無色離色。示一切色相。猶如虗空。無<lb
+ ed="X" n="0003b05"/><lb
+ ed="R093" n="0940b05"/>有能觀。見邊際故。</ab></div><lb
+ ed="X" n="0003b06"/><lb
+ ed="R093" n="0940b06"/><div type='orig' level='2'><ab type='prose'>偈說如來色身形相處妙色威神不可極。</ab></div><lb
+ ed="X" n="0003b07"/><lb
+ ed="R093" n="0940b07"/><div type='commentary' level='2'><ab type='prose'>法身離相者。體淨涅槃如實際。離一切色。非相所<lb
+ ed="X" n="0003b08"/><lb
+ ed="R093" n="0940b08"/>攝。而具妙色隨應故。</ab></div><lb
+ ed="X" n="0003b09"/><lb
+ ed="R093" n="0940b09"/><div type='orig' level='2'><ab type='prose'>偈說非以相好為如來隨其所應悉能現。</ab></div><lb
+ ed="X" n="0003b10"/><lb
+ ed="R093" n="0940b10"/><div type='commentary' level='2'><ab type='prose'>涅槃寂滅者。法性行果如如際。住無有量離諸量。<lb
+ ed="X" n="0003b11"/><lb
+ ed="R093" n="0940b11"/>離集無集。過諸合散。性相常恒。不可說故。</ab></div><lb
+ ed="X" n="0003b12"/><lb
+ ed="R093" n="0940b12"/><div type='orig' level='2'><ab type='prose'>偈說諸佛正法不可量其性本來常寂滅。</ab></div><lb
+ ed="X" n="0003b13"/><lb
+ ed="R093" n="0940b13"/><div type='commentary' level='2'><ab type='prose'>離盡智淨者。法身智淨。離陰界入。捨無常壞果。證<lb
+ ed="X" n="0003b14"/><lb
+ ed="R093" n="0940b14"/>報淨涅槃。心行處滅。過語言道故。</ab></div><lb
+ ed="X" n="0003b15"/><lb
+ ed="R093" n="0940b15"/><div type='orig' level='2'><ab type='prose'>偈說不以陰數為如來言語道斷行處滅。</ab></div><lb
+ ed="X" n="0003b16"/><lb
+ ed="R093" n="0940b16"/><div type='commentary' level='2'><ab type='prose'>體淨解脫者。身心離相。善覺如實。不二不盡。常清<lb
+ ed="X" n="0003b17"/><lb
+ ed="R093" n="0940b17"/>淨故。</ab></div><lb
+ ed="X" n="0003b18"/><lb
+ ed="R093" n="0940b18"/><div type='orig' level='2'><ab type='prose'>偈說等觀身心無異相善逝深遠無所有。</ab></div><lb
+ ed="X" n="0003b19"/><lb
+ ed="R093" n="0941a01"/><div type='commentary' level='2'><ab type='prose'>應身出化者。是示現有五種。一者流光遍入。隨一<lb
+ ed="X" n="0003b20"/><lb
+ ed="R093" n="0941a02"/>切法界。悉能遠照。光覺自在。善應群生故。二者同<lb
+ ed="X" n="0003b21"/><lb
+ ed="R093" n="0941a03"/>躰示現。一應示無量。無量示一。應一處一切處。一<lb
+ ed="X" n="0003b22"/><lb
+ ed="R093" n="0941a04"/>切處一處。無障㝵故。三者不動示現。身無去來。過<lb
+ ed="X" n="0003b23"/><lb
+ ed="R093" n="0941a05"/>妄想際。而能示現。起如幻智。應種種身雲故。四者<lb
+ ed="X" n="0003b24"/><lb
+ ed="R093" n="0941a06"/>隨世間起。應妄想生。了達自性。知無所有。悉寂滅故。<pb ed="X" id="X03.0208.0003c" n="0003c"/><lb
+ ed="X" n="0003c01"/><lb
+ ed="R093" n="0941a07"/>五者究竟示現。如涅槃智者。則覩導師。遠離諸漏故。</ab></div><lb
+ ed="X" n="0003c02"/><lb
+ ed="R093" n="0941a08"/><div type='orig' level='2'><ab type='prose'>偈說普放妙光明是則見導師。</ab></div><lb
+ ed="X" n="0003c03"/><lb
+ ed="R093" n="0941a09"/><div type='commentary' level='2'><ab type='prose'>常住清淨者。光如前說。倍增差別。是相有二種。一<lb
+ ed="X" n="0003c04"/><lb
+ ed="R093" n="0941a10"/>者法身常住。二者勸諸菩薩。應如實知。法身常住<lb
+ ed="X" n="0003c05"/><lb
+ ed="R093" n="0941a11"/>者。是淨有六種。一者自覺超勝法身常住。超度四<lb
+ ed="X" n="0003c06"/><lb
+ ed="R093" n="0941a12"/>魔。自躰無依。無能勝者。壞無常壞果。如金剛故。二<lb
+ ed="X" n="0003c07"/><lb
+ ed="R093" n="0941a13"/>者能安護世間法身常住。自度四魔。能與世間。為<lb
+ ed="X" n="0003c08"/><lb
+ ed="R093" n="0941a14"/>歸依者。具一切功德。調御群生。證涅槃故。三者妄<lb
+ ed="X" n="0003c09"/><lb
+ ed="R093" n="0941a15"/>想識滅法身常住。壞七心壞果。覺淨涅槃。常恒不<lb
+ ed="X" n="0003c10"/><lb
+ ed="R093" n="0941a16"/>變。無所依止。如虗空故。四者壞果不壞法身常住。<lb
+ ed="X" n="0003c11"/><lb
+ ed="R093" n="0941a17"/>七識滅。真心躰淨。不為壞法之所壞故。五者斷淨<lb
+ ed="X" n="0003c12"/><lb
+ ed="R093" n="0941a18"/>法身常住。躰自躰虗偽盡。如鏡無垢故。六者智淨法<lb
+ ed="X" n="0003c13"/><lb
+ ed="R093" n="0941b01"/>身常住。不思議流住滅。真如躰照不二。善覺法性故。</ab></div><lb
+ ed="X" n="0003c14"/><lb
+ ed="R093" n="0941b02"/><div type='orig' level='2'><ab type='prose'>偈說㝡勝自覺超世間是名善入如來智。</ab></div><lb
+ ed="X" n="0003c15"/><lb
+ ed="R093" n="0941b03"/><div type='commentary' level='2'><ab type='prose'>勸諸菩薩如實知者。是勸進有五種。一者遠離身<lb
+ ed="X" n="0003c16"/><lb
+ ed="R093" n="0941b04"/>心。二者無轉示轉。三者道淨平等。四者法於如住。<lb
+ ed="X" n="0003c17"/><lb
+ ed="R093" n="0941b05"/>五者無依寂滅。遠離身心。應如實知者。欲入常身<lb
+ ed="X" n="0003c18"/><lb
+ ed="R093" n="0941b06"/>深智慧海。離諸心念妄想意根。能如實了達。無疑<lb
+ ed="X" n="0003c19"/><lb
+ ed="R093" n="0941b07"/>惑故。</ab></div><lb
+ ed="X" n="0003c20"/><lb
+ ed="R093" n="0941b08"/><div type='orig' level='2'><ab type='prose'>偈說欲入善逝深法海永不隨順疑惑心。</ab></div><lb
+ ed="X" n="0003c21"/><lb
+ ed="R093" n="0941b09"/><div type='commentary' level='2'><ab type='prose'>無轉示轉應如實知者。轉法輪時。知性自性。無所<lb
+ ed="X" n="0003c22"/><lb
+ ed="R093" n="0941b10"/>轉故。</ab></div><lb
+ ed="X" n="0003c23"/><lb
+ ed="R093" n="0941b11"/><div type='orig' level='2'><ab type='prose'>偈說一切世界如來境無上導師方便說。</ab></div><lb
+ ed="X" n="0003c24"/><lb
+ ed="R093" n="0941b12"/><div type='commentary' level='2'><ab type='prose'>道淨平等應如實知者。菩提無種種相。當離妄想。<pb ed="X" id="X03.0208.0004a" n="0004a"/><lb
+ ed="X" n="0004a01"/><lb
+ ed="R093" n="0941b13"/>如菩提住故。</ab></div><lb
+ ed="X" n="0004a02"/><lb
+ ed="R093" n="0941b14"/><div type='orig' level='2'><ab type='prose'>偈說曉了諸法無疑惑正意思惟佛菩提。</ab></div><lb
+ ed="X" n="0004a03"/><lb
+ ed="R093" n="0941b15"/><div type='commentary' level='2'><ab type='prose'>法相如住應如實知者。法非一二。假名說量無量。<lb
+ ed="X" n="0004a04"/><lb
+ ed="R093" n="0941b16"/>而能流布。餘益群生故。</ab></div><lb
+ ed="X" n="0004a05"/><lb
+ ed="R093" n="0941b17"/><div type='orig' level='2'><ab type='prose'>偈說諦了分別諸法時是知諸佛無量德。</ab></div><lb
+ ed="X" n="0004a06"/><lb
+ ed="R093" n="0941b18"/><div type='commentary' level='2'><ab type='prose'>無依寂滅應如實知者。生死涅槃。除性無有異。除<lb
+ ed="X" n="0004a07"/><lb
+ ed="R093" n="0942a01"/>滅憶想。如佛住故。</ab></div><lb
+ ed="X" n="0004a08"/><lb
+ ed="R093" n="0942a02"/><div type='orig' level='2'><ab type='prose'>偈說觀察諸法及眾生是則了知佛法義。</ab></div><lb
+ ed="X" n="0004a09"/><lb
+ ed="R093" n="0942a03"/><div type='commentary' level='2'><ab type='prose'>智照自在者。光如前說。倍增差別。是智自在。有十<lb
+ ed="X" n="0004a10"/><lb
+ ed="R093" n="0942a04"/>種常身無㝵方便。一者離盡常住。二者自覺聖諦。<lb
+ ed="X" n="0004a11"/><lb
+ ed="R093" n="0942a05"/>三者住深禪寂。四者住涅槃性。五者等覺隨順。六<lb
+ ed="X" n="0004a12"/><lb
+ ed="R093" n="0942a06"/>者具十力智。七者同真際。八者成敗自在。九者宿<lb
+ ed="X" n="0004a13"/><lb
+ ed="R093" n="0942a07"/>命他心智。十者三明自在。離盡常住壽命方便者。<lb
+ ed="X" n="0004a14"/><lb
+ ed="R093" n="0942a08"/>證二種涅槃。智無倫匹。度生死海。起勝彼岸。命根<lb
+ ed="X" n="0004a15"/><lb
+ ed="R093" n="0942a09"/>難俎。如虗空故。</ab></div><lb
+ ed="X" n="0004a16"/><lb
+ ed="R093" n="0942a10"/><div type='orig' level='2'><ab type='prose'>偈說大智無有量是則方便力。</ab></div><lb
+ ed="X" n="0004a17"/><lb
+ ed="R093" n="0942a11"/><div type='commentary' level='2'><ab type='prose'>自覺聖諦如實方便者。達法緣起。入如實際。三世<lb
+ ed="X" n="0004a18"/><lb
+ ed="R093" n="0942a12"/>一合。淨明無二故。</ab></div><lb
+ ed="X" n="0004a19"/><lb
+ ed="R093" n="0942a13"/><div type='orig' level='2'><ab type='prose'>偈說於諸佛深法是則方便力。</ab></div><lb
+ ed="X" n="0004a20"/><lb
+ ed="R093" n="0942a14"/><div type='commentary' level='2'><ab type='prose'>住深禪寂示身方便者。正受三昧。如無所度。而能<lb
+ ed="X" n="0004a21"/><lb
+ ed="R093" n="0942a15"/>現起身雲。如應調伏故。</ab></div><lb
+ ed="X" n="0004a22"/><lb
+ ed="R093" n="0942a16"/><div type='orig' level='2'><ab type='prose'>偈說常樂觀眾生是則方便力。</ab></div><lb
+ ed="X" n="0004a23"/><lb
+ ed="R093" n="0942a17"/><div type='commentary' level='2'><ab type='prose'>住涅槃性常恒方便者。解脫自在。滿平等大慧。巧<lb
+ ed="X" n="0004a24"/><lb
+ ed="R093" n="0942a18"/>會有無。證解脫道故。</ab></div><pb ed="X" id="X03.0208.0004b" n="0004b"/><lb
+ ed="X" n="0004b01"/><lb
+ ed="R093" n="0942b01"/><div type='orig' level='2'><ab type='prose'>偈說方便善觀察是則方便力。</ab></div><lb
+ ed="X" n="0004b02"/><lb
+ ed="R093" n="0942b02"/><div type='commentary' level='2'><ab type='prose'>等覺隨順菩提方便者。攝一切智。究竟如法性。善<lb
+ ed="X" n="0004b03"/><lb
+ ed="R093" n="0942b03"/>化眾生故。</ab></div><lb
+ ed="X" n="0004b04"/><lb
+ ed="R093" n="0942b04"/><div type='orig' level='2'><ab type='prose'>偈說隨順調御士是則方便力。</ab></div><lb
+ ed="X" n="0004b05"/><lb
+ ed="R093" n="0942b05"/><div type='commentary' level='2'><ab type='prose'>具十力智解脫方便者。用深廣智慧。自覺聖道。能<lb
+ ed="X" n="0004b06"/><lb
+ ed="R093" n="0942b06"/>到是處非處等諸法彼岸。能令眾生。背生死道。趣<lb
+ ed="X" n="0004b07"/><lb
+ ed="R093" n="0942b07"/>涅槃故。</ab></div><lb
+ ed="X" n="0004b08"/><lb
+ ed="R093" n="0942b08"/><div type='orig' level='2'><ab type='prose'>偈說佛說深法義是則方便力。</ab></div><lb
+ ed="X" n="0004b09"/><lb
+ ed="R093" n="0942b09"/><div type='commentary' level='2'><ab type='prose'>同真際無㝵方便者。到諸法實相。心如實虗空。善<lb
+ ed="X" n="0004b10"/><lb
+ ed="R093" n="0942b10"/>巧無差。平等寂滅。無障㝵故。</ab></div><lb
+ ed="X" n="0004b11"/><lb
+ ed="R093" n="0942b11"/><div type='orig' level='2'><ab type='prose'>偈說心如虗空界是則方便力。</ab></div><lb
+ ed="X" n="0004b12"/><lb
+ ed="R093" n="0942b12"/><div type='commentary' level='2'><ab type='prose'>成敗自在時數方便者。善巧念知。日月時朔。秊歲<lb
+ ed="X" n="0004b13"/><lb
+ ed="R093" n="0942b13"/>劫等。隨剎成敗。如實知故。</ab></div><lb
+ ed="X" n="0004b14"/><lb
+ ed="R093" n="0942b14"/><div type='orig' level='2'><ab type='prose'>偈說常記念晝夜是則方便力。</ab></div><lb
+ ed="X" n="0004b15"/><lb
+ ed="R093" n="0942b15"/><div type='commentary' level='2'><ab type='prose'>宿命他心智處方便者。於眾生界。種種因緣。隨諸<lb
+ ed="X" n="0004b16"/><lb
+ ed="R093" n="0942b16"/>業果。一切遍知故。</ab></div><lb
+ ed="X" n="0004b17"/><lb
+ ed="R093" n="0942b17"/><div type='orig' level='2'><ab type='prose'>偈說一切群萌類是則方便力。</ab></div><lb
+ ed="X" n="0004b18"/><lb
+ ed="R093" n="0942b18"/><div type='commentary' level='2'><ab type='prose'>三明自在無㝵方便者。智盡三世。一切覺故。前七<lb
+ ed="X" n="0004b19"/><lb
+ ed="R093" n="0943a01"/>種方便。善覺真諦。巧會有無際實。除涅槃性故。後<lb
+ ed="X" n="0004b20"/><lb
+ ed="R093" n="0943a02"/>三種方便。善覺世諦。隨無量差別事。一念悉知故。</ab></div><lb
+ ed="X" n="0004b21"/><lb
+ ed="R093" n="0943a03"/><div type='orig' level='2'><ab type='prose'>偈說一切過去世無比方便力。</ab></div><lb
+ ed="X" n="0004b22"/><lb
+ ed="R093" n="0943a04"/><div type='commentary' level='2'><ab type='prose'>大悲拔苦者。光如前說。倍增差別。是大悲拔苦。有<lb
+ ed="X" n="0004b23"/><lb
+ ed="R093" n="0943a05"/>十種。一者能度難度。二者勉彼恐怖。三者斷諸放<lb
+ ed="X" n="0004b24"/><lb
+ ed="R093" n="0943a06"/>逸。四者拔我見地。五者與無依為依。六者斷邪行<pb ed="X" id="X03.0208.0004c" n="0004c"/><lb
+ ed="X" n="0004c01"/><lb
+ ed="R093" n="0943a07"/>結使。七者拔苦三有。八者勉流住。無明住地。九者<lb
+ ed="X" n="0004c02"/><lb
+ ed="R093" n="0943a08"/>斷無常壞果。十者同斷攝。能度難度苦。大悲者不<lb
+ ed="X" n="0004c03"/><lb
+ ed="R093" n="0943a09"/>惜身命。修難行苦行。度難度海。還來法界。大師子<lb
+ ed="X" n="0004c04"/><lb
+ ed="R093" n="0943a10"/>吼。如實利安一切眾生。悉令逮得無師智故。</ab></div><lb
+ ed="X" n="0004c05"/><lb
+ ed="R093" n="0943a11"/><div type='orig' level='2'><ab type='prose'>偈說受持難行法我令悉當度。</ab></div><lb
+ ed="X" n="0004c06"/><lb
+ ed="R093" n="0943a12"/><div type='commentary' level='2'><ab type='prose'>勉彼恐怖救苦大悲者。於生死津濟五煩惱中。拯<lb
+ ed="X" n="0004c07"/><lb
+ ed="R093" n="0943a13"/>接眾生。令離恐怖。世雄決定。能善利安。悉解脫故。</ab></div><lb
+ ed="X" n="0004c08"/><lb
+ ed="R093" n="0943a14"/><div type='orig' level='2'><ab type='prose'>偈說漂浪生死流是則佛境界。</ab></div><lb
+ ed="X" n="0004c09"/><lb
+ ed="R093" n="0943a15"/><div type='commentary' level='2'><ab type='prose'>斷諸放逸救苦大悲者。以無漏智。大滅諸愛欲。究<lb
+ ed="X" n="0004c10"/><lb
+ ed="R093" n="0943a16"/>竟清淨。住如來道故。</ab></div><lb
+ ed="X" n="0004c11"/><lb
+ ed="R093" n="0943a17"/><div type='orig' level='2'><ab type='prose'>偈說世間諸放逸是則佛境界。</ab></div><lb
+ ed="X" n="0004c12"/><lb
+ ed="R093" n="0943a18"/><div type='commentary' level='2'><ab type='prose'>拔我見地救苦大悲者。以智慧力。斷彼眾生邪慢<lb
+ ed="X" n="0004c13"/><lb
+ ed="R093" n="0943b01"/>我心。遠離亂意。住寂滅地故。</ab></div><lb
+ ed="X" n="0004c14"/><lb
+ ed="R093" n="0943b02"/><div type='orig' level='2'><ab type='prose'>偈說慧者滅本際是則佛境界。</ab></div><lb
+ ed="X" n="0004c15"/><lb
+ ed="R093" n="0943b03"/><div type='commentary' level='2'><ab type='prose'>與無依為依救苦大悲者。斷孤焭眾生。諸惡趣苦。<lb
+ ed="X" n="0004c16"/><lb
+ ed="R093" n="0943b04"/>置清涼處故。</ab></div><lb
+ ed="X" n="0004c17"/><lb
+ ed="R093" n="0943b05"/><div type='orig' level='2'><ab type='prose'>偈說見彼苦眾生是則佛境界。</ab></div><lb
+ ed="X" n="0004c18"/><lb
+ ed="R093" n="0943b06"/><div type='commentary' level='2'><ab type='prose'>斷邪行結使救苦大悲者。然以智燈。而普照之。令<lb
+ ed="X" n="0004c19"/><lb
+ ed="R093" n="0943b07"/>彼悉捨邪見闇障。住無漏智明故。</ab></div><lb
+ ed="X" n="0004c20"/><lb
+ ed="R093" n="0943b08"/><div type='orig' level='2'><ab type='prose'>偈說迷惑失正路是則佛境界。</ab></div><lb
+ ed="X" n="0004c21"/><lb
+ ed="R093" n="0943b09"/><div type='commentary' level='2'><ab type='prose'>拔出三有救苦大悲者。為漂溺眾生。施造法船。着<lb
+ ed="X" n="0004c22"/><lb
+ ed="R093" n="0943b10"/>濟度脫故。</ab></div><lb
+ ed="X" n="0004c23"/><lb
+ ed="R093" n="0943b11"/><div type='orig' level='2'><ab type='prose'>偈說一切三有海是則佛境界。</ab></div><lb
+ ed="X" n="0004c24"/><lb
+ ed="R093" n="0943b12"/><div type='commentary' level='2'><ab type='prose'>勉流注無明住地救苦大悲者。於變易生死有漏<pb ed="X" id="X03.0208.0005a" n="0005a"/><lb
+ ed="X" n="0005a01"/><lb
+ ed="R093" n="0943b13"/>淵中。施設法橋。悉皆度脫。置法性涅槃故。</ab></div><lb
+ ed="X" n="0005a02"/><lb
+ ed="R093" n="0943b14"/><div type='orig' level='2'><ab type='prose'>偈說無有本實見是則佛境界。</ab></div><lb
+ ed="X" n="0005a03"/><lb
+ ed="R093" n="0943b15"/><div type='commentary' level='2'><ab type='prose'>斷無常壞果救苦大悲者。以方便生死手。於生死<lb
+ ed="X" n="0005a04"/><lb
+ ed="R093" n="0943b16"/>獄。挽出眾生。悉令窮盡三苦邊際。究竟達到入涅<lb
+ ed="X" n="0005a05"/><lb
+ ed="R093" n="0943b17"/>槃城故。</ab></div><lb
+ ed="X" n="0005a06"/><lb
+ ed="R093" n="0943b18"/><div type='orig' level='2'><ab type='prose'>偈說見彼生死獄是則佛境界。</ab></div><lb
+ ed="X" n="0005a07"/><lb
+ ed="R093" n="0944a01"/><div type='commentary' level='2'><ab type='prose'>同類攝救苦大悲者。隨緣示現。應同彼形。令斷恐<lb
+ ed="X" n="0005a08"/><lb
+ ed="R093" n="0944a02"/>怖。心無疑惑。悉寂滅故。</ab></div><lb
+ ed="X" n="0005a09"/><lb
+ ed="R093" n="0944a03"/><div type='orig' level='2'><ab type='prose'>偈說聞佛甚深法是則天人師。</ab></div><lb
+ ed="X" n="0005a10"/><lb
+ ed="R093" n="0944a04"/><div type='commentary' level='2'><ab type='prose'>普應無㝵者。光明遍照一切法界。悉開示故。是自<lb
+ ed="X" n="0005a11"/><lb
+ ed="R093" n="0944a05"/>在相。有二種。一者光網普覺一切世間。二者開示法<lb
+ ed="X" n="0005a12"/><lb
+ ed="R093" n="0944a06"/>身一切現化。光網普覺者。流光普照一切法界。悉令<lb
+ ed="X" n="0005a13"/><lb
+ ed="R093" n="0944a07"/>大眾見法身權道。充滿世間。自在攝化。盡無餘故。</ab></div><lb
+ ed="X" n="0005a14"/><lb
+ ed="R093" n="0944a08"/><div type='orig' level='2'><ab type='prose'>經說爾時光明淨修梵行。</ab></div><lb
+ ed="X" n="0005a15"/><lb
+ ed="R093" n="0944a09"/><div type='commentary' level='2'><ab type='prose'>開示法身一切現化者。是法身自在。有七種。一者<lb
+ ed="X" n="0005a16"/><lb
+ ed="R093" n="0944a10"/>十力智。二者覺示現無㝵。三者妙行清淨。四者心<lb
+ ed="X" n="0005a17"/><lb
+ ed="R093" n="0944a11"/>淨觀察。五者妙音示現。六者見佛不存其相。七者<lb
+ ed="X" n="0005a18"/><lb
+ ed="R093" n="0944a12"/>身藏不思議。十力智者。知法界境界。三明達到。一<lb
+ ed="X" n="0005a19"/><lb
+ ed="R093" n="0944a13"/>念照盡。而無去來。湛然寂滅故。</ab></div><lb
+ ed="X" n="0005a20"/><lb
+ ed="R093" n="0944a14"/><div type='orig' level='2'><ab type='prose'>偈說無量無數劫具足十種力。</ab></div><lb
+ ed="X" n="0005a21"/><lb
+ ed="R093" n="0944a15"/><div type='commentary' level='2'><ab type='prose'>自覺示現無㝵者。起諸依果。隨如如相。十方斯現。<lb
+ ed="X" n="0005a22"/><lb
+ ed="R093" n="0944a16"/>猶如大雲。悉普覆故。</ab></div><lb
+ ed="X" n="0005a23"/><lb
+ ed="R093" n="0944a17"/><div type='orig' level='2'><ab type='prose'>偈說無㝵大名稱十力靡不見。</ab></div><lb
+ ed="X" n="0005a24"/><lb
+ ed="R093" n="0944a18"/><div type='commentary' level='2'><ab type='prose'>妙行清淨者。證法身依果。處彼現化。令一切眾生。<pb ed="X" id="X03.0208.0005b" n="0005b"/><lb
+ ed="X" n="0005b01"/><lb
+ ed="R093" n="0944b01"/>歡喜信樂。悉得自在。無㝵解脫故。</ab></div><lb
+ ed="X" n="0005b02"/><lb
+ ed="R093" n="0944b02"/><div type='orig' level='2'><ab type='prose'>偈說從始供養佛速逮無上道。</ab></div><lb
+ ed="X" n="0005b03"/><lb
+ ed="R093" n="0944b03"/><div type='commentary' level='2'><ab type='prose'>心淨觀察者。覩如來身。解一切法。入如實際。同淨<lb
+ ed="X" n="0005b04"/><lb
+ ed="R093" n="0944b04"/>法身。住佛所住故。</ab></div><lb
+ ed="X" n="0005b05"/><lb
+ ed="R093" n="0944b05"/><div type='orig' level='2'><ab type='prose'>偈說能問十方佛斯人等如來。</ab></div><lb
+ ed="X" n="0005b06"/><lb
+ ed="R093" n="0944b06"/><div type='commentary' level='2'><ab type='prose'>妙音示現者。轉淨法輪。逮無上智。雨甘露法雨。澤<lb
+ ed="X" n="0005b07"/><lb
+ ed="R093" n="0944b07"/>潤群生故。</ab></div><lb
+ ed="X" n="0005b08"/><lb
+ ed="R093" n="0944b08"/><div type='orig' level='2'><ab type='prose'>偈說聞佛妙音聲甚深難知見。</ab></div><lb
+ ed="X" n="0005b09"/><lb
+ ed="R093" n="0944b09"/><div type='commentary' level='2'><ab type='prose'>見佛不存相者。知佛法身。是涅槃事。不可以有無<lb
+ ed="X" n="0005b10"/><lb
+ ed="R093" n="0944b10"/>緣。如盲對色。寂然不取故。</ab></div><lb
+ ed="X" n="0005b11"/><lb
+ ed="R093" n="0944b11"/><div type='orig' level='2'><ab type='prose'>偈說㝡勝所說法乃見真如來。</ab></div><lb
+ ed="X" n="0005b12"/><lb
+ ed="R093" n="0944b12"/><div type='commentary' level='2'><ab type='prose'>身藏不思議者。一切世界。悉入其中。而無障㝵。如<lb
+ ed="X" n="0005b13"/><lb
+ ed="R093" n="0944b13"/>處虗空。無有來去。示成敗相。一切圓俻。充滿虗空故。</ab></div><lb
+ ed="X" n="0005b14"/><lb
+ ed="R093" n="0944b14"/><div type='orig' level='2'><ab type='prose'>偈說眾生種種業充滿虗空界。</ab></div><lb
+ ed="X" n="0005b15"/><lb
+ ed="R093" n="0944b15"/><div type='commentary' level='2'><ab type='prose'>聖者文殊。如是於一切處。依大光明。方便以偈。顯<lb
+ ed="X" n="0005b16"/><lb
+ ed="R093" n="0944b16"/>示法身。無為常住。隨眾生噐。現四種道。充滿法界。<lb
+ ed="X" n="0005b17"/><lb
+ ed="R093" n="0944b17"/>大眾覩見。於常果法身。令得正解。何以故。知佛法<lb
+ ed="X" n="0005b18"/><lb
+ ed="R093" n="0944b18"/>身。猶如滿月。不一不異。一切現化故。</ab></div>
+<ab type='juan' subtype='close'>卷十終</ab></div>
+</body></text></TEI>

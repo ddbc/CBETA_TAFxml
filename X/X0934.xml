@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">金剛錍科</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X56</biblScope>
+                    <idno type="Taisho">X56n0934</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X56.0934.0513a" n="0513a"/><lb
+ ed="X" n="0513a01"/><lb
+ ed="X" n="0513a02"/><lb
+ ed="R095" n="0761a01"/><div type='xu' level='2'><head>金剛錍一卷序</head><lb
+ ed="X" n="0513a03"/><lb
+ ed="R095" n="0761a02"/><ab type='prose'>斯文雖非常途經論亦欲效之以分三段從初至凡一念為序段從曾於靜夜下至與子相遇為正說段下去為<lb
+ ed="X" n="0513a04"/><lb
+ ed="R095" n="0761a03"/>流通段正中大略開為十段初正立宗旨次從於是野客下會異名三從故知世人下簡非顯是四從余欲開導<lb
+ ed="X" n="0513a05"/><lb
+ ed="R095" n="0761a04"/>下出法正體五從客曰仁所立義下辨法攝六從余曰觀子所見下顯體所歸七從然子所領下明法師承八從<lb
+ ed="X" n="0513a06"/><lb
+ ed="R095" n="0761a05"/>客曰屢聞下去迷從悟九從客曰斯失下判教所屬十從當知一乘下撚撮改束此是論主自料故錄於首。</ab></div><lb
+ ed="X" n="0513a07"/><lb
+ ed="X" n="0513a08"/><lb
+ ed="R095" n="0761a06"/>
+<ab type='juan' subtype='open'>金剛錍文句科</ab><lb
+ ed="X" n="0513a09"/><lb
+ ed="R095" n="0761a06"/><byline>孤山沙門釋　智圓　集</byline><lb
+ ed="X" n="0513a10"/><lb
+ ed="X" n="0513a11"/><lb
+ ed="R095" n="0761a07"/>釋金剛󱼈大分<lb
+ ed="X" n="0513a12"/><lb
+ ed="R095" n="0761a07"/>初題目<lb
+ ed="X" n="0513a13"/><lb
+ ed="R095" n="0761a09"/>初正釋題目<lb
+ ed="X" n="0513a14"/><lb
+ ed="R095" n="0761a09"/>初總序來意<lb
+ ed="X" n="0513a15"/><lb
+ ed="R095" n="0761a09"/>二初總下正示五章<lb
+ ed="X" n="0513a16"/><lb
+ ed="R095" n="0761a09"/>初總示五章<lb
+ ed="X" n="0513a17"/><lb
+ ed="R095" n="0761a09"/>初總別科文<lb
+ ed="X" n="0513a18"/><lb
+ ed="R095" n="0761a09"/>二依科解釋<lb
+ ed="X" n="0513a19"/><lb
+ ed="R095" n="0761a09"/>初標名<lb
+ ed="X" n="0513a20"/><lb
+ ed="R095" n="0761a09"/>二生起<lb
+ ed="X" n="0513a21"/><lb
+ ed="R095" n="0761a09"/>三通別<lb
+ ed="X" n="0513a22"/><lb
+ ed="R095" n="0761a09"/>四引證<lb
+ ed="X" n="0513a23"/><lb
+ ed="R095" n="0761a09"/>五釋疑<lb
+ ed="X" n="0513a24"/><lb
+ ed="R095" n="0761a09"/>二別示五章<lb
+ ed="X" n="0513a25"/><lb
+ ed="R095" n="0761a12"/>初釋名<lb
+ ed="X" n="0513a26"/><lb
+ ed="R095" n="0761a16"/>初總別分科<lb
+ ed="X" n="0513a27"/><lb
+ ed="R095" n="0761a17"/>二初合下隨科解釋<lb
+ ed="X" n="0513a28"/><lb
+ ed="R095" n="0761a18"/>初名義離合<pb ed="X" id="X56.0934.0514a" n="0514a"/><lb
+ ed="X" n="0514a01"/><lb
+ ed="R095" n="0762a01"/>初合釋<lb
+ ed="X" n="0514a02"/><lb
+ ed="R095" n="0762a01"/>初示建立所以<lb
+ ed="X" n="0514a03"/><lb
+ ed="R095" n="0762a01"/>初示依經立名<lb
+ ed="X" n="0514a04"/><lb
+ ed="R095" n="0762a01"/>初□□<lb
+ ed="X" n="0514a05"/><lb
+ ed="R095" n="0762a01"/>二故如下引經<lb
+ ed="X" n="0514a06"/><lb
+ ed="R095" n="0762a01"/>三一指下釋義<lb
+ ed="X" n="0514a07"/><lb
+ ed="R095" n="0762a01"/>二若準下明加字之意<lb
+ ed="X" n="0514a08"/><lb
+ ed="R095" n="0762a01"/>二今附下明依義解釋<lb
+ ed="X" n="0514a09"/><lb
+ ed="R095" n="0762a01"/>初總立<lb
+ ed="X" n="0514a10"/><lb
+ ed="R095" n="0762a01"/>二或曰下釋妨<lb
+ ed="X" n="0514a11"/><lb
+ ed="R095" n="0762a01"/>初問答<lb
+ ed="X" n="0514a12"/><lb
+ ed="R095" n="0762a01"/>初問<lb
+ ed="X" n="0514a13"/><lb
+ ed="R095" n="0762a01"/>二答下答<lb
+ ed="X" n="0514a14"/><lb
+ ed="R095" n="0762a01"/>初正答<lb
+ ed="X" n="0514a15"/><lb
+ ed="R095" n="0762a01"/>二又圓下引證<lb
+ ed="X" n="0514a16"/><lb
+ ed="R095" n="0762a01"/>初正釋<lb
+ ed="X" n="0514a17"/><lb
+ ed="R095" n="0762a01"/>初約偏小為眼瞙<lb
+ ed="X" n="0514a18"/><lb
+ ed="R095" n="0762a01"/>二圓下明圓頓為金󱼈<lb
+ ed="X" n="0514a19"/><lb
+ ed="R095" n="0762a01"/>二問見下問答<lb
+ ed="X" n="0514a20"/><lb
+ ed="R095" n="0762a01"/>二初喻下正解<lb
+ ed="X" n="0514a21"/><lb
+ ed="R095" n="0762a01"/>初約教<lb
+ ed="X" n="0514a22"/><lb
+ ed="R095" n="0762a01"/>初正示<lb
+ ed="X" n="0514a23"/><lb
+ ed="R095" n="0762a01"/>初約偏小為眼瞙<lb
+ ed="X" n="0514a24"/><lb
+ ed="R095" n="0762a01"/>二圓下明圓頓為金󱼈<lb
+ ed="X" n="0514a25"/><lb
+ ed="R095" n="0762a01"/>二故下引證<lb
+ ed="X" n="0514a26"/><lb
+ ed="R095" n="0762a01"/>二次喻下約行<lb
+ ed="X" n="0514a27"/><lb
+ ed="R095" n="0762a01"/>初約偏小為眼瞙<lb
+ ed="X" n="0514a28"/><lb
+ ed="R095" n="0762a01"/>二示圓頓為金󱼈<lb
+ ed="X" n="0514a29"/><lb
+ ed="R095" n="0762a01"/>三三喻下約理<lb
+ ed="X" n="0514a30"/><lb
+ ed="R095" n="0762a01"/>初約偏小為眼瞙<lb
+ ed="X" n="0514a31"/><lb
+ ed="R095" n="0762a01"/>二示圓頓為金󱼈<lb
+ ed="X" n="0514a32"/><lb
+ ed="R095" n="0762a02"/>二離釋<lb
+ ed="X" n="0514a33"/><lb
+ ed="R095" n="0762a03"/>初標示<lb
+ ed="X" n="0514a34"/><lb
+ ed="R095" n="0762a04"/>二何者下解釋<lb
+ ed="X" n="0514a35"/><lb
+ ed="R095" n="0762a05"/>二前合下結示料簡<lb
+ ed="X" n="0514a36"/><lb
+ ed="R095" n="0762a05"/>初結示<lb
+ ed="X" n="0514a37"/><lb
+ ed="R095" n="0762a05"/>初結示先後<lb
+ ed="X" n="0514a38"/><lb
+ ed="R095" n="0762a05"/>二於此下結示總別<lb
+ ed="X" n="0514a39"/><lb
+ ed="R095" n="0762a05"/>二問此下料簡<lb
+ ed="X" n="0514a40"/><lb
+ ed="R095" n="0762a05"/>初料簡唯破偏疑<lb
+ ed="X" n="0514a41"/><lb
+ ed="R095" n="0762a05"/>二問何下料簡不安論字<lb
+ ed="X" n="0514a42"/><lb
+ ed="R095" n="0762a05"/>初簡論字有無<lb
+ ed="X" n="0514a43"/><lb
+ ed="R095" n="0762a05"/>二問若下揀金󱼈通局<lb
+ ed="X" n="0514a44"/><lb
+ ed="R095" n="0762a05"/>二釋體<lb
+ ed="X" n="0514a45"/><lb
+ ed="R095" n="0762a05"/>三釋宗<lb
+ ed="X" n="0514a46"/><lb
+ ed="R095" n="0762a05"/>四釋用<lb
+ ed="X" n="0514a47"/><lb
+ ed="R095" n="0762a05"/>五釋教<lb
+ ed="X" n="0514a48"/><lb
+ ed="R095" n="0762a05"/>二注文示意<lb
+ ed="X" n="0514a49"/><lb
+ ed="R095" n="0762a05"/>三能作人號<lb
+ ed="X" n="0514a50"/><lb
+ ed="R095" n="0762a05"/>二本文<lb
+ ed="X" n="0514a51"/><lb
+ ed="X" n="0514a52"/><lb
+ ed="R095" n="0762a06"/>○二釋體<lb
+ ed="X" n="0514a53"/><lb
+ ed="R095" n="0762a07"/>初標<lb
+ ed="X" n="0514a54"/><lb
+ ed="R095" n="0762a07"/>二釋<lb
+ ed="X" n="0514a55"/><lb
+ ed="R095" n="0762a09"/>初敘性體名義<lb
+ ed="X" n="0514a56"/><lb
+ ed="R095" n="0762a09"/>初略<lb
+ ed="X" n="0514a57"/><lb
+ ed="R095" n="0762a09"/>二欲令下廣<lb
+ ed="X" n="0514a58"/><lb
+ ed="R095" n="0762a09"/>初來意<lb
+ ed="X" n="0514a59"/><lb
+ ed="R095" n="0762a09"/>二種性下正釋<lb
+ ed="X" n="0514a60"/><lb
+ ed="R095" n="0762a09"/>三世人下結顯<lb
+ ed="X" n="0514a61"/><lb
+ ed="R095" n="0762a10"/>二當知下明餘章所依<lb
+ ed="X" n="0514a62"/><lb
+ ed="R095" n="0762a10"/>三結<lb
+ ed="X" n="0514a63"/><lb
+ ed="X" n="0514a64"/><lb
+ ed="R095" n="0762a11"/>○三釋宗<lb
+ ed="X" n="0514a65"/><lb
+ ed="R095" n="0762a11"/>初標<lb
+ ed="X" n="0514a66"/><lb
+ ed="R095" n="0762a11"/>二釋<lb
+ ed="X" n="0514a67"/><lb
+ ed="R095" n="0762a11"/>初正釋<lb
+ ed="X" n="0514a68"/><lb
+ ed="R095" n="0762a11"/>初總示功能<lb
+ ed="X" n="0514a69"/><lb
+ ed="R095" n="0762a11"/>二夫十下研詳義旨<lb
+ ed="X" n="0514a70"/><lb
+ ed="R095" n="0762a11"/>二若無下結斥<lb
+ ed="X" n="0514a71"/><lb
+ ed="R095" n="0762a11"/>三結<lb
+ ed="X" n="0514a72"/><lb
+ ed="X" n="0514a73"/><lb
+ ed="R095" n="0762a12"/>○四釋用<lb
+ ed="X" n="0514a74"/><lb
+ ed="R095" n="0762a13"/>初標<lb
+ ed="X" n="0514a75"/><lb
+ ed="R095" n="0762a14"/>二釋<lb
+ ed="X" n="0514a76"/><lb
+ ed="R095" n="0762a14"/>初解力用名義<lb
+ ed="X" n="0514a77"/><lb
+ ed="R095" n="0762a14"/>二自下約自他廣釋<lb
+ ed="X" n="0514a78"/><lb
+ ed="R095" n="0762a14"/>初標示<lb
+ ed="X" n="0514a79"/><lb
+ ed="R095" n="0762a14"/>二自行下正釋<lb
+ ed="X" n="0514a80"/><lb
+ ed="R095" n="0762a14"/>三囊括下去取<lb
+ ed="X" n="0514a81"/><lb
+ ed="R095" n="0762a14"/>三結<lb
+ ed="X" n="0514a82"/><lb
+ ed="X" n="0514a83"/><lb
+ ed="R095" n="0762a15"/>○五釋教<lb
+ ed="X" n="0514a84"/><lb
+ ed="R095" n="0762a16"/>初標<lb
+ ed="X" n="0514a85"/><lb
+ ed="R095" n="0762a17"/>二釋<lb
+ ed="X" n="0514a86"/><lb
+ ed="R095" n="0762a17"/>初解教相名義<lb
+ ed="X" n="0514a87"/><lb
+ ed="R095" n="0762a17"/>二今論下明宗通局<lb
+ ed="X" n="0514a88"/><lb
+ ed="R095" n="0762a17"/>初正明所宗通局<lb
+ ed="X" n="0514a89"/><lb
+ ed="R095" n="0762a17"/>二又雖下的示用文元意<lb
+ ed="X" n="0514a90"/><lb
+ ed="R095" n="0762a17"/>三當知下正判部教<lb
+ ed="X" n="0514a91"/><lb
+ ed="R095" n="0762a18"/>三結</div>
+</body></text></TEI>

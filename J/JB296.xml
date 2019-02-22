@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">漆園指通</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">J34</biblScope>
+                    <idno type="Taisho">J34nB296</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="J" id="J34.B296.0027a" n="0027a"/><lb
+ ed="J" n="0027a01"/><div type='xu' level='2'><div type='xu' level='3'><head>漆園指通序</head><lb
+ ed="J" n="0027a02"/><ab type='prose'>古今著莊子者亡慮數百十家各自其所見以為解<lb
+ ed="J" n="0027a03"/>莊子未嘗不遇也太史公曰莊子著書率寓言無事<lb
+ ed="J" n="0027a04"/>實洸洋自恣以適己後人惡其越禮破經不可為訓<lb
+ ed="J" n="0027a05"/>晉人清譚放達實始於莊此非莊子之過不善讀莊<lb
+ ed="J" n="0027a06"/>子者之過也自我觀之莊子有用世之學有用世之<lb
+ ed="J" n="0027a07"/>志知世不可用遂詭託諸大而無用之言而又自明<lb
+ ed="J" n="0027a08"/>其志曰無所可用安所困苦哉衣繡之犧曳尾之龜<lb
+ ed="J" n="0027a09"/>蓋審之熟矣莊子與孟子同時其才具足相當特小<lb
+ ed="J" n="0027a10"/>黠耳孟子往來於齊梁之間舌敝唇焦以破儀衍之<lb
+ ed="J" n="0027a11"/>說而進仁義之論纔小用於滕幾至亡國仁義之不<lb
+ ed="J" n="0027a12"/>能行於當世明矣莊子訾仁義毀先王似有鑒於孟<lb
+ ed="J" n="0027a13"/>子而立說也使當世有用莊子之言者其禍豈不更<lb
+ ed="J" n="0027a14"/>烈於仁義而莊子之黠在秪存其言於世而決不為<lb
+ ed="J" n="0027a15"/>世用此其藏身之妙固非孟子可及也雖然莊子之<lb
+ ed="J" n="0027a16"/>學未嘗不可用特不可用於戰國時耳齊物論之因<lb
+ ed="J" n="0027a17"/>是因非養生主之以無間入有間人間世之託不得<lb
+ ed="J" n="0027a18"/>已以養中德充符之不唱而和大宗師之兩忘而化<lb
+ ed="J" n="0027a19"/>於道應帝王之不將不迎此非用世之格言乎又曰<lb
+ ed="J" n="0027a20"/>物者莫足為也而不可不為曰上必無為而用天下<lb
+ ed="J" n="0027a21"/>下必有為為天下用諸如此說豈亡世者耶大抵莊<lb
+ ed="J" n="0027a22"/>子以自然為宗以不得已為用而其學本諸大易之<lb
+ ed="J" n="0027a23"/>因司馬譚曰不為物先不為物後因時為業因物與<lb
+ ed="J" n="0027a24"/>合可謂善言莊子者矣郭象以莊子之旨生時安生<lb
+ ed="J" n="0027a25"/>死時安死生死之情既齊則無為當生而憂死矣緣<lb
+ ed="J" n="0027a26"/>於不得已則所為皆當甚矣象之解莊有當於吾之<lb
+ ed="J" n="0027a27"/>解莊也今人於莊道者見之謂之道禪者見之謂之<lb
+ ed="J" n="0027a28"/>禪精於儒者見之謂之通乎三教此指通之所由著<lb
+ ed="J" n="0027a29"/>也俍亭大師儒而禪者也於莊作禪解於解作禪語<lb
+ ed="J" n="0027a30"/>解之妙固非吾可思議語之妙直可自作一書昔人<pb ed="J" id="J34.B296.0027b" n="0027b"/><lb
+ ed="J" n="0027b01"/>謂郭象之註莊王輔嗣之註易離莊與易其註自可<lb
+ ed="J" n="0027b02"/>孤行今俍師之書亦猶是也夫俍師之逃於禪與莊<lb
+ ed="J" n="0027b03"/>子之不用於世皆以無用為用而吾之論莊則與俍<lb
+ ed="J" n="0027b04"/>師之解莊其旨趣各不相謀即吾之南華得意一書<lb
+ ed="J" n="0027b05"/>其說又與吾今之論自異要無不可以遇莊也亦猶<lb
+ ed="J" n="0027b06"/>莊子之書自相反覆無往而非莊子一家言也莊子<lb
+ ed="J" n="0027b07"/>曰萬世而下知其解者猶旦暮遇之吾與師亦各遇<lb
+ ed="J" n="0027b08"/>其所遇耳。<lb
+ ed="J" n="0027b09"/>龍眠同學法教弟錢澄拜題</ab></div><lb
+ ed="J" n="0027b10"/><lb
+ ed="J" n="0027b11"/><div type='xu' level='3'><head>漆園指通序</head><lb
+ ed="J" n="0027b12"/><ab type='prose'>莊周惠施生襄周其言瑰異汪洋闇與道會石渠天<lb
+ ed="J" n="0027b13"/>祿諸儒耑務經術則固有所忽遑也江左以來喜譚<lb
+ ed="J" n="0027b14"/>名理踞胡床握麈柄庶幾近之俍亭和尚攄奧衍之<lb
+ ed="J" n="0027b15"/>鴻文挹清虛之秘府曩嘗與余探羲皇溯河雒能使<lb
+ ed="J" n="0027b16"/>充宗折角輔嗣扶輪余每嘆為不可及邇乃披襟蔥<lb
+ ed="J" n="0027b17"/>嶺遊歷竺乾總百氏之紛紜辯五宗之同異筆之所<lb
+ ed="J" n="0027b18"/>涉口之所宣莫不晰精窮幽探微入妙間取南華一<lb
+ ed="J" n="0027b19"/>帙參之己意綴以群言向郭結其鋒鋩支許停其辯<lb
+ ed="J" n="0027b20"/>論嗚呼异已寒蘆未折璧觀未成遠公結社於廬山<lb
+ ed="J" n="0027b21"/>道安振衣於河朔奉周易善老莊大義微文炳如星<lb
+ ed="J" n="0027b22"/>日不有俍公奚以發其覆載是書出而東海聖人西<lb
+ ed="J" n="0027b23"/>海聖人當共望塵而拜矣。<lb
+ ed="J" n="0027b24"/>鴛水法弟錢江拜手題</ab></div><lb
+ ed="J" n="0027b25"/><lb
+ ed="J" n="0027b26"/><lb
+ ed="J" n="0027b27"/><lb
+ ed="J" n="0027b28"/><lb
+ ed="J" n="0027b29"/><lb
+ ed="J" n="0027b30"/><pb ed="J" id="J34.B296.0027c" n="0027c"/><lb
+ ed="J" n="0027c01"/><head>漆園指通序</head><lb
+ ed="J" n="0027c02"/><ab type='prose'>沖虛鴻烈與南華為倡和而猶龍之學不孤晉人喜<lb
+ ed="J" n="0027c03"/>讀老易向郭註莊猶彥輔之於玄輔嗣之於易也不<lb
+ ed="J" n="0027c04"/>異人意云爾也夫易不盡於焦贛也夫詩不盡於韓<lb
+ ed="J" n="0027c05"/>嬰也自京房譚易則任舉之皆易自厓生說詩則任<lb
+ ed="J" n="0027c06"/>舉之皆詩也雲溪指莊何其合也雲溪曰南華者奧<lb
+ ed="J" n="0027c07"/>矣博矣是道家之言也三墨八儒概乎其未有取也<lb
+ ed="J" n="0027c08"/>無已而一用之於禪其六合之內歟是六合之外歟<lb
+ ed="J" n="0027c09"/>古之得道者歟古之得道者歟吾庶幾一遇歟向郭<lb
+ ed="J" n="0027c10"/>而後解莊者多矣文不類也旨不類也讀雲溪之書<lb
+ ed="J" n="0027c11"/>則依然見莊子也吾無間也吾無間也廢莊廣莊皆<lb
+ ed="J" n="0027c12"/>剩筆也。<lb
+ ed="J" n="0027c13"/>康熙辛亥夏日禹航同學法弟嚴沆題於維揚旅次<lb
+ ed="J" n="0027c14"/><lb
+ ed="J" n="0027c15"/><lb
+ ed="J" n="0027c16"/><lb
+ ed="J" n="0027c17"/><lb
+ ed="J" n="0027c18"/><lb
+ ed="J" n="0027c19"/><lb
+ ed="J" n="0027c20"/><lb
+ ed="J" n="0027c21"/></ab><div type='xu' level='3'><head>漆園指通後序</head><lb
+ ed="J" n="0027c22"/><ab type='prose'>莊子之書為晉儒所稱引至唐天寶而名其書為經<lb
+ ed="J" n="0027c23"/>可謂尊之至矣然自郭向而外或註或論或講疏率<lb
+ ed="J" n="0027c24"/>各出其所見以上窺乎莊子著書之指而於寓言洸<lb
+ ed="J" n="0027c25"/>洋自恣之意亦少失矣夫莊子之論道也自然而然<lb
+ ed="J" n="0027c26"/>而卒莫知其所以然故得莊之深者不求甚解者也<lb
+ ed="J" n="0027c27"/>使執字句而強索其解則開卷之始鯤之大鵬之背<lb
+ ed="J" n="0027c28"/>豈真幾千里而蜩鳩斥鴳之無知乃能開口而笑哉<lb
+ ed="J" n="0027c29"/>嗚呼亦未達其理矣雖然莊之言愈放而其義則固<lb
+ ed="J" n="0027c30"/>非有為而為之說者余嘗謂自古註莊不下數十家<pb ed="J" id="J34.B296.0028a" n="0028a"/><lb
+ ed="J" n="0028a01"/>而莫善於司馬遷之一言曰莊子散道德放論要亦<lb
+ ed="J" n="0028a02"/>歸之自然蓋自然者莊子著書之本也今讀俍和尚<lb
+ ed="J" n="0028a03"/>之解莊也或約言以該義或冥悟以達微變現無端<lb
+ ed="J" n="0028a04"/>而要無失乎作者自然之意故謂俍和尚之解莊也<lb
+ ed="J" n="0028a05"/>可謂莊之自為解亦可謂解莊而即自為莊亦無不<lb
+ ed="J" n="0028a06"/>可矣夫大道之紛也吾儒以外有老與佛之名莊故<lb
+ ed="J" n="0028a07"/>聃之徒也讀盜跖漁父若深詆乎吾道而王安石蘇<lb
+ ed="J" n="0028a08"/>軾之論又謂其能存聖人之道而尊之者今俍和尚<lb
+ ed="J" n="0028a09"/>復為通之以進於禪解則南華一編且開白馬傳經<lb
+ ed="J" n="0028a10"/>之始嗚呼莊子守道德五千言之教而不棄於儒且<lb
+ ed="J" n="0028a11"/>入於佛莊其古之通人哉然非俍和尚則烏能解之<lb
+ ed="J" n="0028a12"/>哉。<lb
+ ed="J" n="0028a13"/>康熙辛亥夏日邗州後學許承家拜手書</ab></div></div><lb
+ ed="J" n="0028a14"/><lb
+ ed="J" n="0028a15"/><lb
+ ed="J" n="0028a16"/><lb
+ ed="J" n="0028a17"/><lb
+ ed="J" n="0028a18"/><lb
+ ed="J" n="0028a19"/><lb
+ ed="J" n="0028a20"/><lb
+ ed="J" n="0028a21"/><lb
+ ed="J" n="0028a22"/><lb
+ ed="J" n="0028a23"/><lb
+ ed="J" n="0028a24"/><lb
+ ed="J" n="0028a25"/><lb
+ ed="J" n="0028a26"/><lb
+ ed="J" n="0028a27"/><lb
+ ed="J" n="0028a28"/><lb
+ ed="J" n="0028a29"/><lb
+ ed="J" n="0028a30"/><pb ed="J" id="J34.B296.0028b" n="0028b"/><lb
+ ed="J" n="0028b01"/>
+<ab type='juan' subtype='open'>漆園指通卷之一</ab><lb
+ ed="J" n="0028b02"/><byline>雲溪俍亭道人淨挺　著</byline><lb
+ ed="J" n="0028b03"/><byline>豫章燈巖居士文德翼閱</byline><lb
+ ed="J" n="0028b04"/><head>逍遙遊</head><lb
+ ed="J" n="0028b05"/><div type='commentary' level='2'><ab type='prose'>莊子遊方之外者也屈子遠遊未離於域內也故夫<lb
+ ed="J" n="0028b06"/>馳域外之觀者則無往不適也自適己適而非適人<lb
+ ed="J" n="0028b07"/>之適者也。通云踏毘盧頂上行駕鐵船入滄海。</ab></div><lb
+ ed="J" n="0028b08"/><div type='orig' level='2'><ab type='prose'>北溟有魚六月息者也。</ab></div><lb
+ ed="J" n="0028b09"/><div type='commentary' level='2'><ab type='prose'>魚耶鳥耶南耶北耶冥冥者不知其誰適也三千耶<lb
+ ed="J" n="0028b10"/>九萬耶去耶來耶六月息耶息相吹耶蝶之夢為周<lb
+ ed="J" n="0028b11"/>耶周之夢為蝶耶。通云佛身非身是名大身。文<lb
+ ed="J" n="0028b12"/>云如金翅鳥直取龍吞度越恒等。</ab></div><lb
+ ed="J" n="0028b13"/><div type='orig' level='2'><ab type='prose'>野馬也若是則已矣。</ab></div><lb
+ ed="J" n="0028b14"/><div type='commentary' level='2'><ab type='prose'>天果蒼蒼也乎地之視天猶天之視地也吾不知其<lb
+ ed="J" n="0028b15"/>視地也亦疑以為蒼蒼否也地之下可為天也天之<lb
+ ed="J" n="0028b16"/>上猶然地也日推盪於塵埃野馬之中而莫之紀極<lb
+ ed="J" n="0028b17"/>也彼亦一塵埃也此亦一塵埃也。通云譬之於水<lb
+ ed="J" n="0028b18"/>蛟龍視為窟宅餓鬼視為火輪諸天視為七寶有定<lb
+ ed="J" n="0028b19"/>形耶有定名耶。</ab></div><lb
+ ed="J" n="0028b20"/><div type='orig' level='2'><ab type='prose'>且夫水之積也不厚不亦悲乎。</ab></div><lb
+ ed="J" n="0028b21"/><div type='commentary' level='2'><ab type='prose'>譬若使虻負山精衛填海也必無及矣冥靈望大樁<lb
+ ed="J" n="0028b22"/>大樁遠甚彭祖望冥靈冥靈遠甚其相去可為道里<lb
+ ed="J" n="0028b23"/>耶。通云毘目執善財手經歷塵劫是一剎那耶是<lb
+ ed="J" n="0028b24"/>俱胝耶是洛乂耶是阿僧祗耶是那由他耶試定當<lb
+ ed="J" n="0028b25"/>看。</ab></div><lb
+ ed="J" n="0028b26"/><div type='orig' level='2'><ab type='prose'>湯之問棘也是已。</ab></div><lb
+ ed="J" n="0028b27"/><div type='commentary' level='2'><ab type='prose'>棘之言曰物各有極任之則條暢有極耶無極耶。<lb
+ ed="J" n="0028b28"/>通云棘狐棘也過得荊棘林始是好手。</ab></div><lb
+ ed="J" n="0028b29"/><div type='orig' level='2'><ab type='prose'>窮髮之北小大之辨也。</ab></div><lb
+ ed="J" n="0028b30"/><div type='commentary' level='2'><ab type='prose'>下士聞道大笑之斥鷃類也蜩與鷽鳩類也。通云<pb ed="J" id="J34.B296.0028c" n="0028c"/><lb
+ ed="J" n="0028c01"/>須彌內芥子且置如何是芥子內須彌聻。</ab></div><lb
+ ed="J" n="0028c04"/><div type='orig' level='2'><ab type='prose'>故夫知效一官聖人無名。</ab></div><lb
+ ed="J" n="0028c05"/><div type='commentary' level='2'><ab type='prose'>定內外辯榮辱豈數數於世哉榮子加於人一等矣<lb
+ ed="J" n="0028c06"/>雖然未也列子御風而行泠然善也豈數數於致福<lb
+ ed="J" n="0028c07"/>哉雖然未也猶有待者也有待者非無待者也足於<lb
+ ed="J" n="0028c08"/>己無待於物至人無己靡所不己無功而功卒歸之<lb
+ ed="J" n="0028c09"/>無名而名卒從之神之至聖之盡也。通云會萬物<lb
+ ed="J" n="0028c10"/>為自己者其惟聖人乎南泉指牡丹花謂陸亙曰時<lb
+ ed="J" n="0028c11"/>人見此一株花如夢相似。</ab></div><lb
+ ed="J" n="0028c12"/><div type='orig' level='2'><ab type='prose'>堯讓天下於許由不越樽俎而代之矣。</ab></div><lb
+ ed="J" n="0028c13"/><div type='commentary' level='2'><ab type='prose'>兩相賢則兩相讓也堯非以天下為桎梏也由非以<lb
+ ed="J" n="0028c14"/>天下為次且也魚相忘於江湖人相忘於道術。通<lb
+ ed="J" n="0028c15"/>云黧奴白牯雲在嶺頭三世諸佛水流澗底。</ab></div><lb
+ ed="J" n="0028c16"/><div type='orig' level='2'><ab type='prose'>肩吾問於連叔孰肯以物為事。</ab></div><lb
+ ed="J" n="0028c17"/><div type='commentary' level='2'><ab type='prose'>御皇英從虙妃其藐姑射之謂耶驂赤豹駕青螭乘<lb
+ ed="J" n="0028c18"/>雲龍而遊八極也吸木蘭之墜露餐沆瀣以為漿不<lb
+ ed="J" n="0028c19"/>足異矣之人也將旁礡萬物以蘄乎亂者也孰以天<lb
+ ed="J" n="0028c20"/>下為事哉之人也水九年而不為濡旱七年而不為<lb
+ ed="J" n="0028c21"/>爇固將糠秕堯舜者也孰以物為事哉斷鰲足奠地<lb
+ ed="J" n="0028c22"/>維練五色石補天信有之矣。通云百億日月百億<lb
+ ed="J" n="0028c23"/>須彌還信得及麼若信不及且到藐姑射山問取仙<lb
+ ed="J" n="0028c24"/>子。</ab></div><lb
+ ed="J" n="0028c25"/><div type='orig' level='2'><ab type='prose'>宋人資章甫而適越越人斷髮文身無所用之。</ab></div><lb
+ ed="J" n="0028c26"/><div type='commentary' level='2'><ab type='prose'>胡人毳越人布北人馬南人舟夫物亦各循所尚耳<lb
+ ed="J" n="0028c27"/>宋人有獻玉於子罕者子罕曰爾以玉為寶我以不<lb
+ ed="J" n="0028c28"/>貪為寶不如人有其寶爰居集於魯魯人饗之鐘鼓<lb
+ ed="J" n="0028c29"/>三日爰居去非其好也。通云我王庫內無如是刀。</ab></div><lb
+ ed="J" n="0028c30"/><div type='orig' level='2'><ab type='prose'>堯治天下之民窅然喪其天下焉。</ab></div><pb ed="J" id="J34.B296.0029a" n="0029a"/><lb
+ ed="J" n="0029a01"/><div type='commentary' level='2'><ab type='prose'>彼四子者殆非人哉許由猶人也齧缺猶人也王倪<lb
+ ed="J" n="0029a02"/>被衣亦猶人也非四子大而堯實小也堯以治治之<lb
+ ed="J" n="0029a03"/>四子以不治治之也。通云洞山見龍山龍曰我不<lb
+ ed="J" n="0029a04"/>從雲水入又曰我不從人天來藐姑射之山汾水之<lb
+ ed="J" n="0029a05"/>陽且要問個消息。</ab></div><lb
+ ed="J" n="0029a06"/><div type='orig' level='2'><ab type='prose'>惠子謂莊子魏王貽我大瓠有蓬之心也夫。</ab></div><lb
+ ed="J" n="0029a07"/><div type='commentary' level='2'><ab type='prose'>瓠一也善用則可以為大樽不善用則瓠落而無所<lb
+ ed="J" n="0029a08"/>容不龜手一也善用則可以封不善用則但為汧澼<lb
+ ed="J" n="0029a09"/>絖今乃以莫邪刈薪以金玉抵鵲不知量矣故善任<lb
+ ed="J" n="0029a10"/>術者審所用。通云石鞏弓道吾笏雪峰木毬也只<lb
+ ed="J" n="0029a11"/>用慣他家死法要去活人未免千年滯貨。</ab></div><lb
+ ed="J" n="0029a12"/><div type='orig' level='2'><ab type='prose'>惠子謂莊子吾有大樹安所困苦哉。</ab></div><lb
+ ed="J" n="0029a13"/><div type='commentary' level='2'><ab type='prose'>樗以無用為用者耳犛牛不能執鼠疑無用也豈與<lb
+ ed="J" n="0029a14"/>狸狌比力哉卑身而伏罔罟從之智有所不逮能有<lb
+ ed="J" n="0029a15"/>所不及也犛牛者吾知免矣臃腫卷曲以不才終其<lb
+ ed="J" n="0029a16"/>天年故知無用之用妙於用者也無所可用安所困<lb
+ ed="J" n="0029a17"/>苦以是終逍遙焉。通云大辯若訥大巧若拙世尊<lb
+ ed="J" n="0029a18"/>良久德山低頭雪峰住持事繁達磨云不識不識。</ab></div><lb
+ ed="J" n="0029a20"/><head>齊物論</head><lb
+ ed="J" n="0029a21"/><div type='commentary' level='2'><ab type='prose'>果且有物乎哉果且無物乎哉論之者言也忘物者<lb
+ ed="J" n="0029a22"/>齊物者也知不齊之為齊者忘物者也於我無我於<lb
+ ed="J" n="0029a23"/>物無物因其是而是物莫不是因其非而非物莫不<lb
+ ed="J" n="0029a24"/>非故忘物也兩行者齊物者也故曰論物不齊任之<lb
+ ed="J" n="0029a25"/>則一。通云松亦不直棘亦不曲玄者非烏白者非<lb
+ ed="J" n="0029a26"/>鵠鶴不須截鳧不須續灼灼黃花森森翠竹。</ab></div><lb
+ ed="J" n="0029a27"/><div type='orig' level='2'><ab type='prose'>南郭子綦隱几而坐嗒焉似喪其耦。</ab></div><lb
+ ed="J" n="0029a28"/><div type='commentary' level='2'><ab type='prose'>澹然若忘忽然若遺喪其所懷來而莫知其所止古<lb
+ ed="J" n="0029a29"/>之人也夫古之人也夫。通云渠不是汝汝正是渠<lb
+ ed="J" n="0029a30"/>吾自偶偕我今獨往。</ab></div><pb ed="J" id="J34.B296.0029b" n="0029b"/><lb
+ ed="J" n="0029b01"/><div type='orig' level='2'><ab type='prose'>顏成子游立侍於前非昔之隱几者也。</ab></div><lb
+ ed="J" n="0029b02"/><div type='commentary' level='2'><ab type='prose'>形骸可化今是昔非。通云估木上糝些子花又云<lb
+ ed="J" n="0029b03"/>檢點將來有甚氣息亦是病。</ab></div><lb
+ ed="J" n="0029b04"/><div type='orig' level='2'><ab type='prose'>今者吾喪我。</ab></div><lb
+ ed="J" n="0029b05"/><div type='commentary' level='2'><ab type='prose'>吾所大患為吾有身。通云乃至無我得成於忍。</ab></div><lb
+ ed="J" n="0029b06"/><div type='orig' level='2'><ab type='prose'>女聞地籟而未聞人籟女聞人籟而未聞天籟。</ab></div><lb
+ ed="J" n="0029b07"/><div type='commentary' level='2'><ab type='prose'>言發之而成聲所謂籟也有天籟有地籟有人籟師<lb
+ ed="J" n="0029b08"/>心者人也不師心者天也體乎天均和以天倪注酌<lb
+ ed="J" n="0029b09"/>乎天府皆天也其去人遠者其與天近者也。通云<lb
+ ed="J" n="0029b10"/>婆婆和和有句無句若將耳聽終難會眼裡聞聲便<lb
+ ed="J" n="0029b11"/>得知。</ab></div><lb
+ ed="J" n="0029b12"/><div type='orig' level='2'><ab type='prose'>大塊噫氣調調之刁刁乎。</ab></div><lb
+ ed="J" n="0029b13"/><div type='commentary' level='2'><ab type='prose'>翏翏者可聞者也調調刁刁可見者也其怒易知也<lb
+ ed="J" n="0029b14"/>形與聲相觸而成音也似鼻似口似洼似污者形也<lb
+ ed="J" n="0029b15"/>激者謞者突者咬者聲也一唱一和參差不齊于者<lb
+ ed="J" n="0029b16"/>類竽主唱喁者類魚主和冷者風之小飄者風之大<lb
+ ed="J" n="0029b17"/>厲者風之變也地籟蓋之矣。通云夜來好風夜來<lb
+ ed="J" n="0029b18"/>好風是什麼風吹折門前一株松。</ab></div><lb
+ ed="J" n="0029b19"/><div type='orig' level='2'><ab type='prose'>地籟則眾竅是已敢問天籟。</ab></div><lb
+ ed="J" n="0029b20"/><div type='commentary' level='2'><ab type='prose'>以其所己知求通乎所未知。通云砂裡尋油秤錘<lb
+ ed="J" n="0029b21"/>上呷汁。</ab></div><lb
+ ed="J" n="0029b22"/><div type='orig' level='2'><ab type='prose'>吹萬不同怒者其誰耶。</ab></div><lb
+ ed="J" n="0029b23"/><div type='commentary' level='2'><ab type='prose'>言非吹也吹未始非言也吹萬不同言滿天下矣夫<lb
+ ed="J" n="0029b24"/>萬物自生也萬物自息也自行也自止也咸其所自<lb
+ ed="J" n="0029b25"/>取也誰為為之孰令聽之哉向之呺者有怒之者也<lb
+ ed="J" n="0029b26"/>天不言而成令也其誰為怒之者歟。通云只一誰<lb
+ ed="J" n="0029b27"/>字問得口啞。</ab></div><lb
+ ed="J" n="0029b28"/><div type='orig' level='2'><ab type='prose'>大知閑閑大恐縵縵。</ab></div><lb
+ ed="J" n="0029b29"/><div type='commentary' level='2'><ab type='prose'>小知大知何紛紛也其言也猶噫氣也寐也覺也魂<lb
+ ed="J" n="0029b30"/>役形形役魂也搆者無有窮也綿綿如縵深深如窖<pb ed="J" id="J34.B296.0029c" n="0029c"/><lb
+ ed="J" n="0029c01"/>擾擾矜矜日以憂懼謂之何哉。通云忙作麼。</ab></div><lb
+ ed="J" n="0029c02"/><div type='orig' level='2'><ab type='prose'>其發若機栝莫使復陽也。</ab></div><lb
+ ed="J" n="0029c03"/><div type='commentary' level='2'><ab type='prose'>發若機栝迅不可止也留如詛盟守至勝也言其日<lb
+ ed="J" n="0029c04"/>消未能卒去也其胥溺也不可復也情已厭滿又加<lb
+ ed="J" n="0029c05"/>封焉有如溝洫難通濬也陽者生也陰者死也日趨<lb
+ ed="J" n="0029c06"/>於陰與死為近求其明晰豈可得哉。通云一念不<lb
+ ed="J" n="0029c07"/>在如同死人。</ab></div><lb
+ ed="J" n="0029c08"/><div type='orig' level='2'><ab type='prose'>喜怒哀樂蒸成菌。</ab></div><lb
+ ed="J" n="0029c09"/><div type='commentary' level='2'><ab type='prose'>為慮為嘆為變為慹狀怒哀也為姚為佚為啟為態<lb
+ ed="J" n="0029c10"/>狀喜樂也情之遷也感物而動也倫伶雜奏出於虛<lb
+ ed="J" n="0029c11"/>也未若大音希聲也濕之蒸而為菌也菌不知晦朔<lb
+ ed="J" n="0029c12"/>也執情猶是也。通云虛空裡釘將一橛。</ab></div><lb
+ ed="J" n="0029c13"/><div type='orig' level='2'><ab type='prose'>日夜相代乎前有情而無形。</ab></div><lb
+ ed="J" n="0029c14"/><div type='commentary' level='2'><ab type='prose'>胡然而生也若是者其所由以生乎彼我還相構也<lb
+ ed="J" n="0029c15"/>浸假而有物也浸假而有我也我與物為構物與我<lb
+ ed="J" n="0029c16"/>為構也我之取我近之矣而不知其誰為使也其有<lb
+ ed="J" n="0029c17"/>宰之者耶孰得其真耶孰得其朕耶愛惡相攻也是<lb
+ ed="J" n="0029c18"/>非相取也非是則莫與為行也其可行者斷然已信<lb
+ ed="J" n="0029c19"/>其有也特未見其形也其情耶其不及於形耶形易<lb
+ ed="J" n="0029c20"/>辨也情不易辨也旦暮以情遷也。通云識情不斷<lb
+ ed="J" n="0029c21"/>華著身耳識情斷者華不著也。</ab></div><lb
+ ed="J" n="0029c22"/><div type='orig' level='2'><ab type='prose'>百骸九竅六藏無益損乎其真。</ab></div><lb
+ ed="J" n="0029c23"/><div type='commentary' level='2'><ab type='prose'>百骸並治也而不並為治也任之可也執之不可也<lb
+ ed="J" n="0029c24"/>得與不得皆溺情也真不受損真不受益也情之至<lb
+ ed="J" n="0029c25"/>者忘情者也。通云倩女離魂誰是真者。</ab></div><lb
+ ed="J" n="0029c26"/><div type='orig' level='2'><ab type='prose'>一受其成形而人亦有不芒者乎。</ab></div><lb
+ ed="J" n="0029c27"/><div type='commentary' level='2'><ab type='prose'>相刃也相靡也日銷鑠於塵埃而莫能出也百年易<lb
+ ed="J" n="0029c28"/>盡也神銷鑠也非形銷鑠也。通云赤肉團上有一<lb
+ ed="J" n="0029c29"/>無位真人切須好看。</ab></div><lb
+ ed="J" n="0029c30"/><div type='orig' level='2'><ab type='prose'>夫隨其成心而師之獨且奈何哉。</ab></div><pb ed="J" id="J34.B296.0030a" n="0030a"/><lb
+ ed="J" n="0030a01"/><div type='commentary' level='2'><ab type='prose'>有心者不如其無心也是師心者也我師心人孰不<lb
+ ed="J" n="0030a02"/>師心乎豈必知代謝任取捨者有之乎愚者亦有之<lb
+ ed="J" n="0030a03"/>故人皆師心也無端而生心心成而生是非是以無<lb
+ ed="J" n="0030a04"/>有為有也今日適越昔先至焉是以無有為有也隨<lb
+ ed="J" n="0030a05"/>其成心而師之是以無有為有者也。通云如龜有<lb
+ ed="J" n="0030a06"/>毛如兔有角。</ab></div><lb
+ ed="J" n="0030a07"/><div type='orig' level='2'><ab type='prose'>夫言非吹也其無辯乎。</ab></div><lb
+ ed="J" n="0030a08"/><div type='commentary' level='2'><ab type='prose'>言非吹也吹者無心而言者有心也言亦猶吹也吹<lb
+ ed="J" n="0030a09"/>萬不同而使其自已也因是也以為異於鷇音耶鳥<lb
+ ed="J" n="0030a10"/>之啄啄鵲之唶唶皆是也有音而無情也。通云無<lb
+ ed="J" n="0030a11"/>語中有語有語中無語又云虛空講經水鳥樹林念<lb
+ ed="J" n="0030a12"/>法念佛。</ab></div><lb
+ ed="J" n="0030a13"/><div type='orig' level='2'><ab type='prose'>道惡乎隱而有真偽是其所非而非其所是。</ab></div><lb
+ ed="J" n="0030a14"/><div type='commentary' level='2'><ab type='prose'>八儒三墨何紛然其擾也道惡有異同耶目擊而存<lb
+ ed="J" n="0030a15"/>焉者道也任舉之可也有言可也忘言可也。通云<lb
+ ed="J" n="0030a16"/>觸目不會道運足焉知路。</ab></div><lb
+ ed="J" n="0030a17"/><div type='orig' level='2'><ab type='prose'>欲是其所非而非其所是則莫若以明。</ab></div><lb
+ ed="J" n="0030a18"/><div type='commentary' level='2'><ab type='prose'>有小知有大知有小明有大明不明於是非之非是<lb
+ ed="J" n="0030a19"/>非者不可以語天下之是非也僅明於是非之非是<lb
+ ed="J" n="0030a20"/>非者可以語是非於天下也能入乎物故物大而<lb
+ ed="J" n="0030a21"/>我小能出乎物故我大而物小也此之謂以明莫若<lb
+ ed="J" n="0030a22"/>以明。通云難瞞明眼。</ab></div><lb
+ ed="J" n="0030a23"/><div type='orig' level='2'><ab type='prose'>物無非彼聖人不由而照之於天亦因是也。</ab></div><lb
+ ed="J" n="0030a24"/><div type='commentary' level='2'><ab type='prose'>有彼我有是非自見而已不見彼也自知而已不知<lb
+ ed="J" n="0030a25"/>彼也由彼成是因是生彼彼其所彼是其所是是方<lb
+ ed="J" n="0030a26"/>生之說也生必有死也生即為死也知生之無以異<lb
+ ed="J" n="0030a27"/>於死者知可之無以異於不可者也若是者齊也故<lb
+ ed="J" n="0030a28"/>聖人善用因也天者不可知者也。通云門庭施設<lb
+ ed="J" n="0030a29"/>曲為今時。</ab></div><lb
+ ed="J" n="0030a30"/><div type='orig' level='2'><ab type='prose'>是亦彼也莫若以明。</ab></div><pb ed="J" id="J34.B296.0030b" n="0030b"/><lb
+ ed="J" n="0030b01"/><div type='commentary' level='2'><ab type='prose'>因其所是而是之在我者無是也因其所非而非之<lb
+ ed="J" n="0030b02"/>在我者無非也彼且為彼是且為是莫得其偶虛之<lb
+ ed="J" n="0030b03"/>至也環中而應其應無端也。通云大王來也萬福<lb
+ ed="J" n="0030b04"/>大王家中一片石雕得佛否得得莫不得否不得不<lb
+ ed="J" n="0030b05"/>得。</ab></div><lb
+ ed="J" n="0030b06"/><div type='orig' level='2'><ab type='prose'>以指喻指萬物一馬也。</ab></div><lb
+ ed="J" n="0030b07"/><div type='commentary' level='2'><ab type='prose'>以同乎物者喻之不若以異乎物者喻之之易　也<lb
+ ed="J" n="0030b08"/>罕譬而喻也不獲已也夫物則安有同異哉天地一<lb
+ ed="J" n="0030b09"/>指也萬物一馬也喻指可也喻馬可也指非指也馬<lb
+ ed="J" n="0030b10"/>非馬也。通云俱胝一指頭秪為承當不諦古人又<lb
+ ed="J" n="0030b11"/>道後園驢喫草。</ab></div><lb
+ ed="J" n="0030b12"/><div type='orig' level='2'><ab type='prose'>可乎可不可乎不可無成與毀復通為一。</ab></div><lb
+ ed="J" n="0030b13"/><div type='commentary' level='2'><ab type='prose'>生之無生也死之不死也美非美也惡非惡也大非<lb
+ ed="J" n="0030b14"/>大也小非小也然非然也不然非不然也可非可也<lb
+ ed="J" n="0030b15"/>不可非不可也成非成也毀非毀也復通為一故有<lb
+ ed="J" n="0030b16"/>時而言有時而不言也。通云不別不同不一不異。</ab></div><lb
+ ed="J" n="0030b17"/><div type='orig' level='2'><ab type='prose'>唯達者知通為一因而不知其然謂之道。</ab></div><lb
+ ed="J" n="0030b18"/><div type='commentary' level='2'><ab type='prose'>不用而寓諸庸無用之用也無物不通無物不得善<lb
+ ed="J" n="0030b19"/>用因也是已語詞蓋曰因而已矣。通云隨他去。</ab></div><lb
+ ed="J" n="0030b20"/><div type='orig' level='2'><ab type='prose'>勞神明為一亦因是也。</ab></div><lb
+ ed="J" n="0030b21"/><div type='commentary' level='2'><ab type='prose'>復通為一非勞神明以為一也勞神明以為一者不<lb
+ ed="J" n="0030b22"/>知其同者也凡物本同也名同也實同也喜同也怒<lb
+ ed="J" n="0030b23"/>同也同同也異同也朝四暮三名實未虧而喜怒為<lb
+ ed="J" n="0030b24"/>用者聖人善用因也可由而不可知也。通云黃葉<lb
+ ed="J" n="0030b25"/>止啼喜怒為用。</ab></div><lb
+ ed="J" n="0030b26"/><div type='orig' level='2'><ab type='prose'>聖人和之以是非而休乎天均是之為兩行。</ab></div><lb
+ ed="J" n="0030b27"/><div type='commentary' level='2'><ab type='prose'>聖人不由而照之於天無然不然無可不可也。通<lb
+ ed="J" n="0030b28"/>云兩行者兼也通宗通塗挾帶挾路。</ab></div><lb
+ ed="J" n="0030b29"/><div type='orig' level='2'><ab type='prose'>古之人其知有所至矣而未始有是非也。</ab></div><lb
+ ed="J" n="0030b30"/><div type='commentary' level='2'><ab type='prose'>返於無物者上也有物而畛域不生猶無物也有畛<pb ed="J" id="J34.B296.0030c" n="0030c"/><lb
+ ed="J" n="0030c01"/>域矣而異同不生猶無物也。通云摘楊花摘楊花<lb
+ ed="J" n="0030c02"/>又云佯和子。</ab></div><lb
+ ed="J" n="0030c03"/><div type='orig' level='2'><ab type='prose'>是非之彰也故載之末年。</ab></div><lb
+ ed="J" n="0030c04"/><div type='commentary' level='2'><ab type='prose'>是非立而愛好於是乎生矣愛好之生也道之所以<lb
+ ed="J" n="0030c05"/>失也雖然無成與虧也庸詎知得之不為失也庸詎<lb
+ ed="J" n="0030c06"/>知失之不為得也忘情者道之至也鼓琴可也不鼓<lb
+ ed="J" n="0030c07"/>琴可也昭文鼓琴者也師曠惠子不鼓琴者也而三<lb
+ ed="J" n="0030c08"/>子並以知稱成亦虧也虧亦成也載之末年猶傳之<lb
+ ed="J" n="0030c09"/>歿世也。通云一種沒絃琴唯師彈得妙。</ab></div><lb
+ ed="J" n="0030c12"/><div type='orig' level='2'><ab type='prose'>唯其好之也此之謂以明。</ab></div><lb
+ ed="J" n="0030c13"/><div type='commentary' level='2'><ab type='prose'>好猶愛也好之故欲其明之明之故欲其成之也而<lb
+ ed="J" n="0030c14"/>己異於彼矣夫孰使之自異乎哉同也自以為異也<lb
+ ed="J" n="0030c15"/>堅白異同好辯者也而適以昧終也其善辯者其昧<lb
+ ed="J" n="0030c16"/>終者也為之子者特以其緒終者也又其下也果且<lb
+ ed="J" n="0030c17"/>有成也歟哉非成也我不可成也非不成也物與我<lb
+ ed="J" n="0030c18"/>無成也滑疑之耀闇汶而耀於光明也昏昏滑滑疑<lb
+ ed="J" n="0030c19"/>以為未然矣而自他有耀也明之至也明之至者忘<lb
+ ed="J" n="0030c20"/>其明者也故曰不用而寓諸庸也。通云夜半正明<lb
+ ed="J" n="0030c21"/>天曉不露。</ab></div><lb
+ ed="J" n="0030c22"/><div type='orig' level='2'><ab type='prose'>今且有言乎此則與彼無以異矣。</ab></div><lb
+ ed="J" n="0030c23"/><div type='commentary' level='2'><ab type='prose'>類與類為類不類與不類為類故不類者猶然類也<lb
+ ed="J" n="0030c24"/>謂與類異乎。通云恁麼不恁麼總不得。</ab></div><lb
+ ed="J" n="0030c25"/><div type='orig' level='2'><ab type='prose'>請嘗言之而未知有無之果孰有孰無也。</ab></div><lb
+ ed="J" n="0030c26"/><div type='commentary' level='2'><ab type='prose'>未始有夫未始有始也言無始者詘矣未始有夫未<lb
+ ed="J" n="0030c27"/>始有無也言無無者詘矣以無有為無有耶其可言<lb
+ ed="J" n="0030c28"/>也耶其不可言也耶。通云離四句絕百非請師明<lb
+ ed="J" n="0030c29"/>取西來意。</ab></div><lb
+ ed="J" n="0030c30"/><div type='orig' level='2'><ab type='prose'>今我則已有謂矣萬物與我為一。</ab></div><pb ed="J" id="J34.B296.0031a" n="0031a"/><lb
+ ed="J" n="0031a01"/><div type='commentary' level='2'><ab type='prose'>小之未始非大也亡之未始非存也故天地可同而<lb
+ ed="J" n="0031a02"/>萬物可一也。通云無邊剎澥不隔毫端十世古今<lb
+ ed="J" n="0031a03"/>不離當念。</ab></div><lb
+ ed="J" n="0031a04"/><div type='orig' level='2'><ab type='prose'>既已為一矣無適焉因是已。</ab></div><lb
+ ed="J" n="0031a05"/><div type='commentary' level='2'><ab type='prose'>有言可也無言可也以言顯言是支離其說也言與<lb
+ ed="J" n="0031a06"/>言為對猶一與一為對也是二之也因其有而無之<lb
+ ed="J" n="0031a07"/>未嘗有也因其無而有之未嘗非有也無適焉因是<lb
+ ed="J" n="0031a08"/>也。通云萬法歸一一歸何處我在青州做領布衫<lb
+ ed="J" n="0031a09"/>重七觔。</ab></div><lb
+ ed="J" n="0031a10"/><div type='orig' level='2'><ab type='prose'>夫道未始有封此之謂葆光。</ab></div><lb
+ ed="J" n="0031a11"/><div type='commentary' level='2'><ab type='prose'>為是而有畛也各是其所是也八德者畛也議而不<lb
+ ed="J" n="0031a12"/>辯則無所用畛矣聖人者忘其辯者也辯者有不見<lb
+ ed="J" n="0031a13"/>者也大辯不言辯不及也滑疑之耀能葆光也注焉<lb
+ ed="J" n="0031a14"/>不見其裡酌焉不見其表也。通云你有拄杖子與<lb
+ ed="J" n="0031a15"/>你拄杖子你無拄杖子奪你拄杖子。</ab></div><lb
+ ed="J" n="0031a16"/><div type='orig' level='2'><ab type='prose'>堯問於舜吾欲伐宗膾胥敖而況德之進乎<lb
+ ed="J" n="0031a17"/>日者乎。</ab></div><lb
+ ed="J" n="0031a18"/><div type='commentary' level='2'><ab type='prose'>宗小諸侯也膾小諸侯也胥敖小諸侯也蓬又其小<lb
+ ed="J" n="0031a19"/>也十日並出羿射其九一非不足也安用多乎堯難<lb
+ ed="J" n="0031a20"/>之而舜易之非舜之德進於堯也堯無可見之功舜<lb
+ ed="J" n="0031a21"/>有可見之德也。通云大功不宰。</ab></div><lb
+ ed="J" n="0031a22"/><div type='orig' level='2'><ab type='prose'>齧缺問於王倪曰子知物之所同是乎庸詎<lb
+ ed="J" n="0031a23"/>知吾所謂不知之非知耶。</ab></div><lb
+ ed="J" n="0031a24"/><div type='commentary' level='2'><ab type='prose'>知者無知者也。通云我到這裡卻不會。</ab></div><lb
+ ed="J" n="0031a25"/><div type='orig' level='2'><ab type='prose'>且吾嘗試問乎汝吾惡能知其辯。</ab></div><lb
+ ed="J" n="0031a26"/><div type='commentary' level='2'><ab type='prose'>衣牛以文繡牛惴惴恐奉十朋以金車不若放而浮<lb
+ ed="J" n="0031a27"/>之大澤也仁義是非何規規者哉。通云烏龜向火。</ab></div><lb
+ ed="J" n="0031a28"/><div type='orig' level='2'><ab type='prose'>齧缺曰子不知利害而況利害之端乎。</ab></div><lb
+ ed="J" n="0031a29"/><div type='commentary' level='2'><ab type='prose'>水不能濡火不能熱風雷所不能迷登閶闔遊崑崙<lb
+ ed="J" n="0031a30"/>與西王母會於瑤池歌白雲而呼黃竹也秦穆公上<pb ed="J" id="J34.B296.0031b" n="0031b"/><lb
+ ed="J" n="0031b01"/>天不知者以為死也穆公曰吾乃今而知廣樂之奏<lb
+ ed="J" n="0031b02"/>也。通云鑊湯爐炭裡眾苦不能到。</ab></div><lb
+ ed="J" n="0031b03"/><div type='orig' level='2'><ab type='prose'>瞿鵲子問於長梧子曰吾子以為奚若。</ab></div><lb
+ ed="J" n="0031b04"/><div type='commentary' level='2'><ab type='prose'>去離塵埃而返冥極也無欲以觀其妙有欲以觀其<lb
+ ed="J" n="0031b05"/>竅。通云無鬚鎖子兩頭搖。</ab></div><lb
+ ed="J" n="0031b06"/><div type='orig' level='2'><ab type='prose'>是黃帝之所聽熒也萬物盡然而以是相蘊。</ab></div><lb
+ ed="J" n="0031b07"/><div type='commentary' level='2'><ab type='prose'>黃帝乘風崆峒論道至矣而黃帝猶聽熒也智不及<lb
+ ed="J" n="0031b08"/>也且子過矣且子過矣見卵求雞見彈求鴞是計之<lb
+ ed="J" n="0031b09"/>早者也道不可言也道不可名也妄言之妄聽之苟<lb
+ ed="J" n="0031b10"/>如是而已也奚為其旁日月乎奚為其挾宇宙乎其<lb
+ ed="J" n="0031b11"/>吻合者為之可也其滑昏者置之可也而萬物已隸<lb
+ ed="J" n="0031b12"/>於我矣我犬而物小我重而物輕我貴而物賤也隸<lb
+ ed="J" n="0031b13"/>之故尊之也以隸相尊也物無不大故物無不小物<lb
+ ed="J" n="0031b14"/>無不重故物無不輕物無不貴故物無不賤也眾人<lb
+ ed="J" n="0031b15"/>役役用智也聖人愚芚不用智也參萬歲而一成純<lb
+ ed="J" n="0031b16"/>去來無所殊也玄黃不能雜也以是相蘊萬物之大<lb
+ ed="J" n="0031b17"/>始也。通云大千壞時這個不壞。</ab></div><lb
+ ed="J" n="0031b18"/><div type='orig' level='2'><ab type='prose'>子惡乎知悅生之非惑耶不悔其始之蘄生<lb
+ ed="J" n="0031b19"/>乎。</ab></div><lb
+ ed="J" n="0031b20"/><div type='commentary' level='2'><ab type='prose'>人以死為死鬼以生為死人以生為生鬼以死為生<lb
+ ed="J" n="0031b21"/>故死生旦暮相代也況夫賤者之至於榮榮者之至<lb
+ ed="J" n="0031b22"/>於賤乎。通云火後一莖茆。</ab></div><lb
+ ed="J" n="0031b23"/><div type='orig' level='2'><ab type='prose'>夢飲酒者旦而哭泣旦暮遇之也。</ab></div><lb
+ ed="J" n="0031b24"/><div type='commentary' level='2'><ab type='prose'>君乎牧乎謂占夢也維熊維羆維隼維魚占君事也<lb
+ ed="J" n="0031b25"/>占牧事也覺而後知其夢也其無所用占矣通夢覺<lb
+ ed="J" n="0031b26"/>也一死生也齊是非忘得喪也聖人也百世之後而<lb
+ ed="J" n="0031b27"/>一遇之猶旦暮也若是其不可幾也弔至也詭異也<lb
+ ed="J" n="0031b28"/>言至異也。通云仰山原夢猶較些子。</ab></div><lb
+ ed="J" n="0031b29"/><div type='orig' level='2'><ab type='prose'>既使我與若辯矣而待彼也耶。</ab></div><lb
+ ed="J" n="0031b30"/><div type='commentary' level='2'><ab type='prose'>其有定耶其無定耶此亦一是非彼亦一是非也而<pb ed="J" id="J34.B296.0031c" n="0031c"/><lb
+ ed="J" n="0031c01"/>又誰待耶其待彼耶彼者不可知者也我與若與人<lb
+ ed="J" n="0031c02"/>俱不能知矣而彼獨能知耶。通云鬍張三黑李四。</ab></div><lb
+ ed="J" n="0031c03"/><div type='orig' level='2'><ab type='prose'>何謂和之以天倪寓諸無竟。</ab></div><lb
+ ed="J" n="0031c04"/><div type='commentary' level='2'><ab type='prose'>是與不是然與不然相待也猶化與聲相待也春至<lb
+ ed="J" n="0031c05"/>而倉庚鳴雷始收而蟄蟲蚽戶化與聲待也然亦有<lb
+ ed="J" n="0031c06"/>不相待者十有二月而螽矣李梅實矣鸚鵒來矣和<lb
+ ed="J" n="0031c07"/>以天倪因以曼衍所以忘年也窮無窮極無極故無<lb
+ ed="J" n="0031c08"/>竟也不用而寓諸庸故寓無竟也。通云兩個泥牛<lb
+ ed="J" n="0031c09"/>鬥入澥直至如今沒消息。</ab></div><lb
+ ed="J" n="0031c10"/><div type='orig' level='2'><ab type='prose'>罔兩問景曰烏識所以不然。</ab></div><lb
+ ed="J" n="0031c11"/><div type='commentary' level='2'><ab type='prose'>影待於形也形待於所以形者也蛇之蚹也蜩之翼<lb
+ ed="J" n="0031c12"/>也其形形也而所以形者未嘗形也烏識所以然哉<lb
+ ed="J" n="0031c13"/>烏識所以不然哉見影而馳何乃為翼跗使也。通<lb
+ ed="J" n="0031c14"/>云逐塊韓盧不少。</ab></div><lb
+ ed="J" n="0031c16"/><div type='orig' level='2'><ab type='prose'>昔者莊周夢為胡蝶此之謂物化。</ab></div><lb
+ ed="J" n="0031c17"/><div type='commentary' level='2'><ab type='prose'>莊周耶胡蝶耶齊之不得而齊別之不得而別也是<lb
+ ed="J" n="0031c18"/>兩行也兩行者物化者也吾喪我故物化也。通云<lb
+ ed="J" n="0031c19"/>山前一頭水牯牛上書溈山僧靈祐王老師異類中<lb
+ ed="J" n="0031c20"/>行曹山披毛帶角。</ab></div><lb
+ ed="J" n="0031c21"/><head>養生主</head><lb
+ ed="J" n="0031c22"/><div type='commentary' level='2'><ab type='prose'>知生之生不知不生之生也所生者死矣而生生者<lb
+ ed="J" n="0031c23"/>未嘗死也出者奴之入者主之也。通云但能相續<lb
+ ed="J" n="0031c24"/>名主中主。</ab></div><lb
+ ed="J" n="0031c25"/><div type='orig' level='2'><ab type='prose'>吾生也有涯殆而已矣。</ab></div><lb
+ ed="J" n="0031c26"/><div type='commentary' level='2'><ab type='prose'>生有盡而智無窮也達生之情者忘其生者也去智<lb
+ ed="J" n="0031c27"/>與故委然任運而忽然若遺也豈能以形骸之逐逐<lb
+ ed="J" n="0031c28"/>從情智之紛紛哉。通云聖人若知即同凡夫。</ab></div><lb
+ ed="J" n="0031c29"/><div type='orig' level='2'><ab type='prose'>為善無近名可以盡年。</ab></div><lb
+ ed="J" n="0031c30"/><div type='commentary' level='2'><ab type='prose'>無慕乎善而為之無慮乎惡而不為也名乎刑乎吾<pb ed="J" id="J34.B296.0032a" n="0032a"/><lb
+ ed="J" n="0032a01"/>知遠矣督者形之會也治乎其總立乎其元經緯萬<lb
+ ed="J" n="0032a02"/>變是道樞也親全而生之子全而歸之。通云不思<lb
+ ed="J" n="0032a03"/>善不思惡正恁麼時如何是明上座本來面目又云<lb
+ ed="J" n="0032a04"/>曹山正命食惟除此人不橫死。</ab></div><lb
+ ed="J" n="0032a06"/><div type='orig' level='2'><ab type='prose'>公文軒見右師而驚天也非人也。</ab></div><lb
+ ed="J" n="0032a07"/><div type='commentary' level='2'><ab type='prose'>右師肘而廢矣然以廢得全是得全於天也得全於<lb
+ ed="J" n="0032a08"/>天者人損不能入也介獨也兩相與謂之與。通云<lb
+ ed="J" n="0032a09"/>風吹柳絮毛毬走。</ab></div><lb
+ ed="J" n="0032a10"/><div type='orig' level='2'><ab type='prose'>澤雉十步一啄神雖王不善也。</ab></div><lb
+ ed="J" n="0032a11"/><div type='commentary' level='2'><ab type='prose'>是以天下為桎梏也。通云披枷帶鎖。</ab></div><lb
+ ed="J" n="0032a12"/><div type='orig' level='2'><ab type='prose'>老聃死古者謂是帝之縣解。</ab></div><lb
+ ed="J" n="0032a13"/><div type='commentary' level='2'><ab type='prose'>不蘄言而言不蘄哭而哭猶未離乎情也倍情者也<lb
+ ed="J" n="0032a14"/>生寄也死歸也委然任之猶尸解也哀樂入其中而<lb
+ ed="J" n="0032a15"/>形已悴矣是天刑也。通云勞生惜死辦愚癡齋騎<lb
+ ed="J" n="0032a16"/>牛老翁未免遭人一棒。</ab></div><lb
+ ed="J" n="0032a17"/><div type='orig' level='2'><ab type='prose'>指窮於為薪不知其盡也。</ab></div><lb
+ ed="J" n="0032a18"/><div type='commentary' level='2'><ab type='prose'>薪有盡火無盡薪可指火不可指也夫火之傳火也<lb
+ ed="J" n="0032a19"/>則安有極哉生猶是也故有涯者無涯者也。通云<lb
+ ed="J" n="0032a20"/>譬如一燈傳百千燈。</ab></div><lb
+ ed="J" n="0032a21"/><head>人間世</head><lb
+ ed="J" n="0032a22"/><div type='commentary' level='2'><ab type='prose'>寓跡宇宙之間盪精塵埃之表豈必矯世離俗卻形<lb
+ ed="J" n="0032a23"/>全身哉任運不失其和在群彌見其獨翕而逾張隱<lb
+ ed="J" n="0032a24"/>而逾耀也。通云隨順世緣無罣礙涅槃生死等空<lb
+ ed="J" n="0032a25"/>花是張拙語。</ab></div><lb
+ ed="J" n="0032a26"/><div type='orig' level='2'><ab type='prose'>顏回見仲尼請行庶幾其國有瘳乎。</ab></div><lb
+ ed="J" n="0032a27"/><div type='commentary' level='2'><ab type='prose'>靈耶出耶莊耶回未嘗適衛也謂之適衛可也以國<lb
+ ed="J" n="0032a28"/>量乎澤形骸蔽川原也若蕉猶草菅也。通云拈來<lb
+ ed="J" n="0032a29"/>莖草。</ab></div><lb
+ ed="J" n="0032a30"/><div type='orig' level='2'><ab type='prose'>仲尼曰嘻若殆往而刑耳若殆為人菑。</ab></div><pb ed="J" id="J34.B296.0032b" n="0032b"/><lb
+ ed="J" n="0032b01"/><div type='commentary' level='2'><ab type='prose'>暴君者急掩其暴者也以美好加之而反惡矣交不<lb
+ ed="J" n="0032b02"/>充也志未豫也雖存其信未達其神雖曰不爭未達<lb
+ ed="J" n="0032b03"/>其心。通云爭怪得。</ab></div><lb
+ ed="J" n="0032b04"/><div type='orig' level='2'><ab type='prose'>夫且苟為悅賢而惡不肖必死於暴人之前<lb
+ ed="J" n="0032b05"/>矣。</ab></div><lb
+ ed="J" n="0032b06"/><div type='commentary' level='2'><ab type='prose'>詔猶告也無詔則已若將詔之是適與為搆也進言<lb
+ ed="J" n="0032b07"/>者不易也目將熒而且懼也色將平而且下也口將<lb
+ ed="J" n="0032b08"/>營而囁嚅也容將形而悴厲也心且慮其成且慮其<lb
+ ed="J" n="0032b09"/>不成也進言者不易也以水濟水以火濟火同也非<lb
+ ed="J" n="0032b10"/>和也順此無窮也患自此始也厚言重言也不信而<lb
+ ed="J" n="0032b11"/>以重言入之是與怨搆也。通云死在句下。</ab></div><lb
+ ed="J" n="0032b12"/><div type='orig' level='2'><ab type='prose'>且昔者桀殺關龍逢而況若乎。</ab></div><lb
+ ed="J" n="0032b13"/><div type='commentary' level='2'><ab type='prose'>桀紂惡予其名堯禹好求其實是故名實者天下之<lb
+ ed="J" n="0032b14"/>所爭也。通云二俱不免。</ab></div><lb
+ ed="J" n="0032b15"/><div type='orig' level='2'><ab type='prose'>雖然若必有以也嘗以語我來。</ab></div><lb
+ ed="J" n="0032b16"/><div type='commentary' level='2'><ab type='prose'>何其處也必有與也。通云道且一語看。</ab></div><lb
+ ed="J" n="0032b17"/><div type='orig' level='2'><ab type='prose'>顏回曰端而虛其庸詎可乎。</ab></div><lb
+ ed="J" n="0032b18"/><div type='commentary' level='2'><ab type='prose'>充孔揚者德張施也采色不定猶未離乎德色也是<lb
+ ed="J" n="0032b19"/>能為陽者也但可使恒人不違耳而遂欲案人之所<lb
+ ed="J" n="0032b20"/>感乎因以容與其心乎所感者無方而案人者有量<lb
+ ed="J" n="0032b21"/>以有量逐無方我知其不可也能及其外不及其內<lb
+ ed="J" n="0032b22"/>也外合也而內不訾也內不自以為訾未能降心以<lb
+ ed="J" n="0032b23"/>相及也可哉。通云且喜沒交涉。</ab></div><lb
+ ed="J" n="0032b24"/><div type='orig' level='2'><ab type='prose'>然則我內直而外曲若是則可乎。</ab></div><lb
+ ed="J" n="0032b25"/><div type='commentary' level='2'><ab type='prose'>回之言曰吾內泯其狂聖之情外形其拳曲之節則<lb
+ ed="J" n="0032b26"/>古稱先可以告無罪乎雖然未可也。通云入泥入<lb
+ ed="J" n="0032b27"/>水。</ab></div><lb
+ ed="J" n="0032b30"/><div type='orig' level='2'><ab type='prose'>仲尼曰惡惡可猶師心者也。</ab></div><pb ed="J" id="J34.B296.0032c" n="0032c"/><lb
+ ed="J" n="0032c01"/><div type='commentary' level='2'><ab type='prose'>所與言者皆政法也而不類乎褻諜之私也雖鄙固<lb
+ ed="J" n="0032c02"/>乎亦可以無罪矣雖然猶師心者也成乎心而師之<lb
+ ed="J" n="0032c03"/>也烏可以及化也。通云纔到潼關漫求帝主。</ab></div><lb
+ ed="J" n="0032c04"/><div type='orig' level='2'><ab type='prose'>顏回曰吾無以進矣皞天不宜。</ab></div><lb
+ ed="J" n="0032c05"/><div type='commentary' level='2'><ab type='prose'>易治也有而為之欲以有為治之也若是者人事也<lb
+ ed="J" n="0032c06"/>非天事也故皞天不宜也皞猶呼也。通云虛空漫<lb
+ ed="J" n="0032c07"/>勞摩撮。</ab></div><lb
+ ed="J" n="0032c08"/><div type='orig' level='2'><ab type='prose'>回之家貧心者虛齋也。</ab></div><lb
+ ed="J" n="0032c09"/><div type='commentary' level='2'><ab type='prose'>聽者耳事也聽之以虛非耳事也氣不自為聽也氣<lb
+ ed="J" n="0032c10"/>自為聽也以耳聽乎以氣聽乎。通云聲不住耳。</ab></div><lb
+ ed="J" n="0032c11"/><div type='orig' level='2'><ab type='prose'>顏回曰回之未知得使可謂虛乎。</ab></div><lb
+ ed="J" n="0032c12"/><div type='commentary' level='2'><ab type='prose'>其始也適己之適故得已其後也忘其為適故喪已。<lb
+ ed="J" n="0032c13"/>通云貧無立錐。</ab></div><lb
+ ed="J" n="0032c14"/><div type='orig' level='2'><ab type='prose'>夫子曰盡矣一宅而寓於不得已則幾矣。</ab></div><lb
+ ed="J" n="0032c15"/><div type='commentary' level='2'><ab type='prose'>感於其名則已淺矣名之無可名也故無感其名未<lb
+ ed="J" n="0032c16"/>嘗入也未嘗不入也鳴無聲也止無跡也無門則絕<lb
+ ed="J" n="0032c17"/>去來無毒則損情故。通云東瓜茄子。</ab></div><lb
+ ed="J" n="0032c18"/><div type='orig' level='2'><ab type='prose'>絕跡易無行地難為人使易以偽為天使難以<lb
+ ed="J" n="0032c19"/>偽。</ab></div><lb
+ ed="J" n="0032c20"/><div type='commentary' level='2'><ab type='prose'>不見其行者而已行矣無行地也息之深深則絕跡。<lb
+ ed="J" n="0032c21"/>通云東山水上行。</ab></div><lb
+ ed="J" n="0032c22"/><div type='orig' level='2'><ab type='prose'>聞以有翼飛者矣未聞以無知知者也。</ab></div><lb
+ ed="J" n="0032c23"/><div type='commentary' level='2'><ab type='prose'>是殆不可以知知也。通云木馬嘶風泥牛吼月。</ab></div><lb
+ ed="J" n="0032c24"/><div type='orig' level='2'><ab type='prose'>瞻彼闋者是之謂坐馳。</ab></div><lb
+ ed="J" n="0032c25"/><div type='commentary' level='2'><ab type='prose'>闋滿也極也虛室則庭無人白者一色光熙緝也動<lb
+ ed="J" n="0032c26"/>與吉會故無適不臧止而又止協於一也此之不止<lb
+ ed="J" n="0032c27"/>是謂坐馳。通云飛光左右。</ab></div><lb
+ ed="J" n="0032c28"/><div type='orig' level='2'><ab type='prose'>夫徇耳目內通而外於心知而況散焉者乎。</ab></div><lb
+ ed="J" n="0032c29"/><div type='commentary' level='2'><ab type='prose'>收視返聽故徇耳目止於符故內通外於心知則非<lb
+ ed="J" n="0032c30"/>思慮所及絕形骸離神智豈猶區域之觀哉古帝皇<pb ed="J" id="J34.B296.0033a" n="0033a"/><lb
+ ed="J" n="0033a01"/>王猶待命也況其下乎几蘧古帝名。通云毘盧有<lb
+ ed="J" n="0033a02"/>師法身有主。</ab></div><lb
+ ed="J" n="0033a03"/><div type='orig' level='2'><ab type='prose'>葉公子高子其有以語我來。</ab></div><lb
+ ed="J" n="0033a04"/><div type='commentary' level='2'><ab type='prose'>不急謂慢然應之而無當也懽成合成也寡不道以<lb
+ ed="J" n="0033a05"/>懽成謂鮮有不道而能合成者也人道之患患及於<lb
+ ed="J" n="0033a06"/>世陰陽之患患及於身執麤櫔不求臧美嗜欲寡也<lb
+ ed="J" n="0033a07"/>釜爨之人無畏熱苦突不黔也清冷也朝受命夕飲<lb
+ ed="J" n="0033a08"/>冰我豈內熱歟不然何以寒自苦也國人望君如望<lb
+ ed="J" n="0033a09"/>歲焉國人望君如望慈父母焉何子子也。通云膠<lb
+ ed="J" n="0033a10"/>盆刺腦。</ab></div><lb
+ ed="J" n="0033a11"/><div type='orig' level='2'><ab type='prose'>仲尼曰天下有大戒二夫子其行可矣。</ab></div><lb
+ ed="J" n="0033a12"/><div type='commentary' level='2'><ab type='prose'>任運而已哀樂不得而入也。通云子順父臣奉君。</ab></div><lb
+ ed="J" n="0033a13"/><div type='orig' level='2'><ab type='prose'>丘請復以所聞孰知其所終。</ab></div><lb
+ ed="J" n="0033a14"/><div type='commentary' level='2'><ab type='prose'>莫者不可知者也信不信未可知也而殃己相及矣<lb
+ ed="J" n="0033a15"/>故傳言者危多奇巧則以巧喪德多奇樂則以樂敗<lb
+ ed="J" n="0033a16"/>行忿之設也必無由也由於巧言由於偏辭者也譬<lb
+ ed="J" n="0033a17"/>之鹿死不擇音矣忿情之激茀然作氣厲與厲搆凶<lb
+ ed="J" n="0033a18"/>患隨之我不知其胡底也。通云苦。</ab></div><lb
+ ed="J" n="0033a19"/><div type='orig' level='2'><ab type='prose'>故法言曰無遷令無勸成此其難者。</ab></div><lb
+ ed="J" n="0033a20"/><div type='commentary' level='2'><ab type='prose'>已令而遷之未成而勸之皆過其量以求益也幾幾<lb
+ ed="J" n="0033a21"/>乎危事也美不易成也成之在久惡易成也一成而<lb
+ ed="J" n="0033a22"/>不可改也故危事也至人者任天而遊而一應乎不<lb
+ ed="J" n="0033a23"/>得已施也不求報也致命而已吾為其所難也易曰<lb
+ ed="J" n="0033a24"/>致命遂志又曰外其身而身存。通云抑已而已未<lb
+ ed="J" n="0033a25"/>聞得已不已。</ab></div><lb
+ ed="J" n="0033a26"/><div type='orig' level='2'><ab type='prose'>顏闔將傅衛靈公太子達之入於無疵。</ab></div><lb
+ ed="J" n="0033a27"/><div type='commentary' level='2'><ab type='prose'>蒯聵者不有其父不有其子可不謂暴人耶天殺謂<lb
+ ed="J" n="0033a28"/>天資刻薄也形就而入則己暱心和而出則己陽與<lb
+ ed="J" n="0033a29"/>為嬰兒與為無可畦與為無崖惟其達之故入無疵<lb
+ ed="J" n="0033a30"/>也。通云共汝顛倒一上。</ab></div><pb ed="J" id="J34.B296.0033b" n="0033b"/><lb
+ ed="J" n="0033b01"/><div type='orig' level='2'><ab type='prose'>汝不知夫螳蜋乎而美者以犯之幾矣。</ab></div><lb
+ ed="J" n="0033b02"/><div type='commentary' level='2'><ab type='prose'>積有功伐而自以為美也才之美也不知其犯也犯<lb
+ ed="J" n="0033b03"/>之幾也居東是也明農是也。通云車不橫推理無<lb
+ ed="J" n="0033b04"/>曲斷。</ab></div><lb
+ ed="J" n="0033b05"/><div type='orig' level='2'><ab type='prose'>汝不知夫養虎可不慎耶。</ab></div><lb
+ ed="J" n="0033b06"/><div type='commentary' level='2'><ab type='prose'>韓子曰無批逆麟龍不易擾也虎馬同喻也養已者<lb
+ ed="J" n="0033b07"/>媚之否則殺之順逆異也蜄土器也以筐以蜄奉之<lb
+ ed="J" n="0033b08"/>至矣蚊虻適集其僕緣而拊之偶不以時怒有所騁<lb
+ ed="J" n="0033b09"/>甚殆事也。通云虎缺馬馵。</ab></div><lb
+ ed="J" n="0033b10"/><div type='orig' level='2'><ab type='prose'>匠石之齊不亦遠乎。</ab></div><lb
+ ed="J" n="0033b11"/><div type='commentary' level='2'><ab type='prose'>轅可曲耶廣莫之野耶櫟之為散木也匠之為散人<lb
+ ed="J" n="0033b12"/>也其相去亦無間矣而匠石者故為此呶呶也幾何<lb
+ ed="J" n="0033b13"/>不為木所笑也弟子曰彼為社者也非無用也若其<lb
+ ed="J" n="0033b14"/>無用社者何也趣取猶趣使也匠石曰彼有托而逃<lb
+ ed="J" n="0033b15"/>也寄也名之為社是誶之也不知己者也詘於不知<lb
+ ed="J" n="0033b16"/>己伸於知己彼大木者胡不幸耶且彼亦安用社即<lb
+ ed="J" n="0033b17"/>不為社寧受伐耶彼以不材終其天年其所保者與<lb
+ ed="J" n="0033b18"/>庸眾異而乃以義譽之耶譽之是誶之也木不受也。<lb
+ ed="J" n="0033b19"/>通云莫塗污好。</ab></div><lb
+ ed="J" n="0033b20"/><div type='orig' level='2'><ab type='prose'>南伯子綦遊乎商之丘所以為大祥也。</ab></div><lb
+ ed="J" n="0033b21"/><div type='commentary' level='2'><ab type='prose'>藾猶蔭也其蔭可以芘千駟也荊氏善產然不如商<lb
+ ed="J" n="0033b22"/>丘杙猿猴所棲以為戲也麗屋棟材也廣廈麗之故<lb
+ ed="J" n="0033b23"/>名麗樿傍櫬一邊也櫬用全木厚殮親也解賽祭也<lb
+ ed="J" n="0033b24"/>適河沈人於河如西門豹事牛白顙豚亢鼻人痔病<lb
+ ed="J" n="0033b25"/>猶木以不材棄之也不祥者所以為大祥也神人以<lb
+ ed="J" n="0033b26"/>之。通云死貓頭。</ab></div><lb
+ ed="J" n="0033b27"/><div type='orig' level='2'><ab type='prose'>支離疏者支離其德者乎。</ab></div><lb
+ ed="J" n="0033b28"/><div type='commentary' level='2'><ab type='prose'>會合也撮髮為髻五管五藏之俞也鍼者縫人之具<lb
+ ed="J" n="0033b29"/>又可以刺繲謂浣衣也入學者鼓筴備樂舞也播精<lb
+ ed="J" n="0033b30"/>謂吹播精食其值皆可以食十人言無廢任也攘臂<pb ed="J" id="J34.B296.0033c" n="0033c"/><lb
+ ed="J" n="0033c01"/>求為可用也役則不及賞則及之故支離者勝也。<lb
+ ed="J" n="0033c02"/>通云三種病人莫教錯過。</ab></div><lb
+ ed="J" n="0033c03"/><div type='orig' level='2'><ab type='prose'>孔子適楚莫知無用之用也。</ab></div><lb
+ ed="J" n="0033c04"/><div type='commentary' level='2'><ab type='prose'>迷陽言用晦也知雄守雌知白守黑也卻曲謂卻行<lb
+ ed="J" n="0033c05"/>而不前也。通云老僧今日失利。</ab></div><lb
+ ed="J" n="0033c06"/><head>德充符</head><lb
+ ed="J" n="0033c07"/><div type='commentary' level='2'><ab type='prose'>大德不德其充然者符契而已。通云色見聲求是<lb
+ ed="J" n="0033c08"/>行邪道。</ab></div><lb
+ ed="J" n="0033c09"/><div type='orig' level='2'><ab type='prose'>魯有兀者王駘丘將引天下而從之。</ab></div><lb
+ ed="J" n="0033c10"/><div type='commentary' level='2'><ab type='prose'>難為王駘難為孔子。通云兩個沒鼻孔漢。</ab></div><lb
+ ed="J" n="0033c12"/><div type='orig' level='2'><ab type='prose'>常季曰彼兀者也命物之化而守其宗也。</ab></div><lb
+ ed="J" n="0033c13"/><div type='commentary' level='2'><ab type='prose'>無假猶無待也不物於物故不與物遷終萬物始萬<lb
+ ed="J" n="0033c14"/>物故命物之化。通云本末須歸宗。</ab></div><lb
+ ed="J" n="0033c16"/><div type='orig' level='2'><ab type='prose'>常季曰何謂也視喪其足猶遺土也。</ab></div><lb
+ ed="J" n="0033c17"/><div type='commentary' level='2'><ab type='prose'>一可異也肝與膽隔壤也異可一也物與我同倫也<lb
+ ed="J" n="0033c18"/>無宜故無不宜也奚其不喪奚其喪。通云木人嶺<lb
+ ed="J" n="0033c19"/>上穿雲過。</ab></div><lb
+ ed="J" n="0033c20"/><div type='orig' level='2'><ab type='prose'>常季曰彼為己以其知物何為最之哉。</ab></div><lb
+ ed="J" n="0033c21"/><div type='commentary' level='2'><ab type='prose'>以其知猶未離乎知也以其心猶未離乎心也介然<lb
+ ed="J" n="0033c22"/>者知介然者心故為萬物最也最謂出其上也心與<lb
+ ed="J" n="0033c23"/>物辯非常心也苟得其常奚為最哉。通云平常心<lb
+ ed="J" n="0033c24"/>是道。</ab></div><lb
+ ed="J" n="0033c25"/><div type='orig' level='2'><ab type='prose'>仲尼曰人莫鑑於流水幸能正生以正眾生。</ab></div><lb
+ ed="J" n="0033c26"/><div type='commentary' level='2'><ab type='prose'>群然者木而松柏異群然者人而舜異我生正則群<lb
+ ed="J" n="0033c27"/>生正故嗒然忘化而與運齊也安汝止協乎一。通<lb
+ ed="J" n="0033c28"/>云滅度一切眾生而實無一眾生得滅度者非眾生<lb
+ ed="J" n="0033c29"/>非不眾生。</ab></div><lb
+ ed="J" n="0033c30"/><div type='orig' level='2'><ab type='prose'>夫保始之徵彼且何肯以物為事乎。</ab></div><pb ed="J" id="J34.B296.0034a" n="0034a"/><lb
+ ed="J" n="0034a01"/><div type='commentary' level='2'><ab type='prose'>保始保其泰始也徵效也不懼之實大勇也求名者<lb
+ ed="J" n="0034a02"/>且然矣況太上乎無知故無不知未嘗生故未嘗死<lb
+ ed="J" n="0034a03"/>登假謂僊去猶黃帝乘龍也擇日者無擇者也人則<lb
+ ed="J" n="0034a04"/>從彼矣彼何嘗以物為事哉。通云普化木鐸。</ab></div><lb
+ ed="J" n="0034a05"/><div type='orig' level='2'><ab type='prose'>申徒嘉兀者也子齊執政乎。</ab></div><lb
+ ed="J" n="0034a06"/><div type='commentary' level='2'><ab type='prose'>王曰蠋前蠋亦曰王前執政大兀大。通云探竿影<lb
+ ed="J" n="0034a07"/>草。</ab></div><lb
+ ed="J" n="0034a08"/><div type='orig' level='2'><ab type='prose'>申徒嘉曰先生之門不亦過乎。</ab></div><lb
+ ed="J" n="0034a09"/><div type='commentary' level='2'><ab type='prose'>奈何哉遊先生之門也子以執政先人而不知其後<lb
+ ed="J" n="0034a10"/>人也且子過矣。通云不妨減人身價。</ab></div><lb
+ ed="J" n="0034a11"/><div type='orig' level='2'><ab type='prose'>子產曰子既若是矣子無乃稱。</ab></div><lb
+ ed="J" n="0034a12"/><div type='commentary' level='2'><ab type='prose'>與堯爭善猶未忘乎善也狀其過不狀其過言憾物<lb
+ ed="J" n="0034a13"/>者恒多而自謫者恒寡也安之若命則固然矣羿之<lb
+ ed="J" n="0034a14"/>彀中不死者無幾然不死者命也天下之大危害之<lb
+ ed="J" n="0034a15"/>積非獨一羿而已入其中而得出者利害釋於前死<lb
+ ed="J" n="0034a16"/>生不攖其慮也伯昏無人況我以善者也遊十九年<lb
+ ed="J" n="0034a17"/>而形骸化矣吾與子遇於形骸之外而子猶索我於<lb
+ ed="J" n="0034a18"/>形骸之內乎子產曰先生起自贊也。通云大好一<lb
+ ed="J" n="0034a19"/>期賓主。</ab></div><lb
+ ed="J" n="0034a20"/><div type='orig' level='2'><ab type='prose'>魯有兀者叔山無趾而況全德之人乎。</ab></div><lb
+ ed="J" n="0034a21"/><div type='commentary' level='2'><ab type='prose'>尊足謂尊於足也有大於身者也。通云見吾色身<lb
+ ed="J" n="0034a22"/>不見吾法身。</ab></div><lb
+ ed="J" n="0034a23"/><div type='orig' level='2'><ab type='prose'>無趾語老聃天刑之安可解。</ab></div><lb
+ ed="J" n="0034a24"/><div type='commentary' level='2'><ab type='prose'>賓賓者何為耶其名耶其適以自苦耶天刑之也天<lb
+ ed="J" n="0034a25"/>刑之也聃也遁天之刑者也丘也天刑也。通云項<lb
+ ed="J" n="0034a26"/>上鐵枷何時脫卻。</ab></div><lb
+ ed="J" n="0034a27"/><div type='orig' level='2'><ab type='prose'>魯哀公問於仲尼曰是何人者也。</ab></div><lb
+ ed="J" n="0034a28"/><div type='commentary' level='2'><ab type='prose'>善惡者離乎形者也為後而不為先能為和不能為<lb
+ ed="J" n="0034a29"/>倡也月滿曰望望人之腹腹果然也列子曰雌雄在<lb
+ ed="J" n="0034a30"/>前孳尾成群謂入獸不亂群入鳥不亂行也寡人醜<pb ed="J" id="J34.B296.0034b" n="0034b"/><lb
+ ed="J" n="0034b01"/>乎是使我形穢也。通云六根不具七識不全始解<lb
+ ed="J" n="0034b02"/>親近又云一人通身紅爛在荊棘中。</ab></div><lb
+ ed="J" n="0034b03"/><div type='orig' level='2'><ab type='prose'>仲尼曰丘也嘗使於楚才全而德不形者也。</ab></div><lb
+ ed="J" n="0034b04"/><div type='commentary' level='2'><ab type='prose'>肫母死而猶食之不知其死也食乳也已知其死則<lb
+ ed="J" n="0034b05"/>去之矣去之者惡之也惡其不見己也惡其不為類<lb
+ ed="J" n="0034b06"/>也毋形猶在而母非母也母去之也翣者喪具用以<lb
+ ed="J" n="0034b07"/>飾武敗者無所用之履以飾足刖者無所用之無共<lb
+ ed="J" n="0034b08"/>本也諸御不剪爪不穿耳不欲使形不全也新有昏<lb
+ ed="J" n="0034b09"/>者雖在外期年不使愛其生也哀駘它者人也而進<lb
+ ed="J" n="0034b10"/>於天者也不以形形而以不形形者也。通云金香<lb
+ ed="J" n="0034b11"/>爐下鐵崑崙。</ab></div><lb
+ ed="J" n="0034b12"/><div type='orig' level='2'><ab type='prose'>哀公曰何謂才全是之謂才全。</ab></div><lb
+ ed="J" n="0034b13"/><div type='commentary' level='2'><ab type='prose'>遇不可知也事之變也知不能規乎其始也烏識其<lb
+ ed="J" n="0034b14"/>所以然哉烏識其所以不然哉安之若命哀樂不能<lb
+ ed="J" n="0034b15"/>入也兌和悅也無伐天和四時容與故與物為春也。<lb
+ ed="J" n="0034b16"/>通云燄裡寒冰楊花九月。</ab></div><lb
+ ed="J" n="0034b17"/><div type='orig' level='2'><ab type='prose'>何謂德不形德友而已矣。</ab></div><lb
+ ed="J" n="0034b18"/><div type='commentary' level='2'><ab type='prose'>停者止也畜也物取平焉故可以為法也成和不滑<lb
+ ed="J" n="0034b19"/>和也。通云急水上打毬子。</ab></div><lb
+ ed="J" n="0034b20"/><div type='orig' level='2'><ab type='prose'>闉跂支離無脤獨成其天。</ab></div><lb
+ ed="J" n="0034b21"/><div type='commentary' level='2'><ab type='prose'>脰脛項也肩肩直而無文也惡者美之美者惡之故<lb
+ ed="J" n="0034b22"/>視全人反怪其項背也忘其所忘非能忘者也忘其<lb
+ ed="J" n="0034b23"/>所不忘斯能為忘者也惟聖人能也無所用知也無<lb
+ ed="J" n="0034b24"/>所用約也德惡其出於己也貨惡其出於地也若是<lb
+ ed="J" n="0034b25"/>者天也鬻之自天者食之自天者也不大棄則不大<lb
+ ed="J" n="0034b26"/>予不大予則不大施也有人之形無人之情人也而<lb
+ ed="J" n="0034b27"/>進乎天者也。通云無手人行拳無舌人解語。</ab></div><lb
+ ed="J" n="0034b28"/><div type='orig' level='2'><ab type='prose'>惠子謂莊子曰人故無情乎子以堅白鳴。</ab></div><lb
+ ed="J" n="0034b29"/><div type='commentary' level='2'><ab type='prose'>求益乎有生之外是益生也不益生謂不多事以擾<lb
+ ed="J" n="0034b30"/>其生也生無生也道與之貌天與之形因天地之自<pb ed="J" id="J34.B296.0034c" n="0034c"/><lb
+ ed="J" n="0034c01"/>然而我不寄故生無生也倚樹據梧此可謂適矣雖<lb
+ ed="J" n="0034c02"/>然猶有待也無生者無待者也天選子之形形者神<lb
+ ed="J" n="0034c03"/>之府也而子以堅白異同鳴天下哉其得全於天哉<lb
+ ed="J" n="0034c04"/>其不得全於天哉。通云放汝三十棒。</ab></div><lb
+ ed="J" n="0034c05"/><head>大宗師</head><lb
+ ed="J" n="0034c06"/><div type='commentary' level='2'><ab type='prose'>生無生也死不死也我忘物也物忘我也宗者極也<lb
+ ed="J" n="0034c07"/>統也會也天師道道師自然自然者無師者也大無<lb
+ ed="J" n="0034c08"/>外也。通云此宗無語句。</ab></div><lb
+ ed="J" n="0034c09"/><div type='orig' level='2'><ab type='prose'>知天之所為所謂人之非天乎。</ab></div><lb
+ ed="J" n="0034c10"/><div type='commentary' level='2'><ab type='prose'>天亦人也人亦天也所知者人也所不知者天也以<lb
+ ed="J" n="0034c11"/>其所知養其所不知知之至也夫知有待也不知者<lb
+ ed="J" n="0034c12"/>無待者也。通云明日不得普請。</ab></div><lb
+ ed="J" n="0034c13"/><div type='orig' level='2'><ab type='prose'>且有真人而後有真知於道也若此。</ab></div><lb
+ ed="J" n="0034c14"/><div type='commentary' level='2'><ab type='prose'>在寡且不逆也不以成自雄也於士無取舍也不暮<lb
+ ed="J" n="0034c15"/>謀故無取舍無適也無不適也無過也無當也是登<lb
+ ed="J" n="0034c16"/>假於道也。通云平高就下。</ab></div><lb
+ ed="J" n="0034c17"/><div type='orig' level='2'><ab type='prose'>古之真人其寢不夢其嗜慾深者其天機淺。</ab></div><lb
+ ed="J" n="0034c18"/><div type='commentary' level='2'><ab type='prose'>其息深深故息以踵言若哇者息以喉其嗌言其喉<lb
+ ed="J" n="0034c19"/>息也。通云著甚死急鼓粥飯氣。</ab></div><lb
+ ed="J" n="0034c20"/><div type='orig' level='2'><ab type='prose'>古之真人不知說生是之謂真人。</ab></div><lb
+ ed="J" n="0034c21"/><div type='commentary' level='2'><ab type='prose'>不出故出不訴不入故入不距莫知其始也莫知其<lb
+ ed="J" n="0034c22"/>終也坦然受之故喜釋然忘之故復道本自遺豈勞<lb
+ ed="J" n="0034c23"/>心以損道天非有耦奚假人以助天。通云無去無<lb
+ ed="J" n="0034c24"/>來亦無住。</ab></div><lb
+ ed="J" n="0034c25"/><div type='orig' level='2'><ab type='prose'>若然者其心志而不自適其適者也。</ab></div><lb
+ ed="J" n="0034c26"/><div type='commentary' level='2'><ab type='prose'>兵非以為勇也澤非以為愛也無所為而為也莫之<lb
+ ed="J" n="0034c27"/>至而至也非聖人也非仁人也非賢人也非君子也<lb
+ ed="J" n="0034c28"/>非士也非役人也智之無可智愚之無可愚貴之無<lb
+ ed="J" n="0034c29"/>可貴賤之無可賤也通於物者和樂也無適而不親<lb
+ ed="J" n="0034c30"/>也凄似秋煖似春者時也忘利害故利害不通也損<pb ed="J" id="J34.B296.0035a" n="0035a"/><lb
+ ed="J" n="0035a01"/>己以行其名也亡身之不恤不擇真而任之也是至<lb
+ ed="J" n="0035a02"/>人也非然者尊己卑物遺世厲俗何為也。通云渠<lb
+ ed="J" n="0035a03"/>無面目。</ab></div><lb
+ ed="J" n="0035a04"/><div type='orig' level='2'><ab type='prose'>古之真人其狀義而不朋是之謂真人。</ab></div><lb
+ ed="J" n="0035a05"/><div type='commentary' level='2'><ab type='prose'>狀義而不名為義也與人伍而不取其同也無不足<lb
+ ed="J" n="0035a06"/>也不相承也隨器故絕方員渺形故無華實邴邴喜<lb
+ ed="J" n="0035a07"/>貌喜非喜也崔嶽嶽也得已而不已也滀止也其止<lb
+ ed="J" n="0035a08"/>進也與進也其進止也其與世並厲乎其謷然高往<lb
+ ed="J" n="0035a09"/>乎連卷乎不得而入也悗悗乎默而不言也寬然者<lb
+ ed="J" n="0035a10"/>其殺也迺迺然與世俱也感而應無廢事也相與有<lb
+ ed="J" n="0035a11"/>足者蹈於高丘陟崑崙遊廣莫耶非夫有所慮而為<lb
+ ed="J" n="0035a12"/>之非夫有所避而不為者也而人遂以為勤行也過<lb
+ ed="J" n="0035a13"/>矣過矣非一也非不一也好之也一也不好之也一<lb
+ ed="J" n="0035a14"/>也其一也一也不一也一也天耶人耶吾不得而名<lb
+ ed="J" n="0035a15"/>也。通云前三三後三三。</ab></div><lb
+ ed="J" n="0035a16"/><div type='orig' level='2'><ab type='prose'>死生命也一化之所待乎。</ab></div><lb
+ ed="J" n="0035a17"/><div type='commentary' level='2'><ab type='prose'>死生旦暮也人不得而與也是物之恒情也越死生<lb
+ ed="J" n="0035a18"/>謂之卓離死生謂之真身可愛也命可致也愛身故<lb
+ ed="J" n="0035a19"/>孝於親而況其進者乎致身故忠於君而況其進者<lb
+ ed="J" n="0035a20"/>乎忘於江湖忘於道德堯與桀兩忘也善吾生故善<lb
+ ed="J" n="0035a21"/>吾死也壑可藏舟也壑非壑也澤可藏山也澤非澤<lb
+ ed="J" n="0035a22"/>也有負之而趨者人不知也人知大之藏小而不知<lb
+ ed="J" n="0035a23"/>小之藏大也人知有之遯無而不知無之遯有也有<lb
+ ed="J" n="0035a24"/>而適無無而適有來而適往往而適來死死生生皆<lb
+ ed="J" n="0035a25"/>遯也藏天下於天下安所遯哉人也猶其為物也化<lb
+ ed="J" n="0035a26"/>余為魚魚樂也化余為鳥鳥樂也形盡寓也寓何所<lb
+ ed="J" n="0035a27"/>不樂哉彭可也殤可也存可也亡可也無始無終故<lb
+ ed="J" n="0035a28"/>一存而不喪也萬化之所宗而一化之所待也。通<lb
+ ed="J" n="0035a29"/>云王老師賣身去。</ab></div><lb
+ ed="J" n="0035a30"/><div type='orig' level='2'><ab type='prose'>夫道有情有信比於列星。</ab></div><pb ed="J" id="J34.B296.0035b" n="0035b"/><lb
+ ed="J" n="0035b01"/><div type='commentary' level='2'><ab type='prose'>疑有也有情有信者也疑無也無為無形者也可傳<lb
+ ed="J" n="0035b02"/>耶不可傳耶可得耶不可得耶鬼耶帝耶天耶地耶<lb
+ ed="J" n="0035b03"/>非道無以神非道無以生耶上下四方推之而準故<lb
+ ed="J" n="0035b04"/>一之者極六之者極也天地者大氣舉之故稱氣母<lb
+ ed="J" n="0035b05"/>維地軸也斗天樞也堪坏獸形人面以神得名也馮<lb
+ ed="J" n="0035b06"/>夷河伯也肩吾梁父之貴神也黃帝升鼎騎雲氣上<lb
+ ed="J" n="0035b07"/>蒼天顓頊冬帝御玄堂北極出天二億三萬有奇禺<lb
+ ed="J" n="0035b08"/>強履其上西王母宴穆滿於瑤池蓋少廣也五伯商<lb
+ ed="J" n="0035b09"/>五伯豕韋等是也東維漢津以東也。通云乾峰柱<lb
+ ed="J" n="0035b10"/>杖子。</ab></div><lb
+ ed="J" n="0035b11"/><div type='orig' level='2'><ab type='prose'>南伯子葵問乎女偊曰參寥聞之疑始。</ab></div><lb
+ ed="J" n="0035b12"/><div type='commentary' level='2'><ab type='prose'>外天下而後外物外物而後外生外生而後朝徹由<lb
+ ed="J" n="0035b13"/>外而內由遠而近也不見天下不見物不見己故無<lb
+ ed="J" n="0035b14"/>今無古無生無不生也將之不得也迎之不得也毀<lb
+ ed="J" n="0035b15"/>之不得也成之不得也可將也可迎也可毀也可成<lb
+ ed="J" n="0035b16"/>也攖之而無不寧也感物而應未嘗動也副墨疑可<lb
+ ed="J" n="0035b17"/>見也雒誦疑可聞也瞻明猶未離乎目也聶許猶未<lb
+ ed="J" n="0035b18"/>離乎耳也需役未離乎動者也於謳未離乎言者也<lb
+ ed="J" n="0035b19"/>玄冥莫也冥冥故莫也參寥獨也寥寥故獨也疑自<lb
+ ed="J" n="0035b20"/>此始也無始故疑始疑始故無始也。通云不是心<lb
+ ed="J" n="0035b21"/>不是佛不是物。</ab></div><lb
+ ed="J" n="0035b24"/><div type='orig' level='2'><ab type='prose'>子祀子與子犁子來成然寐蘧然覺。</ab></div><lb
+ ed="J" n="0035b25"/><div type='commentary' level='2'><ab type='prose'>死生存亡一體也何為是拘拘者哉曲僂佝僂也背<lb
+ ed="J" n="0035b26"/>高故五俞在上句贅頂椎也陰陽之氣雖有沴乎其<lb
+ ed="J" n="0035b27"/>心乃閒然無事者也跰躚而行心閒然無事也臂之<lb
+ ed="J" n="0035b28"/>左可為雞也臂之右可為彈也尻可為輪也神可為<lb
+ ed="J" n="0035b29"/>馬也然則吾何擇哉吾安往不適哉叱避謂叱之使<lb
+ ed="J" n="0035b30"/>避也無怛化無以死傷生使彼化者增忉怛也鼠肝<pb ed="J" id="J34.B296.0035c" n="0035c"/><lb
+ ed="J" n="0035c01"/>耶蟲臂耶魂氣則無不之也無不之也骨肉復歸於<lb
+ ed="J" n="0035c02"/>土命也善吾生善吾死故生有所不訢而死有所不<lb
+ ed="J" n="0035c03"/>恤也人可也物可也鼠有大於肝蟲有大於臂也生<lb
+ ed="J" n="0035c04"/>死寐覺也。通云回途別著破襴衫。</ab></div><lb
+ ed="J" n="0035c06"/><div type='orig' level='2'><ab type='prose'>子桑戶孟子反子琴張天之小人也。</ab></div><lb
+ ed="J" n="0035c07"/><div type='commentary' level='2'><ab type='prose'>相與於無相與相為於無相為人也而天者也臨尸<lb
+ ed="J" n="0035c08"/>而哭是也猗語辭人死則化為異物有情無情吾同<lb
+ ed="J" n="0035c09"/>體也故曰假於異物托於同體戮民猶天刑也有事<lb
+ ed="J" n="0035c10"/>無事無事有事故常在定疇於天侔於天進人而天<lb
+ ed="J" n="0035c11"/>者也天之君子也。通云不借借。</ab></div><lb
+ ed="J" n="0035c13"/><div type='orig' level='2'><ab type='prose'>顏回問仲尼曰孟孫才其母死乃入於寥天<lb
+ ed="J" n="0035c14"/>一。</ab></div><lb
+ ed="J" n="0035c15"/><div type='commentary' level='2'><ab type='prose'>簡謂忽然若遺也死者化物也使死而有知也豈猶<lb
+ ed="J" n="0035c16"/>待夫不知之化者哉不知之化謂後死者也且生與<lb
+ ed="J" n="0035c17"/>死各不相及也各不相知也方將化矣惡知不化者<lb
+ ed="J" n="0035c18"/>哉方將不化矣惡知已化者哉死生夢覺也何為是<lb
+ ed="J" n="0035c19"/>規規者哉矧吾與汝皆夢也夢未覺者也彼死者形<lb
+ ed="J" n="0035c20"/>可駭而心無損也旦易其宅而情非死也孟孫氏覺<lb
+ ed="J" n="0035c21"/>者也人哭亦哭是其所以宜也乃宜也吾者從我得<lb
+ ed="J" n="0035c22"/>稱也執形而命之曰吾遂相與吾之耳矣雖然吾得<lb
+ ed="J" n="0035c23"/>我哉我喪我哉浸假而我化為鳥鳥一我也浸假而<lb
+ ed="J" n="0035c24"/>我化為魚魚一我也我無定屬我有定稱哉生耶死<lb
+ ed="J" n="0035c25"/>耶覺耶夢耶物耶我耶未知其誰適也歌者何也哭<lb
+ ed="J" n="0035c26"/>者何也所造無非適也不假笑也有時獻笑喜與意<lb
+ ed="J" n="0035c27"/>俱也輾然可也排之不得也安其排故不及排去其<lb
+ ed="J" n="0035c28"/>化故忘於化乃入於寥廓之區與天一也。通云曹<lb
+ ed="J" n="0035c29"/>山孝滿。</ab></div><lb
+ ed="J" n="0035c30"/><div type='orig' level='2'><ab type='prose'>意而子見許由此所遊已。</ab></div><pb ed="J" id="J34.B296.0036a" n="0036a"/><lb
+ ed="J" n="0036a01"/><div type='commentary' level='2'><ab type='prose'>軹猶只也躬仁義適以仁義黥汝也明是非適以是<lb
+ ed="J" n="0036a02"/>非劓汝也無莊以美故失其美據梁以力故失其力<lb
+ ed="J" n="0036a03"/>黃帝以知故忘其知鑪錘者未可少也息我黥補我<lb
+ ed="J" n="0036a04"/>劓冥乎仁義是非之藩而起化埋也吾何為不可哉<lb
+ ed="J" n="0036a05"/>許由曰是也此天遊也。通云紅鑪大冶。</ab></div><lb
+ ed="J" n="0036a07"/><div type='orig' level='2'><ab type='prose'>顏回曰回益矣丘也請從而後也。</ab></div><lb
+ ed="J" n="0036a08"/><div type='commentary' level='2'><ab type='prose'>冥情故絕好任運故不常同者冥情者也化者任運<lb
+ ed="J" n="0036a09"/>者也墮肢體黜聰明回殆庶矣。通云絕後再甦。</ab></div><lb
+ ed="J" n="0036a11"/><div type='orig' level='2'><ab type='prose'>子輿與子桑友然而至此極者命也夫。</ab></div><lb
+ ed="J" n="0036a12"/><div type='commentary' level='2'><ab type='prose'>貧也非病也安之若命哀樂不入也。通云不妨疑<lb
+ ed="J" n="0036a13"/>著。</ab></div><lb
+ ed="J" n="0036a14"/><head>應帝王</head><lb
+ ed="J" n="0036a15"/><div type='commentary' level='2'><ab type='prose'>有道本有化跡帝王者跡也所以應之者本也。通<lb
+ ed="J" n="0036a16"/>云苔生玉殿。</ab></div><lb
+ ed="J" n="0036a17"/><div type='orig' level='2'><ab type='prose'>齧缺問於王倪行以告蒲衣子。</ab></div><lb
+ ed="J" n="0036a18"/><div type='commentary' level='2'><ab type='prose'>胡然而問也胡然而不知也相與於無相與也喜也<lb
+ ed="J" n="0036a19"/>必有以也。通云一場懡㦬。</ab></div><lb
+ ed="J" n="0036a20"/><div type='orig' level='2'><ab type='prose'>蒲衣子曰乃今知之乎而未始入於非人。</ab></div><lb
+ ed="J" n="0036a21"/><div type='commentary' level='2'><ab type='prose'>與為馬耶與為牛耶與造物者遊耶去智與故以情<lb
+ ed="J" n="0036a22"/>信之德任真而不任偽也不出也不入也其人耶其<lb
+ ed="J" n="0036a23"/>非人耶。通云披毛戴角是類墮。</ab></div><lb
+ ed="J" n="0036a24"/><div type='orig' level='2'><ab type='prose'>肩吾見狂接輿而曾二蟲之無知。</ab></div><lb
+ ed="J" n="0036a25"/><div type='commentary' level='2'><ab type='prose'>告我語我來也以經為式以義為度所謂以治治之<lb
+ ed="J" n="0036a26"/>者也以治治之未若以不治治之也聖人之治之也<lb
+ ed="J" n="0036a27"/>治內而已豈治外乎無乎不正故無乎不行也盡矣。<lb
+ ed="J" n="0036a28"/>通云牛胃中經冬過夏。</ab></div><lb
+ ed="J" n="0036a29"/><div type='orig' level='2'><ab type='prose'>天根遊於殷陽天下治矣。</ab></div><lb
+ ed="J" n="0036a30"/><div type='commentary' level='2'><ab type='prose'>厭足也何帠一作何故一作何為余曰帠猶係也去<pb ed="J" id="J34.B296.0036b" n="0036b"/><lb
+ ed="J" n="0036b01"/>矣天根無落吾事。通云我不暇為汝說。</ab></div><lb
+ ed="J" n="0036b02"/><div type='orig' level='2'><ab type='prose'>陽子居見老聃如是者可此明王乎。</ab></div><lb
+ ed="J" n="0036b03"/><div type='commentary' level='2'><ab type='prose'>質敏故所嚮疾氣剛故能強梁心開故物徹而疏明<lb
+ ed="J" n="0036b04"/>志專故學道不倦此恒人之見多而至人之見少也。<lb
+ ed="J" n="0036b05"/>通云有多少伎倆。</ab></div><lb
+ ed="J" n="0036b06"/><div type='orig' level='2'><ab type='prose'>老聃曰是於聖人也如是者可比明王乎。</ab></div><lb
+ ed="J" n="0036b07"/><div type='commentary' level='2'><ab type='prose'>胥賤役也技者藝能之末係累也勞形沐心徒自苦<lb
+ ed="J" n="0036b08"/>也田佃也便捷也犛猶狸也他他藉藉獵者眾也虎<lb
+ ed="J" n="0036b09"/>豹之文猿狙之捷皆以技係功高者狗也執犛而歸<lb
+ ed="J" n="0036b10"/>往就烹鼎則何為者也此而云聖人乎。通云死漢。</ab></div><lb
+ ed="J" n="0036b11"/><div type='orig' level='2'><ab type='prose'>陽子居蹴然曰遊於無有者也。</ab></div><lb
+ ed="J" n="0036b12"/><div type='commentary' level='2'><ab type='prose'>擊壤而歌何也。通云當時但展兩手。</ab></div><lb
+ ed="J" n="0036b13"/><div type='orig' level='2'><ab type='prose'>鄭有神巫曰季咸嘗試與來以予示之。</ab></div><lb
+ ed="J" n="0036b14"/><div type='commentary' level='2'><ab type='prose'>鄭人怪之故棄而走既其文未既其實抑未知其誠<lb
+ ed="J" n="0036b15"/>然否也卵者物之始形者也知其雄守其雌無名無<lb
+ ed="J" n="0036b16"/>形何卵之有列子者以道自豐而欲使人必信己也<lb
+ ed="J" n="0036b17"/>宜使人得而相之也相視也。通云洞山土地三十<lb
+ ed="J" n="0036b18"/>年不見洞山。</ab></div><lb
+ ed="J" n="0036b19"/><div type='orig' level='2'><ab type='prose'>明日列子與之見壺子因以為波流故逃也。</ab></div><lb
+ ed="J" n="0036b20"/><div type='commentary' level='2'><ab type='prose'>濕灰委灰也地不無文順地也頹然不震雜然不正<lb
+ ed="J" n="0036b21"/>亡名亡德窟於委灰是杜德也權用也杜權未杜德<lb
+ ed="J" n="0036b22"/>也權杜而實不杜也故易見也天壤天區也發於踵<lb
+ ed="J" n="0036b23"/>非息於踵也故其善猶見也不齊謂不定不動也太<lb
+ ed="J" n="0036b24"/>空沖然物莫能勝故視之不齊也衡者平之機也與<lb
+ ed="J" n="0036b25"/>為高與為下故不齊也審瀋也沫也一曰水停為審<lb
+ ed="J" n="0036b26"/>緩而詳也鯢桓魚所盤曲也淵有九此處三焉其息<lb
+ ed="J" n="0036b27"/>深也虛而委蛇莫知誰何而始惝然失也示之以宗<lb
+ ed="J" n="0036b28"/>也宗者極也返其宜也。通云國師在三藏眼睛裡。</ab></div><lb
+ ed="J" n="0036b29"/><div type='orig' level='2'><ab type='prose'>然後列子自以為未始學一以是終。</ab></div><lb
+ ed="J" n="0036b30"/><div type='commentary' level='2'><ab type='prose'>豕人也人豕也人立而啼者豕也忘乎物故一之也<pb ed="J" id="J34.B296.0036c" n="0036c"/><lb
+ ed="J" n="0036c01"/>遺事故不親事紛然者應量之跡而抱蜀者自封也<lb
+ ed="J" n="0036c02"/>一以是終故莫知其終也。通云孛荷孛荷又云苕<lb
+ ed="J" n="0036c03"/>帚糞箕。</ab></div><lb
+ ed="J" n="0036c04"/><div type='orig' level='2'><ab type='prose'>無為名尸故能勝物而不殤。</ab></div><lb
+ ed="J" n="0036c05"/><div type='commentary' level='2'><ab type='prose'>不以名也不以謀也不以事也不以知也如鏡照物<lb
+ ed="J" n="0036c06"/>虛之至也夫鏡何有哉。通云打破鏡來與汝相見。</ab></div><lb
+ ed="J" n="0036c07"/><div type='orig' level='2'><ab type='prose'>南海之帝為倏七日而渾沌死。</ab></div><lb
+ ed="J" n="0036c08"/><div type='commentary' level='2'><ab type='prose'>將欲剖吾樸也不知其喪吾榖也谷神不死。通云<lb
+ ed="J" n="0036c09"/>鑿開五位裂破三玄是死句不是活句。</ab></div><pb ed="J" id="J34.B296.0037a" n="0037a"/><lb
+ ed="J" n="0037a01"/>
+<ab type='juan' subtype='open'>漆園指通卷之二</ab><lb
+ ed="J" n="0037a02"/><byline>雲溪俍亭道人淨挺　著</byline><lb
+ ed="J" n="0037a03"/><byline>檇李珥信居士錢　江閱</byline><lb
+ ed="J" n="0037a04"/><head>駢拇</head><lb
+ ed="J" n="0037a05"/><div type='commentary' level='2'><ab type='prose'>絕聖棄知因任自然無懷葛天由來者遠。通云金<lb
+ ed="J" n="0037a06"/>屑雖貴落眼成瞖。</ab></div><lb
+ ed="J" n="0037a07"/><div type='orig' level='2'><ab type='prose'>駢拇枝指出乎性哉非天下之至正也。</ab></div><lb
+ ed="J" n="0037a08"/><div type='commentary' level='2'><ab type='prose'>侈於德則害德侈於性則毀性侈者非其分也少者<lb
+ ed="J" n="0037a09"/>不欲其不足多者不欲其有餘也多方仁義何為也<lb
+ ed="J" n="0037a10"/>離朱者駢於明也師曠者侈於聰也曾史者枝於仁<lb
+ ed="J" n="0037a11"/>也楊墨者駢於辯也駢枝非正也。通云佛之一字<lb
+ ed="J" n="0037a12"/>吾不喜聞。</ab></div><lb
+ ed="J" n="0037a13"/><div type='orig' level='2'><ab type='prose'>彼正正者不失其性命之情天下何其囂囂<lb
+ ed="J" n="0037a14"/>也。</ab></div><lb
+ ed="J" n="0037a15"/><div type='commentary' level='2'><ab type='prose'>仁義設而天下始多故矣仁立而憂其不仁義立而<lb
+ ed="J" n="0037a16"/>憂其不義決駢齕枝所以亂也盍返自然哉。通云<lb
+ ed="J" n="0037a17"/>彼自無瘡勿傷之也。</ab></div><lb
+ ed="J" n="0037a18"/><div type='orig' level='2'><ab type='prose'>且夫待鉤繩規矩而正者是非以仁義易其<lb
+ ed="J" n="0037a19"/>性與。</ab></div><lb
+ ed="J" n="0037a20"/><div type='commentary' level='2'><ab type='prose'>禮樂仁義何紛紛也自有虞氏昉也則惑也。通云<lb
+ ed="J" n="0037a21"/>文殊普賢貶向二鐵圍山不為分外。</ab></div><lb
+ ed="J" n="0037a22"/><div type='orig' level='2'><ab type='prose'>嘗試論之自三代以下者又惡取君子小人<lb
+ ed="J" n="0037a23"/>於其間哉。</ab></div><lb
+ ed="J" n="0037a24"/><div type='commentary' level='2'><ab type='prose'>貪夫殉財烈士殉名夸者死權眾庶馮生廉如伯夷<lb
+ ed="J" n="0037a25"/>役人之役適人之適也何論盜跖。通云頭頭非取<lb
+ ed="J" n="0037a26"/>捨。</ab></div><lb
+ ed="J" n="0037a27"/><div type='orig' level='2'><ab type='prose'>且夫屬其性乎仁義者不敢為淫僻之事也。</ab></div><lb
+ ed="J" n="0037a28"/><div type='commentary' level='2'><ab type='prose'>自聞則無所不聞自見則無所不見奚敝敝焉飾仁<lb
+ ed="J" n="0037a29"/>義之途驚天下之耳目哉自適而已自得而已此性<lb
+ ed="J" n="0037a30"/>命之情道德之正也俞兒事黃帝善別淄澠。通云<pb ed="J" id="J34.B296.0037b" n="0037b"/><lb
+ ed="J" n="0037b01"/>除斷妄想趨向真如正好門前之遶。</ab></div><lb
+ ed="J" n="0037b02"/><head>馬蹄</head><lb
+ ed="J" n="0037b03"/><div type='commentary' level='2'><ab type='prose'>伯樂善治馬而馬始多故矣陶匠善治埴木而埴木<lb
+ ed="J" n="0037b04"/>始災矣聖人善治天下而天下始疑天下始分矣故<lb
+ ed="J" n="0037b05"/>曰無治之以其治而治之以其不治。通云我今日<lb
+ ed="J" n="0037b06"/>牙痛。</ab></div><lb
+ ed="J" n="0037b07"/><div type='orig' level='2'><ab type='prose'>馬蹄可以踐霜雪此亦治天下者之過也。</ab></div><lb
+ ed="J" n="0037b08"/><div type='commentary' level='2'><ab type='prose'>馬死者性失也埴木有性豈任方圓豈任曲直哉而<lb
+ ed="J" n="0037b09"/>猶且稱之曰治也治也則已過矣治天下亦然母為<lb
+ ed="J" n="0037b10"/>伯樂母為陶匠其可也。通云清淨行者不入涅槃<lb
+ ed="J" n="0037b11"/>破戒比丘不入地獄。</ab></div><lb
+ ed="J" n="0037b12"/><div type='orig' level='2'><ab type='prose'>吾意善臨天下者不然可攀援而闚。</ab></div><lb
+ ed="J" n="0037b13"/><div type='commentary' level='2'><ab type='prose'>獉獉爾狉狉爾吾與鳥獸草木同入於玄化之中而<lb
+ ed="J" n="0037b14"/>莫知其孰為此孰為彼也。通云情與無情皆為一<lb
+ ed="J" n="0037b15"/>體。</ab></div><lb
+ ed="J" n="0037b16"/><div type='orig' level='2'><ab type='prose'>夫至德之世同與禽獸居五聲不亂孰應六<lb
+ ed="J" n="0037b17"/>律。</ab></div><lb
+ ed="J" n="0037b18"/><div type='commentary' level='2'><ab type='prose'>馬有性埴木有性人亦有性無知是也無欲是也是<lb
+ ed="J" n="0037b19"/>以貴乎同也仁義禮樂何紛紛也仁義設而道德始<lb
+ ed="J" n="0037b20"/>廢矣禮樂設而性情始離矣聖人者何苦作為文采<lb
+ ed="J" n="0037b21"/>以亂人目作為聲音以亂人耳哉。通云取禪板來<lb
+ ed="J" n="0037b22"/>取火來。</ab></div><lb
+ ed="J" n="0037b23"/><div type='orig' level='2'><ab type='prose'>夫殘朴以為器此亦聖人之過也。</ab></div><lb
+ ed="J" n="0037b24"/><div type='commentary' level='2'><ab type='prose'>工匠罪歟伯樂罪歟聖人過歟絕其聖去其智墮耳<lb
+ ed="J" n="0037b25"/>目黜聰明古之人尚哉。通云長老何年行道威音<lb
+ ed="J" n="0037b26"/>王以前猶是王老師兒孫坐第二位去。</ab></div><lb
+ ed="J" n="0037b29"/><div type='orig' level='2'><ab type='prose'>胠篋。</ab></div><lb
+ ed="J" n="0037b30"/><div type='commentary' level='2'><ab type='prose'>皇降而帝帝降而王王降而伯伯降而盜譚仁義者<pb ed="J" id="J34.B296.0037c" n="0037c"/><lb
+ ed="J" n="0037c01"/>適為盜資耳著胠篋。通云彼魔法中假我衣冠稱<lb
+ ed="J" n="0037c02"/>善知識。</ab></div><lb
+ ed="J" n="0037c03"/><div type='orig' level='2'><ab type='prose'>將為胠篋探囊不乃為大盜積者也。</ab></div><lb
+ ed="J" n="0037c04"/><div type='commentary' level='2'><ab type='prose'>仁義禮樂治天下之緘縢扃譎也而竊者以之故聖<lb
+ ed="J" n="0037c05"/>人生而大盜起也。通云瞿曇也須喫棒。</ab></div><lb
+ ed="J" n="0037c06"/><div type='orig' level='2'><ab type='prose'>故嘗試論之以守其盜賊之身乎。</ab></div><lb
+ ed="J" n="0037c07"/><div type='commentary' level='2'><ab type='prose'>立宗廟社稷治邑屋州閭鄉曲者皆聖知之法也盜<lb
+ ed="J" n="0037c08"/>其國弒其君并其法而有之田成子是也天下之為<lb
+ ed="J" n="0037c09"/>田成子者豈少哉宜若聖人之過也。通云纔有一<lb
+ ed="J" n="0037c10"/>毫頭便有一毫頭。</ab></div><lb
+ ed="J" n="0037c11"/><div type='orig' level='2'><ab type='prose'>嘗試論之四子之賢而身不免於戮。</ab></div><lb
+ ed="J" n="0037c12"/><div type='commentary' level='2'><ab type='prose'>殺諫臣誅善類者暴君也其所用者聖人之法也為<lb
+ ed="J" n="0037c13"/>法之敝一至於此故聖人不能無過也萇弘之血化<lb
+ ed="J" n="0037c14"/>碧臛目曰胣。通云邪人用正法。</ab></div><lb
+ ed="J" n="0037c15"/><div type='orig' level='2'><ab type='prose'>故跖之徒問於跖曰是乃聖人之過也。</ab></div><lb
+ ed="J" n="0037c16"/><div type='commentary' level='2'><ab type='prose'>智仁聖義勇者所以治天下之具也而盜跖有之是<lb
+ ed="J" n="0037c17"/>聖人適為盜資也聖人不死大盜不止翹翹然以仁<lb
+ ed="J" n="0037c18"/>義招天下者是適與盜人謀也斗斛權衡符璽皆是<lb
+ ed="J" n="0037c19"/>也竊國者且侯矣刑賞者徒具文也。通云一為波<lb
+ ed="J" n="0037c20"/>旬一為帝釋。</ab></div><lb
+ ed="J" n="0037c22"/><div type='orig' level='2'><ab type='prose'>故曰魚不可脫於淵法之所無用也。</ab></div><lb
+ ed="J" n="0037c23"/><div type='commentary' level='2'><ab type='prose'>仁如魯史辯如楊墨聰如師曠巧如工倕明如離朱<lb
+ ed="J" n="0037c24"/>適足以亂天下耳火飛曰爚絕聖棄知以為玄同聖<lb
+ ed="J" n="0037c25"/>人者天下之利器也利器不可以示人。通云如愚<lb
+ ed="J" n="0037c26"/>若魯。</ab></div><lb
+ ed="J" n="0037c27"/><div type='orig' level='2'><ab type='prose'>子獨不知至德之世乎當此之時則至治已。</ab></div><lb
+ ed="J" n="0037c28"/><div type='commentary' level='2'><ab type='prose'>民忘其治謂之至治其言本於黃帝容成大庭以類<lb
+ ed="J" n="0037c29"/>舉也。通云毘婆尸佛尸棄佛毘舍浮佛拘留孫佛<lb
+ ed="J" n="0037c30"/>拘那含牟尼佛迦葉佛釋迦牟尼佛。</ab></div><pb ed="J" id="J34.B296.0038a" n="0038a"/><lb
+ ed="J" n="0038a01"/><div type='orig' level='2'><ab type='prose'>今遂至使民延頸舉踵好知之亂天下也。</ab></div><lb
+ ed="J" n="0038a02"/><div type='commentary' level='2'><ab type='prose'>鳥亂於上魚亂於水獸亂於澤皆亂也天下大亂俗<lb
+ ed="J" n="0038a03"/>惑於辯去知與故則莫若求其所已知而非其所已<lb
+ ed="J" n="0038a04"/>善。通云知之一字眾禍之門。</ab></div><lb
+ ed="J" n="0038a05"/><div type='orig' level='2'><ab type='prose'>自三代以下者是已啍啍已亂天下矣。</ab></div><lb
+ ed="J" n="0038a06"/><div type='commentary' level='2'><ab type='prose'>役役者動也啍啍者言也作誓作誥何啍啍也其感<lb
+ ed="J" n="0038a07"/>人以末也。通云杜口毘耶掩室摩竭。</ab></div><lb
+ ed="J" n="0038a08"/><head>在宥</head><lb
+ ed="J" n="0038a09"/><div type='commentary' level='2'><ab type='prose'>物於物者不足以治物也不物於物故忘物忘物而<lb
+ ed="J" n="0038a10"/>物無不得矣在宥是也。通云死貓頭。</ab></div><lb
+ ed="J" n="0038a11"/><div type='orig' level='2'><ab type='prose'>聞在宥天下有治天下者哉。</ab></div><lb
+ ed="J" n="0038a12"/><div type='commentary' level='2'><ab type='prose'>在之則無適而不得矣宥之則無往而不釋矣奚其<lb
+ ed="J" n="0038a13"/>治奚其治。通云總不消得。</ab></div><lb
+ ed="J" n="0038a14"/><div type='orig' level='2'><ab type='prose'>昔堯之治天下也安其性命之情哉。</ab></div><lb
+ ed="J" n="0038a15"/><div type='commentary' level='2'><ab type='prose'>毘於喜則不恬矣毘於怒則不愉矣盜跖曾史者賞<lb
+ ed="J" n="0038a16"/>罰之招也其原自堯桀始喬詰卓騺何暇安性命之<lb
+ ed="J" n="0038a17"/>情哉喬者矯邁詰者屈曲。通云黑暗女功德天。</ab></div><lb
+ ed="J" n="0038a18"/><div type='orig' level='2'><ab type='prose'>而且說明耶吾若是何哉。</ab></div><lb
+ ed="J" n="0038a19"/><div type='commentary' level='2'><ab type='prose'>說者情之所之相助也安性命之情者存可也亡可<lb
+ ed="J" n="0038a20"/>也苟為不安是亂天下也尊之惜之何為也過而去<lb
+ ed="J" n="0038a21"/>之忽然若遺其可也為齋戒為跪坐為鼓歌若是者<lb
+ ed="J" n="0038a22"/>何也。通云物事門中不捨一法實際理地不受一<lb
+ ed="J" n="0038a23"/>塵。</ab></div><lb
+ ed="J" n="0038a24"/><div type='orig' level='2'><ab type='prose'>故君子不得已而臨蒞天下何暇治天下哉。</ab></div><lb
+ ed="J" n="0038a25"/><div type='commentary' level='2'><ab type='prose'>無為自正上理也無解五藏無擢聰明貴其身愛其<lb
+ ed="J" n="0038a26"/>身也黃帝老子之所以治天下也尸居淵默為龍為<lb
+ ed="J" n="0038a27"/>雷神與化俱故天與理適也無為也無不為也炊者<lb
+ ed="J" n="0038a28"/>希聲累者希形也。通云枯木龍吟髑髏眼睛。</ab></div><lb
+ ed="J" n="0038a29"/><div type='orig' level='2'><ab type='prose'>崔瞿問於老聃罪在攖人心。</ab></div><lb
+ ed="J" n="0038a30"/><div type='commentary' level='2'><ab type='prose'>人心者僨驕而不可係者也臧人心攖人心攖人心<pb ed="J" id="J34.B296.0038b" n="0038b"/><lb
+ ed="J" n="0038b01"/>乃亂排下進上上下囚殺亂之始也能為淖約以柔<lb
+ ed="J" n="0038b02"/>剛強能為廉劌能為雕琢熱如焦火寒如凝冰俛仰<lb
+ ed="J" n="0038b03"/>四海其居微芒其動飄忽如是其不可係也攖之不<lb
+ ed="J" n="0038b04"/>可也黃帝堯舜且失之況三代以下耶脊脊大亂宜<lb
+ ed="J" n="0038b05"/>其駭也。通云我自覓心了不可得。</ab></div><lb
+ ed="J" n="0038b06"/><div type='orig' level='2'><ab type='prose'>故賢者伏處大山嵁巖之下而天下大治。</ab></div><lb
+ ed="J" n="0038b07"/><div type='commentary' level='2'><ab type='prose'>椄槢囊頭木也嚆矢矢之猛者仁義聖智攖人心者<lb
+ ed="J" n="0038b08"/>也猶桎梏也。通云念佛一聲嗽口三日。</ab></div><lb
+ ed="J" n="0038b09"/><div type='orig' level='2'><ab type='prose'>黃帝立為天子又烏足以語至道。</ab></div><lb
+ ed="J" n="0038b10"/><div type='commentary' level='2'><ab type='prose'>所欲問者物之質也所欲官者物之殘也所問非所<lb
+ ed="J" n="0038b11"/>官所官非所問也不族而雨不黃而落日月蝕矣猶<lb
+ ed="J" n="0038b12"/>佞人以求治也奚足語哉。通云沒你話會分。</ab></div><lb
+ ed="J" n="0038b13"/><div type='orig' level='2'><ab type='prose'>黃帝退捐天下廣成子之謂天矣。</ab></div><lb
+ ed="J" n="0038b14"/><div type='commentary' level='2'><ab type='prose'>貴以身愛以身故治身千二百歲而形不衰善治身<lb
+ ed="J" n="0038b15"/>也廣成子之謂天也天者神明之宰也。通云轉輪<lb
+ ed="J" n="0038b16"/>聖王身相無量壽命無量。</ab></div><lb
+ ed="J" n="0038b18"/><div type='orig' level='2'><ab type='prose'>廣成子曰來余語女人其盡死而我獨存乎。</ab></div><lb
+ ed="J" n="0038b19"/><div type='commentary' level='2'><ab type='prose'>無窮無測莫可終極不死也不生也離得也離失也<lb
+ ed="J" n="0038b20"/>為皇者古也為王者今也見光者天也為土者地也<lb
+ ed="J" n="0038b21"/>皆是也生於土反於土命也生之無生也死之無死<lb
+ ed="J" n="0038b22"/>也余將去汝入無窮遊無極與日月參與天地並莫<lb
+ ed="J" n="0038b23"/>知其終也緡猶冥也冥冥昏昏進之無可當也退之<lb
+ ed="J" n="0038b24"/>無可遠也人盡死而我獨存是治身者也。通云死<lb
+ ed="J" n="0038b25"/>中得活。</ab></div><lb
+ ed="J" n="0038b26"/><div type='orig' level='2'><ab type='prose'>雲將東遊過扶搖之技雲將不得問。</ab></div><lb
+ ed="J" n="0038b27"/><div type='commentary' level='2'><ab type='prose'>遊耶吁耶吾弗知耶吾弗知耶是有謂耶是無謂耶<lb
+ ed="J" n="0038b28"/>何不得而問耶。通云雲門胡餅。</ab></div><lb
+ ed="J" n="0038b29"/><div type='orig' level='2'><ab type='prose'>又三年東遊起辭而行。</ab></div><lb
+ ed="J" n="0038b30"/><div type='commentary' level='2'><ab type='prose'>天者稱鴻蒙也謂鴻蒙為所天也浮遊猖狂無適而<pb ed="J" id="J34.B296.0038c" n="0038c"/><lb
+ ed="J" n="0038c01"/>不得也內觀無妄勿謂形勞也余何知哉余何知哉<lb
+ ed="J" n="0038c02"/>雲將曰向也自以為猖狂而民仍隨予所往也予不<lb
+ ed="J" n="0038c03"/>得已也今則否也今則民放余余自放也願受令願<lb
+ ed="J" n="0038c04"/>承教也鴻蒙曰未也亂天逆物治人者之過也雲將<lb
+ ed="J" n="0038c05"/>曰奈何鴻蒙曰毒哉甚矣憊也曷歸乎曷歸乎僊僊<lb
+ ed="J" n="0038c06"/>乎歸也雲將曰願聞一言鴻蒙曰養心上也無為自<lb
+ ed="J" n="0038c07"/>化解心釋神窈窈冥冥莫知其真物將自生雲將曰<lb
+ ed="J" n="0038c08"/>得之矣乃今而知所為身與所為德也。通云不許<lb
+ ed="J" n="0038c09"/>夜行投明須到。</ab></div><lb
+ ed="J" n="0038c10"/><div type='orig' level='2'><ab type='prose'>世俗之人睹物者天地之友。</ab></div><lb
+ ed="J" n="0038c11"/><div type='commentary' level='2'><ab type='prose'>喜乎同己惡乎異己以出眾為心也欲出眾者則安<lb
+ ed="J" n="0038c12"/>能出眾哉其不如眾技者則己眾矣夫有物者不可<lb
+ ed="J" n="0038c13"/>以物物也不物於物故能物物獨往獨來是謂獨有<lb
+ ed="J" n="0038c14"/>有問有應無嚮無方挈汝而往與為撓撓無端也無<lb
+ ed="J" n="0038c15"/>旁也無始也為之頌論冥乎大同墮形體黜聰明大<lb
+ ed="J" n="0038c16"/>同而無己也有而無有故不得有其有也無無亦無<lb
+ ed="J" n="0038c17"/>故無有無有也睹有者君子之陳跡也睹無者猶未<lb
+ ed="J" n="0038c18"/>離乎天地也非然也。通云有無是兩頭語。</ab></div><lb
+ ed="J" n="0038c19"/><div type='orig' level='2'><ab type='prose'>賤而不可不任者物也不可不察也。</ab></div><lb
+ ed="J" n="0038c20"/><div type='commentary' level='2'><ab type='prose'>無為也無不為也任天而遊者一物不能外也民與<lb
+ ed="J" n="0038c21"/>事俱也無為則尊有為則益為累此天人之分也。<lb
+ ed="J" n="0038c22"/>通云不任有為不盡無為。</ab></div><lb
+ ed="J" n="0038c24"/><head>天地</head><lb
+ ed="J" n="0038c25"/><div type='commentary' level='2'><ab type='prose'>無無故無名無名者一之所起也得一以清得一以<lb
+ ed="J" n="0038c26"/>寧得一以為天下貞玄之又玄眾妙之門。通云滿<lb
+ ed="J" n="0038c27"/>口道不得。</ab></div><lb
+ ed="J" n="0038c28"/><div type='orig' level='2'><ab type='prose'>天地雖大其化均也天德而已矣。</ab></div><lb
+ ed="J" n="0038c29"/><div type='commentary' level='2'><ab type='prose'>君猶天也道曰天道德曰天德。通云同根一體。</ab></div><lb
+ ed="J" n="0038c30"/><div type='orig' level='2'><ab type='prose'>以道觀言而天下之君正無心得而鬼神服。</ab></div><pb ed="J" id="J34.B296.0039a" n="0039a"/><lb
+ ed="J" n="0039a01"/><div type='commentary' level='2'><ab type='prose'>正其言定其分列其能而后可以汎應也道也所以<lb
+ ed="J" n="0039a02"/>觀物也道兼於天以天治故通於一也道無心合人<lb
+ ed="J" n="0039a03"/>人無心合道也。通云前三三後三三。</ab></div><lb
+ ed="J" n="0039a04"/><div type='orig' level='2'><ab type='prose'>夫子曰夫道覆載萬物者也死生同狀。</ab></div><lb
+ ed="J" n="0039a05"/><div type='commentary' level='2'><ab type='prose'>虛而應物故物無不得也心大於事故藏事我周於<lb
+ ed="J" n="0039a06"/>物物往歸之於己非有所私也雖王天下不以為顯<lb
+ ed="J" n="0039a07"/>也隱顯一故萬物一萬物一故死生一也。通云木<lb
+ ed="J" n="0039a08"/>人見花烏。</ab></div><lb
+ ed="J" n="0039a09"/><div type='orig' level='2'><ab type='prose'>夫子曰夫道淵乎其居也大小長短修遠。</ab></div><lb
+ ed="J" n="0039a10"/><div type='commentary' level='2'><ab type='prose'>道貫金石故萬物莫能定也王德言以德自王也素<lb
+ ed="J" n="0039a11"/>履之往獨行也通於事者其恥也故遺事也通於事<lb
+ ed="J" n="0039a12"/>者其知也故存神也心出而物採之矣而心容有係<lb
+ ed="J" n="0039a13"/>物者乎曉焉者其獨見也和焉者其獨聞也至無而<lb
+ ed="J" n="0039a14"/>求不匱也時騁而艮於庭也小之無勿大也短之無<lb
+ ed="J" n="0039a15"/>勿長也修然遠也。通云庄上喫油餈咄咄怪事。</ab></div><lb
+ ed="J" n="0039a16"/><div type='orig' level='2'><ab type='prose'>黃帝遊乎赤水之北象罔乃可以得之乎。</ab></div><lb
+ ed="J" n="0039a17"/><div type='commentary' level='2'><ab type='prose'>知索之任智也離朱索之任目也喫詬索之任言也<lb
+ ed="J" n="0039a18"/>是不如其忘象也象罔者忘象者也異哉象罔之果<lb
+ ed="J" n="0039a19"/>可以得也。通云罔明出得女子定。</ab></div><lb
+ ed="J" n="0039a20"/><div type='orig' level='2'><ab type='prose'>堯之師曰許由南面之賊也。</ab></div><lb
+ ed="J" n="0039a21"/><div type='commentary' level='2'><ab type='prose'>以人受天故乘人而無天徒止惡也而不知惡之所<lb
+ ed="J" n="0039a22"/>由生也何於適於忘也身本一也形乃異向尊其所<lb
+ ed="J" n="0039a23"/>知如火之馳紜紜者緒也為緒使也役役者物也為<lb
+ ed="J" n="0039a24"/>物絯也其何能配天也尊祖故收族父之父為祖能<lb
+ ed="J" n="0039a25"/>為眾父而不能為眾父之父治率由之亂率由之治<lb
+ ed="J" n="0039a26"/>亂并也臣之禍也君之賊也。通云同時不識祖又<lb
+ ed="J" n="0039a27"/>云祖父從來不出門。</ab></div><lb
+ ed="J" n="0039a28"/><div type='orig' level='2'><ab type='prose'>堯觀乎華封人曰退己。</ab></div><lb
+ ed="J" n="0039a29"/><div type='commentary' level='2'><ab type='prose'>堯請問而封人曰退者忘言可也。通云好事不如<lb
+ ed="J" n="0039a30"/>無。</ab></div><pb ed="J" id="J34.B296.0039b" n="0039b"/><lb
+ ed="J" n="0039b01"/><div type='orig' level='2'><ab type='prose'>堯治天下俋俋乎耕而不顧。</ab></div><lb
+ ed="J" n="0039b02"/><div type='commentary' level='2'><ab type='prose'>俋俋猶邑邑也徑行而直情也耕而不顧何也。通<lb
+ ed="J" n="0039b03"/>云懶殘懶殘不為俗人拭涕。</ab></div><lb
+ ed="J" n="0039b04"/><div type='orig' level='2'><ab type='prose'>秦初有無無同乎大順。</ab></div><lb
+ ed="J" n="0039b05"/><div type='commentary' level='2'><ab type='prose'>一者何也無無矣無名矣吾不知其何所起也未幾<lb
+ ed="J" n="0039b06"/>而未形者以生矣未幾而有分者無間矣未幾而成<lb
+ ed="J" n="0039b07"/>理矣未幾而保神矣德也命也形也性也返同於初<lb
+ ed="J" n="0039b08"/>初乃一也虛之至也大之至也異啄同鳴上下并也<lb
+ ed="J" n="0039b09"/>冥冥昏昏是玄德也。通云對朕者何不識。</ab></div><lb
+ ed="J" n="0039b12"/><div type='orig' level='2'><ab type='prose'>夫子問於老聃是之謂入於天。</ab></div><lb
+ ed="J" n="0039b13"/><div type='commentary' level='2'><ab type='prose'>放者傚也離析堅白若懸日月而托諸寓也長於辯<lb
+ ed="J" n="0039b14"/>者也此可為聖人乎是執狸之狗也是猿狙也成思<lb
+ ed="J" n="0039b15"/>故怵心山林來故勞形也有首趾無心耳狗類也猿<lb
+ ed="J" n="0039b16"/>狙類也若是者眾矣形存而無形者并存焉人之至<lb
+ ed="J" n="0039b17"/>也抑胡寡也動也其止也死也其生也廢也其起也<lb
+ ed="J" n="0039b18"/>皆非其所以也有治在人者有治在天者忘乎忘乎<lb
+ ed="J" n="0039b19"/>入於天者也。通云韓盧逐塊又云猿猴彰古鏡。</ab></div><lb
+ ed="J" n="0039b20"/><div type='orig' level='2'><ab type='prose'>蔣閭葂見季徹欲同乎德而心居矣。</ab></div><lb
+ ed="J" n="0039b21"/><div type='commentary' level='2'><ab type='prose'>荐陳也陳前說也局局展然笑也且其自處也危矣<lb
+ ed="J" n="0039b22"/>美好設而民將從之猶多其觀臺榭以娛耳目也觀<lb
+ ed="J" n="0039b23"/>臺既多物必超往其為投跡者眾矣溟涬猶鴻芒也<lb
+ ed="J" n="0039b24"/>豈以堯舜為先而我後哉兄者先也弟者後也居安<lb
+ ed="J" n="0039b25"/>也亦曰止也。通云不掛本來衣莫行心上路。</ab></div><lb
+ ed="J" n="0039b26"/><div type='orig' level='2'><ab type='prose'>子貢南遊於楚何足以識之哉。</ab></div><lb
+ ed="J" n="0039b27"/><div type='commentary' level='2'><ab type='prose'>博學以擬聖於于以蓋眾弦歌以成名聲是桔槔之<lb
+ ed="J" n="0039b28"/>智也於于猶于于也托生並行殆浮游其生以與眾<lb
+ ed="J" n="0039b29"/>庶並也汒乎淳哉忘智巧也譽之不顧也非之不受<lb
+ ed="J" n="0039b30"/>也失不加損得不加益也是渾沌之人也望其言若<pb ed="J" id="J34.B296.0039c" n="0039c"/><lb
+ ed="J" n="0039c01"/>河漢也何足以知之也。通云從來疑著這漢。</ab></div><lb
+ ed="J" n="0039c02"/><div type='orig' level='2'><ab type='prose'>諄芒將東之大壑此之謂混冥。</ab></div><lb
+ ed="J" n="0039c03"/><div type='commentary' level='2'><ab type='prose'>橫目猶比目也照曠所照者曠也進而德人進而神<lb
+ ed="J" n="0039c04"/>人累況而上也。通云井覷驢驢覷井。</ab></div><lb
+ ed="J" n="0039c06"/><div type='orig' level='2'><ab type='prose'>問無鬼與赤張滿稽聖人羞之。</ab></div><lb
+ ed="J" n="0039c07"/><div type='commentary' level='2'><ab type='prose'>其未瘍也何所需吾藥也其不禿也何所需吾鬄也<lb
+ ed="J" n="0039c08"/>操藥而進其色燋然不如其不藥也聖人羞之也。<lb
+ ed="J" n="0039c09"/>通云也不消得。</ab></div><lb
+ ed="J" n="0039c10"/><div type='orig' level='2'><ab type='prose'>至德之世汲汲然唯恐其似己也。</ab></div><lb
+ ed="J" n="0039c11"/><div type='commentary' level='2'><ab type='prose'>標枝漫然在上野鹿任所之也諛其親諂其君是導<lb
+ ed="J" n="0039c12"/>諛也世俗之所然而然所善而善亦猶之導諛也何<lb
+ ed="J" n="0039c13"/>必君親之非而流俗之是也導人者從人者也諛人<lb
+ ed="J" n="0039c14"/>者悅人者也合群言以為譬飾小文以為辭徒將以<lb
+ ed="J" n="0039c15"/>聚眾也而本末終始不相及也則惑也彼導諛者何<lb
+ ed="J" n="0039c16"/>也垂衣裳設采色動容貌以媚世也愚之至也雖有<lb
+ ed="J" n="0039c17"/>祈嚮不可得也折楊皇荂俗樂也高言不入於耳俗<lb
+ ed="J" n="0039c18"/>言勝也擊缶鼓鐘樂殊雅俗俗而奏之清濁混也惑<lb
+ ed="J" n="0039c19"/>之甚也推擇也擇而不推則無擇也無擇誰比憂也<lb
+ ed="J" n="0039c20"/>比近也大風為厲厲之人唯恐其子之類己也人盡<lb
+ ed="J" n="0039c21"/>明也惑者何也。通云惺惺著。</ab></div><lb
+ ed="J" n="0039c22"/><div type='orig' level='2'><ab type='prose'>百年之木亦可以為得也。</ab></div><lb
+ ed="J" n="0039c23"/><div type='commentary' level='2'><ab type='prose'>斲木為樽斷者棄之美惡不同失性一也跖與曾史<lb
+ ed="J" n="0039c24"/>猶是也困惾者逆也厲爽謂失味也鳩鴞在籠虎豹<lb
+ ed="J" n="0039c25"/>在囊檻困之至也內支離於柴柵外重纏繳離跂於<lb
+ ed="J" n="0039c26"/>楊墨者困之至也乃自以為得乎。通云披枷帶鎖。</ab></div><lb
+ ed="J" n="0039c27"/><head>天道</head><lb
+ ed="J" n="0039c28"/><div type='commentary' level='2'><ab type='prose'>無為自正無欲自化天之道也帝王者莫不由之施<lb
+ ed="J" n="0039c29"/>之有後先用之有本末也主職要也臣職詳也得其<lb
+ ed="J" n="0039c30"/>意忘其象可也。通云立乾坤句。</ab></div><pb ed="J" id="J34.B296.0040a" n="0040a"/><lb
+ ed="J" n="0040a01"/><div type='orig' level='2'><ab type='prose'>天道運而無所積故萬物成與天和者謂之<lb
+ ed="J" n="0040a02"/>天樂。</ab></div><lb
+ ed="J" n="0040a03"/><div type='commentary' level='2'><ab type='prose'>天也帝也聖人也一也皆道也道運而無所積者也<lb
+ ed="J" n="0040a04"/>無為也無不為也虛之極靜之篤也君可也臣可也<lb
+ ed="J" n="0040a05"/>上可也下可也隱可也見可也和於人者也和於天<lb
+ ed="J" n="0040a06"/>者也。通云不面帝堯顏又云有向有奉。</ab></div><lb
+ ed="J" n="0040a08"/><div type='orig' level='2'><ab type='prose'>莊子曰吾師乎古之人貴無為也。</ab></div><lb
+ ed="J" n="0040a09"/><div type='commentary' level='2'><ab type='prose'>生也天行死也物化故鬼不祟魂不疲宗天地主道<lb
+ ed="J" n="0040a10"/>德用天下而有餘也無為者也。通云無生死故不<lb
+ ed="J" n="0040a11"/>求出。</ab></div><lb
+ ed="J" n="0040a12"/><div type='orig' level='2'><ab type='prose'>上無為也此不易之道也。</ab></div><lb
+ ed="J" n="0040a13"/><div type='commentary' level='2'><ab type='prose'>主職要也臣職詳也無為者上也有為者下也。通<lb
+ ed="J" n="0040a14"/>云與和尚提鞋攜杖不為分外。</ab></div><lb
+ ed="J" n="0040a15"/><div type='orig' level='2'><ab type='prose'>故古之王天下者用人群之道也。</ab></div><lb
+ ed="J" n="0040a16"/><div type='commentary' level='2'><ab type='prose'>古之人不下堂皇而天下治也。通云帝德尊寰宇<lb
+ ed="J" n="0040a17"/>。</ab></div><lb
+ ed="J" n="0040a18"/><div type='orig' level='2'><ab type='prose'>本在於上末在於下非上之所以畜下也。</ab></div><lb
+ ed="J" n="0040a19"/><div type='commentary' level='2'><ab type='prose'>有本末有後先故物尚其功而道有其序也序者次<lb
+ ed="J" n="0040a20"/>也審其次而後上可事也下可畜也物可治也身可<lb
+ ed="J" n="0040a21"/>修也治之至也形名非本也賞罰非始也無倒行無<lb
+ ed="J" n="0040a22"/>逆施也。通云門庭施設曲為今時威音以前無是<lb
+ ed="J" n="0040a23"/>事。</ab></div><lb
+ ed="J" n="0040a25"/><div type='orig' level='2'><ab type='prose'>昔者舜問於堯天地而已矣。</ab></div><lb
+ ed="J" n="0040a26"/><div type='commentary' level='2'><ab type='prose'>天之德而出也寧矣日月之照而四時行矣何為也<lb
+ ed="J" n="0040a27"/>哉天之合也膠膠擾擾人之合也。通云正中偏偏<lb
+ ed="J" n="0040a28"/>中正。</ab></div><lb
+ ed="J" n="0040a29"/><div type='orig' level='2'><ab type='prose'>孔子西藏書於周室夫子亂人之性也。</ab></div><lb
+ ed="J" n="0040a30"/><div type='commentary' level='2'><ab type='prose'>六經六緯為十二經說未終而老聃遽止之故曰中<pb ed="J" id="J34.B296.0040b" n="0040b"/><lb
+ ed="J" n="0040b01"/>其說也後言失言也道德失而為仁義無私焉乃私<lb
+ ed="J" n="0040b02"/>也偈偈猶敝敝焉擊鼓而求亡子也噫過矣。通云<lb
+ ed="J" n="0040b03"/>是窮子喻。</ab></div><lb
+ ed="J" n="0040b04"/><div type='orig' level='2'><ab type='prose'>士成綺見老子而問其名為竊。</ab></div><lb
+ ed="J" n="0040b05"/><div type='commentary' level='2'><ab type='prose'>止百舍行重趼嚮之勤也棄妹則寡愛生熟不盡前<lb
+ ed="J" n="0040b06"/>謂食無餘味也漠然不應者機也心正卻故願有請<lb
+ ed="J" n="0040b07"/>也卻謂卻而不前也脫焉遠也呼牛應牛呼馬應馬<lb
+ ed="J" n="0040b08"/>於名無所爭也服常服無改吾初度也非以其服而<lb
+ ed="J" n="0040b09"/>服之也雁行履行再拜稽首而進也崖然自異也衝<lb
+ ed="J" n="0040b10"/>然自雄也額然未忘闞然未嘿義然未消也係馬而<lb
+ ed="J" n="0040b11"/>止心如馳也動而持不及持也機發發也察而審徒<lb
+ ed="J" n="0040b12"/>與為智巧也泰者已甚曙已然不睹未然也凡此者<lb
+ ed="J" n="0040b13"/>不相信也邊竟有人其名為竊未啟其籓而妄意其<lb
+ ed="J" n="0040b14"/>室也。通云九上洞山三登投子。</ab></div><lb
+ ed="J" n="0040b15"/><div type='orig' level='2'><ab type='prose'>夫子曰夫道於大不終至人之心有所定矣。</ab></div><lb
+ ed="J" n="0040b16"/><div type='commentary' level='2'><ab type='prose'>惟道備物大小無間泰定故神閒也。通云十字街<lb
+ ed="J" n="0040b17"/>頭識取天子又云長安雖亂我國晏然。</ab></div><lb
+ ed="J" n="0040b18"/><div type='orig' level='2'><ab type='prose'>世之所貴道者書也古人之糟魄已夫。</ab></div><lb
+ ed="J" n="0040b19"/><div type='commentary' level='2'><ab type='prose'>道者不可以言傳也其可傳者糟魄也書不盡言言<lb
+ ed="J" n="0040b20"/>不盡意也。通云得意忘言道易親。</ab></div><lb
+ ed="J" n="0040b22"/><head>天運</head><lb
+ ed="J" n="0040b23"/><div type='commentary' level='2'><ab type='prose'>無所為而為者天也大音希聲也仁義禮樂儒墨之<lb
+ ed="J" n="0040b24"/>陳跡也非天也。通云寶鏡當風重重錦縫。</ab></div><lb
+ ed="J" n="0040b25"/><div type='orig' level='2'><ab type='prose'>天其運乎此謂上皇。</ab></div><lb
+ ed="J" n="0040b26"/><div type='commentary' level='2'><ab type='prose'>天乎地乎日月乎雲乎雨乎風乎誰為為之者乎洛<lb
+ ed="J" n="0040b27"/>有九故曰九洛皇建有極日月順序風雨時也五常<lb
+ ed="J" n="0040b28"/>猶五德也六極於九疇處一焉。通云九州皇化裡。</ab></div><lb
+ ed="J" n="0040b29"/><div type='orig' level='2'><ab type='prose'>商太宰蕩間仁於莊子是以道不渝。</ab></div><lb
+ ed="J" n="0040b30"/><div type='commentary' level='2'><ab type='prose'>至人無親非無親也親固不足以言之孝固不足以<pb ed="J" id="J34.B296.0040c" n="0040c"/><lb
+ ed="J" n="0040c01"/>言之也如徒曰孝耳孝耳此非過量之言不及量之<lb
+ ed="J" n="0040c02"/>言也至仁者兼忘者也至貴者忘爵至富者忘財至<lb
+ ed="J" n="0040c03"/>願者忘名譽并棄也忘也。通云子若吼時祖父俱<lb
+ ed="J" n="0040c04"/>盡又云子歸就父父全不顧父子之恩刀斧砍不開。</ab></div><lb
+ ed="J" n="0040c05"/><div type='orig' level='2'><ab type='prose'>北門成問於黃帝乃不自得。</ab></div><lb
+ ed="J" n="0040c06"/><div type='commentary' level='2'><ab type='prose'>異哉所聞。通云一種沒絃琴惟師彈得妙。</ab></div><lb
+ ed="J" n="0040c07"/><div type='orig' level='2'><ab type='prose'>帝曰汝殆其然哉汝故懼也。</ab></div><lb
+ ed="J" n="0040c08"/><div type='commentary' level='2'><ab type='prose'>盛衰異理清濁異宜如雷也如霆也無尾也無首也<lb
+ ed="J" n="0040c09"/>胡然死也胡然生也胡然僨也胡然起也無窮也不<lb
+ ed="J" n="0040c10"/>可待也故懼也。通云乾闥婆王奏樂。</ab></div><lb
+ ed="J" n="0040c11"/><div type='orig' level='2'><ab type='prose'>吾又奏之以陰陽之和汝委蛇故怠。</ab></div><lb
+ ed="J" n="0040c12"/><div type='commentary' level='2'><ab type='prose'>塗卻謂以大卻為塗守神以神明為守也揮越也綽<lb
+ ed="J" n="0040c13"/>寬也不能見故知窮不能逐故力屈既所不及乃至<lb
+ ed="J" n="0040c14"/>委蛇故怠也。通云乍如賡白雪。</ab></div><lb
+ ed="J" n="0040c15"/><div type='orig' level='2'><ab type='prose'>吾又奏之以無怠之聲而故惑也。</ab></div><lb
+ ed="J" n="0040c16"/><div type='commentary' level='2'><ab type='prose'>混混相逐如叢之生林林其樂而遺其形布而揮之<lb
+ ed="J" n="0040c17"/>不可曳也窮幽及昏聽無聲也疑之故稽於聖人稽<lb
+ ed="J" n="0040c18"/>察也天樂謂鈞天廣樂也無言故希聲說和豫也聽<lb
+ ed="J" n="0040c19"/>之無接故惑也。通云迦葉作舞大地山河作舞。</ab></div><lb
+ ed="J" n="0040c20"/><div type='orig' level='2'><ab type='prose'>樂也者始於懼道可載而與之俱也。</ab></div><lb
+ ed="J" n="0040c21"/><div type='commentary' level='2'><ab type='prose'>其愚也道也道可載而俱也咸池備也。通云大好<lb
+ ed="J" n="0040c22"/>一場曲調。</ab></div><lb
+ ed="J" n="0040c23"/><div type='orig' level='2'><ab type='prose'>孔子西遊於衛而夫子其窮哉。</ab></div><lb
+ ed="J" n="0040c24"/><div type='commentary' level='2'><ab type='prose'>芻狗以芻為狗所以祭也蘇者樵蘇之屬夢耶眯耶<lb
+ ed="J" n="0040c25"/>言世且易之也不敬故易之也桔槔者人俯亦俯人<lb
+ ed="J" n="0040c26"/>仰亦仰人引非引人也從之便也古今者應時而變<lb
+ ed="J" n="0040c27"/>者也三皇不相沿禮五帝不相循法也矉者何也。<lb
+ ed="J" n="0040c28"/>通云俱胝伸一指童子亦伸一指。</ab></div><lb
+ ed="J" n="0040c29"/><div type='orig' level='2'><ab type='prose'>孔子行年五十有一天門弗開矣。</ab></div><lb
+ ed="J" n="0040c30"/><div type='commentary' level='2'><ab type='prose'>不由中出者也故不出也不由外入者也故不隱也<pb ed="J" id="J34.B296.0041a" n="0041a"/><lb
+ ed="J" n="0041a01"/>仁義者可一宿而不可久處也覯遇也使人覯之則<lb
+ ed="J" n="0041a02"/>責之者至矣故貴乎淡忘也采真服真也鑒戒也湮<lb
+ ed="J" n="0041a03"/>沒也天門閶闔之門應靈府也。通云不借借。</ab></div><lb
+ ed="J" n="0041a04"/><div type='orig' level='2'><ab type='prose'>孔子見老聃而語仁義蹴蹴然立不安。</ab></div><lb
+ ed="J" n="0041a05"/><div type='commentary' level='2'><ab type='prose'>言黑白之質者不足以為辯也飾名譽之觀者不足<lb
+ ed="J" n="0041a06"/>以為廣也以孔子聲見者藉孔子為援也倨堂而應<lb
+ ed="J" n="0041a07"/>微是老子深遠也殺其殺者親有等也未至於孩而<lb
+ ed="J" n="0041a08"/>云誰喪其朴也殺盜非殺謂所殺者盜也殺以止殺<lb
+ ed="J" n="0041a09"/>非殺也人自為種言人自為類而天下從此分也其<lb
+ ed="J" n="0041a10"/>作始有倫各自為匹而今也女而婦也淫其色也新<lb
+ ed="J" n="0041a11"/>臺是也敝笱是也何言哉何言哉鮮規之獸獸解網<lb
+ ed="J" n="0041a12"/>莫能規也規制也。通云無理可伸無言可對。</ab></div><lb
+ ed="J" n="0041a14"/><div type='orig' level='2'><ab type='prose'>孔子謂老聃丘得之矣。</ab></div><lb
+ ed="J" n="0041a15"/><div type='commentary' level='2'><ab type='prose'>鉤用引而用之也鶂相感以目虫相感以聲類獸名<lb
+ ed="J" n="0041a16"/>生亶爰之山自為牝牡物化之不齊也烏鵲之生也<lb
+ ed="J" n="0041a17"/>以孺魚之傳也以沫虫之細腰者以化人之有弟也<lb
+ ed="J" n="0041a18"/>而兄啼皆物化也不與化為人夫胡及於化也化人<lb
+ ed="J" n="0041a19"/>者及化者也得之也得之也。通云龍神乞戒。</ab></div><lb
+ ed="J" n="0041a21"/><head>刻意</head><lb
+ ed="J" n="0041a22"/><div type='commentary' level='2'><ab type='prose'>無不忘也無不有也恬淡虛無乃合天德純之至也<lb
+ ed="J" n="0041a23"/>素之至也。通云月在青天水在瓶。</ab></div><lb
+ ed="J" n="0041a24"/><div type='orig' level='2'><ab type='prose'>刻意尚行聖人之德也。</ab></div><lb
+ ed="J" n="0041a25"/><div type='commentary' level='2'><ab type='prose'>高也非其高也修也非其修也治也非其治也閒也<lb
+ ed="J" n="0041a26"/>非其閒也壽也非其壽也彼何人也彼何人也。通<lb
+ ed="J" n="0041a27"/>云頭長三寸頸長二尺。</ab></div><lb
+ ed="J" n="0041a28"/><div type='orig' level='2'><ab type='prose'>故曰夫恬淡寂漠乃合天德。</ab></div><lb
+ ed="J" n="0041a29"/><div type='commentary' level='2'><ab type='prose'>死生夢覺也若浮若休則死生一不夢不憂則夢覺<lb
+ ed="J" n="0041a30"/>一。通云隻履空歸宋雲遇之蔥嶺。</ab></div><pb ed="J" id="J34.B296.0041b" n="0041b"/><lb
+ ed="J" n="0041b01"/><div type='orig' level='2'><ab type='prose'>故曰悲樂者德之邪天德之象也。</ab></div><lb
+ ed="J" n="0041b02"/><div type='commentary' level='2'><ab type='prose'>天一生水水者天德之象也水不雜則清莫動則平<lb
+ ed="J" n="0041b03"/>然鬱閉亦不能清故歎逝於流泉而不徒鑑於止水<lb
+ ed="J" n="0041b04"/>也。通云死水不藏龍又云萬里無雲天有過。</ab></div><lb
+ ed="J" n="0041b05"/><div type='orig' level='2'><ab type='prose'>故曰純粹而不雜能體純素謂之真人。</ab></div><lb
+ ed="J" n="0041b06"/><div type='commentary' level='2'><ab type='prose'>干隧吳地或曰干溪吳越產劍故云干越之劍一之<lb
+ ed="J" n="0041b07"/>精通謂惟其一是以精上通也倫類也。通云金剛<lb
+ ed="J" n="0041b08"/>王寶劍。</ab></div><lb
+ ed="J" n="0041b09"/><head>繕性</head><lb
+ ed="J" n="0041b10"/><div type='commentary' level='2'><ab type='prose'>繕治也古之治道者以知養怡以怡養知交相養而<lb
+ ed="J" n="0041b11"/>和理出焉所謂性也道可治性不可治也治之則失<lb
+ ed="J" n="0041b12"/>其性也去性而從於心則無以復其初也。通云打<lb
+ ed="J" n="0041b13"/>車即是打牛即是。</ab></div><lb
+ ed="J" n="0041b14"/><div type='orig' level='2'><ab type='prose'>繕性於俗學以求復其初物必失其性也。</ab></div><lb
+ ed="J" n="0041b15"/><div type='commentary' level='2'><ab type='prose'>役於學者俗學役於思者俗思恬養知則無知而知<lb
+ ed="J" n="0041b16"/>知養恬則知而無知道與德也性也仁義禮樂皆是<lb
+ ed="J" n="0041b17"/>也忠亦猶是也行不偏也彼我各王而蒙己德非德<lb
+ ed="J" n="0041b18"/>之也夫德則必有不冒者矣大德不德苟為冒之是<lb
+ ed="J" n="0041b19"/>物失其性也。通云其施汝者不名福田供養汝者<lb
+ ed="J" n="0041b20"/>墮三惡道。</ab></div><lb
+ ed="J" n="0041b21"/><div type='orig' level='2'><ab type='prose'>古之人在混芒之中反其性情而復其初。</ab></div><lb
+ ed="J" n="0041b22"/><div type='commentary' level='2'><ab type='prose'>順之則惟恐其逆也故不一也降而下也安之則惟<lb
+ ed="J" n="0041b23"/>恐其不安也故不順也降而愈下也離其道以為善<lb
+ ed="J" n="0041b24"/>險其德以為行乃始去性而從心也心與心搆而知<lb
+ ed="J" n="0041b25"/>識叢生則大亂之道也減其質也溺其心也無以復<lb
+ ed="J" n="0041b26"/>厥初也。通云教壞人家男女。</ab></div><lb
+ ed="J" n="0041b27"/><div type='orig' level='2'><ab type='prose'>由是觀之又何為哉。</ab></div><lb
+ ed="J" n="0041b28"/><div type='commentary' level='2'><ab type='prose'>道隱則世衰世衰則道愈隱道無以興乎世世無以<lb
+ ed="J" n="0041b29"/>興乎道也雖不在山林猶隱也道不行也古之人其<lb
+ ed="J" n="0041b30"/>可以有為而行也則治反於一而化行無跡也其不<pb ed="J" id="J34.B296.0041c" n="0041c"/><lb
+ ed="J" n="0041c01"/>可以有為而窮也則深根寧極以待時也。通云三<lb
+ ed="J" n="0041c02"/>問茅屋一道神光是何等人受用。</ab></div><lb
+ ed="J" n="0041c03"/><div type='orig' level='2'><ab type='prose'>道固不小行謂之倒置之民。</ab></div><lb
+ ed="J" n="0041c04"/><div type='commentary' level='2'><ab type='prose'>樂全故志得也無以益其樂也其儻來者寄也軒冕<lb
+ ed="J" n="0041c05"/>樂也窮約樂也樂彼猶樂此也。通云何處不稱尊。</ab></div><lb
+ ed="J" n="0041c06"/><head>秋水</head><lb
+ ed="J" n="0041c07"/><div type='commentary' level='2'><ab type='prose'>束於教者不可以語道也天地非大也毫末非小也<lb
+ ed="J" n="0041c08"/>以道觀之則何貴何賤何少何多也知道者達於理<lb
+ ed="J" n="0041c09"/>達理者明於權火弗能熱水弗能溺寒暑弗能害禽<lb
+ ed="J" n="0041c10"/>獸弗能賊也本乎天位乎得反要而語極也反其真<lb
+ ed="J" n="0041c11"/>也有形者不如其無形也風不如目目不如心也臨<lb
+ ed="J" n="0041c12"/>大難而不懼者勇也道之至妙者不可以智知也管<lb
+ ed="J" n="0041c13"/>未可以窺天錐未可以指地也曳尾於塗中樂也毋<lb
+ ed="J" n="0041c14"/>以梁國嚇我也子猶我也我猶魚也子知我我知魚<lb
+ ed="J" n="0041c15"/>也是物之適也。通云燈籠緣壁上天台又云藕絲<lb
+ ed="J" n="0041c16"/>牽大象。</ab></div><lb
+ ed="J" n="0041c17"/><div type='orig' level='2'><ab type='prose'>秋水時至向之自多於水乎。</ab></div><lb
+ ed="J" n="0041c18"/><div type='commentary' level='2'><ab type='prose'>涇流大於兩涯故不辨牛馬河漲溢也尾間即沃焦<lb
+ ed="J" n="0041c19"/>山海水泄處也礨空小穴也稊米稗也人卒謂人與<lb
+ ed="J" n="0041c20"/>卒也卒廝養也戰國之民多為兵故屢稱人卒海不<lb
+ ed="J" n="0041c21"/>敢自多也奈何哉其以河自多也。通云雞棲鳳巢<lb
+ ed="J" n="0041c22"/>非其同類。</ab></div><lb
+ ed="J" n="0041c23"/><div type='orig' level='2'><ab type='prose'>河伯曰然則吾大天地足以窮至大之域。</ab></div><lb
+ ed="J" n="0041c24"/><div type='commentary' level='2'><ab type='prose'>小非寡也大非多也量無窮也遙者故也望之難即<lb
+ ed="J" n="0041c25"/>而不以為悶也掇者今也俯而取之而非可跂及也<lb
+ ed="J" n="0041c26"/>時無止也得之不足喜失之不足憂也生無可樂死<lb
+ ed="J" n="0041c27"/>無可畏也知也不如其無知也生也不如其無生也。<lb
+ ed="J" n="0041c28"/>通云父母未生前如何是你本來面目。</ab></div><lb
+ ed="J" n="0041c29"/><div type='orig' level='2'><ab type='prose'>河伯曰世之議者約分之至也。</ab></div><lb
+ ed="J" n="0041c30"/><div type='commentary' level='2'><ab type='prose'>垺廓也殷盛也細不能視大大不能視細也不相及<pb ed="J" id="J34.B296.0042a" n="0042a"/><lb
+ ed="J" n="0042a01"/>也勢也雖然其有形者也有形者言論及之意致及<lb
+ ed="J" n="0042a02"/>之者也其不及者道也大人者吾無以名之也雖不<lb
+ ed="J" n="0042a03"/>出於害人而亦不多仁恩雖動不為利而亦不賤門<lb
+ ed="J" n="0042a04"/>隸是兩行也不爭也不讓也事不借人不多食力何<lb
+ ed="J" n="0042a05"/>其廉也然不以貪污為賤也是兩行也雖殊俗而不<lb
+ ed="J" n="0042a06"/>為矯異也雖從眾而不習卑諂也是兩行也道人者<lb
+ ed="J" n="0042a07"/>無聞者也至德者不德者也大人者無己者也約其<lb
+ ed="J" n="0042a08"/>常分以為至也吾無以名之也。通云至人無己靡<lb
+ ed="J" n="0042a09"/>所不已。</ab></div><lb
+ ed="J" n="0042a10"/><div type='orig' level='2'><ab type='prose'>河伯曰若物之外小大之家。</ab></div><lb
+ ed="J" n="0042a11"/><div type='commentary' level='2'><ab type='prose'>貴非貴也賤非賤也大非大也小非小也惡乎倪惡<lb
+ ed="J" n="0042a12"/>乎倪有差數有功分有趣操萬物盡等也貴賤有時<lb
+ ed="J" n="0042a13"/>未可以為常也梁麗屋梁也或曰車也能為大不能<lb
+ ed="J" n="0042a14"/>細也馬猶是也鴟鵂猶是也有能有不能也萬物之<lb
+ ed="J" n="0042a15"/>情也歸休乎河伯毋漫言貴賤毋漫言大小也。通<lb
+ ed="J" n="0042a16"/>云不作貴不作賤。</ab></div><lb
+ ed="J" n="0042a17"/><div type='orig' level='2'><ab type='prose'>河伯曰然則我何為乎夫固將自化。</ab></div><lb
+ ed="J" n="0042a18"/><div type='commentary' level='2'><ab type='prose'>無為也無不為也反衍反覆相衍也大蹇連連蹇蹇<lb
+ ed="J" n="0042a19"/>與道俱也施而謝之無所受也參差不一而行也承<lb
+ ed="J" n="0042a20"/>接也翼相助也任萬物之無方而我不宰也短長一<lb
+ ed="J" n="0042a21"/>齊也生死不足恃也虛滿無其形也年歲若遺時一<lb
+ ed="J" n="0042a22"/>往也終則有始天行也動與變準也時與化移也無<lb
+ ed="J" n="0042a23"/>為也無不為也夫固將自化也。通云頭頭非取捨。</ab></div><lb
+ ed="J" n="0042a24"/><div type='orig' level='2'><ab type='prose'>河伯曰然則何貴於道耶是謂反其真。</ab></div><lb
+ ed="J" n="0042a25"/><div type='commentary' level='2'><ab type='prose'>察安危寧禍福謹去就者權也本天以治人也位於<lb
+ ed="J" n="0042a26"/>得故無不得也蹢躅屈伸無往而不得也反物之要<lb
+ ed="J" n="0042a27"/>而語道之極也任天而不任人也去智與故反其命<lb
+ ed="J" n="0042a28"/>也得其所得而不以美名市也。通云有權有實有<lb
+ ed="J" n="0042a29"/>照有用。</ab></div><lb
+ ed="J" n="0042a30"/><div type='orig' level='2'><ab type='prose'>夔憐蚿蚿憐蛇惟聖人能之。</ab></div><pb ed="J" id="J34.B296.0042b" n="0042b"/><lb
+ ed="J" n="0042b01"/><div type='commentary' level='2'><ab type='prose'>夔一足蚿多足蛇無足其行一也然不如風也風又<lb
+ ed="J" n="0042b02"/>不如目目又不如心也有形者不如其無形也。通<lb
+ ed="J" n="0042b03"/>云鐵牛無腳也須行。</ab></div><lb
+ ed="J" n="0042b05"/><div type='orig' level='2'><ab type='prose'>孔子遊於匡請辭而退。</ab></div><lb
+ ed="J" n="0042b06"/><div type='commentary' level='2'><ab type='prose'>足於天者人損不能入也。通云睦州一隻草鞋。</ab></div><lb
+ ed="J" n="0042b07"/><div type='orig' level='2'><ab type='prose'>公孫龍問於魏牟乃逸而走。</ab></div><lb
+ ed="J" n="0042b08"/><div type='commentary' level='2'><ab type='prose'>幹井梁也甃井壁也虷赤甲虷蟹皆旋於井彼與科<lb
+ ed="J" n="0042b09"/>斗莫余若也商蚷馬蚿也是蛙類也壽陵邑名餘子<lb
+ ed="J" n="0042b10"/>小子也未十六為餘子國能邯鄲所能也學步者何<lb
+ ed="J" n="0042b11"/>也。通云邯鄲學唐步又云蝦跳不出斗。</ab></div><lb
+ ed="J" n="0042b12"/><div type='orig' level='2'><ab type='prose'>莊子釣於濮水吾將曳尾於塗中。</ab></div><lb
+ ed="J" n="0042b13"/><div type='commentary' level='2'><ab type='prose'>與為朽甲也不如為龜息也。通云參活句不參死<lb
+ ed="J" n="0042b14"/>句。</ab></div><lb
+ ed="J" n="0042b15"/><div type='orig' level='2'><ab type='prose'>惠子相梁子之梁國而嚇我耶。</ab></div><lb
+ ed="J" n="0042b16"/><div type='commentary' level='2'><ab type='prose'>練實竹實也庖人不治庖尸祝不越俎而代余無所<lb
+ ed="J" n="0042b17"/>用天下為也。通云三詔不起。</ab></div><lb
+ ed="J" n="0042b18"/><div type='orig' level='2'><ab type='prose'>莊子與惠子遊於濠梁之上我知之濠上也。</ab></div><lb
+ ed="J" n="0042b19"/><div type='commentary' level='2'><ab type='prose'>全矣猶云果然也請循其本謂循其本論也既已知<lb
+ ed="J" n="0042b20"/>我知之而問我是子知我也子知我我知魚也濠上<lb
+ ed="J" n="0042b21"/>之魚猶濠上之我也我知之濠上也魚亦我也我亦<lb
+ ed="J" n="0042b22"/>魚也。通云鄂渚巖頭華亭船子。</ab></div><lb
+ ed="J" n="0042b23"/><head>至樂</head><lb
+ ed="J" n="0042b24"/><div type='commentary' level='2'><ab type='prose'>至樂無樂至譽無譽無為也無不為也生本無生也<lb
+ ed="J" n="0042b25"/>死生晝夜也死之樂雖南面王不能過也名止於實<lb
+ ed="J" n="0042b26"/>義設於適也未嘗死未嘗生也從物化也出於機入<lb
+ ed="J" n="0042b27"/>於機。通云何不了取無生本無速乎。</ab></div><lb
+ ed="J" n="0042b28"/><div type='orig' level='2'><ab type='prose'>天下有至樂孰能得無為哉。</ab></div><lb
+ ed="J" n="0042b29"/><div type='commentary' level='2'><ab type='prose'>富貴壽勞其形以為樂也非至樂也至樂無為也芒<lb
+ ed="J" n="0042b30"/>芴希夷也職職猶役役也。通云寒山逢拾得。</ab></div><lb
+ ed="J" n="0042c04"/><div type='orig' level='2'><ab type='prose'>莊子妻死惠子弔之故止也。</ab></div><lb
+ ed="J" n="0042c05"/><div type='commentary' level='2'><ab type='prose'>久與之居子既長矣老而身死不哭而歌抑胡忍也<lb
+ ed="J" n="0042c06"/>莊生曰吾始也亦未能免俗也概然憮然也徐而察<lb
+ ed="J" n="0042c07"/>之而後悟其無生也是以止也歌哭一也。通云勞<lb
+ ed="J" n="0042c08"/>生惜死是以死傷生也。</ab></div><lb
+ ed="J" n="0042c09"/><div type='orig' level='2'><ab type='prose'>支離叔與滑介叔我又何惡焉。</ab></div><lb
+ ed="J" n="0042c10"/><div type='commentary' level='2'><ab type='prose'>浸假而肘化為柳也化及我也何惡焉。通云拄杖<lb
+ ed="J" n="0042c11"/>子𨁝跳。</ab></div><lb
+ ed="J" n="0042c12"/><div type='orig' level='2'><ab type='prose'>莊子之楚復為人間之勞乎。</ab></div><lb
+ ed="J" n="0042c13"/><div type='commentary' level='2'><ab type='prose'>失理而死耶誅而死耶愧恥死耶饑寒死耶其以壽<lb
+ ed="J" n="0042c14"/>命死耶髑髏曰否也子所言者生之累也死則否也<lb
+ ed="J" n="0042c15"/>死者無生也南面王樂不是過也以是知達生者之<lb
+ ed="J" n="0042c16"/>無生也司命斗七星也。通云粟畬裡去。</ab></div><lb
+ ed="J" n="0042c17"/><div type='orig' level='2'><ab type='prose'>顏淵東之齊是之謂條達而福持。</ab></div><lb
+ ed="J" n="0042c18"/><div type='commentary' level='2'><ab type='prose'>褚布囊也綆所以為汲也海鳥爰居也御迓也以己<lb
+ ed="J" n="0042c19"/>養養鳥不如以鳥養養鳥也福持多厚福也。通云<lb
+ ed="J" n="0042c20"/>闔國人追去不還。</ab></div><lb
+ ed="J" n="0042c21"/><div type='orig' level='2'><ab type='prose'>列子行食於道皆入於機。</ab></div><lb
+ ed="J" n="0042c22"/><div type='commentary' level='2'><ab type='prose'>予知汝汝知予也生無生也死不死也若果得其養<lb
+ ed="J" n="0042c23"/>乎予果得其歡乎予與汝化也猶物化也化之類不<lb
+ ed="J" n="0042c24"/>齊矣有情無情皆是也絕水上塵也蛙蠙之衣苔所<lb
+ ed="J" n="0042c25"/>化也陵屯陵之最高處也陵舄車前草也鬱棲糞壤<lb
+ ed="J" n="0042c26"/>也烏足草名蠐螬虫名胥即蝶也鴝掇虫名虫裸生<lb
+ ed="J" n="0042c27"/>故其狀若蛻乾魚骨鳥名蝶化虫虫化鳥皆物化也<lb
+ ed="J" n="0042c28"/>鳥之沫復為虫斯彌是也食醯一名醯雞即蠛蠓也<lb
+ ed="J" n="0042c29"/>蠛蠓生頤輅頤輅生九猷九猷生黃軦黃軦生腐蠸<lb
+ ed="J" n="0042c30"/>腐蠸生瞀芮皆虫類也又化為草草名羊奚羊奚比<pb ed="J" id="J34.B296.0043a" n="0043a"/><lb
+ ed="J" n="0043a01"/>乎不筍久竹則為青寧青寧虫也程亦虫也或曰豹<lb
+ ed="J" n="0043a02"/>也越人呼豹為程馬草名俗為馬齒莧或云馬也馬<lb
+ ed="J" n="0043a03"/>化為人或云人亦草名其形類人故名也有情無情<lb
+ ed="J" n="0043a04"/>交相化也出於機入於機也非生也非死也。通云<lb
+ ed="J" n="0043a05"/>雲光作牛回途入妙。</ab></div><lb
+ ed="J" n="0043a06"/><head>達生</head><lb
+ ed="J" n="0043a07"/><div type='commentary' level='2'><ab type='prose'>離形以養生者全也形全精復與天一也是純氣之<lb
+ ed="J" n="0043a08"/>守也物之造乎不形而止乎無所化也用志不分也<lb
+ ed="J" n="0043a09"/>重內而遺外也牧羊者視其後而鞭之因物之自然<lb
+ ed="J" n="0043a10"/>也為彘謀胡審自為謀胡拙也則養生者失也鬼亦<lb
+ ed="J" n="0043a11"/>物也見之者非不祥也死生一也木雞全乎德也蹈<lb
+ ed="J" n="0043a12"/>水有道也器猶是也御猶是也工倕猶是也為而不<lb
+ ed="J" n="0043a13"/>恃長而不宰至人之行也。通云這裡監院房那裡<lb
+ ed="J" n="0043a14"/>典座房生是不生之理。</ab></div><lb
+ ed="J" n="0043a15"/><div type='orig' level='2'><ab type='prose'>達生之情者精而又精反以相天。</ab></div><lb
+ ed="J" n="0043a16"/><div type='commentary' level='2'><ab type='prose'>生之所無以為者任之可也知之所無奈何者冥之<lb
+ ed="J" n="0043a17"/>可也物在而形不留也形在而神不旺也生不全也<lb
+ ed="J" n="0043a18"/>其來不能卻也其去不可止也若猶未免於為也則<lb
+ ed="J" n="0043a19"/>莫如遺世也遺世故更生也人受形於天地者也合<lb
+ ed="J" n="0043a20"/>而成體適也其散則反乎所自始也與化移也精之<lb
+ ed="J" n="0043a21"/>又精是以能相天也。通云絕後再甦欺君不得。</ab></div><lb
+ ed="J" n="0043a22"/><div type='orig' level='2'><ab type='prose'>子列子問關尹民幾乎以其真。</ab></div><lb
+ ed="J" n="0043a23"/><div type='commentary' level='2'><ab type='prose'>有形者皆物也物與物何以相遠也不物於物物不<lb
+ ed="J" n="0043a24"/>得而入也得全於天也干將莫邪不任殺也飄瓦無<lb
+ ed="J" n="0043a25"/>心也天之天也德生也非賊生也。通云泥牛耕水<lb
+ ed="J" n="0043a26"/>面。</ab></div><lb
+ ed="J" n="0043a27"/><div type='orig' level='2'><ab type='prose'>仲尼適楚痀僂丈人之謂乎。</ab></div><lb
+ ed="J" n="0043a28"/><div type='commentary' level='2'><ab type='prose'>揭竿而承蜩膠其翼而取之術也然有道也橛株斷<lb
+ ed="J" n="0043a29"/>木也其拘如斷木其執臂若楮枝故累丸而不墜也<lb
+ ed="J" n="0043a30"/>神也。通云立雪斷臂。</ab></div><pb ed="J" id="J34.B296.0043b" n="0043b"/><lb
+ ed="J" n="0043b01"/><div type='orig' level='2'><ab type='prose'>顏淵問仲尼外重者內拙。</ab></div><lb
+ ed="J" n="0043b02"/><div type='commentary' level='2'><ab type='prose'>游者浮水而過沒者泅入水際沒而復出也游者忘<lb
+ ed="J" n="0043b03"/>水摻舟便沒者忘舟故未嘗見舟而已善操也覆卻<lb
+ ed="J" n="0043b04"/>不以亂其中故善暇也注射也彈棋類也以瓦巧以<lb
+ ed="J" n="0043b05"/>鈞憚以金殙有所持則外重也外重而內拙也。通<lb
+ ed="J" n="0043b06"/>云早知當腊汝脛又云何不鬥劣。</ab></div><lb
+ ed="J" n="0043b07"/><div type='orig' level='2'><ab type='prose'>田開之見周威公而不知為之戒者過也。</ab></div><lb
+ ed="J" n="0043b08"/><div type='commentary' level='2'><ab type='prose'>操拔篲猶擁篲執箕帚也堯牽羊舜荷戈而隨之逆<lb
+ ed="J" n="0043b09"/>也視其後而鞭焉順也縣薄門縣帷薄閶閻下戶也<lb
+ ed="J" n="0043b10"/>高門下戶行畢至也養其內則或食其外養其外則<lb
+ ed="J" n="0043b11"/>或攻其內不如順其自然而我不宰也入而藏則己<lb
+ ed="J" n="0043b12"/>內出而陽則己外柴立其中稿木也塗可畏也衽席<lb
+ ed="J" n="0043b13"/>之上飲食之間胡不知畏也。通云看腳下。</ab></div><lb
+ ed="J" n="0043b14"/><div type='orig' level='2'><ab type='prose'>祝宗人玄端以臨牢筴所異彘者何也。</ab></div><lb
+ ed="J" n="0043b15"/><div type='commentary' level='2'><ab type='prose'>牢筴圈檻也腞楯文縷之案聚僂筐筥也謂死陷刑<lb
+ ed="J" n="0043b16"/>戮也所異於彘者則何也。通云棺材裡瞠眼。</ab></div><lb
+ ed="J" n="0043b17"/><div type='orig' level='2'><ab type='prose'>桓公田於澤不終日而不知病之去也。</ab></div><lb
+ ed="J" n="0043b18"/><div type='commentary' level='2'><ab type='prose'>誒詒倦失志也忿滀鬱而不通也沈泥中也煩壤糞<lb
+ ed="J" n="0043b19"/>壤也履也髻也雷霆也倍阿也鮭蠪也泆陽也罔象<lb
+ ed="J" n="0043b20"/>也崒也夔也徬徨也委蛇也或為物怪或為鬼或為<lb
+ ed="J" n="0043b21"/>神也惡見之故病喜則不知病之去也因禍為福故<lb
+ ed="J" n="0043b22"/>喜也鬼胡足惡也。通云破灶墮。</ab></div><lb
+ ed="J" n="0043b23"/><div type='orig' level='2'><ab type='prose'>紀渻子為王養鬥雞反走矣。</ab></div><lb
+ ed="J" n="0043b24"/><div type='commentary' level='2'><ab type='prose'>嚮景則猶有應者也疾視未忘也無敢應而反走故<lb
+ ed="J" n="0043b25"/>全也。通云烏雞雪上行又云咬人獅子。</ab></div><lb
+ ed="J" n="0043b26"/><div type='orig' level='2'><ab type='prose'>孔子觀於呂梁不知吾所以然而然命也。</ab></div><lb
+ ed="J" n="0043b27"/><div type='commentary' level='2'><ab type='prose'>疑為有苦而欲死也故沒於淵也非也蹈水有道也<lb
+ ed="J" n="0043b28"/>齊謂入與水齊也汩者沒而復出也。通云入水見<lb
+ ed="J" n="0043b29"/>長人。</ab></div><lb
+ ed="J" n="0043b30"/><div type='orig' level='2'><ab type='prose'>梓慶削木為鐻器之所以疑神者其是歟。</ab></div><pb ed="J" id="J34.B296.0043c" n="0043c"/><lb
+ ed="J" n="0043c01"/><div type='commentary' level='2'><ab type='prose'>鐻戎蠻所以貫耳又鐘圜也驚猶鬼神謂非人力也<lb
+ ed="J" n="0043c02"/>不懷爵賞故無公朝也木有形有性入山林觀形性<lb
+ ed="J" n="0043c03"/>本乎木之自然也自然者天也鐻見而加手焉有成<lb
+ ed="J" n="0043c04"/>鐻也以天合天也。通云雕琢不少。</ab></div><lb
+ ed="J" n="0043c05"/><div type='orig' level='2'><ab type='prose'>東野稷以御見莊公故曰敗。</ab></div><lb
+ ed="J" n="0043c06"/><div type='commentary' level='2'><ab type='prose'>中繩中規雖纂組不能過也御而射鉤累百而猶不<lb
+ ed="J" n="0043c07"/>止馬力竭也故敗也密而不應猶默而不應也。通<lb
+ ed="J" n="0043c08"/>云弄巧成拙。</ab></div><lb
+ ed="J" n="0043c09"/><div type='orig' level='2'><ab type='prose'>工倕旋而蓋規矩忘適之適也。</ab></div><lb
+ ed="J" n="0043c10"/><div type='commentary' level='2'><ab type='prose'>其旋也能蓋乎規矩其指與物化而不以心稽也故<lb
+ ed="J" n="0043c11"/>一而不桎也忘適之適也。通云幾乎忘卻。</ab></div><lb
+ ed="J" n="0043c12"/><div type='orig' level='2'><ab type='prose'>有孫休者彼又烏能無驚乎哉。</ab></div><lb
+ ed="J" n="0043c13"/><div type='commentary' level='2'><ab type='prose'>為其事而靡所恃也長養萬物而不尸其功也此至<lb
+ ed="J" n="0043c14"/>人之行也款啟猶言管窺也見之少也。通云疑則<lb
+ ed="J" n="0043c15"/>別參。</ab></div><lb
+ ed="J" n="0043c16"/><head>山木</head><lb
+ ed="J" n="0043c17"/><div type='commentary' level='2'><ab type='prose'>乘道德浮游故物物而不物於物也其生可樂也其<lb
+ ed="J" n="0043c18"/>死可葬也虛己以遊世也是大塗也入獸不亂群也<lb
+ ed="J" n="0043c19"/>入鳥不亂行也不求文以待形也晏然體逝而終也<lb
+ ed="J" n="0043c20"/>吾惡乎守形而忘身也毋自賢可也。通云文殊普<lb
+ ed="J" n="0043c21"/>賢大人境界。</ab></div><lb
+ ed="J" n="0043c22"/><div type='orig' level='2'><ab type='prose'>莊子行於山中其惟道德之鄉乎。</ab></div><lb
+ ed="J" n="0043c23"/><div type='commentary' level='2'><ab type='prose'>夫子莊子也材與不材之間則無累矣萬物不齊也<lb
+ ed="J" n="0043c24"/>人倫不一也我合而人且離我也我成而人且毀我<lb
+ ed="J" n="0043c25"/>也我廉而人且挫我也我尊而人且議我也我有而<lb
+ ed="J" n="0043c26"/>人且虧我也我賢而人且謀我也我不肖而人且欺<lb
+ ed="J" n="0043c27"/>我也胡可必哉胡可必哉。通云三腳驢子。</ab></div><lb
+ ed="J" n="0043c28"/><div type='orig' level='2'><ab type='prose'>市南宜僚見魯侯遊於大莫之國。</ab></div><lb
+ ed="J" n="0043c29"/><div type='commentary' level='2'><ab type='prose'>胥相也疏遠也無形倨艮其身也無留居行其庭也<lb
+ ed="J" n="0043c30"/>無崖故望崖而反也有人未忘乎人也見有於人未<pb ed="J" id="J34.B296.0044a" n="0044a"/><lb
+ ed="J" n="0044a01"/>忘乎己也大莫廣莫也。通云鐵船入海又云休糧<lb
+ ed="J" n="0044a02"/>不饑。</ab></div><lb
+ ed="J" n="0044a03"/><div type='orig' level='2'><ab type='prose'>方舟而濟於河其孰能害之。</ab></div><lb
+ ed="J" n="0044a04"/><div type='commentary' level='2'><ab type='prose'>呼張歙謂疾呼張目作聲也歙合也目已張復合也。<lb
+ ed="J" n="0044a05"/>通云不采無窮。</ab></div><lb
+ ed="J" n="0044a06"/><div type='orig' level='2'><ab type='prose'>北宮奢為衛靈公賦斂而況有大塗者也。</ab></div><lb
+ ed="J" n="0044a07"/><div type='commentary' level='2'><ab type='prose'>縣鐘虡也守一而已無所設也侗乎其愿而無識也<lb
+ ed="J" n="0044a08"/>儻乎其怠而若疑也曲傅回曲而附我也窮盡也大<lb
+ ed="J" n="0044a09"/>塗通塗也震為大塗。通云借座燈王請飯香積。</ab></div><lb
+ ed="J" n="0044a10"/><div type='orig' level='2'><ab type='prose'>孔子圍於陳蔡之間而況人乎。</ab></div><lb
+ ed="J" n="0044a11"/><div type='commentary' level='2'><ab type='prose'>意怠海燕也食有緒也行有列也其為道也任其流<lb
+ ed="J" n="0044a12"/>止而不自謂明也其為居也得其行列而不名其處<lb
+ ed="J" n="0044a13"/>也至人無聞也。通云牛頭未見四祖。</ab></div><lb
+ ed="J" n="0044a14"/><div type='orig' level='2'><ab type='prose'>孔子問子桑虖固不待物。</ab></div><lb
+ ed="J" n="0044a15"/><div type='commentary' level='2'><ab type='prose'>假地名林回假人也布猶施也千金人屬也赤子天<lb
+ ed="J" n="0044a16"/>屬也挹損也真冷謂以真語告曉也冷曉也或曰叮<lb
+ ed="J" n="0044a17"/>嚀也率情故不求文緣形故待形也足於己無待於<lb
+ ed="J" n="0044a18"/>物也。通云皮膚脫落盡。</ab></div><lb
+ ed="J" n="0044a19"/><div type='orig' level='2'><ab type='prose'>莊子衣大布而補之徵也夫。</ab></div><lb
+ ed="J" n="0044a20"/><div type='commentary' level='2'><ab type='prose'>抩交讓木原憲曰貧也非病也。通云今年貧錐也<lb
+ ed="J" n="0044a21"/>無。</ab></div><lb
+ ed="J" n="0044a22"/><div type='orig' level='2'><ab type='prose'>孔子窮於陳蔡晏然體逝而終矣。</ab></div><lb
+ ed="J" n="0044a23"/><div type='commentary' level='2'><ab type='prose'>廣己而造於大則己過矣愛己而造於哀則己不及<lb
+ ed="J" n="0044a24"/>矣始猶卒也人猶天也無二道也泄散也與之偕行<lb
+ ed="J" n="0044a25"/>故天損不入也爵祿並至可謂榮矣然物之利也非<lb
+ ed="J" n="0044a26"/>己也命在外也取之非吾有也盜也竊也鷾鴯即意<lb
+ ed="J" n="0044a27"/>怠也所不宜處則疾去月不暇給也落其實不顧也<lb
+ ed="J" n="0044a28"/>襲諸人間不得已也不受人益也禪代也人亦天也<lb
+ ed="J" n="0044a29"/>天亦人也人不能及天者性也體逝而終者聖人也。<lb
+ ed="J" n="0044a30"/>通云瀏陽不遠。</ab></div><pb ed="J" id="J34.B296.0044b" n="0044b"/><lb
+ ed="J" n="0044b01"/><div type='orig' level='2'><ab type='prose'>莊周遊乎雕陵之樊吾所以不庭也。</ab></div><lb
+ ed="J" n="0044b02"/><div type='commentary' level='2'><ab type='prose'>殷盛也蟬惑於蔭螳蜋惑於蟬鵲惑於螳蜋莊生惑<lb
+ ed="J" n="0044b03"/>於鵲也遊於栗林而忘真乃為虞人者叱也則見鵲<lb
+ ed="J" n="0044b04"/>也以見為累也守形而忘身也二類謂利與害類也。<lb
+ ed="J" n="0044b05"/>通云莫眼花。</ab></div><lb
+ ed="J" n="0044b06"/><div type='orig' level='2'><ab type='prose'>陽子之宋安往而不愛哉。</ab></div><lb
+ ed="J" n="0044b07"/><div type='commentary' level='2'><ab type='prose'>美惡同形也不自賢則人愛之也。通云一雙孤雁<lb
+ ed="J" n="0044b08"/>撲地高飛一對鴛鴦池邊獨立。</ab></div><pb ed="J" id="J34.B296.0044c" n="0044c"/><lb
+ ed="J" n="0044c01"/>
+<ab type='juan' subtype='open'>漆園指通卷之三</ab><lb
+ ed="J" n="0044c02"/><byline>雲溪俍亭道人淨挺　著</byline><lb
+ ed="J" n="0044c03"/><byline>宛陵愚山居士施閏章閱</byline><lb
+ ed="J" n="0044c04"/><head>田子方</head><lb
+ ed="J" n="0044c05"/><div type='commentary' level='2'><ab type='prose'>形解而不欲動也口鉗而不欲言也目擊道存也不<lb
+ ed="J" n="0044c06"/>知其所以然也交臂而失也始終相反乎無端也死<lb
+ ed="J" n="0044c07"/>生不入於心也釣莫釣也不射之射也得失非我也<lb
+ ed="J" n="0044c08"/>其亡也存也存也亡也。通云懷州牛喫禾益州馬<lb
+ ed="J" n="0044c09"/>腹脹。</ab></div><lb
+ ed="J" n="0044c10"/><div type='orig' level='2'><ab type='prose'>田子方侍坐夫魏真為我累耳。</ab></div><lb
+ ed="J" n="0044c11"/><div type='commentary' level='2'><ab type='prose'>清而不礉故容眾正容悟物而使人意消也此全德<lb
+ ed="J" n="0044c12"/>也。通云心欲緣而意忘口欲譚而詞喪。</ab></div><lb
+ ed="J" n="0044c13"/><div type='orig' level='2'><ab type='prose'>溫伯雪子適齊亦不可以容聲矣。</ab></div><lb
+ ed="J" n="0044c14"/><div type='commentary' level='2'><ab type='prose'>振起也似子親也似父尊也歎者何也不言者何也。<lb
+ ed="J" n="0044c15"/>通云兩眼對兩眼。</ab></div><lb
+ ed="J" n="0044c16"/><div type='orig' level='2'><ab type='prose'>顏淵問於仲尼吾有不忘者存。</ab></div><lb
+ ed="J" n="0044c17"/><div type='commentary' level='2'><ab type='prose'>心死可哀也人死次也比方嚮方也日出則存日入<lb
+ ed="J" n="0044c18"/>則忘盡然也莫知其所終而薰然者成形也雖知命<lb
+ ed="J" n="0044c19"/>者莫規其所始也丘是以日徂也徂往也化也奈何<lb
+ ed="J" n="0044c20"/>哉女交臂而失也女徒見吾所以見也著見也在彼<lb
+ ed="J" n="0044c21"/>者已盡矣而女求之於形有也是馬逸足而求諸五<lb
+ ed="J" n="0044c22"/>達之肆也吾服女者以甚忘也女服吾者亦以甚忘<lb
+ ed="J" n="0044c23"/>也奈何其不忘也雖然女奚患也吾有新有故故吾<lb
+ ed="J" n="0044c24"/>雖謝而新新者日存也毋乃交臂而失也。通云刻<lb
+ ed="J" n="0044c25"/>舟求劍。</ab></div><lb
+ ed="J" n="0044c26"/><div type='orig' level='2'><ab type='prose'>孔子見老聃吾不知天地之大全也。</ab></div><lb
+ ed="J" n="0044c27"/><div type='commentary' level='2'><ab type='prose'>慹然執心不動也辟焉猶辟咡也不疾易謂不數易<lb
+ ed="J" n="0044c28"/>也隸賤役也為道者解乎此可為知者道也孰能說<lb
+ ed="J" n="0044c29"/>焉謂言說所不逮也汋猶勺也。通云夾山雒浦。</ab></div><lb
+ ed="J" n="0044c30"/><div type='orig' level='2'><ab type='prose'>莊子見魯哀公可謂多乎。</ab></div><pb ed="J" id="J34.B296.0045a" n="0045a"/><lb
+ ed="J" n="0045a01"/><div type='commentary' level='2'><ab type='prose'>緩謂裒然寬大也。通云不道無禪卻是無師。</ab></div><lb
+ ed="J" n="0045a02"/><div type='orig' level='2'><ab type='prose'>百里奚爵祿不入於心是真畫者也。</ab></div><lb
+ ed="J" n="0045a03"/><div type='commentary' level='2'><ab type='prose'>儃儃然忘之至也贏猶裸也。通云芭蕉泉大道。</ab></div><lb
+ ed="J" n="0045a04"/><div type='orig' level='2'><ab type='prose'>文王觀於臧彼直以循斯須也。</ab></div><lb
+ ed="J" n="0045a05"/><div type='commentary' level='2'><ab type='prose'>其釣也不為釣也非持其釣而後有釣也蓋常釣也<lb
+ ed="J" n="0045a06"/>𩑺髯也偏朱蹄馬蹄半赤也偏令謂偏小之令也斔<lb
+ ed="J" n="0045a07"/>庾也終身無聞丈人自此遠也忘是非故論刺莫及<lb
+ ed="J" n="0045a08"/>也循民俗於斯須者用也。通云止啼黃葉。</ab></div><lb
+ ed="J" n="0045a09"/><div type='orig' level='2'><ab type='prose'>列禦寇為伯昏無人射於中也殆也夫。</ab></div><lb
+ ed="J" n="0045a10"/><div type='commentary' level='2'><ab type='prose'>盈貫溢鏑也措杯肘上肘如稿枝也矢適發者與前<lb
+ ed="J" n="0045a11"/>矢沓矢方發者復寓其間謂連珠矢也象人土木偶<lb
+ ed="J" n="0045a12"/>也是猶以射射也非以不射射也足二分垂外履至<lb
+ ed="J" n="0045a13"/>虛也眴目目瞬也。通云看箭。</ab></div><lb
+ ed="J" n="0045a14"/><div type='orig' level='2'><ab type='prose'>肩吾問於孫叔敖既以與人己愈有。</ab></div><lb
+ ed="J" n="0045a15"/><div type='commentary' level='2'><ab type='prose'>智者不得說則忘辯美人不得濫則忘淫盜人不得<lb
+ ed="J" n="0045a16"/>劫則忘利介隔也與人而已愈有施不匱也。通云<lb
+ ed="J" n="0045a17"/>不聞爛壞虛空。</ab></div><lb
+ ed="J" n="0045a18"/><div type='orig' level='2'><ab type='prose'>楚王與凡君坐則凡未始忘而楚未始存也。</ab></div><lb
+ ed="J" n="0045a19"/><div type='commentary' level='2'><ab type='prose'>凡君樊君也。通云一得一失。</ab></div><lb
+ ed="J" n="0045a20"/><head>知北遊</head><lb
+ ed="J" n="0045a21"/><div type='commentary' level='2'><ab type='prose'>知者不言言者不知也媒媒晦晦無心而不可與謀<lb
+ ed="J" n="0045a22"/>也彼何人者也夫道窅然難言也辯不若默聞不若<lb
+ ed="J" n="0045a23"/>塞也道無所不在也所以論道而非道也道無問問<lb
+ ed="J" n="0045a24"/>無應也有乎其無有乎假不用以得其用者乎無不<lb
+ ed="J" n="0045a25"/>用者乎未有天地其可知者乎安化乎安不化乎。<lb
+ ed="J" n="0045a26"/>通云直得火爐震動又云藏頭白海頭黑。</ab></div><lb
+ ed="J" n="0045a27"/><div type='orig' level='2'><ab type='prose'>知北遊於玄水之上以黃帝為知言。</ab></div><lb
+ ed="J" n="0045a28"/><div type='commentary' level='2'><ab type='prose'>不知者是也忘之者似之者也知之者終不近也故<lb
+ ed="J" n="0045a29"/>知者不言言者不知也。通云晏坐巖中善說般若。</ab></div><lb
+ ed="J" n="0045a30"/><div type='orig' level='2'><ab type='prose'>天地有大美而不言可以觀於天矣。</ab></div><pb ed="J" id="J34.B296.0045b" n="0045b"/><lb
+ ed="J" n="0045b01"/><div type='commentary' level='2'><ab type='prose'>至精者與彼百化也死生方圓莫知其所始也扁然<lb
+ ed="J" n="0045b02"/>而萬物固存也六合非巨也秋毫非小也或沈或浮<lb
+ ed="J" n="0045b03"/>與化俱新也可以觀於天也。通云猿抱子歸鳥銜<lb
+ ed="J" n="0045b04"/>花落。</ab></div><lb
+ ed="J" n="0045b05"/><div type='orig' level='2'><ab type='prose'>齧缺問道於被衣彼何人哉。</ab></div><lb
+ ed="J" n="0045b06"/><div type='commentary' level='2'><ab type='prose'>相與於無相與。通云賓主死然。</ab></div><lb
+ ed="J" n="0045b08"/><div type='orig' level='2'><ab type='prose'>舜問乎丞曰道可得而有乎又胡可得而有<lb
+ ed="J" n="0045b09"/>耶。</ab></div><lb
+ ed="J" n="0045b10"/><div type='commentary' level='2'><ab type='prose'>委棄也形委也和委也順委也蛻亦委也疆陽猶運<lb
+ ed="J" n="0045b11"/>動也。通云隱峰捏怪龐婆捏怪。</ab></div><lb
+ ed="J" n="0045b12"/><div type='orig' level='2'><ab type='prose'>孔子問於老聃此其道歟。</ab></div><lb
+ ed="J" n="0045b13"/><div type='commentary' level='2'><ab type='prose'>崖略猶郛廓也邀遊也恂實也達通也斷棄也不以<lb
+ ed="J" n="0045b14"/>知為博不以慧為辯也君子之道又其外焉者也。<lb
+ ed="J" n="0045b15"/>通云荷澤一宗猶在。</ab></div><lb
+ ed="J" n="0045b16"/><div type='orig' level='2'><ab type='prose'>中國有人焉非陰非陽此之謂大得。</ab></div><lb
+ ed="J" n="0045b17"/><div type='commentary' level='2'><ab type='prose'>非陰也非陽也處天地之間猶寄也必將反於宗也<lb
+ ed="J" n="0045b18"/>宗本也由本觀之生者物之喑醷者也喑者聲不和<lb
+ ed="J" n="0045b19"/>醷者味失正也醷梅漿也死生旦暮也堯與桀徒相<lb
+ ed="J" n="0045b20"/>非也人猶果蓏也有情者猶其無情者也泊然相遭<lb
+ ed="J" n="0045b21"/>也漫然相遇也駒過卻也出也天遊入也物化也弢<lb
+ ed="J" n="0045b22"/>櫜也袟囊也解其弢墮其袟乃大歸也形與不形人<lb
+ ed="J" n="0045b23"/>所共喻非將至於道者之所期也至道者不論論道<lb
+ ed="J" n="0045b24"/>者不至也明與見所不能值也故不如其默也故不<lb
+ ed="J" n="0045b25"/>如其塞也。通云見猶離見見不能及又云掩耳而<lb
+ ed="J" n="0045b26"/>退。</ab></div><lb
+ ed="J" n="0045b27"/><div type='orig' level='2'><ab type='prose'>東郭子問於莊子彼為積散非積散也。</ab></div><lb
+ ed="J" n="0045b28"/><div type='commentary' level='2'><ab type='prose'>道惡可期也期之則螻蟻也稊稗也瓦甓也屎溺也<lb
+ ed="J" n="0045b29"/>任所期也正獲臧獲也監市市司也豨豕也市司履<lb
+ ed="J" n="0045b30"/>豕而知其肥瘠也賤事也愈況而每下也莫可必也<pb ed="J" id="J34.B296.0045c" n="0045c"/><lb
+ ed="J" n="0045c01"/>物無所逃也周也遍也咸也一而三三而一也間閒<lb
+ ed="J" n="0045c02"/>也寥已謂寂寥而已也往者無所去來者無所駐也<lb
+ ed="J" n="0045c03"/>馮閎大也彼大智者猶不知其所窮也不際之際際<lb
+ ed="J" n="0045c04"/>之不際者也故無際也吾無以測之也。通云墻壁<lb
+ ed="J" n="0045c05"/>瓦礫又云乾矢橛。</ab></div><lb
+ ed="J" n="0045c06"/><div type='orig' level='2'><ab type='prose'>婀荷甘與神農同學所以論道而非道也。</ab></div><lb
+ ed="J" n="0045c07"/><div type='commentary' level='2'><ab type='prose'>奓戶開戶也生者無所發其狂言死者藏其狂言有<lb
+ ed="J" n="0045c08"/>言者不如其無言也。通云合笑不合哭又云棒打<lb
+ ed="J" n="0045c09"/>青天。</ab></div><lb
+ ed="J" n="0045c10"/><div type='orig' level='2'><ab type='prose'>于是泰清問乎無窮不遊乎太虛。</ab></div><lb
+ ed="J" n="0045c11"/><div type='commentary' level='2'><ab type='prose'>無問問之默然問也無應應之默然應也。通云笊<lb
+ ed="J" n="0045c12"/>籬木杓又云二俱瞎漢。</ab></div><lb
+ ed="J" n="0045c13"/><div type='orig' level='2'><ab type='prose'>光耀問乎無有曰何從至此哉。</ab></div><lb
+ ed="J" n="0045c14"/><div type='commentary' level='2'><ab type='prose'>光耀無有而未能無無也若果無有也則何為至此<lb
+ ed="J" n="0045c15"/>哉故既不無無亦不無有也。通云有無二邊無復<lb
+ ed="J" n="0045c16"/>餘習。</ab></div><lb
+ ed="J" n="0045c17"/><div type='orig' level='2'><ab type='prose'>大馬之捶鉤物孰不資焉者。</ab></div><lb
+ ed="J" n="0045c18"/><div type='commentary' level='2'><ab type='prose'>捶鍛也鉤劍類無所不用故無所可用也。通云有<lb
+ ed="J" n="0045c19"/>用有置又云大用現前不存軌則。</ab></div><lb
+ ed="J" n="0045c20"/><div type='orig' level='2'><ab type='prose'>冉求問於仲尼亦乃取於是者也。</ab></div><lb
+ ed="J" n="0045c21"/><div type='commentary' level='2'><ab type='prose'>未有天地可知耶其不可知耶昭然者知也神受之<lb
+ ed="J" n="0045c22"/>也昧然者不知也且又為不神耶無古今也無終始<lb
+ ed="J" n="0045c23"/>也未有孫子而有孫子也其可知也耶其不可知也<lb
+ ed="J" n="0045c24"/>耶無務速說也毋以生生其死也毋以死死其生也<lb
+ ed="J" n="0045c25"/>死生相待也先天地而生者非物也若猶有物是物<lb
+ ed="J" n="0045c26"/>出也不能為物先也猶其有物而有己也嬗代無窮<lb
+ ed="J" n="0045c27"/>也彼役役於聖人者其愛人無己也毋乃取於是也<lb
+ ed="J" n="0045c28"/>我不願為聖人也。通云這奴見婢子。</ab></div><lb
+ ed="J" n="0045c29"/><div type='orig' level='2'><ab type='prose'>顏淵問乎仲尼齊知之所知則淺夫。</ab></div><lb
+ ed="J" n="0045c30"/><div type='commentary' level='2'><ab type='prose'>外化而內不化猶不化也內化而外不化猶不化也<pb ed="J" id="J34.B296.0046a" n="0046a"/><lb
+ ed="J" n="0046a01"/>胡化乎胡不化乎胡與物相靡乎必也與相靡也多<lb
+ ed="J" n="0046a02"/>莫甚也囿也圃也宮也室也古之人猶未免也儒墨<lb
+ ed="J" n="0046a03"/>相師也外化而內不化也哀樂之來無端也死生逆<lb
+ ed="J" n="0046a04"/>旅也窮於所知窮於所能雖聖人不免也吾未能免<lb
+ ed="J" n="0046a05"/>其所不免也至言去言也至為去為也。通云三世<lb
+ ed="J" n="0046a06"/>諸佛不知有又云聖人若知即同凡夫凡夫不知即<lb
+ ed="J" n="0046a07"/>同聖人。</ab></div><lb
+ ed="J" n="0046a08"/><head>庚桑楚</head><lb
+ ed="J" n="0046a09"/><div type='commentary' level='2'><ab type='prose'>鳥獸不厭高魚鱉不厭深也全汝形抱汝生母使汝<lb
+ ed="J" n="0046a10"/>思慮營營胡規規然若喪父母揭竿而求諸海也津<lb
+ ed="J" n="0046a11"/>津乎猶有惡也與物委蛇而同其波是衛生之經也<lb
+ ed="J" n="0046a12"/>靈臺者持而不可持者也以有形者象無形者而定<lb
+ ed="J" n="0046a13"/>矣孰知有無死生之一者吾與之為友也。通云五<lb
+ ed="J" n="0046a14"/>臺山上雲蒸飯十字街頭狗矢天幡竿頭上煎鎚子<lb
+ ed="J" n="0046a15"/>三箇猢猻夜簸錢。</ab></div><lb
+ ed="J" n="0046a16"/><div type='orig' level='2'><ab type='prose'>老聃之役人與人相食者也。</ab></div><lb
+ ed="J" n="0046a17"/><div type='commentary' level='2'><ab type='prose'>穰歲豐也杓斗柄也函車猶專車也二子謂堯舜也<lb
+ ed="J" n="0046a18"/>民之攘利也急矣有弒父者有弒君者晝為盜日中<lb
+ ed="J" n="0046a19"/>穴坏貪利使之也坏垣墻也功成事遂而百姓皆謂<lb
+ ed="J" n="0046a20"/>我自爾此老聃之言也。通云一棒打殺。</ab></div><lb
+ ed="J" n="0046a21"/><div type='orig' level='2'><ab type='prose'>南榮趎蹙然正坐子胡不南見老子。</ab></div><lb
+ ed="J" n="0046a22"/><div type='commentary' level='2'><ab type='prose'>形非有異也胡不自見胡不自聞胡不自得也辟開<lb
+ ed="J" n="0046a23"/>也形未嘗閉而物或間之遂不相得也奈何哉全形<lb
+ ed="J" n="0046a24"/>而抱生也勉聞命矣達於耳未達於心也辭盡謂盡<lb
+ ed="J" n="0046a25"/>之也藿蠋藿中虫也越雞小魯雞大也。通云高安<lb
+ ed="J" n="0046a26"/>大愚為汝說破。</ab></div><lb
+ ed="J" n="0046a27"/><div type='orig' level='2'><ab type='prose'>南榮趎贏糧反汝情性而無由入可憐哉。</ab></div><lb
+ ed="J" n="0046a28"/><div type='commentary' level='2'><ab type='prose'>子何與人偕來之眾也非愚則狂也忘其荅因失其<lb
+ ed="J" n="0046a29"/>問也朱愚猶侏愚也。通云穿過髑髏。</ab></div><lb
+ ed="J" n="0046a30"/><div type='orig' level='2'><ab type='prose'>南榮趎請入就舍而況放道而行者乎。</ab></div><pb ed="J" id="J34.B296.0046b" n="0046b"/><lb
+ ed="J" n="0046b01"/><div type='commentary' level='2'><ab type='prose'>誰哉鬱鬱乎徒自苦也韄者鞏用草也揵鍵也外繁<lb
+ ed="J" n="0046b02"/>蕪故治其內內繆亂復治其外內外交治形神攝矣<lb
+ ed="J" n="0046b03"/>然未能淡忘也非道德之正也又況乎規規焉奉道<lb
+ ed="J" n="0046b04"/>而行而以道為的也。通云內不放出外不放入是<lb
+ ed="J" n="0046b05"/>生死岸邊事。</ab></div><lb
+ ed="J" n="0046b06"/><div type='orig' level='2'><ab type='prose'>南榮趎曰里人有病衛生之經已。</ab></div><lb
+ ed="J" n="0046b07"/><div type='commentary' level='2'><ab type='prose'>能言病猶未病也飲藥以加病則逾病也󵎦手攣急<lb
+ ed="J" n="0046b08"/>也共其德謂一而不分也瞚瞬也視不淫故不偏外<lb
+ ed="J" n="0046b09"/>也。通云如世嬰兒五相完具。</ab></div><lb
+ ed="J" n="0046b10"/><div type='orig' level='2'><ab type='prose'>南榮趎曰然則是至人之德己乎謂之天子。</ab></div><lb
+ ed="J" n="0046b11"/><div type='commentary' level='2'><ab type='prose'>水解凍釋化矣而未底於化也未可謂至也宇泰定<lb
+ ed="J" n="0046b12"/>而發光虛室生白也人見其人曉然與天下見也修<lb
+ ed="J" n="0046b13"/>心有常也人舍之謂人歸之也助祐也。通云冰消<lb
+ ed="J" n="0046b14"/>瓦解又云修證則不無污染則不得。</ab></div><lb
+ ed="J" n="0046b15"/><div type='orig' level='2'><ab type='prose'>學者學其所不能學也然後能獨行。</ab></div><lb
+ ed="J" n="0046b16"/><div type='commentary' level='2'><ab type='prose'>止乎其所不能知之至也不然者天鈞敗也不善之<lb
+ ed="J" n="0046b17"/>來未有已也吾徒順之勿以干其神志也神明者雖<lb
+ ed="J" n="0046b18"/>有持之而不知其所持者則善持者也未嘗實有諸<lb
+ ed="J" n="0046b19"/>己俄而發發每不當己入而不能捨每變而愈失也。<lb
+ ed="J" n="0046b20"/>通云閻羅王來拿我又云快活。</ab></div><lb
+ ed="J" n="0046b21"/><div type='orig' level='2'><ab type='prose'>券內者行乎無名聖人藏乎是。</ab></div><lb
+ ed="J" n="0046b22"/><div type='commentary' level='2'><ab type='prose'>符於內者無為者也無為故無名而用有光也符於<lb
+ ed="J" n="0046b23"/>外者有為者也有為是期費也炫然在外者市人也<lb
+ ed="J" n="0046b24"/>跂踵也跡也人見其跡則魁然大也與物有窮故物<lb
+ ed="J" n="0046b25"/>得而入也若夫與物為無窮者豫乎且乎物莫能入<lb
+ ed="J" n="0046b26"/>也忘身也忘人也故無親也所不得而親所不得而<lb
+ ed="J" n="0046b27"/>疏也人之盡也故有心者陰陽害之也道之為道通<lb
+ ed="J" n="0046b28"/>乎其分也通乎其合也成毀一也備守也畏也分之<lb
+ ed="J" n="0046b29"/>則各為備備之則有以備也死生非異也苟出而不<lb
+ ed="J" n="0046b30"/>反焉則見其為鬼矣苟出而得其是焉則謂之得死<pb ed="J" id="J34.B296.0046c" n="0046c"/><lb
+ ed="J" n="0046c01"/>所矣入滅者非滅也有其實也鬼之一也一以為鬼<lb
+ ed="J" n="0046c02"/>一以為非鬼也有形者生無形者死也以有形象無<lb
+ ed="J" n="0046c03"/>形而死生一矣定齊也一也非出也非入也無處也<lb
+ ed="J" n="0046c04"/>無本也無剽也有所出而無竅者是之謂有實也上<lb
+ ed="J" n="0046c05"/>下四方非上下四方也往來今古非往來今古也萬<lb
+ ed="J" n="0046c06"/>物出乎無有而無有一無有也無無亦無也。通云<lb
+ ed="J" n="0046c07"/>碗子撲落地碟子成七片又云路逢死蛇莫打殺沒<lb
+ ed="J" n="0046c08"/>底籃子盛將歸。</ab></div><lb
+ ed="J" n="0046c09"/><div type='orig' level='2'><ab type='prose'>古之人其知有所至矣是蜩與鷽鳩同於同<lb
+ ed="J" n="0046c10"/>也。</ab></div><lb
+ ed="J" n="0046c11"/><div type='commentary' level='2'><ab type='prose'>著謂著姓也昭景之後其著者為戴姓甲氏之後其<lb
+ ed="J" n="0046c12"/>著者為封姓皆楚之公族而姓氏則有分矣言吹萬<lb
+ ed="J" n="0046c13"/>不同而死生異量也所謂移是者也黬突中塵也有<lb
+ ed="J" n="0046c14"/>生者一塵也紛然曰移是則移是矣是殆非言之所<lb
+ ed="J" n="0046c15"/>及也不可知者也譬祭者之受胙也或有膍也或有<lb
+ ed="J" n="0046c16"/>胲也不可知者也膍百葉胲蹄也太牢之分體也合<lb
+ ed="J" n="0046c17"/>而分分而合也散亦分也譬觀室者既周於寢廟矣<lb
+ ed="J" n="0046c18"/>又觀其偃息焉偃也則必有異乎寢也然莫非室也<lb
+ ed="J" n="0046c19"/>皆移是也是也者以生為本以知為師也因是則有<lb
+ ed="J" n="0046c20"/>非矣相乘者也其果有名實耶以己為質執之以為<lb
+ ed="J" n="0046c21"/>固然也節而信之死不可易也知愚名辱因其所是<lb
+ ed="J" n="0046c22"/>而是焉者也徹通也今之人比比也蜩與鷽鳩類也。<lb
+ ed="J" n="0046c23"/>通云東家作驢西家作馬。</ab></div><lb
+ ed="J" n="0046c24"/><div type='orig' level='2'><ab type='prose'>蹍市人之足聖人之道。</ab></div><lb
+ ed="J" n="0046c25"/><div type='commentary' level='2'><ab type='prose'>蹍失足而履其足也於市人則為遜辭兄則近於質<lb
+ ed="J" n="0046c26"/>矣大親則忘之也故至禮者忘乎人者也至仁無親<lb
+ ed="J" n="0046c27"/>也辟金言不以金為質也生本無知也知其後焉者<lb
+ ed="J" n="0046c28"/>也知者之所不知其猶未免於睥睨也德者在我者<lb
+ ed="J" n="0046c29"/>也治者在人者也工乎天俍乎人則聖人也懵然者<lb
+ ed="J" n="0046c30"/>虫也懵然者天也全人惡天非惡天也惡其人之天<pb ed="J" id="J34.B296.0047a" n="0047a"/><lb
+ ed="J" n="0047a01"/>也況乎天人合也籠者有心於得也畫華飾之服拸<lb
+ ed="J" n="0047a02"/>棄也介者毀形無所用其華飾也遊毀譽之外也胥<lb
+ ed="J" n="0047a03"/>靡賤也復摺猶往來也與人往來而不以餽遺為禮<lb
+ ed="J" n="0047a04"/>者是忘人者也忘人者天人也。通云似牛無角似<lb
+ ed="J" n="0047a05"/>兔有角。</ab></div><lb
+ ed="J" n="0047a06"/><head>徐無鬼</head><lb
+ ed="J" n="0047a07"/><div type='commentary' level='2'><ab type='prose'>夫神者好和而惡姦者也為天下者亦若是則已矣<lb
+ ed="J" n="0047a08"/>囿於物則否也是其所是果孰是耶久矣乎吾無與<lb
+ ed="J" n="0047a09"/>言也不聞也無不聞也不見也無不見也無以色驕<lb
+ ed="J" n="0047a10"/>人也其誰知之其誰鬻之也真人者抱德煬和以順<lb
+ ed="J" n="0047a11"/>天下者也以天待人不以人入天也其解之也似不<lb
+ ed="J" n="0047a12"/>解也其知之也似不知也不可以有崖不可以無崖<lb
+ ed="J" n="0047a13"/>也。通云百歲老翁失卻父。</ab></div><lb
+ ed="J" n="0047a14"/><div type='orig' level='2'><ab type='prose'>徐無鬼因女商見魏武侯君將惡乎用夫偃<lb
+ ed="J" n="0047a15"/>兵哉。</ab></div><lb
+ ed="J" n="0047a16"/><div type='commentary' level='2'><ab type='prose'>我以君為勞苦矣君乃以我為勞苦耶掔去也執飽<lb
+ ed="J" n="0047a17"/>所執在一飽也視日者蒿目而視情至耑也忘其一<lb
+ ed="J" n="0047a18"/>者澹忘也喪其一猶亡其一也金版金匱之書也流<lb
+ ed="J" n="0047a19"/>人亡人也藜藋柱逕草參天也踉足跡也虛無人故<lb
+ ed="J" n="0047a20"/>位其空也跫然足音也神不自許則神之尊者無幾<lb
+ ed="J" n="0047a21"/>矣君病矣其病者何也美惡相因也故美者惡器也<lb
+ ed="J" n="0047a22"/>形非無形也成者所以為毀也變至而物戰之也鶴<lb
+ ed="J" n="0047a23"/>列陣名猶鵝觀魚麗也徒卒徒驥皁驥也麗譙高樓<lb
+ ed="J" n="0047a24"/>錙壇祭祀之地也藏逆於得謂順逆之情未忘而以<lb
+ ed="J" n="0047a25"/>得為得也死已脫謂民去湯火也。通云太平本是<lb
+ ed="J" n="0047a26"/>將軍致不許將軍見太平。</ab></div><lb
+ ed="J" n="0047a27"/><div type='orig' level='2'><ab type='prose'>黃帝將見大隗於具茨之山稱天師而退。</ab></div><lb
+ ed="J" n="0047a28"/><div type='commentary' level='2'><ab type='prose'>七聖皆迷無所用其智也乘日之車出而作入而息<lb
+ ed="J" n="0047a29"/>也吾師乎吾師乎何問大隗。通云不見文殊但見<lb
+ ed="J" n="0047a30"/>牧牛翁又云大小德山未會末後句。</ab></div><pb ed="J" id="J34.B296.0047b" n="0047b"/><lb
+ ed="J" n="0047b01"/><div type='orig' level='2'><ab type='prose'>知士無思慮之變終身不反悲夫。</ab></div><lb
+ ed="J" n="0047b02"/><div type='commentary' level='2'><ab type='prose'>凌誶凌夷而詬誶之也好察者有之招世招招於世<lb
+ ed="J" n="0047b03"/>也中民入民深也宿留也際交際也比合也尤絕也<lb
+ ed="J" n="0047b04"/>盛也遭時故比於歲歲亦時也囿物故不物於易易<lb
+ ed="J" n="0047b05"/>變易也。通云草裡漢。</ab></div><lb
+ ed="J" n="0047b06"/><div type='orig' level='2'><ab type='prose'>莊子曰射者非前期而中足以造於心也。</ab></div><lb
+ ed="J" n="0047b07"/><div type='commentary' level='2'><ab type='prose'>期而中故羿獨也無期焉則盡羿也有善念故堯貴<lb
+ ed="J" n="0047b08"/>也無公是則盡堯也秉公孫龍也冬爨鼎夏造冰抑<lb
+ ed="J" n="0047b09"/>甚異矣然未離乎陰陽也瑟應五音五音各五故二<lb
+ ed="J" n="0047b10"/>十五廢一疑不可鼓矣然宮角並應有君於瑟者存<lb
+ ed="J" n="0047b11"/>而五聲不改也且若是者耶非耶惠子曰是也儒墨<lb
+ ed="J" n="0047b12"/>楊秉則莫我非也我其是也莊子曰未也是齊人楚<lb
+ ed="J" n="0047b13"/>人之智也齊人蹢子於宋欲秘其跡雖閽者不以告<lb
+ ed="J" n="0047b14"/>之不聞始末也蹢擲也擲其子也鈃鐘小鐘也求小<lb
+ ed="J" n="0047b15"/>鐘而束縛之恐聲達於外也其事類此也唐喪也其<lb
+ ed="J" n="0047b16"/>將以喪其子使逸之異國也乃未始出域有異類矣<lb
+ ed="J" n="0047b17"/>欲蓋而彌彰也楚人之為寄者并其閽者而擲之則<lb
+ ed="J" n="0047b18"/>其事愈秘然夜半而與舟人鬥焉未始出於岑而怨<lb
+ ed="J" n="0047b19"/>者不免跡已彰也心勞而事拙也。通云掩耳盜鈴<lb
+ ed="J" n="0047b20"/>漢。</ab></div><lb
+ ed="J" n="0047b21"/><div type='orig' level='2'><ab type='prose'>莊子送葬吾無與言之矣。</ab></div><lb
+ ed="J" n="0047b22"/><div type='commentary' level='2'><ab type='prose'>堊染也有色黝然污漫於鼻故斲而去之也郢人匠<lb
+ ed="J" n="0047b23"/>者之質也惠子莊子之質也惠子死莊子無與言也<lb
+ ed="J" n="0047b24"/>子期死而伯牙不鼓琴也。通云罕逢穿耳客。</ab></div><lb
+ ed="J" n="0047b25"/><div type='orig' level='2'><ab type='prose'>管仲有病則隰朋可。</ab></div><lb
+ ed="J" n="0047b26"/><div type='commentary' level='2'><ab type='prose'>化於上故上忘化於下故下畔也不聞者聞不見者<lb
+ ed="J" n="0047b27"/>見也。通云有眼如盲有口如啞。</ab></div><lb
+ ed="J" n="0047b28"/><div type='orig' level='2'><ab type='prose'>吳王浮於江三年而國人稱之。</ab></div><lb
+ ed="J" n="0047b29"/><div type='commentary' level='2'><ab type='prose'>敏給搏捷矢謂其狙敏給而搏尤捷於矢也。通云<lb
+ ed="J" n="0047b30"/>捉敗。</ab></div><pb ed="J" id="J34.B296.0047c" n="0047c"/><lb
+ ed="J" n="0047c01"/><div type='orig' level='2'><ab type='prose'>南伯子綦隱几而坐其後而日遠矣。</ab></div><lb
+ ed="J" n="0047c02"/><div type='commentary' level='2'><ab type='prose'>美不可居也是以悲也三累而愈進焉遠也。通云<lb
+ ed="J" n="0047c03"/>莫把是非來辯我。</ab></div><lb
+ ed="J" n="0047c04"/><div type='orig' level='2'><ab type='prose'>仲尼之楚大人之誠。</ab></div><lb
+ ed="J" n="0047c05"/><div type='commentary' level='2'><ab type='prose'>燕而颺言禮也夫子曰丘也不言之言也楚與宋戰<lb
+ ed="J" n="0047c06"/>宜僚披胸受亦弄丸於前兩軍遂解叔敖為令尹酣<lb
+ ed="J" n="0047c07"/>寢廟堂執翟秉羽而楚人忘戰是二子皆然也喙三<lb
+ ed="J" n="0047c08"/>尺喙長無用也不言言也彼謂二子此謂仲尼也相<lb
+ ed="J" n="0047c09"/>觀而善之謂摩不摩不相觀也。通云口掛壁上。</ab></div><lb
+ ed="J" n="0047c10"/><div type='orig' level='2'><ab type='prose'>子綦有八子然身食肉而終。</ab></div><lb
+ ed="J" n="0047c11"/><div type='commentary' level='2'><ab type='prose'>所自來者不可知也禍之始也宎室西北隅也未牧<lb
+ ed="J" n="0047c12"/>而󴡼生未田而鶉生怪也則世俗之累也渠公齊之<lb
+ ed="J" n="0047c13"/>富人封比封君也。通云壓良為賤。</ab></div><lb
+ ed="J" n="0047c14"/><div type='orig' level='2'><ab type='prose'>齧缺遇許由夫唯外乎賢者知之矣。</ab></div><lb
+ ed="J" n="0047c15"/><div type='commentary' level='2'><ab type='prose'>仁義無誠是相與為偽也禽好貪而復假之以器也<lb
+ ed="J" n="0047c16"/>瞥瞥然以仁義之行示天下也覕瞥也或曰割也利<lb
+ ed="J" n="0047c17"/>之適以害之也。通云罪過不少。</ab></div><lb
+ ed="J" n="0047c18"/><div type='orig' level='2'><ab type='prose'>有暖姝者解之也悲。</ab></div><lb
+ ed="J" n="0047c19"/><div type='commentary' level='2'><ab type='prose'>暖暖猶煦煦姝姝猶宛宛也濡謂沾滯需待也卷婁<lb
+ ed="J" n="0047c20"/>卷曲而傴僂也隈者形一隅也童土不毛之土也舜<lb
+ ed="J" n="0047c21"/>來而澤及下也比近也和也魚忘於江湖故得計循<lb
+ ed="J" n="0047c22"/>因也依也俄得也俄失也俄死也俄生也惟變所適<lb
+ ed="J" n="0047c23"/>也藥一也而用不同也實堇一為雄一為烏一為附<lb
+ ed="J" n="0047c24"/>也雞廱芡也豕苓豬苓時為帝故相君也勾賤之亡<lb
+ ed="J" n="0047c25"/>也所以存也鴟目見夜不見晝鶴脛雖長不可截也<lb
+ ed="J" n="0047c26"/>任之可也。通云此藥亦能殺人亦能活人又云有<lb
+ ed="J" n="0047c27"/>時不恁麼。</ab></div><lb
+ ed="J" n="0047c28"/><div type='orig' level='2'><ab type='prose'>故曰風之過河也有損焉是尚大不惑。</ab></div><lb
+ ed="J" n="0047c29"/><div type='commentary' level='2'><ab type='prose'>風過而河為之損也日過而河為之損也不見其損<lb
+ ed="J" n="0047c30"/>也只止也已也恃源而往抑無損也水守其土影守<pb ed="J" id="J34.B296.0048a" n="0048a"/><lb
+ ed="J" n="0048a01"/>其人物守其物固也殆危也危亂之成改不給也萃<lb
+ ed="J" n="0048a02"/>聚也功者禍之反其始緣於功而後相為禍也果實<lb
+ ed="J" n="0048a03"/>也待之久而禍始成也不知問是謂不知舉是而為<lb
+ ed="J" n="0048a04"/>問也謀無素也絕跡易無行地難也夫孰知不知之<lb
+ ed="J" n="0048a05"/>深於知也一以立多也陰以治陽也為足不如為目<lb
+ ed="J" n="0048a06"/>也均齊也齊不齊也其盡也有天其循也有照其冥<lb
+ ed="J" n="0048a07"/>也有樞其始也有彼始有彼謂無始之始而彼此森<lb
+ ed="J" n="0048a08"/>然也與為頡頏與為滑昏未嘗無實也古今不相代<lb
+ ed="J" n="0048a09"/>而不可以虧也。通云休更迷頭認影。</ab></div><lb
+ ed="J" n="0048a10"/><head>則陽</head><lb
+ ed="J" n="0048a11"/><div type='commentary' level='2'><ab type='prose'>莫知其然者性也聖人者環中而隨成者也無內也<lb
+ ed="J" n="0048a12"/>無外也是大人也雖言而未嘗言也莫見其根也莫<lb
+ ed="J" n="0048a13"/>見其門也無名也無實也無窮也無止也言而愈疏<lb
+ ed="J" n="0048a14"/>故議有所極也。通云語默涉離微如何通不犯長<lb
+ ed="J" n="0048a15"/>憶江南三月裏鷓鴣啼處百花香。</ab></div><lb
+ ed="J" n="0048a16"/><div type='orig' level='2'><ab type='prose'>則陽遊於楚除日無歲無內無外。</ab></div><lb
+ ed="J" n="0048a17"/><div type='commentary' level='2'><ab type='prose'>魯人彭陽字則陽不自許以之神其交謂屈己以狗<lb
+ ed="J" n="0048a18"/>交顛冥富貴也方春而假衣方冬而反風謂失時也<lb
+ ed="J" n="0048a19"/>王好佞故佞與德同稱也與人相宜有如父子非詹<lb
+ ed="J" n="0048a20"/>詹施予之跡也聖人者達萬物之綢繆與為一者也<lb
+ ed="J" n="0048a21"/>緡茂鬱也見見聞聞猶以十仞之臺懸眾間也環中<lb
+ ed="J" n="0048a22"/>而應莫知幾時無化物之跡也洫溝洫也司御門尹<lb
+ ed="J" n="0048a23"/>皆官名或曰即保衡伊尹也名之與法是兩見也非<lb
+ ed="J" n="0048a24"/>盡慮也仲尼傅之是則見聞所不及也容成作曆積<lb
+ ed="J" n="0048a25"/>日成歲除日無歲內外交冥何見聞之有哉。通云<lb
+ ed="J" n="0048a26"/>數珠一百八。</ab></div><lb
+ ed="J" n="0048a27"/><div type='orig' level='2'><ab type='prose'>魏罃與田候牟約譬猶一吷也。</ab></div><lb
+ ed="J" n="0048a28"/><div type='commentary' level='2'><ab type='prose'>田候牟即齊威王犀首魏臣公孫衍也通達之國若<lb
+ ed="J" n="0048a29"/>存若亡猶莽坱之野也喘管聲劍首劍環小竅吷者<lb
+ ed="J" n="0048a30"/>聲之微也。通云一鏃破三關又云弓折矢盡。</ab></div><pb ed="J" id="J34.B296.0048b" n="0048b"/><lb
+ ed="J" n="0048b01"/><div type='orig' level='2'><ab type='prose'>孔子之楚舍於蟻丘之漿其室虛矣。</ab></div><lb
+ ed="J" n="0048b02"/><div type='commentary' level='2'><ab type='prose'>漿賣漿者也極屋棟也存謂過存也。通云不合放<lb
+ ed="J" n="0048b03"/>過。</ab></div><lb
+ ed="J" n="0048b04"/><div type='orig' level='2'><ab type='prose'>長梧封人問子罕內熱溲膏者也。</ab></div><lb
+ ed="J" n="0048b05"/><div type='commentary' level='2'><ab type='prose'>以眾為謂徒以多為也扶蘇吾形不知擢擾吾性也。<lb
+ ed="J" n="0048b06"/>通云孟八郎漢。</ab></div><lb
+ ed="J" n="0048b07"/><div type='orig' level='2'><ab type='prose'>柏矩學於老聃於誰責而可乎。</ab></div><lb
+ ed="J" n="0048b08"/><div type='commentary' level='2'><ab type='prose'>辜人罪人也強之謂強勉也匿物宜其不識也大難<lb
+ ed="J" n="0048b09"/>宜其不敢也重任宜其不勝也遠塗宜其不至也或<lb
+ ed="J" n="0048b10"/>者其君實甚也愚之罪之罰之誅之民勿堪也。通<lb
+ ed="J" n="0048b11"/>云是何心行。</ab></div><lb
+ ed="J" n="0048b12"/><div type='orig' level='2'><ab type='prose'>仲尼問於太史之二人何足以識。</ab></div><lb
+ ed="J" n="0048b13"/><div type='commentary' level='2'><ab type='prose'>因是也謂因國人之是而是之也僕御進前搏幣拱<lb
+ ed="J" n="0048b14"/>翼謂靈公之禮賢也不馮其子靈公奪而埋之銘詞<lb
+ ed="J" n="0048b15"/>所載也馮藉也謂是無公是也。通云金雞一粒粟<lb
+ ed="J" n="0048b16"/>是果然否。</ab></div><lb
+ ed="J" n="0048b17"/><div type='orig' level='2'><ab type='prose'>蘧伯玉行年六十所謂然歟然乎。</ab></div><lb
+ ed="J" n="0048b18"/><div type='commentary' level='2'><ab type='prose'>是耶非耶然耶否耶。通云逢人切莫錯舉。</ab></div><lb
+ ed="J" n="0048b19"/><div type='orig' level='2'><ab type='prose'>少知問於太公調此之謂丘里之言。</ab></div><lb
+ ed="J" n="0048b20"/><div type='commentary' level='2'><ab type='prose'>莫適為主也莫適為正也有拂者有宜者有差者有<lb
+ ed="J" n="0048b21"/>正者變化始終莫之紀極以是為適然也。通云問<lb
+ ed="J" n="0048b22"/>取東村王老。</ab></div><lb
+ ed="J" n="0048b23"/><div type='orig' level='2'><ab type='prose'>少知曰然則謂之道足乎其不及遠矣。</ab></div><lb
+ ed="J" n="0048b24"/><div type='commentary' level='2'><ab type='prose'>道者不得已而強名之也已名為道矣物不得而比<lb
+ ed="J" n="0048b25"/>也狗馬皆物也。通云說似一物即不中。</ab></div><lb
+ ed="J" n="0048b26"/><div type='orig' level='2'><ab type='prose'>少知曰四方之內此義之所止。</ab></div><lb
+ ed="J" n="0048b27"/><div type='commentary' level='2'><ab type='prose'>隨其序之相理橋其運之相使窮則必反終則有始<lb
+ ed="J" n="0048b28"/>此物情也言之所盡知之所至如是而已若夫睹道<lb
+ ed="J" n="0048b29"/>者無終故不隨所廢無始故不原所起也。通云直<lb
+ ed="J" n="0048b30"/>下無開口處。</ab></div><pb ed="J" id="J34.B296.0048c" n="0048c"/><lb
+ ed="J" n="0048c01"/><div type='orig' level='2'><ab type='prose'>少知曰季真之莫為議有所極。</ab></div><lb
+ ed="J" n="0048c02"/><div type='commentary' level='2'><ab type='prose'>雞鳴犬吠盡人所知然其所自化者言不能及也所<lb
+ ed="J" n="0048c03"/>將為者意不能窺也執有執無皆未離乎虛實之見<lb
+ ed="J" n="0048c04"/>者也生可忌也未生則不可忌也死可阻也已死則<lb
+ ed="J" n="0048c05"/>不可阻也未通乎死生之說而強為之言則囿於生<lb
+ ed="J" n="0048c06"/>死者也疑之所假疑未損也夫道猶假名也所假而<lb
+ ed="J" n="0048c07"/>行者也或使莫為疑之所假於物為一曲於道為愈<lb
+ ed="J" n="0048c08"/>疏也道也者終日言而不足者也。通云要頭截取<lb
+ ed="J" n="0048c09"/>去。</ab></div><lb
+ ed="J" n="0048c10"/><head>外物</head><lb
+ ed="J" n="0048c11"/><div type='commentary' level='2'><ab type='prose'>外物不可必也貧富適也小大適也儒以文亂法者<lb
+ ed="J" n="0048c12"/>也與其譽堯而非桀不如兩忘而化於道也智不如<lb
+ ed="J" n="0048c13"/>愚也去善而自善也人皆知有用之用而不知無用<lb
+ ed="J" n="0048c14"/>之用也至人者不留行也故遊於世而不僻也。通<lb
+ ed="J" n="0048c15"/>云四十九年不說一字。</ab></div><lb
+ ed="J" n="0048c16"/><div type='orig' level='2'><ab type='prose'>外物不可必債然而道盡。</ab></div><lb
+ ed="J" n="0048c17"/><div type='commentary' level='2'><ab type='prose'>萇弘周大夫為靈王所殺孝巳武丁子也曾參小杖<lb
+ ed="J" n="0048c18"/>受大杖走忠而被誅孝而見責故外物莫可必也絯<lb
+ ed="J" n="0048c19"/>異也兩陷謂利害相摩也螴蜳虫之蟄而未甦也一<lb
+ ed="J" n="0048c20"/>進一退故不得成水勝火然月不勝火者陰陽逆也<lb
+ ed="J" n="0048c21"/>五行並有之故外物莫可必也。通云師子白乳二<lb
+ ed="J" n="0048c22"/>祖鄴都。</ab></div><lb
+ ed="J" n="0048c23"/><div type='orig' level='2'><ab type='prose'>莊子家貧枯魚之肆。</ab></div><lb
+ ed="J" n="0048c24"/><div type='commentary' level='2'><ab type='prose'>鮒小魚也常與常所與也得不在大與不期於多。<lb
+ ed="J" n="0048c25"/>通云困魚止濼。</ab></div><lb
+ ed="J" n="0048c26"/><div type='orig' level='2'><ab type='prose'>任公子為大鉤經於世亦遠矣。</ab></div><lb
+ ed="J" n="0048c27"/><div type='commentary' level='2'><ab type='prose'>輇才小才也累小綸也志大者不取小。通云水淺<lb
+ ed="J" n="0048c28"/>無魚徒勞下釣又云弄潮須是弄潮人。</ab></div><lb
+ ed="J" n="0048c29"/><div type='orig' level='2'><ab type='prose'>儒以詩禮發冢無傷口中珠。</ab></div><lb
+ ed="J" n="0048c30"/><div type='commentary' level='2'><ab type='prose'>傳語於下曰臚椎埋作姦緣飾經術以文亂法也。<pb ed="J" id="J34.B296.0049a" n="0049a"/><lb
+ ed="J" n="0049a01"/>通云稗販老僧。</ab></div><lb
+ ed="J" n="0049a02"/><div type='orig' level='2'><ab type='prose'>老萊子之弟子出薪終矜爾。</ab></div><lb
+ ed="J" n="0049a03"/><div type='commentary' level='2'><ab type='prose'>末僂背微曲也後耳耳垂垂也容知善容之智也豈<lb
+ ed="J" n="0049a04"/>其窘於勢耶抑才固不逮耶小惠勿偏歡虞而已是<lb
+ ed="J" n="0049a05"/>徒以為驁也終身醜之烏所稱上德哉相引者名跡<lb
+ ed="J" n="0049a06"/>相結者隱微是堯非桀以譽相高往必見夷動與邪<lb
+ ed="J" n="0049a07"/>會吾奈之何耶。通云將謂有多少伎倆。</ab></div><lb
+ ed="J" n="0049a08"/><div type='orig' level='2'><ab type='prose'>宋元君夜半而夢與能言者處也。</ab></div><lb
+ ed="J" n="0049a09"/><div type='commentary' level='2'><ab type='prose'>阿門曲房之門也宰路淵名余且一名豫且鵜鴣水<lb
+ ed="J" n="0049a10"/>鳥能捕魚石師猶碩師也。通云石烏龜生子。</ab></div><lb
+ ed="J" n="0049a11"/><div type='orig' level='2'><ab type='prose'>惠子謂莊子曰子言無用無用之為用也亦<lb
+ ed="J" n="0049a12"/>明矣。</ab></div><lb
+ ed="J" n="0049a13"/><div type='commentary' level='2'><ab type='prose'>廁足側足也墊謂掘地得泉也無適非用者地也掘<lb
+ ed="J" n="0049a14"/>地則不能容足以是知無用之用也。通云東壁掛<lb
+ ed="J" n="0049a15"/>葫蘆。</ab></div><lb
+ ed="J" n="0049a16"/><div type='orig' level='2'><ab type='prose'>莊子曰人有能遊承意不彼。</ab></div><lb
+ ed="J" n="0049a17"/><div type='commentary' level='2'><ab type='prose'>流遁則覆墜決絕則火馳皆非善遊者也相賤猶相<lb
+ ed="J" n="0049a18"/>使也至人者不彼於彼者也是善遊也。通云和他<lb
+ ed="J" n="0049a19"/>顛倒一上又云如珠走盤如盤走珠。</ab></div><lb
+ ed="J" n="0049a20"/><div type='orig' level='2'><ab type='prose'>目徹為明人則顧塞其竇。</ab></div><lb
+ ed="J" n="0049a21"/><div type='commentary' level='2'><ab type='prose'>顫香也跈謂足陷泥淖也殷中也盛也息之相穿日<lb
+ ed="J" n="0049a22"/>夜無壅人顧塞之何也。通云痴人作數息觀。</ab></div><lb
+ ed="J" n="0049a23"/><div type='orig' level='2'><ab type='prose'>胞有重閬亦神者不勝。</ab></div><lb
+ ed="J" n="0049a24"/><div type='commentary' level='2'><ab type='prose'>閬天門也婦姑反唇則亂之始也六鑿謂形與神搆<lb
+ ed="J" n="0049a25"/>也耳目口鼻及心知也神不勝故耽隱於山丘至人<lb
+ ed="J" n="0049a26"/>者不廊廟而尊不江湖而逸也。通云內外獼猴六<lb
+ ed="J" n="0049a27"/>窗來往又云貧道遊朱門如蓬戶耳。</ab></div><lb
+ ed="J" n="0049a28"/><div type='orig' level='2'><ab type='prose'>德溢乎名忘言之人而與之言哉。</ab></div><lb
+ ed="J" n="0049a29"/><div type='commentary' level='2'><ab type='prose'>誸急也柴謂柴柵也百官之事因眾而果事逐賢生<lb
+ ed="J" n="0049a30"/>也草木生而銚耨及之事本無而有也其生也胡然<pb ed="J" id="J34.B296.0049b" n="0049b"/><lb
+ ed="J" n="0049b01"/>而生也靜處可以補病也眥滅可以休老也目雖無<lb
+ ed="J" n="0049b02"/>見而意以消也寧可以止遽也有事不如無事勞不<lb
+ ed="J" n="0049b03"/>如佚也本靜者本無所于動也本佚者本無所於勞<lb
+ ed="J" n="0049b04"/>也聖不如神賢不如聖也演門宋城門也善毀善執<lb
+ ed="J" n="0049b05"/>喪也毀而死毀滅性死傷生也踆蹲也踣躑躅也紀<lb
+ ed="J" n="0049b06"/>他踆水而致弔申徒踣河以殞身師許由務光而過<lb
+ ed="J" n="0049b07"/>之者也言者筌蹄也筌魚笱也蹄兔骨也。通云切<lb
+ ed="J" n="0049b08"/>莫守株待兔又云明兄明兄尚欠悟在。</ab></div><lb
+ ed="J" n="0049b09"/><head>寓言</head><lb
+ ed="J" n="0049b10"/><div type='commentary' level='2'><ab type='prose'>為寓言也為重言也卮言日出而和以天倪也天倪<lb
+ ed="J" n="0049b11"/>者天均也近於化也心無所縣也不知死不知生故<lb
+ ed="J" n="0049b12"/>大婀也亦往亦來而無所待也睢睢也盱盱也誰與<lb
+ ed="J" n="0049b13"/>居也。通云靜處娑婆訶又云火燄為三世諸佛說<lb
+ ed="J" n="0049b14"/>法三世諸佛立地聽。</ab></div><lb
+ ed="J" n="0049b15"/><div type='orig' level='2'><ab type='prose'>寓言十九重言十七天均者天倪也。</ab></div><lb
+ ed="J" n="0049b16"/><div type='commentary' level='2'><ab type='prose'>寓言有所托而為言也重言言之重詞之複也卮言<lb
+ ed="J" n="0049b17"/>以言飲人也藉外論之論其外不論其內也父為子<lb
+ ed="J" n="0049b18"/>媒不若非其父也言之者無罪聞之者足戒也如徒<lb
+ ed="J" n="0049b19"/>以其言先也則非所以先也陳人猶死人也言所以<lb
+ ed="J" n="0049b20"/>齊物也不言亦所以齊物也因其齊以言其不齊者<lb
+ ed="J" n="0049b21"/>因其言以齊其不齊者也有言無言也無言有言也<lb
+ ed="J" n="0049b22"/>萬物之相禪也不同形也始終變化如環無端是天<lb
+ ed="J" n="0049b23"/>均也。通云舌頭不在口裏又云琉璃寶殿照明月。</ab></div><lb
+ ed="J" n="0049b24"/><div type='orig' level='2'><ab type='prose'>莊子謂惠子曰孔丘行年且不得及彼乎。</ab></div><lb
+ ed="J" n="0049b25"/><div type='commentary' level='2'><ab type='prose'>謝猶化也未之嘗言謂相忘不言也孔子亦有言矣<lb
+ ed="J" n="0049b26"/>孔子言之而天下之人乃服也不敢蘁立也蘁猶鱷<lb
+ ed="J" n="0049b27"/>也吾未得如孔子也。通云且讓他出一頭地。</ab></div><lb
+ ed="J" n="0049b28"/><div type='orig' level='2'><ab type='prose'>曾子再仕而心再化觀雀蚊虻相過乎前也。</ab></div><lb
+ ed="J" n="0049b29"/><div type='commentary' level='2'><ab type='prose'>不洎謂不及親也椎牛而祭墓不如雞犬之及其生<lb
+ ed="J" n="0049b30"/>存也無所縣言無所係也其無所縣乎其罪乎夫子<pb ed="J" id="J34.B296.0049c" n="0049c"/><lb
+ ed="J" n="0049c01"/>曰未也哀樂入之其何能無係也。通云猶有這個<lb
+ ed="J" n="0049c02"/>在。</ab></div><lb
+ ed="J" n="0049c03"/><div type='orig' level='2'><ab type='prose'>顏成子游謂東郭子綦若之何其有鬼耶。</ab></div><lb
+ ed="J" n="0049c04"/><div type='commentary' level='2'><ab type='prose'>野曠曠若失也從服從也通達也物謂物至而應也<lb
+ ed="J" n="0049c05"/>來謂來無不宜也鬼入鬼含德也天成與天遊也不<lb
+ ed="J" n="0049c06"/>知死不知生死生一也大妙眾妙之門也生有為者<lb
+ ed="J" n="0049c07"/>也死者公也人所同也宜勸也自生而之死也有自<lb
+ ed="J" n="0049c08"/>也而其生也陽也無自也其說之果然者乎其不然<lb
+ ed="J" n="0049c09"/>者乎惡乎適也惡乎不適也今夫天其曆數可攷也<lb
+ ed="J" n="0049c10"/>今夫地其方隅可據也死生之故吾惡乎求之哉以<lb
+ ed="J" n="0049c11"/>為無命則莫知其所終也以為有命則莫知其所始<lb
+ ed="J" n="0049c12"/>也其有以相應耶則何以無鬼耶其無以相應耶則<lb
+ ed="J" n="0049c13"/>何以有鬼耶吾不知也吾不知也。通云生從何來<lb
+ ed="J" n="0049c14"/>死從何去。</ab></div><lb
+ ed="J" n="0049c15"/><div type='orig' level='2'><ab type='prose'>眾罔兩問于景何以有間乎。</ab></div><lb
+ ed="J" n="0049c16"/><div type='commentary' level='2'><ab type='prose'>括謂括髮也稍問問之末也屯聚也彼謂形吾謂景<lb
+ ed="J" n="0049c17"/>景之與形恒相待也而形亦未為無待也吾徒以為<lb
+ ed="J" n="0049c18"/>強陽耳強陽者幻也幻何所辱問乎。通云焦磚打<lb
+ ed="J" n="0049c19"/>著連底凍。</ab></div><lb
+ ed="J" n="0049c20"/><div type='orig' level='2'><ab type='prose'>陽子居南之沛舍者與之爭席矣。</ab></div><lb
+ ed="J" n="0049c21"/><div type='commentary' level='2'><ab type='prose'>仰目而雎張目而盱傲然自得故人莫與居也其往<lb
+ ed="J" n="0049c22"/>也數數然也其反也則已謝之也。通云百丈再參<lb
+ ed="J" n="0049c23"/>馬祖。</ab></div><lb
+ ed="J" n="0049c24"/><head>讓王</head><lb
+ ed="J" n="0049c25"/><div type='commentary' level='2'><ab type='prose'>延陵州來竊慕子臧之義漆園有焉豐約惟其所遭<lb
+ ed="J" n="0049c26"/>險夷齊於一致也。通云棄金輪從鹿野六年橡栗<lb
+ ed="J" n="0049c27"/>馬麥為緣。</ab></div><lb
+ ed="J" n="0049c28"/><div type='orig' level='2'><ab type='prose'>堯以天下讓許由終身不反也。</ab></div><lb
+ ed="J" n="0049c29"/><div type='commentary' level='2'><ab type='prose'>捲捲猶惓惓也葆力自葆其力也。通云目視霄漢。</ab></div><lb
+ ed="J" n="0049c30"/><div type='orig' level='2'><ab type='prose'>太王亶父居邠豈不惑哉。</ab></div><pb ed="J" id="J34.B296.0050a" n="0050a"/><lb
+ ed="J" n="0050a01"/><div type='commentary' level='2'><ab type='prose'>邠居允荒詩所以歌天作也。通云慈悲大煞。</ab></div><lb
+ ed="J" n="0050a02"/><div type='orig' level='2'><ab type='prose'>越人三世弒其君越人之所欲得為君也。</ab></div><lb
+ ed="J" n="0050a03"/><div type='commentary' level='2'><ab type='prose'>專諸慶忌未之聞耶。通云何處不稱尊。</ab></div><lb
+ ed="J" n="0050a04"/><div type='orig' level='2'><ab type='prose'>韓魏相與爭侵地可謂知輕重矣。</ab></div><lb
+ ed="J" n="0050a05"/><div type='commentary' level='2'><ab type='prose'>奈何哉以天下為桎梏也。通云自生分別。</ab></div><lb
+ ed="J" n="0050a06"/><div type='orig' level='2'><ab type='prose'>魯君聞顏闔豈特隨侯之重哉。</ab></div><lb
+ ed="J" n="0050a07"/><div type='commentary' level='2'><ab type='prose'>不以彼易此。通云裴休黃蘗。</ab></div><lb
+ ed="J" n="0050a08"/><div type='orig' level='2'><ab type='prose'>子列子窮容貌有饑色民果作難而殺子陽。</ab></div><lb
+ ed="J" n="0050a09"/><div type='commentary' level='2'><ab type='prose'>列子加於人一等矣。通云蠱毒之鄉切忌嘗他一<lb
+ ed="J" n="0050a10"/>滴。</ab></div><lb
+ ed="J" n="0050a11"/><div type='orig' level='2'><ab type='prose'>楚昭失國遂不受也。</ab></div><lb
+ ed="J" n="0050a12"/><div type='commentary' level='2'><ab type='prose'>臣不敢貪天功以為己力也三旌上卿也。通云雲<lb
+ ed="J" n="0050a13"/>居舜老夫。</ab></div><lb
+ ed="J" n="0050a14"/><div type='orig' level='2'><ab type='prose'>原憲居魯憲不忍為也。</ab></div><lb
+ ed="J" n="0050a15"/><div type='commentary' level='2'><ab type='prose'>褐以為塞衣塞牖也。通云舍貧從富心不均平。</ab></div><lb
+ ed="J" n="0050a16"/><div type='orig' level='2'><ab type='prose'>曾子居衛致道者忘心矣。</ab></div><lb
+ ed="J" n="0050a17"/><div type='commentary' level='2'><ab type='prose'>道豈與貧適耶。通云無心猶隔一重山。</ab></div><lb
+ ed="J" n="0050a18"/><div type='orig' level='2'><ab type='prose'>孔子謂顏回是丘之得也。</ab></div><lb
+ ed="J" n="0050a19"/><div type='commentary' level='2'><ab type='prose'>使爾多財吾為爾宰。通云兩個不唧溜漢。</ab></div><lb
+ ed="J" n="0050a20"/><div type='orig' level='2'><ab type='prose'>中山公子牟可謂有其意矣。</ab></div><lb
+ ed="J" n="0050a21"/><div type='commentary' level='2'><ab type='prose'>有其意而未逮也。通云放不下擔取去。</ab></div><lb
+ ed="J" n="0050a22"/><div type='orig' level='2'><ab type='prose'>孔子窮於陳蔡之問共伯得乎丘首。</ab></div><lb
+ ed="J" n="0050a23"/><div type='commentary' level='2'><ab type='prose'>共伯即共和也厲王之亂諸侯立共伯在位十四年<lb
+ ed="J" n="0050a24"/>致政宣王歸隱丘首。通云一曲兩曲無人聽。</ab></div><lb
+ ed="J" n="0050a25"/><div type='orig' level='2'><ab type='prose'>舜以天下讓其友人因自投清冷之淵。</ab></div><lb
+ ed="J" n="0050a26"/><div type='commentary' level='2'><ab type='prose'>至人無死地。通云大似船子。</ab></div><lb
+ ed="J" n="0050a27"/><div type='orig' level='2'><ab type='prose'>湯將伐桀負石而自沈於廬水。</ab></div><lb
+ ed="J" n="0050a28"/><div type='commentary' level='2'><ab type='prose'>死猶不死也。通云汨羅未必獨惺惺。</ab></div><lb
+ ed="J" n="0050a29"/><div type='orig' level='2'><ab type='prose'>昔周之興此二士之節也。</ab></div><lb
+ ed="J" n="0050a30"/><div type='commentary' level='2'><ab type='prose'>賴利也彼豈利富貴哉高節至行獨行其志者也爝<pb ed="J" id="J34.B296.0050b" n="0050b"/><lb
+ ed="J" n="0050b01"/>然與日月爭光也。通云西山亮座主。</ab></div><lb
+ ed="J" n="0050b02"/><head>盜跖</head><lb
+ ed="J" n="0050b03"/><div type='commentary' level='2'><ab type='prose'>外篇雜篇多膺作此較著者大約似晉人語。通云<lb
+ ed="J" n="0050b04"/>不妨疑著。</ab></div><lb
+ ed="J" n="0050b05"/><div type='orig' level='2'><ab type='prose'>孔子與柳下季為友幾不免虎口哉。</ab></div><lb
+ ed="J" n="0050b06"/><div type='commentary' level='2'><ab type='prose'>不可無一不可有二。通云踞虎頭收虎尾須是其<lb
+ ed="J" n="0050b07"/>人。</ab></div><lb
+ ed="J" n="0050b08"/><div type='orig' level='2'><ab type='prose'>子張問於滿苟得離其患也。</ab></div><lb
+ ed="J" n="0050b09"/><div type='commentary' level='2'><ab type='prose'>五紀五德之紀也六位謂乾坤六位也而汝也仲尼<lb
+ ed="J" n="0050b10"/>之毋曰徵在少失母故不見毋。通云正好一坑埋<lb
+ ed="J" n="0050b11"/>卻。</ab></div><lb
+ ed="J" n="0050b12"/><div type='orig' level='2'><ab type='prose'>無足問於知和不亦惑乎。</ab></div><lb
+ ed="J" n="0050b13"/><div type='commentary' level='2'><ab type='prose'>推正不忘謂推服正論有所未忘也專無主正云無<lb
+ ed="J" n="0050b14"/>主而不得其正也與俗化世所謂隨俗苟且也侅猶<lb
+ ed="J" n="0050b15"/>咳侅溺為病氣馮陵也體澤汗發背也滿若堵耳謂<lb
+ ed="J" n="0050b16"/>積財滿環堵也醮焦也臺榭之變為樓疏遠也。通<lb
+ ed="J" n="0050b17"/>云扯閑葛藤。</ab></div><lb
+ ed="J" n="0050b18"/><head>說劍</head><lb
+ ed="J" n="0050b19"/><div type='commentary' level='2'><ab type='prose'>封三錢之府為陶之富人耶策士餘風或為鼓琴或<lb
+ ed="J" n="0050b20"/>為擊劍。通云殺人刀活人劍。</ab></div><lb
+ ed="J" n="0050b21"/><div type='orig' level='2'><ab type='prose'>昔趙文王喜劍斃其處也。</ab></div><lb
+ ed="J" n="0050b22"/><div type='commentary' level='2'><ab type='prose'>雜纓短服武靈所為胡服騎射者也敦尚也鋒劍首<lb
+ ed="J" n="0050b23"/>也鍔刃也𨭐所以淬也鋏所以把也。通云珊瑚枝<lb
+ ed="J" n="0050b24"/>枝撐著月。</ab></div><lb
+ ed="J" n="0050b25"/><head>漁父</head><lb
+ ed="J" n="0050b26"/><div type='commentary' level='2'><ab type='prose'>孔叢子劉向之餘也。通云何不一篙打落。</ab></div><lb
+ ed="J" n="0050b27"/><div type='orig' level='2'><ab type='prose'>孔子遊乎緇帷之林吾敢不敬乎。</ab></div><lb
+ ed="J" n="0050b28"/><div type='commentary' level='2'><ab type='prose'>拏竹器所以刺舟兩容謂善否兩容也顏適以顏色<lb
+ ed="J" n="0050b29"/>適人也祿祿猶碌碌也比之服役謂內之門墻也。<lb
+ ed="J" n="0050b30"/>通云篙人用意良。</ab></div><pb ed="J" id="J34.B296.0050c" n="0050c"/><lb
+ ed="J" n="0050c01"/><head>列御寇</head><lb
+ ed="J" n="0050c02"/><div type='commentary' level='2'><ab type='prose'>巧者勞而智者憂也無能者無所求也有德者不知<lb
+ ed="J" n="0050c03"/>也至人者歸精神於無始而甘瞑乎無何有之鄉也<lb
+ ed="J" n="0050c04"/>且世亦多故矣有外刑也有內刑也人心險於山川<lb
+ ed="J" n="0050c05"/>也賊莫大乎有心而有睫也千金之珠非寶也犧牛<lb
+ ed="J" n="0050c06"/>不如孤犢也以不平平之以不徵徵之其可也。通<lb
+ ed="J" n="0050c07"/>云花發不萌枝鳥棲無影樹。</ab></div><lb
+ ed="J" n="0050c08"/><div type='orig' level='2'><ab type='prose'>列御寇之齊虛而遨遊者也。</ab></div><lb
+ ed="J" n="0050c09"/><div type='commentary' level='2'><ab type='prose'>五者先饋人敬己也形諜於外成其光儀人來敬己<lb
+ ed="J" n="0050c10"/>也履滿戶外名節逾彰也扶杖支頤立而不進也使<lb
+ ed="J" n="0050c11"/>人保汝不能使人無保汝跡逾彰也其感之者先也<lb
+ ed="J" n="0050c12"/>其出而人異之也搖爾性蕩爾真也將焉用哉相孰<lb
+ ed="J" n="0050c13"/>言莫可誰何也。通云雖善發藥要且不知藥忌。</ab></div><lb
+ ed="J" n="0050c14"/><div type='orig' level='2'><ab type='prose'>鄭人緩也古之人天而不人。</ab></div><lb
+ ed="J" n="0050c15"/><div type='commentary' level='2'><ab type='prose'>秪猶但也使而子為墨良為秋柏之實子告父之言<lb
+ ed="J" n="0050c16"/>也良埌也塚也謂墓木拱也莊子曰報施胡巧也緩<lb
+ ed="J" n="0050c17"/>故使弟為墨也彼故使彼也使弟為墨而與父辯是<lb
+ ed="J" n="0050c18"/>賤其親也是何異於以井飲人而捽其飲者也過不<lb
+ ed="J" n="0050c19"/>在他也宜不得其死也今之世皆緩也。通云爭怪<lb
+ ed="J" n="0050c20"/>得又云閉眼入蝸牛。</ab></div><lb
+ ed="J" n="0050c21"/><div type='orig' level='2'><ab type='prose'>朱泙漫學屠龍而不知大寧。</ab></div><lb
+ ed="J" n="0050c22"/><div type='commentary' level='2'><ab type='prose'>聖人以必然者為不必然也眾人以不必然者為必<lb
+ ed="J" n="0050c23"/>然也爭與不爭之分也好爭故有求好爭者亡也。<lb
+ ed="J" n="0050c24"/>通云當時只消道個不必。</ab></div><lb
+ ed="J" n="0050c25"/><div type='orig' level='2'><ab type='prose'>宋人有曹商者子行矣。</ab></div><lb
+ ed="J" n="0050c26"/><div type='commentary' level='2'><ab type='prose'>黃馘色不澤於耳也。通云鴉臭當風立。</ab></div><lb
+ ed="J" n="0050c27"/><div type='orig' level='2'><ab type='prose'>魯哀公問於顏闔惟真人能之。</ab></div><lb
+ ed="J" n="0050c28"/><div type='commentary' level='2'><ab type='prose'>既飾毛羽又為畫衣多文飾也支離其旨亂聽聞也<lb
+ ed="J" n="0050c29"/>夫何足以加民也彼謂仲尼汝謂哀公也彼果宜於<lb
+ ed="J" n="0050c30"/>汝歟而予之以祿養歟君誤矣君誤矣誤而可矣不<pb ed="J" id="J34.B296.0051a" n="0051a"/><lb
+ ed="J" n="0051a01"/>然則否也休之可也且彼難與為治也施於人者未<lb
+ ed="J" n="0051a02"/>忘商賈且羞之神明之人勿以相齒也外刑者金與<lb
+ ed="J" n="0051a03"/>木也內刑者動而得過也離麗也五金三木所以為<lb
+ ed="J" n="0051a04"/>刑也。通云未夢見在。</ab></div><lb
+ ed="J" n="0051a05"/><div type='orig' level='2'><ab type='prose'>孔子曰凡人心險於山川不肖人得矣。</ab></div><lb
+ ed="J" n="0051a06"/><div type='commentary' level='2'><ab type='prose'>有貌謹愿而情求利益者有中實有所長而外若不<lb
+ ed="J" n="0051a07"/>肖者有和順輕懁而達於理者有堅強而實柔縵者<lb
+ ed="J" n="0051a08"/>有怠緩而實釬急者就義若渴去義若熱人情難測<lb
+ ed="J" n="0051a09"/>如此也。通云有時先用後照有時先照後用有時<lb
+ ed="J" n="0051a10"/>照用同時有時照用不同時。</ab></div><lb
+ ed="J" n="0051a11"/><div type='orig' level='2'><ab type='prose'>正考父一命而傴達小命者遭。</ab></div><lb
+ ed="J" n="0051a12"/><div type='commentary' level='2'><ab type='prose'>傴曲背僂曲體也初命為士再命為大夫三命為上<lb
+ ed="J" n="0051a13"/>卿也而夫猶夫夫也呂鉅驕矜貌唐唐堯許許由也<lb
+ ed="J" n="0051a14"/>心分眉睫心智多也泚猶訾也緣循猶因循偃佒猶<lb
+ ed="J" n="0051a15"/>偃蹇也美者適以為窮惡者適以為達命不齊也有<lb
+ ed="J" n="0051a16"/>知慧而外通者有勇敢而多怨者有仁義而多責者<lb
+ ed="J" n="0051a17"/>命不齊也達生故任運達知故肖生也達大命者順<lb
+ ed="J" n="0051a18"/>之而已達小命者唯其所遭也。通云不是心不是<lb
+ ed="J" n="0051a19"/>佛不是物。</ab></div><lb
+ ed="J" n="0051a20"/><div type='orig' level='2'><ab type='prose'>人有見宋王者不亦悲乎。</ab></div><lb
+ ed="J" n="0051a21"/><div type='commentary' level='2'><ab type='prose'>奚微之有言微軀不足存也平治也徵效也平也不<lb
+ ed="J" n="0051a22"/>平則不平平也徵也不徵則不徵徵也明者不如其<lb
+ ed="J" n="0051a23"/>神者也明者惟有為之是使而神者徵之也夫孰能<lb
+ ed="J" n="0051a24"/>以不徵徵也故逾貴也愚者乃徒恃其所見以求人<lb
+ ed="J" n="0051a25"/>於人也則其外焉者也。通云空手把耡頭。</ab></div><lb
+ ed="J" n="0051a26"/><head>天下</head><lb
+ ed="J" n="0051a27"/><div type='commentary' level='2'><ab type='prose'>人尚其私說以道術相高也吾師乎吾師乎別黑白<lb
+ ed="J" n="0051a28"/>而定一尊乎。通云赤旛之下起清風。</ab></div><lb
+ ed="J" n="0051a29"/><div type='orig' level='2'><ab type='prose'>天下之治方術者多矣道術將為天下裂。</ab></div><lb
+ ed="J" n="0051a30"/><div type='commentary' level='2'><ab type='prose'>有天人有神人有至人有聖人有君子君子最下也<pb ed="J" id="J34.B296.0051b" n="0051b"/><lb
+ ed="J" n="0051b01"/>養民之理未可廢也古之人明於本係於末鄒魯之<lb
+ ed="J" n="0051b02"/>士縉紳先生能言之也儒術是也百家眾技徒一察<lb
+ ed="J" n="0051b03"/>焉以自好也。通云外道九十六。</ab></div><lb
+ ed="J" n="0051b04"/><div type='orig' level='2'><ab type='prose'>不侈於後世才士也夫。</ab></div><lb
+ ed="J" n="0051b05"/><div type='commentary' level='2'><ab type='prose'>非樂節用墨子所以名篇也以鬥為非故不怒也雖<lb
+ ed="J" n="0051b06"/>不為異亦不苟同也方其未敗而天下師尊之雖然<lb
+ ed="J" n="0051b07"/>恐不類也勤苦其生菲薄其死其道觳而未安也反<lb
+ ed="J" n="0051b08"/>天下之心故離於天下也跂木履也蹻麻履也墨分<lb
+ ed="J" n="0051b09"/>為三相里勤其一也苦獲已齒一也鄧陵子又其一<lb
+ ed="J" n="0051b10"/>也其意則是其行則非也其才未可少也。通云無<lb
+ ed="J" n="0051b11"/>人處斫額望汝。</ab></div><lb
+ ed="J" n="0051b12"/><div type='orig' level='2'><ab type='prose'>不累於俗其行適至是而止。</ab></div><lb
+ ed="J" n="0051b13"/><div type='commentary' level='2'><ab type='prose'>宋鈃尹文並齊人與鄒衍鄒奭為辯別宥猶在宥也<lb
+ ed="J" n="0051b14"/>將以柔胹合驩於群類也先生且不得飽況弟子耶。<lb
+ ed="J" n="0051b15"/>通云三十年後此話大行。</ab></div><lb
+ ed="J" n="0051b16"/><div type='orig' level='2'><ab type='prose'>公而不當概乎皆嘗有聞者也。</ab></div><lb
+ ed="J" n="0051b17"/><div type='commentary' level='2'><ab type='prose'>易平易也不兩謂不二於物也慎到一名廣泠汰於<lb
+ ed="J" n="0051b18"/>物與物寡營也謑髁不正不定之貌無任無所事任<lb
+ ed="J" n="0051b19"/>也縱脫謂不羈也或推或拍或輐或斷一切委蛇與<lb
+ ed="J" n="0051b20"/>之宛轉也魏然猶兀然也隧轉運也得全故無非無<lb
+ ed="J" n="0051b21"/>已故不建已塊塊然無知也適得怪焉謂多怪少可<lb
+ ed="J" n="0051b22"/>也不教謂不待教令也窢然風聲也輐斷無圭角也。<lb
+ ed="J" n="0051b23"/>通云一切處放教枯淡去。</ab></div><lb
+ ed="J" n="0051b24"/><div type='orig' level='2'><ab type='prose'>以本為精古之博大真人哉。</ab></div><lb
+ ed="J" n="0051b25"/><div type='commentary' level='2'><ab type='prose'>開尹名喜字公慶在己者無常居形於物而自著人<lb
+ ed="J" n="0051b26"/>用其巧我用其拙故泊然無為而笑人巧也。通云<lb
+ ed="J" n="0051b27"/>須是這漢始得。</ab></div><lb
+ ed="J" n="0051b28"/><div type='orig' level='2'><ab type='prose'>芴漠無形未之盡者。</ab></div><lb
+ ed="J" n="0051b29"/><div type='commentary' level='2'><ab type='prose'>為死歟為生歟與天地並歟與神明往歟儻謂惝怳<lb
+ ed="J" n="0051b30"/>難憑也雖時縱恣而不入於無憑也觭譎異也譴訶<pb ed="J" id="J34.B296.0051c" n="0051c"/><lb
+ ed="J" n="0051c01"/>譴也連犿謂宛轉相從也其理深長故不竭其來委<lb
+ ed="J" n="0051c02"/>隨故不蛻也蛻者形之遺也芒乎昧乎未之有也。<lb
+ ed="J" n="0051c03"/>通云分半座與他。</ab></div><lb
+ ed="J" n="0051c04"/><div type='orig' level='2'><ab type='prose'>惠施多方形與影競走也悲夫。</ab></div><lb
+ ed="J" n="0051c05"/><div type='commentary' level='2'><ab type='prose'>不可積故無厚也天猶地也澤猶山也日之中猶晐<lb
+ ed="J" n="0051c06"/>也物之死猶生也小同異非大同異也畢異畢同大<lb
+ ed="J" n="0051c07"/>同異也異中同同中異也南方無窮而有窮也今日<lb
+ ed="J" n="0051c08"/>適越昔已至也連環不可解而可解也中央者南北<lb
+ ed="J" n="0051c09"/>是也謂卯有毛也謂雞三足也謂郢為天下也謂犬<lb
+ ed="J" n="0051c10"/>為羊也謂馬有卯也謂丁子有尾也楚人呼蛙為丁<lb
+ ed="J" n="0051c11"/>子謂火不熱也謂山有口也謂輪未嘗蹍地也謂目<lb
+ ed="J" n="0051c12"/>無見也謂指不至也謂至不絕也指以至為功至以<lb
+ ed="J" n="0051c13"/>絕為極也謂龜長於蛇也謂矩不方也謂規不圓也<lb
+ ed="J" n="0051c14"/>謂鑿不準枘也謂飛鳥之影無動也謂矢鏃之不止<lb
+ ed="J" n="0051c15"/>不行也謂狗非犬也謂黃馬驪牛為三也謂白狗黑<lb
+ ed="J" n="0051c16"/>也謂孤駒無毋也持尺寸之棰日用其半可萬世不<lb
+ ed="J" n="0051c17"/>竭也是摻何術也桓團公孫龍之徒不能勝也以是<lb
+ ed="J" n="0051c18"/>為根柢也其言曰天地其壯乎雄猶壯也施雖欲與<lb
+ ed="J" n="0051c19"/>天地並雄而終無異術也倚人猶畸人也不辭而應<lb
+ ed="J" n="0051c20"/>不慮而對辯而無辯不辯而辯也故遍萬物而為言<lb
+ ed="J" n="0051c21"/>也終益之以怪也反人謂與人乖反也勝人勝於人<lb
+ ed="J" n="0051c22"/>也故與眾不適也隩奧也僻也蚊虻其小者也夫充<lb
+ ed="J" n="0051c23"/>乎一物以為言則尚可也苟曰愈貴則與道幾矣道<lb
+ ed="J" n="0051c24"/>不可言也惠子不能以此自休而散漫於萬物不自<lb
+ ed="J" n="0051c25"/>足也卒以善辯為名也惜哉駘蕩而不反也。通云<lb
+ ed="J" n="0051c26"/>算來不直半文錢又云正法眼藏瞎驢滅卻。</ab></div></div>
+</body></text></TEI>

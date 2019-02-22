@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛說大如意寶珠輪牛王守護神咒經</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0202</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X02.0202.0878c" n="0878c"/><lb
+ ed="X" n="0878c01"/><lb
+ ed="X" n="0878c02"/><lb
+ ed="X" n="0878c03"/><lb
+ ed="X" n="0878c04"/><lb
+ ed="X" n="0878c05"/><lb
+ ed="X" n="0878c06"/><lb
+ ed="R003" n="0810b01"/>
+<ab type='juan' subtype='open'>佛說大如意寶珠輪牛王守護神呪經</ab><lb
+ ed="X" n="0878c07"/><lb
+ ed="X" n="0878c08"/><lb
+ ed="R003" n="0810b02"/><byline>阿謨伽三藏奉詔譯</byline><lb
+ ed="X" n="0878c09"/><lb
+ ed="R003" n="0810b03"/><div type='' level='2'><ab type='prose'>如是我聞。一時佛在波羅捺鹿野園中。為阿若拘隣<lb
+ ed="X" n="0878c10"/><lb
+ ed="R003" n="0810b04"/>等五人。轉四諦法輪。時會中有一天子。名曰牛王神。<lb
+ ed="X" n="0878c11"/><lb
+ ed="R003" n="0810b05"/>即從座起。曲躬合掌。頂禮雙足而白佛言。世尊。我有<lb
+ ed="X" n="0878c12"/><lb
+ ed="R003" n="0810b06"/>隨心自在萬事滿足神呪。及利益諸有情故。唯願世<lb
+ ed="X" n="0878c13"/><lb
+ ed="R003" n="0810b07"/>尊。哀愍聽許我今欲說大神呪。爾時佛讚言。善哉速<lb
+ ed="X" n="0878c14"/><lb
+ ed="R003" n="0810b08"/>可演說。我欲聞。是時天子即說呪曰。<lb
+ ed="X" n="0878c15"/><lb
+ ed="R003" n="0810b09"/></ab>
+<ab type='dharani'>唵悉底嚕悉底嚕伴惹伴惹󴐺謨履底伽補瑟底<lb
+ ed="X" n="0878c16"/><lb
+ ed="R003" n="0810b10"/>伽阿毗遮阿毗遮真多摩尼莎賀<lb
+ ed="X" n="0878c17"/><lb
+ ed="R003" n="0810b11"/></ab>
+<ab type='prose'>時薄伽梵。聞說神呪。普觀一切。為諸有情利益安樂<lb
+ ed="X" n="0878c18"/><lb
+ ed="R003" n="0810b12"/>故。而說偈言。<lb
+ ed="X" n="0878c19"/><lb
+ ed="R003" n="0810b13"/></ab>
+<ab type='verse'>
+世間諸眾生　　逼切諸貧苦　　雖求資有福　　<lb
+ ed="X" n="0878c20"/><lb
+ ed="R003" n="0810b14"/>施與諸眾生　　令得無憂惱　　術力勝諸獸　　<lb
+ ed="X" n="0878c21"/><lb
+ ed="R003" n="0810b15"/>哀愍諸眾生　　施與諸珍寶　　滿足諸希求　　<lb
+ ed="X" n="0878c22"/><lb
+ ed="R003" n="0810b16"/>齊等諸天眾　　福力無等限　　
+</ab><lb
+ ed="X" n="0878c23"/><lb
+ ed="R003" n="0810b17"/><ab type='prose'>時薄伽仙毗吉那仙以歡喜信樂心。奉獻種種香華<lb
+ ed="X" n="0878c24"/><lb
+ ed="R003" n="0810b18"/>燈明。四事供養等。敬禮牛王神珠天。而說偈言。<pb ed="X" id="X02.0202.0879a" n="0879a"/><lb
+ ed="X" n="0879a01"/><lb
+ ed="R003" n="0811a01"/></ab>
+<ab type='verse'>
+塗香華鬘及燒香　　燈明飲食與錢帛　　<lb
+ ed="X" n="0879a02"/><lb
+ ed="R003" n="0811a02"/>奉獻牛王神獸天　　納受悅預增勢力　　<lb
+ ed="X" n="0879a03"/><lb
+ ed="R003" n="0811a03"/>威德神通遍諸色　　成種種色諸財寶　　<lb
+ ed="X" n="0879a04"/><lb
+ ed="R003" n="0811a04"/>施與一切眾生類　　故我供養神獸天　　
+</ab><lb
+ ed="X" n="0879a05"/><lb
+ ed="R003" n="0811a05"/><ab type='prose'>復次牛王珠天。白佛言世尊。若有諸善男子善女人。<lb
+ ed="X" n="0879a06"/><lb
+ ed="R003" n="0811a06"/>受持此經者。彼獲幾所福德聚。如是說已。佛告牛王<lb
+ ed="X" n="0879a07"/><lb
+ ed="R003" n="0811a07"/>珠。受持此經典者。從初發心乃至成佛。身所有福德<lb
+ ed="X" n="0879a08"/><lb
+ ed="R003" n="0811a08"/>聚。是善男子善女人福德聚。與彼正等。當如是知。彼<lb
+ ed="X" n="0879a09"/><lb
+ ed="R003" n="0811a09"/>善男子善女人。從如來口生佛心之子。若是善男子<lb
+ ed="X" n="0879a10"/><lb
+ ed="R003" n="0811a10"/>善女人所方所。即為有佛施作佛事。是故若樂摧破<lb
+ ed="X" n="0879a11"/><lb
+ ed="R003" n="0811a11"/>魔軍利樂一切。是故汝等欲得一切如來真實智惠<lb
+ ed="X" n="0879a12"/><lb
+ ed="R003" n="0811a12"/>者。應當一心讀誦此經。能速成就一切福德。又於題<lb
+ ed="X" n="0879a13"/><lb
+ ed="R003" n="0811a13"/>名。有五種靈驗。何等為五。第一受持人。能摧破魔軍<lb
+ ed="X" n="0879a14"/><lb
+ ed="R003" n="0811a14"/>眾。第二讀誦人。今世後世得福德無量。第三書寫供<lb
+ ed="X" n="0879a15"/><lb
+ ed="R003" n="0811a15"/>養人。今世後世得消滅無量億劫之所犯罪。至阿鼻<lb
+ ed="X" n="0879a16"/><lb
+ ed="R003" n="0811a16"/>拔致位。第四消除一切病苦壽命延長。第五得此寶<lb
+ ed="X" n="0879a17"/><lb
+ ed="R003" n="0811a17"/>珠一闕之分。致供養祭讀誦恭敬者。生生世世。轉諸<lb
+ ed="X" n="0879a18"/><lb
+ ed="R003" n="0811a18"/>貧苦報。能令得祕藏無盡果。爾時佛說此神呪經已。<lb
+ ed="X" n="0879a19"/><lb
+ ed="R003" n="0811b01"/>一切眾會。皆大歡喜。信受奉行。<lb
+ ed="X" n="0879a20"/><lb
+ ed="R003" n="0811b03"/>
+</ab><ab type='juan' subtype='close'>佛說大如意寶珠牛王守護神呪經</ab><lb
+ ed="X" n="0879a21"/><lb
+ ed="R003" n="0811b04"/><div type='w' level='3'><ab type='prose'>元應二年十一月二十八日以快玄得業本寫之<lb
+ ed="X" n="0879a22"/><lb
+ ed="R003" n="0811b05"/>竟金剛資賴心<lb
+ ed="X" n="0879a23"/><lb
+ ed="R003" n="0811b06"/>此書尾城南真福密寺藏祕本東南院任瑜法親<lb
+ ed="X" n="0879a24"/><lb
+ ed="R003" n="0811b07"/>王相傳之古本也。</ab></div></div></div>
+</body></text></TEI>

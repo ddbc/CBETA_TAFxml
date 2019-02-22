@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">般若心經說</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X26</biblScope>
+                    <idno type="Taisho">X26n0539</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X26.0539.0815b" n="0815b"/><lb
+ ed="X" n="0815b01"/><lb
+ ed="X" n="0815b02"/><lb
+ ed="R041" n="0819a01"/>
+<ab type='juan' subtype='open'>般若波羅蜜多心經說</ab><lb
+ ed="X" n="0815b03"/><lb
+ ed="X" n="0815b04"/><lb
+ ed="X" n="0815b05"/><lb
+ ed="R041" n="0819a02"/><byline>僧　真可　說</byline><lb
+ ed="X" n="0815b06"/><lb
+ ed="R041" n="0819a03"/><div type='' level='2'><ab type='prose'>夫心經一書乃世出世間聖賢豪傑之神術也是以<lb
+ ed="X" n="0815b07"/><lb
+ ed="R041" n="0819a04"/>得其旨者御大千而王天下如黠童牧羊鞭䇿指揮<lb
+ ed="X" n="0815b08"/><lb
+ ed="R041" n="0819a05"/>之間靡不得其所者也究其關鍵則照見五蘊皆空<lb
+ ed="X" n="0815b09"/><lb
+ ed="R041" n="0819a06"/>一句又此經之心焉今有人于此志在聞道而欲兼<lb
+ ed="X" n="0815b10"/><lb
+ ed="R041" n="0819a07"/>善一切舍是書而他求所謂夜行而棄燭非愚即狂<lb
+ ed="X" n="0815b11"/><lb
+ ed="R041" n="0819a08"/>矣大抵道之不明世之難治皆根于我相我相既立<lb
+ ed="X" n="0815b12"/><lb
+ ed="R041" n="0819a09"/>見可欲者即欣然而悅之悅之而不滿所懷即勃然<lb
+ ed="X" n="0815b13"/><lb
+ ed="R041" n="0819a10"/>而怒矣天機由是而塞好惡由是而偏以故本有智<lb
+ ed="X" n="0815b14"/><lb
+ ed="R041" n="0819a11"/>慧光明埋沒盡矣以日用而觀之則愛憎交戰于靈<lb
+ ed="X" n="0815b15"/><lb
+ ed="R041" n="0819a12"/>臺情識浮沈于寵辱以今古而觀之七雄五伯之相<lb
+ ed="X" n="0815b16"/><lb
+ ed="R041" n="0819a13"/>戮漢唐宋元之得失雖復盡善不盡善不可同年而<lb
+ ed="X" n="0815b17"/><lb
+ ed="R041" n="0819a14"/>語及乎非武則亂不可定非智則國不可守要而言<lb
+ ed="X" n="0815b18"/><lb
+ ed="R041" n="0819a15"/>之皆不出我相也是以真性日昧妄想日濃質朴日<lb
+ ed="X" n="0815b19"/><lb
+ ed="R041" n="0819a16"/>漓世道日下故曰以智治國國之賊有我治人物之<lb
+ ed="X" n="0815b20"/><lb
+ ed="R041" n="0819a17"/>敵夫賊之與敵雖父母施之于子必不能行寧惟不<lb
+ ed="X" n="0815b21"/><lb
+ ed="R041" n="0819a18"/>能行將必反目而攻之矣如來知我相之毒天下其<lb
+ ed="X" n="0815b22"/><lb
+ ed="R041" n="0819b01"/>害甚大所以即一念而開色心即色心而開五蘊即<lb
+ ed="X" n="0815b23"/><lb
+ ed="R041" n="0819b02"/>色塵而開十二處又即五蘊而開十八界使夫眾生<lb
+ ed="X" n="0815b24"/><lb
+ ed="R041" n="0819b03"/>悟知身執心執俱本于我相我相根本又生于無明<pb ed="X" id="X26.0539.0815c" n="0815c"/><lb
+ ed="X" n="0815c01"/><lb
+ ed="R041" n="0819b04"/>支支相緣苦集相起故達無明之所由生者則真牲<lb
+ ed="X" n="0815c02"/><lb
+ ed="R041" n="0819b05"/>自朗達色心無性者則一念不可得達五蘊無性則<lb
+ ed="X" n="0815c03"/><lb
+ ed="R041" n="0819b06"/>色心亦不可得達十二處之所由生者即如疱丁解<lb
+ ed="X" n="0815c04"/><lb
+ ed="R041" n="0819b07"/>牛了無全牛矣以十二處觀現前此身亦無全身可<lb
+ ed="X" n="0815c05"/><lb
+ ed="R041" n="0819b08"/>得也達十八界之所由生者則知色心二法外則析<lb
+ ed="X" n="0815c06"/><lb
+ ed="R041" n="0819b09"/>為六塵內則析為六根中則即將現前分別歷歷覺<lb
+ ed="X" n="0815c07"/><lb
+ ed="R041" n="0819b10"/>知之心又析為六識嘻非我佛大慈深悲則我相之<lb
+ ed="X" n="0815c08"/><lb
+ ed="R041" n="0819b11"/>根毒害之本眾苦之垢豈易拔易滌哉滌垢如寒濤<lb
+ ed="X" n="0815c09"/><lb
+ ed="R041" n="0819b12"/>漱石拔根如金剛破物漱之不已石必終易破之不<lb
+ ed="X" n="0815c10"/><lb
+ ed="R041" n="0819b13"/>已物必終空石易終穿物空我廢所謂若虧其一必<lb
+ ed="X" n="0815c11"/><lb
+ ed="R041" n="0819b14"/>喪其兩耳夫物我既忘則本心自露故曰靈光獨耀<lb
+ ed="X" n="0815c12"/><lb
+ ed="R041" n="0819b15"/>逈脫根塵也若夫將此光照出世則覺路可登照世<lb
+ ed="X" n="0815c13"/><lb
+ ed="R041" n="0819b16"/>間則古道可復余故曰心經一書世出世之神術也<lb
+ ed="X" n="0815c14"/><lb
+ ed="R041" n="0819b17"/>般若總部其名有八文則六百餘卷惟此經又六百<lb
+ ed="X" n="0815c15"/><lb
+ ed="R041" n="0819b18"/>卷雄文之關鍵也此經之關鍵又照見五蘊皆空一<lb
+ ed="X" n="0815c16"/><lb
+ ed="R041" n="0820a01"/>句是矣照見五蘊皆空又本乎色心二法色心二法<lb
+ ed="X" n="0815c17"/><lb
+ ed="R041" n="0820a02"/>又本乎瞥起一念瞥起一念又本乎真心惟真心初<lb
+ ed="X" n="0815c18"/><lb
+ ed="R041" n="0820a03"/>本澄湛本無根塵物我而獨立于五蘊之先絕無所<lb
+ ed="X" n="0815c19"/><lb
+ ed="R041" n="0820a04"/>感則一念瞥起所由雖大智高明之士扣其瞥起所<lb
+ ed="X" n="0815c20"/><lb
+ ed="R041" n="0820a05"/>由生竟無有能酬者也小子于此亦疑之久矣安得<lb
+ ed="X" n="0815c21"/><lb
+ ed="R041" n="0820a06"/>有破疑之大師我以身肉充供亦所甘心焉。<lb
+ ed="X" n="0815c22"/><lb
+ ed="R041" n="0820a07"/><lb
+ ed="X" n="0815c23"/><lb
+ ed="R041" n="0820a08"/>
+</ab><ab type='juan' subtype='close'>般若波羅蜜多心經說</ab><lb
+ ed="X" n="0815c24"/><lb
+ ed="R041" n="0820a09"/><pb ed="X" id="X26.0539.0816a" n="0816a"/><lb
+ ed="X" n="0816a01"/><lb
+ ed="R041" n="0820a10"/><div type='w' level='3'><ab type='prose'>師諱真可字達觀晚號紫栢其先句曲人父沈連<lb
+ ed="X" n="0816a02"/><lb
+ ed="R041" n="0820a11"/>季子世居吳江師年十七值虎丘明覺而出家二<lb
+ ed="X" n="0816a03"/><lb
+ ed="R041" n="0820a12"/>十受具戒後至京師參徧融禪師後入楞嚴寺興<lb
+ ed="X" n="0816a04"/><lb
+ ed="R041" n="0820a13"/>廢藏經萬曆癸卯十二月十七日寂世壽六十一。</ab></div></div></div>
+</body></text></TEI>

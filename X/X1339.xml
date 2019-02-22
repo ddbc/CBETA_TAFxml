@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">瑯琊慧覺禪師語錄（序）</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X69</biblScope>
+                    <idno type="Taisho">X69n1339</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X69.1339.0197b" n="0197b"/><lb
+ ed="X" n="0197b01"/>
+<ab type='juan' subtype='open'></ab><lb
+ ed="X" n="0197b02"/><div type='xu' level='1'><head>No. 1339-A<lb
+ ed="X" n="0197b03"/><lb
+ ed="R120" n="0186a08"/> 滁州琅邪山覺和尚中後四錄</head><lb
+ ed="X" n="0197b04"/><lb
+ ed="X" n="0197b05"/><lb
+ ed="R120" n="0186a09"/><byline>參學門人　用孫　序</byline><lb
+ ed="X" n="0197b06"/><lb
+ ed="R120" n="0186a10"/><ab type='prose'>夫宗師之出世居方者。抑而為之。提綱振維者。蓋不<lb
+ ed="X" n="0197b07"/><lb
+ ed="R120" n="0186a11"/>得已。雖以應其羣心之所來。而大抵之得人者。其在<lb
+ ed="X" n="0197b08"/><lb
+ ed="R120" n="0186a12"/>茲乎。故我<lb
+ ed="X" n="0197b09" type="honorific"/><lb
+ ed="R120" n="0186a13"/>琅邪禪師之出化也。四海雲奔。無所不至。大音雷發。<lb
+ ed="X" n="0197b10"/><lb
+ ed="R120" n="0186a14"/>無所不聞。其負雄經博論者徑徑勝其數。皆匿影吞<lb
+ ed="X" n="0197b11"/><lb
+ ed="R120" n="0186a15"/>聲于其左右。凡是提唱者。各有旨歸。蓋以應動觀機。<lb
+ ed="X" n="0197b12"/><lb
+ ed="R120" n="0186a16"/>事無虗發。或滯其語句者。則釋其所黏。或執其意解<lb
+ ed="X" n="0197b13"/><lb
+ ed="R120" n="0186a17"/>者。則除其所縛。或坐其向上者。則掇之於未然。或止<lb
+ ed="X" n="0197b14"/><lb
+ ed="R120" n="0186a18"/>其中下者。則擊之於已兆。或補其所闕。則正眼具全。<lb
+ ed="X" n="0197b15"/><lb
+ ed="R120" n="0186b01"/>或刪其所繁。則大意不紊。皆以離情妄。泯智照。然後<lb
+ ed="X" n="0197b16"/><lb
+ ed="R120" n="0186b02"/>真心現前。古今獨耀。隨方施設。一味齊收。猶如曦馭<lb
+ ed="X" n="0197b17"/><lb
+ ed="R120" n="0186b03"/>當畫。影現無垠。觀者四來。圓以隨對。其可得而盡之<lb
+ ed="X" n="0197b18"/><lb
+ ed="R120" n="0186b04"/>乎。門人元聚。久探師室。親承指誨。日有升舉。即而記<lb
+ ed="X" n="0197b19"/><lb
+ ed="R120" n="0186b05"/>之。凡百餘則。嗣以纂之。以閒干前後二錄。目之為中<lb
+ ed="X" n="0197b20"/><lb
+ ed="R120" n="0186b06"/>錄。於是乎。舉前後則中攝矣。舉中則前後盡矣。非離<lb
+ ed="X" n="0197b21"/><lb
+ ed="R120" n="0186b07"/>前後而趣其中。非離中而止其前後。中則無後前。前<lb
+ ed="X" n="0197b22"/><lb
+ ed="R120" n="0186b08"/>後則無中。<lb
+ ed="X" n="0197b23"/><lb
+ ed="R120" n="0186b09"/>師之大旨。一以貫之。其可得而思之耶。設肆目于其<lb
+ ed="X" n="0197b24"/><lb
+ ed="R120" n="0186b10"/>間者。若游滄海玩群龍之闕。俯視珍貝。心目燦然。不<pb ed="X" id="X69.1339.0197c" n="0197c"/><lb
+ ed="X" n="0197c01"/><lb
+ ed="R120" n="0186b11"/>暇應接耳。師之生緣受業得法。具載之別錄。不復煩<lb
+ ed="X" n="0197c02"/><lb
+ ed="R120" n="0186b12"/>紀。所謂開正法眼藏。直指以示人者。其惟我師。</ab></div>
+</body></text></TEI>

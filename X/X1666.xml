@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">佛祖心燈</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X88</biblScope>
+                    <idno type="Taisho">X88n1666</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div level='1'>
+<pb ed="X" id="X88.1666.0556c" n="0556c"/><lb
+ ed="X" n="0556c01"/><lb
+ ed="X" n="0556c02"/><lb
+ ed="X" n="0556c03"/><lb
+ ed="X" n="0556c04"/><lb
+ ed="X" n="0556c05"/><lb
+ ed="X" n="0556c06"/><lb
+ ed="X" n="0556c07"/><lb
+ ed="R150" n="0520a01"/>
+<ab type='juan' subtype='open'>佛祖心燈</ab><lb
+ ed="X" n="0556c08"/><lb
+ ed="R150" n="0520a02"/><lb
+ ed="X" n="0556c09"/><lb
+ ed="R150" n="0520a03"/><head>七佛偈</head><lb
+ ed="X" n="0556c10"/><lb
+ ed="R150" n="0520a04"/><head>毗婆尸佛</head><lb
+ ed="X" n="0556c11"/><lb
+ ed="R150" n="0520a05"/><ab type='verse'>
+身從無相中受生　　猶如幻出諸形像　　<lb
+ ed="X" n="0556c12"/><lb
+ ed="R150" n="0520a06"/>幻人心識本來無　　罪福皆空無所住　　
+</ab><lb
+ ed="X" n="0556c13"/><lb
+ ed="R150" n="0520a07"/><head>尸棄佛</head><lb
+ ed="X" n="0556c14"/><lb
+ ed="R150" n="0520a08"/><ab type='verse'>
+起諸善法本是幻　　造諸惡業亦是幻　　<lb
+ ed="X" n="0556c15"/><lb
+ ed="R150" n="0520a09"/>身如聚沫心如風　　幻出無根無實性　　
+</ab><lb
+ ed="X" n="0556c16"/><lb
+ ed="R150" n="0520a10"/><head>毗舍浮佛</head><lb
+ ed="X" n="0556c17"/><lb
+ ed="R150" n="0520a11"/><ab type='verse'>
+假借四大以為身　　心本無生因境有　　<lb
+ ed="X" n="0556c18"/><lb
+ ed="R150" n="0520a12"/>前境若無心亦無　　罪福如幻起亦滅　　
+</ab><lb
+ ed="X" n="0556c19"/><lb
+ ed="R150" n="0520a13"/><head>拘留孫佛</head><lb
+ ed="X" n="0556c20"/><lb
+ ed="R150" n="0520a14"/><ab type='verse'>
+見身無實是佛身　　了心如幻是佛幻　　<lb
+ ed="X" n="0556c21"/><lb
+ ed="R150" n="0520a15"/>了得身心本性空　　斯人與佛何殊別　　
+</ab><lb
+ ed="X" n="0556c22"/><lb
+ ed="R150" n="0520a16"/><head>拘那含牟尼佛</head><lb
+ ed="X" n="0556c23"/><lb
+ ed="R150" n="0520a17"/><ab type='verse'>
+佛不見身知是佛　　若是有知別無佛　　<lb
+ ed="X" n="0556c24"/><lb
+ ed="R150" n="0520a18"/>智者能知罪性空　　坦然不怖於生死　　
+</ab><pb ed="X" id="X88.1666.0557a" n="0557a"/><lb
+ ed="X" n="0557a01"/><lb
+ ed="R150" n="0520b01"/><head>迦葉佛</head><lb
+ ed="X" n="0557a02"/><lb
+ ed="R150" n="0520b02"/><ab type='verse'>
+一切眾生心清淨　　從本無生無可滅　　<lb
+ ed="X" n="0557a03"/><lb
+ ed="R150" n="0520b03"/>即此身心是幻生　　幻化之中無罪福　　
+</ab><lb
+ ed="X" n="0557a04"/><lb
+ ed="R150" n="0520b04"/><head>釋迦牟尼佛</head><lb
+ ed="X" n="0557a05"/><lb
+ ed="R150" n="0520b05"/><ab type='verse'>
+法本法無法　　無法法亦法　　今付無法時　　<lb
+ ed="X" n="0557a06"/><lb
+ ed="R150" n="0520b06"/>法法何曾法　　
+</ab><lb
+ ed="X" n="0557a07"/><lb
+ ed="R150" n="0520b07"/><head>三十三祖傳法偈</head><lb
+ ed="X" n="0557a08"/><lb
+ ed="R150" n="0520b08"/><head>摩訶迦葉</head><lb
+ ed="X" n="0557a09"/><lb
+ ed="R150" n="0520b09"/><ab type='verse'>
+法法本來法　　無法無非法　　何於一法中　　<lb
+ ed="X" n="0557a10"/><lb
+ ed="R150" n="0520b10"/>有法有非法　　
+</ab><lb
+ ed="X" n="0557a11"/><lb
+ ed="R150" n="0520b11"/><head>阿難</head><lb
+ ed="X" n="0557a12"/><lb
+ ed="R150" n="0520b12"/><ab type='verse'>
+本來付有法　　付了言無法　　各各須自悟　　<lb
+ ed="X" n="0557a13"/><lb
+ ed="R150" n="0520b13"/>悟了無無法　　
+</ab><lb
+ ed="X" n="0557a14"/><lb
+ ed="R150" n="0520b14"/><head>商那和修</head><lb
+ ed="X" n="0557a15"/><lb
+ ed="R150" n="0520b15"/><ab type='verse'>
+非法亦非心　　無心亦無法　　說是心法時　　<lb
+ ed="X" n="0557a16"/><lb
+ ed="R150" n="0520b16"/>是法非心法　　
+</ab><lb
+ ed="X" n="0557a17"/><lb
+ ed="R150" n="0520b17"/><head>優婆毱多</head><lb
+ ed="X" n="0557a18"/><lb
+ ed="R150" n="0520b18"/><ab type='verse'>
+心自本來心　　本心非有法　　有法有本心　　<lb
+ ed="X" n="0557a19"/><lb
+ ed="R150" n="0521a01"/>非心非本法　　
+</ab><lb
+ ed="X" n="0557a20"/><lb
+ ed="R150" n="0521a02"/><head>提多迦</head><lb
+ ed="X" n="0557a21"/><lb
+ ed="R150" n="0521a03"/><ab type='verse'>
+通達本心法　　無法無非法　　悟了同未悟　　<lb
+ ed="X" n="0557a22"/><lb
+ ed="R150" n="0521a04"/>無心亦無法　　
+</ab><lb
+ ed="X" n="0557a23"/><lb
+ ed="R150" n="0521a05"/><head>彌遮迦</head><lb
+ ed="X" n="0557a24"/><lb
+ ed="R150" n="0521a06"/><ab type='verse'>
+無心無可得　　說得不名法　　若了心非心　　<pb ed="X" id="X88.1666.0557b" n="0557b"/><lb
+ ed="X" n="0557b01"/><lb
+ ed="R150" n="0521a07"/>始了心心法　　
+</ab><lb
+ ed="X" n="0557b02"/><lb
+ ed="R150" n="0521a08"/><head>婆須蜜</head><lb
+ ed="X" n="0557b03"/><lb
+ ed="R150" n="0521a09"/><ab type='verse'>
+心同虗空界　　示等虗空法　　證得虗空時　　<lb
+ ed="X" n="0557b04"/><lb
+ ed="R150" n="0521a10"/>無是無非法　　
+</ab><lb
+ ed="X" n="0557b05"/><lb
+ ed="R150" n="0521a11"/><head>佛陀難提</head><lb
+ ed="X" n="0557b06"/><lb
+ ed="R150" n="0521a12"/><ab type='verse'>
+虗空無內外　　心法亦如此　　若了虗空故　　<lb
+ ed="X" n="0557b07"/><lb
+ ed="R150" n="0521a13"/>是達真如理　　
+</ab><lb
+ ed="X" n="0557b08"/><lb
+ ed="R150" n="0521a14"/><head>伏䭾蜜多</head><lb
+ ed="X" n="0557b09"/><lb
+ ed="R150" n="0521a15"/><ab type='verse'>
+真理不無名　　因名顯真理　　受得真實法　　<lb
+ ed="X" n="0557b10"/><lb
+ ed="R150" n="0521a16"/>非真亦非偽　　
+</ab><lb
+ ed="X" n="0557b11"/><lb
+ ed="R150" n="0521a17"/><head>脇尊者</head><lb
+ ed="X" n="0557b12"/><lb
+ ed="R150" n="0521a18"/><ab type='verse'>
+真體自然真　　因真說有理　　領得真真法　　<lb
+ ed="X" n="0557b13"/><lb
+ ed="R150" n="0521b01"/>無行亦無止　　
+</ab><lb
+ ed="X" n="0557b14"/><lb
+ ed="R150" n="0521b02"/><head>富那夜奢</head><lb
+ ed="X" n="0557b15"/><lb
+ ed="R150" n="0521b03"/><ab type='verse'>
+迷悟如隱顯　　明暗不相離　　今付隱顯法　　<lb
+ ed="X" n="0557b16"/><lb
+ ed="R150" n="0521b04"/>非一亦非二　　
+</ab><lb
+ ed="X" n="0557b17"/><lb
+ ed="R150" n="0521b05"/><head>馬鳴大士</head><lb
+ ed="X" n="0557b18"/><lb
+ ed="R150" n="0521b06"/><ab type='verse'>
+隱顯即本法　　明暗元不二　　今付悟了法　　<lb
+ ed="X" n="0557b19"/><lb
+ ed="R150" n="0521b07"/>非取亦非離　　
+</ab><lb
+ ed="X" n="0557b20"/><lb
+ ed="R150" n="0521b08"/><head>迦毗摩羅</head><lb
+ ed="X" n="0557b21"/><lb
+ ed="R150" n="0521b09"/><ab type='verse'>
+非隱非顯法　　說是真實際　　悟此隱顯法　　<lb
+ ed="X" n="0557b22"/><lb
+ ed="R150" n="0521b10"/>非愚亦非智　　
+</ab><lb
+ ed="X" n="0557b23"/><lb
+ ed="R150" n="0521b11"/><head>龍樹尊者</head><lb
+ ed="X" n="0557b24"/><lb
+ ed="R150" n="0521b12"/><ab type='verse'>
+為明隱顯法　　方說解脫理　　於法心不證　　<pb ed="X" id="X88.1666.0557c" n="0557c"/><lb
+ ed="X" n="0557c01"/><lb
+ ed="R150" n="0521b13"/>無瞋亦無喜　　
+</ab><lb
+ ed="X" n="0557c02"/><lb
+ ed="R150" n="0521b14"/><head>迦那提婆</head><lb
+ ed="X" n="0557c03"/><lb
+ ed="R150" n="0521b15"/><ab type='verse'>
+本對傳法人　　為說解脫理　　於法實無證　　<lb
+ ed="X" n="0557c04"/><lb
+ ed="R150" n="0521b16"/>無終亦無始　　
+</ab><lb
+ ed="X" n="0557c05"/><lb
+ ed="R150" n="0521b17"/><head>羅睺羅多</head><lb
+ ed="X" n="0557c06"/><lb
+ ed="R150" n="0521b18"/><ab type='verse'>
+於法實無證　　不取亦不離　　法非有無相　　<lb
+ ed="X" n="0557c07"/><lb
+ ed="R150" n="0522a01"/>內外云何起　　
+</ab><lb
+ ed="X" n="0557c08"/><lb
+ ed="R150" n="0522a02"/><head>僧迦難提</head><lb
+ ed="X" n="0557c09"/><lb
+ ed="R150" n="0522a03"/><ab type='verse'>
+心地本無生　　因地從緣起　　緣種不相妨　　<lb
+ ed="X" n="0557c10"/><lb
+ ed="R150" n="0522a04"/>華果亦復爾　　
+</ab><lb
+ ed="X" n="0557c11"/><lb
+ ed="R150" n="0522a05"/><head>伽耶舍多</head><lb
+ ed="X" n="0557c12"/><lb
+ ed="R150" n="0522a06"/><ab type='verse'>
+有種有心地　　因緣能發萌　　於緣不相礙　　<lb
+ ed="X" n="0557c13"/><lb
+ ed="R150" n="0522a07"/>當生生不生　　
+</ab><lb
+ ed="X" n="0557c14"/><lb
+ ed="R150" n="0522a08"/><head>鳩摩羅多</head><lb
+ ed="X" n="0557c15"/><lb
+ ed="R150" n="0522a09"/><ab type='verse'>
+性上本無生　　為對求人說　　於法既無得　　<lb
+ ed="X" n="0557c16"/><lb
+ ed="R150" n="0522a10"/>何懷決不決　　
+</ab><lb
+ ed="X" n="0557c17"/><lb
+ ed="R150" n="0522a11"/><head>闍夜多</head><lb
+ ed="X" n="0557c18"/><lb
+ ed="R150" n="0522a12"/><ab type='verse'>
+言下合無生　　同於法界性　　若能如是解　　<lb
+ ed="X" n="0557c19"/><lb
+ ed="R150" n="0522a13"/>通達事理境　　
+</ab><lb
+ ed="X" n="0557c20"/><lb
+ ed="R150" n="0522a14"/><head>婆修盤頭</head><lb
+ ed="X" n="0557c21"/><lb
+ ed="R150" n="0522a15"/><ab type='verse'>
+泡幻同無礙　　如何不了悟　　達法在其中　　<lb
+ ed="X" n="0557c22"/><lb
+ ed="R150" n="0522a16"/>非今亦非古　　
+</ab><lb
+ ed="X" n="0557c23"/><lb
+ ed="R150" n="0522a17"/><head>摩拏羅</head><lb
+ ed="X" n="0557c24"/><lb
+ ed="R150" n="0522a18"/><ab type='verse'>
+心隨萬境轉　　轉處實能幽　　隨流認得性　　<pb ed="X" id="X88.1666.0558a" n="0558a"/><lb
+ ed="X" n="0558a01"/><lb
+ ed="R150" n="0522b01"/>無喜復無憂　　
+</ab><lb
+ ed="X" n="0558a02"/><lb
+ ed="R150" n="0522b02"/><head>󳬈勒那</head><lb
+ ed="X" n="0558a03"/><lb
+ ed="R150" n="0522b03"/><ab type='verse'>
+認得心性時　　可說不思議　　了了無可得　　<lb
+ ed="X" n="0558a04"/><lb
+ ed="R150" n="0522b04"/>得時不說知　　
+</ab><lb
+ ed="X" n="0558a05"/><lb
+ ed="R150" n="0522b05"/><head>師子比丘</head><lb
+ ed="X" n="0558a06"/><lb
+ ed="R150" n="0522b06"/><ab type='verse'>
+正說知見時　　知見俱是心　　當心即知見　　<lb
+ ed="X" n="0558a07"/><lb
+ ed="R150" n="0522b07"/>知見即於今　　
+</ab><lb
+ ed="X" n="0558a08"/><lb
+ ed="R150" n="0522b08"/><head>婆舍斯多</head><lb
+ ed="X" n="0558a09"/><lb
+ ed="R150" n="0522b09"/><ab type='verse'>
+聖人說知見　　當境無是非　　我今悟真性　　<lb
+ ed="X" n="0558a10"/><lb
+ ed="R150" n="0522b10"/>無道亦無理　　
+</ab><lb
+ ed="X" n="0558a11"/><lb
+ ed="R150" n="0522b11"/><head>不如密多</head><lb
+ ed="X" n="0558a12"/><lb
+ ed="R150" n="0522b12"/><ab type='verse'>
+真性心地藏　　無頭亦無尾　　應緣而化物　　<lb
+ ed="X" n="0558a13"/><lb
+ ed="R150" n="0522b13"/>方便呼為智　　
+</ab><lb
+ ed="X" n="0558a14"/><lb
+ ed="R150" n="0522b14"/><head>般若多羅</head><lb
+ ed="X" n="0558a15"/><lb
+ ed="R150" n="0522b15"/><ab type='verse'>
+心地生諸種　　因事復生理　　果滿菩提圓　　<lb
+ ed="X" n="0558a16"/><lb
+ ed="R150" n="0522b16"/>華開世界起　　
+</ab><lb
+ ed="X" n="0558a17"/><lb
+ ed="R150" n="0522b17"/><head>菩提達磨</head><lb
+ ed="X" n="0558a18"/><lb
+ ed="R150" n="0522b18"/><ab type='verse'>
+吾本來茲土　　傳法救迷情　　一華開五葉　　<lb
+ ed="X" n="0558a19"/><lb
+ ed="R150" n="0523a01"/>結果自然成　　
+</ab><lb
+ ed="X" n="0558a20"/><lb
+ ed="R150" n="0523a02"/><head>慧可大師</head><lb
+ ed="X" n="0558a21"/><lb
+ ed="R150" n="0523a03"/><ab type='verse'>
+本來緣有地　　因地種華生　　本來無有種　　<lb
+ ed="X" n="0558a22"/><lb
+ ed="R150" n="0523a04"/>華亦不曾生　　
+</ab><lb
+ ed="X" n="0558a23"/><lb
+ ed="R150" n="0523a05"/><head>僧璨大師</head><lb
+ ed="X" n="0558a24"/><lb
+ ed="R150" n="0523a06"/><ab type='verse'>
+華種雖因地　　從地種華生　　若無人下種　　<pb ed="X" id="X88.1666.0558b" n="0558b"/><lb
+ ed="X" n="0558b01"/><lb
+ ed="R150" n="0523a07"/>華地盡無生　　
+</ab><lb
+ ed="X" n="0558b02"/><lb
+ ed="R150" n="0523a08"/><head>道信大師</head><lb
+ ed="X" n="0558b03"/><lb
+ ed="R150" n="0523a09"/><ab type='verse'>
+華種有生性　　因地華生生　　大緣與信合　　<lb
+ ed="X" n="0558b04"/><lb
+ ed="R150" n="0523a10"/>當生生不生　　
+</ab><lb
+ ed="X" n="0558b05"/><lb
+ ed="R150" n="0523a11"/><head>弘忍大師</head><lb
+ ed="X" n="0558b06"/><lb
+ ed="R150" n="0523a12"/><ab type='verse'>
+有情來下種　　因地果還生　　無情既無種　　<lb
+ ed="X" n="0558b07"/><lb
+ ed="R150" n="0523a13"/>無性亦無生　　
+</ab><lb
+ ed="X" n="0558b08"/><lb
+ ed="R150" n="0523a14"/><head>慧能大師</head><lb
+ ed="X" n="0558b09"/><lb
+ ed="R150" n="0523a15"/><ab type='verse'>
+心地含諸種　　普雨悉皆生　　頓悟華情已　　<lb
+ ed="X" n="0558b10"/><lb
+ ed="R150" n="0523a16"/>菩提果自成　　
+</ab><lb
+ ed="X" n="0558b11"/><lb
+ ed="R150" n="0523a17"/><lb
+ ed="X" n="0558b12"/><lb
+ ed="R150" n="0523a18"/><lb
+ ed="X" n="0558b13"/><lb
+ ed="X" n="0558b14"/><lb
+ ed="R150" n="0523b01"/><head>佛祖源流訣</head><lb
+ ed="X" n="0558b15"/><lb
+ ed="R150" n="0523b02"/><ab type='verse'>
+迦文迦葉阿難商　　優波毱多與提多　　<lb
+ ed="X" n="0558b16"/><lb
+ ed="R150" n="0523b03"/>彌迦婆須佛䭾伏　　脇富馬鳴迦毗摩　　<lb
+ ed="X" n="0558b17"/><lb
+ ed="R150" n="0523b04"/>龍樹迦那於羅睺　　僧伽伽耶鳩摩羅　　<lb
+ ed="X" n="0558b18"/><lb
+ ed="R150" n="0523b05"/>闍夜婆修摩拏󳬈　　師子婆舍不如般　　<lb
+ ed="X" n="0558b19"/><lb
+ ed="R150" n="0523b06"/>達磨傳於東土後　　慧僧道弘慧之他　　
+</ab><lb
+ ed="X" n="0558b20"/><lb
+ ed="X" n="0558b21"/><lb
+ ed="X" n="0558b22"/><lb
+ ed="X" n="0558b23"/><lb
+ ed="X" n="0558b24"/><lb
+ ed="R150" n="0523b07"/><pb ed="X" id="X88.1666.0558c" n="0558c"/><lb
+ ed="X" n="0558c01"/><lb
+ ed="R150" n="0523b08"/><head>五宗次序譜</head><lb
+ ed="X" n="0558c02"/><lb
+ ed="R150" n="0523b12"/>六祖能<lb
+ ed="X" n="0558c03"/><lb
+ ed="R150" n="0523b12"/>南嶽讓<lb
+ ed="X" n="0558c04"/><lb
+ ed="R150" n="0523b12"/>馬祖一<lb
+ ed="X" n="0558c05"/><lb
+ ed="R150" n="0523b12"/>百丈海<lb
+ ed="X" n="0558c06"/><lb
+ ed="R150" n="0523b12"/>溈山祐<lb
+ ed="X" n="0558c07"/><lb
+ ed="R150" n="0523b12"/>仰山寂<lb
+ ed="X" n="0558c08"/><lb
+ ed="R150" n="0523b12"/>黃檗運<lb
+ ed="X" n="0558c09"/><lb
+ ed="R150" n="0523b12"/>臨濟玄<lb
+ ed="X" n="0558c10"/><lb
+ ed="R150" n="0523b12"/>青原思<lb
+ ed="X" n="0558c11"/><lb
+ ed="R150" n="0523b12"/>石頭遷<lb
+ ed="X" n="0558c12"/><lb
+ ed="R150" n="0523b12"/>藥山儼<lb
+ ed="X" n="0558c13"/><lb
+ ed="R150" n="0523b12"/>雲巖晟<lb
+ ed="X" n="0558c14"/><lb
+ ed="R150" n="0523b12"/>洞山价<lb
+ ed="X" n="0558c15"/><lb
+ ed="R150" n="0523b12"/>雲居膺<lb
+ ed="X" n="0558c16"/><lb
+ ed="R150" n="0523b12"/>曹山寂<lb
+ ed="X" n="0558c17"/><lb
+ ed="R150" n="0523b12"/>天皇悟<lb
+ ed="X" n="0558c18"/><lb
+ ed="R150" n="0523b12"/>龍潭信<lb
+ ed="X" n="0558c19"/><lb
+ ed="R150" n="0523b12"/>德山鑑<lb
+ ed="X" n="0558c20"/><lb
+ ed="R150" n="0523b12"/>雪峰存<lb
+ ed="X" n="0558c21"/><lb
+ ed="R150" n="0523b12"/>雲門偃<lb
+ ed="X" n="0558c22"/><lb
+ ed="R150" n="0523b12"/>玄沙備<lb
+ ed="X" n="0558c23"/><lb
+ ed="R150" n="0523b12"/>地藏琛<lb
+ ed="X" n="0558c24"/><lb
+ ed="R150" n="0523b12"/>法眼益</div>
+</body></text></TEI>

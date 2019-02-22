@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">相宗八要</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X55</biblScope>
+                    <idno type="Taisho">X55n0899</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X55.0899.0471c" n="0471c"/><lb
+ ed="X" n="0471c01"/><lb
+ ed="X" n="0471c02"/><lb
+ ed="X" n="0471c03"/><lb
+ ed="X" n="0471c04"/><lb
+ ed="X" n="0471c05"/><div type='xu' level='1'><head>No. 899-A<lb
+ ed="X" n="0471c06"/><lb
+ ed="R098" n="0684a01"/> 因明入正理論題辭</head><lb
+ ed="X" n="0471c07"/><lb
+ ed="X" n="0471c08"/><lb
+ ed="R098" n="0684a02"/><ab type='prose'>諸法本因曰正理。徹諸法本因曰正智。理由智顯。宗<lb
+ ed="X" n="0471c09"/><lb
+ ed="R098" n="0684a03"/>假因明。因智為能入。正理為所入。菩薩證真現量真<lb
+ ed="X" n="0471c10"/><lb
+ ed="R098" n="0684a04"/>比量。故有真能立真能破。以智照理。以自悟他。故曰<lb
+ ed="X" n="0471c11"/><lb
+ ed="R098" n="0684a05"/>因明入正理。如立真如則入真如正理。立唯識則入<lb
+ ed="X" n="0471c12"/><lb
+ ed="R098" n="0684a06"/>唯識正理。立無常則入無常正理。苟非證真之人。則<lb
+ ed="X" n="0471c13"/><lb
+ ed="R098" n="0684a07"/>一開口而三十三過隨之。立量豈易乎哉。譬如禮樂<lb
+ ed="X" n="0471c14"/><lb
+ ed="R098" n="0684a08"/>征伐自天子出。則諸候拱手聽命。而天下治。自諸候<lb
+ ed="X" n="0471c15"/><lb
+ ed="R098" n="0684a09"/>大夫出。則四夷交侵。民無所措其手足矣。故閱此論<lb
+ ed="X" n="0471c16"/><lb
+ ed="R098" n="0684a10"/>者。如客兒閱帝王世譜。雖知昭穆次序。而不能冐神<lb
+ ed="X" n="0471c17"/><lb
+ ed="R098" n="0684a11"/>明之胄。又如盡識三千律條。而身非刑官。遂欲加之<lb
+ ed="X" n="0471c18"/><lb
+ ed="R098" n="0684a12"/>有罪。其誰服之。然則學者所急。務在證真哉。務在證<lb
+ ed="X" n="0471c19"/><lb
+ ed="R098" n="0684a13"/>真哉。秀水真實居士　馮夢禎　題</ab></div><lb
+ ed="X" n="0471c20"/><lb
+ ed="X" n="0471c21"/>
+</body></text></TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">二十八夜叉大軍王名號</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X02</biblScope>
+                    <idno type="Taisho">X02n0183</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X02.0183.0839c" n="0839c"/><lb
+ ed="X" n="0839c01"/><lb
+ ed="X" n="0839c02"/><lb
+ ed="X" n="0839c03"/><lb
+ ed="X" n="0839c04"/><lb
+ ed="X" n="0839c05"/><lb
+ ed="X" n="0839c06"/><lb
+ ed="R003" n="0736b01"/>
+<ab type='juan' subtype='open'>二十八夜叉大軍王名號</ab><lb
+ ed="X" n="0839c07"/><lb
+ ed="X" n="0839c08"/><lb
+ ed="R003" n="0736b02"/><byline>三藏法師僧伽婆羅譯抄之</byline><lb
+ ed="X" n="0839c09"/><lb
+ ed="R003" n="0736b03"/><div type='' level='1'><ab type='prose'>佛告阿難汝當受持二十八夜叉大軍王名守護十<lb
+ ed="X" n="0839c10"/><lb
+ ed="R003" n="0736b04"/>方國土阿難有四夜叉大軍主住在東方常守護東<lb
+ ed="X" n="0839c11"/><lb
+ ed="R003" n="0736b05"/>方其名如是。<lb
+ ed="X" n="0839c12"/><lb
+ ed="R003" n="0736b06"/>地珂修涅多羅分那柯迦毗羅<lb
+ ed="X" n="0839c13"/><lb
+ ed="R003" n="0736b07"/>阿難南方復有四夜叉住在南方常守護南方其名<lb
+ ed="X" n="0839c14"/><lb
+ ed="R003" n="0736b08"/>如是。<lb
+ ed="X" n="0839c15"/><lb
+ ed="R003" n="0736b09"/>僧伽優婆僧伽償起羅旃陀那<lb
+ ed="X" n="0839c17"/><lb
+ ed="R003" n="0736b11"/>阿難西方復有四夜叉住在西方守護西方其名如<lb
+ ed="X" n="0839c18"/><lb
+ ed="R003" n="0736b12"/>是。<lb
+ ed="X" n="0839c19"/><lb
+ ed="R003" n="0736b13"/>訶利訶利枳舍波羅赴冰伽羅<lb
+ ed="X" n="0839c21"/><lb
+ ed="R003" n="0736b15"/>阿難北方復有四夜叉住在北方常守護北方其名<lb
+ ed="X" n="0839c22"/><lb
+ ed="R003" n="0736b16"/>如是。<lb
+ ed="X" n="0839c23"/><lb
+ ed="R003" n="0736b17"/>陀羅那陀羅難陀󳬂庾伽波羅別他<lb
+ ed="X" n="0839c24"/><lb
+ ed="R003" n="0736b18"/>那<pb ed="X" id="X02.0183.0840a" n="0840a"/><lb
+ ed="X" n="0840a01"/><lb
+ ed="R003" n="0737a01"/>阿難四維有四夜叉住在四維常守護四維其名如<lb
+ ed="X" n="0840a02"/><lb
+ ed="R003" n="0737a02"/>是。<lb
+ ed="X" n="0840a03"/><lb
+ ed="R003" n="0737a03"/>般止柯遮般遮羅旃陀莎多祁梨𨢸遮波多<lb
+ ed="X" n="0840a05"/><lb
+ ed="R003" n="0737a05"/>阿難下方有四夜叉大軍主住在下方常守護下方<lb
+ ed="X" n="0840a06"/><lb
+ ed="R003" n="0737a06"/>其名如是。<lb
+ ed="X" n="0840a07"/><lb
+ ed="R003" n="0737a07"/>部摩修部摩柯羅優波柯羅<lb
+ ed="X" n="0840a08"/><lb
+ ed="R003" n="0737a08"/>阿難上方有四夜叉大軍主住在上方常守護上方<lb
+ ed="X" n="0840a09"/><lb
+ ed="R003" n="0737a09"/>其名如是。<lb
+ ed="X" n="0840a10"/><lb
+ ed="R003" n="0737a10"/>蘇摩修利惡祁尼婆牖<lb
+ ed="X" n="0840a11"/><lb
+ ed="R003" n="0737a11"/>佛為阿難說二十八部夜叉大軍主大威神利益相<lb
+ ed="X" n="0840a12"/><lb
+ ed="R003" n="0737a12"/>已此法名為鎮護國法。<lb
+ ed="X" n="0840a13"/><lb
+ ed="X" n="0840a14"/><lb
+ ed="R003" n="0737a13"/>
+</ab><ab type='juan' subtype='close'>二十八夜叉大軍王名號</ab></div>
+</body></text></TEI>

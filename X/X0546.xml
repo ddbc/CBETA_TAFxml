@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">般若心經說</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X26</biblScope>
+                    <idno type="Taisho">X26n0546</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X26.0546.0841c" n="0841c"/><lb
+ ed="X" n="0841c01"/><lb
+ ed="X" n="0841c02"/><lb
+ ed="X" n="0841c03"/><lb
+ ed="R041" n="0869b01"/>
+<ab type='juan' subtype='open'>心經說</ab><lb
+ ed="X" n="0841c04"/><lb
+ ed="X" n="0841c05"/><lb
+ ed="R041" n="0869b02"/><byline>雪浪釋　洪恩　述</byline><lb
+ ed="X" n="0841c06"/><lb
+ ed="R041" n="0869b03"/><div type='' level='1'><ab type='prose'>般若心經。是世尊以人顯法。照見蘊空。而明甚深般<lb
+ ed="X" n="0841c07"/><lb
+ ed="R041" n="0869b04"/>若也。恐人不解。故自釋之曰。照見五蘊皆空度一切<lb
+ ed="X" n="0841c08"/><lb
+ ed="R041" n="0869b05"/>苦厄。何為蘊空。以其色即是空。空即是色。而受想行<lb
+ ed="X" n="0841c09"/><lb
+ ed="R041" n="0869b06"/>識。莫不皆空也。恐人不知色即是空之旨。而復釋之<lb
+ ed="X" n="0841c10"/><lb
+ ed="R041" n="0869b07"/>曰。是諸法空相。即五蘊之中。生而本自不生。滅亦元<lb
+ ed="X" n="0841c11"/><lb
+ ed="R041" n="0869b08"/>無有滅。不垢不淨不增不減者。既此空相。雖具五蘊<lb
+ ed="X" n="0841c12"/><lb
+ ed="R041" n="0869b09"/>諸法。而原無生滅垢淨增減。則無色無受想行識明<lb
+ ed="X" n="0841c13"/><lb
+ ed="R041" n="0869b10"/>矣。是為照見五蘊皆空。五蘊既空。則世之根塵識三。<lb
+ ed="X" n="0841c14"/><lb
+ ed="R041" n="0869b11"/>出世之四諦十二緣。以至能證所證。莫不皆空。既無<lb
+ ed="X" n="0841c15"/><lb
+ ed="R041" n="0869b12"/>世之陰界。則亦無出世智得也。能所既忘。五蘊何有。<lb
+ ed="X" n="0841c16"/><lb
+ ed="R041" n="0869b13"/>故都無所得。方名甚深般若。菩薩依此。而心無罣礙。<lb
+ ed="X" n="0841c17"/><lb
+ ed="R041" n="0869b14"/>恐怖遠離顛倒夢想。能至究竟涅槃。三世諸佛依此。<lb
+ ed="X" n="0841c18"/><lb
+ ed="R041" n="0869b15"/>而阿耨菩提可得。五住結盡。二死俱忘。何苦惱厄難<lb
+ ed="X" n="0841c19"/><lb
+ ed="R041" n="0869b16"/>而不度耶。皆由照見蘊空。而能如是。故讚嘆之曰。而<lb
+ ed="X" n="0841c20"/><lb
+ ed="R041" n="0869b17"/>此蘊空甚深般若。是大明呪神呪。以其能革凡成聖。<lb
+ ed="X" n="0841c21"/><lb
+ ed="R041" n="0869b18"/>如果裸之呪螟蛉。而不自知。恐人不信。復曰。能除一<lb
+ ed="X" n="0841c22"/><lb
+ ed="R041" n="0870a01"/>切苦。真實不虗。後說密呪。使人斷言語息思想。而契<lb
+ ed="X" n="0841c23"/><lb
+ ed="R041" n="0870a02"/>此蘊空般若也。此則但離妄緣。即如如佛。而觀世音<lb
+ ed="X" n="0841c24"/><lb
+ ed="R041" n="0870a03"/>能行此耳。故名自在。以至六百卷大經。以此為心。如<pb ed="X" id="X26.0546.0842a" n="0842a"/><lb
+ ed="X" n="0842a01"/><lb
+ ed="R041" n="0870a04"/>人之有心。以為一身之主耳。何等簡易直截明白。而<lb
+ ed="X" n="0842a02"/><lb
+ ed="R041" n="0870a05"/>世之裨販之徒。自衒自媒。妄談般若。󴖚橫生穿鑿。牽<lb
+ ed="X" n="0842a03"/><lb
+ ed="R041" n="0870a06"/>枝引蔓。礙正知見。一盲唱之於前。百盲從而和之於<lb
+ ed="X" n="0842a04"/><lb
+ ed="R041" n="0870a07"/>後。瞎人眼目。徒增業苦。予憫無聞後進。蔓草難除。佛<lb
+ ed="X" n="0842a05"/><lb
+ ed="R041" n="0870a08"/>燈欲滅。故不得已隨筆。略記經之首尾之旨如是。以<lb
+ ed="X" n="0842a06"/><lb
+ ed="R041" n="0870a09"/>俟知言。大似揚聲止響。予欲無言可乎。<lb
+ ed="X" n="0842a07"/><lb
+ ed="R041" n="0870a10"/><lb
+ ed="X" n="0842a08"/><lb
+ ed="R041" n="0870a11"/>
+</ab><ab type='juan' subtype='close'>心經說</ab></div>
+</body></text></TEI>

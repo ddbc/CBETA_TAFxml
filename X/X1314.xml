@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">CBETA電子佛典(量化分析版)</title>
+                <title type="subordinate">古尊宿語錄目錄</title>
+                <author>Dharma Drum Buddhist College, Library and Information Center, Digital
+                    Archives Section 法鼓佛教學院 圖書資訊館 數位典藏組</author>
+                <sponsor>國家科學委員會</sponsor>
+                <principal>Jen Jou (Joey) Hung, 洪振洲</principal>
+                <respStmt>
+                    <resp>資料轉換</resp>
+                    <name>周邦信</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>法鼓佛教學院</publisher>
+                <address>
+                    <addrLine>20842 新北市金山區法鼓路620號</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
+                </address>
+                <date>2012-2016</date>
+                <availability>
+                    <p>This document is published under a CC Attribution-Share Alike License</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">CBETA 電子佛典集成</title>
+                    <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
+                    <pubPlace>臺灣‧臺北</pubPlace>
+                    <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
+                    <date>2015-10-15</date>
+                    <biblScope type="vol">X68</biblScope>
+                    <idno type="Taisho">X68n1314</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><pb ed="X" id="X68.1314.0001a" n="0001a"/><lb
+ ed="X" n="0001a01"/><lb
+ ed="X" n="0001a02"/><lb
+ ed="X" n="0001a03"/><lb
+ ed="X" n="0001a04"/><lb
+ ed="R119" n="0194a01"/>
+<ab type='juan' subtype='open'>今刊古尊宿語錄目錄</ab><lb
+ ed="X" n="0001a05"/><lb
+ ed="R119" n="0194a02"/><lb
+ ed="X" n="0001a06"/><lb
+ ed="R119" n="0194a03"/><div type='' level='1'>第一卷<lb
+ ed="X" n="0001a07"/><lb
+ ed="R119" n="0194a04"/>序南嶽大慧行狀<lb
+ ed="X" n="0001a08"/><lb
+ ed="R119" n="0194a05"/>馬祖大寂行狀百丈懷海語錄<lb
+ ed="X" n="0001a09"/><lb
+ ed="R119" n="0194a06"/>第二卷<lb
+ ed="X" n="0001a10"/><lb
+ ed="R119" n="0194a07"/>百丈之餘黃檗斷際語錄<lb
+ ed="X" n="0001a11"/><lb
+ ed="R119" n="0194a08"/>第三卷<lb
+ ed="X" n="0001a12"/><lb
+ ed="R119" n="0194a09"/>黃檗斷際宛陵錄<lb
+ ed="X" n="0001a13"/><lb
+ ed="R119" n="0194a10"/>第四卷<lb
+ ed="X" n="0001a14"/><lb
+ ed="R119" n="0194a11"/>臨濟慧照語錄<lb
+ ed="X" n="0001a15"/><lb
+ ed="R119" n="0194a12"/>第五卷<lb
+ ed="X" n="0001a16"/><lb
+ ed="R119" n="0194a13"/>臨濟之餘興化語錄<lb
+ ed="X" n="0001a17"/><lb
+ ed="R119" n="0194a14"/>第六卷<lb
+ ed="X" n="0001a18"/><lb
+ ed="R119" n="0194a15"/>睦州語錄<lb
+ ed="X" n="0001a19"/><lb
+ ed="R119" n="0194a16"/>第七卷<lb
+ ed="X" n="0001a20"/><lb
+ ed="R119" n="0194a17"/>南院語要風穴語錄<lb
+ ed="X" n="0001a21"/><lb
+ ed="R119" n="0194a18"/>第八卷<lb
+ ed="X" n="0001a22"/><lb
+ ed="R119" n="0194b01"/>首山念語錄<lb
+ ed="X" n="0001a23"/><lb
+ ed="R119" n="0194b02"/>第九卷<lb
+ ed="X" n="0001a24"/><lb
+ ed="R119" n="0194b03"/>石門慈照鳳巖集<pb ed="X" id="X68.1314.0001b" n="0001b"/><lb
+ ed="X" n="0001b01"/><lb
+ ed="R119" n="0194b04"/>第十卷<lb
+ ed="X" n="0001b02"/><lb
+ ed="R119" n="0194b05"/>汾陽昭語錄承天嵩語錄<lb
+ ed="X" n="0001b03"/><lb
+ ed="R119" n="0194b06"/>第十一卷<lb
+ ed="X" n="0001b04"/><lb
+ ed="R119" n="0194b07"/>慈明語錄<lb
+ ed="X" n="0001b05"/><lb
+ ed="R119" n="0194b08"/>第十二卷<lb
+ ed="X" n="0001b06"/><lb
+ ed="R119" n="0194b09"/>南泉普願語要子湖山神力語錄<lb
+ ed="X" n="0001b07"/><lb
+ ed="R119" n="0194b10"/>第十三卷<lb
+ ed="X" n="0001b08"/><lb
+ ed="R119" n="0194b11"/>趙州真際語錄<lb
+ ed="X" n="0001b09"/><lb
+ ed="R119" n="0194b12"/>第十四卷<lb
+ ed="X" n="0001b10"/><lb
+ ed="R119" n="0194b13"/>趙州之餘<lb
+ ed="X" n="0001b11"/><lb
+ ed="R119" n="0194b14"/>第十五卷<lb
+ ed="X" n="0001b12"/><lb
+ ed="R119" n="0194b15"/>雲門匡真廣錄上<lb
+ ed="X" n="0001b13"/><lb
+ ed="R119" n="0194b16"/>第十六卷<lb
+ ed="X" n="0001b14"/><lb
+ ed="R119" n="0194b17"/>雲門廣錄中<lb
+ ed="X" n="0001b15"/><lb
+ ed="R119" n="0194b18"/>第十七卷<lb
+ ed="X" n="0001b16"/><lb
+ ed="R119" n="0195a01"/>雲門廣錄<lb
+ ed="X" n="0001b17"/><lb
+ ed="R119" n="0195a02"/>第十八卷<lb
+ ed="X" n="0001b18"/><lb
+ ed="R119" n="0195a03"/>雲門廣錄下<lb
+ ed="X" n="0001b19"/><lb
+ ed="R119" n="0195a04"/>第十九卷<lb
+ ed="X" n="0001b20"/><lb
+ ed="R119" n="0195a05"/>楊岐會語錄<lb
+ ed="X" n="0001b21"/><lb
+ ed="R119" n="0195a06"/>道吾真語要<lb
+ ed="X" n="0001b22"/><lb
+ ed="R119" n="0195a07"/>第二十卷<lb
+ ed="X" n="0001b23"/><lb
+ ed="R119" n="0195a08"/>海會演語錄<lb
+ ed="X" n="0001b24"/><lb
+ ed="R119" n="0195a09"/>第二十一卷<pb ed="X" id="X68.1314.0001c" n="0001c"/><lb
+ ed="X" n="0001c01"/><lb
+ ed="R119" n="0195a10"/>演和尚之餘<lb
+ ed="X" n="0001c02"/><lb
+ ed="R119" n="0195a11"/>第二十二卷<lb
+ ed="X" n="0001c03"/><lb
+ ed="R119" n="0195a12"/>演和尚之餘<lb
+ ed="X" n="0001c04"/><lb
+ ed="R119" n="0195a13"/>第二十三卷<lb
+ ed="X" n="0001c05"/><lb
+ ed="R119" n="0195a14"/>葉縣省語錄<lb
+ ed="X" n="0001c06"/><lb
+ ed="R119" n="0195a15"/>第二十四卷<lb
+ ed="X" n="0001c07"/><lb
+ ed="R119" n="0195a16"/>神鼎諲語錄<lb
+ ed="X" n="0001c08"/><lb
+ ed="R119" n="0195a17"/>第二十五卷<lb
+ ed="X" n="0001c09"/><lb
+ ed="R119" n="0195a18"/>大愚芝語錄<lb
+ ed="X" n="0001c10"/><lb
+ ed="R119" n="0195b01"/>第二十六卷<lb
+ ed="X" n="0001c11"/><lb
+ ed="R119" n="0195b02"/>法華舉語要<lb
+ ed="X" n="0001c12"/><lb
+ ed="R119" n="0195b03"/>第二十七卷　到三十四卷<lb
+ ed="X" n="0001c13"/><lb
+ ed="R119" n="0195b04"/>佛眼語錄<lb
+ ed="X" n="0001c14"/><lb
+ ed="R119" n="0195b05"/>第三十五卷<lb
+ ed="X" n="0001c15"/><lb
+ ed="R119" n="0195b06"/>大隨神照語錄<lb
+ ed="X" n="0001c16"/><lb
+ ed="R119" n="0195b07"/>第三十六卷<lb
+ ed="X" n="0001c17"/><lb
+ ed="R119" n="0195b08"/>投子語錄<lb
+ ed="X" n="0001c18"/><lb
+ ed="R119" n="0195b09"/>第三十七卷<lb
+ ed="X" n="0001c19"/><lb
+ ed="R119" n="0195b10"/>鼓山神晏法堂玄要廣集<lb
+ ed="X" n="0001c20"/><lb
+ ed="R119" n="0195b11"/>第三十八卷<lb
+ ed="X" n="0001c21"/><lb
+ ed="R119" n="0195b12"/>洞山初語錄<lb
+ ed="X" n="0001c22"/><lb
+ ed="R119" n="0195b13"/>第三十九卷<lb
+ ed="X" n="0001c23"/><lb
+ ed="R119" n="0195b14"/>智門祚語錄<lb
+ ed="X" n="0001c24"/><lb
+ ed="R119" n="0195b15"/>第四十卷　到四十一卷<pb ed="X" id="X68.1314.0002a" n="0002a"/><lb
+ ed="X" n="0002a01"/><lb
+ ed="R119" n="0195b16"/>雲峯悅語錄<lb
+ ed="X" n="0002a02"/><lb
+ ed="R119" n="0195b17"/>第四十二卷　到四十五卷<lb
+ ed="X" n="0002a03"/><lb
+ ed="R119" n="0195b18"/>真淨語錄<lb
+ ed="X" n="0002a04"/><lb
+ ed="R119" n="0196a01"/>第四十六卷<lb
+ ed="X" n="0002a05"/><lb
+ ed="R119" n="0196a02"/>瑯琊覺語錄<lb
+ ed="X" n="0002a06"/><lb
+ ed="R119" n="0196a03"/>第四十七卷<lb
+ ed="X" n="0002a07"/><lb
+ ed="R119" n="0196a04"/>東林雲門頌古<lb
+ ed="X" n="0002a08"/><lb
+ ed="R119" n="0196a05"/>第四十八卷<lb
+ ed="X" n="0002a09"/><lb
+ ed="R119" n="0196a06"/>佛照奏對錄<lb
+ ed="X" n="0002a10"/><lb
+ ed="R119" n="0196a07"/><ab type='prose'>新刊增鼓山本撰二十家者。一十六家。總三十六家。<lb
+ ed="X" n="0002a11"/><lb
+ ed="R119" n="0196a08"/>又新刊逸白雲端錄。<lb
+ ed="X" n="0002a12"/><lb
+ ed="R119" n="0196a09"/>又正燈錄。楊岐錄所引。古尊宿錄語。此本及續刊楊岐錄不載。然則東陽所覽。又別<lb
+ ed="X" n="0002a14"/><lb
+ ed="R119" n="0196a11"/>刊也。</ab></div>
+<ab type='juan' subtype='close'></ab>
+</body></text></TEI>
