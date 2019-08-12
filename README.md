@@ -1,3 +1,7 @@
+Since 2019.08.12, The data in this repository has been migrated to [DILA-edu/CBETA_TAFxml](https://github.com/DILA-edu/CBETA_TAFxml).
+
+We will stop updating this repository from now. Please visit our new repository for the latest version of CBETA TAFxml.
+
 CBETA_TAFxml
 ============
 
